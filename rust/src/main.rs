@@ -3,6 +3,8 @@ use serde::Deserialize;
 use thiserror::Error;
 use tracing::{event, instrument, Level};
 
+const API_URL: &str = "https://api.smash.gg/gql/alpha";
+
 #[derive(Error, Debug, Diagnostic)]
 #[allow(dead_code)]
 enum Error {
@@ -34,7 +36,7 @@ fn load_config() -> Result<Config> {
 
 #[instrument]
 fn query_api(token: &str, query: &str) -> Result<ureq::Response> {
-    let response = ureq::post("https://api.smash.gg/gql/alpha")
+    let response = ureq::post(API_URL)
         .set("Authorization", format!("Bearer {token}").as_str())
         .send_json(ureq::json!({
             // skipping operationName + variables
