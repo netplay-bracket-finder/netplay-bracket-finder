@@ -1,15 +1,16 @@
 use miette::{self, Diagnostic};
 use serde::Deserialize;
-use std::io;
 use thiserror::Error;
-use tracing::{event, info_span, Level};
+use tracing::{event, instrument, Level};
 
 #[derive(Error, Debug, Diagnostic)]
+#[allow(dead_code)]
 enum Error {
-    // define an error for missing variables that inherits the error type
-    // of the envy crate, and then also display it
     #[error("failed to load environment variable: {0:?}")]
     MissingVariables(envy::Error),
+
+    #[error("request to API failed: {0:?}")]
+    RequestFailed(ureq::Error),
 
     #[error("unknown error")]
     Unknown,
@@ -20,39 +21,46 @@ struct Config {
     graphql_api_token: String,
 }
 
-fn main() -> miette::Result<()> {
-    tracing_subscriber::fmt::init();
-
-    // TODO: load graphql API token
-    let config = match envy::from_env::<Config>() {
-        Ok(config) => config,
+#[instrument]
+fn load_config() -> miette::Result<Config> {
+    match envy::from_env::<Config>() {
+        Ok(config) => {
+            event!(Level::INFO, "got config");
+            Ok(config)
+        }
         Err(e) => Err(Error::MissingVariables(e))?,
-    };
+    }
+}
 
-    let query = include_str!("query.graphql");
-
-    let token = config.graphql_api_token;
-    let resp = ureq::post("https://api.smash.gg/gql/alpha")
+#[instrument]
+fn query_api(token: &str, query: &str) -> miette::Result<ureq::Response> {
+    let response = ureq::post("https://api.smash.gg/gql/alpha")
         .set("Authorization", format!("Bearer {token}").as_str())
         .send_json(ureq::json!({
             // skipping operationName + variables
             "query": query,
-        }))
-        .expect("failed to fetch");
+        }));
 
-    dbg!(resp.into_string());
+    event!(Level::INFO, ?response);
+
+    match response {
+        Ok(response) => Ok(response),
+        Err(e) => Err(Error::RequestFailed(e))?,
+    }
+}
+
+fn main() -> miette::Result<()> {
+    tracing_subscriber::fmt::init();
+
+    let config = load_config()?;
+    let query = include_str!("query.graphql");
+    let _response = query_api(&config.graphql_api_token, query);
 
     // TODO: parse JSON
     // TODO: download images
     // TODO: record tournament info to database
     // TODO: output JSON for elm
     // TODO: upload JSON to google compute bucket
-
-    println!("hello world");
-
-    info_span!("init").in_scope(|| {
-        event!(Level::INFO, greeting = "hello world");
-    });
 
     Ok(())
 }
