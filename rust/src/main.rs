@@ -53,8 +53,7 @@ fn main() -> Result<()> {
     tracing_subscriber::fmt::init();
 
     let config = load_config()?;
-    let query = include_str!("query.graphql");
-    let _response = query_api(&config.graphql_api_token, query);
+    let _response = query_api(&config.graphql_api_token, include_str!("query.graphql"));
 
     // TODO: parse JSON
     // TODO: download images
