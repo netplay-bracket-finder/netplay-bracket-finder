@@ -1,4 +1,4 @@
-use miette::{self, Diagnostic};
+use miette::{self, Diagnostic, Result};
 use serde::Deserialize;
 use thiserror::Error;
 use tracing::{event, instrument, Level};
@@ -22,7 +22,7 @@ struct Config {
 }
 
 #[instrument]
-fn load_config() -> miette::Result<Config> {
+fn load_config() -> Result<Config> {
     match envy::from_env::<Config>() {
         Ok(config) => {
             event!(Level::INFO, "got config");
@@ -33,7 +33,7 @@ fn load_config() -> miette::Result<Config> {
 }
 
 #[instrument]
-fn query_api(token: &str, query: &str) -> miette::Result<ureq::Response> {
+fn query_api(token: &str, query: &str) -> Result<ureq::Response> {
     let response = ureq::post("https://api.smash.gg/gql/alpha")
         .set("Authorization", format!("Bearer {token}").as_str())
         .send_json(ureq::json!({
@@ -49,7 +49,7 @@ fn query_api(token: &str, query: &str) -> miette::Result<ureq::Response> {
     }
 }
 
-fn main() -> miette::Result<()> {
+fn main() -> Result<()> {
     tracing_subscriber::fmt::init();
 
     let config = load_config()?;
