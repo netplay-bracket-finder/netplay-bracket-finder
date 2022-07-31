@@ -1,0 +1,26 @@
+query UpcomingMeleeTournaments {
+  tournaments(query: {
+    perPage: 100
+    page: 1
+    sortBy: "startAt asc"
+    filter: {
+      hasOnlineEvents: true
+      regOpen: true
+      upcoming: true
+      videogameIds: [ 1 ] # 1 = melee
+    }
+  }) {
+    nodes {
+      name
+      slug
+      images { url }
+      events {
+        startAt
+        name
+        slug
+        numEntrants
+        images { url }
+      }
+    }
+  }
+}
