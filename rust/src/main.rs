@@ -87,7 +87,7 @@ fn load_config() -> Result<Config> {
     }
 }
 
-#[instrument]
+#[instrument(skip_all)]
 fn query_api(token: &str, query: &str) -> Result<ureq::Response> {
     let response = ureq::post(API_URL)
         .set("Authorization", format!("Bearer {token}").as_str())
@@ -96,7 +96,6 @@ fn query_api(token: &str, query: &str) -> Result<ureq::Response> {
             "query": query,
         }));
 
-    // TODO: do not output token
     event!(Level::INFO, ?response);
 
     match response {
