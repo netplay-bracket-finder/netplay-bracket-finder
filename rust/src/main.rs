@@ -163,7 +163,7 @@ fn main() -> Result<()> {
         dbg!(&tournament.slug);
         let path = Path::new(&tournament.slug);
 
-        download_images(&tournament.images, path);
+        download_images(&tournament.images, path).expect("failed to download images");
     }
 
     // TODO: record tournament info to database
