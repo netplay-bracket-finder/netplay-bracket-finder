@@ -1,5 +1,6 @@
-use miette::{self, Diagnostic, Result};
+use miette::{Diagnostic, Result};
 use serde::Deserialize;
+use std::path::Path;
 use thiserror::Error;
 use tracing::{event, instrument, Level};
 
@@ -63,6 +64,7 @@ pub mod api {
     #[serde(rename_all = "camelCase")]
     pub struct Image {
         pub url: String,
+        pub id: String,
     }
 
     #[derive(Default, Debug, Clone, Serialize, Deserialize)]
@@ -104,6 +106,45 @@ fn query_api(token: &str, query: &str) -> Result<ureq::Response> {
     }
 }
 
+/// Download an image to a specific path.
+/// TODO: break out image filename into separate function
+/// TODO: check image.id and see if it is already is downloaded
+/// TODO: only download images that don't already exist
+fn download_images<P: AsRef<Path>>(images: &Vec<api::Image>, path: P) -> Result<()> {
+    // create image directory
+    let image_directory = path.as_ref();
+    std::fs::create_dir_all(image_directory).expect("failed to create directory");
+
+    for image in images {
+        let response = match ureq::get(&image.url).call() {
+            Ok(response) => response,
+            Err(e) => Err(Error::RequestFailed(e))?,
+        };
+
+        let image_filename = image_directory.join(&image.id);
+
+        let destination = match response.content_type() {
+            "image/jpeg" => image_filename.with_extension("jpg"),
+            "image/png" => image_filename.with_extension("jpg"),
+            e => panic!("{}", e),
+        };
+
+        dbg!(&destination);
+
+        // download image
+        let mut bytes: Vec<u8> = Vec::new();
+        response
+            .into_reader()
+            .read_to_end(&mut bytes)
+            .expect("failed to read");
+
+        // write image to file
+        std::fs::write(destination, &bytes).expect("failed to write image");
+    }
+
+    Ok(())
+}
+
 fn main() -> Result<()> {
     tracing_subscriber::fmt::init();
 
@@ -118,17 +159,13 @@ fn main() -> Result<()> {
         Err(e) => Err(Error::ParseFailed(e))?,
     };
 
-    let images: Vec<api::Image> = tournaments
-        .data
-        .tournaments
-        .nodes
-        .iter()
-        .flat_map(|node| node.images.clone())
-        .collect();
+    for tournament in tournaments.data.tournaments.nodes {
+        dbg!(&tournament.slug);
+        let path = Path::new(&tournament.slug);
 
-    dbg!(images);
+        download_images(&tournament.images, path);
+    }
 
-    // TODO: download images
     // TODO: record tournament info to database
     // TODO: output JSON for elm
     // TODO: upload JSON to google compute bucket

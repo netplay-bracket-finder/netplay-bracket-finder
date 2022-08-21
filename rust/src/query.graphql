@@ -13,7 +13,7 @@ query UpcomingMeleeTournaments {
     nodes {
       name
       slug
-      images { url }
+      images { url id }
       events {
         startAt
         name
