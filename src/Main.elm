@@ -34,7 +34,7 @@ init : () -> ( Model, Cmd Msg )
 init _ =
     ( Loading
     , Http.get
-        { url = "https://gist.githubusercontent.com/djanatyn/975e4473a487fe73d6931c2b5beb5bfc/raw/dea96f730630ab756027d9d4095a5c0eff6e9cd7/upcoming_events.json"
+        { url = "https://gist.githubusercontent.com/djanatyn/975e4473a487fe73d6931c2b5beb5bfc/raw/3b58953e51a62edde77dbf8ea8d0ae96721b478c/upcoming_events.json"
         , expect = Http.expectJson Loaded (D.list eventDecoder)
         }
     )

@@ -158,7 +158,7 @@ fn download_images<P: AsRef<Path>>(images: &Vec<api::Image>, path: P) -> Result<
 
 /// Convert API JSON to Elm JSON.
 fn smashgg_to_elm_json(node: &api::Node) -> impl Iterator<Item = TournamentEvent> + '_ {
-    let image = node.images.first().expect("no image found");
+    let image = node.images.last().expect("no image found");
 
     node.events.iter().map(|event| TournamentEvent {
         slug: event.slug.clone(),
