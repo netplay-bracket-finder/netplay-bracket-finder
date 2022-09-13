@@ -1,5 +1,5 @@
 use miette::{Diagnostic, Result};
-use serde::Deserialize;
+use serde::{Deserialize, Serialize};
 use std::path::Path;
 use thiserror::Error;
 use tracing::{event, instrument, Level};
@@ -78,6 +78,17 @@ pub mod api {
     }
 }
 
+#[derive(Debug, Serialize)]
+pub struct TournamentEvent {
+    pub slug: String,
+    pub tournament_name: String,
+    pub event_name: String,
+    pub image: String,
+    pub entrants: Option<i64>,
+    #[serde(alias = "startTime")]
+    pub start_time: i64,
+}
+
 #[instrument]
 fn load_config() -> Result<Config> {
     match envy::from_env::<Config>() {
@@ -145,8 +156,22 @@ fn download_images<P: AsRef<Path>>(images: &Vec<api::Image>, path: P) -> Result<
     Ok(())
 }
 
+/// Convert API JSON to Elm JSON.
+fn smashgg_to_elm_json(node: &api::Node) -> impl Iterator<Item = TournamentEvent> + '_ {
+    let image = node.images.first().expect("no image found");
+
+    node.events.iter().map(|event| TournamentEvent {
+        slug: event.slug.clone(),
+        tournament_name: node.name.clone(),
+        event_name: event.name.clone(),
+        image: image.url.clone(),
+        entrants: event.num_entrants,
+        start_time: event.start_at,
+    })
+}
+
 fn main() -> Result<()> {
-    tracing_subscriber::fmt::init();
+    // tracing_subscriber::fmt::init();
 
     let config = load_config()?;
 
@@ -159,16 +184,23 @@ fn main() -> Result<()> {
         Err(e) => Err(Error::ParseFailed(e))?,
     };
 
-    for tournament in tournaments.data.tournaments.nodes {
-        dbg!(&tournament.slug);
-        let path = Path::new(&tournament.slug);
+    // for tournament in tournaments.data.tournaments.nodes {
+    //     dbg!(&tournament.slug);
+    //     let path = Path::new(&tournament.slug);
 
-        download_images(&tournament.images, path).expect("failed to download images");
-    }
+    //     download_images(&tournament.images, path).expect("failed to download images");
+    // }
 
-    // TODO: record tournament info to database
-    // TODO: output JSON for elm
-    // TODO: upload JSON to google compute bucket
+    let events: Vec<TournamentEvent> = tournaments
+        .data
+        .tournaments
+        .nodes
+        .iter()
+        .flat_map(smashgg_to_elm_json)
+        .collect();
+
+    let json = serde_json::to_string_pretty(&events).expect("failed to convert");
+    println!("{json}");
 
     Ok(())
 }
