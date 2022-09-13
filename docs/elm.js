@@ -6157,7 +6157,7 @@ var $author$project$Main$init = function (_v0) {
 					$elm$http$Http$expectJson,
 					$elm$core$Basics$identity,
 					$elm$json$Json$Decode$list($author$project$Main$eventDecoder)),
-				aV: 'https://gist.githubusercontent.com/djanatyn/975e4473a487fe73d6931c2b5beb5bfc/raw/3b58953e51a62edde77dbf8ea8d0ae96721b478c/upcoming_events.json'
+				aV: 'https://netplay-bracket-finder.github.io/netplay-bracket-finder/events.json'
 			}));
 };
 var $elm$core$Platform$Sub$batch = _Platform_batch;
