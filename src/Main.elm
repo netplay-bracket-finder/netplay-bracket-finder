@@ -85,18 +85,21 @@ toUtcString time =
         ++ String.fromInt (toSecond utc time)
         ++ " (UTC)"
 
-
+-- http://tachyons.io/components/collections/square-title-subtitle/index.html
 tournamentDiv : TournamentEvent -> Html Msg
 tournamentDiv event =
-    div [ class "fl w-50 w-25-m w-20-l pa2" ]
-        [ img [ src event.image, class "db link dim tc" ] []
-        , dl [ class "m52 f6 lh-copy" ]
-            [ dd [ class "ml0 black truncate w-100" ] [ text event.event_name ]
-            , dd [ class "m10 gray truncate w-100" ] [ text (String.fromInt (withDefault 0 event.entrants)) ]
-            , dd [ class "ml0 gray truncate w-100" ] [ text (toUtcString (Time.millisToPosix event.start_time)) ]
+    article [ class "fl w-100 w-50-m w-25-ns pa2-ns" ]
+        [ div [ class "aspect-ratio aspect-ratio--1x1" ]
+            [ img [ style "background-image" (String.concat [ "url(", event.image, ")" ])
+                  , class "db bg-center cover aspect-ratio--object" ] []
+            ]
+        , a [ class "ph2 ph0-ns pb3 link db"
+            , href (String.concat [ "https://start.gg/", event.slug ])]
+            [ h3 [ class "f5 f4-ns mb0 black-90" ] [ text event.event_name ]
+            , h3 [ class "f6 f5 fw4 mt2 black-60" ] [ text (String.fromInt (withDefault 0 event.entrants)) ]
+            , h3 [ class "f6 f5 fw4 mt2 black-60" ] [ text (toUtcString (Time.millisToPosix event.start_time)) ]
             ]
         ]
-
 
 doc : Model -> List (Html Msg)
 doc model =
@@ -113,7 +116,7 @@ doc model =
                     [ h2 [ class "f3 fw4 pa3 mv0" ] [ text "Upcoming Melee Netplay Tournaments" ]
                     , h3 [ class "f5 fw4 pa3 mv0" ] [ text "Last Updated <TODO: UPDATE>" ]
                     ]
-                , div [ class "cf pa2" ] (List.map tournamentDiv events)
+                , section [ class "cf w-100 pa2-ns" ] (List.map tournamentDiv events)
                 ]
             ]
 
