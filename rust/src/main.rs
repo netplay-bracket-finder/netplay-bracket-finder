@@ -117,45 +117,6 @@ fn query_api(token: &str, query: &str) -> Result<ureq::Response> {
     }
 }
 
-/// Download an image to a specific path.
-/// TODO: break out image filename into separate function
-/// TODO: check image.id and see if it is already is downloaded
-/// TODO: only download images that don't already exist
-fn download_images<P: AsRef<Path>>(images: &Vec<api::Image>, path: P) -> Result<()> {
-    // create image directory
-    let image_directory = path.as_ref();
-    std::fs::create_dir_all(image_directory).expect("failed to create directory");
-
-    for image in images {
-        let response = match ureq::get(&image.url).call() {
-            Ok(response) => response,
-            Err(e) => Err(Error::RequestFailed(e))?,
-        };
-
-        let image_filename = image_directory.join(&image.id);
-
-        let destination = match response.content_type() {
-            "image/jpeg" => image_filename.with_extension("jpg"),
-            "image/png" => image_filename.with_extension("jpg"),
-            e => panic!("{}", e),
-        };
-
-        dbg!(&destination);
-
-        // download image
-        let mut bytes: Vec<u8> = Vec::new();
-        response
-            .into_reader()
-            .read_to_end(&mut bytes)
-            .expect("failed to read");
-
-        // write image to file
-        std::fs::write(destination, &bytes).expect("failed to write image");
-    }
-
-    Ok(())
-}
-
 /// Convert API JSON to Elm JSON.
 fn smashgg_to_elm_json(node: &api::Node) -> impl Iterator<Item = TournamentEvent> + '_ {
     let image = node.images.last().expect("no image found");
@@ -183,13 +144,6 @@ fn main() -> Result<()> {
         Ok(root) => root,
         Err(e) => Err(Error::ParseFailed(e))?,
     };
-
-    // for tournament in tournaments.data.tournaments.nodes {
-    //     dbg!(&tournament.slug);
-    //     let path = Path::new(&tournament.slug);
-
-    //     download_images(&tournament.images, path).expect("failed to download images");
-    // }
 
     let events: Vec<TournamentEvent> = tournaments
         .data
