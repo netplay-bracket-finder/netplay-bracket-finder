@@ -119,13 +119,14 @@ fn query_api(token: &str, query: &str) -> Result<ureq::Response> {
 
 /// Convert API JSON to Elm JSON.
 fn smashgg_to_elm_json(node: &api::Node) -> impl Iterator<Item = TournamentEvent> + '_ {
-    let image = node.images.last().expect("no image found");
-
     node.events.iter().map(|event| TournamentEvent {
         slug: event.slug.clone(),
         tournament_name: node.name.clone(),
         event_name: event.name.clone(),
-        image: image.url.clone(),
+        image: match node.images.last() {
+            Some(image) => image.url.clone(),
+            None => "".to_string(),
+        },
         entrants: event.num_entrants,
         start_time: event.start_at,
     })
