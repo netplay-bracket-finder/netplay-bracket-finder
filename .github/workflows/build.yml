@@ -1,3 +1,5 @@
+---
+# adapted from https://github.com/marketplace/actions/install-nix#usage
 name: "build package"
 on:
   pull_request:
