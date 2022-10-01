@@ -19,15 +19,14 @@
          }
         </style>
         <script type="text/javascript">
-        $(document).ready(function () {
+        $(document).ready(() => {
             $('#tournaments').DataTable({
                 ajax: {
                     url: "https://netplay-bracket-finder.github.io/netplay-bracket-finder/events.json",
                     dataSrc: ""
                 },
                 // data: dataSet,
-                rowCallback: function( row, data ) {
-                    console.log(data.image);
+                rowCallback: ( row, data ) => {
                     $(row).css({
                         "background-image": `linear-gradient(to right, rgba(255,255,255, 0.97) 0 100%), url('${data.image}')`,
                     });
@@ -35,13 +34,13 @@
                 columns: [
                     { data: 'tournament_name',
                       title: 'tournament',
-                      render: function (data, datatype, row) {
+                      render: (data, datatype, row) => {
                           return `<a href="https://start.gg/${row.slug}" >${data}</a>`;
                       }
                     },
                     { data: 'event_name',
                       title: 'event',
-                      render: function (data, datatype, row) {
+                      render: (data, datatype, row) => {
                           return `<a href="https://start.gg/${row.slug}" >${data}</a></div>`;
                       }
                     },
