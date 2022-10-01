@@ -1,12 +1,62 @@
-<!DOCTYPE HTML>
+<!doctype html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <script src="elm.js"></script>
-  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <script>var app = Elm.Main.init();</script>
-</body>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>upcoming melee</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+        <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-3.6.0/dt-1.12.1/datatables.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.12.1/datatables.min.css"/>
+        <style>
+         tr {
+             position: relative;
+             background-origin: border-box;
+             background-size: cover;
+             background-repeat: repeat;
+             background-position: center center;
+         }
+        </style>
+        <script type="text/javascript">
+        $(document).ready(function () {
+            $('#tournaments').DataTable({
+                ajax: {
+                    url: "https://netplay-bracket-finder.github.io/netplay-bracket-finder/events.json",
+                    dataSrc: ""
+                },
+                // data: dataSet,
+                rowCallback: function( row, data ) {
+                    console.log(data.image);
+                    $(row).css({
+                        "background-image": `linear-gradient(to right, rgba(255,255,255, 0.97) 0 100%), url('${data.image}')`,
+                    });
+                },
+                columns: [
+                    { data: 'tournament_name',
+                      title: 'tournament',
+                      render: function (data, datatype, row) {
+                          return `<a href="https://start.gg/${row.slug}" >${data}</a>`;
+                      }
+                    },
+                    { data: 'event_name',
+                      title: 'event',
+                      render: function (data, datatype, row) {
+                          return `<a href="https://start.gg/${row.slug}" >${data}</a></div>`;
+                      }
+                    },
+                    { data: 'entrants', title: 'entrants' },
+                    { data: 'start_time', title: 'start time' },
+                ],
+            });
+        });
+        </script>
+    </head>
+    <body>
+        <div class="container">
+            <section class="section">
+                <table id="tournaments" class="display"></table>
+            </section>
+        </div>
+    </body>
 </html>
