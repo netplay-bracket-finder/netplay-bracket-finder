@@ -45,7 +45,17 @@
                       }
                     },
                     { data: 'entrants', title: 'entrants' },
-                    { data: 'start_time', title: 'start time' },
+                    { data: 'start_time',
+                      title: 'start time',
+                      render: (data, datatype) => {
+                          let start = new Date(data * 1000);
+                          let options = {
+                              year: 'numeric', month: 'numeric', day: 'numeric',
+                              hour: 'numeric', minute: 'numeric', second: 'numeric',
+                          };
+                          return (new Intl.DateTimeFormat('en-US', options).format(start));
+                      }
+                    },
                 ],
             });
         });
