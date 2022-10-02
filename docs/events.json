@@ -1,26 +1,10 @@
 [
   {
-    "slug": "tournament/moky-s-dojo-12/event/moky-s-dojo-12-singles",
-    "tournament_name": "Moky's Dojo #12",
-    "event_name": "Moky's Dojo #12 - Singles",
-    "image": "https://images.start.gg/images/tournament/483954/image-c6fd6743fd375cb4c0f1ad468b8db3ce.png?ehk=gYsFlDNnqcvA4u6dmmP%2FkytN%2FMHm2EROGhrBmsnN0Ss%3D&ehkOptimized=2Ce4WnyoFIENjtMsuJRyTN33DOFrzJhWYIepii3oVu4%3D",
-    "entrants": 47,
-    "start_time": 1664737200
-  },
-  {
-    "slug": "tournament/moky-s-dojo-12/event/moky-s-dojo-12-amateur-ladder",
-    "tournament_name": "Moky's Dojo #12",
-    "event_name": "Moky's Dojo #12 - Amateur Ladder",
-    "image": "https://images.start.gg/images/tournament/483954/image-c6fd6743fd375cb4c0f1ad468b8db3ce.png?ehk=gYsFlDNnqcvA4u6dmmP%2FkytN%2FMHm2EROGhrBmsnN0Ss%3D&ehkOptimized=2Ce4WnyoFIENjtMsuJRyTN33DOFrzJhWYIepii3oVu4%3D",
-    "entrants": 21,
-    "start_time": 1664742600
-  },
-  {
     "slug": "tournament/kalvar-cup-64/event/melee-singles",
     "tournament_name": "Kalvar Cup #64",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484799/image-6b0ab1290e6640e1541805fa14fbc4d5.png?ehk=iLrHyMMtGfA1kACRDCGBIGwxYwEyK2pEsTNF2n01Ycs%3D&ehkOptimized=022eSecreqdw07WJ09LxBbK25Ry1N8%2FBoH6PP7lNvPs%3D",
-    "entrants": 10,
+    "entrants": 11,
     "start_time": 1664749800
   },
   {
@@ -36,7 +20,7 @@
     "tournament_name": "Slippin' Melee",
     "event_name": "Slippi Singles",
     "image": "https://images.start.gg/images/tournament/481054/image-e0d791044284d0feae8c4fba1462dc2f.png?ehk=PQqYLp83aFQjyG6NUszX3j9IC%2B%2B2acYGjNmBFVXTmVg%3D&ehkOptimized=SJfOkjCcGfvJUQcKVUBcFxI0ZqiAcRjXXJ3wpNu6%2BbY%3D",
-    "entrants": 15,
+    "entrants": 16,
     "start_time": 1664755200
   },
   {
@@ -44,7 +28,7 @@
     "tournament_name": "SCSS West Coast #78",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484348/image-1608f75f04703008de4b04a6be66763f.png?ehk=HvNK4bx42NomLLqk6%2Bsj8k%2FfBhQFwwvZzstIV%2B5DpB0%3D&ehkOptimized=D8wJFFrkFM4lmUYC2MY5Yypvnc%2BJyFf1cyr8UB074wY%3D",
-    "entrants": 3,
+    "entrants": 5,
     "start_time": 1664757000
   },
   {
@@ -164,7 +148,7 @@
     "tournament_name": "Only Noobs 87",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-    "entrants": 8,
+    "entrants": 9,
     "start_time": 1665097200
   },
   {
