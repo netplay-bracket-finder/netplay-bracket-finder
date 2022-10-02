@@ -14,7 +14,7 @@ query UpcomingMeleeTournaments {
       name
       slug
       images { url id }
-      events {
+      events(filter:{ videogameId: [ 1 ] }) {
         startAt
         name
         slug
