@@ -1,26 +1,10 @@
 [
   {
-    "slug": "tournament/ai-v-2/event/chess",
-    "tournament_name": "AI v.2",
-    "event_name": "Chess",
-    "image": "https://images.start.gg/images/tournament/480304/image-ff21554915c89590cd3bf724b70414be.png?ehk=eJWmr7xm8Zt%2BfeXAHZvBbGaPPkwMTV3ZMXt4vkvp7Ew%3D&ehkOptimized=FeyiPJtu2G22iz1gxE6IWAQekxwjSsrCSexHynAq1jw%3D",
-    "entrants": 0,
-    "start_time": 1664737200
-  },
-  {
-    "slug": "tournament/ai-v-2/event/melee-singles",
-    "tournament_name": "AI v.2",
-    "event_name": "Melee Singles",
-    "image": "https://images.start.gg/images/tournament/480304/image-ff21554915c89590cd3bf724b70414be.png?ehk=eJWmr7xm8Zt%2BfeXAHZvBbGaPPkwMTV3ZMXt4vkvp7Ew%3D&ehkOptimized=FeyiPJtu2G22iz1gxE6IWAQekxwjSsrCSexHynAq1jw%3D",
-    "entrants": 0,
-    "start_time": 1664737200
-  },
-  {
     "slug": "tournament/moky-s-dojo-12/event/moky-s-dojo-12-singles",
     "tournament_name": "Moky's Dojo #12",
     "event_name": "Moky's Dojo #12 - Singles",
     "image": "https://images.start.gg/images/tournament/483954/image-c6fd6743fd375cb4c0f1ad468b8db3ce.png?ehk=gYsFlDNnqcvA4u6dmmP%2FkytN%2FMHm2EROGhrBmsnN0Ss%3D&ehkOptimized=2Ce4WnyoFIENjtMsuJRyTN33DOFrzJhWYIepii3oVu4%3D",
-    "entrants": 41,
+    "entrants": 46,
     "start_time": 1664737200
   },
   {
@@ -36,7 +20,7 @@
     "tournament_name": "Kalvar Cup #64",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484799/image-6b0ab1290e6640e1541805fa14fbc4d5.png?ehk=iLrHyMMtGfA1kACRDCGBIGwxYwEyK2pEsTNF2n01Ycs%3D&ehkOptimized=022eSecreqdw07WJ09LxBbK25Ry1N8%2FBoH6PP7lNvPs%3D",
-    "entrants": 6,
+    "entrants": 8,
     "start_time": 1664749800
   },
   {
@@ -44,7 +28,7 @@
     "tournament_name": "SCSS East Coast #89",
     "event_name": "SCSS Singles",
     "image": "https://images.start.gg/images/tournament/483253/image-f90296d21bd4fdbfbed495280bc72d1c.png?ehk=CKWZE9MDxLRx%2BYdQiDQAgBLkqptl5shTJhxySklU0os%3D&ehkOptimized=uepI%2BIR0355Sw9YprkV%2BGT672HY96FVtckzh%2F5AOLFE%3D",
-    "entrants": 5,
+    "entrants": 6,
     "start_time": 1664753400
   },
   {
@@ -124,7 +108,7 @@
     "tournament_name": "Melee Poetry Society",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484426/image-cb808910a4d171b08b715661f52073bd.png?ehk=ql%2BULgnCIApvyKy4gUX0eaSBeENwibo1N%2F2o8uDN0b0%3D&ehkOptimized=MB0ZVt0u8nntYR2iUThwg%2FRsh2B43AE3TnhOkBrkNF0%3D",
-    "entrants": 0,
+    "entrants": 1,
     "start_time": 1664841600
   },
   {
