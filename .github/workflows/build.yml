@@ -7,12 +7,12 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    environment: smash.gg api
     steps:
     - uses: actions/checkout@v2.4.0
     - uses: cachix/install-nix-action@v15
       with:
         nix_path: nixpkgs=channel:nixos-unstable
     - run: cd rust && nix-shell -p rustc cargo --run "cargo run"
-      environment: smash.gg api
       env:
         GRAPHQL_API_TOKEN: ${{ secrets.GRAPHQL_API_TOKEN }}
