@@ -1,6 +1,6 @@
 ---
 on:
-  workflow_call:
+  workflow_dispatch:
     inputs:
       tag:
         description: 'tag for release'
