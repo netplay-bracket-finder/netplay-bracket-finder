@@ -7,7 +7,6 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    environment: smash.gg api
     steps:
     - uses: actions/checkout@v2.4.0
     - uses: cachix/install-nix-action@v15
