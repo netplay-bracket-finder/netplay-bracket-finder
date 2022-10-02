@@ -30,4 +30,3 @@ so, the site is regularly updated!
 # todo
 
 * investigate why ultimate tournaments are pulled in
-* default to sorting by start time (not alphabetical)

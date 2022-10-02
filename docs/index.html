@@ -25,7 +25,7 @@
                     url: "/events.json",
                     dataSrc: ""
                 },
-                // data: dataSet,
+                order: [[3, 'asc']], # show tournaments starting soon, first
                 rowCallback: ( row, data ) => {
                     $(row).css({
                         "background-image": `linear-gradient(to right, rgba(255,255,255, 0.97) 0 100%), url('${data.image}')`,
