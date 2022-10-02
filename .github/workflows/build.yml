@@ -17,7 +17,7 @@ jobs:
         cd rust
         nix-shell -p rustc cargo --run "cargo build --release"
     - name: upload artifact
-      uses: actions/upload-artifact@0jcj67b8bdphaagjd742am0551r3svn4dfkhanwzvxww5wgwpf5l # v3
+      uses: actions/upload-artifact@3cea5372237819ed00197afe530f5a7ea3e805c8 # v3
       with:
         name: netplay-bracket-finder-x86_64-linux
         path: rust/target/release/netplay-bracket-finder
