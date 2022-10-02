@@ -1,0 +1,35 @@
+---
+on:
+  workflow_call:
+    inputs:
+      tag:
+        description: 'tag for release'
+        required: true
+        type: string
+      id:
+        description: 'id of build'
+        required: true
+        type: string
+jobs:
+  create-release:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # v3.0.2
+    - name: create release
+      run: |
+        # find commit of workflow build
+        SHA="$(gh run view ${ID} --json headSha -q '.headSha')"
+        if [[ -z $SHA ]]; then exit 1; fi
+
+        # download artifact from workflow build
+        gh run download "${ID}" -p 'netplay-bracket-finder-x86_64-linux'
+
+        # create and push tag for commit
+        git tag "${TAG}" "${SHA}" && git push --tags
+
+        # create release with tag + artifact
+        gh release create "${TAG}" "${TAG}" \
+          './netplay-bracket-finder-x86_64-linux/netplay-bracket-finder#x86_64-linux'
+      env:
+        GRAPHQL_API_TOKEN: ${{ secrets.GRAPHQL_API_TOKEN }}
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
