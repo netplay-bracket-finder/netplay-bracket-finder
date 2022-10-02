@@ -4,23 +4,15 @@
     "tournament_name": "Do You Still Serve Breakfast? 3",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484414/image-d355ca0dd2a3ea709afcf1e0f3286ac8.png?ehk=L0op1CH3xdnW7SEHOa%2BMipDSLsHCx8gmCFNLSxpH4uA%3D&ehkOptimized=SwZx6y9kh2MTlEiErJG7d%2BElgXj9Vtp8t3vEoEHYV%2BM%3D",
-    "entrants": 12,
+    "entrants": 14,
     "start_time": 1664726400
-  },
-  {
-    "slug": "tournament/dorime-s-dojo-2-1/event/melee-singles",
-    "tournament_name": "Dorime's Dojo #2",
-    "event_name": "Melee Singles",
-    "image": "https://images.start.gg/images/tournament/483992/image-bcd4e6d2bb062b930093ea5a8395177a.png?ehk=l9tJh3dSb%2B7LFRS8fYCBrY%2FS4%2FQAJp6RR5eGJ9ikOIE%3D&ehkOptimized=nmAheksr4%2FPNuLBKYjhPPNeV4vorEhXCwkNQgrdAmZQ%3D",
-    "entrants": 13,
-    "start_time": 1664729940
   },
   {
     "slug": "tournament/fight-of-the-fearless-21/event/fight-of-the-fearless-single",
     "tournament_name": "Fight of the Fearless 21",
     "event_name": "Fight Of The Fearless single",
     "image": "https://images.start.gg/images/tournament/484104/image-826c3bf72c3e132b56b31e3d5cb6a866.png?ehk=4VXdRLC4qvFrEyscjFbHVYs56RewSHMVMBFSyyOXX3c%3D&ehkOptimized=h1To5iiw4Zu6r2eaetcmGChU3QiWv6EOyAEN43SyuXo%3D",
-    "entrants": 13,
+    "entrants": 14,
     "start_time": 1664730000
   },
   {
@@ -44,7 +36,7 @@
     "tournament_name": "Moky's Dojo #12",
     "event_name": "Moky's Dojo #12 - Singles",
     "image": "https://images.start.gg/images/tournament/483954/image-c6fd6743fd375cb4c0f1ad468b8db3ce.png?ehk=gYsFlDNnqcvA4u6dmmP%2FkytN%2FMHm2EROGhrBmsnN0Ss%3D&ehkOptimized=2Ce4WnyoFIENjtMsuJRyTN33DOFrzJhWYIepii3oVu4%3D",
-    "entrants": 29,
+    "entrants": 30,
     "start_time": 1664737200
   },
   {
@@ -52,7 +44,7 @@
     "tournament_name": "Moky's Dojo #12",
     "event_name": "Moky's Dojo #12 - Amateur Ladder",
     "image": "https://images.start.gg/images/tournament/483954/image-c6fd6743fd375cb4c0f1ad468b8db3ce.png?ehk=gYsFlDNnqcvA4u6dmmP%2FkytN%2FMHm2EROGhrBmsnN0Ss%3D&ehkOptimized=2Ce4WnyoFIENjtMsuJRyTN33DOFrzJhWYIepii3oVu4%3D",
-    "entrants": 13,
+    "entrants": 15,
     "start_time": 1664742600
   },
   {
@@ -196,7 +188,7 @@
     "tournament_name": "Only Noobs 87",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-    "entrants": 7,
+    "entrants": 8,
     "start_time": 1665097200
   },
   {
