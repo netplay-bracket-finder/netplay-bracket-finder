@@ -1,11 +1,11 @@
 ---
 # adapted from https://github.com/marketplace/actions/install-nix#usage
-name: "build package"
+name: "fetch info from start.gg api"
 on:
   pull_request:
   push:
 jobs:
-  tests:
+  fetch:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2.4.0
