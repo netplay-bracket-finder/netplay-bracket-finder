@@ -3,6 +3,7 @@
 # - https://simonwillison.net/2020/Oct/9/git-scraping/
 name: "fetch info from start.gg api"
 on:
+  workflow_dispatch:
   schedule:
   - cron:  '*/30 * * * *'
 jobs:
@@ -14,6 +15,7 @@ jobs:
       run: |
         # download latest binary from release
         gh release download --pattern 'netplay-bracket-finder'
+        find .
         chmod +x ./netplay-bracket-finder
 
         # fetch info from API
