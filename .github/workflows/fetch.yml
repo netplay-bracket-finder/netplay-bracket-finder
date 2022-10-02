@@ -1,6 +1,5 @@
 ---
 # adapted from:
-# - https://github.com/marketplace/actions/install-nix#usage
 # - https://simonwillison.net/2020/Oct/9/git-scraping/
 name: "fetch info from start.gg api"
 on:

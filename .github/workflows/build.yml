@@ -1,7 +1,6 @@
 ---
 # adapted from:
 # - https://github.com/marketplace/actions/install-nix#usage
-# - https://simonwillison.net/2020/Oct/9/git-scraping/
 name: "build netplay-bracket-finder crate"
 on: workflow_dispatch
 jobs:
