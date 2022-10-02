@@ -1,106 +1,26 @@
 [
   {
-    "slug": "tournament/the-battlefields-series-56/event/ultimate-singles",
-    "tournament_name": "The Battlefields Series #56",
-    "event_name": "Ultimate Singles",
-    "image": "https://images.start.gg/images/tournament/483106/image-9f3e76e63cfccd1b4be459d79ca3095d.png?ehk=Pta28Ivq%2FxZIFFzDVoDizyAHNgN%2FvWqbr%2BquPhMX9s8%3D&ehkOptimized=EVO6kCLkqPgfH8XyQk2lMRSDfL362o%2FYDZRgNup6axA%3D",
-    "entrants": 4,
-    "start_time": 1664647200
-  },
-  {
     "slug": "tournament/the-battlefields-series-56/event/melee-singles",
     "tournament_name": "The Battlefields Series #56",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/483106/image-9f3e76e63cfccd1b4be459d79ca3095d.png?ehk=Pta28Ivq%2FxZIFFzDVoDizyAHNgN%2FvWqbr%2BquPhMX9s8%3D&ehkOptimized=EVO6kCLkqPgfH8XyQk2lMRSDfL362o%2FYDZRgNup6axA%3D",
-    "entrants": 0,
+    "entrants": 1,
     "start_time": 1664748000
   },
   {
-    "slug": "tournament/200-cg-melee-monthly-october-22/event/east-coast",
-    "tournament_name": "[$200] CG Melee Monthly: October '22",
-    "event_name": "East Coast",
-    "image": "https://images.start.gg/images/tournament/480933/image-2322d7d03c075a09fbf4c073828e5e1b.jpg?ehk=%2Fgr%2BXJNhJ4Zk7CWRiFT%2BuZK3UtXpV9iIPZ%2FddcDIbMM%3D&ehkOptimized=Sp0L2GGnij1BL7qNXKGLvmD1CW9Cjx%2BMIX%2Fml3sxBsQ%3D",
-    "entrants": 16,
-    "start_time": 1664650800
-  },
-  {
-    "slug": "tournament/200-cg-melee-monthly-october-22/event/ec-vs-wc-exhibition",
-    "tournament_name": "[$200] CG Melee Monthly: October '22",
-    "event_name": "EC vs WC Exhibition",
-    "image": "https://images.start.gg/images/tournament/480933/image-2322d7d03c075a09fbf4c073828e5e1b.jpg?ehk=%2Fgr%2BXJNhJ4Zk7CWRiFT%2BuZK3UtXpV9iIPZ%2FddcDIbMM%3D&ehkOptimized=Sp0L2GGnij1BL7qNXKGLvmD1CW9Cjx%2BMIX%2Fml3sxBsQ%3D",
-    "entrants": 0,
-    "start_time": 1664650800
-  },
-  {
-    "slug": "tournament/200-cg-melee-monthly-october-22/event/west-coast",
-    "tournament_name": "[$200] CG Melee Monthly: October '22",
-    "event_name": "West Coast",
-    "image": "https://images.start.gg/images/tournament/480933/image-2322d7d03c075a09fbf4c073828e5e1b.jpg?ehk=%2Fgr%2BXJNhJ4Zk7CWRiFT%2BuZK3UtXpV9iIPZ%2FddcDIbMM%3D&ehkOptimized=Sp0L2GGnij1BL7qNXKGLvmD1CW9Cjx%2BMIX%2Fml3sxBsQ%3D",
-    "entrants": 15,
-    "start_time": 1664654400
-  },
-  {
-    "slug": "tournament/scrub-summit-10/event/doubles-ladder",
-    "tournament_name": "Scrub Summit 10",
-    "event_name": "Doubles Ladder",
-    "image": "https://images.start.gg/images/tournament/483355/image-80eb63875f3fed572a3be1d27ea08ae7.png?ehk=hekRoGqqDHe2mnbqi9HjIJ%2Bpn%2BxGX1YdEXiqcBgFpuk%3D&ehkOptimized=SlPtlpUtDD3rhktPDADXuRZ80MyjEJv3LVHD1n4ghqo%3D",
-    "entrants": 3,
-    "start_time": 1664654400
-  },
-  {
-    "slug": "tournament/scrub-summit-10/event/singles-brackets",
-    "tournament_name": "Scrub Summit 10",
-    "event_name": "Singles Brackets",
-    "image": "https://images.start.gg/images/tournament/483355/image-80eb63875f3fed572a3be1d27ea08ae7.png?ehk=hekRoGqqDHe2mnbqi9HjIJ%2Bpn%2BxGX1YdEXiqcBgFpuk%3D&ehkOptimized=SlPtlpUtDD3rhktPDADXuRZ80MyjEJv3LVHD1n4ghqo%3D",
-    "entrants": 0,
-    "start_time": 1664654400
-  },
-  {
-    "slug": "tournament/scrub-summit-10/event/singles-pools",
-    "tournament_name": "Scrub Summit 10",
-    "event_name": "Singles Pools",
-    "image": "https://images.start.gg/images/tournament/483355/image-80eb63875f3fed572a3be1d27ea08ae7.png?ehk=hekRoGqqDHe2mnbqi9HjIJ%2Bpn%2BxGX1YdEXiqcBgFpuk%3D&ehkOptimized=SlPtlpUtDD3rhktPDADXuRZ80MyjEJv3LVHD1n4ghqo%3D",
-    "entrants": 68,
-    "start_time": 1664661600
-  },
-  {
-    "slug": "tournament/legs-le-tournament-51/event/melee-singles",
-    "tournament_name": "Legs' Le Tournament #51",
-    "event_name": "Melee Singles",
-    "image": "https://images.start.gg/images/tournament/484528/image-76e99934499692b6ba6ccc1ef13b14ea.png?ehk=wBF0%2Fbt%2FoJvSAPue%2F8AUaf7P87JYlI4RnWA2NEphIE4%3D&ehkOptimized=Tq%2FbV82J5enLEaS%2FrbVxSbkAXo%2BjprYbFtFp0xEhdug%3D",
-    "entrants": 7,
-    "start_time": 1664658000
-  },
-  {
-    "slug": "tournament/sby-melee-netplay-131/event/melee-singles",
-    "tournament_name": "SBY Melee Netplay #131",
-    "event_name": "Melee Singles",
-    "image": "https://images.start.gg/images/tournament/484419/image-62d58cda5724644edd9caab06975ad07.jpg?ehk=0Po6oCFpOmNytPPNE6NTmvmCuGT8ifmgGCzltCn7ZV4%3D&ehkOptimized=FG%2FZn25yFbsBOSge9uRGwkVydgxTlJSmqLFqVe8exQs%3D",
-    "entrants": 5,
-    "start_time": 1664659800
-  },
-  {
-    "slug": "tournament/the-shrobe-series-3-mc-only-edition/event/melee-singles",
-    "tournament_name": "The Shrobe Series #3 (MC ONLY EDITION)",
-    "event_name": "Melee Singles",
-    "image": "https://images.start.gg/images/tournament/484431/image-1f0c717773cfa0111ec7c8b0a1559d05.png?ehk=H1YwIOjXiPuhuJJbjzUF9xnd4gd9Wx6ir2EJHZc7Zxs%3D&ehkOptimized=ivSg2GbP97IsCaS85V4a2CRajJcrLy1Fa1Sbn%2F5yItE%3D",
-    "entrants": 0,
-    "start_time": 1664661600
-  },
-  {
-    "slug": "tournament/g-w-dittopalooza/event/g-w-round-robin",
-    "tournament_name": "G&W Dittopalooza",
-    "event_name": "G&W Round Robin",
-    "image": "",
-    "entrants": 6,
-    "start_time": 1664668800
+    "slug": "tournament/the-battlefields-series-56/event/ultimate-singles",
+    "tournament_name": "The Battlefields Series #56",
+    "event_name": "Ultimate Singles",
+    "image": "https://images.start.gg/images/tournament/483106/image-9f3e76e63cfccd1b4be459d79ca3095d.png?ehk=Pta28Ivq%2FxZIFFzDVoDizyAHNgN%2FvWqbr%2BquPhMX9s8%3D&ehkOptimized=EVO6kCLkqPgfH8XyQk2lMRSDfL362o%2FYDZRgNup6axA%3D",
+    "entrants": 8,
+    "start_time": 1664647200
   },
   {
     "slug": "tournament/do-you-still-serve-breakfast-3/event/melee-singles",
     "tournament_name": "Do You Still Serve Breakfast? 3",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484414/image-d355ca0dd2a3ea709afcf1e0f3286ac8.png?ehk=L0op1CH3xdnW7SEHOa%2BMipDSLsHCx8gmCFNLSxpH4uA%3D&ehkOptimized=SwZx6y9kh2MTlEiErJG7d%2BElgXj9Vtp8t3vEoEHYV%2BM%3D",
-    "entrants": 0,
+    "entrants": 1,
     "start_time": 1664726400
   },
   {
@@ -108,7 +28,7 @@
     "tournament_name": "Dorime's Dojo #2",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/483992/image-bcd4e6d2bb062b930093ea5a8395177a.png?ehk=l9tJh3dSb%2B7LFRS8fYCBrY%2FS4%2FQAJp6RR5eGJ9ikOIE%3D&ehkOptimized=nmAheksr4%2FPNuLBKYjhPPNeV4vorEhXCwkNQgrdAmZQ%3D",
-    "entrants": 10,
+    "entrants": 12,
     "start_time": 1664729940
   },
   {
@@ -140,7 +60,7 @@
     "tournament_name": "Moky's Dojo #12",
     "event_name": "Moky's Dojo #12 - Singles",
     "image": "https://images.start.gg/images/tournament/483954/image-c6fd6743fd375cb4c0f1ad468b8db3ce.png?ehk=gYsFlDNnqcvA4u6dmmP%2FkytN%2FMHm2EROGhrBmsnN0Ss%3D&ehkOptimized=2Ce4WnyoFIENjtMsuJRyTN33DOFrzJhWYIepii3oVu4%3D",
-    "entrants": 12,
+    "entrants": 21,
     "start_time": 1664737200
   },
   {
@@ -148,7 +68,7 @@
     "tournament_name": "Moky's Dojo #12",
     "event_name": "Moky's Dojo #12 - Amateur Ladder",
     "image": "https://images.start.gg/images/tournament/483954/image-c6fd6743fd375cb4c0f1ad468b8db3ce.png?ehk=gYsFlDNnqcvA4u6dmmP%2FkytN%2FMHm2EROGhrBmsnN0Ss%3D&ehkOptimized=2Ce4WnyoFIENjtMsuJRyTN33DOFrzJhWYIepii3oVu4%3D",
-    "entrants": 7,
+    "entrants": 8,
     "start_time": 1664742600
   },
   {
@@ -156,7 +76,7 @@
     "tournament_name": "SCSS East Coast #89",
     "event_name": "SCSS Singles",
     "image": "https://images.start.gg/images/tournament/483253/image-f90296d21bd4fdbfbed495280bc72d1c.png?ehk=CKWZE9MDxLRx%2BYdQiDQAgBLkqptl5shTJhxySklU0os%3D&ehkOptimized=uepI%2BIR0355Sw9YprkV%2BGT672HY96FVtckzh%2F5AOLFE%3D",
-    "entrants": 0,
+    "entrants": 1,
     "start_time": 1664753400
   },
   {
@@ -232,11 +152,11 @@
     "start_time": 1664841600
   },
   {
-    "slug": "tournament/tuesday-night-fever/event/melee-singles",
-    "tournament_name": "Tuesday Night Fever",
+    "slug": "tournament/tuesday-night-fever-1/event/melee-singles",
+    "tournament_name": "Tuesday Night Fever #1",
     "event_name": "Melee Singles",
-    "image": "",
-    "entrants": 0,
+    "image": "https://images.start.gg/images/tournament/484510/image-4af70c16640d6a2ae3a3eb9c566fa529.png?ehk=J09nMHvATnSxBzlb4Rs45aaEJjeWCEFk9ua%2F6YbFKm0%3D&ehkOptimized=TIV3z%2FioMGL1V8TwRjYvGuoqEX6rMs1e7%2B2ynHXvtCU%3D",
+    "entrants": 1,
     "start_time": 1664906400
   },
   {
@@ -286,6 +206,14 @@
     "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
     "entrants": 5,
     "start_time": 1665097200
+  },
+  {
+    "slug": "tournament/legs-le-tournament-52/event/melee-singles",
+    "tournament_name": "Legs' Le Tournament #52",
+    "event_name": "Melee Singles",
+    "image": "https://images.start.gg/images/tournament/484613/image-f7c7db5cec2f1675d70a0dcdded1f531.png?ehk=vP2Q3iIpcXbhk%2FGlMy5ViQtJL8Im%2FJglmiLikgReAr0%3D&ehkOptimized=qdLXmsFJPraXSdAwsE4EZxf2u8owlZBea22csg0VzqQ%3D",
+    "entrants": 0,
+    "start_time": 1665262800
   },
   {
     "slug": "tournament/searcadian/event/singles",
