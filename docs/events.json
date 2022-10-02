@@ -4,7 +4,7 @@
     "tournament_name": "Fight of the Fearless 21",
     "event_name": "Fight Of The Fearless single",
     "image": "https://images.start.gg/images/tournament/484104/image-826c3bf72c3e132b56b31e3d5cb6a866.png?ehk=4VXdRLC4qvFrEyscjFbHVYs56RewSHMVMBFSyyOXX3c%3D&ehkOptimized=h1To5iiw4Zu6r2eaetcmGChU3QiWv6EOyAEN43SyuXo%3D",
-    "entrants": 16,
+    "entrants": 18,
     "start_time": 1664730000
   },
   {
@@ -28,7 +28,7 @@
     "tournament_name": "Moky's Dojo #12",
     "event_name": "Moky's Dojo #12 - Singles",
     "image": "https://images.start.gg/images/tournament/483954/image-c6fd6743fd375cb4c0f1ad468b8db3ce.png?ehk=gYsFlDNnqcvA4u6dmmP%2FkytN%2FMHm2EROGhrBmsnN0Ss%3D&ehkOptimized=2Ce4WnyoFIENjtMsuJRyTN33DOFrzJhWYIepii3oVu4%3D",
-    "entrants": 30,
+    "entrants": 37,
     "start_time": 1664737200
   },
   {
@@ -36,15 +36,23 @@
     "tournament_name": "Moky's Dojo #12",
     "event_name": "Moky's Dojo #12 - Amateur Ladder",
     "image": "https://images.start.gg/images/tournament/483954/image-c6fd6743fd375cb4c0f1ad468b8db3ce.png?ehk=gYsFlDNnqcvA4u6dmmP%2FkytN%2FMHm2EROGhrBmsnN0Ss%3D&ehkOptimized=2Ce4WnyoFIENjtMsuJRyTN33DOFrzJhWYIepii3oVu4%3D",
-    "entrants": 14,
+    "entrants": 16,
     "start_time": 1664742600
+  },
+  {
+    "slug": "tournament/kalvar-cup-64/event/melee-singles",
+    "tournament_name": "Kalvar Cup #64",
+    "event_name": "Melee Singles",
+    "image": "https://images.start.gg/images/tournament/484799/image-6b0ab1290e6640e1541805fa14fbc4d5.png?ehk=iLrHyMMtGfA1kACRDCGBIGwxYwEyK2pEsTNF2n01Ycs%3D&ehkOptimized=022eSecreqdw07WJ09LxBbK25Ry1N8%2FBoH6PP7lNvPs%3D",
+    "entrants": 2,
+    "start_time": 1664749800
   },
   {
     "slug": "tournament/scss-east-coast-89/event/scss-singles",
     "tournament_name": "SCSS East Coast #89",
     "event_name": "SCSS Singles",
     "image": "https://images.start.gg/images/tournament/483253/image-f90296d21bd4fdbfbed495280bc72d1c.png?ehk=CKWZE9MDxLRx%2BYdQiDQAgBLkqptl5shTJhxySklU0os%3D&ehkOptimized=uepI%2BIR0355Sw9YprkV%2BGT672HY96FVtckzh%2F5AOLFE%3D",
-    "entrants": 2,
+    "entrants": 3,
     "start_time": 1664753400
   },
   {
@@ -188,7 +196,7 @@
     "tournament_name": "Legs' Le Tournament #52",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484613/image-f7c7db5cec2f1675d70a0dcdded1f531.png?ehk=vP2Q3iIpcXbhk%2FGlMy5ViQtJL8Im%2FJglmiLikgReAr0%3D&ehkOptimized=qdLXmsFJPraXSdAwsE4EZxf2u8owlZBea22csg0VzqQ%3D",
-    "entrants": 0,
+    "entrants": 1,
     "start_time": 1665262800
   },
   {
