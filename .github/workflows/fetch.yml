@@ -15,8 +15,8 @@ jobs:
       run: |
         # download latest binary from release
         gh release download --pattern 'netplay-bracket-finder'
-        find .
         chmod +x ./netplay-bracket-finder
+        stat ./netplay-bracket-finder
 
         # fetch info from API
         ./netplay-bracket-finder | tee docs/events.json
