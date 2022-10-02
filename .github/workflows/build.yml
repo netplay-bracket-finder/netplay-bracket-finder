@@ -14,7 +14,9 @@ jobs:
     - name: build netplay-bracket-finder crate
       run: |
         cd rust
-        nix-shell -p rustc cargo --run "cargo build --release"
+        # https://msfjarvis.dev/posts/building-static-rust-binaries-for-linux/
+        export RUSTFLAGS='-C target-feature=+crt-static'
+        nix-shell -p rustc cargo --run "cargo build --release --target x86_64-unknown-linux-gnu"
     - name: upload artifact
       uses: actions/upload-artifact@3cea5372237819ed00197afe530f5a7ea3e805c8 # v3
       with:
