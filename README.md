@@ -26,7 +26,3 @@ there's a scheduled github actions workflow, defined in `.github/workflows/build
 whenever the repository recieves a new `events.json` commit, the github pages workflow will trigger on push.
 
 so, the site is regularly updated!
-
-# todo
-
-* investigate why ultimate tournaments are pulled in
