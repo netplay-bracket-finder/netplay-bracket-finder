@@ -29,8 +29,5 @@ so, the site is regularly updated!
 
 # todo
 
-* move rust compilation into a separate (not scheduled) workflow
-* publish rust package `netplay-bracket-finder` as a release
-* fetch release (instead of compiling) for scheduled 15 minute job
 * investigate why ultimate tournaments are pulled in
 * default to sorting by start time (not alphabetical)
