@@ -2,28 +2,22 @@
 # adapted from:
 # - https://github.com/marketplace/actions/install-nix#usage
 # - https://simonwillison.net/2020/Oct/9/git-scraping/
-name: "fetch info from start.gg api"
-on:
-  schedule:
-  - cron:  '*/30 * * * *'
+name: "build netplay-bracket-finder crate"
+on: workflow_dispatch
 jobs:
-  fetch:
+  build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # v3.0.2
     - uses: cachix/install-nix-action@5f45af07a1f451c75a4ce84e1514200195a1f279 # v15
       with:
         nix_path: nixpkgs=channel:nixos-unstable
-    - name: configure git
+    - name: build netplay-bracket-finder crate
       run: |
-        git config user.name "randall the cloud"
-        git config user.email actions@users.noreply.github.com
-    - name: fetch info from api
-      run: cd rust && nix-shell -p rustc cargo --run "cargo run > ../docs/events.json"
-      env:
-        GRAPHQL_API_TOKEN: ${{ secrets.GRAPHQL_API_TOKEN }}
-    - name: push changes
-      run: |
-        git add docs/events.json
-        git commit -m "fetched: $(date -u)" || exit 0
-        git push || true
+        cd rust
+        nix-shell -p rustc cargo --run "cargo build --release"
+    - name: upload artifact
+      uses: actions/upload-artifact@0jcj67b8bdphaagjd742am0551r3svn4dfkhanwzvxww5wgwpf5l # v3
+      with:
+        name: netplay-bracket-finder-x86_64-linux
+        path: rust/target/release/netplay-bracket-finder

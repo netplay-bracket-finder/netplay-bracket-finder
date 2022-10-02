@@ -1,0 +1,31 @@
+---
+# adapted from:
+# - https://github.com/marketplace/actions/install-nix#usage
+# - https://simonwillison.net/2020/Oct/9/git-scraping/
+name: "fetch info from start.gg api"
+on:
+  schedule:
+  - cron:  '*/30 * * * *'
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # v3.0.2
+    - name: fetch info from api
+      run: |
+        # download latest binary from release
+        gh release download --pattern 'netplay-bracket-finder'
+        chmod +x ./netplay-bracket-finder
+
+        # fetch info from API
+        ./netplay-bracket-finder | tee docs/events.json
+      env:
+        GRAPHQL_API_TOKEN: ${{ secrets.GRAPHQL_API_TOKEN }}
+    - name: push changes
+      run: |
+        git config user.name "randall the cloud"
+        git config user.email actions@users.noreply.github.com
+
+        git add docs/events.json
+        git commit -m "fetched: $(date -u)" || exit 0
+        git push || true
