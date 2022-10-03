@@ -29,7 +29,6 @@ jobs:
 
     - name: build netplay-bracket-finder
       run: |
-        # fetch dependencies
         cd rust && cargo build --release
     - name: upload artifact
       uses: actions/upload-artifact@3cea5372237819ed00197afe530f5a7ea3e805c8 # v3
