@@ -4,7 +4,7 @@
     "tournament_name": "Monday Night Mixup #32",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/483061/image-508bec27db85edad3a96f733d32c2ca9.png?ehk=%2FJXxMz%2FjgLwIlT8MxOIk4elxVdwnSORsX8PfBrWDVr0%3D&ehkOptimized=46ScXk96cAcspA%2FS83HvNctk1MkQFRtT%2BJUVHxYmGg0%3D",
-    "entrants": 13,
+    "entrants": 15,
     "start_time": 1664820000
   },
   {
@@ -20,7 +20,7 @@
     "tournament_name": "Pino's Tired of 0-2 #92!",
     "event_name": "Tired of 0-2?",
     "image": "https://images.start.gg/images/tournament/484703/image-9fcf096f558155b4f757c630065f1bb4.jpg?ehk=Y8kPXgEdBVqEPljK84bcKoeSa3hYBmvXuyELqpRwh9A%3D&ehkOptimized=vfMtW0q9CJFImOB48YA5l6mOGOOStebmIO59XEEp1Ok%3D",
-    "entrants": 3,
+    "entrants": 4,
     "start_time": 1664834400
   },
   {
@@ -28,7 +28,7 @@
     "tournament_name": "super smash bong #66",
     "event_name": "Melee singles",
     "image": "https://images.start.gg/images/tournament/485080/image-5a611c538fbc2cd410b08fd698b6850a.jpg?ehk=pjF07JpBW7XMwBtRZJo9iomrSSx%2F3ag5yCoHOQ%2Fo%2Ff0%3D&ehkOptimized=8BEzrQxPzktdjdaffu25Oe9MYRhYJujlcLBYKZL%2F%2B0Q%3D",
-    "entrants": 1,
+    "entrants": 2,
     "start_time": 1664836200
   },
   {
@@ -36,7 +36,7 @@
     "tournament_name": "Coast To Coast Doubles # 1",
     "event_name": "EC Doubles",
     "image": "https://images.start.gg/images/tournament/482663/image-7d734c28bb7d5ca62247e3152740f068.png?ehk=6LsPuLH79%2BmgRqHxBTU2%2FfifKJVYMBSRwWyzjij5axM%3D&ehkOptimized=FPGdSKI4eGVZd0jxFi63TQ%2FjIsCiYESSKvtFqa1jNCs%3D",
-    "entrants": 0,
+    "entrants": 1,
     "start_time": 1664838000
   },
   {
@@ -150,6 +150,14 @@
     "image": "https://images.start.gg/images/tournament/484846/image-dcc5dcff0db9aa3d0fe58fa9dd9bf5f9.png?ehk=wRusEtkeW4rIDkZzKOXkFe%2FXFzDPbfXfa78kycVrh58%3D&ehkOptimized=oShv4mAYgH5Z%2FvHnl%2Bnk5gLpGcGnuDfclxevou3mnFM%3D",
     "entrants": 6,
     "start_time": 1665331200
+  },
+  {
+    "slug": "tournament/fight-of-the-fearless-22/event/fight-of-the-fearless-single",
+    "tournament_name": "Fight of the Fearless 22",
+    "event_name": "Fight Of The Fearless single",
+    "image": "https://images.start.gg/images/tournament/485090/image-cb8358b70ce1bb29273033471f505ffd.png?ehk=WpX4YFgv6EbdRTVtUb%2BNhBsE3E7i%2B6cy5lcbfTps4pg%3D&ehkOptimized=xbXmToMeP4OjBHfGkm4DaQkikUYH8SzxPASzGIXU3Y0%3D",
+    "entrants": 0,
+    "start_time": 1665334800
   },
   {
     "slug": "tournament/searcadian/event/singles",
