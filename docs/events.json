@@ -1,13 +1,5 @@
 [
   {
-    "slug": "tournament/monday-night-mixup-32/event/melee-singles",
-    "tournament_name": "Monday Night Mixup #32",
-    "event_name": "Melee Singles",
-    "image": "https://images.start.gg/images/tournament/483061/image-508bec27db85edad3a96f733d32c2ca9.png?ehk=%2FJXxMz%2FjgLwIlT8MxOIk4elxVdwnSORsX8PfBrWDVr0%3D&ehkOptimized=46ScXk96cAcspA%2FS83HvNctk1MkQFRtT%2BJUVHxYmGg0%3D",
-    "entrants": 19,
-    "start_time": 1664820000
-  },
-  {
     "slug": "tournament/pino-s-tired-of-0-2-92/event/tired-of-0-2",
     "tournament_name": "Pino's Tired of 0-2 #92!",
     "event_name": "Tired of 0-2?",
@@ -68,7 +60,7 @@
     "tournament_name": "Spudfest 39",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484450/image-0ca7cbe8ae12fd1f35dc0f9effad3c41.jpg?ehk=%2FkC3kYDdENiS%2F2rAa3z3zI1lMFRzZEFHjn9%2FiqM%2BMuU%3D&ehkOptimized=fLMBT5t89ZR0hH0zvE2KDGm7SwQGJ%2Fkccc9syZ%2FJEro%3D",
-    "entrants": 7,
+    "entrants": 8,
     "start_time": 1664845200
   },
   {
@@ -76,7 +68,7 @@
     "tournament_name": "Melee Poetry Society",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484426/image-cb808910a4d171b08b715661f52073bd.png?ehk=ql%2BULgnCIApvyKy4gUX0eaSBeENwibo1N%2F2o8uDN0b0%3D&ehkOptimized=MB0ZVt0u8nntYR2iUThwg%2FRsh2B43AE3TnhOkBrkNF0%3D",
-    "entrants": 1,
+    "entrants": 2,
     "start_time": 1664841600
   },
   {
