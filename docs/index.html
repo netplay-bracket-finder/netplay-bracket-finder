@@ -54,7 +54,11 @@
                               hour: 'numeric', minute: 'numeric', second: 'numeric',
                           };
                           return (new Intl.DateTimeFormat('en-US', options).format(start));
-                      }
+                      },
+                      orderData: 4
+                    },
+                    { data: 'start_time',
+                      visible: false,
                     },
                 ],
             });
