@@ -1,13 +1,5 @@
 [
   {
-    "slug": "tournament/cash-smash-netplay/event/melee-singles-cash-smash",
-    "tournament_name": "Cash Smash Netplay",
-    "event_name": "Melee Singles Cash Smash",
-    "image": "",
-    "entrants": 11,
-    "start_time": 1664787600
-  },
-  {
     "slug": "tournament/monday-night-mixup-32/event/melee-singles",
     "tournament_name": "Monday Night Mixup #32",
     "event_name": "Melee Singles",
@@ -68,7 +60,7 @@
     "tournament_name": "Spudfest 39",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484450/image-0ca7cbe8ae12fd1f35dc0f9effad3c41.jpg?ehk=%2FkC3kYDdENiS%2F2rAa3z3zI1lMFRzZEFHjn9%2FiqM%2BMuU%3D&ehkOptimized=fLMBT5t89ZR0hH0zvE2KDGm7SwQGJ%2Fkccc9syZ%2FJEro%3D",
-    "entrants": 3,
+    "entrants": 4,
     "start_time": 1664845200
   },
   {
@@ -84,7 +76,7 @@
     "tournament_name": "Tuesday Night Fever #1",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484510/image-4af70c16640d6a2ae3a3eb9c566fa529.png?ehk=J09nMHvATnSxBzlb4Rs45aaEJjeWCEFk9ua%2F6YbFKm0%3D&ehkOptimized=TIV3z%2FioMGL1V8TwRjYvGuoqEX6rMs1e7%2B2ynHXvtCU%3D",
-    "entrants": 2,
+    "entrants": 1,
     "start_time": 1664906400
   },
   {
