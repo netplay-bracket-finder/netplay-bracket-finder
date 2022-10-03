@@ -1,17 +1,17 @@
 [
   {
-    "slug": "tournament/pino-s-tired-of-0-2-92/event/tired-of-0-2",
-    "tournament_name": "Pino's Tired of 0-2 #92!",
-    "event_name": "Tired of 0-2?",
-    "image": "https://images.start.gg/images/tournament/484703/image-9fcf096f558155b4f757c630065f1bb4.jpg?ehk=Y8kPXgEdBVqEPljK84bcKoeSa3hYBmvXuyELqpRwh9A%3D&ehkOptimized=vfMtW0q9CJFImOB48YA5l6mOGOOStebmIO59XEEp1Ok%3D",
-    "entrants": 6,
-    "start_time": 1664834400
-  },
-  {
     "slug": "tournament/slippi-sauce-68/event/melee-singles",
     "tournament_name": "Slippi Sauce #68 🐸",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484902/image-e308240dd47890b10bb78b8b9ecc6ee3.png?ehk=hT%2Bdme60I%2FX62tGgzXKu6zLZeZGpv0PWOXweI5kLQ%2BI%3D&ehkOptimized=p8cv8YJgshbCSl%2BYdubUpqPClPjZgM2h91zNJMhGI5I%3D",
+    "entrants": 8,
+    "start_time": 1664834400
+  },
+  {
+    "slug": "tournament/pino-s-tired-of-0-2-92/event/tired-of-0-2",
+    "tournament_name": "Pino's Tired of 0-2 #92!",
+    "event_name": "Tired of 0-2?",
+    "image": "https://images.start.gg/images/tournament/484703/image-9fcf096f558155b4f757c630065f1bb4.jpg?ehk=Y8kPXgEdBVqEPljK84bcKoeSa3hYBmvXuyELqpRwh9A%3D&ehkOptimized=vfMtW0q9CJFImOB48YA5l6mOGOOStebmIO59XEEp1Ok%3D",
     "entrants": 8,
     "start_time": 1664834400
   },
@@ -40,6 +40,14 @@
     "start_time": 1664848800
   },
   {
+    "slug": "tournament/the-playlist-16-stranger-heads-prevail/event/amateur-bracket",
+    "tournament_name": "The Playlist #16: Stranger Heads Prevail",
+    "event_name": "Amateur Bracket",
+    "image": "https://images.start.gg/images/tournament/485203/image-460b6077781c485ab13d29c46d537e9c.png?ehk=P0jxixHwb7lHPwNIRmKShqqmAapPeiRdEB4auWG3tyA%3D&ehkOptimized=k4KLrocIhN5VQdcdTsn6mNF9AVBFrEb0Iqn9yBGOYz4%3D",
+    "entrants": 0,
+    "start_time": 1664841600
+  },
+  {
     "slug": "tournament/stellar-showdown-10-hosted-by-solar-esports/event/melee-singles",
     "tournament_name": "Stellar Showdown #10 Hosted by Solar Esports",
     "event_name": "Melee Singles",
@@ -60,7 +68,7 @@
     "tournament_name": "Spudfest 39",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484450/image-0ca7cbe8ae12fd1f35dc0f9effad3c41.jpg?ehk=%2FkC3kYDdENiS%2F2rAa3z3zI1lMFRzZEFHjn9%2FiqM%2BMuU%3D&ehkOptimized=fLMBT5t89ZR0hH0zvE2KDGm7SwQGJ%2Fkccc9syZ%2FJEro%3D",
-    "entrants": 8,
+    "entrants": 9,
     "start_time": 1664845200
   },
   {
@@ -68,8 +76,16 @@
     "tournament_name": "Melee Poetry Society",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484426/image-cb808910a4d171b08b715661f52073bd.png?ehk=ql%2BULgnCIApvyKy4gUX0eaSBeENwibo1N%2F2o8uDN0b0%3D&ehkOptimized=MB0ZVt0u8nntYR2iUThwg%2FRsh2B43AE3TnhOkBrkNF0%3D",
-    "entrants": 2,
+    "entrants": 3,
     "start_time": 1664841600
+  },
+  {
+    "slug": "tournament/mnn-28-1/event/melee-singles",
+    "tournament_name": "MNN#28",
+    "event_name": "Melee Singles",
+    "image": "https://images.start.gg/images/tournament/485187/image-450b6c22c1349b2246305ab40ed54f0c.png?ehk=9IX4HgeBuAxGbkKjgIkApzvAiWpMDcaffhMblaCgtJU%3D&ehkOptimized=b4r%2BZZldskDJ9%2FLXMl4eBfF9SK09%2BSTKCwC7G5HFqiI%3D",
+    "entrants": 0,
+    "start_time": 1664852400
   },
   {
     "slug": "tournament/tuesday-night-fever-1/event/melee-singles",
@@ -86,6 +102,22 @@
     "image": "https://images.start.gg/images/tournament/484437/image-e442c708f029e6a75fc9fdb162f00c8f.png?ehk=zeQL4FBdNzpk77%2BV2h8AC3O27eCX1HAptztkzWJvWP0%3D&ehkOptimized=Dy9tVfJ4LDT4BSiP01AB8A%2FqqGckvsXBxdJr23lh0eY%3D",
     "entrants": 0,
     "start_time": 1664928000
+  },
+  {
+    "slug": "tournament/level-one-melee-46-a-noob-only-tournament/event/amateur-melee-singles",
+    "tournament_name": "Level One Melee #46 - a noob-only tournament",
+    "event_name": "Amateur Melee Singles",
+    "image": "https://images.start.gg/images/tournament/485192/image-a26803052ba562197ad92b483df883c1.png?ehk=361uagjTnNyJW20ydiHYrVMrE%2FnOjTVHPnhK4%2BMii6Y%3D&ehkOptimized=FNlGfomilSr7NLV0K5ysHDrRnyhDevA%2FlD5980TPVis%3D",
+    "entrants": 0,
+    "start_time": 1664931600
+  },
+  {
+    "slug": "tournament/level-one-melee-46-a-noob-only-tournament/event/main-melee-singles",
+    "tournament_name": "Level One Melee #46 - a noob-only tournament",
+    "event_name": "Main Melee Singles",
+    "image": "https://images.start.gg/images/tournament/485192/image-a26803052ba562197ad92b483df883c1.png?ehk=361uagjTnNyJW20ydiHYrVMrE%2FnOjTVHPnhK4%2BMii6Y%3D&ehkOptimized=FNlGfomilSr7NLV0K5ysHDrRnyhDevA%2FlD5980TPVis%3D",
+    "entrants": 0,
+    "start_time": 1664931600
   },
   {
     "slug": "tournament/curdled-milk-wednesdays-3/event/melee-singles",
