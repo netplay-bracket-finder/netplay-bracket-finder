@@ -1,18 +1,10 @@
 [
   {
-    "slug": "tournament/pino-s-tired-of-0-2-92/event/tired-of-0-2",
-    "tournament_name": "Pino's Tired of 0-2 #92!",
-    "event_name": "Tired of 0-2?",
-    "image": "https://images.start.gg/images/tournament/484703/image-9fcf096f558155b4f757c630065f1bb4.jpg?ehk=Y8kPXgEdBVqEPljK84bcKoeSa3hYBmvXuyELqpRwh9A%3D&ehkOptimized=vfMtW0q9CJFImOB48YA5l6mOGOOStebmIO59XEEp1Ok%3D",
-    "entrants": 42,
-    "start_time": 1664834400
-  },
-  {
     "slug": "tournament/coast-to-coast-doubles-1/event/ec-doubles",
     "tournament_name": "Coast To Coast Doubles # 1",
     "event_name": "EC Doubles",
     "image": "https://images.start.gg/images/tournament/482663/image-7d734c28bb7d5ca62247e3152740f068.png?ehk=6LsPuLH79%2BmgRqHxBTU2%2FfifKJVYMBSRwWyzjij5axM%3D&ehkOptimized=FPGdSKI4eGVZd0jxFi63TQ%2FjIsCiYESSKvtFqa1jNCs%3D",
-    "entrants": 12,
+    "entrants": 15,
     "start_time": 1664838000
   },
   {
@@ -20,7 +12,7 @@
     "tournament_name": "Coast To Coast Doubles # 1",
     "event_name": "WC Doubles",
     "image": "https://images.start.gg/images/tournament/482663/image-7d734c28bb7d5ca62247e3152740f068.png?ehk=6LsPuLH79%2BmgRqHxBTU2%2FfifKJVYMBSRwWyzjij5axM%3D&ehkOptimized=FPGdSKI4eGVZd0jxFi63TQ%2FjIsCiYESSKvtFqa1jNCs%3D",
-    "entrants": 8,
+    "entrants": 9,
     "start_time": 1664848800
   },
   {
@@ -44,7 +36,7 @@
     "tournament_name": "The Playlist #16: Stranger Heads Prevail",
     "event_name": "Amateur Bracket",
     "image": "https://images.start.gg/images/tournament/485203/image-460b6077781c485ab13d29c46d537e9c.png?ehk=P0jxixHwb7lHPwNIRmKShqqmAapPeiRdEB4auWG3tyA%3D&ehkOptimized=k4KLrocIhN5VQdcdTsn6mNF9AVBFrEb0Iqn9yBGOYz4%3D",
-    "entrants": 7,
+    "entrants": 12,
     "start_time": 1664841600
   },
   {
@@ -60,7 +52,7 @@
     "tournament_name": "Have you seen Russell??? #5",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/483151/image-801bb54e31cee6c7099cf69c7586cdb3.jpg?ehk=lGLuGxf33tuMmB9%2F223ke%2BZlQ5CO7T8tKgBPaA6Rd%2FE%3D&ehkOptimized=qAPYlCKe4Xg0eHtj5NOmFyojzPRd0T3ZsrIjj0yP6f4%3D",
-    "entrants": 9,
+    "entrants": 10,
     "start_time": 1664842500
   },
   {
@@ -68,7 +60,7 @@
     "tournament_name": "Spudfest 39",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484450/image-0ca7cbe8ae12fd1f35dc0f9effad3c41.jpg?ehk=%2FkC3kYDdENiS%2F2rAa3z3zI1lMFRzZEFHjn9%2FiqM%2BMuU%3D&ehkOptimized=fLMBT5t89ZR0hH0zvE2KDGm7SwQGJ%2Fkccc9syZ%2FJEro%3D",
-    "entrants": 22,
+    "entrants": 23,
     "start_time": 1664845200
   },
   {
@@ -76,7 +68,7 @@
     "tournament_name": "Melee Poetry Society",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484426/image-cb808910a4d171b08b715661f52073bd.png?ehk=ql%2BULgnCIApvyKy4gUX0eaSBeENwibo1N%2F2o8uDN0b0%3D&ehkOptimized=MB0ZVt0u8nntYR2iUThwg%2FRsh2B43AE3TnhOkBrkNF0%3D",
-    "entrants": 7,
+    "entrants": 8,
     "start_time": 1664841600
   },
   {
@@ -92,7 +84,7 @@
     "tournament_name": "MNN#28",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/485187/image-450b6c22c1349b2246305ab40ed54f0c.png?ehk=9IX4HgeBuAxGbkKjgIkApzvAiWpMDcaffhMblaCgtJU%3D&ehkOptimized=b4r%2BZZldskDJ9%2FLXMl4eBfF9SK09%2BSTKCwC7G5HFqiI%3D",
-    "entrants": 4,
+    "entrants": 5,
     "start_time": 1664852400
   },
   {
