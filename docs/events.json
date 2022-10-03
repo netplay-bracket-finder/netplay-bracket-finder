@@ -4,7 +4,7 @@
     "tournament_name": "Pino's Tired of 0-2 #92!",
     "event_name": "Tired of 0-2?",
     "image": "https://images.start.gg/images/tournament/484703/image-9fcf096f558155b4f757c630065f1bb4.jpg?ehk=Y8kPXgEdBVqEPljK84bcKoeSa3hYBmvXuyELqpRwh9A%3D&ehkOptimized=vfMtW0q9CJFImOB48YA5l6mOGOOStebmIO59XEEp1Ok%3D",
-    "entrants": 24,
+    "entrants": 29,
     "start_time": 1664834400
   },
   {
@@ -12,7 +12,7 @@
     "tournament_name": "Slippi Sauce #68 🐸",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484902/image-e308240dd47890b10bb78b8b9ecc6ee3.png?ehk=hT%2Bdme60I%2FX62tGgzXKu6zLZeZGpv0PWOXweI5kLQ%2BI%3D&ehkOptimized=p8cv8YJgshbCSl%2BYdubUpqPClPjZgM2h91zNJMhGI5I%3D",
-    "entrants": 17,
+    "entrants": 21,
     "start_time": 1664834400
   },
   {
@@ -20,7 +20,7 @@
     "tournament_name": "super smash bong #66",
     "event_name": "Melee singles",
     "image": "https://images.start.gg/images/tournament/485080/image-5a611c538fbc2cd410b08fd698b6850a.jpg?ehk=pjF07JpBW7XMwBtRZJo9iomrSSx%2F3ag5yCoHOQ%2Fo%2Ff0%3D&ehkOptimized=8BEzrQxPzktdjdaffu25Oe9MYRhYJujlcLBYKZL%2F%2B0Q%3D",
-    "entrants": 8,
+    "entrants": 10,
     "start_time": 1664836200
   },
   {
@@ -28,7 +28,7 @@
     "tournament_name": "Coast To Coast Doubles # 1",
     "event_name": "EC Doubles",
     "image": "https://images.start.gg/images/tournament/482663/image-7d734c28bb7d5ca62247e3152740f068.png?ehk=6LsPuLH79%2BmgRqHxBTU2%2FfifKJVYMBSRwWyzjij5axM%3D&ehkOptimized=FPGdSKI4eGVZd0jxFi63TQ%2FjIsCiYESSKvtFqa1jNCs%3D",
-    "entrants": 6,
+    "entrants": 9,
     "start_time": 1664838000
   },
   {
@@ -36,7 +36,7 @@
     "tournament_name": "Coast To Coast Doubles # 1",
     "event_name": "WC Doubles",
     "image": "https://images.start.gg/images/tournament/482663/image-7d734c28bb7d5ca62247e3152740f068.png?ehk=6LsPuLH79%2BmgRqHxBTU2%2FfifKJVYMBSRwWyzjij5axM%3D&ehkOptimized=FPGdSKI4eGVZd0jxFi63TQ%2FjIsCiYESSKvtFqa1jNCs%3D",
-    "entrants": 7,
+    "entrants": 8,
     "start_time": 1664848800
   },
   {
@@ -48,11 +48,19 @@
     "start_time": 1664839800
   },
   {
+    "slug": "tournament/moose-tracks-1/event/melee-top-8",
+    "tournament_name": "Moose Tracks 1",
+    "event_name": "Melee Top 8",
+    "image": "https://images.start.gg/images/tournament/484249/image-1273b44567c8164e61624d0d56211202.jpg?ehk=MQOqjUDeIuqr132%2BJWhD3szLiPAuHIAa%2BEaqL7Qv%2B9Q%3D&ehkOptimized=GvCF%2Fxv%2BVqIC2w7VHle0izq7dNhdQLFMce%2BVmWIEEZM%3D",
+    "entrants": 0,
+    "start_time": 1664848800
+  },
+  {
     "slug": "tournament/the-playlist-16-stranger-heads-prevail/event/amateur-bracket",
     "tournament_name": "The Playlist #16: Stranger Heads Prevail",
     "event_name": "Amateur Bracket",
     "image": "https://images.start.gg/images/tournament/485203/image-460b6077781c485ab13d29c46d537e9c.png?ehk=P0jxixHwb7lHPwNIRmKShqqmAapPeiRdEB4auWG3tyA%3D&ehkOptimized=k4KLrocIhN5VQdcdTsn6mNF9AVBFrEb0Iqn9yBGOYz4%3D",
-    "entrants": 5,
+    "entrants": 6,
     "start_time": 1664841600
   },
   {
@@ -76,7 +84,7 @@
     "tournament_name": "Spudfest 39",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484450/image-0ca7cbe8ae12fd1f35dc0f9effad3c41.jpg?ehk=%2FkC3kYDdENiS%2F2rAa3z3zI1lMFRzZEFHjn9%2FiqM%2BMuU%3D&ehkOptimized=fLMBT5t89ZR0hH0zvE2KDGm7SwQGJ%2Fkccc9syZ%2FJEro%3D",
-    "entrants": 17,
+    "entrants": 18,
     "start_time": 1664845200
   },
   {
@@ -182,6 +190,14 @@
     "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
     "entrants": 14,
     "start_time": 1665097200
+  },
+  {
+    "slug": "tournament/the-legends-tournament-79/event/wavedash-20",
+    "tournament_name": "The Legends Tournament #79",
+    "event_name": "WaveDash #20",
+    "image": "https://images.start.gg/images/tournament/485288/image-e7727e1a54626e095f59d46701cc9e21.png?ehk=gbk0GBoMQHs1qhM86JuSQF2wK2yNYUNIqdKpuKB%2F27s%3D&ehkOptimized=XKrUAnTLxVsEWg9mWEKeUmLaPPSmgOQyWFxZ9gvEokw%3D",
+    "entrants": 1,
+    "start_time": 1665162600
   },
   {
     "slug": "tournament/legs-le-tournament-52/event/melee-singles",
