@@ -1,6 +1,7 @@
 use miette::{Diagnostic, Result};
 use serde::{Deserialize, Serialize};
 use std::path::Path;
+use std::time::{SystemTime, UNIX_EPOCH};
 use thiserror::Error;
 use tracing::{event, instrument, Level};
 
@@ -25,6 +26,12 @@ enum Error {
 #[derive(Deserialize, Debug)]
 struct Config {
     graphql_api_token: String,
+}
+
+#[derive(Serialize, Debug)]
+struct Output {
+    fetched_at: u64,
+    data: Vec<TournamentEvent>,
 }
 
 pub mod api {
@@ -154,7 +161,17 @@ fn main() -> Result<()> {
         .flat_map(smashgg_to_elm_json)
         .collect();
 
-    let json = serde_json::to_string_pretty(&events).expect("failed to convert");
+    let now = SystemTime::now()
+        .duration_since(UNIX_EPOCH)
+        .expect("failed to get current time")
+        .as_secs();
+
+    let output = Output {
+        fetched_at: now,
+        data: events,
+    };
+
+    let json = serde_json::to_string_pretty(&output).expect("failed to convert");
     println!("{json}");
 
     Ok(())
