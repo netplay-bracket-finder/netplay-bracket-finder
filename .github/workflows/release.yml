@@ -11,6 +11,10 @@ on:
         description: 'id of build'
         required: true
         type: string
+      branch:
+        description: 'branch to tag'
+        required: true
+        type: string
 jobs:
   create-release:
     runs-on: ubuntu-latest
@@ -22,16 +26,12 @@ jobs:
       run: |
         set -x
 
-        # find commit of workflow build
-        SHA="$(gh run view ${{ inputs.id }} --json headSha -q '.headSha')"
-        if [[ -z $SHA ]]; then exit 1; fi
-
         # download artifact from workflow build
         gh run download "${{ inputs.id }}" -p 'netplay-bracket-finder-x86_64-linux'
 
         # create and push tag for commit
         git fetch --all --tags
-        git tag "${{ inputs.tag }}" "${SHA}" || exit 1
+        git tag "${{ inputs.tag }}" "${{ inputs.branch }}" || exit 1
         git push --tags
 
         # create release with tag + artifact
