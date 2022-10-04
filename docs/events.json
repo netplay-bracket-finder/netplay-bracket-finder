@@ -8,6 +8,54 @@
     "start_time": 1664906400
   },
   {
+    "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/ladder-melee-east-coast",
+    "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
+    "event_name": "Ladder Melee East Coast",
+    "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
+    "entrants": 0,
+    "start_time": 1664910000
+  },
+  {
+    "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/ladder-melee-west-coast",
+    "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
+    "event_name": "Ladder Melee West Coast",
+    "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
+    "entrants": 0,
+    "start_time": 1664910000
+  },
+  {
+    "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/main-bracket-ec-melee-singles",
+    "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
+    "event_name": "Main Bracket: EC Melee Singles",
+    "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
+    "entrants": 0,
+    "start_time": 1664910000
+  },
+  {
+    "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/main-bracket-wc-melee-singles",
+    "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
+    "event_name": "Main Bracket: WC Melee Singles",
+    "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
+    "entrants": 0,
+    "start_time": 1664910000
+  },
+  {
+    "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/side-event-ec-melee-redemption-bracket",
+    "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
+    "event_name": "Side Event: EC Melee Redemption Bracket",
+    "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
+    "entrants": 0,
+    "start_time": 1664910000
+  },
+  {
+    "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/side-event-wc-melee-redemption-bracket",
+    "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
+    "event_name": "Side Event: WC Melee Redemption Bracket",
+    "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
+    "entrants": 0,
+    "start_time": 1664910000
+  },
+  {
     "slug": "tournament/that-looks-good-on-you-2/event/melee-singles",
     "tournament_name": "That Looks Good On You 2",
     "event_name": "Melee Singles",
@@ -28,7 +76,7 @@
     "tournament_name": "Level One Melee #46 - a noob-only tournament",
     "event_name": "Main Melee Singles",
     "image": "https://images.start.gg/images/tournament/485192/image-a26803052ba562197ad92b483df883c1.png?ehk=361uagjTnNyJW20ydiHYrVMrE%2FnOjTVHPnhK4%2BMii6Y%3D&ehkOptimized=FNlGfomilSr7NLV0K5ysHDrRnyhDevA%2FlD5980TPVis%3D",
-    "entrants": 7,
+    "entrants": 8,
     "start_time": 1664931600
   },
   {
@@ -140,7 +188,7 @@
     "tournament_name": "Super Smash Bong - Ultimate players",
     "event_name": "Melee singles",
     "image": "https://images.start.gg/images/tournament/485361/image-46b34d804078a8cc1ecb64f2dca9a791.jpg?ehk=yfBaj%2FLc0LdsVCjMKcPpHrokF6bft%2BoeB3%2B1jQuFU3k%3D&ehkOptimized=Imh%2BlK7L8hKayss3Px%2FhE8g9W5eEYHF3GfPMxEVouys%3D",
-    "entrants": 4,
+    "entrants": 7,
     "start_time": 1665352800
   },
   {
