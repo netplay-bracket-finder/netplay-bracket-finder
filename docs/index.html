@@ -20,10 +20,10 @@
         </style>
         <script type="text/javascript">
         $(document).ready(() => {
-            $('#tournaments').DataTable({
+            let table = $('#tournaments').DataTable({
                 ajax: {
                     url: "/events.json",
-                    dataSrc: ""
+                    dataSrc: "data"
                 },
                 order: [[3, 'asc']], // show tournaments starting soon, first
                 rowCallback: ( row, data ) => {
@@ -62,7 +62,19 @@
                     },
                 ],
             });
+
+            table.on('xhr', () => {
+                var json = table.ajax.json();
+                let fetched = new Date(json.fetched_at * 1000);
+                let options = {
+                    year: 'numeric', month: 'numeric', day: 'numeric',
+                    hour: 'numeric', minute: 'numeric', second: 'numeric',
+                };
+                let lastUpdated = new Intl.DateTimeFormat('en-US', options).format(fetched);
+                $("#last-updated").append(`<p>last updated: ${lastUpdated}<p>`);
+            });
         });
+
         </script>
     </head>
     <body>
@@ -70,18 +82,20 @@
             <section class="hero is-small is-primary">
               <div class="hero-body">
                 <p class="title">upcoming melee netplay tournaments</p>
-                <p class="subtitle">scraped from start.gg every 15min</p>
+                <p class="subtitle" id="last-updated"></p>
               </div>
             </section>
             <section class="section">
-                <div class="notification is-danger is-light">
-                  under construction! not finished! (oct 1st 2022)
-                </div>
                 <table id="tournaments" class="display"></table>
             </section>
             <footer class="footer">
               <div class="content has-text-centered">
-                built by <a href="https://github.com/djanatyn">DJAN</a> with <a href="https://bulma.io">bulma</bulma>, <a href="https://www.datatables.net/">DataTables</a>, <a href="https://docs.rs/ureq/latest/ureq/">ureq</a>, <a href="https://serde.rs">serde</a>, <a href="https://pages.github.com/">github pages</a>
+                <div class="block">
+                <p>built by <a href="https://github.com/djanatyn">DJAN</a> with <a href="https://bulma.io">bulma</bulma>, <a href="https://www.datatables.net/">DataTables</a>, <a href="https://docs.rs/ureq/latest/ureq/">ureq</a>, <a href="https://serde.rs">serde</a>, <a href="https://pages.github.com/">github pages</a></p>
+                </div>
+                <div class="block">
+                    <a href="https://github.com/netplay-bracket-finder/netplay-bracket-finder/actions/workflows/fetch.yml"><img src="https://github.com/netplay-bracket-finder/netplay-bracket-finder/actions/workflows/fetch.yml/badge.svg"></a>
+                </div>
               </div>
             </footer>
         </div>
