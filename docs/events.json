@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1664899326,
+  "fetched_at": 1664902771,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-1/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484510/image-4af70c16640d6a2ae3a3eb9c566fa529.png?ehk=J09nMHvATnSxBzlb4Rs45aaEJjeWCEFk9ua%2F6YbFKm0%3D&ehkOptimized=TIV3z%2FioMGL1V8TwRjYvGuoqEX6rMs1e7%2B2ynHXvtCU%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1664906400
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "That Looks Good On You 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484437/image-e442c708f029e6a75fc9fdb162f00c8f.png?ehk=zeQL4FBdNzpk77%2BV2h8AC3O27eCX1HAptztkzWJvWP0%3D&ehkOptimized=Dy9tVfJ4LDT4BSiP01AB8A%2FqqGckvsXBxdJr23lh0eY%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1664928000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "THE CC.LINCORPERATION",
       "event_name": "MELEE SINGLES DITTO'S",
       "image": "https://images.start.gg/images/tournament/485376/image-975a2ffe71de2b92cb51a7538fee5103.png?ehk=z4eSH6%2FPinuHSwF7uraUWNTg5l8PxQXY7x1pbXi1%2F%2FA%3D&ehkOptimized=x%2FgY5IkQ2DuP5M0iBixqwuK9PmbMZIECjlT%2Bvb0eeUs%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1664931600
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Level One Melee #46 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/485192/image-a26803052ba562197ad92b483df883c1.png?ehk=361uagjTnNyJW20ydiHYrVMrE%2FnOjTVHPnhK4%2BMii6Y%3D&ehkOptimized=FNlGfomilSr7NLV0K5ysHDrRnyhDevA%2FlD5980TPVis%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1664931600
     },
     {
@@ -102,6 +102,14 @@
       "tournament_name": "Waddle Wednesday 39",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484436/image-e3cfa00240dc9aba5693f28ab0cb7a9d.png?ehk=1Cc1bn4rX6Csh0OWnnH%2Fp7dsdrveRgqeJYWSeEhrweA%3D&ehkOptimized=6E9%2ByQp3k%2FYkL5eN6t92XngA%2Bfs1d15ZGKqrNePBfE8%3D",
+      "entrants": 0,
+      "start_time": 1665014400
+    },
+    {
+      "slug": "tournament/galaxy-gladiators-15/event/melee-singles",
+      "tournament_name": "Galaxy Gladiators #15",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/485557/image-808dea87f266e0b21cba48e470ad9ea9.png?ehk=2RutJ6ZveeWKG3g7tVayTh5p%2FK2Zhy91gxi4E0BcVE0%3D&ehkOptimized=n%2BOLalRXdcZkGQeFIhf18uQ2AVZJED5THHLS0AeEn6o%3D",
       "entrants": 0,
       "start_time": 1665014400
     },
@@ -152,6 +160,14 @@
       "image": "https://images.start.gg/images/tournament/485288/image-e7727e1a54626e095f59d46701cc9e21.png?ehk=gbk0GBoMQHs1qhM86JuSQF2wK2yNYUNIqdKpuKB%2F27s%3D&ehkOptimized=XKrUAnTLxVsEWg9mWEKeUmLaPPSmgOQyWFxZ9gvEokw%3D",
       "entrants": 1,
       "start_time": 1665162600
+    },
+    {
+      "slug": "tournament/sandbag-skirmish-44/event/skirmish",
+      "tournament_name": "SandBag Skirmish 44",
+      "event_name": "Skirmish",
+      "image": "https://images.start.gg/images/tournament/485562/image-5bd96035ee7d9d7c13029357747d549a.png?ehk=MvQ%2BzyhFO1Wt%2BzLCkcVDfMvEbOVsoWA9gEYLGJwU6qw%3D&ehkOptimized=56EJI49rwuL00yjDs7enzGDYwsjaCGzu94MPJ4Yylo4%3D",
+      "entrants": 0,
+      "start_time": 1665165600
     },
     {
       "slug": "tournament/legs-le-tournament-52/event/melee-singles",
