@@ -30,6 +30,7 @@ jobs:
         gh run download "${{ inputs.id }}" -p 'netplay-bracket-finder-x86_64-linux'
 
         # create and push tag for commit
+        git fetch --all --tags
         git tag "${{ inputs.tag }}" "${SHA}" || exit 1
         git push --tags
 
