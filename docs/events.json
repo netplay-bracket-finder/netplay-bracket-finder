@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1664895886,
+  "fetched_at": 1664898244,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-1/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484510/image-4af70c16640d6a2ae3a3eb9c566fa529.png?ehk=J09nMHvATnSxBzlb4Rs45aaEJjeWCEFk9ua%2F6YbFKm0%3D&ehkOptimized=TIV3z%2FioMGL1V8TwRjYvGuoqEX6rMs1e7%2B2ynHXvtCU%3D",
-      "entrants": 9,
+      "entrants": 11,
       "start_time": 1664906400
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "That Looks Good On You 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484437/image-e442c708f029e6a75fc9fdb162f00c8f.png?ehk=zeQL4FBdNzpk77%2BV2h8AC3O27eCX1HAptztkzWJvWP0%3D&ehkOptimized=Dy9tVfJ4LDT4BSiP01AB8A%2FqqGckvsXBxdJr23lh0eY%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1664928000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "THE CC.LINCORPERATION",
       "event_name": "MELEE SINGLES DITTO'S",
       "image": "https://images.start.gg/images/tournament/485376/image-975a2ffe71de2b92cb51a7538fee5103.png?ehk=z4eSH6%2FPinuHSwF7uraUWNTg5l8PxQXY7x1pbXi1%2F%2FA%3D&ehkOptimized=x%2FgY5IkQ2DuP5M0iBixqwuK9PmbMZIECjlT%2Bvb0eeUs%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1664931600
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "Only Noobs 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1665097200
     },
     {
