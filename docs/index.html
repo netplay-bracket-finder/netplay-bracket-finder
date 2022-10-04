@@ -1,103 +1,103 @@
 <!doctype html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>upcoming melee</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
-        <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-3.6.0/dt-1.12.1/datatables.min.js"></script>
-        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.12.1/datatables.min.css"/>
-        <style>
-         tr {
-             position: relative;
-             background-origin: border-box;
-             background-size: cover;
-             background-repeat: repeat;
-             background-position: center center;
-         }
-        </style>
-        <script type="text/javascript">
-        $(document).ready(() => {
-            let table = $('#tournaments').DataTable({
-                ajax: {
-                    url: "/events.json",
-                    dataSrc: "data"
-                },
-                order: [[3, 'asc']], // show tournaments starting soon, first
-                rowCallback: ( row, data ) => {
-                    $(row).css({
-                        "background-image": `linear-gradient(to right, rgba(255,255,255, 0.97) 0 100%), url('${data.image}')`,
-                    });
-                },
-                columns: [
-                    { data: 'tournament_name',
-                      title: 'tournament',
-                      render: (data, datatype, row) => {
-                          return `<a href="https://start.gg/${row.slug}" >${data}</a>`;
-                      }
-                    },
-                    { data: 'event_name',
-                      title: 'event',
-                      render: (data, datatype, row) => {
-                          return `<a href="https://start.gg/${row.slug}" >${data}</a></div>`;
-                      }
-                    },
-                    { data: 'entrants', title: 'entrants' },
-                    { data: 'start_time',
-                      title: 'start time',
-                      render: (data, datatype) => {
-                          let start = new Date(data * 1000);
-                          let options = {
-                              year: 'numeric', month: 'numeric', day: 'numeric',
-                              hour: 'numeric', minute: 'numeric', second: 'numeric',
-                          };
-                          return (new Intl.DateTimeFormat('en-US', options).format(start));
-                      },
-                      orderData: 4
-                    },
-                    { data: 'start_time',
-                      visible: false,
-                    },
-                ],
-            });
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>upcoming melee</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-3.6.0/dt-1.12.1/datatables.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.12.1/datatables.min.css"/>
+    <style>
+     tr {
+       position: relative;
+       background-origin: border-box;
+       background-size: cover;
+       background-repeat: repeat;
+       background-position: center center;
+     }
+    </style>
+    <script type="text/javascript">
+     $(document).ready(() => {
+       let table = $('#tournaments').DataTable({
+         ajax: {
+           url: "/events.json",
+           dataSrc: "data"
+         },
+         order: [[3, 'asc']], // show tournaments starting soon, first
+         rowCallback: ( row, data ) => {
+           $(row).css({
+             "background-image": `linear-gradient(to right, rgba(255,255,255, 0.97) 0 100%), url('${data.image}')`,
+           });
+         },
+         columns: [
+           { data: 'tournament_name',
+             title: 'tournament',
+             render: (data, datatype, row) => {
+               return `<a href="https://start.gg/${row.slug}" >${data}</a>`;
+             }
+           },
+           { data: 'event_name',
+             title: 'event',
+             render: (data, datatype, row) => {
+               return `<a href="https://start.gg/${row.slug}" >${data}</a></div>`;
+             }
+           },
+           { data: 'entrants', title: 'entrants' },
+           { data: 'start_time',
+             title: 'start time',
+             render: (data, datatype) => {
+               let start = new Date(data * 1000);
+               let options = {
+                 year: 'numeric', month: 'numeric', day: 'numeric',
+                 hour: 'numeric', minute: 'numeric', second: 'numeric',
+               };
+               return (new Intl.DateTimeFormat('en-US', options).format(start));
+             },
+             orderData: 4
+           },
+           { data: 'start_time',
+             visible: false,
+           },
+         ],
+       });
 
-            table.on('xhr', () => {
-                var json = table.ajax.json();
-                let fetched = new Date(json.fetched_at * 1000);
-                let options = {
-                    year: 'numeric', month: 'numeric', day: 'numeric',
-                    hour: 'numeric', minute: 'numeric', second: 'numeric',
-                };
-                let lastUpdated = new Intl.DateTimeFormat('en-US', options).format(fetched);
-                $("#last-updated").append(`<p>last updated: ${lastUpdated}<p>`);
-            });
-        });
+       table.on('xhr', () => {
+         var json = table.ajax.json();
+         let fetched = new Date(json.fetched_at * 1000);
+         let options = {
+           year: 'numeric', month: 'numeric', day: 'numeric',
+           hour: 'numeric', minute: 'numeric', second: 'numeric',
+         };
+         let lastUpdated = new Intl.DateTimeFormat('en-US', options).format(fetched);
+         $("#last-updated").append(`<p>last updated: ${lastUpdated}<p>`);
+       });
+     });
 
-        </script>
-    </head>
-    <body>
-        <div class="container">
-            <section class="hero is-small is-primary">
-              <div class="hero-body">
-                <p class="title">upcoming melee netplay tournaments</p>
-                <p class="subtitle" id="last-updated"></p>
-              </div>
-            </section>
-            <section class="section">
-                <table id="tournaments" class="display"></table>
-            </section>
-            <footer class="footer">
-              <div class="content has-text-centered">
-                <div class="block">
-                <p>built by <a href="https://github.com/djanatyn">DJAN</a> with <a href="https://bulma.io">bulma</bulma>, <a href="https://www.datatables.net/">DataTables</a>, <a href="https://docs.rs/ureq/latest/ureq/">ureq</a>, <a href="https://serde.rs">serde</a>, <a href="https://pages.github.com/">github pages</a></p>
-                </div>
-                <div class="block">
-                    <a href="https://github.com/netplay-bracket-finder/netplay-bracket-finder/actions/workflows/fetch.yml"><img src="https://github.com/netplay-bracket-finder/netplay-bracket-finder/actions/workflows/fetch.yml/badge.svg"></a>
-                </div>
-              </div>
-            </footer>
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <section class="hero is-small is-primary">
+        <div class="hero-body">
+          <p class="title">upcoming melee netplay tournaments</p>
+          <p class="subtitle" id="last-updated"></p>
         </div>
-    </body>
+      </section>
+      <section class="section">
+        <table id="tournaments" class="display"></table>
+      </section>
+      <footer class="footer">
+        <div class="content has-text-centered">
+          <div class="block">
+            <p>built by <a href="https://github.com/djanatyn">DJAN</a> with <a href="https://bulma.io">bulma</bulma>, <a href="https://www.datatables.net/">DataTables</a>, <a href="https://docs.rs/ureq/latest/ureq/">ureq</a>, <a href="https://serde.rs">serde</a>, <a href="https://pages.github.com/">github pages</a></p>
+          </div>
+          <div class="block">
+            <a href="https://github.com/netplay-bracket-finder/netplay-bracket-finder/actions/workflows/fetch.yml"><img src="https://github.com/netplay-bracket-finder/netplay-bracket-finder/actions/workflows/fetch.yml/badge.svg"></a>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
 </html>
