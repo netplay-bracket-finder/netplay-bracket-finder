@@ -1,21 +1,5 @@
 [
   {
-    "slug": "tournament/monday-night-melee-spokane-episode-one-the-phantom-hitbox/event/melee-singles",
-    "tournament_name": "Monday Night Melee Spokane - Episode One: The Phantom Hitbox",
-    "event_name": "Melee Singles",
-    "image": "https://images.start.gg/images/tournament/485278/image-14df1bc1f0c3eaccb76131dd7b83f74b.jpg?ehk=g0OKc%2BiQjP90XEJVokudfdj4fnAMvZd5eV3mZvPIQuU%3D&ehkOptimized=1xF2NFfm3O9ZIGGixFCLtksgEyfKPD93ZHC%2BQadxBBU%3D",
-    "entrants": 5,
-    "start_time": 1664852400
-  },
-  {
-    "slug": "tournament/mnn-28-1/event/melee-singles",
-    "tournament_name": "MNN#28",
-    "event_name": "Melee Singles",
-    "image": "https://images.start.gg/images/tournament/485187/image-450b6c22c1349b2246305ab40ed54f0c.png?ehk=9IX4HgeBuAxGbkKjgIkApzvAiWpMDcaffhMblaCgtJU%3D&ehkOptimized=b4r%2BZZldskDJ9%2FLXMl4eBfF9SK09%2BSTKCwC7G5HFqiI%3D",
-    "entrants": 24,
-    "start_time": 1664852400
-  },
-  {
     "slug": "tournament/tuesday-night-fever-1/event/melee-singles",
     "tournament_name": "Tuesday Night Fever #1",
     "event_name": "Melee Singles",
@@ -35,8 +19,8 @@
     "slug": "tournament/the-cc-lincorperation/event/melee-singles-ditto-s",
     "tournament_name": "THE CC.LINCORPERATION",
     "event_name": "MELEE SINGLES DITTO'S",
-    "image": "https://images.start.gg/images/tournament/485376/image-0c5d9e02e73d38702dd2686e1834bcb5.png?ehk=yELBdCIb1UOJdb9ZOychn57h0uxtKIstRjKVhMG8vhs%3D&ehkOptimized=osxDyi5lYDfgaCjmVwTmkfsqzR6UFFXzJqA934Qo2%2F8%3D",
-    "entrants": 0,
+    "image": "https://images.start.gg/images/tournament/485376/image-975a2ffe71de2b92cb51a7538fee5103.png?ehk=z4eSH6%2FPinuHSwF7uraUWNTg5l8PxQXY7x1pbXi1%2F%2FA%3D&ehkOptimized=x%2FgY5IkQ2DuP5M0iBixqwuK9PmbMZIECjlT%2Bvb0eeUs%3D",
+    "entrants": 1,
     "start_time": 1664931600
   },
   {
@@ -44,7 +28,7 @@
     "tournament_name": "Level One Melee #46 - a noob-only tournament",
     "event_name": "Main Melee Singles",
     "image": "https://images.start.gg/images/tournament/485192/image-a26803052ba562197ad92b483df883c1.png?ehk=361uagjTnNyJW20ydiHYrVMrE%2FnOjTVHPnhK4%2BMii6Y%3D&ehkOptimized=FNlGfomilSr7NLV0K5ysHDrRnyhDevA%2FlD5980TPVis%3D",
-    "entrants": 5,
+    "entrants": 6,
     "start_time": 1664931600
   },
   {
@@ -100,7 +84,7 @@
     "tournament_name": "Only Noobs 87",
     "event_name": "Melee Singles",
     "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-    "entrants": 14,
+    "entrants": 15,
     "start_time": 1665097200
   },
   {
@@ -118,6 +102,14 @@
     "image": "https://images.start.gg/images/tournament/484613/image-f7c7db5cec2f1675d70a0dcdded1f531.png?ehk=vP2Q3iIpcXbhk%2FGlMy5ViQtJL8Im%2FJglmiLikgReAr0%3D&ehkOptimized=qdLXmsFJPraXSdAwsE4EZxf2u8owlZBea22csg0VzqQ%3D",
     "entrants": 1,
     "start_time": 1665262800
+  },
+  {
+    "slug": "tournament/seam-15-1/event/east-asia-melee",
+    "tournament_name": "SEAM#15",
+    "event_name": "East Asia Melee",
+    "image": "https://images.start.gg/images/tournament/485421/image-a15c4bcccfe163b2d7467b0d67965b65.png?ehk=qnOhHDghto9tu7k0sTj6df%2FDHfcTWKMKHFp6vPMjJ88%3D&ehkOptimized=ouRHyqHxEc3PASTO7gEW5KCAXIOt52zk90VPbNTU4AE%3D",
+    "entrants": 1,
+    "start_time": 1665295200
   },
   {
     "slug": "tournament/dorime-s-dojo-3/event/melee-singles",
@@ -140,7 +132,7 @@
     "tournament_name": "Super Smash Bong - Ultimate players",
     "event_name": "Melee singles",
     "image": "https://images.start.gg/images/tournament/485361/image-46b34d804078a8cc1ecb64f2dca9a791.jpg?ehk=yfBaj%2FLc0LdsVCjMKcPpHrokF6bft%2BoeB3%2B1jQuFU3k%3D&ehkOptimized=Imh%2BlK7L8hKayss3Px%2FhE8g9W5eEYHF3GfPMxEVouys%3D",
-    "entrants": 3,
+    "entrants": 4,
     "start_time": 1665352800
   },
   {
