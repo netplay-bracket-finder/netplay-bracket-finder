@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1664915232,
+  "fetched_at": 1664916706,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
-      "entrants": 39,
+      "entrants": 44,
       "start_time": 1664910000
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1664910000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1664910000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1664910000
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Cataquackdown 11: It's always a 50/50",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485585/image-666c99c1d45ae1b23478830b6ddc1c12.png?ehk=2mearUjSduXxqY0rdBBySY7%2BZhPQx7IpRhZ5kfvoJ44%3D&ehkOptimized=xBgCJ2flox7eYcWyOALWs7I%2FLb7wqMAurdQBVbsOMA4%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1664927400
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "That Looks Good On You 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484437/image-e442c708f029e6a75fc9fdb162f00c8f.png?ehk=zeQL4FBdNzpk77%2BV2h8AC3O27eCX1HAptztkzWJvWP0%3D&ehkOptimized=Dy9tVfJ4LDT4BSiP01AB8A%2FqqGckvsXBxdJr23lh0eY%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1664928000
     },
     {
@@ -138,11 +138,19 @@
       "start_time": 1665075600
     },
     {
+      "slug": "tournament/troppo-italiano-69/event/singles",
+      "tournament_name": "Troppo Italiano #69",
+      "event_name": "Singles",
+      "image": "https://images.start.gg/images/tournament/485643/image-9c8ea9d412af96724babbd748fb725b1.jpg?ehk=wPXcLMMZ%2FNLWWBQfidC1Due8kmI0HksOrFSbRZXSg5g%3D&ehkOptimized=dxAXJpmlT6IVlkksy%2BthXCa1QAqeql7UA6%2Fn%2BM2FlyI%3D",
+      "entrants": 0,
+      "start_time": 1665082800
+    },
+    {
       "slug": "tournament/only-noobs-87/event/melee-singles",
       "tournament_name": "Only Noobs 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1665097200
     },
     {
