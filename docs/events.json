@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1664985028,
+  "fetched_at": 1664988684,
   "data": [
     {
       "slug": "tournament/curdled-milk-wednesdays-3/event/melee-singles",
       "tournament_name": "Curdled Milk Wednesdays #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485021/image-44656a3e4322c8294508fcfcc207959d.jpg?ehk=dok%2FUXpXI0zUJHIAwPSFiX5F2fWjyM4ISKd4aKvfh34%3D&ehkOptimized=v5tDQIMKVfK9DqZZ6PZyDJCrUASXrWJ71K7IKtwmWhA%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1664991000
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 39",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484436/image-e3cfa00240dc9aba5693f28ab0cb7a9d.png?ehk=1Cc1bn4rX6Csh0OWnnH%2Fp7dsdrveRgqeJYWSeEhrweA%3D&ehkOptimized=6E9%2ByQp3k%2FYkL5eN6t92XngA%2Bfs1d15ZGKqrNePBfE8%3D",
-      "entrants": 3,
+      "entrants": 6,
       "start_time": 1665014400
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Galaxy Gladiators #15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485557/image-808dea87f266e0b21cba48e470ad9ea9.png?ehk=2RutJ6ZveeWKG3g7tVayTh5p%2FK2Zhy91gxi4E0BcVE0%3D&ehkOptimized=n%2BOLalRXdcZkGQeFIhf18uQ2AVZJED5THHLS0AeEn6o%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665014400
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Only Noobs 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1665097200
     },
     {
@@ -95,6 +95,14 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485145/image-7b5b5fb7f9c15f4e9bd5b006c53f9a72.png?ehk=rt7ITozeTnApu%2FIRygSK6F2IGJpb6WbdUqnQpUO8QV0%3D&ehkOptimized=eUe%2Bwu9vPbiI6C%2B2pERae54sr%2Fvvarh5x7fit%2FjBNOE%3D",
       "entrants": 0,
+      "start_time": 1665158400
+    },
+    {
+      "slug": "tournament/asl-s-weekly-weekend-melee-12/event/melee-singles",
+      "tournament_name": "ASL’s Weekly Weekend Melee #12",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/485866/image-b5d83def6345f09c65a660da113b921e.png?ehk=wt0nQXB6DTP8vvLnT4UeqBylscekjOzZf8u8UAlj3MI%3D&ehkOptimized=Ko5y%2Bw9qQ6CNaoL9QlUor8qZlnhmgLowiUj11btfsyA%3D",
+      "entrants": 1,
       "start_time": 1665158400
     },
     {
