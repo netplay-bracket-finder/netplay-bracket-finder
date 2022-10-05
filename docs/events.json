@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1664935396,
+  "fetched_at": 1664941601,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/ladder-melee-east-coast",
@@ -18,28 +18,28 @@
       "start_time": 1664910000
     },
     {
-      "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/main-bracket-ec-melee-singles",
+      "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/main-bracket-wc-melee-singles",
       "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
-      "event_name": "Main Bracket: EC Melee Singles",
+      "event_name": "Main Bracket: WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
-      "entrants": 21,
-      "start_time": 1664926200
+      "entrants": 20,
+      "start_time": 1664937000
     },
     {
       "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/side-event-wc-melee-redemption-bracket",
       "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
-      "entrants": 14,
-      "start_time": 1664910000
+      "entrants": 9,
+      "start_time": 1664937000
     },
     {
-      "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/main-bracket-wc-melee-singles",
+      "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/main-bracket-ec-melee-singles",
       "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
-      "event_name": "Main Bracket: WC Melee Singles",
+      "event_name": "Main Bracket: EC Melee Singles",
       "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
-      "entrants": 4,
-      "start_time": 1664910000
+      "entrants": 21,
+      "start_time": 1664926200
     },
     {
       "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/side-event-ec-melee-redemption-bracket",
@@ -62,7 +62,7 @@
       "tournament_name": "Waddle Wednesday 39",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484436/image-e3cfa00240dc9aba5693f28ab0cb7a9d.png?ehk=1Cc1bn4rX6Csh0OWnnH%2Fp7dsdrveRgqeJYWSeEhrweA%3D&ehkOptimized=6E9%2ByQp3k%2FYkL5eN6t92XngA%2Bfs1d15ZGKqrNePBfE8%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665014400
     },
     {
@@ -74,11 +74,19 @@
       "start_time": 1665014400
     },
     {
+      "slug": "tournament/silver-slippi-league-25/event/melee-ranked-ladder",
+      "tournament_name": "Silver Slippi League #25",
+      "event_name": "Melee Ranked Ladder",
+      "image": "https://images.start.gg/images/tournament/485727/image-3496c0f876ed2ee6aac494772e60a701.png?ehk=c3V6EmWvAhJB%2Bwi6B%2Fby5yUpRy52H6qZle4VPPyo92g%3D&ehkOptimized=rxNDTAuzlUiCV2h%2BedhsxMCPj1vKZ35iCOeBeMVTSL0%3D",
+      "entrants": 2,
+      "start_time": 1665018000
+    },
+    {
       "slug": "tournament/treythetrashman-s-garbage-connection-wc-100-pot-bonus-allchat-esports-7/event/melee-singles-west-coast",
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/484321/image-005ca4ca214ef407158b06c6a18466ca.jpg?ehk=%2FlE1xXVRVg2ktggp8CoNvYYu%2FRypnf2xUo3D42%2FtkEg%3D&ehkOptimized=DIlkkU3%2FrGG4%2Bew1mo5lLtbbC4xFFskskZSWgTMC%2Fm0%3D",
-      "entrants": 10,
+      "entrants": 13,
       "start_time": 1665021600
     },
     {
@@ -110,8 +118,16 @@
       "tournament_name": "Only Noobs 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1665097200
+    },
+    {
+      "slug": "tournament/aero-s-arena-16-wc-60-prizepool/event/wc-melee-singles",
+      "tournament_name": "Aero's Arena #16 WC - $60 Prizepool",
+      "event_name": "WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/485720/image-0428ae83c223939439ab2acab50c5484.jpg?ehk=RRJVsU3O6BZc5%2FZ1OnFaTjNNtuPQ7vS5342wxCf2o94%3D&ehkOptimized=R0wRk92CrpFs70ZP2QBAcZHuuQWB7JdEHGY3ZAuMXfg%3D",
+      "entrants": 1,
+      "start_time": 1665108000
     },
     {
       "slug": "tournament/caf-42/event/melee-singles",
@@ -126,7 +142,7 @@
       "tournament_name": "The Legends Tournament #79",
       "event_name": "WaveDash #20",
       "image": "https://images.start.gg/images/tournament/485288/image-e7727e1a54626e095f59d46701cc9e21.png?ehk=gbk0GBoMQHs1qhM86JuSQF2wK2yNYUNIqdKpuKB%2F27s%3D&ehkOptimized=XKrUAnTLxVsEWg9mWEKeUmLaPPSmgOQyWFxZ9gvEokw%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1665162600
     },
     {
@@ -174,8 +190,16 @@
       "tournament_name": "Super Smash Bong - Ultimate players",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/485361/image-46b34d804078a8cc1ecb64f2dca9a791.jpg?ehk=yfBaj%2FLc0LdsVCjMKcPpHrokF6bft%2BoeB3%2B1jQuFU3k%3D&ehkOptimized=Imh%2BlK7L8hKayss3Px%2FhE8g9W5eEYHF3GfPMxEVouys%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1665352800
+    },
+    {
+      "slug": "tournament/can-you-take-the-heat/event/melee-singles",
+      "tournament_name": "Can You Take the Heat?",
+      "event_name": "melee singles",
+      "image": "https://images.start.gg/images/tournament/485728/image-69f110f6a3bba7cb0db4f0dbcdb3153a.png?ehk=unf%2FowiQLKfioT2Qq0224hpwJrYi0f32kuCFZaPJ0l0%3D&ehkOptimized=T2fwP6JjTkVdMCa%2BjBxmzGHPOaUOSf3NA3t%2FhDjSPuA%3D",
+      "entrants": 8,
+      "start_time": 1665356400
     },
     {
       "slug": "tournament/searcadian/event/singles",
