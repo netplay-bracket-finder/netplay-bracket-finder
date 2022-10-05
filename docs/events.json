@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665004809,
+  "fetched_at": 1665006326,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-39/event/melee-singles",
       "tournament_name": "Waddle Wednesday 39",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484436/image-e3cfa00240dc9aba5693f28ab0cb7a9d.png?ehk=1Cc1bn4rX6Csh0OWnnH%2Fp7dsdrveRgqeJYWSeEhrweA%3D&ehkOptimized=6E9%2ByQp3k%2FYkL5eN6t92XngA%2Bfs1d15ZGKqrNePBfE8%3D",
-      "entrants": 31,
+      "entrants": 35,
       "start_time": 1665014400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/484321/image-005ca4ca214ef407158b06c6a18466ca.jpg?ehk=%2FlE1xXVRVg2ktggp8CoNvYYu%2FRypnf2xUo3D42%2FtkEg%3D&ehkOptimized=DIlkkU3%2FrGG4%2Bew1mo5lLtbbC4xFFskskZSWgTMC%2Fm0%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1665021600
     },
     {
@@ -142,7 +142,7 @@
       "tournament_name": "LGBT S3E11: EC and WC hold hands",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/485880/image-673facbc6654c3016e8568f08526aa3c.png?ehk=qdG%2FFaLOpNpxQtXNrmnau%2FIVxP1x9WV14RUHZgyNwJw%3D&ehkOptimized=hEe6%2BZfwJLhPjX4hyonZUhmOZXecBcqVqgQJao%2FsTrY%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1665288000
     },
     {
@@ -150,7 +150,7 @@
       "tournament_name": "LGBT S3E11: EC and WC hold hands",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485880/image-673facbc6654c3016e8568f08526aa3c.png?ehk=qdG%2FFaLOpNpxQtXNrmnau%2FIVxP1x9WV14RUHZgyNwJw%3D&ehkOptimized=hEe6%2BZfwJLhPjX4hyonZUhmOZXecBcqVqgQJao%2FsTrY%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1665288000
     },
     {
