@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1664945770,
+  "fetched_at": 1664949113,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/ladder-melee-east-coast",
@@ -18,14 +18,6 @@
       "start_time": 1664910000
     },
     {
-      "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/main-bracket-wc-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
-      "event_name": "Main Bracket: WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
-      "entrants": 20,
-      "start_time": 1664937000
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/main-bracket-ec-melee-singles",
       "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
@@ -40,6 +32,14 @@
       "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
       "entrants": 16,
       "start_time": 1664926200
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/main-bracket-wc-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
+      "event_name": "Main Bracket: WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
+      "entrants": 20,
+      "start_time": 1664937000
     },
     {
       "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/side-event-wc-melee-redemption-bracket",
@@ -78,7 +78,7 @@
       "tournament_name": "Silver Slippi League #25",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/485727/image-3496c0f876ed2ee6aac494772e60a701.png?ehk=c3V6EmWvAhJB%2Bwi6B%2Fby5yUpRy52H6qZle4VPPyo92g%3D&ehkOptimized=rxNDTAuzlUiCV2h%2BedhsxMCPj1vKZ35iCOeBeMVTSL0%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665018000
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/484321/image-005ca4ca214ef407158b06c6a18466ca.jpg?ehk=%2FlE1xXVRVg2ktggp8CoNvYYu%2FRypnf2xUo3D42%2FtkEg%3D&ehkOptimized=DIlkkU3%2FrGG4%2Bew1mo5lLtbbC4xFFskskZSWgTMC%2Fm0%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1665021600
     },
     {
@@ -118,7 +118,7 @@
       "tournament_name": "Only Noobs 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1665097200
     },
     {
