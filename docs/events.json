@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1664993792,
+  "fetched_at": 1664996528,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-39/event/melee-singles",
       "tournament_name": "Waddle Wednesday 39",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484436/image-e3cfa00240dc9aba5693f28ab0cb7a9d.png?ehk=1Cc1bn4rX6Csh0OWnnH%2Fp7dsdrveRgqeJYWSeEhrweA%3D&ehkOptimized=6E9%2ByQp3k%2FYkL5eN6t92XngA%2Bfs1d15ZGKqrNePBfE8%3D",
-      "entrants": 12,
+      "entrants": 16,
       "start_time": 1665014400
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Silver Slippi League #25",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/485727/image-3496c0f876ed2ee6aac494772e60a701.png?ehk=c3V6EmWvAhJB%2Bwi6B%2Fby5yUpRy52H6qZle4VPPyo92g%3D&ehkOptimized=rxNDTAuzlUiCV2h%2BedhsxMCPj1vKZ35iCOeBeMVTSL0%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1665018000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/484321/image-005ca4ca214ef407158b06c6a18466ca.jpg?ehk=%2FlE1xXVRVg2ktggp8CoNvYYu%2FRypnf2xUo3D42%2FtkEg%3D&ehkOptimized=DIlkkU3%2FrGG4%2Bew1mo5lLtbbC4xFFskskZSWgTMC%2Fm0%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1665021600
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Troppo Italiano #69",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/485643/image-9c8ea9d412af96724babbd748fb725b1.jpg?ehk=wPXcLMMZ%2FNLWWBQfidC1Due8kmI0HksOrFSbRZXSg5g%3D&ehkOptimized=dxAXJpmlT6IVlkksy%2BthXCa1QAqeql7UA6%2Fn%2BM2FlyI%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665082800
     },
     {
