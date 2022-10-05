@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665008681,
+  "fetched_at": 1665010158,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-39/event/melee-singles",
       "tournament_name": "Waddle Wednesday 39",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484436/image-e3cfa00240dc9aba5693f28ab0cb7a9d.png?ehk=1Cc1bn4rX6Csh0OWnnH%2Fp7dsdrveRgqeJYWSeEhrweA%3D&ehkOptimized=6E9%2ByQp3k%2FYkL5eN6t92XngA%2Bfs1d15ZGKqrNePBfE8%3D",
-      "entrants": 40,
+      "entrants": 47,
       "start_time": 1665014400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Fist Bump #18",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485808/image-921af908b387016fa73d9f9022ec8850.png?ehk=795EV9PyfR4%2BB%2FD2g4MmZ2cHZ%2B%2F%2BN%2FeQSdV1ToLTIzI%3D&ehkOptimized=Oc3RUfV2iwF%2BrXkuFPg4yVmSk17xBlh5VvNdECYI6%2FQ%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1665014400
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #6",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/485938/image-ba54f645c3750bfef8111e3b0eab8652.png?ehk=zMz%2BKFsmkae8%2BpNMql4M5vCvMG6xboFtDAxbfKuwTrc%3D&ehkOptimized=VLX2XOubHc9IZr4LmRR%2Bb3NVoXw6MlQ%2F2Xsf1axu8r4%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1665097200
     },
     {
