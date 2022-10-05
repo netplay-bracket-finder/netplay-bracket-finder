@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1664941601,
+  "fetched_at": 1664945770,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/ladder-melee-east-coast",
@@ -26,14 +26,6 @@
       "start_time": 1664937000
     },
     {
-      "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
-      "entrants": 9,
-      "start_time": 1664937000
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/main-bracket-ec-melee-singles",
       "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
@@ -48,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
       "entrants": 16,
       "start_time": 1664926200
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
+      "entrants": 9,
+      "start_time": 1664937000
     },
     {
       "slug": "tournament/curdled-milk-wednesdays-3/event/melee-singles",
@@ -78,7 +78,7 @@
       "tournament_name": "Silver Slippi League #25",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/485727/image-3496c0f876ed2ee6aac494772e60a701.png?ehk=c3V6EmWvAhJB%2Bwi6B%2Fby5yUpRy52H6qZle4VPPyo92g%3D&ehkOptimized=rxNDTAuzlUiCV2h%2BedhsxMCPj1vKZ35iCOeBeMVTSL0%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1665018000
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "Aero's Arena #16 WC - $60 Prizepool",
       "event_name": "WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/485720/image-0428ae83c223939439ab2acab50c5484.jpg?ehk=RRJVsU3O6BZc5%2FZ1OnFaTjNNtuPQ7vS5342wxCf2o94%3D&ehkOptimized=R0wRk92CrpFs70ZP2QBAcZHuuQWB7JdEHGY3ZAuMXfg%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1665108000
     },
     {
@@ -198,7 +198,7 @@
       "tournament_name": "Can You Take the Heat?",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/485728/image-69f110f6a3bba7cb0db4f0dbcdb3153a.png?ehk=unf%2FowiQLKfioT2Qq0224hpwJrYi0f32kuCFZaPJ0l0%3D&ehkOptimized=T2fwP6JjTkVdMCa%2BjBxmzGHPOaUOSf3NA3t%2FhDjSPuA%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1665356400
     },
     {
