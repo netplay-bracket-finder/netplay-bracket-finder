@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665006326,
+  "fetched_at": 1665008681,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-39/event/melee-singles",
       "tournament_name": "Waddle Wednesday 39",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484436/image-e3cfa00240dc9aba5693f28ab0cb7a9d.png?ehk=1Cc1bn4rX6Csh0OWnnH%2Fp7dsdrveRgqeJYWSeEhrweA%3D&ehkOptimized=6E9%2ByQp3k%2FYkL5eN6t92XngA%2Bfs1d15ZGKqrNePBfE8%3D",
-      "entrants": 35,
+      "entrants": 40,
       "start_time": 1665014400
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Silver Slippi League #25",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/485727/image-3496c0f876ed2ee6aac494772e60a701.png?ehk=c3V6EmWvAhJB%2Bwi6B%2Fby5yUpRy52H6qZle4VPPyo92g%3D&ehkOptimized=rxNDTAuzlUiCV2h%2BedhsxMCPj1vKZ35iCOeBeMVTSL0%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1665018000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/484321/image-005ca4ca214ef407158b06c6a18466ca.jpg?ehk=%2FlE1xXVRVg2ktggp8CoNvYYu%2FRypnf2xUo3D42%2FtkEg%3D&ehkOptimized=DIlkkU3%2FrGG4%2Bew1mo5lLtbbC4xFFskskZSWgTMC%2Fm0%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1665021600
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #6",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/485938/image-ba54f645c3750bfef8111e3b0eab8652.png?ehk=zMz%2BKFsmkae8%2BpNMql4M5vCvMG6xboFtDAxbfKuwTrc%3D&ehkOptimized=VLX2XOubHc9IZr4LmRR%2Bb3NVoXw6MlQ%2F2Xsf1axu8r4%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1665097200
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Café 42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485145/image-7b5b5fb7f9c15f4e9bd5b006c53f9a72.png?ehk=rt7ITozeTnApu%2FIRygSK6F2IGJpb6WbdUqnQpUO8QV0%3D&ehkOptimized=eUe%2Bwu9vPbiI6C%2B2pERae54sr%2Fvvarh5x7fit%2FjBNOE%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665158400
     },
     {
