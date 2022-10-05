@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665002904,
+  "fetched_at": 1665004809,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-39/event/melee-singles",
       "tournament_name": "Waddle Wednesday 39",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484436/image-e3cfa00240dc9aba5693f28ab0cb7a9d.png?ehk=1Cc1bn4rX6Csh0OWnnH%2Fp7dsdrveRgqeJYWSeEhrweA%3D&ehkOptimized=6E9%2ByQp3k%2FYkL5eN6t92XngA%2Bfs1d15ZGKqrNePBfE8%3D",
-      "entrants": 25,
+      "entrants": 31,
       "start_time": 1665014400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Fist Bump #18",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485808/image-921af908b387016fa73d9f9022ec8850.png?ehk=795EV9PyfR4%2BB%2FD2g4MmZ2cHZ%2B%2F%2BN%2FeQSdV1ToLTIzI%3D&ehkOptimized=Oc3RUfV2iwF%2BrXkuFPg4yVmSk17xBlh5VvNdECYI6%2FQ%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665014400
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Silver Slippi League #25",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/485727/image-3496c0f876ed2ee6aac494772e60a701.png?ehk=c3V6EmWvAhJB%2Bwi6B%2Fby5yUpRy52H6qZle4VPPyo92g%3D&ehkOptimized=rxNDTAuzlUiCV2h%2BedhsxMCPj1vKZ35iCOeBeMVTSL0%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1665018000
     },
     {
@@ -182,7 +182,7 @@
       "tournament_name": "Super Smash Bong - Ultimate players",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/485361/image-46b34d804078a8cc1ecb64f2dca9a791.jpg?ehk=yfBaj%2FLc0LdsVCjMKcPpHrokF6bft%2BoeB3%2B1jQuFU3k%3D&ehkOptimized=Imh%2BlK7L8hKayss3Px%2FhE8g9W5eEYHF3GfPMxEVouys%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1665352800
     },
     {
