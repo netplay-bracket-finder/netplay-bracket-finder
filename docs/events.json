@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1664927443,
+  "fetched_at": 1664935396,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/ladder-melee-east-coast",
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
-      "entrants": 37,
+      "entrants": 51,
       "start_time": 1664910000
     },
     {
@@ -26,19 +26,11 @@
       "start_time": 1664926200
     },
     {
-      "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/side-event-ec-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
-      "event_name": "Side Event: EC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
-      "entrants": 16,
-      "start_time": 1664926200
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/side-event-wc-melee-redemption-bracket",
       "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
-      "entrants": 10,
+      "entrants": 14,
       "start_time": 1664910000
     },
     {
@@ -50,36 +42,12 @@
       "start_time": 1664910000
     },
     {
-      "slug": "tournament/cataquackdown-11-it-s-always-a-50-50/event/melee-singles",
-      "tournament_name": "Cataquackdown 11: It's always a 50/50",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/485585/image-666c99c1d45ae1b23478830b6ddc1c12.png?ehk=2mearUjSduXxqY0rdBBySY7%2BZhPQx7IpRhZ5kfvoJ44%3D&ehkOptimized=xBgCJ2flox7eYcWyOALWs7I%2FLb7wqMAurdQBVbsOMA4%3D",
-      "entrants": 12,
-      "start_time": 1664927400
-    },
-    {
-      "slug": "tournament/the-cc-lincorperation/event/melee-singles-ditto-s",
-      "tournament_name": "THE CC.LINCORPERATION",
-      "event_name": "MELEE SINGLES DITTO'S",
-      "image": "https://images.start.gg/images/tournament/485376/image-975a2ffe71de2b92cb51a7538fee5103.png?ehk=z4eSH6%2FPinuHSwF7uraUWNTg5l8PxQXY7x1pbXi1%2F%2FA%3D&ehkOptimized=x%2FgY5IkQ2DuP5M0iBixqwuK9PmbMZIECjlT%2Bvb0eeUs%3D",
-      "entrants": 14,
-      "start_time": 1664931600
-    },
-    {
-      "slug": "tournament/level-one-melee-46-a-noob-only-tournament/event/main-melee-singles",
-      "tournament_name": "Level One Melee #46 - a noob-only tournament",
-      "event_name": "Main Melee Singles",
-      "image": "https://images.start.gg/images/tournament/485192/image-a26803052ba562197ad92b483df883c1.png?ehk=361uagjTnNyJW20ydiHYrVMrE%2FnOjTVHPnhK4%2BMii6Y%3D&ehkOptimized=FNlGfomilSr7NLV0K5ysHDrRnyhDevA%2FlD5980TPVis%3D",
-      "entrants": 27,
-      "start_time": 1664931600
-    },
-    {
-      "slug": "tournament/level-one-melee-46-a-noob-only-tournament/event/amateur-melee-singles",
-      "tournament_name": "Level One Melee #46 - a noob-only tournament",
-      "event_name": "Amateur Melee Singles",
-      "image": "https://images.start.gg/images/tournament/485192/image-a26803052ba562197ad92b483df883c1.png?ehk=361uagjTnNyJW20ydiHYrVMrE%2FnOjTVHPnhK4%2BMii6Y%3D&ehkOptimized=FNlGfomilSr7NLV0K5ysHDrRnyhDevA%2FlD5980TPVis%3D",
-      "entrants": 17,
-      "start_time": 1664931600
+      "slug": "tournament/training-mode-tuesdays-97-lite-edition/event/side-event-ec-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #97 - Lite Edition",
+      "event_name": "Side Event: EC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/485445/image-e6a131baf07cfbb57f6425a883168362.png?ehk=JxRTCsyPKlEbX%2B3YSj1gWtdWhlpnpXt6anH77ManDFE%3D&ehkOptimized=T9VbM99I48K8d0Q8p8Y3%2BXUnOD4XZpx9nIYugHMW%2BZM%3D",
+      "entrants": 16,
+      "start_time": 1664926200
     },
     {
       "slug": "tournament/curdled-milk-wednesdays-3/event/melee-singles",
@@ -142,7 +110,7 @@
       "tournament_name": "Only Noobs 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-      "entrants": 19,
+      "entrants": 20,
       "start_time": 1665097200
     },
     {
