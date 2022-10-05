@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1664988684,
+  "fetched_at": 1664991912,
   "data": [
-    {
-      "slug": "tournament/curdled-milk-wednesdays-3/event/melee-singles",
-      "tournament_name": "Curdled Milk Wednesdays #3",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/485021/image-44656a3e4322c8294508fcfcc207959d.jpg?ehk=dok%2FUXpXI0zUJHIAwPSFiX5F2fWjyM4ISKd4aKvfh34%3D&ehkOptimized=v5tDQIMKVfK9DqZZ6PZyDJCrUASXrWJ71K7IKtwmWhA%3D",
-      "entrants": 5,
-      "start_time": 1664991000
-    },
     {
       "slug": "tournament/waddle-wednesday-39/event/melee-singles",
       "tournament_name": "Waddle Wednesday 39",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484436/image-e3cfa00240dc9aba5693f28ab0cb7a9d.png?ehk=1Cc1bn4rX6Csh0OWnnH%2Fp7dsdrveRgqeJYWSeEhrweA%3D&ehkOptimized=6E9%2ByQp3k%2FYkL5eN6t92XngA%2Bfs1d15ZGKqrNePBfE8%3D",
-      "entrants": 6,
+      "entrants": 11,
       "start_time": 1665014400
     },
     {
@@ -78,7 +70,7 @@
       "tournament_name": "Only Noobs 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-      "entrants": 23,
+      "entrants": 25,
       "start_time": 1665097200
     },
     {
@@ -128,6 +120,22 @@
       "image": "https://images.start.gg/images/tournament/484613/image-f7c7db5cec2f1675d70a0dcdded1f531.png?ehk=vP2Q3iIpcXbhk%2FGlMy5ViQtJL8Im%2FJglmiLikgReAr0%3D&ehkOptimized=qdLXmsFJPraXSdAwsE4EZxf2u8owlZBea22csg0VzqQ%3D",
       "entrants": 1,
       "start_time": 1665262800
+    },
+    {
+      "slug": "tournament/lgbt-s3e11-ec-and-wc-hold-hands/event/ladder",
+      "tournament_name": "LGBT S3E11: EC and WC hold hands",
+      "event_name": "Ladder",
+      "image": "https://images.start.gg/images/tournament/485880/image-673facbc6654c3016e8568f08526aa3c.png?ehk=qdG%2FFaLOpNpxQtXNrmnau%2FIVxP1x9WV14RUHZgyNwJw%3D&ehkOptimized=hEe6%2BZfwJLhPjX4hyonZUhmOZXecBcqVqgQJao%2FsTrY%3D",
+      "entrants": 2,
+      "start_time": 1665288000
+    },
+    {
+      "slug": "tournament/lgbt-s3e11-ec-and-wc-hold-hands/event/melee-singles",
+      "tournament_name": "LGBT S3E11: EC and WC hold hands",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/485880/image-673facbc6654c3016e8568f08526aa3c.png?ehk=qdG%2FFaLOpNpxQtXNrmnau%2FIVxP1x9WV14RUHZgyNwJw%3D&ehkOptimized=hEe6%2BZfwJLhPjX4hyonZUhmOZXecBcqVqgQJao%2FsTrY%3D",
+      "entrants": 2,
+      "start_time": 1665288000
     },
     {
       "slug": "tournament/seam-15-1/event/east-asia-melee",
