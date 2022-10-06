@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665098882,
+  "fetched_at": 1665100474,
   "data": [
     {
       "slug": "tournament/thursday-thmackdown-5/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Aero's Arena #16 WC - $60 Prizepool",
       "event_name": "WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/485720/image-0428ae83c223939439ab2acab50c5484.jpg?ehk=RRJVsU3O6BZc5%2FZ1OnFaTjNNtuPQ7vS5342wxCf2o94%3D&ehkOptimized=R0wRk92CrpFs70ZP2QBAcZHuuQWB7JdEHGY3ZAuMXfg%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1665108000
     },
     {
@@ -210,17 +210,17 @@
       "start_time": 1667084400
     },
     {
-      "slug": "tournament/cg-melee-monthly-november-2022/event/ec-vs-wc-exhibition",
-      "tournament_name": "CG Melee Monthly - November 2022",
-      "event_name": "EC vs WC Exhibition",
-      "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
-      "entrants": 0,
-      "start_time": 1667674800
-    },
-    {
       "slug": "tournament/cg-melee-monthly-november-2022/event/east-coast",
       "tournament_name": "CG Melee Monthly - November 2022",
       "event_name": "East Coast",
+      "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
+      "entrants": 1,
+      "start_time": 1667674800
+    },
+    {
+      "slug": "tournament/cg-melee-monthly-november-2022/event/ec-vs-wc-exhibition",
+      "tournament_name": "CG Melee Monthly - November 2022",
+      "event_name": "EC vs WC Exhibition",
       "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
       "entrants": 0,
       "start_time": 1667674800
