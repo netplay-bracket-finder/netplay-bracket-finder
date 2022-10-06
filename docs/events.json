@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665036069,
+  "fetched_at": 1665038990,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-33-eu-event/event/melee-singles",
@@ -96,6 +96,14 @@
       "image": "https://images.start.gg/images/tournament/486072/image-a5b6c7537e00bf722e08b970dd5e862a.png?ehk=ptXDOCmPi0dOoF565eMoHEnC8Z4F6qc5w7n7XvUyiWw%3D&ehkOptimized=Uvw%2BstfkVDAPu1abvED2G0U0fA6iq8kb%2F%2B22%2B%2F61rMI%3D",
       "entrants": 0,
       "start_time": 1665187200
+    },
+    {
+      "slug": "tournament/gral-francisco-melee/event/melee-singles",
+      "tournament_name": "Gral Francisco Melee",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/486099/image-0cb4c823c5dc7a56f58b417074b326f0.png?ehk=JFJK7zzctUaEp7%2FIQu6XKQlN86mNInEknpRZuE0Au%2BY%3D&ehkOptimized=1BTSOUuxLgQaIFpXCmdAFBMrvP13vsatWw0FYgZzhmk%3D",
+      "entrants": 0,
+      "start_time": 1665190800
     },
     {
       "slug": "tournament/legs-le-tournament-52/event/melee-singles",
