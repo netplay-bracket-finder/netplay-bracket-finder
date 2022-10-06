@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665053044,
+  "fetched_at": 1665054070,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-33-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #33 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/483057/image-6dcd2664e5ceba6c7921037cad42699b.png?ehk=BZ8d370Be5UtEJ%2B%2B4HPWT65YtSKkslmeFLw4%2FPoeQGY%3D&ehkOptimized=6BSBayRc%2FKpP0tapfozHCaWxdgt2B0wR%2BbSEPpjEsNA%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1665075600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Troppo Italiano #69",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/485643/image-9c8ea9d412af96724babbd748fb725b1.jpg?ehk=wPXcLMMZ%2FNLWWBQfidC1Due8kmI0HksOrFSbRZXSg5g%3D&ehkOptimized=dxAXJpmlT6IVlkksy%2BthXCa1QAqeql7UA6%2Fn%2BM2FlyI%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1665082800
     },
     {
@@ -104,6 +104,14 @@
       "image": "https://images.start.gg/images/tournament/486099/image-0cb4c823c5dc7a56f58b417074b326f0.png?ehk=JFJK7zzctUaEp7%2FIQu6XKQlN86mNInEknpRZuE0Au%2BY%3D&ehkOptimized=1BTSOUuxLgQaIFpXCmdAFBMrvP13vsatWw0FYgZzhmk%3D",
       "entrants": 0,
       "start_time": 1665190800
+    },
+    {
+      "slug": "tournament/bb-73/event/melee-singles",
+      "tournament_name": "BB 73",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/486133/image-d29cdf5647450fd8a74be2a9c1f4b0fb.jpg?ehk=xUfV8ccOEhtwxMT4QFJtvZHPfK5GCAHzTLfPKWu4gXE%3D&ehkOptimized=Cu0eKuVnySorG4nl0KVJ0Uf%2BwIywceIfndRFm6z%2FUQo%3D",
+      "entrants": 0,
+      "start_time": 1665198000
     },
     {
       "slug": "tournament/legs-le-tournament-52/event/melee-singles",
