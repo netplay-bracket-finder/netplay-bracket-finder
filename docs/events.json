@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1665013936,
+  "fetched_at": 1665021394,
   "data": [
-    {
-      "slug": "tournament/galaxy-gladiators-15/event/melee-singles",
-      "tournament_name": "Galaxy Gladiators #15",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/485557/image-808dea87f266e0b21cba48e470ad9ea9.png?ehk=2RutJ6ZveeWKG3g7tVayTh5p%2FK2Zhy91gxi4E0BcVE0%3D&ehkOptimized=n%2BOLalRXdcZkGQeFIhf18uQ2AVZJED5THHLS0AeEn6o%3D",
-      "entrants": 1,
-      "start_time": 1665014400
-    },
     {
       "slug": "tournament/silver-slippi-league-25/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #25",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/485727/image-3496c0f876ed2ee6aac494772e60a701.png?ehk=c3V6EmWvAhJB%2Bwi6B%2Fby5yUpRy52H6qZle4VPPyo92g%3D&ehkOptimized=rxNDTAuzlUiCV2h%2BedhsxMCPj1vKZ35iCOeBeMVTSL0%3D",
-      "entrants": 20,
+      "entrants": 33,
       "start_time": 1665018000
     },
     {
@@ -22,7 +14,7 @@
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/484321/image-005ca4ca214ef407158b06c6a18466ca.jpg?ehk=%2FlE1xXVRVg2ktggp8CoNvYYu%2FRypnf2xUo3D42%2FtkEg%3D&ehkOptimized=DIlkkU3%2FrGG4%2Bew1mo5lLtbbC4xFFskskZSWgTMC%2Fm0%3D",
-      "entrants": 19,
+      "entrants": 21,
       "start_time": 1665021600
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "Only Noobs 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-      "entrants": 26,
+      "entrants": 31,
       "start_time": 1665097200
     },
     {
