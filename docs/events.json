@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1665081655,
+  "fetched_at": 1665083501,
   "data": [
-    {
-      "slug": "tournament/troppo-italiano-69/event/singles",
-      "tournament_name": "Troppo Italiano #69",
-      "event_name": "Singles",
-      "image": "https://images.start.gg/images/tournament/485643/image-9c8ea9d412af96724babbd748fb725b1.jpg?ehk=wPXcLMMZ%2FNLWWBQfidC1Due8kmI0HksOrFSbRZXSg5g%3D&ehkOptimized=dxAXJpmlT6IVlkksy%2BthXCa1QAqeql7UA6%2Fn%2BM2FlyI%3D",
-      "entrants": 9,
-      "start_time": 1665082800
-    },
     {
       "slug": "tournament/the-return-of-nfc-4-presented-by-nxgn-esports/event/melee-singles",
       "tournament_name": "The Return of NFC #4 | Presented by NxGn Esports",
@@ -22,7 +14,7 @@
       "tournament_name": "Only Noobs 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-      "entrants": 66,
+      "entrants": 71,
       "start_time": 1665097200
     },
     {
@@ -30,7 +22,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #6",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/485938/image-ba54f645c3750bfef8111e3b0eab8652.png?ehk=zMz%2BKFsmkae8%2BpNMql4M5vCvMG6xboFtDAxbfKuwTrc%3D&ehkOptimized=VLX2XOubHc9IZr4LmRR%2Bb3NVoXw6MlQ%2F2Xsf1axu8r4%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1665097200
     },
     {
@@ -46,7 +38,7 @@
       "tournament_name": "Thursday Thmackdown #5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486199/image-e74dd04133cc42315656057fb2b9ea17.png?ehk=%2FHGhVunYnv7EYghSdHV9JW2I1BzGjlbalLPuz9twgxc%3D&ehkOptimized=RJICICb0Ye6Nm15FRuyC7dxKQmkGESrKR4sEK2bCzeM%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1665108000
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "Aero's Arena #16 WC - $60 Prizepool",
       "event_name": "WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/485720/image-0428ae83c223939439ab2acab50c5484.jpg?ehk=RRJVsU3O6BZc5%2FZ1OnFaTjNNtuPQ7vS5342wxCf2o94%3D&ehkOptimized=R0wRk92CrpFs70ZP2QBAcZHuuQWB7JdEHGY3ZAuMXfg%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665108000
     },
     {
@@ -130,17 +122,17 @@
       "start_time": 1665284400
     },
     {
-      "slug": "tournament/lgbt-s3e11-ec-and-wc-hold-hands/event/ladder",
-      "tournament_name": "LGBT S3E11: EC and WC hold hands",
-      "event_name": "Ladder",
-      "image": "https://images.start.gg/images/tournament/485880/image-673facbc6654c3016e8568f08526aa3c.png?ehk=qdG%2FFaLOpNpxQtXNrmnau%2FIVxP1x9WV14RUHZgyNwJw%3D&ehkOptimized=hEe6%2BZfwJLhPjX4hyonZUhmOZXecBcqVqgQJao%2FsTrY%3D",
-      "entrants": 5,
-      "start_time": 1665288000
-    },
-    {
       "slug": "tournament/lgbt-s3e11-ec-and-wc-hold-hands/event/melee-singles",
       "tournament_name": "LGBT S3E11: EC and WC hold hands",
       "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/485880/image-673facbc6654c3016e8568f08526aa3c.png?ehk=qdG%2FFaLOpNpxQtXNrmnau%2FIVxP1x9WV14RUHZgyNwJw%3D&ehkOptimized=hEe6%2BZfwJLhPjX4hyonZUhmOZXecBcqVqgQJao%2FsTrY%3D",
+      "entrants": 6,
+      "start_time": 1665288000
+    },
+    {
+      "slug": "tournament/lgbt-s3e11-ec-and-wc-hold-hands/event/ladder",
+      "tournament_name": "LGBT S3E11: EC and WC hold hands",
+      "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/485880/image-673facbc6654c3016e8568f08526aa3c.png?ehk=qdG%2FFaLOpNpxQtXNrmnau%2FIVxP1x9WV14RUHZgyNwJw%3D&ehkOptimized=hEe6%2BZfwJLhPjX4hyonZUhmOZXecBcqVqgQJao%2FsTrY%3D",
       "entrants": 5,
       "start_time": 1665288000
@@ -208,6 +200,22 @@
       "image": "https://images.start.gg/images/tournament/485725/image-e327719080fd743feaa5a43b64dc4fcf.png?ehk=Chty1AJ4O0GRM2meFT0Bg036KEFsyGTrFHpVh91sifs%3D&ehkOptimized=HoL6AmHR6IhMsPYQ8Fs%2BOqOd6LKA0l9uxlOaUCf1xYE%3D",
       "entrants": 0,
       "start_time": 1665442800
+    },
+    {
+      "slug": "tournament/toblerone-tangerine-thursdays-34-eu-event/event/melee-singles",
+      "tournament_name": "Toblerone Tangerine Thursdays #34 (EU Event)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/486257/image-61ac41bfebeaa7208668df611d79a156.png?ehk=lBsmgzIHlZZxNlbfIdTxgqFNfnIRX13YymjV0FgxjVU%3D&ehkOptimized=pj%2BVtDfyWFV8%2FyszWK9SnDGDU5NQuRqoTfflg92GP48%3D",
+      "entrants": 0,
+      "start_time": 1665680400
+    },
+    {
+      "slug": "tournament/toblerone-tangerine-thursdays-34-eu-event/event/toblerone-waitlist",
+      "tournament_name": "Toblerone Tangerine Thursdays #34 (EU Event)",
+      "event_name": "Toblerone waitlist",
+      "image": "https://images.start.gg/images/tournament/486257/image-61ac41bfebeaa7208668df611d79a156.png?ehk=lBsmgzIHlZZxNlbfIdTxgqFNfnIRX13YymjV0FgxjVU%3D&ehkOptimized=pj%2BVtDfyWFV8%2FyszWK9SnDGDU5NQuRqoTfflg92GP48%3D",
+      "entrants": 0,
+      "start_time": 1665680400
     },
     {
       "slug": "tournament/searcadian/event/singles",
