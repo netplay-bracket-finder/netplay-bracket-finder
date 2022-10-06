@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665072028,
+  "fetched_at": 1665075485,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-33-eu-event/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #33 (EU Event)",
       "event_name": "Toblerone waitlist",
       "image": "https://images.start.gg/images/tournament/483057/image-6dcd2664e5ceba6c7921037cad42699b.png?ehk=BZ8d370Be5UtEJ%2B%2B4HPWT65YtSKkslmeFLw4%2FPoeQGY%3D&ehkOptimized=6BSBayRc%2FKpP0tapfozHCaWxdgt2B0wR%2BbSEPpjEsNA%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665075600
     },
     {
@@ -22,15 +22,23 @@
       "tournament_name": "Troppo Italiano #69",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/485643/image-9c8ea9d412af96724babbd748fb725b1.jpg?ehk=wPXcLMMZ%2FNLWWBQfidC1Due8kmI0HksOrFSbRZXSg5g%3D&ehkOptimized=dxAXJpmlT6IVlkksy%2BthXCa1QAqeql7UA6%2Fn%2BM2FlyI%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1665082800
+    },
+    {
+      "slug": "tournament/the-return-of-nfc-4-presented-by-nxgn-esports/event/melee-singles",
+      "tournament_name": "The Return of NFC #4 | Presented by NxGn Esports",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/486195/image-b694d07ae62a7e2e0168c61b81a65e21.png?ehk=P9CE0r6RIDRrn1Ynv4nT50IXweZVTx2CDE9rHaeKtDw%3D&ehkOptimized=TsI7kIt9X%2B3IGnADzaIeJdRyf14rp6f8DT3D0CeieN4%3D",
+      "entrants": 0,
+      "start_time": 1665097200
     },
     {
       "slug": "tournament/only-noobs-87/event/melee-singles",
       "tournament_name": "Only Noobs 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-      "entrants": 41,
+      "entrants": 55,
       "start_time": 1665097200
     },
     {
@@ -48,6 +56,14 @@
       "image": "https://images.start.gg/images/tournament/485938/image-ba54f645c3750bfef8111e3b0eab8652.png?ehk=zMz%2BKFsmkae8%2BpNMql4M5vCvMG6xboFtDAxbfKuwTrc%3D&ehkOptimized=VLX2XOubHc9IZr4LmRR%2Bb3NVoXw6MlQ%2F2Xsf1axu8r4%3D",
       "entrants": 0,
       "start_time": 1665097200
+    },
+    {
+      "slug": "tournament/thursday-thmackdown-5/event/melee-singles",
+      "tournament_name": "Thursday Thmackdown #5",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/486199/image-e74dd04133cc42315656057fb2b9ea17.png?ehk=%2FHGhVunYnv7EYghSdHV9JW2I1BzGjlbalLPuz9twgxc%3D&ehkOptimized=RJICICb0Ye6Nm15FRuyC7dxKQmkGESrKR4sEK2bCzeM%3D",
+      "entrants": 1,
+      "start_time": 1665108000
     },
     {
       "slug": "tournament/aero-s-arena-16-wc-60-prizepool/event/wc-melee-singles",
@@ -102,7 +118,7 @@
       "tournament_name": "Gral Francisco Melee",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486099/image-0cb4c823c5dc7a56f58b417074b326f0.png?ehk=JFJK7zzctUaEp7%2FIQu6XKQlN86mNInEknpRZuE0Au%2BY%3D&ehkOptimized=1BTSOUuxLgQaIFpXCmdAFBMrvP13vsatWw0FYgZzhmk%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1665190800
     },
     {
@@ -224,6 +240,30 @@
       "image": "https://images.start.gg/images/tournament/483698/image-e47fc25bb6295bc2294fb4ca99f4a380.png?ehk=bpLQDTenm8obQiAbJFJz0HClM6z1phfOUHpr9vijIqY%3D&ehkOptimized=QWAOy%2FEAKA5b9AamhrySVLypn2D1teKMMKsEDlzcDSU%3D",
       "entrants": 1,
       "start_time": 1667084400
+    },
+    {
+      "slug": "tournament/cg-melee-monthly-november-2022/event/ec-vs-wc-exhibition",
+      "tournament_name": "CG Melee Monthly - November 2022",
+      "event_name": "EC vs WC Exhibition",
+      "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
+      "entrants": 0,
+      "start_time": 1667674800
+    },
+    {
+      "slug": "tournament/cg-melee-monthly-november-2022/event/east-coast",
+      "tournament_name": "CG Melee Monthly - November 2022",
+      "event_name": "East Coast",
+      "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
+      "entrants": 0,
+      "start_time": 1667674800
+    },
+    {
+      "slug": "tournament/cg-melee-monthly-november-2022/event/west-coast",
+      "tournament_name": "CG Melee Monthly - November 2022",
+      "event_name": "West Coast",
+      "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
+      "entrants": 0,
+      "start_time": 1667682000
     },
     {
       "slug": "tournament/stel-hotel-throwdown/event/commentator-invitational",
