@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665089324,
+  "fetched_at": 1665091233,
   "data": [
     {
       "slug": "tournament/the-return-of-nfc-4-presented-by-nxgn-esports/event/melee-singles",
       "tournament_name": "The Return of NFC #4 | Presented by NxGn Esports",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486195/image-b694d07ae62a7e2e0168c61b81a65e21.png?ehk=P9CE0r6RIDRrn1Ynv4nT50IXweZVTx2CDE9rHaeKtDw%3D&ehkOptimized=TsI7kIt9X%2B3IGnADzaIeJdRyf14rp6f8DT3D0CeieN4%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1665097200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-      "entrants": 85,
+      "entrants": 95,
       "start_time": 1665097200
     },
     {
@@ -38,7 +38,15 @@
       "tournament_name": "siddward masquerade ball",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/486280/image-a0c677a05e2733d3f920204c1d0316bf.png?ehk=Ptb3wjMseXN%2F5gY%2B2Dn6J00azkGWurNM2iEabKP%2FIJ0%3D&ehkOptimized=ItWMJY1vI0sYyPmYVMtTyCVhRZxIII4oXVqJotNVxzM%3D",
-      "entrants": 2,
+      "entrants": 5,
+      "start_time": 1665099000
+    },
+    {
+      "slug": "tournament/siddward-masquerade-ball/event/masquerade-ball",
+      "tournament_name": "siddward masquerade ball",
+      "event_name": "masquerade ball",
+      "image": "https://images.start.gg/images/tournament/486280/image-a0c677a05e2733d3f920204c1d0316bf.png?ehk=Ptb3wjMseXN%2F5gY%2B2Dn6J00azkGWurNM2iEabKP%2FIJ0%3D&ehkOptimized=ItWMJY1vI0sYyPmYVMtTyCVhRZxIII4oXVqJotNVxzM%3D",
+      "entrants": 3,
       "start_time": 1665099000
     },
     {
@@ -70,7 +78,7 @@
       "tournament_name": "ASL’s Weekly Weekend Melee #12",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485866/image-b5d83def6345f09c65a660da113b921e.png?ehk=wt0nQXB6DTP8vvLnT4UeqBylscekjOzZf8u8UAlj3MI%3D&ehkOptimized=Ko5y%2Bw9qQ6CNaoL9QlUor8qZlnhmgLowiUj11btfsyA%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1665158400
     },
     {
