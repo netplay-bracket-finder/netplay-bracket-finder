@@ -1,52 +1,12 @@
 {
-  "fetched_at": 1665096493,
+  "fetched_at": 1665098882,
   "data": [
-    {
-      "slug": "tournament/the-return-of-nfc-4-presented-by-nxgn-esports/event/melee-singles",
-      "tournament_name": "The Return of NFC #4 | Presented by NxGn Esports",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/486195/image-b694d07ae62a7e2e0168c61b81a65e21.png?ehk=P9CE0r6RIDRrn1Ynv4nT50IXweZVTx2CDE9rHaeKtDw%3D&ehkOptimized=TsI7kIt9X%2B3IGnADzaIeJdRyf14rp6f8DT3D0CeieN4%3D",
-      "entrants": 16,
-      "start_time": 1665097200
-    },
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-6/event/ssbmr-singles",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #6",
-      "event_name": "SSBMr Singles",
-      "image": "https://images.start.gg/images/tournament/485938/image-ba54f645c3750bfef8111e3b0eab8652.png?ehk=zMz%2BKFsmkae8%2BpNMql4M5vCvMG6xboFtDAxbfKuwTrc%3D&ehkOptimized=VLX2XOubHc9IZr4LmRR%2Bb3NVoXw6MlQ%2F2Xsf1axu8r4%3D",
-      "entrants": 6,
-      "start_time": 1665097200
-    },
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-6/event/results-data",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #6",
-      "event_name": "Results Data",
-      "image": "https://images.start.gg/images/tournament/485938/image-ba54f645c3750bfef8111e3b0eab8652.png?ehk=zMz%2BKFsmkae8%2BpNMql4M5vCvMG6xboFtDAxbfKuwTrc%3D&ehkOptimized=VLX2XOubHc9IZr4LmRR%2Bb3NVoXw6MlQ%2F2Xsf1axu8r4%3D",
-      "entrants": 0,
-      "start_time": 1665097200
-    },
-    {
-      "slug": "tournament/siddward-masquerade-ball/event/melee-singles",
-      "tournament_name": "siddward masquerade ball",
-      "event_name": "melee singles",
-      "image": "https://images.start.gg/images/tournament/486280/image-a0c677a05e2733d3f920204c1d0316bf.png?ehk=Ptb3wjMseXN%2F5gY%2B2Dn6J00azkGWurNM2iEabKP%2FIJ0%3D&ehkOptimized=ItWMJY1vI0sYyPmYVMtTyCVhRZxIII4oXVqJotNVxzM%3D",
-      "entrants": 19,
-      "start_time": 1665099000
-    },
-    {
-      "slug": "tournament/siddward-masquerade-ball/event/masquerade-ball",
-      "tournament_name": "siddward masquerade ball",
-      "event_name": "masquerade ball",
-      "image": "https://images.start.gg/images/tournament/486280/image-a0c677a05e2733d3f920204c1d0316bf.png?ehk=Ptb3wjMseXN%2F5gY%2B2Dn6J00azkGWurNM2iEabKP%2FIJ0%3D&ehkOptimized=ItWMJY1vI0sYyPmYVMtTyCVhRZxIII4oXVqJotNVxzM%3D",
-      "entrants": 0,
-      "start_time": 1665099000
-    },
     {
       "slug": "tournament/thursday-thmackdown-5/event/melee-singles",
       "tournament_name": "Thursday Thmackdown #5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486199/image-e74dd04133cc42315656057fb2b9ea17.png?ehk=%2FHGhVunYnv7EYghSdHV9JW2I1BzGjlbalLPuz9twgxc%3D&ehkOptimized=RJICICb0Ye6Nm15FRuyC7dxKQmkGESrKR4sEK2bCzeM%3D",
-      "entrants": 11,
+      "entrants": 15,
       "start_time": 1665108000
     },
     {
@@ -102,7 +62,7 @@
       "tournament_name": "Gral Francisco Melee",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486099/image-0cb4c823c5dc7a56f58b417074b326f0.png?ehk=JFJK7zzctUaEp7%2FIQu6XKQlN86mNInEknpRZuE0Au%2BY%3D&ehkOptimized=1BTSOUuxLgQaIFpXCmdAFBMrvP13vsatWw0FYgZzhmk%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1665190800
     },
     {
@@ -190,7 +150,7 @@
       "tournament_name": "Can You Take the Heat?",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/485728/image-69f110f6a3bba7cb0db4f0dbcdb3153a.png?ehk=unf%2FowiQLKfioT2Qq0224hpwJrYi0f32kuCFZaPJ0l0%3D&ehkOptimized=T2fwP6JjTkVdMCa%2BjBxmzGHPOaUOSf3NA3t%2FhDjSPuA%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1665356400
     },
     {
