@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665021394,
+  "fetched_at": 1665027688,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-25/event/melee-ranked-ladder",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/485727/image-3496c0f876ed2ee6aac494772e60a701.png?ehk=c3V6EmWvAhJB%2Bwi6B%2Fby5yUpRy52H6qZle4VPPyo92g%3D&ehkOptimized=rxNDTAuzlUiCV2h%2BedhsxMCPj1vKZ35iCOeBeMVTSL0%3D",
       "entrants": 33,
       "start_time": 1665018000
-    },
-    {
-      "slug": "tournament/treythetrashman-s-garbage-connection-wc-100-pot-bonus-allchat-esports-7/event/melee-singles-west-coast",
-      "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
-      "event_name": "Melee Singles: West-Coast",
-      "image": "https://images.start.gg/images/tournament/484321/image-005ca4ca214ef407158b06c6a18466ca.jpg?ehk=%2FlE1xXVRVg2ktggp8CoNvYYu%2FRypnf2xUo3D42%2FtkEg%3D&ehkOptimized=DIlkkU3%2FrGG4%2Bew1mo5lLtbbC4xFFskskZSWgTMC%2Fm0%3D",
-      "entrants": 21,
-      "start_time": 1665021600
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-33-eu-event/event/melee-singles",
@@ -46,7 +38,7 @@
       "tournament_name": "Only Noobs 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-      "entrants": 31,
+      "entrants": 33,
       "start_time": 1665097200
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #6",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/485938/image-ba54f645c3750bfef8111e3b0eab8652.png?ehk=zMz%2BKFsmkae8%2BpNMql4M5vCvMG6xboFtDAxbfKuwTrc%3D&ehkOptimized=VLX2XOubHc9IZr4LmRR%2Bb3NVoXw6MlQ%2F2Xsf1axu8r4%3D",
-      "entrants": 6,
+      "entrants": 5,
       "start_time": 1665097200
     },
     {
@@ -106,6 +98,14 @@
       "start_time": 1665165600
     },
     {
+      "slug": "tournament/fgc-friday-11/event/melee-singles",
+      "tournament_name": "FGC Friday #11",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/486072/image-a5b6c7537e00bf722e08b970dd5e862a.png?ehk=ptXDOCmPi0dOoF565eMoHEnC8Z4F6qc5w7n7XvUyiWw%3D&ehkOptimized=Uvw%2BstfkVDAPu1abvED2G0U0fA6iq8kb%2F%2B22%2B%2F61rMI%3D",
+      "entrants": 0,
+      "start_time": 1665187200
+    },
+    {
       "slug": "tournament/legs-le-tournament-52/event/melee-singles",
       "tournament_name": "Legs' Le Tournament #52",
       "event_name": "Melee Singles",
@@ -114,11 +114,19 @@
       "start_time": 1665262800
     },
     {
+      "slug": "tournament/the-shallow-end-6-a-wc-newbie-bracket/event/melee-singles",
+      "tournament_name": "The Shallow End #6 - a WC newbie bracket",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/485656/image-6a3a00df35e71875b57b345772c60d12.jpg?ehk=glNDBCaQhX3pGd6dxyqAs4boZIdBuCWsAStaQiGBq2U%3D&ehkOptimized=qUFMaM%2BShAPbC5Q05hJMnlY%2FeJdGcYpHPd%2By%2FBSFQto%3D",
+      "entrants": 0,
+      "start_time": 1665276300
+    },
+    {
       "slug": "tournament/lgbt-s3e11-ec-and-wc-hold-hands/event/ladder",
       "tournament_name": "LGBT S3E11: EC and WC hold hands",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/485880/image-673facbc6654c3016e8568f08526aa3c.png?ehk=qdG%2FFaLOpNpxQtXNrmnau%2FIVxP1x9WV14RUHZgyNwJw%3D&ehkOptimized=hEe6%2BZfwJLhPjX4hyonZUhmOZXecBcqVqgQJao%2FsTrY%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1665288000
     },
     {
@@ -126,7 +134,7 @@
       "tournament_name": "LGBT S3E11: EC and WC hold hands",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485880/image-673facbc6654c3016e8568f08526aa3c.png?ehk=qdG%2FFaLOpNpxQtXNrmnau%2FIVxP1x9WV14RUHZgyNwJw%3D&ehkOptimized=hEe6%2BZfwJLhPjX4hyonZUhmOZXecBcqVqgQJao%2FsTrY%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1665288000
     },
     {
