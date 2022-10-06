@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665087903,
+  "fetched_at": 1665089324,
   "data": [
     {
       "slug": "tournament/the-return-of-nfc-4-presented-by-nxgn-esports/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-      "entrants": 79,
+      "entrants": 85,
       "start_time": 1665097200
     },
     {
@@ -34,11 +34,19 @@
       "start_time": 1665097200
     },
     {
+      "slug": "tournament/siddward-masquerade-ball/event/melee-singles",
+      "tournament_name": "siddward masquerade ball",
+      "event_name": "melee singles",
+      "image": "https://images.start.gg/images/tournament/486280/image-a0c677a05e2733d3f920204c1d0316bf.png?ehk=Ptb3wjMseXN%2F5gY%2B2Dn6J00azkGWurNM2iEabKP%2FIJ0%3D&ehkOptimized=ItWMJY1vI0sYyPmYVMtTyCVhRZxIII4oXVqJotNVxzM%3D",
+      "entrants": 2,
+      "start_time": 1665099000
+    },
+    {
       "slug": "tournament/thursday-thmackdown-5/event/melee-singles",
       "tournament_name": "Thursday Thmackdown #5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486199/image-e74dd04133cc42315656057fb2b9ea17.png?ehk=%2FHGhVunYnv7EYghSdHV9JW2I1BzGjlbalLPuz9twgxc%3D&ehkOptimized=RJICICb0Ye6Nm15FRuyC7dxKQmkGESrKR4sEK2bCzeM%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1665108000
     },
     {
