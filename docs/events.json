@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665086017,
+  "fetched_at": 1665087903,
   "data": [
     {
       "slug": "tournament/the-return-of-nfc-4-presented-by-nxgn-esports/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-      "entrants": 76,
+      "entrants": 79,
       "start_time": 1665097200
     },
     {
@@ -96,6 +96,14 @@
       "image": "https://images.start.gg/images/tournament/486099/image-0cb4c823c5dc7a56f58b417074b326f0.png?ehk=JFJK7zzctUaEp7%2FIQu6XKQlN86mNInEknpRZuE0Au%2BY%3D&ehkOptimized=1BTSOUuxLgQaIFpXCmdAFBMrvP13vsatWw0FYgZzhmk%3D",
       "entrants": 4,
       "start_time": 1665190800
+    },
+    {
+      "slug": "tournament/quest-for-best-noob-eu-40-a-qfbn-all-star/event/newbie-singles",
+      "tournament_name": "Quest for Best Noob EU #40 A QFBN All Star Summit Qualifier Event",
+      "event_name": "Newbie Singles",
+      "image": "https://images.start.gg/images/tournament/486273/image-a0fa3520a93e24bb54b344112dd9ce1b.jpg?ehk=Rld%2BWOO5rcr7xrza%2BZkBu8UEwLyzJYXP15qL9os9rrw%3D&ehkOptimized=hJ7y3k8cUh94qHGs50sxelePkpuL6HC%2BZJfENUM2MiM%3D",
+      "entrants": 2,
+      "start_time": 1665239400
     },
     {
       "slug": "tournament/legs-le-tournament-52/event/melee-singles",
