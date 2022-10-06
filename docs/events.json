@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665070490,
+  "fetched_at": 1665072028,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-33-eu-event/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #33 (EU Event)",
       "event_name": "Toblerone waitlist",
       "image": "https://images.start.gg/images/tournament/483057/image-6dcd2664e5ceba6c7921037cad42699b.png?ehk=BZ8d370Be5UtEJ%2B%2B4HPWT65YtSKkslmeFLw4%2FPoeQGY%3D&ehkOptimized=6BSBayRc%2FKpP0tapfozHCaWxdgt2B0wR%2BbSEPpjEsNA%3D",
-      "entrants": 0,
+      "entrants": 3,
       "start_time": 1665075600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Troppo Italiano #69",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/485643/image-9c8ea9d412af96724babbd748fb725b1.jpg?ehk=wPXcLMMZ%2FNLWWBQfidC1Due8kmI0HksOrFSbRZXSg5g%3D&ehkOptimized=dxAXJpmlT6IVlkksy%2BthXCa1QAqeql7UA6%2Fn%2BM2FlyI%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1665082800
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Only Noobs 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-      "entrants": 40,
+      "entrants": 41,
       "start_time": 1665097200
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "The Legends Tournament #79",
       "event_name": "WaveDash #20",
       "image": "https://images.start.gg/images/tournament/485288/image-e7727e1a54626e095f59d46701cc9e21.png?ehk=gbk0GBoMQHs1qhM86JuSQF2wK2yNYUNIqdKpuKB%2F27s%3D&ehkOptimized=XKrUAnTLxVsEWg9mWEKeUmLaPPSmgOQyWFxZ9gvEokw%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1665162600
     },
     {
@@ -192,6 +192,22 @@
       "image": "https://images.start.gg/images/tournament/485909/image-32b3d420d3a973da94dcd56887f91823.png?ehk=GCkHbM5tJllDe%2BECJVnAnd2DFTLbdCC5SfhuJT01kqI%3D&ehkOptimized=KaJv6Jc7NEcABFAWvL4D6y7hEivctexbWEQnZR%2BqrUs%3D",
       "entrants": 0,
       "start_time": 1665370800
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-2/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 2",
+      "event_name": "EC Doubles",
+      "image": "https://images.start.gg/images/tournament/485725/image-e327719080fd743feaa5a43b64dc4fcf.png?ehk=Chty1AJ4O0GRM2meFT0Bg036KEFsyGTrFHpVh91sifs%3D&ehkOptimized=HoL6AmHR6IhMsPYQ8Fs%2BOqOd6LKA0l9uxlOaUCf1xYE%3D",
+      "entrants": 0,
+      "start_time": 1665442800
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-2/event/wc-doubles",
+      "tournament_name": "Coast to Coast Doubles # 2",
+      "event_name": "WC Doubles",
+      "image": "https://images.start.gg/images/tournament/485725/image-e327719080fd743feaa5a43b64dc4fcf.png?ehk=Chty1AJ4O0GRM2meFT0Bg036KEFsyGTrFHpVh91sifs%3D&ehkOptimized=HoL6AmHR6IhMsPYQ8Fs%2BOqOd6LKA0l9uxlOaUCf1xYE%3D",
+      "entrants": 0,
+      "start_time": 1665442800
     },
     {
       "slug": "tournament/searcadian/event/singles",
