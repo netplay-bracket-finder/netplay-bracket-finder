@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665064591,
+  "fetched_at": 1665067063,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-33-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #33 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/483057/image-6dcd2664e5ceba6c7921037cad42699b.png?ehk=BZ8d370Be5UtEJ%2B%2B4HPWT65YtSKkslmeFLw4%2FPoeQGY%3D&ehkOptimized=6BSBayRc%2FKpP0tapfozHCaWxdgt2B0wR%2BbSEPpjEsNA%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1665075600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Only Noobs 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484171/image-a93b7066995d79b959345c1fd34cc010.jpg?ehk=Q%2Bki1%2FIz9JgCLXVImY3%2FjxMpNr%2FYGjsqcMNTQUlVZYM%3D&ehkOptimized=tpF8tG%2FkRtpqmyuch3I2IwAkrMD2aBXZPRhBW2BN%2BbI%3D",
-      "entrants": 37,
+      "entrants": 38,
       "start_time": 1665097200
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Gral Francisco Melee",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486099/image-0cb4c823c5dc7a56f58b417074b326f0.png?ehk=JFJK7zzctUaEp7%2FIQu6XKQlN86mNInEknpRZuE0Au%2BY%3D&ehkOptimized=1BTSOUuxLgQaIFpXCmdAFBMrvP13vsatWw0FYgZzhmk%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665190800
     },
     {
