@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1665108543,
+  "fetched_at": 1665114912,
   "data": [
-    {
-      "slug": "tournament/thursday-thmackdown-5/event/melee-singles",
-      "tournament_name": "Thursday Thmackdown #5",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/486199/image-e74dd04133cc42315656057fb2b9ea17.png?ehk=%2FHGhVunYnv7EYghSdHV9JW2I1BzGjlbalLPuz9twgxc%3D&ehkOptimized=RJICICb0Ye6Nm15FRuyC7dxKQmkGESrKR4sEK2bCzeM%3D",
-      "entrants": 19,
-      "start_time": 1665108000
-    },
     {
       "slug": "tournament/aero-s-arena-16-wc-60-prizepool/event/wc-melee-singles",
       "tournament_name": "Aero's Arena #16 WC - $60 Prizepool",
@@ -86,7 +78,7 @@
       "tournament_name": "The Shallow End #6 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485656/image-6a3a00df35e71875b57b345772c60d12.jpg?ehk=glNDBCaQhX3pGd6dxyqAs4boZIdBuCWsAStaQiGBq2U%3D&ehkOptimized=qUFMaM%2BShAPbC5Q05hJMnlY%2FeJdGcYpHPd%2By%2FBSFQto%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1665276300
     },
     {
@@ -98,19 +90,19 @@
       "start_time": 1665284400
     },
     {
-      "slug": "tournament/lgbt-s3e11-ec-and-wc-hold-hands/event/melee-singles",
+      "slug": "tournament/lgbt-s3e11-ec-and-wc-hold-hands/event/ladder",
       "tournament_name": "LGBT S3E11: EC and WC hold hands",
-      "event_name": "Melee Singles",
+      "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/485880/image-673facbc6654c3016e8568f08526aa3c.png?ehk=qdG%2FFaLOpNpxQtXNrmnau%2FIVxP1x9WV14RUHZgyNwJw%3D&ehkOptimized=hEe6%2BZfwJLhPjX4hyonZUhmOZXecBcqVqgQJao%2FsTrY%3D",
       "entrants": 6,
       "start_time": 1665288000
     },
     {
-      "slug": "tournament/lgbt-s3e11-ec-and-wc-hold-hands/event/ladder",
+      "slug": "tournament/lgbt-s3e11-ec-and-wc-hold-hands/event/melee-singles",
       "tournament_name": "LGBT S3E11: EC and WC hold hands",
-      "event_name": "Ladder",
+      "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485880/image-673facbc6654c3016e8568f08526aa3c.png?ehk=qdG%2FFaLOpNpxQtXNrmnau%2FIVxP1x9WV14RUHZgyNwJw%3D&ehkOptimized=hEe6%2BZfwJLhPjX4hyonZUhmOZXecBcqVqgQJao%2FsTrY%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1665288000
     },
     {
@@ -142,7 +134,7 @@
       "tournament_name": "Melee Weekly BR #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486331/image-bafe09c2cd8aed72a70638494305fda1.png?ehk=oJD7SyPfXPUXEy0uZNf4yy8tVb2FmkrFk9i0ggctHug%3D&ehkOptimized=bFPJrscjRMWCtfbO7MTp0pnm12ldeRrH7mxlFuJhXDQ%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665342000
     },
     {
