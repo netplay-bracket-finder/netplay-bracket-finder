@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1665118536,
+  "fetched_at": 1665121037,
   "data": [
-    {
-      "slug": "tournament/aero-s-arena-16-wc-60-prizepool/event/wc-melee-singles",
-      "tournament_name": "Aero's Arena #16 WC - $60 Prizepool",
-      "event_name": "WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/485720/image-0428ae83c223939439ab2acab50c5484.jpg?ehk=RRJVsU3O6BZc5%2FZ1OnFaTjNNtuPQ7vS5342wxCf2o94%3D&ehkOptimized=R0wRk92CrpFs70ZP2QBAcZHuuQWB7JdEHGY3ZAuMXfg%3D",
-      "entrants": 12,
-      "start_time": 1665108000
-    },
     {
       "slug": "tournament/caf-42/event/melee-singles",
       "tournament_name": "Café 42",
