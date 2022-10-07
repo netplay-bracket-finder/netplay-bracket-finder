@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665177614,
+  "fetched_at": 1665179129,
   "data": [
     {
       "slug": "tournament/the-bababooey-10/event/melee-singles",
@@ -34,19 +34,19 @@
       "start_time": 1665162600
     },
     {
-      "slug": "tournament/east-coast-fridays-224/event/melee-singles",
-      "tournament_name": "East Coast Fridays #224",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/486396/image-1acf528eb3699a2549f9cd8fa8632f80.png?ehk=KjnwG9usm7A7bijKkaCMMEc%2FAVDmicBpiL0vQbD4l4o%3D&ehkOptimized=tnXBqHrX258nJliN31oAHa3V3NGu9a297k%2FRAdWtsZ8%3D",
-      "entrants": 23,
-      "start_time": 1665187200
-    },
-    {
       "slug": "tournament/fgc-friday-11/event/melee-singles",
       "tournament_name": "FGC Friday #11",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486072/image-a5b6c7537e00bf722e08b970dd5e862a.png?ehk=ptXDOCmPi0dOoF565eMoHEnC8Z4F6qc5w7n7XvUyiWw%3D&ehkOptimized=Uvw%2BstfkVDAPu1abvED2G0U0fA6iq8kb%2F%2B22%2B%2F61rMI%3D",
       "entrants": 1,
+      "start_time": 1665187200
+    },
+    {
+      "slug": "tournament/east-coast-fridays-224/event/melee-singles",
+      "tournament_name": "East Coast Fridays #224",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/486396/image-1acf528eb3699a2549f9cd8fa8632f80.png?ehk=KjnwG9usm7A7bijKkaCMMEc%2FAVDmicBpiL0vQbD4l4o%3D&ehkOptimized=tnXBqHrX258nJliN31oAHa3V3NGu9a297k%2FRAdWtsZ8%3D",
+      "entrants": 26,
       "start_time": 1665187200
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "The Shallow End #6 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485656/image-6a3a00df35e71875b57b345772c60d12.jpg?ehk=glNDBCaQhX3pGd6dxyqAs4boZIdBuCWsAStaQiGBq2U%3D&ehkOptimized=qUFMaM%2BShAPbC5Q05hJMnlY%2FeJdGcYpHPd%2By%2FBSFQto%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665276300
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "Melee Weekly BR #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486331/image-bafe09c2cd8aed72a70638494305fda1.png?ehk=oJD7SyPfXPUXEy0uZNf4yy8tVb2FmkrFk9i0ggctHug%3D&ehkOptimized=bFPJrscjRMWCtfbO7MTp0pnm12ldeRrH7mxlFuJhXDQ%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1665342000
     },
     {
