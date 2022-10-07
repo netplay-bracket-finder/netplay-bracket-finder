@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665127782,
+  "fetched_at": 1665129105,
   "data": [
     {
       "slug": "tournament/caf-42/event/melee-singles",
@@ -38,6 +38,14 @@
       "tournament_name": "FGC Friday #11",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486072/image-a5b6c7537e00bf722e08b970dd5e862a.png?ehk=ptXDOCmPi0dOoF565eMoHEnC8Z4F6qc5w7n7XvUyiWw%3D&ehkOptimized=Uvw%2BstfkVDAPu1abvED2G0U0fA6iq8kb%2F%2B22%2B%2F61rMI%3D",
+      "entrants": 0,
+      "start_time": 1665187200
+    },
+    {
+      "slug": "tournament/east-coast-fridays-224/event/melee-singles",
+      "tournament_name": "East Coast Fridays #224",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/486396/image-1acf528eb3699a2549f9cd8fa8632f80.png?ehk=KjnwG9usm7A7bijKkaCMMEc%2FAVDmicBpiL0vQbD4l4o%3D&ehkOptimized=tnXBqHrX258nJliN31oAHa3V3NGu9a297k%2FRAdWtsZ8%3D",
       "entrants": 0,
       "start_time": 1665187200
     },
