@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665100474,
+  "fetched_at": 1665108543,
   "data": [
     {
       "slug": "tournament/thursday-thmackdown-5/event/melee-singles",
       "tournament_name": "Thursday Thmackdown #5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486199/image-e74dd04133cc42315656057fb2b9ea17.png?ehk=%2FHGhVunYnv7EYghSdHV9JW2I1BzGjlbalLPuz9twgxc%3D&ehkOptimized=RJICICb0Ye6Nm15FRuyC7dxKQmkGESrKR4sEK2bCzeM%3D",
-      "entrants": 15,
+      "entrants": 19,
       "start_time": 1665108000
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Aero's Arena #16 WC - $60 Prizepool",
       "event_name": "WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/485720/image-0428ae83c223939439ab2acab50c5484.jpg?ehk=RRJVsU3O6BZc5%2FZ1OnFaTjNNtuPQ7vS5342wxCf2o94%3D&ehkOptimized=R0wRk92CrpFs70ZP2QBAcZHuuQWB7JdEHGY3ZAuMXfg%3D",
-      "entrants": 7,
+      "entrants": 12,
       "start_time": 1665108000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "The Legends Tournament #79",
       "event_name": "WaveDash #20",
       "image": "https://images.start.gg/images/tournament/485288/image-e7727e1a54626e095f59d46701cc9e21.png?ehk=gbk0GBoMQHs1qhM86JuSQF2wK2yNYUNIqdKpuKB%2F27s%3D&ehkOptimized=XKrUAnTLxVsEWg9mWEKeUmLaPPSmgOQyWFxZ9gvEokw%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665162600
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "The Shallow End #6 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485656/image-6a3a00df35e71875b57b345772c60d12.jpg?ehk=glNDBCaQhX3pGd6dxyqAs4boZIdBuCWsAStaQiGBq2U%3D&ehkOptimized=qUFMaM%2BShAPbC5Q05hJMnlY%2FeJdGcYpHPd%2By%2FBSFQto%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665276300
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "BB 73",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486133/image-d29cdf5647450fd8a74be2a9c1f4b0fb.jpg?ehk=xUfV8ccOEhtwxMT4QFJtvZHPfK5GCAHzTLfPKWu4gXE%3D&ehkOptimized=Cu0eKuVnySorG4nl0KVJ0Uf%2BwIywceIfndRFm6z%2FUQo%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1665284400
     },
     {
@@ -138,6 +138,14 @@
       "start_time": 1665334800
     },
     {
+      "slug": "tournament/melee-weekly-br-1/event/melee-singles",
+      "tournament_name": "Melee Weekly BR #1",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/486331/image-bafe09c2cd8aed72a70638494305fda1.png?ehk=oJD7SyPfXPUXEy0uZNf4yy8tVb2FmkrFk9i0ggctHug%3D&ehkOptimized=bFPJrscjRMWCtfbO7MTp0pnm12ldeRrH7mxlFuJhXDQ%3D",
+      "entrants": 3,
+      "start_time": 1665342000
+    },
+    {
       "slug": "tournament/super-smash-bong-ultimate-players/event/melee-singles",
       "tournament_name": "Super Smash Bong - Ultimate players",
       "event_name": "Melee singles",
@@ -158,7 +166,7 @@
       "tournament_name": "Full Moon Melee 10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485909/image-32b3d420d3a973da94dcd56887f91823.png?ehk=GCkHbM5tJllDe%2BECJVnAnd2DFTLbdCC5SfhuJT01kqI%3D&ehkOptimized=KaJv6Jc7NEcABFAWvL4D6y7hEivctexbWEQnZR%2BqrUs%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665370800
     },
     {
