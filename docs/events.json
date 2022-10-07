@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665164294,
+  "fetched_at": 1665166306,
   "data": [
     {
       "slug": "tournament/the-bababooey-10/event/melee-singles",
       "tournament_name": "The Bababooey 10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486097/image-e27fe6f533a792b3d49c77dd2f7d13a3.png?ehk=1GzjV%2B0HkIq9YD8JcNYLyrDl8SYSrflo36pEzTvHaSM%3D&ehkOptimized=2jhp2UoL88KJmq6xgAkrUbDL2%2BLp2DRVLg2ILr8LU%2Fk%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1665187200
     },
     {
@@ -34,27 +34,19 @@
       "start_time": 1665162600
     },
     {
-      "slug": "tournament/sandbag-skirmish-44/event/skirmish",
-      "tournament_name": "SandBag Skirmish 44",
-      "event_name": "Skirmish",
-      "image": "https://images.start.gg/images/tournament/485562/image-5bd96035ee7d9d7c13029357747d549a.png?ehk=MvQ%2BzyhFO1Wt%2BzLCkcVDfMvEbOVsoWA9gEYLGJwU6qw%3D&ehkOptimized=56EJI49rwuL00yjDs7enzGDYwsjaCGzu94MPJ4Yylo4%3D",
-      "entrants": 2,
-      "start_time": 1665165600
+      "slug": "tournament/east-coast-fridays-224/event/melee-singles",
+      "tournament_name": "East Coast Fridays #224",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/486396/image-1acf528eb3699a2549f9cd8fa8632f80.png?ehk=KjnwG9usm7A7bijKkaCMMEc%2FAVDmicBpiL0vQbD4l4o%3D&ehkOptimized=tnXBqHrX258nJliN31oAHa3V3NGu9a297k%2FRAdWtsZ8%3D",
+      "entrants": 11,
+      "start_time": 1665187200
     },
     {
       "slug": "tournament/fgc-friday-11/event/melee-singles",
       "tournament_name": "FGC Friday #11",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486072/image-a5b6c7537e00bf722e08b970dd5e862a.png?ehk=ptXDOCmPi0dOoF565eMoHEnC8Z4F6qc5w7n7XvUyiWw%3D&ehkOptimized=Uvw%2BstfkVDAPu1abvED2G0U0fA6iq8kb%2F%2B22%2B%2F61rMI%3D",
-      "entrants": 0,
-      "start_time": 1665187200
-    },
-    {
-      "slug": "tournament/east-coast-fridays-224/event/melee-singles",
-      "tournament_name": "East Coast Fridays #224",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/486396/image-1acf528eb3699a2549f9cd8fa8632f80.png?ehk=KjnwG9usm7A7bijKkaCMMEc%2FAVDmicBpiL0vQbD4l4o%3D&ehkOptimized=tnXBqHrX258nJliN31oAHa3V3NGu9a297k%2FRAdWtsZ8%3D",
-      "entrants": 10,
+      "entrants": 1,
       "start_time": 1665187200
     },
     {
@@ -62,7 +54,7 @@
       "tournament_name": "Gral Francisco Melee",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486099/image-0cb4c823c5dc7a56f58b417074b326f0.png?ehk=JFJK7zzctUaEp7%2FIQu6XKQlN86mNInEknpRZuE0Au%2BY%3D&ehkOptimized=1BTSOUuxLgQaIFpXCmdAFBMrvP13vsatWw0FYgZzhmk%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1665190800
     },
     {
@@ -70,7 +62,7 @@
       "tournament_name": "Quest for Best Noob EU #40 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/486273/image-a0fa3520a93e24bb54b344112dd9ce1b.jpg?ehk=Rld%2BWOO5rcr7xrza%2BZkBu8UEwLyzJYXP15qL9os9rrw%3D&ehkOptimized=hJ7y3k8cUh94qHGs50sxelePkpuL6HC%2BZJfENUM2MiM%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1665239400
     },
     {
