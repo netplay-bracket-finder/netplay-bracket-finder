@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665182941,
+  "fetched_at": 1665185207,
   "data": [
     {
       "slug": "tournament/the-bababooey-10/event/melee-singles",
@@ -46,7 +46,7 @@
       "tournament_name": "East Coast Fridays #224",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486396/image-1acf528eb3699a2549f9cd8fa8632f80.png?ehk=KjnwG9usm7A7bijKkaCMMEc%2FAVDmicBpiL0vQbD4l4o%3D&ehkOptimized=tnXBqHrX258nJliN31oAHa3V3NGu9a297k%2FRAdWtsZ8%3D",
-      "entrants": 43,
+      "entrants": 61,
       "start_time": 1665187200
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "The Shallow End #6 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485656/image-6a3a00df35e71875b57b345772c60d12.jpg?ehk=glNDBCaQhX3pGd6dxyqAs4boZIdBuCWsAStaQiGBq2U%3D&ehkOptimized=qUFMaM%2BShAPbC5Q05hJMnlY%2FeJdGcYpHPd%2By%2FBSFQto%3D",
-      "entrants": 6,
+      "entrants": 9,
       "start_time": 1665189900
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Gral Francisco Melee",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486099/image-0cb4c823c5dc7a56f58b417074b326f0.png?ehk=JFJK7zzctUaEp7%2FIQu6XKQlN86mNInEknpRZuE0Au%2BY%3D&ehkOptimized=1BTSOUuxLgQaIFpXCmdAFBMrvP13vsatWw0FYgZzhmk%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1665190800
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Quest for Best Noob EU #40 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/486273/image-a0fa3520a93e24bb54b344112dd9ce1b.jpg?ehk=Rld%2BWOO5rcr7xrza%2BZkBu8UEwLyzJYXP15qL9os9rrw%3D&ehkOptimized=hJ7y3k8cUh94qHGs50sxelePkpuL6HC%2BZJfENUM2MiM%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1665239400
     },
     {
