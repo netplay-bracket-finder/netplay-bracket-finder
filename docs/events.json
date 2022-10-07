@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665146959,
+  "fetched_at": 1665150931,
   "data": [
     {
       "slug": "tournament/caf-42/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "ASL’s Weekly Weekend Melee #12",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485866/image-b5d83def6345f09c65a660da113b921e.png?ehk=wt0nQXB6DTP8vvLnT4UeqBylscekjOzZf8u8UAlj3MI%3D&ehkOptimized=Ko5y%2Bw9qQ6CNaoL9QlUor8qZlnhmgLowiUj11btfsyA%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1665158400
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Quest for Best Noob EU #40 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/486273/image-a0fa3520a93e24bb54b344112dd9ce1b.jpg?ehk=Rld%2BWOO5rcr7xrza%2BZkBu8UEwLyzJYXP15qL9os9rrw%3D&ehkOptimized=hJ7y3k8cUh94qHGs50sxelePkpuL6HC%2BZJfENUM2MiM%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1665239400
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "Melee Weekly BR #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486331/image-bafe09c2cd8aed72a70638494305fda1.png?ehk=oJD7SyPfXPUXEy0uZNf4yy8tVb2FmkrFk9i0ggctHug%3D&ehkOptimized=bFPJrscjRMWCtfbO7MTp0pnm12ldeRrH7mxlFuJhXDQ%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1665342000
     },
     {
