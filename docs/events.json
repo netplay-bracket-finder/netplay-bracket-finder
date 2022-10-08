@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665186715,
+  "fetched_at": 1665193917,
   "data": [
     {
       "slug": "tournament/caf-42/event/melee-singles",
@@ -26,14 +26,6 @@
       "start_time": 1665162600
     },
     {
-      "slug": "tournament/fgc-friday-11/event/melee-singles",
-      "tournament_name": "FGC Friday #11",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/486072/image-a5b6c7537e00bf722e08b970dd5e862a.png?ehk=ptXDOCmPi0dOoF565eMoHEnC8Z4F6qc5w7n7XvUyiWw%3D&ehkOptimized=Uvw%2BstfkVDAPu1abvED2G0U0fA6iq8kb%2F%2B22%2B%2F61rMI%3D",
-      "entrants": 2,
-      "start_time": 1665187200
-    },
-    {
       "slug": "tournament/east-coast-fridays-224/event/melee-singles",
       "tournament_name": "East Coast Fridays #224",
       "event_name": "Melee Singles",
@@ -42,20 +34,20 @@
       "start_time": 1665187200
     },
     {
-      "slug": "tournament/the-shallow-end-6-a-wc-newbie-bracket/event/melee-singles",
-      "tournament_name": "The Shallow End #6 - a WC newbie bracket",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/485656/image-6a3a00df35e71875b57b345772c60d12.jpg?ehk=glNDBCaQhX3pGd6dxyqAs4boZIdBuCWsAStaQiGBq2U%3D&ehkOptimized=qUFMaM%2BShAPbC5Q05hJMnlY%2FeJdGcYpHPd%2By%2FBSFQto%3D",
-      "entrants": 9,
-      "start_time": 1665189900
-    },
-    {
       "slug": "tournament/gral-francisco-melee/event/melee-singles",
       "tournament_name": "Gral Francisco Melee",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486099/image-0cb4c823c5dc7a56f58b417074b326f0.png?ehk=JFJK7zzctUaEp7%2FIQu6XKQlN86mNInEknpRZuE0Au%2BY%3D&ehkOptimized=1BTSOUuxLgQaIFpXCmdAFBMrvP13vsatWw0FYgZzhmk%3D",
-      "entrants": 11,
-      "start_time": 1665190800
+      "entrants": 12,
+      "start_time": 1665191100
+    },
+    {
+      "slug": "tournament/ggs-too-sleepy-26/event/sleepy-singles",
+      "tournament_name": "ggs too sleepy #26",
+      "event_name": "sleepy singles",
+      "image": "https://images.start.gg/images/tournament/486579/image-96a6b9fdd9e77bd97b4db80bcc348285.png?ehk=kZSzUlra5tzMs%2B828e2pwSDpY8voNJDQchFIuClYKiE%3D&ehkOptimized=TTkb0xuZe4Y0Xr%2BbfWB%2B8Oyvonvy09zoMv6PQ4e0e%2BI%3D",
+      "entrants": 12,
+      "start_time": 1665199800
     },
     {
       "slug": "tournament/quest-for-best-noob-eu-40-a-qfbn-all-star/event/newbie-singles",
@@ -102,7 +94,7 @@
       "tournament_name": "SEAM#15",
       "event_name": "East Asia Melee",
       "image": "https://images.start.gg/images/tournament/485421/image-a15c4bcccfe163b2d7467b0d67965b65.png?ehk=qnOhHDghto9tu7k0sTj6df%2FDHfcTWKMKHFp6vPMjJ88%3D&ehkOptimized=ouRHyqHxEc3PASTO7gEW5KCAXIOt52zk90VPbNTU4AE%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1665295200
     },
     {
@@ -198,7 +190,7 @@
       "tournament_name": "Moonwalk Tournament Series 20",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/485996/image-5205f1e40b28ba687057f871accb2e25.jpg?ehk=%2FCfinreqBOxUmTMdlftz67cjrF2Hz9myJOV%2FZ%2B8oxYs%3D&ehkOptimized=pIXt3w8usTfQIqOqJlDS7lL2r%2B07o2AdZOblKG2IjmI%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665702000
     },
     {
@@ -206,6 +198,22 @@
       "tournament_name": "Moonwalk Tournament Series 20",
       "event_name": "Melee Top 12",
       "image": "https://images.start.gg/images/tournament/485996/image-5205f1e40b28ba687057f871accb2e25.jpg?ehk=%2FCfinreqBOxUmTMdlftz67cjrF2Hz9myJOV%2FZ%2B8oxYs%3D&ehkOptimized=pIXt3w8usTfQIqOqJlDS7lL2r%2B07o2AdZOblKG2IjmI%3D",
+      "entrants": 0,
+      "start_time": 1665702000
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-7/event/results-data",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #7",
+      "event_name": "Results Data",
+      "image": "https://images.start.gg/images/tournament/486589/image-1a19b3e758a65d2dfbd1117c90c06ef7.png?ehk=%2BvrnNEe8UAO9mrZXOv10L9rt59k3aT7mAQRljRQ2SDM%3D&ehkOptimized=lz2zn8qL96vTHTRBHOF%2BAdzb%2FT%2BUf4otGmoOH13xPq4%3D",
+      "entrants": 0,
+      "start_time": 1665702000
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-7/event/ssbmr-singles",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #7",
+      "event_name": "SSBMr Singles",
+      "image": "https://images.start.gg/images/tournament/486589/image-1a19b3e758a65d2dfbd1117c90c06ef7.png?ehk=%2BvrnNEe8UAO9mrZXOv10L9rt59k3aT7mAQRljRQ2SDM%3D&ehkOptimized=lz2zn8qL96vTHTRBHOF%2BAdzb%2FT%2BUf4otGmoOH13xPq4%3D",
       "entrants": 0,
       "start_time": 1665702000
     },
