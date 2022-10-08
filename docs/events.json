@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665205711,
+  "fetched_at": 1665207914,
   "data": [
     {
       "slug": "tournament/caf-42/event/melee-singles",
@@ -58,11 +58,19 @@
       "start_time": 1665262800
     },
     {
+      "slug": "tournament/sby-melee-netplay-132/event/melee-singles",
+      "tournament_name": "SBY Melee Netplay #132",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/486618/image-76c29f9ab5908ac329761ff8e40b8ab1.jpg?ehk=GLCwGf0XjG5KEna2%2FpSrxvipDRl0wdarOSc2JSCq7K4%3D&ehkOptimized=lKfG2q94z9tp64DWDt0GJG%2B2UWyuKHk6rzuYZ4VwafA%3D",
+      "entrants": 1,
+      "start_time": 1665264600
+    },
+    {
       "slug": "tournament/bb-73/event/melee-singles",
       "tournament_name": "BB 73",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486133/image-d29cdf5647450fd8a74be2a9c1f4b0fb.jpg?ehk=xUfV8ccOEhtwxMT4QFJtvZHPfK5GCAHzTLfPKWu4gXE%3D&ehkOptimized=Cu0eKuVnySorG4nl0KVJ0Uf%2BwIywceIfndRFm6z%2FUQo%3D",
-      "entrants": 9,
+      "entrants": 12,
       "start_time": 1665282600
     },
     {
