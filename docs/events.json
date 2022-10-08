@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665244096,
+  "fetched_at": 1665246598,
   "data": [
     {
       "slug": "tournament/legs-le-tournament-52/event/melee-singles",
       "tournament_name": "Legs' Le Tournament #52",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484613/image-f7c7db5cec2f1675d70a0dcdded1f531.png?ehk=vP2Q3iIpcXbhk%2FGlMy5ViQtJL8Im%2FJglmiLikgReAr0%3D&ehkOptimized=qdLXmsFJPraXSdAwsE4EZxf2u8owlZBea22csg0VzqQ%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1665262800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "SBY Melee Netplay #132",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486618/image-76c29f9ab5908ac329761ff8e40b8ab1.jpg?ehk=GLCwGf0XjG5KEna2%2FpSrxvipDRl0wdarOSc2JSCq7K4%3D&ehkOptimized=lKfG2q94z9tp64DWDt0GJG%2B2UWyuKHk6rzuYZ4VwafA%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1665264600
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Eli's Weekly Low Tier Spanking 25",
       "event_name": "Eli's Weekly Low Tier Spanking 15",
       "image": "https://images.start.gg/images/tournament/486611/image-e66bdafa9d771c7e976d7c6d8895ec7d.png?ehk=YhqjdbizU2YzNyzquxgUytzuCgCbtUuOpkImoZeP1FU%3D&ehkOptimized=KzbiaiPyM7J5f9QDVJqCUzYRkyxqCVebN4DnPMG2Vjg%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665320400
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Dorime's Dojo #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484846/image-dcc5dcff0db9aa3d0fe58fa9dd9bf5f9.png?ehk=wRusEtkeW4rIDkZzKOXkFe%2FXFzDPbfXfa78kycVrh58%3D&ehkOptimized=oShv4mAYgH5Z%2FvHnl%2Bnk5gLpGcGnuDfclxevou3mnFM%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1665331200
     },
     {
@@ -88,6 +88,14 @@
       "image": "https://images.start.gg/images/tournament/486331/image-bafe09c2cd8aed72a70638494305fda1.png?ehk=oJD7SyPfXPUXEy0uZNf4yy8tVb2FmkrFk9i0ggctHug%3D&ehkOptimized=bFPJrscjRMWCtfbO7MTp0pnm12ldeRrH7mxlFuJhXDQ%3D",
       "entrants": 8,
       "start_time": 1665342000
+    },
+    {
+      "slug": "tournament/stellar-showdown-11-with-sf6-beta-event/event/melee-singles",
+      "tournament_name": "Stellar Showdown #11 (WITH SF6 BETA EVENT!)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/486665/image-79898752711e75065c2a218ba741abc0.png?ehk=jsRtg90H1IoD4yqHEJ4jJ4vpi6BenxB2pPgNV%2FGy4FM%3D&ehkOptimized=JaBryG%2FnPNUErCv3%2FEUY614Wb0SbcZocDRjb94Pe%2FGo%3D",
+      "entrants": 0,
+      "start_time": 1665349200
     },
     {
       "slug": "tournament/super-smash-bong-ultimate-players/event/melee-singles",
@@ -150,7 +158,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1665702000
     },
     {
