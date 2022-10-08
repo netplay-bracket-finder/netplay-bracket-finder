@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665193917,
+  "fetched_at": 1665200238,
   "data": [
     {
       "slug": "tournament/caf-42/event/melee-singles",
@@ -42,14 +42,6 @@
       "start_time": 1665191100
     },
     {
-      "slug": "tournament/ggs-too-sleepy-26/event/sleepy-singles",
-      "tournament_name": "ggs too sleepy #26",
-      "event_name": "sleepy singles",
-      "image": "https://images.start.gg/images/tournament/486579/image-96a6b9fdd9e77bd97b4db80bcc348285.png?ehk=kZSzUlra5tzMs%2B828e2pwSDpY8voNJDQchFIuClYKiE%3D&ehkOptimized=TTkb0xuZe4Y0Xr%2BbfWB%2B8Oyvonvy09zoMv6PQ4e0e%2BI%3D",
-      "entrants": 12,
-      "start_time": 1665199800
-    },
-    {
       "slug": "tournament/quest-for-best-noob-eu-40-a-qfbn-all-star/event/newbie-singles",
       "tournament_name": "Quest for Best Noob EU #40 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
@@ -71,7 +63,7 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486133/image-d29cdf5647450fd8a74be2a9c1f4b0fb.jpg?ehk=xUfV8ccOEhtwxMT4QFJtvZHPfK5GCAHzTLfPKWu4gXE%3D&ehkOptimized=Cu0eKuVnySorG4nl0KVJ0Uf%2BwIywceIfndRFm6z%2FUQo%3D",
       "entrants": 8,
-      "start_time": 1665284400
+      "start_time": 1665282600
     },
     {
       "slug": "tournament/lgbt-s3e11-ec-and-wc-hold-hands/event/ladder",
@@ -94,8 +86,24 @@
       "tournament_name": "SEAM#15",
       "event_name": "East Asia Melee",
       "image": "https://images.start.gg/images/tournament/485421/image-a15c4bcccfe163b2d7467b0d67965b65.png?ehk=qnOhHDghto9tu7k0sTj6df%2FDHfcTWKMKHFp6vPMjJ88%3D&ehkOptimized=ouRHyqHxEc3PASTO7gEW5KCAXIOt52zk90VPbNTU4AE%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1665295200
+    },
+    {
+      "slug": "tournament/eli-s-weekly-low-tier-spanking-25/event/eli-s-weekly-low-tier-spanking-15",
+      "tournament_name": "Eli's Weekly Low Tier Spanking 25",
+      "event_name": "Eli's Weekly Low Tier Spanking 15",
+      "image": "https://images.start.gg/images/tournament/486611/image-e66bdafa9d771c7e976d7c6d8895ec7d.png?ehk=YhqjdbizU2YzNyzquxgUytzuCgCbtUuOpkImoZeP1FU%3D&ehkOptimized=KzbiaiPyM7J5f9QDVJqCUzYRkyxqCVebN4DnPMG2Vjg%3D",
+      "entrants": 0,
+      "start_time": 1665320400
+    },
+    {
+      "slug": "tournament/eli-s-weekly-low-tier-spanking-25/event/eli-s-weekly-low-tier-spanking-15-double-team-battle",
+      "tournament_name": "Eli's Weekly Low Tier Spanking 25",
+      "event_name": "Eli's Weekly Low Tier Spanking 15 Double Team Battle Special Event",
+      "image": "https://images.start.gg/images/tournament/486611/image-e66bdafa9d771c7e976d7c6d8895ec7d.png?ehk=YhqjdbizU2YzNyzquxgUytzuCgCbtUuOpkImoZeP1FU%3D&ehkOptimized=KzbiaiPyM7J5f9QDVJqCUzYRkyxqCVebN4DnPMG2Vjg%3D",
+      "entrants": 0,
+      "start_time": 1665320400
     },
     {
       "slug": "tournament/dorime-s-dojo-3/event/melee-singles",
@@ -202,17 +210,17 @@
       "start_time": 1665702000
     },
     {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-7/event/results-data",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #7",
-      "event_name": "Results Data",
-      "image": "https://images.start.gg/images/tournament/486589/image-1a19b3e758a65d2dfbd1117c90c06ef7.png?ehk=%2BvrnNEe8UAO9mrZXOv10L9rt59k3aT7mAQRljRQ2SDM%3D&ehkOptimized=lz2zn8qL96vTHTRBHOF%2BAdzb%2FT%2BUf4otGmoOH13xPq4%3D",
-      "entrants": 0,
-      "start_time": 1665702000
-    },
-    {
       "slug": "tournament/ssbm-randomizer-seed-of-the-week-7/event/ssbmr-singles",
       "tournament_name": "SSBM Randomizer: Seed of the Week #7",
       "event_name": "SSBMr Singles",
+      "image": "https://images.start.gg/images/tournament/486589/image-1a19b3e758a65d2dfbd1117c90c06ef7.png?ehk=%2BvrnNEe8UAO9mrZXOv10L9rt59k3aT7mAQRljRQ2SDM%3D&ehkOptimized=lz2zn8qL96vTHTRBHOF%2BAdzb%2FT%2BUf4otGmoOH13xPq4%3D",
+      "entrants": 1,
+      "start_time": 1665702000
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-7/event/results-data",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #7",
+      "event_name": "Results Data",
       "image": "https://images.start.gg/images/tournament/486589/image-1a19b3e758a65d2dfbd1117c90c06ef7.png?ehk=%2BvrnNEe8UAO9mrZXOv10L9rt59k3aT7mAQRljRQ2SDM%3D&ehkOptimized=lz2zn8qL96vTHTRBHOF%2BAdzb%2FT%2BUf4otGmoOH13xPq4%3D",
       "entrants": 0,
       "start_time": 1665702000
