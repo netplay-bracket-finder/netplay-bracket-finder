@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1665232766,
+  "fetched_at": 1665237685,
   "data": [
-    {
-      "slug": "tournament/quest-for-best-noob-eu-40-a-qfbn-all-star/event/newbie-singles",
-      "tournament_name": "Quest for Best Noob EU #40 A QFBN All Star Summit Qualifier Event",
-      "event_name": "Newbie Singles",
-      "image": "https://images.start.gg/images/tournament/486273/image-a0fa3520a93e24bb54b344112dd9ce1b.jpg?ehk=Rld%2BWOO5rcr7xrza%2BZkBu8UEwLyzJYXP15qL9os9rrw%3D&ehkOptimized=hJ7y3k8cUh94qHGs50sxelePkpuL6HC%2BZJfENUM2MiM%3D",
-      "entrants": 13,
-      "start_time": 1665239400
-    },
     {
       "slug": "tournament/legs-le-tournament-52/event/melee-singles",
       "tournament_name": "Legs' Le Tournament #52",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484613/image-f7c7db5cec2f1675d70a0dcdded1f531.png?ehk=vP2Q3iIpcXbhk%2FGlMy5ViQtJL8Im%2FJglmiLikgReAr0%3D&ehkOptimized=qdLXmsFJPraXSdAwsE4EZxf2u8owlZBea22csg0VzqQ%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1665262800
     },
     {
@@ -22,7 +14,7 @@
       "tournament_name": "SBY Melee Netplay #132",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486618/image-76c29f9ab5908ac329761ff8e40b8ab1.jpg?ehk=GLCwGf0XjG5KEna2%2FpSrxvipDRl0wdarOSc2JSCq7K4%3D&ehkOptimized=lKfG2q94z9tp64DWDt0GJG%2B2UWyuKHk6rzuYZ4VwafA%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665264600
     },
     {
@@ -30,7 +22,7 @@
       "tournament_name": "BB 73",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486133/image-d29cdf5647450fd8a74be2a9c1f4b0fb.jpg?ehk=xUfV8ccOEhtwxMT4QFJtvZHPfK5GCAHzTLfPKWu4gXE%3D&ehkOptimized=Cu0eKuVnySorG4nl0KVJ0Uf%2BwIywceIfndRFm6z%2FUQo%3D",
-      "entrants": 12,
+      "entrants": 15,
       "start_time": 1665282600
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "SEAM#15",
       "event_name": "East Asia Melee",
       "image": "https://images.start.gg/images/tournament/485421/image-a15c4bcccfe163b2d7467b0d67965b65.png?ehk=qnOhHDghto9tu7k0sTj6df%2FDHfcTWKMKHFp6vPMjJ88%3D&ehkOptimized=ouRHyqHxEc3PASTO7gEW5KCAXIOt52zk90VPbNTU4AE%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1665295200
     },
     {
