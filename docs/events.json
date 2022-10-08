@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665242579,
+  "fetched_at": 1665244096,
   "data": [
     {
       "slug": "tournament/legs-le-tournament-52/event/melee-singles",
       "tournament_name": "Legs' Le Tournament #52",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/484613/image-f7c7db5cec2f1675d70a0dcdded1f531.png?ehk=vP2Q3iIpcXbhk%2FGlMy5ViQtJL8Im%2FJglmiLikgReAr0%3D&ehkOptimized=qdLXmsFJPraXSdAwsE4EZxf2u8owlZBea22csg0VzqQ%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665262800
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Fight of the Fearless 22",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/485090/image-cb8358b70ce1bb29273033471f505ffd.png?ehk=WpX4YFgv6EbdRTVtUb%2BNhBsE3E7i%2B6cy5lcbfTps4pg%3D&ehkOptimized=xbXmToMeP4OjBHfGkm4DaQkikUYH8SzxPASzGIXU3Y0%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1665334800
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "Super Smash Bong - Ultimate players",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/485361/image-46b34d804078a8cc1ecb64f2dca9a791.jpg?ehk=yfBaj%2FLc0LdsVCjMKcPpHrokF6bft%2BoeB3%2B1jQuFU3k%3D&ehkOptimized=Imh%2BlK7L8hKayss3Px%2FhE8g9W5eEYHF3GfPMxEVouys%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1665352800
     },
     {
