@@ -1,46 +1,6 @@
 {
-  "fetched_at": 1665212323,
+  "fetched_at": 1665214129,
   "data": [
-    {
-      "slug": "tournament/caf-42/event/melee-singles",
-      "tournament_name": "Café 42",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/485145/image-7b5b5fb7f9c15f4e9bd5b006c53f9a72.png?ehk=rt7ITozeTnApu%2FIRygSK6F2IGJpb6WbdUqnQpUO8QV0%3D&ehkOptimized=eUe%2Bwu9vPbiI6C%2B2pERae54sr%2Fvvarh5x7fit%2FjBNOE%3D",
-      "entrants": 2,
-      "start_time": 1665158400
-    },
-    {
-      "slug": "tournament/asl-s-weekly-weekend-melee-12/event/melee-singles",
-      "tournament_name": "ASL’s Weekly Weekend Melee #12",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/485866/image-b5d83def6345f09c65a660da113b921e.png?ehk=wt0nQXB6DTP8vvLnT4UeqBylscekjOzZf8u8UAlj3MI%3D&ehkOptimized=Ko5y%2Bw9qQ6CNaoL9QlUor8qZlnhmgLowiUj11btfsyA%3D",
-      "entrants": 8,
-      "start_time": 1665162000
-    },
-    {
-      "slug": "tournament/the-legends-tournament-79/event/wavedash-20",
-      "tournament_name": "The Legends Tournament #79",
-      "event_name": "WaveDash #20",
-      "image": "https://images.start.gg/images/tournament/485288/image-e7727e1a54626e095f59d46701cc9e21.png?ehk=gbk0GBoMQHs1qhM86JuSQF2wK2yNYUNIqdKpuKB%2F27s%3D&ehkOptimized=XKrUAnTLxVsEWg9mWEKeUmLaPPSmgOQyWFxZ9gvEokw%3D",
-      "entrants": 21,
-      "start_time": 1665162600
-    },
-    {
-      "slug": "tournament/east-coast-fridays-224/event/melee-singles",
-      "tournament_name": "East Coast Fridays #224",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/486396/image-1acf528eb3699a2549f9cd8fa8632f80.png?ehk=KjnwG9usm7A7bijKkaCMMEc%2FAVDmicBpiL0vQbD4l4o%3D&ehkOptimized=tnXBqHrX258nJliN31oAHa3V3NGu9a297k%2FRAdWtsZ8%3D",
-      "entrants": 62,
-      "start_time": 1665187200
-    },
-    {
-      "slug": "tournament/gral-francisco-melee/event/melee-singles",
-      "tournament_name": "Gral Francisco Melee",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/486099/image-0cb4c823c5dc7a56f58b417074b326f0.png?ehk=JFJK7zzctUaEp7%2FIQu6XKQlN86mNInEknpRZuE0Au%2BY%3D&ehkOptimized=1BTSOUuxLgQaIFpXCmdAFBMrvP13vsatWw0FYgZzhmk%3D",
-      "entrants": 12,
-      "start_time": 1665191100
-    },
     {
       "slug": "tournament/quest-for-best-noob-eu-40-a-qfbn-all-star/event/newbie-singles",
       "tournament_name": "Quest for Best Noob EU #40 A QFBN All Star Summit Qualifier Event",
