@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665294704,
+  "fetched_at": 1665297002,
   "data": [
     {
       "slug": "tournament/lgbt-s3e11-ec-and-wc-hold-hands/event/melee-singles",
@@ -16,14 +16,6 @@
       "image": "https://images.start.gg/images/tournament/485880/image-673facbc6654c3016e8568f08526aa3c.png?ehk=qdG%2FFaLOpNpxQtXNrmnau%2FIVxP1x9WV14RUHZgyNwJw%3D&ehkOptimized=hEe6%2BZfwJLhPjX4hyonZUhmOZXecBcqVqgQJao%2FsTrY%3D",
       "entrants": 7,
       "start_time": 1665288000
-    },
-    {
-      "slug": "tournament/seam-15-1/event/east-asia-melee",
-      "tournament_name": "SEAM#15",
-      "event_name": "East Asia Melee",
-      "image": "https://images.start.gg/images/tournament/485421/image-a15c4bcccfe163b2d7467b0d67965b65.png?ehk=qnOhHDghto9tu7k0sTj6df%2FDHfcTWKMKHFp6vPMjJ88%3D&ehkOptimized=ouRHyqHxEc3PASTO7gEW5KCAXIOt52zk90VPbNTU4AE%3D",
-      "entrants": 10,
-      "start_time": 1665295200
     },
     {
       "slug": "tournament/eli-s-weekly-low-tier-spanking-25/event/eli-s-weekly-low-tier-spanking-15",
@@ -142,7 +134,7 @@
       "tournament_name": "Moonwalk Tournament Series 20",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/485996/image-5205f1e40b28ba687057f871accb2e25.jpg?ehk=%2FCfinreqBOxUmTMdlftz67cjrF2Hz9myJOV%2FZ%2B8oxYs%3D&ehkOptimized=pIXt3w8usTfQIqOqJlDS7lL2r%2B07o2AdZOblKG2IjmI%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1665702000
     },
     {
@@ -168,6 +160,14 @@
       "image": "https://images.start.gg/images/tournament/486589/image-1a19b3e758a65d2dfbd1117c90c06ef7.png?ehk=%2BvrnNEe8UAO9mrZXOv10L9rt59k3aT7mAQRljRQ2SDM%3D&ehkOptimized=lz2zn8qL96vTHTRBHOF%2BAdzb%2FT%2BUf4otGmoOH13xPq4%3D",
       "entrants": 0,
       "start_time": 1665702000
+    },
+    {
+      "slug": "tournament/the-shallow-end-7-a-wc-newbie-bracket/event/melee-singles",
+      "tournament_name": "The Shallow End #7 - a WC newbie bracket",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/486828/image-ada0e5f7b2d666bb351751bfc23eb322.jpg?ehk=AwDiWdag1p8bUuLLykm2kQM396Ug8lgJ1kONh%2FDhOAM%3D&ehkOptimized=BntrJprKwiw%2Fb9mJwsb4iZYSYIkIgexEGNwvlJMsaeY%3D",
+      "entrants": 0,
+      "start_time": 1665794700
     },
     {
       "slug": "tournament/legs-le-tournament-53/event/melee-singles",
