@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665325622,
+  "fetched_at": 1665326762,
   "data": [
     {
       "slug": "tournament/only-lusos-allowed-29/event/melee-singles",
@@ -10,19 +10,11 @@
       "start_time": 1665331200
     },
     {
-      "slug": "tournament/dorime-s-dojo-3/event/melee-singles",
-      "tournament_name": "Dorime's Dojo #3",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/484846/image-dcc5dcff0db9aa3d0fe58fa9dd9bf5f9.png?ehk=wRusEtkeW4rIDkZzKOXkFe%2FXFzDPbfXfa78kycVrh58%3D&ehkOptimized=oShv4mAYgH5Z%2FvHnl%2Bnk5gLpGcGnuDfclxevou3mnFM%3D",
-      "entrants": 12,
-      "start_time": 1665331200
-    },
-    {
       "slug": "tournament/fight-of-the-fearless-22/event/fight-of-the-fearless-single",
       "tournament_name": "Fight of the Fearless 22",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/485090/image-cb8358b70ce1bb29273033471f505ffd.png?ehk=WpX4YFgv6EbdRTVtUb%2BNhBsE3E7i%2B6cy5lcbfTps4pg%3D&ehkOptimized=xbXmToMeP4OjBHfGkm4DaQkikUYH8SzxPASzGIXU3Y0%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1665334800
     },
     {
