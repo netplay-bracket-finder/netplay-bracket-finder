@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665338316,
+  "fetched_at": 1665340454,
   "data": [
     {
       "slug": "tournament/only-lusos-allowed-29/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/486855/image-19e5417b70d23e90776964720f0e1ed3.png?ehk=2aYmi1G2dh2KLaYHRl9eV7WPmFyOpQQOC4S3I0wotAg%3D&ehkOptimized=MXJF1ksJi7sOjfkuzZ21jfgJSczQRYx2kjvaAGLqnG8%3D",
       "entrants": 1,
       "start_time": 1665331200
-    },
-    {
-      "slug": "tournament/melee-weekly-br-1/event/melee-singles",
-      "tournament_name": "Melee Weekly BR #1",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/486331/image-bafe09c2cd8aed72a70638494305fda1.png?ehk=oJD7SyPfXPUXEy0uZNf4yy8tVb2FmkrFk9i0ggctHug%3D&ehkOptimized=bFPJrscjRMWCtfbO7MTp0pnm12ldeRrH7mxlFuJhXDQ%3D",
-      "entrants": 11,
-      "start_time": 1665342000
     },
     {
       "slug": "tournament/stellar-showdown-11-with-sf6-beta-event/event/melee-singles",
@@ -30,7 +22,7 @@
       "tournament_name": "Super Smash Bong - Ultimate players",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/485361/image-46b34d804078a8cc1ecb64f2dca9a791.jpg?ehk=yfBaj%2FLc0LdsVCjMKcPpHrokF6bft%2BoeB3%2B1jQuFU3k%3D&ehkOptimized=Imh%2BlK7L8hKayss3Px%2FhE8g9W5eEYHF3GfPMxEVouys%3D",
-      "entrants": 20,
+      "entrants": 19,
       "start_time": 1665352800
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "Pino's Tired of 0-2 #93!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/486936/image-23d93a84ad5bf2ac50e95062f71685a8.jpg?ehk=MvuY2m1OkDvSKgYPQDhhqzkSFloRJNBjrqSPyKQWpBk%3D&ehkOptimized=wkjupOU9%2BanRJzeSzCgKBdL7e7QWkEEdkLausuFT%2Bjg%3D",
-      "entrants": 0,
+      "entrants": 2,
       "start_time": 1665439200
     },
     {
@@ -94,7 +86,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1665702000
     },
     {
