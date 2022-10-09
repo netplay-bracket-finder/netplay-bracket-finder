@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665355616,
+  "fetched_at": 1665357951,
   "data": [
     {
       "slug": "tournament/only-lusos-allowed-29/event/melee-singles",
@@ -18,35 +18,27 @@
       "start_time": 1665349200
     },
     {
-      "slug": "tournament/can-you-take-the-heat/event/melee-singles",
-      "tournament_name": "Can You Take the Heat?",
-      "event_name": "melee singles",
-      "image": "https://images.start.gg/images/tournament/485728/image-69f110f6a3bba7cb0db4f0dbcdb3153a.png?ehk=unf%2FowiQLKfioT2Qq0224hpwJrYi0f32kuCFZaPJ0l0%3D&ehkOptimized=T2fwP6JjTkVdMCa%2BjBxmzGHPOaUOSf3NA3t%2FhDjSPuA%3D",
-      "entrants": 19,
-      "start_time": 1665356400
-    },
-    {
-      "slug": "tournament/amsa-celebration-bracket-1/event/melee-singles",
-      "tournament_name": "aMSa Celebration Bracket",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/486916/image-91b9ee4f049fa10e00622f565a1d73eb.png?ehk=0HY%2BL05%2F8Zb8KxW6OIympHn%2FL6fWKr%2BVs%2BMJn8m1hyM%3D&ehkOptimized=sHnbA2i5X3E190745BOVKXj6SJ%2BNCeGEZsu82mIzo5w%3D",
-      "entrants": 32,
-      "start_time": 1665358200
-    },
-    {
       "slug": "tournament/full-moon-melee-10/event/melee-singles",
       "tournament_name": "Full Moon Melee 10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485909/image-32b3d420d3a973da94dcd56887f91823.png?ehk=GCkHbM5tJllDe%2BECJVnAnd2DFTLbdCC5SfhuJT01kqI%3D&ehkOptimized=KaJv6Jc7NEcABFAWvL4D6y7hEivctexbWEQnZR%2BqrUs%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1665370800
+    },
+    {
+      "slug": "tournament/slippi-sauce-69/event/melee-singles",
+      "tournament_name": "Slippi Sauce #69 🐸",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/487052/image-69d7b4a4ade6f6d446409411a57a24be.png?ehk=FEHIMj2fnfdeZYvDppy3yin2mNstR4JKzZVs7xB10nc%3D&ehkOptimized=OJfA190gG8jAukAG5qiTirq8qqWHOuD3cBdbQeaN76Y%3D",
+      "entrants": 0,
+      "start_time": 1665439200
     },
     {
       "slug": "tournament/pino-s-tired-of-0-2-93/event/tired-of-0-2",
       "tournament_name": "Pino's Tired of 0-2 #93!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/486936/image-23d93a84ad5bf2ac50e95062f71685a8.jpg?ehk=MvuY2m1OkDvSKgYPQDhhqzkSFloRJNBjrqSPyKQWpBk%3D&ehkOptimized=wkjupOU9%2BanRJzeSzCgKBdL7e7QWkEEdkLausuFT%2Bjg%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665439200
     },
     {
@@ -70,7 +62,7 @@
       "tournament_name": "SOVA Saga #3 - Southern Virginia Melee Online Event",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487035/image-89b143e2e08477b7218a74a76f70f751.png?ehk=MwNm%2FSGoF%2B4vK3hah%2FC6%2F%2B5anaCXJGLCucudtAvIVtc%3D&ehkOptimized=kFBYNPAcqh9ldRrYS8fXRSn4QalIE0amouGLMEmcHB4%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665612000
     },
     {
