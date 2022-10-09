@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1665281333,
+  "fetched_at": 1665288634,
   "data": [
-    {
-      "slug": "tournament/bb-73/event/melee-singles",
-      "tournament_name": "BB 73",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/486133/image-d29cdf5647450fd8a74be2a9c1f4b0fb.jpg?ehk=xUfV8ccOEhtwxMT4QFJtvZHPfK5GCAHzTLfPKWu4gXE%3D&ehkOptimized=Cu0eKuVnySorG4nl0KVJ0Uf%2BwIywceIfndRFm6z%2FUQo%3D",
-      "entrants": 23,
-      "start_time": 1665282600
-    },
     {
       "slug": "tournament/lgbt-s3e11-ec-and-wc-hold-hands/event/melee-singles",
       "tournament_name": "LGBT S3E11: EC and WC hold hands",
@@ -30,7 +22,7 @@
       "tournament_name": "SEAM#15",
       "event_name": "East Asia Melee",
       "image": "https://images.start.gg/images/tournament/485421/image-a15c4bcccfe163b2d7467b0d67965b65.png?ehk=qnOhHDghto9tu7k0sTj6df%2FDHfcTWKMKHFp6vPMjJ88%3D&ehkOptimized=ouRHyqHxEc3PASTO7gEW5KCAXIOt52zk90VPbNTU4AE%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1665295200
     },
     {
@@ -86,7 +78,7 @@
       "tournament_name": "Super Smash Bong - Ultimate players",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/485361/image-46b34d804078a8cc1ecb64f2dca9a791.jpg?ehk=yfBaj%2FLc0LdsVCjMKcPpHrokF6bft%2BoeB3%2B1jQuFU3k%3D&ehkOptimized=Imh%2BlK7L8hKayss3Px%2FhE8g9W5eEYHF3GfPMxEVouys%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1665352800
     },
     {
@@ -102,7 +94,7 @@
       "tournament_name": "Full Moon Melee 10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485909/image-32b3d420d3a973da94dcd56887f91823.png?ehk=GCkHbM5tJllDe%2BECJVnAnd2DFTLbdCC5SfhuJT01kqI%3D&ehkOptimized=KaJv6Jc7NEcABFAWvL4D6y7hEivctexbWEQnZR%2BqrUs%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1665370800
     },
     {
