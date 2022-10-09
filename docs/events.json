@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665337409,
+  "fetched_at": 1665338316,
   "data": [
     {
       "slug": "tournament/only-lusos-allowed-29/event/melee-singles",
@@ -48,6 +48,14 @@
       "image": "https://images.start.gg/images/tournament/485909/image-32b3d420d3a973da94dcd56887f91823.png?ehk=GCkHbM5tJllDe%2BECJVnAnd2DFTLbdCC5SfhuJT01kqI%3D&ehkOptimized=KaJv6Jc7NEcABFAWvL4D6y7hEivctexbWEQnZR%2BqrUs%3D",
       "entrants": 8,
       "start_time": 1665370800
+    },
+    {
+      "slug": "tournament/pino-s-tired-of-0-2-93/event/tired-of-0-2",
+      "tournament_name": "Pino's Tired of 0-2 #93!",
+      "event_name": "Tired of 0-2?",
+      "image": "https://images.start.gg/images/tournament/486936/image-23d93a84ad5bf2ac50e95062f71685a8.jpg?ehk=MvuY2m1OkDvSKgYPQDhhqzkSFloRJNBjrqSPyKQWpBk%3D&ehkOptimized=wkjupOU9%2BanRJzeSzCgKBdL7e7QWkEEdkLausuFT%2Bjg%3D",
+      "entrants": 0,
+      "start_time": 1665439200
     },
     {
       "slug": "tournament/coast-to-coast-doubles-2/event/wc-doubles",
