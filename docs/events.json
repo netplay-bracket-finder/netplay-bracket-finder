@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665333040,
+  "fetched_at": 1665335523,
   "data": [
     {
       "slug": "tournament/only-lusos-allowed-29/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/486855/image-19e5417b70d23e90776964720f0e1ed3.png?ehk=2aYmi1G2dh2KLaYHRl9eV7WPmFyOpQQOC4S3I0wotAg%3D&ehkOptimized=MXJF1ksJi7sOjfkuzZ21jfgJSczQRYx2kjvaAGLqnG8%3D",
       "entrants": 1,
       "start_time": 1665331200
-    },
-    {
-      "slug": "tournament/fight-of-the-fearless-22/event/fight-of-the-fearless-single",
-      "tournament_name": "Fight of the Fearless 22",
-      "event_name": "Fight Of The Fearless single",
-      "image": "https://images.start.gg/images/tournament/485090/image-cb8358b70ce1bb29273033471f505ffd.png?ehk=WpX4YFgv6EbdRTVtUb%2BNhBsE3E7i%2B6cy5lcbfTps4pg%3D&ehkOptimized=xbXmToMeP4OjBHfGkm4DaQkikUYH8SzxPASzGIXU3Y0%3D",
-      "entrants": 21,
-      "start_time": 1665334800
     },
     {
       "slug": "tournament/melee-weekly-br-1/event/melee-singles",
@@ -38,7 +30,7 @@
       "tournament_name": "Super Smash Bong - Ultimate players",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/485361/image-46b34d804078a8cc1ecb64f2dca9a791.jpg?ehk=yfBaj%2FLc0LdsVCjMKcPpHrokF6bft%2BoeB3%2B1jQuFU3k%3D&ehkOptimized=Imh%2BlK7L8hKayss3Px%2FhE8g9W5eEYHF3GfPMxEVouys%3D",
-      "entrants": 19,
+      "entrants": 20,
       "start_time": 1665352800
     },
     {
