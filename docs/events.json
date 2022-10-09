@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665351867,
+  "fetched_at": 1665352552,
   "data": [
     {
       "slug": "tournament/only-lusos-allowed-29/event/melee-singles",
@@ -26,11 +26,19 @@
       "start_time": 1665356400
     },
     {
+      "slug": "tournament/amsa-celebration-bracket-1/event/melee-singles",
+      "tournament_name": "aMSa Celebration Bracket",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/486916/image-91b9ee4f049fa10e00622f565a1d73eb.png?ehk=0HY%2BL05%2F8Zb8KxW6OIympHn%2FL6fWKr%2BVs%2BMJn8m1hyM%3D&ehkOptimized=sHnbA2i5X3E190745BOVKXj6SJ%2BNCeGEZsu82mIzo5w%3D",
+      "entrants": 6,
+      "start_time": 1665358200
+    },
+    {
       "slug": "tournament/full-moon-melee-10/event/melee-singles",
       "tournament_name": "Full Moon Melee 10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485909/image-32b3d420d3a973da94dcd56887f91823.png?ehk=GCkHbM5tJllDe%2BECJVnAnd2DFTLbdCC5SfhuJT01kqI%3D&ehkOptimized=KaJv6Jc7NEcABFAWvL4D6y7hEivctexbWEQnZR%2BqrUs%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1665370800
     },
     {
