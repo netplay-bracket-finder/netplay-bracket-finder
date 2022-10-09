@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665354239,
+  "fetched_at": 1665355616,
   "data": [
     {
       "slug": "tournament/only-lusos-allowed-29/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Can You Take the Heat?",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/485728/image-69f110f6a3bba7cb0db4f0dbcdb3153a.png?ehk=unf%2FowiQLKfioT2Qq0224hpwJrYi0f32kuCFZaPJ0l0%3D&ehkOptimized=T2fwP6JjTkVdMCa%2BjBxmzGHPOaUOSf3NA3t%2FhDjSPuA%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1665356400
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "aMSa Celebration Bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486916/image-91b9ee4f049fa10e00622f565a1d73eb.png?ehk=0HY%2BL05%2F8Zb8KxW6OIympHn%2FL6fWKr%2BVs%2BMJn8m1hyM%3D&ehkOptimized=sHnbA2i5X3E190745BOVKXj6SJ%2BNCeGEZsu82mIzo5w%3D",
-      "entrants": 17,
+      "entrants": 32,
       "start_time": 1665358200
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Full Moon Melee 10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485909/image-32b3d420d3a973da94dcd56887f91823.png?ehk=GCkHbM5tJllDe%2BECJVnAnd2DFTLbdCC5SfhuJT01kqI%3D&ehkOptimized=KaJv6Jc7NEcABFAWvL4D6y7hEivctexbWEQnZR%2BqrUs%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1665370800
     },
     {
@@ -64,6 +64,14 @@
       "image": "https://images.start.gg/images/tournament/485725/image-e327719080fd743feaa5a43b64dc4fcf.png?ehk=Chty1AJ4O0GRM2meFT0Bg036KEFsyGTrFHpVh91sifs%3D&ehkOptimized=HoL6AmHR6IhMsPYQ8Fs%2BOqOd6LKA0l9uxlOaUCf1xYE%3D",
       "entrants": 0,
       "start_time": 1665442800
+    },
+    {
+      "slug": "tournament/sova-saga-3-southern-virginia-melee-online-event/event/melee-singles",
+      "tournament_name": "SOVA Saga #3 - Southern Virginia Melee Online Event",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/487035/image-89b143e2e08477b7218a74a76f70f751.png?ehk=MwNm%2FSGoF%2B4vK3hah%2FC6%2F%2B5anaCXJGLCucudtAvIVtc%3D&ehkOptimized=kFBYNPAcqh9ldRrYS8fXRSn4QalIE0amouGLMEmcHB4%3D",
+      "entrants": 0,
+      "start_time": 1665612000
     },
     {
       "slug": "tournament/waddle-wednesday-40/event/melee-singles",
