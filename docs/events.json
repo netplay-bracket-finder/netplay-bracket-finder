@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665357951,
+  "fetched_at": 1665359405,
   "data": [
     {
       "slug": "tournament/only-lusos-allowed-29/event/melee-singles",
@@ -95,6 +95,14 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
       "entrants": 3,
+      "start_time": 1665702000
+    },
+    {
+      "slug": "tournament/the-return-of-nfc-5-presented-by-nxgn-esports/event/melee-singles",
+      "tournament_name": "The Return of NFC #5 | Presented by NxGn Esports",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/487062/image-75d73cead3fe7dcc2af5a830e2118881.png?ehk=CIMtX4CBAFhGld7n6P5O09n6CF8OVR4c10U8MUk5zBQ%3D&ehkOptimized=NzdQZcqsDxN7fzNgP5bJVXTJHbdiTjzExwwsTi%2Fu41U%3D",
+      "entrants": 0,
       "start_time": 1665702000
     },
     {
