@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665350379,
+  "fetched_at": 1665351867,
   "data": [
     {
       "slug": "tournament/only-lusos-allowed-29/event/melee-singles",
@@ -18,19 +18,11 @@
       "start_time": 1665349200
     },
     {
-      "slug": "tournament/super-smash-bong-ultimate-players/event/melee-singles",
-      "tournament_name": "Super Smash Bong - Ultimate players",
-      "event_name": "Melee singles",
-      "image": "https://images.start.gg/images/tournament/485361/image-46b34d804078a8cc1ecb64f2dca9a791.jpg?ehk=yfBaj%2FLc0LdsVCjMKcPpHrokF6bft%2BoeB3%2B1jQuFU3k%3D&ehkOptimized=Imh%2BlK7L8hKayss3Px%2FhE8g9W5eEYHF3GfPMxEVouys%3D",
-      "entrants": 20,
-      "start_time": 1665352800
-    },
-    {
       "slug": "tournament/can-you-take-the-heat/event/melee-singles",
       "tournament_name": "Can You Take the Heat?",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/485728/image-69f110f6a3bba7cb0db4f0dbcdb3153a.png?ehk=unf%2FowiQLKfioT2Qq0224hpwJrYi0f32kuCFZaPJ0l0%3D&ehkOptimized=T2fwP6JjTkVdMCa%2BjBxmzGHPOaUOSf3NA3t%2FhDjSPuA%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1665356400
     },
     {
@@ -64,6 +56,14 @@
       "image": "https://images.start.gg/images/tournament/485725/image-e327719080fd743feaa5a43b64dc4fcf.png?ehk=Chty1AJ4O0GRM2meFT0Bg036KEFsyGTrFHpVh91sifs%3D&ehkOptimized=HoL6AmHR6IhMsPYQ8Fs%2BOqOd6LKA0l9uxlOaUCf1xYE%3D",
       "entrants": 0,
       "start_time": 1665442800
+    },
+    {
+      "slug": "tournament/waddle-wednesday-40/event/melee-singles",
+      "tournament_name": "Waddle Wednesday 40",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/487014/image-09111ca868cacb1faf2b90ced7e8a615.png?ehk=B3IoyW770TbbtYmK4n2%2FEgnv%2BB7P9H95Z8Vi9ixK5bE%3D&ehkOptimized=7H6kOSp4%2FDGbt1Kk2hbfygho79qRG7IMDAPbbW1SKQY%3D",
+      "entrants": 0,
+      "start_time": 1665619200
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-34-eu-event/event/melee-singles",
