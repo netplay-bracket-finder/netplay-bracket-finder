@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665444470,
+  "fetched_at": 1665445997,
   "data": [
     {
       "slug": "tournament/coast-to-coast-doubles-2/event/ec-doubles",
@@ -14,7 +14,7 @@
       "tournament_name": "Coast to Coast Doubles # 2",
       "event_name": "WC Doubles",
       "image": "https://images.start.gg/images/tournament/485725/image-e327719080fd743feaa5a43b64dc4fcf.png?ehk=Chty1AJ4O0GRM2meFT0Bg036KEFsyGTrFHpVh91sifs%3D&ehkOptimized=HoL6AmHR6IhMsPYQ8Fs%2BOqOd6LKA0l9uxlOaUCf1xYE%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1665442800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Have you seen Russell??? #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487334/image-63ee3f265e4361804a7caaee5268fd0b.jpg?ehk=4kP4oYNu3BCKV6%2FG0VVjtlQNPeu2hacoDV%2BQbl2H764%3D&ehkOptimized=yvlf%2Bsn1%2B9kj1Uk9ok2pRs%2FmMsx6IzqZXx72Q6qz9fY%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1665447300
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Gourmet Race 5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487291/image-06159f1c3eec02a5953e5ee49e9bf9a9.png?ehk=zTeer8a0pwvsWeUvO%2BiKWK5SExqMk%2B6BsjAevhmMW98%3D&ehkOptimized=KyqeaiANq%2F%2FISE1mznLjYqP5q7EpCZHQjuQn%2BndA%2Bpw%3D",
-      "entrants": 35,
+      "entrants": 41,
       "start_time": 1665450000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Bubs Presents aMSa Appreciation Tournament",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487405/image-fb175d0b5e145665cfd055d994caf814.png?ehk=S3Nuff2ERh%2Bv%2FywvXIJeiC2SxQPpXHeSJ%2FLeaTcZmcQ%3D&ehkOptimized=hzZomoFMjUUbkb8FveAsRFH5QxWOpjhLCXZciauEkYI%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1665450000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "MEAT Online",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/487397/image-84fde077fdfbada705ae6576cd056c24.png?ehk=mTY1E9yjj2SV1jJRHS2xw%2FDdd%2FxdmCy7COkQLWM8soE%3D&ehkOptimized=IubIUe%2FjygApRXthnQrAfVmMrnINjdmnNUx1ncPRWLk%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665529800
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "MEAT Online",
       "event_name": "Yoshi-Only Ladder",
       "image": "https://images.start.gg/images/tournament/487397/image-84fde077fdfbada705ae6576cd056c24.png?ehk=mTY1E9yjj2SV1jJRHS2xw%2FDdd%2FxdmCy7COkQLWM8soE%3D&ehkOptimized=IubIUe%2FjygApRXthnQrAfVmMrnINjdmnNUx1ncPRWLk%3D",
-      "entrants": 0,
+      "entrants": 2,
       "start_time": 1665531000
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "MEAT Online",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487397/image-84fde077fdfbada705ae6576cd056c24.png?ehk=mTY1E9yjj2SV1jJRHS2xw%2FDdd%2FxdmCy7COkQLWM8soE%3D&ehkOptimized=IubIUe%2FjygApRXthnQrAfVmMrnINjdmnNUx1ncPRWLk%3D",
-      "entrants": 0,
+      "entrants": 3,
       "start_time": 1665532800
     },
     {
