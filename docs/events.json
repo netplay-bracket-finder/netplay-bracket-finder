@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665431247,
+  "fetched_at": 1665433510,
   "data": [
     {
       "slug": "tournament/slippi-sauce-69/event/melee-singles",
       "tournament_name": "Slippi Sauce #69 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487052/image-69d7b4a4ade6f6d446409411a57a24be.png?ehk=FEHIMj2fnfdeZYvDppy3yin2mNstR4JKzZVs7xB10nc%3D&ehkOptimized=OJfA190gG8jAukAG5qiTirq8qqWHOuD3cBdbQeaN76Y%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1665439200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Pino's Tired of 0-2 #93!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/486936/image-23d93a84ad5bf2ac50e95062f71685a8.jpg?ehk=MvuY2m1OkDvSKgYPQDhhqzkSFloRJNBjrqSPyKQWpBk%3D&ehkOptimized=wkjupOU9%2BanRJzeSzCgKBdL7e7QWkEEdkLausuFT%2Bjg%3D",
-      "entrants": 21,
+      "entrants": 24,
       "start_time": 1665439200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Super Smash Bong #67",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/487266/image-c739d9f8e815fb34163118233bc289da.jpg?ehk=QSvGZg%2BaKLO7KNuAp9BvUs%2BgBEI5%2FJ24IAc1ph2dAvk%3D&ehkOptimized=K54gXOl%2BuP9t9GvOg%2BhPi%2BONIqAuS4Ir0WcgSQCRTnw%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1665441000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Coast to Coast Doubles # 2",
       "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/485725/image-e327719080fd743feaa5a43b64dc4fcf.png?ehk=Chty1AJ4O0GRM2meFT0Bg036KEFsyGTrFHpVh91sifs%3D&ehkOptimized=HoL6AmHR6IhMsPYQ8Fs%2BOqOd6LKA0l9uxlOaUCf1xYE%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1665442800
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Have you seen Russell??? #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487334/image-63ee3f265e4361804a7caaee5268fd0b.jpg?ehk=4kP4oYNu3BCKV6%2FG0VVjtlQNPeu2hacoDV%2BQbl2H764%3D&ehkOptimized=yvlf%2Bsn1%2B9kj1Uk9ok2pRs%2FmMsx6IzqZXx72Q6qz9fY%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1665447300
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Gourmet Race 5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487291/image-06159f1c3eec02a5953e5ee49e9bf9a9.png?ehk=zTeer8a0pwvsWeUvO%2BiKWK5SExqMk%2B6BsjAevhmMW98%3D&ehkOptimized=KyqeaiANq%2F%2FISE1mznLjYqP5q7EpCZHQjuQn%2BndA%2Bpw%3D",
-      "entrants": 10,
+      "entrants": 16,
       "start_time": 1665450000
     },
     {
@@ -80,6 +80,22 @@
       "image": "https://images.start.gg/images/tournament/485664/image-241cee7f0ec532520a68520b419c5416.jpg?ehk=%2BE8TcF93t9VMcVGQ0l8Pb%2B%2BLGQ4bguuEFdQbc3km5DM%3D&ehkOptimized=TOpXFNv5CkW2kZf93Grk93sLlSynh30LYWyxKqGb8hA%3D",
       "entrants": 5,
       "start_time": 1665511200
+    },
+    {
+      "slug": "tournament/level-one-melee-47-a-noob-only-tournament/event/amateur-melee-singles",
+      "tournament_name": "Level One Melee #47 - a noob-only tournament",
+      "event_name": "Amateur Melee Singles",
+      "image": "https://images.start.gg/images/tournament/487348/image-e548fa0aa3b5ffe4809ab2ea62088435.png?ehk=8TGI7wKI5dxpo460kbL3MA8y2%2BC9MOqBH6lzwhE%2BH9w%3D&ehkOptimized=3QJAJf3VauxcjVR0uTDH%2BFKcQE%2FdMHuIXHBTxeePjHw%3D",
+      "entrants": 0,
+      "start_time": 1665536400
+    },
+    {
+      "slug": "tournament/level-one-melee-47-a-noob-only-tournament/event/main-melee-singles",
+      "tournament_name": "Level One Melee #47 - a noob-only tournament",
+      "event_name": "Main Melee Singles",
+      "image": "https://images.start.gg/images/tournament/487348/image-e548fa0aa3b5ffe4809ab2ea62088435.png?ehk=8TGI7wKI5dxpo460kbL3MA8y2%2BC9MOqBH6lzwhE%2BH9w%3D&ehkOptimized=3QJAJf3VauxcjVR0uTDH%2BFKcQE%2FdMHuIXHBTxeePjHw%3D",
+      "entrants": 0,
+      "start_time": 1665536400
     },
     {
       "slug": "tournament/the-dairy-farm-4/event/melee-singles",
@@ -110,7 +126,7 @@
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/487332/image-f62d09c6d617b518cc5f66f00d525d82.jpg?ehk=qQ0LrO6LvdLvRWD4E0jC%2FnUSGB10FVC7g0EwYVw9YYE%3D&ehkOptimized=GDKqdRWZkEFMIZFCt9KMonpQN8pfv06GbMVVnfIhyeY%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1665626400
     },
     {
@@ -182,7 +198,7 @@
       "tournament_name": "Café 43",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486772/image-59b98965d05efc4b3b06dbc973e07ebf.png?ehk=ThvTPY8jgpgKm8fl%2FWBaT%2FGY2oZ07bfSGEOIIIwphYc%3D&ehkOptimized=2L2%2FzHsBJoWN79j3ZU%2Fkhuf6ECgO9vgeT5nDIxH6xd8%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665763200
     },
     {
