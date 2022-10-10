@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665442138,
+  "fetched_at": 1665444470,
   "data": [
     {
       "slug": "tournament/coast-to-coast-doubles-2/event/ec-doubles",
       "tournament_name": "Coast to Coast Doubles # 2",
       "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/485725/image-e327719080fd743feaa5a43b64dc4fcf.png?ehk=Chty1AJ4O0GRM2meFT0Bg036KEFsyGTrFHpVh91sifs%3D&ehkOptimized=HoL6AmHR6IhMsPYQ8Fs%2BOqOd6LKA0l9uxlOaUCf1xYE%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1665442800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Have you seen Russell??? #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487334/image-63ee3f265e4361804a7caaee5268fd0b.jpg?ehk=4kP4oYNu3BCKV6%2FG0VVjtlQNPeu2hacoDV%2BQbl2H764%3D&ehkOptimized=yvlf%2Bsn1%2B9kj1Uk9ok2pRs%2FmMsx6IzqZXx72Q6qz9fY%3D",
-      "entrants": 6,
+      "entrants": 10,
       "start_time": 1665447300
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Gourmet Race 5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487291/image-06159f1c3eec02a5953e5ee49e9bf9a9.png?ehk=zTeer8a0pwvsWeUvO%2BiKWK5SExqMk%2B6BsjAevhmMW98%3D&ehkOptimized=KyqeaiANq%2F%2FISE1mznLjYqP5q7EpCZHQjuQn%2BndA%2Bpw%3D",
-      "entrants": 30,
+      "entrants": 35,
       "start_time": 1665450000
     },
     {
