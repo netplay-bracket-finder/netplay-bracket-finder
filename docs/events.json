@@ -1,21 +1,13 @@
 {
-  "fetched_at": 1665413392,
+  "fetched_at": 1665415645,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-33/event/melee-singles",
       "tournament_name": "Monday Night Mixup #33",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487071/image-1b97e9e6d1b6658e4931b72a6e67605a.png?ehk=puvcx4kMQrg%2FbD7d4G4PEWXohIdl2VCB%2FkP2vNnMb5M%3D&ehkOptimized=uMJvpKAcUe0PnoUJUBarb0xK1DQxRKpGP6oYK0Jq9sA%3D",
-      "entrants": 13,
+      "entrants": 16,
       "start_time": 1665424800
-    },
-    {
-      "slug": "tournament/slippi-sauce-69/event/melee-singles",
-      "tournament_name": "Slippi Sauce #69 🐸",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/487052/image-69d7b4a4ade6f6d446409411a57a24be.png?ehk=FEHIMj2fnfdeZYvDppy3yin2mNstR4JKzZVs7xB10nc%3D&ehkOptimized=OJfA190gG8jAukAG5qiTirq8qqWHOuD3cBdbQeaN76Y%3D",
-      "entrants": 5,
-      "start_time": 1665439200
     },
     {
       "slug": "tournament/pino-s-tired-of-0-2-93/event/tired-of-0-2",
@@ -26,11 +18,19 @@
       "start_time": 1665439200
     },
     {
+      "slug": "tournament/slippi-sauce-69/event/melee-singles",
+      "tournament_name": "Slippi Sauce #69 🐸",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/487052/image-69d7b4a4ade6f6d446409411a57a24be.png?ehk=FEHIMj2fnfdeZYvDppy3yin2mNstR4JKzZVs7xB10nc%3D&ehkOptimized=OJfA190gG8jAukAG5qiTirq8qqWHOuD3cBdbQeaN76Y%3D",
+      "entrants": 6,
+      "start_time": 1665439200
+    },
+    {
       "slug": "tournament/coast-to-coast-doubles-2/event/wc-doubles",
       "tournament_name": "Coast to Coast Doubles # 2",
       "event_name": "WC Doubles",
       "image": "https://images.start.gg/images/tournament/485725/image-e327719080fd743feaa5a43b64dc4fcf.png?ehk=Chty1AJ4O0GRM2meFT0Bg036KEFsyGTrFHpVh91sifs%3D&ehkOptimized=HoL6AmHR6IhMsPYQ8Fs%2BOqOd6LKA0l9uxlOaUCf1xYE%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1665442800
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Tuesday Night Fever #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485664/image-241cee7f0ec532520a68520b419c5416.jpg?ehk=%2BE8TcF93t9VMcVGQ0l8Pb%2B%2BLGQ4bguuEFdQbc3km5DM%3D&ehkOptimized=TOpXFNv5CkW2kZf93Grk93sLlSynh30LYWyxKqGb8hA%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665511200
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1665702000
     },
     {
