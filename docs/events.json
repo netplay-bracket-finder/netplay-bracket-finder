@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665388929,
+  "fetched_at": 1665391841,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-33/event/melee-singles",
@@ -40,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/485725/image-e327719080fd743feaa5a43b64dc4fcf.png?ehk=Chty1AJ4O0GRM2meFT0Bg036KEFsyGTrFHpVh91sifs%3D&ehkOptimized=HoL6AmHR6IhMsPYQ8Fs%2BOqOd6LKA0l9uxlOaUCf1xYE%3D",
       "entrants": 0,
       "start_time": 1665442800
+    },
+    {
+      "slug": "tournament/cash-smash-netplay-tuesday-edition/event/melee-singles-cash-smash",
+      "tournament_name": "Cash Smash Netplay: Tuesday Edition",
+      "event_name": "Melee Singles Cash Smash",
+      "image": "",
+      "entrants": 0,
+      "start_time": 1665482340
     },
     {
       "slug": "tournament/the-dairy-farm-4/event/melee-singles",
