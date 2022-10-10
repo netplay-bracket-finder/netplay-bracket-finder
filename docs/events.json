@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665381026,
+  "fetched_at": 1665384627,
   "data": [
     {
       "slug": "tournament/only-lusos-allowed-29/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Monday Night Mixup #33",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487071/image-1b97e9e6d1b6658e4931b72a6e67605a.png?ehk=puvcx4kMQrg%2FbD7d4G4PEWXohIdl2VCB%2FkP2vNnMb5M%3D&ehkOptimized=uMJvpKAcUe0PnoUJUBarb0xK1DQxRKpGP6oYK0Jq9sA%3D",
-      "entrants": 0,
+      "entrants": 2,
       "start_time": 1665424800
     },
     {
@@ -136,6 +136,14 @@
       "image": "https://images.start.gg/images/tournament/486589/image-1a19b3e758a65d2dfbd1117c90c06ef7.png?ehk=%2BvrnNEe8UAO9mrZXOv10L9rt59k3aT7mAQRljRQ2SDM%3D&ehkOptimized=lz2zn8qL96vTHTRBHOF%2BAdzb%2FT%2BUf4otGmoOH13xPq4%3D",
       "entrants": 0,
       "start_time": 1665702000
+    },
+    {
+      "slug": "tournament/caf-43/event/melee-singles",
+      "tournament_name": "Café 43",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/486772/image-59b98965d05efc4b3b06dbc973e07ebf.png?ehk=ThvTPY8jgpgKm8fl%2FWBaT%2FGY2oZ07bfSGEOIIIwphYc%3D&ehkOptimized=2L2%2FzHsBJoWN79j3ZU%2Fkhuf6ECgO9vgeT5nDIxH6xd8%3D",
+      "entrants": 0,
+      "start_time": 1665763200
     },
     {
       "slug": "tournament/the-shallow-end-7-a-wc-newbie-bracket/event/melee-singles",
