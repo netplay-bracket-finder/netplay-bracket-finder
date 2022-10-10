@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665400796,
+  "fetched_at": 1665402206,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-33/event/melee-singles",
       "tournament_name": "Monday Night Mixup #33",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487071/image-1b97e9e6d1b6658e4931b72a6e67605a.png?ehk=puvcx4kMQrg%2FbD7d4G4PEWXohIdl2VCB%2FkP2vNnMb5M%3D&ehkOptimized=uMJvpKAcUe0PnoUJUBarb0xK1DQxRKpGP6oYK0Jq9sA%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1665424800
     },
     {
@@ -48,6 +48,14 @@
       "image": "",
       "entrants": 0,
       "start_time": 1665482340
+    },
+    {
+      "slug": "tournament/tuesday-night-fever-2/event/melee-singles",
+      "tournament_name": "Tuesday Night Fever #2",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/485664/image-241cee7f0ec532520a68520b419c5416.jpg?ehk=%2BE8TcF93t9VMcVGQ0l8Pb%2B%2BLGQ4bguuEFdQbc3km5DM%3D&ehkOptimized=TOpXFNv5CkW2kZf93Grk93sLlSynh30LYWyxKqGb8hA%3D",
+      "entrants": 0,
+      "start_time": 1665511200
     },
     {
       "slug": "tournament/the-dairy-farm-4/event/melee-singles",
