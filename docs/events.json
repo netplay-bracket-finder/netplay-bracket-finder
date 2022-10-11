@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665489298,
+  "fetched_at": 1665492573,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-2/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485664/image-241cee7f0ec532520a68520b419c5416.jpg?ehk=%2BE8TcF93t9VMcVGQ0l8Pb%2B%2BLGQ4bguuEFdQbc3km5DM%3D&ehkOptimized=TOpXFNv5CkW2kZf93Grk93sLlSynh30LYWyxKqGb8hA%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1665511200
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Sketchy Series: The Beginning",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/476923/image-c0f2fc6d6b9e92beb41e946ae861fdad.png?ehk=zpMI71qkFSoqtWKBSreQ%2BsAOLioIRfQMa6eZ0WDGYUU%3D&ehkOptimized=qBQLKYaE58eGagbWDc5mTMwB7cyFxyyEYmgGIc3Adr8%3D",
-      "entrants": 5,
+      "entrants": 4,
       "start_time": 1663110000
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Level One Melee #47 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/487348/image-e548fa0aa3b5ffe4809ab2ea62088435.png?ehk=8TGI7wKI5dxpo460kbL3MA8y2%2BC9MOqBH6lzwhE%2BH9w%3D&ehkOptimized=3QJAJf3VauxcjVR0uTDH%2BFKcQE%2FdMHuIXHBTxeePjHw%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1665536400
     },
     {
