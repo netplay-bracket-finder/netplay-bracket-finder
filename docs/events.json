@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665483949,
+  "fetched_at": 1665485467,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-2/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485664/image-241cee7f0ec532520a68520b419c5416.jpg?ehk=%2BE8TcF93t9VMcVGQ0l8Pb%2B%2BLGQ4bguuEFdQbc3km5DM%3D&ehkOptimized=TOpXFNv5CkW2kZf93Grk93sLlSynh30LYWyxKqGb8hA%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1665511200
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "MEAT Online",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487397/image-84fde077fdfbada705ae6576cd056c24.png?ehk=mTY1E9yjj2SV1jJRHS2xw%2FDdd%2FxdmCy7COkQLWM8soE%3D&ehkOptimized=IubIUe%2FjygApRXthnQrAfVmMrnINjdmnNUx1ncPRWLk%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1665532800
     },
     {
@@ -166,7 +166,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1665702000
     },
     {
