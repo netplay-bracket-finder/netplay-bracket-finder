@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1665453991,
+  "fetched_at": 1665461962,
   "data": [
-    {
-      "slug": "tournament/monday-night-melee-spokane-episode-two-attack-of-the-phobs/event/melee-singles",
-      "tournament_name": "Monday Night Melee Spokane - Episode Two: Attack of the Phobs",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/487280/image-4ed3e3367633d620ba9bff08e515de82.jpg?ehk=yN0bSHzsXPU79PLmTZN3XgdZHmSrVQ32kgRKnA1DE50%3D&ehkOptimized=arMmqjqXrIOW%2BBkXKZHGVVzGCaGyr%2FGnofyU%2FdZ8jWE%3D",
-      "entrants": 3,
-      "start_time": 1665457200
-    },
     {
       "slug": "tournament/cash-smash-netplay-tuesday-edition/event/melee-singles-cash-smash",
       "tournament_name": "Cash Smash Netplay: Tuesday Edition",
@@ -38,7 +30,7 @@
       "tournament_name": "MEAT Online",
       "event_name": "Yoshi-Only Ladder",
       "image": "https://images.start.gg/images/tournament/487397/image-84fde077fdfbada705ae6576cd056c24.png?ehk=mTY1E9yjj2SV1jJRHS2xw%2FDdd%2FxdmCy7COkQLWM8soE%3D&ehkOptimized=IubIUe%2FjygApRXthnQrAfVmMrnINjdmnNUx1ncPRWLk%3D",
-      "entrants": 4,
+      "entrants": 7,
       "start_time": 1665531000
     },
     {
@@ -46,15 +38,15 @@
       "tournament_name": "MEAT Online",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487397/image-84fde077fdfbada705ae6576cd056c24.png?ehk=mTY1E9yjj2SV1jJRHS2xw%2FDdd%2FxdmCy7COkQLWM8soE%3D&ehkOptimized=IubIUe%2FjygApRXthnQrAfVmMrnINjdmnNUx1ncPRWLk%3D",
-      "entrants": 6,
+      "entrants": 11,
       "start_time": 1665532800
     },
     {
-      "slug": "tournament/sketchy-series-the-prequel/event/melee-singles",
-      "tournament_name": "Sketchy Series: The Prequel",
+      "slug": "tournament/sketchy-series-the-beginning/event/melee-singles",
+      "tournament_name": "Sketchy Series: The Beginning",
       "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/476923/image-47f2d99714786a317efd437df0cc9f72.png?ehk=2yVdpawcVAcpVlPUoGpYACsku4TbFlAsbAU71edTomQ%3D&ehkOptimized=jPFpGKrHr3HNy3%2BHWWlllzlLKZJntiIRlIzKirUSzpU%3D",
-      "entrants": 1,
+      "image": "https://images.start.gg/images/tournament/476923/image-c0f2fc6d6b9e92beb41e946ae861fdad.png?ehk=zpMI71qkFSoqtWKBSreQ%2BsAOLioIRfQMa6eZ0WDGYUU%3D&ehkOptimized=qBQLKYaE58eGagbWDc5mTMwB7cyFxyyEYmgGIc3Adr8%3D",
+      "entrants": 3,
       "start_time": 1663110000
     },
     {
@@ -110,7 +102,7 @@
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/487332/image-f62d09c6d617b518cc5f66f00d525d82.jpg?ehk=qQ0LrO6LvdLvRWD4E0jC%2FnUSGB10FVC7g0EwYVw9YYE%3D&ehkOptimized=GDKqdRWZkEFMIZFCt9KMonpQN8pfv06GbMVVnfIhyeY%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1665626400
     },
     {
@@ -134,7 +126,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1665702000
     },
     {
@@ -224,6 +216,14 @@
       "image": "https://images.start.gg/images/tournament/487160/image-d0d4abaae582915fd6d0212a7bcb988d.png?ehk=C42Hg3XkFS0ByMPEtIvs0A3SmrQ4TUbywR5gfLGh4o0%3D&ehkOptimized=NpFbuDuJcVtRecQYWDCpkpPXTp2azuR80wz6hsupQjw%3D",
       "entrants": 4,
       "start_time": 1665936000
+    },
+    {
+      "slug": "tournament/have-you-seen-russell-7/event/melee-singles",
+      "tournament_name": "Have you seen Russell??? #7",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/487492/image-85103c4a8bda1db1338387c0e496875c.jpg?ehk=YzDIyq4xOu9dYucWfJ8Ei%2FCgKw%2BtDd8h3sILvsWpWKQ%3D&ehkOptimized=r%2BvF4ITNx4ABcOt%2ByUapH3UHH%2Fl%2BEDYKK1AsYJPfyqM%3D",
+      "entrants": 1,
+      "start_time": 1666052100
     },
     {
       "slug": "tournament/searcadian/event/singles",
