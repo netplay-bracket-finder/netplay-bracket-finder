@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665521460,
+  "fetched_at": 1665523349,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
-      "entrants": 55,
+      "entrants": 64,
       "start_time": 1665514800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1665514800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
-      "entrants": 10,
+      "entrants": 13,
       "start_time": 1665514800
     },
     {
@@ -30,7 +30,15 @@
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
       "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
-      "entrants": 4,
+      "entrants": 5,
+      "start_time": 1665514800
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
+      "entrants": 3,
       "start_time": 1665514800
     },
     {
@@ -42,19 +50,11 @@
       "start_time": 1665514800
     },
     {
-      "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
-      "entrants": 2,
-      "start_time": 1665514800
-    },
-    {
       "slug": "tournament/meat-online/event/melee-doubles",
       "tournament_name": "MEAT Online",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/487397/image-84fde077fdfbada705ae6576cd056c24.png?ehk=mTY1E9yjj2SV1jJRHS2xw%2FDdd%2FxdmCy7COkQLWM8soE%3D&ehkOptimized=IubIUe%2FjygApRXthnQrAfVmMrnINjdmnNUx1ncPRWLk%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665529800
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "MEAT Online",
       "event_name": "Yoshi-Only Ladder",
       "image": "https://images.start.gg/images/tournament/487397/image-84fde077fdfbada705ae6576cd056c24.png?ehk=mTY1E9yjj2SV1jJRHS2xw%2FDdd%2FxdmCy7COkQLWM8soE%3D&ehkOptimized=IubIUe%2FjygApRXthnQrAfVmMrnINjdmnNUx1ncPRWLk%3D",
-      "entrants": 10,
+      "entrants": 9,
       "start_time": 1665531000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "MEAT Online",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487397/image-84fde077fdfbada705ae6576cd056c24.png?ehk=mTY1E9yjj2SV1jJRHS2xw%2FDdd%2FxdmCy7COkQLWM8soE%3D&ehkOptimized=IubIUe%2FjygApRXthnQrAfVmMrnINjdmnNUx1ncPRWLk%3D",
-      "entrants": 37,
+      "entrants": 39,
       "start_time": 1665532800
     },
     {
@@ -78,15 +78,23 @@
       "tournament_name": "Sketchy Series: The Beginning",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/476923/image-c0f2fc6d6b9e92beb41e946ae861fdad.png?ehk=zpMI71qkFSoqtWKBSreQ%2BsAOLioIRfQMa6eZ0WDGYUU%3D&ehkOptimized=qBQLKYaE58eGagbWDc5mTMwB7cyFxyyEYmgGIc3Adr8%3D",
-      "entrants": 14,
+      "entrants": 18,
       "start_time": 1663110000
+    },
+    {
+      "slug": "tournament/doubles-under-bojack-s-supervision-dubs-1/event/melee-doubles",
+      "tournament_name": "Doubles Under Bojack's Supervision (DUBS) #1",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/487719/image-78e4f5b3364927339eca7eb97b30a31d.png?ehk=u4OdgrIUEGOOlRuO22U%2FR924N3V3MZ4oIxwSjrxQrN8%3D&ehkOptimized=LL4ADlIf3Vy9zuUsuIax4ErKhRPhVNYpSNgkr3%2FAYSA%3D",
+      "entrants": 2,
+      "start_time": 1665531000
     },
     {
       "slug": "tournament/the-crossroads-37/event/melee-singles",
       "tournament_name": "The Crossroads #37",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487636/image-94c32473439140491dc7f128bc3be33c.png?ehk=F5b%2FGR5mmWHhPhy74esd9QJN%2BMhaVWtFdfVz%2BdPZsio%3D&ehkOptimized=PbMaRHLC4%2By5uGPr5aKO5ummUIQLSSV%2FF87Z%2FD7FAz4%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1665531000
     },
     {
@@ -94,7 +102,7 @@
       "tournament_name": "Cataquackdown 12: A significant moment",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487689/image-53c3a7b0815795c1f88568457f78fbf7.png?ehk=doeXhnQvSruot4CL02qKciqnxdMei3k8LgpNxhxkr%2Bg%3D&ehkOptimized=5KMI3tYHzlJmJH1%2FetOzyPCzKCD0ZXoy1JsGztkTmzA%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1665532800
     },
     {
@@ -150,7 +158,7 @@
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/487332/image-f62d09c6d617b518cc5f66f00d525d82.jpg?ehk=qQ0LrO6LvdLvRWD4E0jC%2FnUSGB10FVC7g0EwYVw9YYE%3D&ehkOptimized=GDKqdRWZkEFMIZFCt9KMonpQN8pfv06GbMVVnfIhyeY%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1665626400
     },
     {
