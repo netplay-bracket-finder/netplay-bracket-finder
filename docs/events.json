@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665513552,
+  "fetched_at": 1665514957,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
-      "entrants": 14,
+      "entrants": 19,
       "start_time": 1665514800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1665514800
     },
     {
@@ -90,6 +90,14 @@
       "start_time": 1665531000
     },
     {
+      "slug": "tournament/cataquackdown-12-a-significant-moment/event/melee-singles",
+      "tournament_name": "Cataquackdown 12: A significant moment",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/487689/image-53c3a7b0815795c1f88568457f78fbf7.png?ehk=doeXhnQvSruot4CL02qKciqnxdMei3k8LgpNxhxkr%2Bg%3D&ehkOptimized=5KMI3tYHzlJmJH1%2FetOzyPCzKCD0ZXoy1JsGztkTmzA%3D",
+      "entrants": 0,
+      "start_time": 1665532800
+    },
+    {
       "slug": "tournament/level-one-melee-47-a-noob-only-tournament/event/main-melee-singles",
       "tournament_name": "Level One Melee #47 - a noob-only tournament",
       "event_name": "Main Melee Singles",
@@ -110,7 +118,7 @@
       "tournament_name": "The Dairy Farm #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487110/image-4ea9312127b04e3990a82c320c412339.png?ehk=0MAwVrBRb2DDHRrOv6GfBBDt6QLmAN8vqqrV%2BFUYCfk%3D&ehkOptimized=zT4MQyyeo5EoBziLKL79PdzNC6YADDaC55iYEOYMgwo%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665595800
     },
     {
