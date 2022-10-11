@@ -1,52 +1,12 @@
 {
-  "fetched_at": 1665445997,
+  "fetched_at": 1665453991,
   "data": [
-    {
-      "slug": "tournament/coast-to-coast-doubles-2/event/ec-doubles",
-      "tournament_name": "Coast to Coast Doubles # 2",
-      "event_name": "EC Doubles",
-      "image": "https://images.start.gg/images/tournament/485725/image-e327719080fd743feaa5a43b64dc4fcf.png?ehk=Chty1AJ4O0GRM2meFT0Bg036KEFsyGTrFHpVh91sifs%3D&ehkOptimized=HoL6AmHR6IhMsPYQ8Fs%2BOqOd6LKA0l9uxlOaUCf1xYE%3D",
-      "entrants": 9,
-      "start_time": 1665442800
-    },
-    {
-      "slug": "tournament/coast-to-coast-doubles-2/event/wc-doubles",
-      "tournament_name": "Coast to Coast Doubles # 2",
-      "event_name": "WC Doubles",
-      "image": "https://images.start.gg/images/tournament/485725/image-e327719080fd743feaa5a43b64dc4fcf.png?ehk=Chty1AJ4O0GRM2meFT0Bg036KEFsyGTrFHpVh91sifs%3D&ehkOptimized=HoL6AmHR6IhMsPYQ8Fs%2BOqOd6LKA0l9uxlOaUCf1xYE%3D",
-      "entrants": 5,
-      "start_time": 1665442800
-    },
-    {
-      "slug": "tournament/have-you-seen-russell-6/event/melee-singles",
-      "tournament_name": "Have you seen Russell??? #6",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/487334/image-63ee3f265e4361804a7caaee5268fd0b.jpg?ehk=4kP4oYNu3BCKV6%2FG0VVjtlQNPeu2hacoDV%2BQbl2H764%3D&ehkOptimized=yvlf%2Bsn1%2B9kj1Uk9ok2pRs%2FmMsx6IzqZXx72Q6qz9fY%3D",
-      "entrants": 12,
-      "start_time": 1665447300
-    },
-    {
-      "slug": "tournament/gourmet-race-5-1/event/melee-singles",
-      "tournament_name": "Gourmet Race 5",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/487291/image-06159f1c3eec02a5953e5ee49e9bf9a9.png?ehk=zTeer8a0pwvsWeUvO%2BiKWK5SExqMk%2B6BsjAevhmMW98%3D&ehkOptimized=KyqeaiANq%2F%2FISE1mznLjYqP5q7EpCZHQjuQn%2BndA%2Bpw%3D",
-      "entrants": 41,
-      "start_time": 1665450000
-    },
-    {
-      "slug": "tournament/bubs-presents-amsa-appreciation-tournament/event/melee-singles",
-      "tournament_name": "Bubs Presents aMSa Appreciation Tournament",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/487405/image-fb175d0b5e145665cfd055d994caf814.png?ehk=S3Nuff2ERh%2Bv%2FywvXIJeiC2SxQPpXHeSJ%2FLeaTcZmcQ%3D&ehkOptimized=hzZomoFMjUUbkb8FveAsRFH5QxWOpjhLCXZciauEkYI%3D",
-      "entrants": 6,
-      "start_time": 1665450000
-    },
     {
       "slug": "tournament/monday-night-melee-spokane-episode-two-attack-of-the-phobs/event/melee-singles",
       "tournament_name": "Monday Night Melee Spokane - Episode Two: Attack of the Phobs",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487280/image-4ed3e3367633d620ba9bff08e515de82.jpg?ehk=yN0bSHzsXPU79PLmTZN3XgdZHmSrVQ32kgRKnA1DE50%3D&ehkOptimized=arMmqjqXrIOW%2BBkXKZHGVVzGCaGyr%2FGnofyU%2FdZ8jWE%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1665457200
     },
     {
@@ -78,7 +38,7 @@
       "tournament_name": "MEAT Online",
       "event_name": "Yoshi-Only Ladder",
       "image": "https://images.start.gg/images/tournament/487397/image-84fde077fdfbada705ae6576cd056c24.png?ehk=mTY1E9yjj2SV1jJRHS2xw%2FDdd%2FxdmCy7COkQLWM8soE%3D&ehkOptimized=IubIUe%2FjygApRXthnQrAfVmMrnINjdmnNUx1ncPRWLk%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1665531000
     },
     {
@@ -86,21 +46,29 @@
       "tournament_name": "MEAT Online",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487397/image-84fde077fdfbada705ae6576cd056c24.png?ehk=mTY1E9yjj2SV1jJRHS2xw%2FDdd%2FxdmCy7COkQLWM8soE%3D&ehkOptimized=IubIUe%2FjygApRXthnQrAfVmMrnINjdmnNUx1ncPRWLk%3D",
-      "entrants": 3,
+      "entrants": 6,
       "start_time": 1665532800
     },
     {
-      "slug": "tournament/level-one-melee-47-a-noob-only-tournament/event/amateur-melee-singles",
-      "tournament_name": "Level One Melee #47 - a noob-only tournament",
-      "event_name": "Amateur Melee Singles",
-      "image": "https://images.start.gg/images/tournament/487348/image-e548fa0aa3b5ffe4809ab2ea62088435.png?ehk=8TGI7wKI5dxpo460kbL3MA8y2%2BC9MOqBH6lzwhE%2BH9w%3D&ehkOptimized=3QJAJf3VauxcjVR0uTDH%2BFKcQE%2FdMHuIXHBTxeePjHw%3D",
-      "entrants": 3,
-      "start_time": 1665536400
+      "slug": "tournament/sketchy-series-the-prequel/event/melee-singles",
+      "tournament_name": "Sketchy Series: The Prequel",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/476923/image-47f2d99714786a317efd437df0cc9f72.png?ehk=2yVdpawcVAcpVlPUoGpYACsku4TbFlAsbAU71edTomQ%3D&ehkOptimized=jPFpGKrHr3HNy3%2BHWWlllzlLKZJntiIRlIzKirUSzpU%3D",
+      "entrants": 1,
+      "start_time": 1663110000
     },
     {
       "slug": "tournament/level-one-melee-47-a-noob-only-tournament/event/main-melee-singles",
       "tournament_name": "Level One Melee #47 - a noob-only tournament",
       "event_name": "Main Melee Singles",
+      "image": "https://images.start.gg/images/tournament/487348/image-e548fa0aa3b5ffe4809ab2ea62088435.png?ehk=8TGI7wKI5dxpo460kbL3MA8y2%2BC9MOqBH6lzwhE%2BH9w%3D&ehkOptimized=3QJAJf3VauxcjVR0uTDH%2BFKcQE%2FdMHuIXHBTxeePjHw%3D",
+      "entrants": 5,
+      "start_time": 1665536400
+    },
+    {
+      "slug": "tournament/level-one-melee-47-a-noob-only-tournament/event/amateur-melee-singles",
+      "tournament_name": "Level One Melee #47 - a noob-only tournament",
+      "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/487348/image-e548fa0aa3b5ffe4809ab2ea62088435.png?ehk=8TGI7wKI5dxpo460kbL3MA8y2%2BC9MOqBH6lzwhE%2BH9w%3D&ehkOptimized=3QJAJf3VauxcjVR0uTDH%2BFKcQE%2FdMHuIXHBTxeePjHw%3D",
       "entrants": 3,
       "start_time": 1665536400
@@ -118,8 +86,16 @@
       "tournament_name": "SOVA Saga #3 - Southern Virginia Melee Online Event",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487035/image-89b143e2e08477b7218a74a76f70f751.png?ehk=MwNm%2FSGoF%2B4vK3hah%2FC6%2F%2B5anaCXJGLCucudtAvIVtc%3D&ehkOptimized=kFBYNPAcqh9ldRrYS8fXRSn4QalIE0amouGLMEmcHB4%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665612000
+    },
+    {
+      "slug": "tournament/galaxy-gladiators-16-hosted-by-solar-esports/event/melee-singles",
+      "tournament_name": "Galaxy Gladiators #16 Hosted by Solar Esports",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/487459/image-5d269763fb95aebbe20dd7500c4cbc37.png?ehk=aOB9mBk4YiYXZDcqGwqCaAL8OqYAioYTehEf81XpgWo%3D&ehkOptimized=%2FdmsBUOmVK5z0shr88ICriv9LBBCwlPD3oByw3FbWeg%3D",
+      "entrants": 0,
+      "start_time": 1665619200
     },
     {
       "slug": "tournament/waddle-wednesday-40/event/melee-singles",
@@ -134,7 +110,7 @@
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/487332/image-f62d09c6d617b518cc5f66f00d525d82.jpg?ehk=qQ0LrO6LvdLvRWD4E0jC%2FnUSGB10FVC7g0EwYVw9YYE%3D&ehkOptimized=GDKqdRWZkEFMIZFCt9KMonpQN8pfv06GbMVVnfIhyeY%3D",
-      "entrants": 4,
+      "entrants": 7,
       "start_time": 1665626400
     },
     {
@@ -158,7 +134,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1665702000
     },
     {
