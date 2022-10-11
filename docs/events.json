@@ -1,28 +1,36 @@
 {
-  "fetched_at": 1665504029,
+  "fetched_at": 1665507412,
   "data": [
     {
-      "slug": "tournament/tuesday-night-fever-2/event/melee-singles",
+      "slug": "tournament/tuesday-night-fever-2/event/melee-singles-3",
       "tournament_name": "Tuesday Night Fever #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485664/image-241cee7f0ec532520a68520b419c5416.jpg?ehk=%2BE8TcF93t9VMcVGQ0l8Pb%2B%2BLGQ4bguuEFdQbc3km5DM%3D&ehkOptimized=TOpXFNv5CkW2kZf93Grk93sLlSynh30LYWyxKqGb8hA%3D",
-      "entrants": 17,
+      "entrants": 25,
       "start_time": 1665511200
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/ladder-melee-west-coast",
-      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
-      "event_name": "Ladder Melee West Coast",
-      "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
-      "entrants": 4,
-      "start_time": 1665514800
     },
     {
       "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
-      "entrants": 1,
+      "entrants": 5,
+      "start_time": 1665514800
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/ladder-melee-west-coast",
+      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
+      "event_name": "Ladder Melee West Coast",
+      "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
+      "entrants": 5,
+      "start_time": 1665514800
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/side-event-ec-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
+      "event_name": "Side Event: EC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
+      "entrants": 3,
       "start_time": 1665514800
     },
     {
@@ -50,14 +58,6 @@
       "start_time": 1665514800
     },
     {
-      "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/side-event-ec-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
-      "event_name": "Side Event: EC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
-      "entrants": 0,
-      "start_time": 1665514800
-    },
-    {
       "slug": "tournament/meat-online/event/melee-doubles",
       "tournament_name": "MEAT Online",
       "event_name": "Melee Doubles",
@@ -70,7 +70,7 @@
       "tournament_name": "MEAT Online",
       "event_name": "Yoshi-Only Ladder",
       "image": "https://images.start.gg/images/tournament/487397/image-84fde077fdfbada705ae6576cd056c24.png?ehk=mTY1E9yjj2SV1jJRHS2xw%2FDdd%2FxdmCy7COkQLWM8soE%3D&ehkOptimized=IubIUe%2FjygApRXthnQrAfVmMrnINjdmnNUx1ncPRWLk%3D",
-      "entrants": 10,
+      "entrants": 9,
       "start_time": 1665531000
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "MEAT Online",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487397/image-84fde077fdfbada705ae6576cd056c24.png?ehk=mTY1E9yjj2SV1jJRHS2xw%2FDdd%2FxdmCy7COkQLWM8soE%3D&ehkOptimized=IubIUe%2FjygApRXthnQrAfVmMrnINjdmnNUx1ncPRWLk%3D",
-      "entrants": 19,
+      "entrants": 22,
       "start_time": 1665532800
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "Level One Melee #47 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/487348/image-e548fa0aa3b5ffe4809ab2ea62088435.png?ehk=8TGI7wKI5dxpo460kbL3MA8y2%2BC9MOqBH6lzwhE%2BH9w%3D&ehkOptimized=3QJAJf3VauxcjVR0uTDH%2BFKcQE%2FdMHuIXHBTxeePjHw%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1665536400
     },
     {
@@ -160,6 +160,14 @@
       "image": "https://images.start.gg/images/tournament/486257/image-61ac41bfebeaa7208668df611d79a156.png?ehk=lBsmgzIHlZZxNlbfIdTxgqFNfnIRX13YymjV0FgxjVU%3D&ehkOptimized=pj%2BVtDfyWFV8%2FyszWK9SnDGDU5NQuRqoTfflg92GP48%3D",
       "entrants": 0,
       "start_time": 1665680400
+    },
+    {
+      "slug": "tournament/the-salt-mine-45/event/the-salt-mine",
+      "tournament_name": "The Salt Mine #45!",
+      "event_name": "The Salt Mine!",
+      "image": "https://images.start.gg/images/tournament/487610/image-1f9f127ffcfcacd9dcca725f1cd21a8d.png?ehk=kOhB6F3jzaDPwkYE5jaeoB3OLNMlJO5w97MU4D9IE3Y%3D&ehkOptimized=a6tLSJOzrxriGMer9ZDs32JEXJipydDsPvnlXIjf4%2B0%3D",
+      "entrants": 0,
+      "start_time": 1665698400
     },
     {
       "slug": "tournament/only-noobs-88/event/melee-singles",
