@@ -1,18 +1,26 @@
 {
-  "fetched_at": 1665496637,
+  "fetched_at": 1665498862,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-2/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/485664/image-241cee7f0ec532520a68520b419c5416.jpg?ehk=%2BE8TcF93t9VMcVGQ0l8Pb%2B%2BLGQ4bguuEFdQbc3km5DM%3D&ehkOptimized=TOpXFNv5CkW2kZf93Grk93sLlSynh30LYWyxKqGb8hA%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1665511200
     },
     {
       "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/ladder-melee-west-coast",
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
+      "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
+      "entrants": 2,
+      "start_time": 1665514800
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/ladder-melee-east-coast",
+      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
+      "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
       "entrants": 1,
       "start_time": 1665514800
@@ -23,14 +31,6 @@
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
       "entrants": 1,
-      "start_time": 1665514800
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/ladder-melee-east-coast",
-      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
-      "event_name": "Ladder Melee East Coast",
-      "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
-      "entrants": 0,
       "start_time": 1665514800
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Sketchy Series: The Beginning",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/476923/image-c0f2fc6d6b9e92beb41e946ae861fdad.png?ehk=zpMI71qkFSoqtWKBSreQ%2BsAOLioIRfQMa6eZ0WDGYUU%3D&ehkOptimized=qBQLKYaE58eGagbWDc5mTMwB7cyFxyyEYmgGIc3Adr8%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1663110000
     },
     {
