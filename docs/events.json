@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665474071,
+  "fetched_at": 1665475453,
   "data": [
     {
       "slug": "tournament/cash-smash-netplay-tuesday-edition/event/melee-singles-cash-smash",
       "tournament_name": "Cash Smash Netplay: Tuesday Edition",
       "event_name": "Melee Singles Cash Smash",
       "image": "",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1665482340
     },
     {
@@ -18,17 +18,25 @@
       "start_time": 1665511200
     },
     {
-      "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/ladder-melee-east-coast",
-      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
-      "event_name": "Ladder Melee East Coast",
-      "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
-      "entrants": 0,
-      "start_time": 1665514800
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/ladder-melee-west-coast",
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
+      "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
+      "entrants": 1,
+      "start_time": 1665514800
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
+      "entrants": 1,
+      "start_time": 1665514800
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/ladder-melee-east-coast",
+      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
+      "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
       "entrants": 0,
       "start_time": 1665514800
@@ -58,14 +66,6 @@
       "start_time": 1665514800
     },
     {
-      "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
-      "entrants": 0,
-      "start_time": 1665514800
-    },
-    {
       "slug": "tournament/meat-online/event/melee-doubles",
       "tournament_name": "MEAT Online",
       "event_name": "Melee Doubles",
@@ -86,7 +86,7 @@
       "tournament_name": "MEAT Online",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487397/image-84fde077fdfbada705ae6576cd056c24.png?ehk=mTY1E9yjj2SV1jJRHS2xw%2FDdd%2FxdmCy7COkQLWM8soE%3D&ehkOptimized=IubIUe%2FjygApRXthnQrAfVmMrnINjdmnNUx1ncPRWLk%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1665532800
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Level One Melee #47 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/487348/image-e548fa0aa3b5ffe4809ab2ea62088435.png?ehk=8TGI7wKI5dxpo460kbL3MA8y2%2BC9MOqBH6lzwhE%2BH9w%3D&ehkOptimized=3QJAJf3VauxcjVR0uTDH%2BFKcQE%2FdMHuIXHBTxeePjHw%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1665536400
     },
     {
