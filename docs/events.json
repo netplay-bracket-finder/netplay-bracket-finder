@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1665478154,
+  "fetched_at": 1665480435,
   "data": [
-    {
-      "slug": "tournament/cash-smash-netplay-tuesday-edition/event/melee-singles-cash-smash",
-      "tournament_name": "Cash Smash Netplay: Tuesday Edition",
-      "event_name": "Melee Singles Cash Smash",
-      "image": "",
-      "entrants": 5,
-      "start_time": 1665482340
-    },
     {
       "slug": "tournament/tuesday-night-fever-2/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #2",
@@ -102,7 +94,7 @@
       "tournament_name": "Level One Melee #47 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/487348/image-e548fa0aa3b5ffe4809ab2ea62088435.png?ehk=8TGI7wKI5dxpo460kbL3MA8y2%2BC9MOqBH6lzwhE%2BH9w%3D&ehkOptimized=3QJAJf3VauxcjVR0uTDH%2BFKcQE%2FdMHuIXHBTxeePjHw%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1665536400
     },
     {
@@ -110,7 +102,7 @@
       "tournament_name": "Level One Melee #47 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/487348/image-e548fa0aa3b5ffe4809ab2ea62088435.png?ehk=8TGI7wKI5dxpo460kbL3MA8y2%2BC9MOqBH6lzwhE%2BH9w%3D&ehkOptimized=3QJAJf3VauxcjVR0uTDH%2BFKcQE%2FdMHuIXHBTxeePjHw%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665536400
     },
     {
