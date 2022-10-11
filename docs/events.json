@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665461962,
+  "fetched_at": 1665467243,
   "data": [
     {
       "slug": "tournament/cash-smash-netplay-tuesday-edition/event/melee-singles-cash-smash",
@@ -30,7 +30,7 @@
       "tournament_name": "MEAT Online",
       "event_name": "Yoshi-Only Ladder",
       "image": "https://images.start.gg/images/tournament/487397/image-84fde077fdfbada705ae6576cd056c24.png?ehk=mTY1E9yjj2SV1jJRHS2xw%2FDdd%2FxdmCy7COkQLWM8soE%3D&ehkOptimized=IubIUe%2FjygApRXthnQrAfVmMrnINjdmnNUx1ncPRWLk%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1665531000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "MEAT Online",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487397/image-84fde077fdfbada705ae6576cd056c24.png?ehk=mTY1E9yjj2SV1jJRHS2xw%2FDdd%2FxdmCy7COkQLWM8soE%3D&ehkOptimized=IubIUe%2FjygApRXthnQrAfVmMrnINjdmnNUx1ncPRWLk%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1665532800
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Sketchy Series: The Beginning",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/476923/image-c0f2fc6d6b9e92beb41e946ae861fdad.png?ehk=zpMI71qkFSoqtWKBSreQ%2BsAOLioIRfQMa6eZ0WDGYUU%3D&ehkOptimized=qBQLKYaE58eGagbWDc5mTMwB7cyFxyyEYmgGIc3Adr8%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1663110000
     },
     {
@@ -174,7 +174,7 @@
       "tournament_name": "Café 43",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486772/image-59b98965d05efc4b3b06dbc973e07ebf.png?ehk=ThvTPY8jgpgKm8fl%2FWBaT%2FGY2oZ07bfSGEOIIIwphYc%3D&ehkOptimized=2L2%2FzHsBJoWN79j3ZU%2Fkhuf6ECgO9vgeT5nDIxH6xd8%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1665763200
     },
     {
@@ -216,6 +216,22 @@
       "image": "https://images.start.gg/images/tournament/487160/image-d0d4abaae582915fd6d0212a7bcb988d.png?ehk=C42Hg3XkFS0ByMPEtIvs0A3SmrQ4TUbywR5gfLGh4o0%3D&ehkOptimized=NpFbuDuJcVtRecQYWDCpkpPXTp2azuR80wz6hsupQjw%3D",
       "entrants": 4,
       "start_time": 1665936000
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-3/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 3",
+      "event_name": "EC Doubles",
+      "image": "https://images.start.gg/images/tournament/487522/image-b71ee1e01bc1129e99d4443893d4a35d.png?ehk=qisvHgSWnmYu8KG%2BEQ5z%2BI1K459kAzRSTIVS4ahh7pI%3D&ehkOptimized=t98JsjJ7H9BQOFCyhZ2l31ldO27aQdfcSoh9gSi9TX8%3D",
+      "entrants": 0,
+      "start_time": 1666047600
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-3/event/wc-doubles",
+      "tournament_name": "Coast to Coast Doubles # 3",
+      "event_name": "WC Doubles",
+      "image": "https://images.start.gg/images/tournament/487522/image-b71ee1e01bc1129e99d4443893d4a35d.png?ehk=qisvHgSWnmYu8KG%2BEQ5z%2BI1K459kAzRSTIVS4ahh7pI%3D&ehkOptimized=t98JsjJ7H9BQOFCyhZ2l31ldO27aQdfcSoh9gSi9TX8%3D",
+      "entrants": 0,
+      "start_time": 1666047600
     },
     {
       "slug": "tournament/have-you-seen-russell-7/event/melee-singles",
