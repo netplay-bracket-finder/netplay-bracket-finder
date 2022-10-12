@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665575248,
+  "fetched_at": 1665578777,
   "data": [
     {
       "slug": "tournament/the-dairy-farm-4/event/melee-singles",
@@ -70,7 +70,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1665702000
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Moonwalk Tournament Series 20",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/485996/image-5205f1e40b28ba687057f871accb2e25.jpg?ehk=%2FCfinreqBOxUmTMdlftz67cjrF2Hz9myJOV%2FZ%2B8oxYs%3D&ehkOptimized=pIXt3w8usTfQIqOqJlDS7lL2r%2B07o2AdZOblKG2IjmI%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1665702000
     },
     {
@@ -150,7 +150,7 @@
       "tournament_name": "Quest for Best Noob EU #41 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/487181/image-bdad76436a3b8198f7c7cd56f055d927.jpg?ehk=jcBjPLzRq6BHyFJtJog3X7NjWs6cD8rxZdaS4Z7XW74%3D&ehkOptimized=EiRGkNiffAMnbXXL6j2M5fH6E6Yl87ZdPnWhASsY2Og%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1665844200
     },
     {
