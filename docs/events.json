@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665541463,
+  "fetched_at": 1665548097,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/ladder-melee-east-coast",
@@ -23,7 +23,7 @@
       "event_name": "Main Bracket: WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
       "entrants": 22,
-      "start_time": 1665514800
+      "start_time": 1665541800
     },
     {
       "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/side-event-wc-melee-redemption-bracket",
@@ -31,7 +31,7 @@
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
       "entrants": 18,
-      "start_time": 1665514800
+      "start_time": 1665541800
     },
     {
       "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/main-bracket-ec-melee-singles",
@@ -86,7 +86,7 @@
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/487332/image-f62d09c6d617b518cc5f66f00d525d82.jpg?ehk=qQ0LrO6LvdLvRWD4E0jC%2FnUSGB10FVC7g0EwYVw9YYE%3D&ehkOptimized=GDKqdRWZkEFMIZFCt9KMonpQN8pfv06GbMVVnfIhyeY%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1665626400
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "The Salt Mine #45!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/487610/image-1f9f127ffcfcacd9dcca725f1cd21a8d.png?ehk=kOhB6F3jzaDPwkYE5jaeoB3OLNMlJO5w97MU4D9IE3Y%3D&ehkOptimized=a6tLSJOzrxriGMer9ZDs32JEXJipydDsPvnlXIjf4%2B0%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1665698400
     },
     {
@@ -158,7 +158,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #7",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/486589/image-1a19b3e758a65d2dfbd1117c90c06ef7.png?ehk=%2BvrnNEe8UAO9mrZXOv10L9rt59k3aT7mAQRljRQ2SDM%3D&ehkOptimized=lz2zn8qL96vTHTRBHOF%2BAdzb%2FT%2BUf4otGmoOH13xPq4%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1665702000
     },
     {
@@ -190,7 +190,7 @@
       "tournament_name": "Flash Flooding: The Return!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486833/image-f678ed0376e73d17fa2221277f84603d.jpg?ehk=Jnv%2BEFSl767szb12Q7u%2BpyYQBNud5G07ZIQ6lSSBVZI%3D&ehkOptimized=UNe%2Bx1F7wAJYc8yN1Dt6dBYYCqVDN2qhIh3uF1Zrgmo%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1665820800
     },
     {
