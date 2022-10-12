@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665578777,
+  "fetched_at": 1665583039,
   "data": [
     {
       "slug": "tournament/the-dairy-farm-4/event/melee-singles",
@@ -30,8 +30,16 @@
       "tournament_name": "Waddle Wednesday 40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487014/image-09111ca868cacb1faf2b90ced7e8a615.png?ehk=B3IoyW770TbbtYmK4n2%2FEgnv%2BB7P9H95Z8Vi9ixK5bE%3D&ehkOptimized=7H6kOSp4%2FDGbt1Kk2hbfygho79qRG7IMDAPbbW1SKQY%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665619200
+    },
+    {
+      "slug": "tournament/silver-slippi-league-26/event/melee-ranked-ladder",
+      "tournament_name": "Silver Slippi League #26",
+      "event_name": "Melee Ranked Ladder",
+      "image": "https://images.start.gg/images/tournament/487911/image-e2aa86c381ae197e00013081e45e3cca.png?ehk=7G3LAcGENodVTIPvVrx4htXiCcs70zTw0oMyeM8D4P8%3D&ehkOptimized=tQuzFnOBVFjZ3ADLDo0nFkjraZnp7oy7nfoXLQOE7B4%3D",
+      "entrants": 0,
+      "start_time": 1665622800
     },
     {
       "slug": "tournament/treythetrashman-s-garbage-connection-wc-100-pot-bonus-allchat-esports-8/event/melee-singles-west-coast",
@@ -70,7 +78,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1665702000
     },
     {
@@ -126,7 +134,7 @@
       "tournament_name": "Café 43",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486772/image-59b98965d05efc4b3b06dbc973e07ebf.png?ehk=ThvTPY8jgpgKm8fl%2FWBaT%2FGY2oZ07bfSGEOIIIwphYc%3D&ehkOptimized=2L2%2FzHsBJoWN79j3ZU%2Fkhuf6ECgO9vgeT5nDIxH6xd8%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1665763200
     },
     {
@@ -150,7 +158,7 @@
       "tournament_name": "Quest for Best Noob EU #41 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/487181/image-bdad76436a3b8198f7c7cd56f055d927.jpg?ehk=jcBjPLzRq6BHyFJtJog3X7NjWs6cD8rxZdaS4Z7XW74%3D&ehkOptimized=EiRGkNiffAMnbXXL6j2M5fH6E6Yl87ZdPnWhASsY2Og%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665844200
     },
     {
