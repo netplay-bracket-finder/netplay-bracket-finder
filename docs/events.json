@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665617191,
+  "fetched_at": 1665618694,
   "data": [
     {
       "slug": "tournament/galaxy-gladiators-16-hosted-by-solar-esports/event/melee-singles",
@@ -7,14 +7,6 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487459/image-5d269763fb95aebbe20dd7500c4cbc37.png?ehk=aOB9mBk4YiYXZDcqGwqCaAL8OqYAioYTehEf81XpgWo%3D&ehkOptimized=%2FdmsBUOmVK5z0shr88ICriv9LBBCwlPD3oByw3FbWeg%3D",
       "entrants": 2,
-      "start_time": 1665619200
-    },
-    {
-      "slug": "tournament/waddle-wednesday-40/event/melee-singles",
-      "tournament_name": "Waddle Wednesday 40",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/487014/image-09111ca868cacb1faf2b90ced7e8a615.png?ehk=B3IoyW770TbbtYmK4n2%2FEgnv%2BB7P9H95Z8Vi9ixK5bE%3D&ehkOptimized=7H6kOSp4%2FDGbt1Kk2hbfygho79qRG7IMDAPbbW1SKQY%3D",
-      "entrants": 77,
       "start_time": 1665619200
     },
     {
@@ -30,7 +22,7 @@
       "tournament_name": "Silver Slippi League #26",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/487911/image-e2aa86c381ae197e00013081e45e3cca.png?ehk=7G3LAcGENodVTIPvVrx4htXiCcs70zTw0oMyeM8D4P8%3D&ehkOptimized=tQuzFnOBVFjZ3ADLDo0nFkjraZnp7oy7nfoXLQOE7B4%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1665622800
     },
     {
@@ -70,7 +62,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1665702000
     },
     {
@@ -126,7 +118,7 @@
       "tournament_name": "BB 74",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487940/image-a450554c70e792aa0dfde6774fd93d11.jpg?ehk=La0t5pCisumFfvxQvArPK2L037lBMVnE0O%2FspL8bYjQ%3D&ehkOptimized=1sGKM2Rl7Z6jco7JMvspr4wvdjpm0I4z0qSqjpUKsdc%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665730800
     },
     {
@@ -166,7 +158,7 @@
       "tournament_name": "Legs' Le Tournament #53",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486768/image-2f6faeb0c955d6aabfa87054fee90344.png?ehk=L9ODDqNe6GgYDKo6C5%2B%2BmAifeXaYFMAeeHD6LT7C11o%3D&ehkOptimized=1zud3nNz29dMHAJcO6O6JuPIdi2ylE68cKK7AWOf0%2Fs%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665867600
     },
     {
