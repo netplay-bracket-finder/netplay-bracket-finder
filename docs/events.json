@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665548097,
+  "fetched_at": 1665552293,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/ladder-melee-east-coast",
@@ -26,14 +26,6 @@
       "start_time": 1665541800
     },
     {
-      "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
-      "entrants": 18,
-      "start_time": 1665541800
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/main-bracket-ec-melee-singles",
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
@@ -50,6 +42,14 @@
       "start_time": 1665531000
     },
     {
+      "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
+      "entrants": 18,
+      "start_time": 1665541800
+    },
+    {
       "slug": "tournament/the-dairy-farm-4/event/melee-singles",
       "tournament_name": "The Dairy Farm #4",
       "event_name": "Melee Singles",
@@ -62,7 +62,7 @@
       "tournament_name": "SOVA Saga #3 - Southern Virginia Melee Online Event",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487035/image-89b143e2e08477b7218a74a76f70f751.png?ehk=MwNm%2FSGoF%2B4vK3hah%2FC6%2F%2B5anaCXJGLCucudtAvIVtc%3D&ehkOptimized=kFBYNPAcqh9ldRrYS8fXRSn4QalIE0amouGLMEmcHB4%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1665612000
     },
     {
@@ -118,7 +118,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1665702000
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "Moonwalk Tournament Series 20",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/485996/image-5205f1e40b28ba687057f871accb2e25.jpg?ehk=%2FCfinreqBOxUmTMdlftz67cjrF2Hz9myJOV%2FZ%2B8oxYs%3D&ehkOptimized=pIXt3w8usTfQIqOqJlDS7lL2r%2B07o2AdZOblKG2IjmI%3D",
-      "entrants": 6,
+      "entrants": 5,
       "start_time": 1665702000
     },
     {
