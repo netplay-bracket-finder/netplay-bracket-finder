@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665552293,
+  "fetched_at": 1665554603,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/ladder-melee-east-coast",
@@ -18,14 +18,6 @@
       "start_time": 1665514800
     },
     {
-      "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/main-bracket-wc-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
-      "event_name": "Main Bracket: WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
-      "entrants": 22,
-      "start_time": 1665541800
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/main-bracket-ec-melee-singles",
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
@@ -40,6 +32,14 @@
       "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
       "entrants": 25,
       "start_time": 1665531000
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/main-bracket-wc-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
+      "event_name": "Main Bracket: WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/487526/image-37b6bf165d5f27cccc7d25fb4f5c0d53.png?ehk=uvlMyl8kpdmEs9BIDjCwk5PJ4%2F1%2BohM2kqjOk0wbpsY%3D&ehkOptimized=H7S0z8sAM5aduQDrMYnSlEZqbYexAs7j6AwjMETa%2Bkg%3D",
+      "entrants": 22,
+      "start_time": 1665541800
     },
     {
       "slug": "tournament/training-mode-tuesdays-98-lite-edition/event/side-event-wc-melee-redemption-bracket",
@@ -310,7 +310,7 @@
       "tournament_name": "Stel Hotel Throwdown: Minimum $100 Prize Pool!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1668209400
     },
     {
