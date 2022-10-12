@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665604580,
+  "fetched_at": 1665606579,
   "data": [
     {
       "slug": "tournament/sova-saga-3-southern-virginia-melee-online-event/event/melee-singles",
@@ -22,8 +22,16 @@
       "tournament_name": "Waddle Wednesday 40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487014/image-09111ca868cacb1faf2b90ced7e8a615.png?ehk=B3IoyW770TbbtYmK4n2%2FEgnv%2BB7P9H95Z8Vi9ixK5bE%3D&ehkOptimized=7H6kOSp4%2FDGbt1Kk2hbfygho79qRG7IMDAPbbW1SKQY%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1665619200
+    },
+    {
+      "slug": "tournament/get-medz-to-summit/event/wc-melee-singles",
+      "tournament_name": "Get Medz to Summit!!",
+      "event_name": "WC Melee Singles",
+      "image": "",
+      "entrants": 2,
+      "start_time": 1665626400
     },
     {
       "slug": "tournament/silver-slippi-league-26/event/melee-ranked-ladder",
@@ -38,7 +46,7 @@
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/487332/image-f62d09c6d617b518cc5f66f00d525d82.jpg?ehk=qQ0LrO6LvdLvRWD4E0jC%2FnUSGB10FVC7g0EwYVw9YYE%3D&ehkOptimized=GDKqdRWZkEFMIZFCt9KMonpQN8pfv06GbMVVnfIhyeY%3D",
-      "entrants": 27,
+      "entrants": 28,
       "start_time": 1665626400
     },
     {
@@ -46,7 +54,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #34 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486257/image-61ac41bfebeaa7208668df611d79a156.png?ehk=lBsmgzIHlZZxNlbfIdTxgqFNfnIRX13YymjV0FgxjVU%3D&ehkOptimized=pj%2BVtDfyWFV8%2FyszWK9SnDGDU5NQuRqoTfflg92GP48%3D",
-      "entrants": 5,
+      "entrants": 4,
       "start_time": 1665680400
     },
     {
@@ -70,7 +78,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1665702000
     },
     {
@@ -86,7 +94,7 @@
       "tournament_name": "Moonwalk Tournament Series 20",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/485996/image-5205f1e40b28ba687057f871accb2e25.jpg?ehk=%2FCfinreqBOxUmTMdlftz67cjrF2Hz9myJOV%2FZ%2B8oxYs%3D&ehkOptimized=pIXt3w8usTfQIqOqJlDS7lL2r%2B07o2AdZOblKG2IjmI%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1665702000
     },
     {
