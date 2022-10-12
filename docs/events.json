@@ -1,13 +1,13 @@
 {
-  "fetched_at": 1665611182,
+  "fetched_at": 1665613384,
   "data": [
     {
-      "slug": "tournament/sova-saga-3-southern-virginia-melee-online-event/event/melee-singles",
-      "tournament_name": "SOVA Saga #3 - Southern Virginia Melee Online Event",
+      "slug": "tournament/cre-lee-8/event/melee-singles",
+      "tournament_name": "cre-lee #8",
       "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/487035/image-89b143e2e08477b7218a74a76f70f751.png?ehk=MwNm%2FSGoF%2B4vK3hah%2FC6%2F%2B5anaCXJGLCucudtAvIVtc%3D&ehkOptimized=kFBYNPAcqh9ldRrYS8fXRSn4QalIE0amouGLMEmcHB4%3D",
-      "entrants": 10,
-      "start_time": 1665612000
+      "image": "https://images.start.gg/images/tournament/488063/image-549b6695051e75fc472a242268b8f18a.jpg?ehk=pZbp06ka%2BnAfDosTkn5hPeASB7dNmeeT3A0nTxmZp6o%3D&ehkOptimized=SxIas8YJBp4o6HIsUkhWUN%2FhvCKFuHI2wSPazWwUMW4%3D",
+      "entrants": 0,
+      "start_time": 1665617400
     },
     {
       "slug": "tournament/galaxy-gladiators-16-hosted-by-solar-esports/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Waddle Wednesday 40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487014/image-09111ca868cacb1faf2b90ced7e8a615.png?ehk=B3IoyW770TbbtYmK4n2%2FEgnv%2BB7P9H95Z8Vi9ixK5bE%3D&ehkOptimized=7H6kOSp4%2FDGbt1Kk2hbfygho79qRG7IMDAPbbW1SKQY%3D",
-      "entrants": 37,
+      "entrants": 48,
       "start_time": 1665619200
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Silver Slippi League #26",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/487911/image-e2aa86c381ae197e00013081e45e3cca.png?ehk=7G3LAcGENodVTIPvVrx4htXiCcs70zTw0oMyeM8D4P8%3D&ehkOptimized=tQuzFnOBVFjZ3ADLDo0nFkjraZnp7oy7nfoXLQOE7B4%3D",
-      "entrants": 8,
+      "entrants": 11,
       "start_time": 1665622800
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #34 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486257/image-61ac41bfebeaa7208668df611d79a156.png?ehk=lBsmgzIHlZZxNlbfIdTxgqFNfnIRX13YymjV0FgxjVU%3D&ehkOptimized=pj%2BVtDfyWFV8%2FyszWK9SnDGDU5NQuRqoTfflg92GP48%3D",
-      "entrants": 4,
+      "entrants": 3,
       "start_time": 1665680400
     },
     {
@@ -238,7 +238,7 @@
       "tournament_name": "Cataquackdown 13: No Shot DUDE!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488026/image-ecaa13f22e1bb3e138c673a0ff366268.png?ehk=0UJxPK2MHS1pPWNan5G%2FsUJ3HJFMx41p9Gnw0X5%2F0QM%3D&ehkOptimized=g6ldQ7ys612zW5FkDf1qiXvNP4Ilzg%2FjMks4E6V5yvc%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1666137600
     },
     {
