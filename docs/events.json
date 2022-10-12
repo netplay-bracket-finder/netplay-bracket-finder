@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665586882,
+  "fetched_at": 1665589618,
   "data": [
     {
       "slug": "tournament/the-dairy-farm-4/event/melee-singles",
       "tournament_name": "The Dairy Farm #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487110/image-4ea9312127b04e3990a82c320c412339.png?ehk=0MAwVrBRb2DDHRrOv6GfBBDt6QLmAN8vqqrV%2BFUYCfk%3D&ehkOptimized=zT4MQyyeo5EoBziLKL79PdzNC6YADDaC55iYEOYMgwo%3D",
-      "entrants": 6,
+      "entrants": 10,
       "start_time": 1665595800
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Waddle Wednesday 40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487014/image-09111ca868cacb1faf2b90ced7e8a615.png?ehk=B3IoyW770TbbtYmK4n2%2FEgnv%2BB7P9H95Z8Vi9ixK5bE%3D&ehkOptimized=7H6kOSp4%2FDGbt1Kk2hbfygho79qRG7IMDAPbbW1SKQY%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1665619200
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Silver Slippi League #26",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/487911/image-e2aa86c381ae197e00013081e45e3cca.png?ehk=7G3LAcGENodVTIPvVrx4htXiCcs70zTw0oMyeM8D4P8%3D&ehkOptimized=tQuzFnOBVFjZ3ADLDo0nFkjraZnp7oy7nfoXLQOE7B4%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665622800
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/487332/image-f62d09c6d617b518cc5f66f00d525d82.jpg?ehk=qQ0LrO6LvdLvRWD4E0jC%2FnUSGB10FVC7g0EwYVw9YYE%3D&ehkOptimized=GDKqdRWZkEFMIZFCt9KMonpQN8pfv06GbMVVnfIhyeY%3D",
-      "entrants": 24,
+      "entrants": 25,
       "start_time": 1665626400
     },
     {
