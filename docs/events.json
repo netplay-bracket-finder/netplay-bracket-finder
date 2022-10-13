@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665665402,
+  "fetched_at": 1665669452,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-34-eu-event/event/melee-singles",
@@ -18,6 +18,14 @@
       "start_time": 1665680400
     },
     {
+      "slug": "tournament/troppo-italiano-70/event/singles",
+      "tournament_name": "Troppo Italiano #70",
+      "event_name": "Singles",
+      "image": "https://images.start.gg/images/tournament/488208/image-3254421aa2b80c60182f9c91e5c2098a.jpg?ehk=%2BU4Vmc2GMFWLnB5SJUopwDOb9lSNGEvAXg6bz8H8jVs%3D&ehkOptimized=ILCYhscwHeJtoDf%2Bp2h9RFSl5paRiWT7B6FbSmCOQd0%3D",
+      "entrants": 0,
+      "start_time": 1665687600
+    },
+    {
       "slug": "tournament/the-salt-mine-45/event/the-salt-mine",
       "tournament_name": "The Salt Mine #45!",
       "event_name": "The Salt Mine!",
@@ -30,7 +38,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 31,
+      "entrants": 33,
       "start_time": 1665702000
     },
     {
@@ -80,6 +88,14 @@
       "image": "https://images.start.gg/images/tournament/486589/image-1a19b3e758a65d2dfbd1117c90c06ef7.png?ehk=%2BvrnNEe8UAO9mrZXOv10L9rt59k3aT7mAQRljRQ2SDM%3D&ehkOptimized=lz2zn8qL96vTHTRBHOF%2BAdzb%2FT%2BUf4otGmoOH13xPq4%3D",
       "entrants": 0,
       "start_time": 1665702000
+    },
+    {
+      "slug": "tournament/goats-only-thursdaez-27/event/melee-singles",
+      "tournament_name": "GOATs Only - Thursdaez #27",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/488213/image-0d2a65b07f3055947e1a1e43b4b3af63.png?ehk=32qMHBPxDpLd1zr47R%2FOXp4WNRYRUDvDLQy%2B6K2C4G0%3D&ehkOptimized=4t1bg1%2Bg8yVOUbCpPJz9b7ENWNAghl34agjXd7KLFjc%3D",
+      "entrants": 1,
+      "start_time": 1665705600
     },
     {
       "slug": "tournament/bb-74/event/melee-singles",
