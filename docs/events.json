@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1665683317,
+  "fetched_at": 1665685929,
   "data": [
-    {
-      "slug": "tournament/mtr-rr/event/mtr-rr-10-13-22",
-      "tournament_name": "MTR RR",
-      "event_name": "MTR RR 10/13/22",
-      "image": "",
-      "entrants": 0,
-      "start_time": 1665684000
-    },
     {
       "slug": "tournament/troppo-italiano-70/event/singles",
       "tournament_name": "Troppo Italiano #70",
@@ -22,7 +14,7 @@
       "tournament_name": "The Salt Mine #45!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/487610/image-1f9f127ffcfcacd9dcca725f1cd21a8d.png?ehk=kOhB6F3jzaDPwkYE5jaeoB3OLNMlJO5w97MU4D9IE3Y%3D&ehkOptimized=a6tLSJOzrxriGMer9ZDs32JEXJipydDsPvnlXIjf4%2B0%3D",
-      "entrants": 17,
+      "entrants": 22,
       "start_time": 1665698400
     },
     {
@@ -30,7 +22,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 55,
+      "entrants": 60,
       "start_time": 1665702000
     },
     {
@@ -38,7 +30,7 @@
       "tournament_name": "The Return of NFC #5 | Presented by NxGn Esports",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487062/image-75d73cead3fe7dcc2af5a830e2118881.png?ehk=CIMtX4CBAFhGld7n6P5O09n6CF8OVR4c10U8MUk5zBQ%3D&ehkOptimized=NzdQZcqsDxN7fzNgP5bJVXTJHbdiTjzExwwsTi%2Fu41U%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1665702000
     },
     {
@@ -46,7 +38,7 @@
       "tournament_name": "Moonwalk Tournament Series 20",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/485996/image-5205f1e40b28ba687057f871accb2e25.jpg?ehk=%2FCfinreqBOxUmTMdlftz67cjrF2Hz9myJOV%2FZ%2B8oxYs%3D&ehkOptimized=pIXt3w8usTfQIqOqJlDS7lL2r%2B07o2AdZOblKG2IjmI%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1665702000
     },
     {
@@ -214,7 +206,7 @@
       "tournament_name": "FragFest Fall 2022",
       "event_name": "Frag Fest Fall 2022: Super Smash Bros. Melee Singles LAN Tournament, Sponsored by HyperX",
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1666396800
     },
     {
