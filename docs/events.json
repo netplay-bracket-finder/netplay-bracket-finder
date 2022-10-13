@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665676819,
+  "fetched_at": 1665680399,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-34-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #34 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486257/image-61ac41bfebeaa7208668df611d79a156.png?ehk=lBsmgzIHlZZxNlbfIdTxgqFNfnIRX13YymjV0FgxjVU%3D&ehkOptimized=pj%2BVtDfyWFV8%2FyszWK9SnDGDU5NQuRqoTfflg92GP48%3D",
-      "entrants": 13,
+      "entrants": 17,
       "start_time": 1665680400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Troppo Italiano #70",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/488208/image-3254421aa2b80c60182f9c91e5c2098a.jpg?ehk=%2BU4Vmc2GMFWLnB5SJUopwDOb9lSNGEvAXg6bz8H8jVs%3D&ehkOptimized=ILCYhscwHeJtoDf%2Bp2h9RFSl5paRiWT7B6FbSmCOQd0%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1665687600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "The Salt Mine #45!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/487610/image-1f9f127ffcfcacd9dcca725f1cd21a8d.png?ehk=kOhB6F3jzaDPwkYE5jaeoB3OLNMlJO5w97MU4D9IE3Y%3D&ehkOptimized=a6tLSJOzrxriGMer9ZDs32JEXJipydDsPvnlXIjf4%2B0%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1665698400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 38,
+      "entrants": 52,
       "start_time": 1665702000
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #7",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/486589/image-1a19b3e758a65d2dfbd1117c90c06ef7.png?ehk=%2BvrnNEe8UAO9mrZXOv10L9rt59k3aT7mAQRljRQ2SDM%3D&ehkOptimized=lz2zn8qL96vTHTRBHOF%2BAdzb%2FT%2BUf4otGmoOH13xPq4%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1665702000
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "Quest for Best Noob EU #41 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/487181/image-bdad76436a3b8198f7c7cd56f055d927.jpg?ehk=jcBjPLzRq6BHyFJtJog3X7NjWs6cD8rxZdaS4Z7XW74%3D&ehkOptimized=EiRGkNiffAMnbXXL6j2M5fH6E6Yl87ZdPnWhASsY2Og%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1665844200
     },
     {
@@ -222,7 +222,7 @@
       "tournament_name": "FragFest Fall 2022",
       "event_name": "Frag Fest Fall 2022: Super Smash Bros. Melee Singles LAN Tournament, Sponsored by HyperX",
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1666396800
     },
     {
