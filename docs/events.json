@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1665699911,
+  "fetched_at": 1665701396,
   "data": [
-    {
-      "slug": "tournament/the-salt-mine-45/event/the-salt-mine",
-      "tournament_name": "The Salt Mine #45!",
-      "event_name": "The Salt Mine!",
-      "image": "https://images.start.gg/images/tournament/487610/image-1f9f127ffcfcacd9dcca725f1cd21a8d.png?ehk=kOhB6F3jzaDPwkYE5jaeoB3OLNMlJO5w97MU4D9IE3Y%3D&ehkOptimized=a6tLSJOzrxriGMer9ZDs32JEXJipydDsPvnlXIjf4%2B0%3D",
-      "entrants": 68,
-      "start_time": 1665702000
-    },
-    {
-      "slug": "tournament/only-noobs-88/event/melee-singles",
-      "tournament_name": "Only Noobs 88",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 117,
-      "start_time": 1665702000
-    },
     {
       "slug": "tournament/the-return-of-nfc-5-presented-by-nxgn-esports/event/melee-singles",
       "tournament_name": "The Return of NFC #5 | Presented by NxGn Esports",
@@ -70,7 +54,7 @@
       "tournament_name": "GOATs Only - Thursdaez #27",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488213/image-0d2a65b07f3055947e1a1e43b4b3af63.png?ehk=32qMHBPxDpLd1zr47R%2FOXp4WNRYRUDvDLQy%2B6K2C4G0%3D&ehkOptimized=4t1bg1%2Bg8yVOUbCpPJz9b7ENWNAghl34agjXd7KLFjc%3D",
-      "entrants": 7,
+      "entrants": 9,
       "start_time": 1665705600
     },
     {
@@ -78,8 +62,16 @@
       "tournament_name": "Thursday Thmackdown #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488303/image-e503568f1ed9a0a683427f1a844d0264.png?ehk=fVbHkvjqpw8vB%2FAQ5rfsNEErVtF%2BsV80oW7lcKl36Uk%3D&ehkOptimized=PezNr%2FhpvkLgW4Et3KCjiWc4vZPclCTiJIheW0BsrsM%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1665709200
+    },
+    {
+      "slug": "tournament/tiebex-popup-tourney-2/event/melee-singles",
+      "tournament_name": "tiebex Popup Tourney #2",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/488359/image-833fcd2d4f22779c87c4c79c414c9098.png?ehk=FROzAebNOMn%2FRPaUi%2FWyuYXqfu9Eu6kvvb3bS1OTi1w%3D&ehkOptimized=wjihHNhKFtDr%2FjNx1P4ow4vB66kS%2BuDMw7IQY1F7OsU%3D",
+      "entrants": 1,
+      "start_time": 1665711000
     },
     {
       "slug": "tournament/bb-74/event/melee-singles",
@@ -94,7 +86,7 @@
       "tournament_name": "Café 43",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486772/image-59b98965d05efc4b3b06dbc973e07ebf.png?ehk=ThvTPY8jgpgKm8fl%2FWBaT%2FGY2oZ07bfSGEOIIIwphYc%3D&ehkOptimized=2L2%2FzHsBJoWN79j3ZU%2Fkhuf6ECgO9vgeT5nDIxH6xd8%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665763200
     },
     {
