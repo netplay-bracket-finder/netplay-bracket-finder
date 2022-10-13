@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665692744,
+  "fetched_at": 1665694186,
   "data": [
     {
       "slug": "tournament/the-salt-mine-45/event/the-salt-mine",
       "tournament_name": "The Salt Mine #45!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/487610/image-1f9f127ffcfcacd9dcca725f1cd21a8d.png?ehk=kOhB6F3jzaDPwkYE5jaeoB3OLNMlJO5w97MU4D9IE3Y%3D&ehkOptimized=a6tLSJOzrxriGMer9ZDs32JEXJipydDsPvnlXIjf4%2B0%3D",
-      "entrants": 36,
+      "entrants": 40,
       "start_time": 1665698400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 80,
+      "entrants": 84,
       "start_time": 1665702000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Moonwalk Tournament Series 20",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/485996/image-5205f1e40b28ba687057f871accb2e25.jpg?ehk=%2FCfinreqBOxUmTMdlftz67cjrF2Hz9myJOV%2FZ%2B8oxYs%3D&ehkOptimized=pIXt3w8usTfQIqOqJlDS7lL2r%2B07o2AdZOblKG2IjmI%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1665702000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Moonwalk Tournament Series 20",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/485996/image-5205f1e40b28ba687057f871accb2e25.jpg?ehk=%2FCfinreqBOxUmTMdlftz67cjrF2Hz9myJOV%2FZ%2B8oxYs%3D&ehkOptimized=pIXt3w8usTfQIqOqJlDS7lL2r%2B07o2AdZOblKG2IjmI%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1665702000
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Thursday Thmackdown #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488303/image-e503568f1ed9a0a683427f1a844d0264.png?ehk=fVbHkvjqpw8vB%2FAQ5rfsNEErVtF%2BsV80oW7lcKl36Uk%3D&ehkOptimized=PezNr%2FhpvkLgW4Et3KCjiWc4vZPclCTiJIheW0BsrsM%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1665709200
     },
     {
