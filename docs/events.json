@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665675147,
+  "fetched_at": 1665676819,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-34-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #34 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486257/image-61ac41bfebeaa7208668df611d79a156.png?ehk=lBsmgzIHlZZxNlbfIdTxgqFNfnIRX13YymjV0FgxjVU%3D&ehkOptimized=pj%2BVtDfyWFV8%2FyszWK9SnDGDU5NQuRqoTfflg92GP48%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1665680400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 37,
+      "entrants": 38,
       "start_time": 1665702000
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Moonwalk Tournament Series 20",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/485996/image-5205f1e40b28ba687057f871accb2e25.jpg?ehk=%2FCfinreqBOxUmTMdlftz67cjrF2Hz9myJOV%2FZ%2B8oxYs%3D&ehkOptimized=pIXt3w8usTfQIqOqJlDS7lL2r%2B07o2AdZOblKG2IjmI%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1665702000
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "BB 74",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487940/image-a450554c70e792aa0dfde6774fd93d11.jpg?ehk=La0t5pCisumFfvxQvArPK2L037lBMVnE0O%2FspL8bYjQ%3D&ehkOptimized=1sGKM2Rl7Z6jco7JMvspr4wvdjpm0I4z0qSqjpUKsdc%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1665730800
     },
     {
