@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665688009,
+  "fetched_at": 1665689706,
   "data": [
     {
       "slug": "tournament/the-salt-mine-45/event/the-salt-mine",
       "tournament_name": "The Salt Mine #45!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/487610/image-1f9f127ffcfcacd9dcca725f1cd21a8d.png?ehk=kOhB6F3jzaDPwkYE5jaeoB3OLNMlJO5w97MU4D9IE3Y%3D&ehkOptimized=a6tLSJOzrxriGMer9ZDs32JEXJipydDsPvnlXIjf4%2B0%3D",
-      "entrants": 24,
+      "entrants": 26,
       "start_time": 1665698400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 65,
+      "entrants": 70,
       "start_time": 1665702000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "The Return of NFC #5 | Presented by NxGn Esports",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487062/image-75d73cead3fe7dcc2af5a830e2118881.png?ehk=CIMtX4CBAFhGld7n6P5O09n6CF8OVR4c10U8MUk5zBQ%3D&ehkOptimized=NzdQZcqsDxN7fzNgP5bJVXTJHbdiTjzExwwsTi%2Fu41U%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1665702000
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "Quest for Best Noob EU #41 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/487181/image-bdad76436a3b8198f7c7cd56f055d927.jpg?ehk=jcBjPLzRq6BHyFJtJog3X7NjWs6cD8rxZdaS4Z7XW74%3D&ehkOptimized=EiRGkNiffAMnbXXL6j2M5fH6E6Yl87ZdPnWhASsY2Og%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1665844200
     },
     {
@@ -184,6 +184,22 @@
       "image": "https://images.start.gg/images/tournament/488026/image-ecaa13f22e1bb3e138c673a0ff366268.png?ehk=0UJxPK2MHS1pPWNan5G%2FsUJ3HJFMx41p9Gnw0X5%2F0QM%3D&ehkOptimized=g6ldQ7ys612zW5FkDf1qiXvNP4Ilzg%2FjMks4E6V5yvc%3D",
       "entrants": 3,
       "start_time": 1666137600
+    },
+    {
+      "slug": "tournament/toblerone-tangerine-thursdays-35-eu-event/event/melee-singles",
+      "tournament_name": "Toblerone Tangerine Thursdays #35 (EU Event)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/488274/image-10587dfa659efda68f60fd91b6f7319b.png?ehk=6JwVgh4993sbcLVpj6%2F%2F%2FUhJOkZFosPWVqSWjrS8vtA%3D&ehkOptimized=ON5mqj93HiyH1VKadPwqw6sv%2FIHhbptcIE9n%2F2k%2Fbe8%3D",
+      "entrants": 0,
+      "start_time": 1666285200
+    },
+    {
+      "slug": "tournament/toblerone-tangerine-thursdays-35-eu-event/event/toblerone-waitlist",
+      "tournament_name": "Toblerone Tangerine Thursdays #35 (EU Event)",
+      "event_name": "Toblerone waitlist",
+      "image": "https://images.start.gg/images/tournament/488274/image-10587dfa659efda68f60fd91b6f7319b.png?ehk=6JwVgh4993sbcLVpj6%2F%2F%2FUhJOkZFosPWVqSWjrS8vtA%3D&ehkOptimized=ON5mqj93HiyH1VKadPwqw6sv%2FIHhbptcIE9n%2F2k%2Fbe8%3D",
+      "entrants": 0,
+      "start_time": 1666285200
     },
     {
       "slug": "tournament/seamus-birthday-bash/event/melee-singles",
