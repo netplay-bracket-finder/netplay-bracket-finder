@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665689706,
+  "fetched_at": 1665690763,
   "data": [
     {
       "slug": "tournament/the-salt-mine-45/event/the-salt-mine",
       "tournament_name": "The Salt Mine #45!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/487610/image-1f9f127ffcfcacd9dcca725f1cd21a8d.png?ehk=kOhB6F3jzaDPwkYE5jaeoB3OLNMlJO5w97MU4D9IE3Y%3D&ehkOptimized=a6tLSJOzrxriGMer9ZDs32JEXJipydDsPvnlXIjf4%2B0%3D",
-      "entrants": 26,
+      "entrants": 27,
       "start_time": 1665698400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 70,
+      "entrants": 73,
       "start_time": 1665702000
     },
     {
@@ -88,6 +88,22 @@
       "image": "https://images.start.gg/images/tournament/486772/image-59b98965d05efc4b3b06dbc973e07ebf.png?ehk=ThvTPY8jgpgKm8fl%2FWBaT%2FGY2oZ07bfSGEOIIIwphYc%3D&ehkOptimized=2L2%2FzHsBJoWN79j3ZU%2Fkhuf6ECgO9vgeT5nDIxH6xd8%3D",
       "entrants": 3,
       "start_time": 1665763200
+    },
+    {
+      "slug": "tournament/input-1-new-mexico-slippi-weekly-6/event/slippi-ladder",
+      "tournament_name": "Input 1: New Mexico Slippi Weekly #6",
+      "event_name": "Slippi Ladder",
+      "image": "https://images.start.gg/images/tournament/488313/image-5e8a7985169701ba4b6cee566890801c.png?ehk=daJ1CL5ahZmrp%2B3Q6NpR9PlOr1JJxCaCaheR%2FVLzlJE%3D&ehkOptimized=yMnnOaPHZ0m6r8gE%2BPEiC4PH4ihPvGe3xvp0kTBWnxw%3D",
+      "entrants": 1,
+      "start_time": 1665784800
+    },
+    {
+      "slug": "tournament/input-1-new-mexico-slippi-weekly-6/event/melee-top-8",
+      "tournament_name": "Input 1: New Mexico Slippi Weekly #6",
+      "event_name": "Melee Top 8",
+      "image": "https://images.start.gg/images/tournament/488313/image-5e8a7985169701ba4b6cee566890801c.png?ehk=daJ1CL5ahZmrp%2B3Q6NpR9PlOr1JJxCaCaheR%2FVLzlJE%3D&ehkOptimized=yMnnOaPHZ0m6r8gE%2BPEiC4PH4ihPvGe3xvp0kTBWnxw%3D",
+      "entrants": 0,
+      "start_time": 1665784800
     },
     {
       "slug": "tournament/the-shallow-end-7-a-wc-newbie-bracket/event/melee-singles",
