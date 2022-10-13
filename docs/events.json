@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1665685929,
+  "fetched_at": 1665688009,
   "data": [
-    {
-      "slug": "tournament/troppo-italiano-70/event/singles",
-      "tournament_name": "Troppo Italiano #70",
-      "event_name": "Singles",
-      "image": "https://images.start.gg/images/tournament/488208/image-3254421aa2b80c60182f9c91e5c2098a.jpg?ehk=%2BU4Vmc2GMFWLnB5SJUopwDOb9lSNGEvAXg6bz8H8jVs%3D&ehkOptimized=ILCYhscwHeJtoDf%2Bp2h9RFSl5paRiWT7B6FbSmCOQd0%3D",
-      "entrants": 3,
-      "start_time": 1665687600
-    },
     {
       "slug": "tournament/the-salt-mine-45/event/the-salt-mine",
       "tournament_name": "The Salt Mine #45!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/487610/image-1f9f127ffcfcacd9dcca725f1cd21a8d.png?ehk=kOhB6F3jzaDPwkYE5jaeoB3OLNMlJO5w97MU4D9IE3Y%3D&ehkOptimized=a6tLSJOzrxriGMer9ZDs32JEXJipydDsPvnlXIjf4%2B0%3D",
-      "entrants": 22,
+      "entrants": 24,
       "start_time": 1665698400
     },
     {
@@ -22,7 +14,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 60,
+      "entrants": 65,
       "start_time": 1665702000
     },
     {
