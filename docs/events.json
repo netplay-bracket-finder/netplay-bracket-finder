@@ -1,28 +1,12 @@
 {
-  "fetched_at": 1665618694,
+  "fetched_at": 1665627016,
   "data": [
-    {
-      "slug": "tournament/galaxy-gladiators-16-hosted-by-solar-esports/event/melee-singles",
-      "tournament_name": "Galaxy Gladiators #16 Hosted by Solar Esports",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/487459/image-5d269763fb95aebbe20dd7500c4cbc37.png?ehk=aOB9mBk4YiYXZDcqGwqCaAL8OqYAioYTehEf81XpgWo%3D&ehkOptimized=%2FdmsBUOmVK5z0shr88ICriv9LBBCwlPD3oByw3FbWeg%3D",
-      "entrants": 2,
-      "start_time": 1665619200
-    },
-    {
-      "slug": "tournament/get-medz-to-summit/event/melee-singles",
-      "tournament_name": "Get Medz to Summit!!",
-      "event_name": "Melee Singles",
-      "image": "",
-      "entrants": 2,
-      "start_time": 1665626400
-    },
     {
       "slug": "tournament/silver-slippi-league-26/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #26",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/487911/image-e2aa86c381ae197e00013081e45e3cca.png?ehk=7G3LAcGENodVTIPvVrx4htXiCcs70zTw0oMyeM8D4P8%3D&ehkOptimized=tQuzFnOBVFjZ3ADLDo0nFkjraZnp7oy7nfoXLQOE7B4%3D",
-      "entrants": 15,
+      "entrants": 30,
       "start_time": 1665622800
     },
     {
@@ -30,7 +14,7 @@
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/487332/image-f62d09c6d617b518cc5f66f00d525d82.jpg?ehk=qQ0LrO6LvdLvRWD4E0jC%2FnUSGB10FVC7g0EwYVw9YYE%3D&ehkOptimized=GDKqdRWZkEFMIZFCt9KMonpQN8pfv06GbMVVnfIhyeY%3D",
-      "entrants": 31,
+      "entrants": 43,
       "start_time": 1665626400
     },
     {
@@ -62,7 +46,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 21,
+      "entrants": 25,
       "start_time": 1665702000
     },
     {
@@ -78,7 +62,7 @@
       "tournament_name": "Moonwalk Tournament Series 20",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/485996/image-5205f1e40b28ba687057f871accb2e25.jpg?ehk=%2FCfinreqBOxUmTMdlftz67cjrF2Hz9myJOV%2FZ%2B8oxYs%3D&ehkOptimized=pIXt3w8usTfQIqOqJlDS7lL2r%2B07o2AdZOblKG2IjmI%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1665702000
     },
     {
@@ -86,7 +70,7 @@
       "tournament_name": "Moonwalk Tournament Series 20",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/485996/image-5205f1e40b28ba687057f871accb2e25.jpg?ehk=%2FCfinreqBOxUmTMdlftz67cjrF2Hz9myJOV%2FZ%2B8oxYs%3D&ehkOptimized=pIXt3w8usTfQIqOqJlDS7lL2r%2B07o2AdZOblKG2IjmI%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665702000
     },
     {
@@ -118,7 +102,7 @@
       "tournament_name": "BB 74",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487940/image-a450554c70e792aa0dfde6774fd93d11.jpg?ehk=La0t5pCisumFfvxQvArPK2L037lBMVnE0O%2FspL8bYjQ%3D&ehkOptimized=1sGKM2Rl7Z6jco7JMvspr4wvdjpm0I4z0qSqjpUKsdc%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1665730800
     },
     {
@@ -230,7 +214,7 @@
       "tournament_name": "Seamus' Birthday Bash",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487944/image-73d58e92cf4157b768ef32ef29433388.jpg?ehk=Si3Yri%2BpClObLFDwPeT%2F5zA7BqiSRd2%2Bh5TDmq9pbN0%3D&ehkOptimized=hGmPL2BUE4ik6uYH69tl2PcyKLw3UQb3H6HHz9EvLVE%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1666308600
     },
     {
@@ -248,6 +232,14 @@
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
       "entrants": 0,
       "start_time": 1666396800
+    },
+    {
+      "slug": "tournament/dusk-x-australian-melee-presents-a-tribute-to-denis/event/melee-bracket",
+      "tournament_name": "Dusk x Australian Melee Presents: A Tribute to Denis",
+      "event_name": "Melee Bracket",
+      "image": "https://images.start.gg/images/tournament/488045/image-ebdef222cbe916402856aa1a1235185b.png?ehk=VkapuGzz5XCIVFKo%2Bl65q9M%2Br2bWhrVEBtofXt8w%2BDQ%3D&ehkOptimized=PSXD4M7BBWbIMiEfOI4kXw5UWRvrJvkyDgdDKnHVWWc%3D",
+      "entrants": 0,
+      "start_time": 1666508400
     },
     {
       "slug": "tournament/searcadian/event/singles",
