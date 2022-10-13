@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665627016,
+  "fetched_at": 1665634968,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-26/event/melee-ranked-ladder",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/487911/image-e2aa86c381ae197e00013081e45e3cca.png?ehk=7G3LAcGENodVTIPvVrx4htXiCcs70zTw0oMyeM8D4P8%3D&ehkOptimized=tQuzFnOBVFjZ3ADLDo0nFkjraZnp7oy7nfoXLQOE7B4%3D",
       "entrants": 30,
       "start_time": 1665622800
-    },
-    {
-      "slug": "tournament/treythetrashman-s-garbage-connection-wc-100-pot-bonus-allchat-esports-8/event/melee-singles-west-coast",
-      "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
-      "event_name": "Melee Singles: West-Coast",
-      "image": "https://images.start.gg/images/tournament/487332/image-f62d09c6d617b518cc5f66f00d525d82.jpg?ehk=qQ0LrO6LvdLvRWD4E0jC%2FnUSGB10FVC7g0EwYVw9YYE%3D&ehkOptimized=GDKqdRWZkEFMIZFCt9KMonpQN8pfv06GbMVVnfIhyeY%3D",
-      "entrants": 43,
-      "start_time": 1665626400
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-34-eu-event/event/melee-singles",
@@ -46,7 +38,7 @@
       "tournament_name": "Only Noobs 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486514/image-529a503a319c07222bc4037f3556302f.jpg?ehk=v3qhevmgwVnFfmSOs0nP8p09%2F5Ff2LcA2WHHJpg0BvE%3D&ehkOptimized=gFQqYhFte5h0zWfg7xHvCCOO3L%2F0E2vBz9EnB57UhSM%3D",
-      "entrants": 25,
+      "entrants": 29,
       "start_time": 1665702000
     },
     {
@@ -102,7 +94,7 @@
       "tournament_name": "BB 74",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487940/image-a450554c70e792aa0dfde6774fd93d11.jpg?ehk=La0t5pCisumFfvxQvArPK2L037lBMVnE0O%2FspL8bYjQ%3D&ehkOptimized=1sGKM2Rl7Z6jco7JMvspr4wvdjpm0I4z0qSqjpUKsdc%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1665730800
     },
     {
