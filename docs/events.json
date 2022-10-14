@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665722033,
+  "fetched_at": 1665726980,
   "data": [
     {
       "slug": "tournament/bb-74/event/melee-singles",
       "tournament_name": "BB 74",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487940/image-a450554c70e792aa0dfde6774fd93d11.jpg?ehk=La0t5pCisumFfvxQvArPK2L037lBMVnE0O%2FspL8bYjQ%3D&ehkOptimized=1sGKM2Rl7Z6jco7JMvspr4wvdjpm0I4z0qSqjpUKsdc%3D",
-      "entrants": 14,
+      "entrants": 18,
       "start_time": 1665730800
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "Spudfest 40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488043/image-1f98e7cbc2a80147806e3086be793438.jpg?ehk=3CyaPY0Ekd1DI0xQ2Z4ynAXacOlQoEnkMfuuaCg0hag%3D&ehkOptimized=PL6xs5V0vR%2F7MAtj4hVPfL8MC%2B8gZLmUhSom6KpgfBw%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666054800
     },
     {
