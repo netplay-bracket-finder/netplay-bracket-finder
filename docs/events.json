@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1665730489,
+  "fetched_at": 1665733071,
   "data": [
-    {
-      "slug": "tournament/bb-74/event/melee-singles",
-      "tournament_name": "BB 74",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/487940/image-a450554c70e792aa0dfde6774fd93d11.jpg?ehk=La0t5pCisumFfvxQvArPK2L037lBMVnE0O%2FspL8bYjQ%3D&ehkOptimized=1sGKM2Rl7Z6jco7JMvspr4wvdjpm0I4z0qSqjpUKsdc%3D",
-      "entrants": 29,
-      "start_time": 1665730800
-    },
     {
       "slug": "tournament/caf-43/event/melee-singles",
       "tournament_name": "Café 43",
