@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665780789,
+  "fetched_at": 1665782505,
   "data": [
     {
       "slug": "tournament/caf-43/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "East Coast Fridays #225",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488447/image-769eda6b5ea44ea37c0dbda81286528a.png?ehk=GwuuOmS0m78RUrW7yIonqBAgK4b%2FXJ14gUKGzUTY3eo%3D&ehkOptimized=jFV8qOaXptcMkZ8Gi70FM%2FKeo%2B9Ec0pGDMzXQ1lY%2Fx0%3D",
-      "entrants": 39,
+      "entrants": 51,
       "start_time": 1665792000
     },
     {
@@ -64,6 +64,14 @@
       "image": "https://images.start.gg/images/tournament/487181/image-bdad76436a3b8198f7c7cd56f055d927.jpg?ehk=jcBjPLzRq6BHyFJtJog3X7NjWs6cD8rxZdaS4Z7XW74%3D&ehkOptimized=EiRGkNiffAMnbXXL6j2M5fH6E6Yl87ZdPnWhASsY2Og%3D",
       "entrants": 10,
       "start_time": 1665844200
+    },
+    {
+      "slug": "tournament/after-dark-melee/event/after-dark-singles",
+      "tournament_name": "After Dark Melee",
+      "event_name": "After Dark Singles",
+      "image": "https://images.start.gg/images/tournament/488583/image-3ae4314352018f93ebfd07eaff3801e9.png?ehk=fNOtub3jO0lVC5oGWGeUCF33siVd1nnQAfMnLa2hii8%3D&ehkOptimized=6cr%2BUe4ZE7ciQXqvv9t46WbYGeABjjyYXFHnnKkaxkg%3D",
+      "entrants": 0,
+      "start_time": 1665864900
     },
     {
       "slug": "tournament/legs-le-tournament-53/event/melee-singles",
@@ -174,8 +182,16 @@
       "tournament_name": "Only Noobs 89",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488420/image-22f7af679f6c33f4d19ac5c1a5fef4c7.jpg?ehk=1LzoHmGopRRtxffgR4SWBAiSNXE8o1fSc%2BotzaGbKzU%3D&ehkOptimized=IGMpJe5uK7WnJ6q8vk5uPzzjKwcUDsurKa3I41Or%2B2g%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1666306800
+    },
+    {
+      "slug": "tournament/metabreaker-1/event/melee-singles",
+      "tournament_name": "Metabreaker #1",
+      "event_name": "Melee Singles",
+      "image": "",
+      "entrants": 0,
+      "start_time": 1666308600
     },
     {
       "slug": "tournament/seamus-birthday-bash/event/melee-singles",
