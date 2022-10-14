@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665726980,
+  "fetched_at": 1665730489,
   "data": [
     {
       "slug": "tournament/bb-74/event/melee-singles",
       "tournament_name": "BB 74",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487940/image-a450554c70e792aa0dfde6774fd93d11.jpg?ehk=La0t5pCisumFfvxQvArPK2L037lBMVnE0O%2FspL8bYjQ%3D&ehkOptimized=1sGKM2Rl7Z6jco7JMvspr4wvdjpm0I4z0qSqjpUKsdc%3D",
-      "entrants": 18,
+      "entrants": 29,
       "start_time": 1665730800
     },
     {
@@ -32,6 +32,14 @@
       "image": "https://images.start.gg/images/tournament/488313/image-5e8a7985169701ba4b6cee566890801c.png?ehk=daJ1CL5ahZmrp%2B3Q6NpR9PlOr1JJxCaCaheR%2FVLzlJE%3D&ehkOptimized=yMnnOaPHZ0m6r8gE%2BPEiC4PH4ihPvGe3xvp0kTBWnxw%3D",
       "entrants": 0,
       "start_time": 1665784800
+    },
+    {
+      "slug": "tournament/east-coast-fridays-225/event/melee-singles",
+      "tournament_name": "East Coast Fridays #225",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/488447/image-769eda6b5ea44ea37c0dbda81286528a.png?ehk=GwuuOmS0m78RUrW7yIonqBAgK4b%2FXJ14gUKGzUTY3eo%3D&ehkOptimized=jFV8qOaXptcMkZ8Gi70FM%2FKeo%2B9Ec0pGDMzXQ1lY%2Fx0%3D",
+      "entrants": 1,
+      "start_time": 1665792000
     },
     {
       "slug": "tournament/fgc-friday-12-hosted-by-solar-esports/event/melee-singles",
