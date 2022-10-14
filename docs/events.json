@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665758840,
+  "fetched_at": 1665761216,
   "data": [
     {
       "slug": "tournament/caf-43/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "East Coast Fridays #225",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488447/image-769eda6b5ea44ea37c0dbda81286528a.png?ehk=GwuuOmS0m78RUrW7yIonqBAgK4b%2FXJ14gUKGzUTY3eo%3D&ehkOptimized=jFV8qOaXptcMkZ8Gi70FM%2FKeo%2B9Ec0pGDMzXQ1lY%2Fx0%3D",
-      "entrants": 4,
+      "entrants": 8,
       "start_time": 1665792000
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "The Shallow End #7 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486828/image-ada0e5f7b2d666bb351751bfc23eb322.jpg?ehk=AwDiWdag1p8bUuLLykm2kQM396Ug8lgJ1kONh%2FDhOAM%3D&ehkOptimized=BntrJprKwiw%2Fb9mJwsb4iZYSYIkIgexEGNwvlJMsaeY%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1665794700
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Quest for Best Noob EU #41 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/487181/image-bdad76436a3b8198f7c7cd56f055d927.jpg?ehk=jcBjPLzRq6BHyFJtJog3X7NjWs6cD8rxZdaS4Z7XW74%3D&ehkOptimized=EiRGkNiffAMnbXXL6j2M5fH6E6Yl87ZdPnWhASsY2Og%3D",
-      "entrants": 7,
+      "entrants": 9,
       "start_time": 1665844200
     },
     {
