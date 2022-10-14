@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665776615,
+  "fetched_at": 1665777280,
   "data": [
     {
       "slug": "tournament/caf-43/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "East Coast Fridays #225",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488447/image-769eda6b5ea44ea37c0dbda81286528a.png?ehk=GwuuOmS0m78RUrW7yIonqBAgK4b%2FXJ14gUKGzUTY3eo%3D&ehkOptimized=jFV8qOaXptcMkZ8Gi70FM%2FKeo%2B9Ec0pGDMzXQ1lY%2Fx0%3D",
-      "entrants": 23,
+      "entrants": 29,
       "start_time": 1665792000
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "Spudfest 40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488043/image-1f98e7cbc2a80147806e3086be793438.jpg?ehk=3CyaPY0Ekd1DI0xQ2Z4ynAXacOlQoEnkMfuuaCg0hag%3D&ehkOptimized=PL6xs5V0vR%2F7MAtj4hVPfL8MC%2B8gZLmUhSom6KpgfBw%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1666054800
     },
     {
@@ -174,7 +174,7 @@
       "tournament_name": "FragFest Fall 2022",
       "event_name": "Frag Fest Fall 2022: Super Smash Bros. Melee Singles LAN Tournament, Sponsored by HyperX",
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1666396800
     },
     {
