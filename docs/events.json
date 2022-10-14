@@ -1,54 +1,6 @@
 {
-  "fetched_at": 1665705243,
+  "fetched_at": 1665714416,
   "data": [
-    {
-      "slug": "tournament/moonwalk-tournament-series-20/event/melee-ladder",
-      "tournament_name": "Moonwalk Tournament Series 20",
-      "event_name": "Melee Ladder",
-      "image": "https://images.start.gg/images/tournament/485996/image-5205f1e40b28ba687057f871accb2e25.jpg?ehk=%2FCfinreqBOxUmTMdlftz67cjrF2Hz9myJOV%2FZ%2B8oxYs%3D&ehkOptimized=pIXt3w8usTfQIqOqJlDS7lL2r%2B07o2AdZOblKG2IjmI%3D",
-      "entrants": 24,
-      "start_time": 1665702000
-    },
-    {
-      "slug": "tournament/moonwalk-tournament-series-20/event/melee-doubles",
-      "tournament_name": "Moonwalk Tournament Series 20",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/485996/image-5205f1e40b28ba687057f871accb2e25.jpg?ehk=%2FCfinreqBOxUmTMdlftz67cjrF2Hz9myJOV%2FZ%2B8oxYs%3D&ehkOptimized=pIXt3w8usTfQIqOqJlDS7lL2r%2B07o2AdZOblKG2IjmI%3D",
-      "entrants": 3,
-      "start_time": 1665702000
-    },
-    {
-      "slug": "tournament/moonwalk-tournament-series-20/event/melee-top-12",
-      "tournament_name": "Moonwalk Tournament Series 20",
-      "event_name": "Melee Top 12",
-      "image": "https://images.start.gg/images/tournament/485996/image-5205f1e40b28ba687057f871accb2e25.jpg?ehk=%2FCfinreqBOxUmTMdlftz67cjrF2Hz9myJOV%2FZ%2B8oxYs%3D&ehkOptimized=pIXt3w8usTfQIqOqJlDS7lL2r%2B07o2AdZOblKG2IjmI%3D",
-      "entrants": 0,
-      "start_time": 1665702000
-    },
-    {
-      "slug": "tournament/cyan-s-sub-series-1/event/melee-singles",
-      "tournament_name": "Cyan's Sub Series #1",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/488364/image-6f9e89582c57270f8d357d973e8ef61d.png?ehk=O4jtCTnbJlEDfQHQYZURXmN4IWPQ9pNFmhBpcoG0TB8%3D&ehkOptimized=laONAxoiiH006YwogXFcdH52Eqd1IxiZjcWtmiwVrQQ%3D",
-      "entrants": 1,
-      "start_time": 1665706500
-    },
-    {
-      "slug": "tournament/thursday-thmackdown-6/event/melee-singles",
-      "tournament_name": "Thursday Thmackdown #6",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/488303/image-e503568f1ed9a0a683427f1a844d0264.png?ehk=fVbHkvjqpw8vB%2FAQ5rfsNEErVtF%2BsV80oW7lcKl36Uk%3D&ehkOptimized=PezNr%2FhpvkLgW4Et3KCjiWc4vZPclCTiJIheW0BsrsM%3D",
-      "entrants": 14,
-      "start_time": 1665709200
-    },
-    {
-      "slug": "tournament/tiebex-popup-tourney-2/event/melee-singles",
-      "tournament_name": "tiebex Popup Tourney #2",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/488359/image-833fcd2d4f22779c87c4c79c414c9098.png?ehk=FROzAebNOMn%2FRPaUi%2FWyuYXqfu9Eu6kvvb3bS1OTi1w%3D&ehkOptimized=wjihHNhKFtDr%2FjNx1P4ow4vB66kS%2BuDMw7IQY1F7OsU%3D",
-      "entrants": 1,
-      "start_time": 1665711000
-    },
     {
       "slug": "tournament/bb-74/event/melee-singles",
       "tournament_name": "BB 74",
@@ -94,7 +46,7 @@
       "tournament_name": "The Shallow End #7 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486828/image-ada0e5f7b2d666bb351751bfc23eb322.jpg?ehk=AwDiWdag1p8bUuLLykm2kQM396Ug8lgJ1kONh%2FDhOAM%3D&ehkOptimized=BntrJprKwiw%2Fb9mJwsb4iZYSYIkIgexEGNwvlJMsaeY%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1665794700
     },
     {
@@ -214,7 +166,7 @@
       "tournament_name": "FragFest Fall 2022",
       "event_name": "Frag Fest Fall 2022: Super Smash Bros. Melee Singles LAN Tournament, Sponsored by HyperX",
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1666396800
     },
     {
