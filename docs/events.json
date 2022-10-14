@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665714416,
+  "fetched_at": 1665722033,
   "data": [
     {
       "slug": "tournament/bb-74/event/melee-singles",
       "tournament_name": "BB 74",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487940/image-a450554c70e792aa0dfde6774fd93d11.jpg?ehk=La0t5pCisumFfvxQvArPK2L037lBMVnE0O%2FspL8bYjQ%3D&ehkOptimized=1sGKM2Rl7Z6jco7JMvspr4wvdjpm0I4z0qSqjpUKsdc%3D",
-      "entrants": 12,
+      "entrants": 14,
       "start_time": 1665730800
     },
     {
@@ -154,6 +154,14 @@
       "start_time": 1666285200
     },
     {
+      "slug": "tournament/only-noobs-89/event/melee-singles",
+      "tournament_name": "Only Noobs 89",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/488420/image-22f7af679f6c33f4d19ac5c1a5fef4c7.jpg?ehk=1LzoHmGopRRtxffgR4SWBAiSNXE8o1fSc%2BotzaGbKzU%3D&ehkOptimized=IGMpJe5uK7WnJ6q8vk5uPzzjKwcUDsurKa3I41Or%2B2g%3D",
+      "entrants": 0,
+      "start_time": 1666306800
+    },
+    {
       "slug": "tournament/seamus-birthday-bash/event/melee-singles",
       "tournament_name": "Seamus' Birthday Bash",
       "event_name": "Melee Singles",
@@ -166,7 +174,7 @@
       "tournament_name": "FragFest Fall 2022",
       "event_name": "Frag Fest Fall 2022: Super Smash Bros. Melee Singles LAN Tournament, Sponsored by HyperX",
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1666396800
     },
     {
