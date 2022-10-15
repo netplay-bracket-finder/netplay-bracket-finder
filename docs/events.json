@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665791443,
+  "fetched_at": 1665800460,
   "data": [
     {
       "slug": "tournament/caf-43/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Input 1: New Mexico Slippi Weekly #6",
       "event_name": "Slippi Ladder",
       "image": "https://images.start.gg/images/tournament/488313/image-5e8a7985169701ba4b6cee566890801c.png?ehk=daJ1CL5ahZmrp%2B3Q6NpR9PlOr1JJxCaCaheR%2FVLzlJE%3D&ehkOptimized=yMnnOaPHZ0m6r8gE%2BPEiC4PH4ihPvGe3xvp0kTBWnxw%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1665784800
     },
     {
@@ -34,27 +34,19 @@
       "start_time": 1665792000
     },
     {
-      "slug": "tournament/fgc-friday-12-hosted-by-solar-esports/event/melee-singles",
-      "tournament_name": "FGC Friday #12 Hosted by Solar Esports",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/488314/image-b2fb67718d6362e96fde3f3b51eac16a.png?ehk=YoePoJRFdSGxt%2B9YpqiOKXFyy5hMyQElGAqFGss%2FyoE%3D&ehkOptimized=P%2B09M6Agjbgj%2BNVncYKBBBNyRDWiJK0elEqdMc4vP%2Fk%3D",
-      "entrants": 1,
-      "start_time": 1665792000
-    },
-    {
-      "slug": "tournament/the-shallow-end-7-a-wc-newbie-bracket/event/melee-singles",
-      "tournament_name": "The Shallow End #7 - a WC newbie bracket",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/486828/image-ada0e5f7b2d666bb351751bfc23eb322.jpg?ehk=AwDiWdag1p8bUuLLykm2kQM396Ug8lgJ1kONh%2FDhOAM%3D&ehkOptimized=BntrJprKwiw%2Fb9mJwsb4iZYSYIkIgexEGNwvlJMsaeY%3D",
-      "entrants": 14,
-      "start_time": 1665794700
+      "slug": "tournament/ggs-too-sleepy-27/event/sleepy-singles",
+      "tournament_name": "ggs too sleepy #27",
+      "event_name": "sleepy singles",
+      "image": "https://images.start.gg/images/tournament/488645/image-bcc56af9eaa13750ee240fefe1932638.png?ehk=n759i6J8U7QH675IpZ1%2FYdaAd7R1fExlci9LuuuHjdo%3D&ehkOptimized=6JNjiG9nH9yNsEoXsNNM718qpby7GteSUqtMNR6V3oQ%3D",
+      "entrants": 16,
+      "start_time": 1665804600
     },
     {
       "slug": "tournament/flash-flooding-the-return/event/melee-singles",
       "tournament_name": "Flash Flooding: The Return!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486833/image-f678ed0376e73d17fa2221277f84603d.jpg?ehk=Jnv%2BEFSl767szb12Q7u%2BpyYQBNud5G07ZIQ6lSSBVZI%3D&ehkOptimized=UNe%2Bx1F7wAJYc8yN1Dt6dBYYCqVDN2qhIh3uF1Zrgmo%3D",
-      "entrants": 8,
+      "entrants": 7,
       "start_time": 1665820800
     },
     {
@@ -64,6 +56,14 @@
       "image": "https://images.start.gg/images/tournament/487181/image-bdad76436a3b8198f7c7cd56f055d927.jpg?ehk=jcBjPLzRq6BHyFJtJog3X7NjWs6cD8rxZdaS4Z7XW74%3D&ehkOptimized=EiRGkNiffAMnbXXL6j2M5fH6E6Yl87ZdPnWhASsY2Og%3D",
       "entrants": 10,
       "start_time": 1665844200
+    },
+    {
+      "slug": "tournament/the-battlefields-series-57-1/event/melee-singles",
+      "tournament_name": "The Battlefields Series #57",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/488642/image-4283b21bbab4abe29556e6ebb572e8a5.png?ehk=qZiWGjkt7WaWavMFmMlv9aMwdg1%2Fs6ChOAi0Qp4%2BDaI%3D&ehkOptimized=XGKLLJy1GM4JfgytWyA0nbSdg%2FbbFa1VQs67esLuDHE%3D",
+      "entrants": 1,
+      "start_time": 1665957600
     },
     {
       "slug": "tournament/after-dark-melee/event/after-dark-singles",
@@ -78,7 +78,7 @@
       "tournament_name": "Legs' Le Tournament #53",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486768/image-2f6faeb0c955d6aabfa87054fee90344.png?ehk=L9ODDqNe6GgYDKo6C5%2B%2BmAifeXaYFMAeeHD6LT7C11o%3D&ehkOptimized=1zud3nNz29dMHAJcO6O6JuPIdi2ylE68cKK7AWOf0%2Fs%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1665867600
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "Dorime's Dojo #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487160/image-d0d4abaae582915fd6d0212a7bcb988d.png?ehk=C42Hg3XkFS0ByMPEtIvs0A3SmrQ4TUbywR5gfLGh4o0%3D&ehkOptimized=NpFbuDuJcVtRecQYWDCpkpPXTp2azuR80wz6hsupQjw%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1665936000
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "FragFest Fall 2022",
       "event_name": "Frag Fest Fall 2022: Super Smash Bros. Melee Singles LAN Tournament, Sponsored by HyperX",
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1666396800
     },
     {
@@ -240,6 +240,14 @@
       "image": "https://images.start.gg/images/tournament/483698/image-e47fc25bb6295bc2294fb4ca99f4a380.png?ehk=bpLQDTenm8obQiAbJFJz0HClM6z1phfOUHpr9vijIqY%3D&ehkOptimized=QWAOy%2FEAKA5b9AamhrySVLypn2D1teKMMKsEDlzcDSU%3D",
       "entrants": 1,
       "start_time": 1667084400
+    },
+    {
+      "slug": "tournament/the-smashings/event/melee-smashing",
+      "tournament_name": "The Smashings",
+      "event_name": "Melee Smashing",
+      "image": "https://images.start.gg/images/tournament/443834/image-ee15d1791ad0814c9bb1e642f9144adc.jpg?ehk=YYgjNbN5Fv0w%2BM2izVRSWwNAosQoK1H584y8HWRXaG8%3D&ehkOptimized=ylCuL6ZS8e2QBzMUAIzmSfOunfRKU4MdIVyp041Rpmo%3D",
+      "entrants": 0,
+      "start_time": 1667266200
     },
     {
       "slug": "tournament/cg-melee-monthly-november-2022/event/east-coast",
