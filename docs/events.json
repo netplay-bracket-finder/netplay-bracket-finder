@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665865443,
+  "fetched_at": 1665866827,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-57-1/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/488642/image-4283b21bbab4abe29556e6ebb572e8a5.png?ehk=qZiWGjkt7WaWavMFmMlv9aMwdg1%2Fs6ChOAi0Qp4%2BDaI%3D&ehkOptimized=XGKLLJy1GM4JfgytWyA0nbSdg%2FbbFa1VQs67esLuDHE%3D",
       "entrants": 3,
       "start_time": 1665957600
-    },
-    {
-      "slug": "tournament/legs-le-tournament-53/event/melee-singles",
-      "tournament_name": "Legs' Le Tournament #53",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/486768/image-2f6faeb0c955d6aabfa87054fee90344.png?ehk=L9ODDqNe6GgYDKo6C5%2B%2BmAifeXaYFMAeeHD6LT7C11o%3D&ehkOptimized=1zud3nNz29dMHAJcO6O6JuPIdi2ylE68cKK7AWOf0%2Fs%3D",
-      "entrants": 34,
-      "start_time": 1665867600
     },
     {
       "slug": "tournament/random-melee-character-tournament/event/melee-random-singles",
