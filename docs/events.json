@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665845272,
+  "fetched_at": 1665847406,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-57-1/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Legs' Le Tournament #53",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486768/image-2f6faeb0c955d6aabfa87054fee90344.png?ehk=L9ODDqNe6GgYDKo6C5%2B%2BmAifeXaYFMAeeHD6LT7C11o%3D&ehkOptimized=1zud3nNz29dMHAJcO6O6JuPIdi2ylE68cKK7AWOf0%2Fs%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1665867600
     },
     {
@@ -128,6 +128,14 @@
       "image": "https://images.start.gg/images/tournament/488026/image-ecaa13f22e1bb3e138c673a0ff366268.png?ehk=0UJxPK2MHS1pPWNan5G%2FsUJ3HJFMx41p9Gnw0X5%2F0QM%3D&ehkOptimized=g6ldQ7ys612zW5FkDf1qiXvNP4Ilzg%2FjMks4E6V5yvc%3D",
       "entrants": 4,
       "start_time": 1666137600
+    },
+    {
+      "slug": "tournament/waddle-wednesday-41/event/melee-singles",
+      "tournament_name": "Waddle Wednesday 41",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/488753/image-b79ae217292c970011c60b64530e832d.png?ehk=dz0R7XsAeHh%2FUFbpyoGIUabFoGmAr6h%2F2FBwdONQ55U%3D&ehkOptimized=32VOeg271YwirBQ9A2GFoT5zb0gceXTx9hjny6Qfu1g%3D",
+      "entrants": 0,
+      "start_time": 1666224000
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-35-eu-event/event/melee-singles",
