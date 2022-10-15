@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665827417,
+  "fetched_at": 1665829446,
   "data": [
     {
       "slug": "tournament/quest-for-best-noob-eu-41-a-qfbn-all-star/event/newbie-singles",
       "tournament_name": "Quest for Best Noob EU #41 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/487181/image-bdad76436a3b8198f7c7cd56f055d927.jpg?ehk=jcBjPLzRq6BHyFJtJog3X7NjWs6cD8rxZdaS4Z7XW74%3D&ehkOptimized=EiRGkNiffAMnbXXL6j2M5fH6E6Yl87ZdPnWhASsY2Og%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1665844200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "After Dark Melee",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/488583/image-3ae4314352018f93ebfd07eaff3801e9.png?ehk=fNOtub3jO0lVC5oGWGeUCF33siVd1nnQAfMnLa2hii8%3D&ehkOptimized=6cr%2BUe4ZE7ciQXqvv9t46WbYGeABjjyYXFHnnKkaxkg%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1665864900
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Dorime's Dojo #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487160/image-d0d4abaae582915fd6d0212a7bcb988d.png?ehk=C42Hg3XkFS0ByMPEtIvs0A3SmrQ4TUbywR5gfLGh4o0%3D&ehkOptimized=NpFbuDuJcVtRecQYWDCpkpPXTp2azuR80wz6hsupQjw%3D",
-      "entrants": 7,
+      "entrants": 5,
       "start_time": 1665936000
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Fight of the Fearless 23",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/487732/image-a7ba33d24b52008e1acf9bb5a4a455da.png?ehk=dMfdPErMA%2FwUU6lzlPnrP8flkhS2XmJ7zaFdVhoYqEE%3D&ehkOptimized=J47Wbay9k2SGExgZeuVb7g%2B0ecuFTlyl797YQqsW9X0%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665939600
     },
     {
