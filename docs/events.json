@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665834785,
+  "fetched_at": 1665837666,
   "data": [
     {
       "slug": "tournament/quest-for-best-noob-eu-41-a-qfbn-all-star/event/newbie-singles",
       "tournament_name": "Quest for Best Noob EU #41 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/487181/image-bdad76436a3b8198f7c7cd56f055d927.jpg?ehk=jcBjPLzRq6BHyFJtJog3X7NjWs6cD8rxZdaS4Z7XW74%3D&ehkOptimized=EiRGkNiffAMnbXXL6j2M5fH6E6Yl87ZdPnWhASsY2Og%3D",
-      "entrants": 14,
+      "entrants": 19,
       "start_time": 1665844200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Legs' Le Tournament #53",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486768/image-2f6faeb0c955d6aabfa87054fee90344.png?ehk=L9ODDqNe6GgYDKo6C5%2B%2BmAifeXaYFMAeeHD6LT7C11o%3D&ehkOptimized=1zud3nNz29dMHAJcO6O6JuPIdi2ylE68cKK7AWOf0%2Fs%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1665867600
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Dorime's Dojo #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487160/image-d0d4abaae582915fd6d0212a7bcb988d.png?ehk=C42Hg3XkFS0ByMPEtIvs0A3SmrQ4TUbywR5gfLGh4o0%3D&ehkOptimized=NpFbuDuJcVtRecQYWDCpkpPXTp2azuR80wz6hsupQjw%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1665936000
     },
     {
