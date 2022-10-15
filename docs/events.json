@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665800460,
+  "fetched_at": 1665807799,
   "data": [
     {
       "slug": "tournament/caf-43/event/melee-singles",
@@ -38,7 +38,7 @@
       "tournament_name": "ggs too sleepy #27",
       "event_name": "sleepy singles",
       "image": "https://images.start.gg/images/tournament/488645/image-bcc56af9eaa13750ee240fefe1932638.png?ehk=n759i6J8U7QH675IpZ1%2FYdaAd7R1fExlci9LuuuHjdo%3D&ehkOptimized=6JNjiG9nH9yNsEoXsNNM718qpby7GteSUqtMNR6V3oQ%3D",
-      "entrants": 16,
+      "entrants": 47,
       "start_time": 1665804600
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Flash Flooding: The Return!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486833/image-f678ed0376e73d17fa2221277f84603d.jpg?ehk=Jnv%2BEFSl767szb12Q7u%2BpyYQBNud5G07ZIQ6lSSBVZI%3D&ehkOptimized=UNe%2Bx1F7wAJYc8yN1Dt6dBYYCqVDN2qhIh3uF1Zrgmo%3D",
-      "entrants": 7,
+      "entrants": 9,
       "start_time": 1665820800
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Legs' Le Tournament #53",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486768/image-2f6faeb0c955d6aabfa87054fee90344.png?ehk=L9ODDqNe6GgYDKo6C5%2B%2BmAifeXaYFMAeeHD6LT7C11o%3D&ehkOptimized=1zud3nNz29dMHAJcO6O6JuPIdi2ylE68cKK7AWOf0%2Fs%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1665867600
     },
     {
@@ -152,6 +152,14 @@
       "image": "https://images.start.gg/images/tournament/488043/image-1f98e7cbc2a80147806e3086be793438.jpg?ehk=3CyaPY0Ekd1DI0xQ2Z4ynAXacOlQoEnkMfuuaCg0hag%3D&ehkOptimized=PL6xs5V0vR%2F7MAtj4hVPfL8MC%2B8gZLmUhSom6KpgfBw%3D",
       "entrants": 2,
       "start_time": 1666054800
+    },
+    {
+      "slug": "tournament/sketchy-series-2-the-second-one/event/melee-singles",
+      "tournament_name": "Sketchy Series 2: The Second One",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/488671/image-dcba02a70eb4a60883b4692fe6f7fb87.png?ehk=0rQNO7j7ACOgtEr8lKvx0tNJjDyTQiN%2Fz%2FWPXyk3ulw%3D&ehkOptimized=kZ8oG35HDZYC%2FaZFnHBgegJJ20ANtCmo432jSi93s1w%3D",
+      "entrants": 0,
+      "start_time": 1666134000
     },
     {
       "slug": "tournament/cataquackdown-13-no-shot-dude/event/melee-singles",
@@ -240,14 +248,6 @@
       "image": "https://images.start.gg/images/tournament/483698/image-e47fc25bb6295bc2294fb4ca99f4a380.png?ehk=bpLQDTenm8obQiAbJFJz0HClM6z1phfOUHpr9vijIqY%3D&ehkOptimized=QWAOy%2FEAKA5b9AamhrySVLypn2D1teKMMKsEDlzcDSU%3D",
       "entrants": 1,
       "start_time": 1667084400
-    },
-    {
-      "slug": "tournament/the-smashings/event/melee-smashing",
-      "tournament_name": "The Smashings",
-      "event_name": "Melee Smashing",
-      "image": "https://images.start.gg/images/tournament/443834/image-ee15d1791ad0814c9bb1e642f9144adc.jpg?ehk=YYgjNbN5Fv0w%2BM2izVRSWwNAosQoK1H584y8HWRXaG8%3D&ehkOptimized=ylCuL6ZS8e2QBzMUAIzmSfOunfRKU4MdIVyp041Rpmo%3D",
-      "entrants": 0,
-      "start_time": 1667266200
     },
     {
       "slug": "tournament/cg-melee-monthly-november-2022/event/east-coast",
