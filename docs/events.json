@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665847406,
+  "fetched_at": 1665848938,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-57-1/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "After Dark Melee",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/488583/image-3ae4314352018f93ebfd07eaff3801e9.png?ehk=fNOtub3jO0lVC5oGWGeUCF33siVd1nnQAfMnLa2hii8%3D&ehkOptimized=6cr%2BUe4ZE7ciQXqvv9t46WbYGeABjjyYXFHnnKkaxkg%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1665864900
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Legs' Le Tournament #53",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486768/image-2f6faeb0c955d6aabfa87054fee90344.png?ehk=L9ODDqNe6GgYDKo6C5%2B%2BmAifeXaYFMAeeHD6LT7C11o%3D&ehkOptimized=1zud3nNz29dMHAJcO6O6JuPIdi2ylE68cKK7AWOf0%2Fs%3D",
-      "entrants": 11,
+      "entrants": 14,
       "start_time": 1665867600
     },
     {
@@ -72,6 +72,14 @@
       "image": "https://images.start.gg/images/tournament/486836/image-04714f256f2199bd06ce23297e22e732.png?ehk=xsT8KGBm7BpSTnbYV7sXK5kgnMFjZ470VKCto24ygUk%3D&ehkOptimized=9B2FI0fXADbeTfp0if1KH8gy7hfXV7iByApmXEoLzsA%3D",
       "entrants": 0,
       "start_time": 1665963000
+    },
+    {
+      "slug": "tournament/no-melee-on-sundays-13/event/melee-singles",
+      "tournament_name": "No Melee on Sundays 13",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/488763/image-9cd50a98425be06dd022943046aff9d4.png?ehk=6pSasivrfSSebg52rEeeNfIzafO06%2BMElEtns0f6t8I%3D&ehkOptimized=JNXQx6ehYeh6S7LEh7qLFN%2FuBeNAzouontn1kP2MxfY%3D",
+      "entrants": 0,
+      "start_time": 1665964800
     },
     {
       "slug": "tournament/scss-west-coast-79/event/melee-singles",
