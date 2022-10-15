@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665876368,
+  "fetched_at": 1665877842,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-57-1/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/488642/image-4283b21bbab4abe29556e6ebb572e8a5.png?ehk=qZiWGjkt7WaWavMFmMlv9aMwdg1%2Fs6ChOAi0Qp4%2BDaI%3D&ehkOptimized=XGKLLJy1GM4JfgytWyA0nbSdg%2FbbFa1VQs67esLuDHE%3D",
       "entrants": 5,
       "start_time": 1665957600
-    },
-    {
-      "slug": "tournament/siddwardtourney/event/melee-singles",
-      "tournament_name": "siddwardtourney",
-      "event_name": "melee singles",
-      "image": "https://images.start.gg/images/tournament/488861/image-3230cd3c81556ac8a02b2b5320c9ff9f.png?ehk=BNvLHiQsyJg3CFhGVgtiZeyMhg4c6LpVNaQtId%2Be1lo%3D&ehkOptimized=pkXsCcxrDn429JEZ48pOzsPQq5sUbekvH9jFB7UkyF4%3D",
-      "entrants": 15,
-      "start_time": 1665878400
     },
     {
       "slug": "tournament/random-melee-character-tournament/event/melee-random-singles",
@@ -70,7 +62,7 @@
       "tournament_name": "No Melee on Sundays 13",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488763/image-9cd50a98425be06dd022943046aff9d4.png?ehk=6pSasivrfSSebg52rEeeNfIzafO06%2BMElEtns0f6t8I%3D&ehkOptimized=JNXQx6ehYeh6S7LEh7qLFN%2FuBeNAzouontn1kP2MxfY%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665964800
     },
     {
