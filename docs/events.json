@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1665817220,
+  "fetched_at": 1665820429,
   "data": [
-    {
-      "slug": "tournament/flash-flooding-the-return/event/melee-singles",
-      "tournament_name": "Flash Flooding: The Return!",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/486833/image-f678ed0376e73d17fa2221277f84603d.jpg?ehk=Jnv%2BEFSl767szb12Q7u%2BpyYQBNud5G07ZIQ6lSSBVZI%3D&ehkOptimized=UNe%2Bx1F7wAJYc8yN1Dt6dBYYCqVDN2qhIh3uF1Zrgmo%3D",
-      "entrants": 16,
-      "start_time": 1665820800
-    },
     {
       "slug": "tournament/quest-for-best-noob-eu-41-a-qfbn-all-star/event/newbie-singles",
       "tournament_name": "Quest for Best Noob EU #41 A QFBN All Star Summit Qualifier Event",
@@ -30,7 +22,7 @@
       "tournament_name": "After Dark Melee",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/488583/image-3ae4314352018f93ebfd07eaff3801e9.png?ehk=fNOtub3jO0lVC5oGWGeUCF33siVd1nnQAfMnLa2hii8%3D&ehkOptimized=6cr%2BUe4ZE7ciQXqvv9t46WbYGeABjjyYXFHnnKkaxkg%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1665864900
     },
     {
