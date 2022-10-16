@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665955194,
+  "fetched_at": 1665956691,
   "data": [
     {
       "slug": "tournament/kalvar-cup-65/event/melee-singles",
       "tournament_name": "Kalvar Cup #65",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489038/image-bb08d58ed18e7d83239a8cb1f9007b8f.png?ehk=nQxCVGlyN3R2hzPbKko%2FH1cmboZUrj4QpUrJO9Npaus%3D&ehkOptimized=add7WYDJskx2pImKEip6PEtQ59%2Fyg3n1wHpUi5u5eSE%3D",
-      "entrants": 1,
+      "entrants": 4,
       "start_time": 1665961260
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "SCSS East Coast #90",
       "event_name": "SCSS Singles",
       "image": "https://images.start.gg/images/tournament/486836/image-04714f256f2199bd06ce23297e22e732.png?ehk=xsT8KGBm7BpSTnbYV7sXK5kgnMFjZ470VKCto24ygUk%3D&ehkOptimized=9B2FI0fXADbeTfp0if1KH8gy7hfXV7iByApmXEoLzsA%3D",
-      "entrants": 13,
+      "entrants": 16,
       "start_time": 1665963000
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Pino's Tired of 0-2 #94!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/488981/image-88dbd94fce28fb7d45a8a419c01cfdec.jpg?ehk=%2BYV%2BkxXN4JCbfnhvNZGiPQWQcxFKvQpWb1etdSxDm2w%3D&ehkOptimized=J%2FIiV5%2Bj2k5P1OKPwSWXoveLc8f%2Fi8jF9u5hQyBhOxk%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1666044000
     },
     {
