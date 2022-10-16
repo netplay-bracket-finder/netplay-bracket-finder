@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665931681,
+  "fetched_at": 1665933806,
   "data": [
     {
       "slug": "tournament/fight-of-the-fearless-23/event/fight-of-the-fearless-single",
       "tournament_name": "Fight of the Fearless 23",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/487732/image-a7ba33d24b52008e1acf9bb5a4a455da.png?ehk=dMfdPErMA%2FwUU6lzlPnrP8flkhS2XmJ7zaFdVhoYqEE%3D&ehkOptimized=J47Wbay9k2SGExgZeuVb7g%2B0ecuFTlyl797YQqsW9X0%3D",
-      "entrants": 14,
+      "entrants": 16,
       "start_time": 1665939600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "SCSS East Coast #90",
       "event_name": "SCSS Singles",
       "image": "https://images.start.gg/images/tournament/486836/image-04714f256f2199bd06ce23297e22e732.png?ehk=xsT8KGBm7BpSTnbYV7sXK5kgnMFjZ470VKCto24ygUk%3D&ehkOptimized=9B2FI0fXADbeTfp0if1KH8gy7hfXV7iByApmXEoLzsA%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1665963000
     },
     {
