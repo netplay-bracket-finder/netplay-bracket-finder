@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665933806,
+  "fetched_at": 1665935368,
   "data": [
     {
       "slug": "tournament/fight-of-the-fearless-23/event/fight-of-the-fearless-single",
@@ -32,6 +32,14 @@
       "image": "https://images.start.gg/images/tournament/486837/image-f90cf433088c5c55aa0e68f676ae1516.png?ehk=SYBQJlrRD4mM0tUWumIswM7BW6X%2BCXsU1o27E%2B6stuk%3D&ehkOptimized=i1E9LgjKXKPoSaXeQ5C%2BCgd16Hs3IVunyS0x39JnnAw%3D",
       "entrants": 0,
       "start_time": 1665966600
+    },
+    {
+      "slug": "tournament/pino-s-tired-of-0-2-94/event/tired-of-0-2",
+      "tournament_name": "Pino's Tired of 0-2 #94!",
+      "event_name": "Tired of 0-2?",
+      "image": "https://images.start.gg/images/tournament/488981/image-88dbd94fce28fb7d45a8a419c01cfdec.jpg?ehk=%2BYV%2BkxXN4JCbfnhvNZGiPQWQcxFKvQpWb1etdSxDm2w%3D&ehkOptimized=J%2FIiV5%2Bj2k5P1OKPwSWXoveLc8f%2Fi8jF9u5hQyBhOxk%3D",
+      "entrants": 1,
+      "start_time": 1666044000
     },
     {
       "slug": "tournament/coast-to-coast-doubles-3/event/wc-doubles",
