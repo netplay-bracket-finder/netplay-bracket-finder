@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665949880,
+  "fetched_at": 1665951865,
   "data": [
     {
       "slug": "tournament/scss-east-coast-90/event/scss-singles",
       "tournament_name": "SCSS East Coast #90",
       "event_name": "SCSS Singles",
       "image": "https://images.start.gg/images/tournament/486836/image-04714f256f2199bd06ce23297e22e732.png?ehk=xsT8KGBm7BpSTnbYV7sXK5kgnMFjZ470VKCto24ygUk%3D&ehkOptimized=9B2FI0fXADbeTfp0if1KH8gy7hfXV7iByApmXEoLzsA%3D",
-      "entrants": 7,
+      "entrants": 9,
       "start_time": 1665963000
     },
     {
@@ -24,6 +24,14 @@
       "image": "https://images.start.gg/images/tournament/486837/image-f90cf433088c5c55aa0e68f676ae1516.png?ehk=SYBQJlrRD4mM0tUWumIswM7BW6X%2BCXsU1o27E%2B6stuk%3D&ehkOptimized=i1E9LgjKXKPoSaXeQ5C%2BCgd16Hs3IVunyS0x39JnnAw%3D",
       "entrants": 0,
       "start_time": 1665966600
+    },
+    {
+      "slug": "tournament/monday-night-mixup-34/event/melee-singles",
+      "tournament_name": "Monday Night Mixup #34",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/489063/image-4b3ac194d8667483cb97362b0787e449.png?ehk=H3cbnELt%2F0p9qzicbhyTHw6%2FCYZUIREOcmX7NqRwI6c%3D&ehkOptimized=F4UHGQFUx%2FKcvREMHiPhwV7C5XRyQTbgQADdCHsPO64%3D",
+      "entrants": 0,
+      "start_time": 1666029600
     },
     {
       "slug": "tournament/pino-s-tired-of-0-2-94/event/tired-of-0-2",
@@ -62,7 +70,7 @@
       "tournament_name": "Spudfest 40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488043/image-1f98e7cbc2a80147806e3086be793438.jpg?ehk=3CyaPY0Ekd1DI0xQ2Z4ynAXacOlQoEnkMfuuaCg0hag%3D&ehkOptimized=PL6xs5V0vR%2F7MAtj4hVPfL8MC%2B8gZLmUhSom6KpgfBw%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1666054800
     },
     {
