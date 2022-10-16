@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1665903066,
+  "fetched_at": 1665906318,
   "data": [
-    {
-      "slug": "tournament/the-battlefields-series-57-1/event/melee-singles",
-      "tournament_name": "The Battlefields Series #57",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/488642/image-4283b21bbab4abe29556e6ebb572e8a5.png?ehk=qZiWGjkt7WaWavMFmMlv9aMwdg1%2Fs6ChOAi0Qp4%2BDaI%3D&ehkOptimized=XGKLLJy1GM4JfgytWyA0nbSdg%2FbbFa1VQs67esLuDHE%3D",
-      "entrants": 5,
-      "start_time": 1665957600
-    },
     {
       "slug": "tournament/eli-s-weekly-low-tier-spanking-26/event/eli-s-weekly-low-tier-spanking-15",
       "tournament_name": "Eli's Weekly Low Tier Spanking 26",
@@ -182,7 +174,7 @@
       "tournament_name": "FragFest Fall 2022",
       "event_name": "Frag Fest Fall 2022: Super Smash Bros. Melee Singles LAN Tournament, Sponsored by HyperX",
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
-      "entrants": 23,
+      "entrants": 27,
       "start_time": 1666396800
     },
     {
