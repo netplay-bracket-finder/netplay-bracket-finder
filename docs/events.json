@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1665956691,
+  "fetched_at": 1665957376,
   "data": [
     {
       "slug": "tournament/kalvar-cup-65/event/melee-singles",
       "tournament_name": "Kalvar Cup #65",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489038/image-bb08d58ed18e7d83239a8cb1f9007b8f.png?ehk=nQxCVGlyN3R2hzPbKko%2FH1cmboZUrj4QpUrJO9Npaus%3D&ehkOptimized=add7WYDJskx2pImKEip6PEtQ59%2Fyg3n1wHpUi5u5eSE%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1665961260
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "No Melee on Sundays 13",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488763/image-9cd50a98425be06dd022943046aff9d4.png?ehk=6pSasivrfSSebg52rEeeNfIzafO06%2BMElEtns0f6t8I%3D&ehkOptimized=JNXQx6ehYeh6S7LEh7qLFN%2FuBeNAzouontn1kP2MxfY%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1665964800
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "SCSS West Coast #79",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486837/image-f90cf433088c5c55aa0e68f676ae1516.png?ehk=SYBQJlrRD4mM0tUWumIswM7BW6X%2BCXsU1o27E%2B6stuk%3D&ehkOptimized=i1E9LgjKXKPoSaXeQ5C%2BCgd16Hs3IVunyS0x39JnnAw%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1665966600
     },
     {
@@ -120,6 +120,14 @@
       "image": "https://images.start.gg/images/tournament/489050/image-6b26bdd4ceab83dfb880f0d085bbf2ce.png?ehk=MtUZfU6c6zve0UxOLxNjsTpxlE%2BSfXR9RyzOCkS%2BB3g%3D&ehkOptimized=o%2BrRX1z282yi2Tbin7CUiea0glTvK8G3b6ZMrBCOxrs%3D",
       "entrants": 0,
       "start_time": 1666200600
+    },
+    {
+      "slug": "tournament/galaxy-gladiators-17-solar-circuit-qualifier/event/melee-singles",
+      "tournament_name": "Galaxy Gladiators #17 (Solar Circuit Qualifier)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/489006/image-ab5fd74cb1dbe7b26f498b6905b3d707.png?ehk=nPa9GJqhc%2FEvBiNpydoXSw5%2BnvuVkPah3ClfXtoG5hA%3D&ehkOptimized=CqWsjlo4PFhjYFCxWtFYjGjQc6E4Zhrk6AABGuKt%2BKI%3D",
+      "entrants": 0,
+      "start_time": 1666224000
     },
     {
       "slug": "tournament/waddle-wednesday-41/event/melee-singles",
