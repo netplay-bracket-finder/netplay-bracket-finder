@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1665962783,
+  "fetched_at": 1665964288,
   "data": [
-    {
-      "slug": "tournament/no-melee-on-sundays-13/event/melee-singles",
-      "tournament_name": "No Melee on Sundays 13",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/488763/image-9cd50a98425be06dd022943046aff9d4.png?ehk=6pSasivrfSSebg52rEeeNfIzafO06%2BMElEtns0f6t8I%3D&ehkOptimized=JNXQx6ehYeh6S7LEh7qLFN%2FuBeNAzouontn1kP2MxfY%3D",
-      "entrants": 20,
-      "start_time": 1665964800
-    },
     {
       "slug": "tournament/scss-west-coast-79/event/melee-singles",
       "tournament_name": "SCSS West Coast #79",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/486837/image-f90cf433088c5c55aa0e68f676ae1516.png?ehk=SYBQJlrRD4mM0tUWumIswM7BW6X%2BCXsU1o27E%2B6stuk%3D&ehkOptimized=i1E9LgjKXKPoSaXeQ5C%2BCgd16Hs3IVunyS0x39JnnAw%3D",
-      "entrants": 5,
+      "entrants": 4,
       "start_time": 1665966600
     },
     {
