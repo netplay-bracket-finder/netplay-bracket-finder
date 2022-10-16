@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665877842,
+  "fetched_at": 1665887238,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-57-1/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/488642/image-4283b21bbab4abe29556e6ebb572e8a5.png?ehk=qZiWGjkt7WaWavMFmMlv9aMwdg1%2Fs6ChOAi0Qp4%2BDaI%3D&ehkOptimized=XGKLLJy1GM4JfgytWyA0nbSdg%2FbbFa1VQs67esLuDHE%3D",
       "entrants": 5,
       "start_time": 1665957600
-    },
-    {
-      "slug": "tournament/random-melee-character-tournament/event/melee-random-singles",
-      "tournament_name": "Random Melee Character Tournament",
-      "event_name": "Melee Random Singles",
-      "image": "https://images.start.gg/images/tournament/487710/image-28c3954cb20f5b10ee08facd7d86c935.png?ehk=kFGEU0hDGPlVXPgbG%2FBm1XAuUsQgujHybsD2mE24FcE%3D&ehkOptimized=SBcaYXoRiYumT9%2F%2BV0U06MbMn8I8EgK5Pp%2BVJsQK05Q%3D",
-      "entrants": 1,
-      "start_time": 1665885600
     },
     {
       "slug": "tournament/eli-s-weekly-low-tier-spanking-26/event/eli-s-weekly-low-tier-spanking-15",
@@ -120,6 +112,22 @@
       "image": "https://images.start.gg/images/tournament/488026/image-ecaa13f22e1bb3e138c673a0ff366268.png?ehk=0UJxPK2MHS1pPWNan5G%2FsUJ3HJFMx41p9Gnw0X5%2F0QM%3D&ehkOptimized=g6ldQ7ys612zW5FkDf1qiXvNP4Ilzg%2FjMks4E6V5yvc%3D",
       "entrants": 4,
       "start_time": 1666137600
+    },
+    {
+      "slug": "tournament/level-one-melee-48-a-noob-only-tournament/event/amateur-melee-singles",
+      "tournament_name": "Level One Melee #48 - a noob-only tournament",
+      "event_name": "Amateur Melee Singles",
+      "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
+      "entrants": 0,
+      "start_time": 1666141200
+    },
+    {
+      "slug": "tournament/level-one-melee-48-a-noob-only-tournament/event/main-melee-singles",
+      "tournament_name": "Level One Melee #48 - a noob-only tournament",
+      "event_name": "Main Melee Singles",
+      "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
+      "entrants": 0,
+      "start_time": 1666141200
     },
     {
       "slug": "tournament/waddle-wednesday-41/event/melee-singles",
