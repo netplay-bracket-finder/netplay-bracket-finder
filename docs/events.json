@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1665999281,
+  "fetched_at": 1666001029,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-34/event/melee-singles",
@@ -66,6 +66,14 @@
       "start_time": 1666054800
     },
     {
+      "slug": "tournament/tuesday-night-fever-3/event/melee-singles",
+      "tournament_name": "Tuesday Night Fever #3",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/487927/image-dcaabfbcbc937fe37161334ca38c46c4.png?ehk=GNSXaxbszIVenWXhVTtROs3OyJj%2Bi7w3Curx5ch2zho%3D&ehkOptimized=eMjH0ybYzuTWjMgyiHbrry60ex7zy%2FVTbAw%2FxB1a0%2B0%3D",
+      "entrants": 0,
+      "start_time": 1666116000
+    },
+    {
       "slug": "tournament/sketchy-series-2-the-second-one/event/melee-singles",
       "tournament_name": "Sketchy Series 2: The Second One",
       "event_name": "Melee Singles",
@@ -104,6 +112,14 @@
       "image": "https://images.start.gg/images/tournament/489022/image-c47a4a2e61d88c4955be18d0900069ed.png?ehk=jbm%2BEtUIm3rlUgyEgjVU5quhH3d8aMgS%2FmAo0MFuNSM%3D&ehkOptimized=x4xURsRRlhdsEdKfanp6xgbinWAaI0WDBMrn8%2Bbl56I%3D",
       "entrants": 0,
       "start_time": 1666054800
+    },
+    {
+      "slug": "tournament/sux-2-shine-online-6/event/sux-2-shine-online-6",
+      "tournament_name": "Sux 2 Shine Online: 6!",
+      "event_name": "Sux 2 Shine Online: 6!",
+      "image": "https://images.start.gg/images/tournament/487876/image-ff05d57ee2eafbbc2b817360d3bd4ed8.png?ehk=pMYpF3W9P54QvRKaZztbNhNYsLsU5jJ7HYp9t7pKylY%3D&ehkOptimized=6Gi2VbS8KV%2FA5smedaznegBVCFD%2BiMQBFt01uRpK4to%3D",
+      "entrants": 0,
+      "start_time": 1666164600
     },
     {
       "slug": "tournament/the-dairy-farm-5/event/melee-singles",
