@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666018111,
+  "fetched_at": 1666020516,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-34/event/melee-singles",
       "tournament_name": "Monday Night Mixup #34",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489063/image-4b3ac194d8667483cb97362b0787e449.png?ehk=H3cbnELt%2F0p9qzicbhyTHw6%2FCYZUIREOcmX7NqRwI6c%3D&ehkOptimized=F4UHGQFUx%2FKcvREMHiPhwV7C5XRyQTbgQADdCHsPO64%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1666029600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Pino's Tired of 0-2 #94!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/488981/image-88dbd94fce28fb7d45a8a419c01cfdec.jpg?ehk=%2BYV%2BkxXN4JCbfnhvNZGiPQWQcxFKvQpWb1etdSxDm2w%3D&ehkOptimized=J%2FIiV5%2Bj2k5P1OKPwSWXoveLc8f%2Fi8jF9u5hQyBhOxk%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1666044000
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Spudfest 40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488043/image-1f98e7cbc2a80147806e3086be793438.jpg?ehk=3CyaPY0Ekd1DI0xQ2Z4ynAXacOlQoEnkMfuuaCg0hag%3D&ehkOptimized=PL6xs5V0vR%2F7MAtj4hVPfL8MC%2B8gZLmUhSom6KpgfBw%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1666054800
     },
     {
@@ -142,6 +142,14 @@
       "tournament_name": "Waddle Wednesday 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488753/image-b79ae217292c970011c60b64530e832d.png?ehk=dz0R7XsAeHh%2FUFbpyoGIUabFoGmAr6h%2F2FBwdONQ55U%3D&ehkOptimized=32VOeg271YwirBQ9A2GFoT5zb0gceXTx9hjny6Qfu1g%3D",
+      "entrants": 0,
+      "start_time": 1666224000
+    },
+    {
+      "slug": "tournament/cute-melee-week-6/event/melee-singles",
+      "tournament_name": "Cute Melee: Week 6",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/489217/image-c0f0e6254f97d9b61fa2d9b0b905fa56.png?ehk=BDSNj1lzhCgUdZkAHodRnf8RCabbUcStWi9B%2FbnQGTc%3D&ehkOptimized=Rpqd1yL5R6XLVSOE7ZoogPmoDa48LdPhqjT9yKXViQE%3D",
       "entrants": 0,
       "start_time": 1666224000
     },
