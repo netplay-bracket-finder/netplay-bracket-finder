@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1665964288,
+  "fetched_at": 1665973767,
   "data": [
-    {
-      "slug": "tournament/scss-west-coast-79/event/melee-singles",
-      "tournament_name": "SCSS West Coast #79",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/486837/image-f90cf433088c5c55aa0e68f676ae1516.png?ehk=SYBQJlrRD4mM0tUWumIswM7BW6X%2BCXsU1o27E%2B6stuk%3D&ehkOptimized=i1E9LgjKXKPoSaXeQ5C%2BCgd16Hs3IVunyS0x39JnnAw%3D",
-      "entrants": 4,
-      "start_time": 1665966600
-    },
     {
       "slug": "tournament/monday-night-mixup-34/event/melee-singles",
       "tournament_name": "Monday Night Mixup #34",
@@ -18,11 +10,19 @@
       "start_time": 1666029600
     },
     {
+      "slug": "tournament/slippi-sauce-70/event/melee-singles",
+      "tournament_name": "Slippi Sauce #70 🐸",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/489160/image-8efe521f4452f1b104d4f9dae028da28.png?ehk=43NA8XJHGrAfmugHLrZyF5%2Fkv45CJ1aUWnfFNHZrd0c%3D&ehkOptimized=hlqxeYMiAM5yBBaIb9DdoAKxPsBKkYGFOM4cemfARsU%3D",
+      "entrants": 2,
+      "start_time": 1666044000
+    },
+    {
       "slug": "tournament/pino-s-tired-of-0-2-94/event/tired-of-0-2",
       "tournament_name": "Pino's Tired of 0-2 #94!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/488981/image-88dbd94fce28fb7d45a8a419c01cfdec.jpg?ehk=%2BYV%2BkxXN4JCbfnhvNZGiPQWQcxFKvQpWb1etdSxDm2w%3D&ehkOptimized=J%2FIiV5%2Bj2k5P1OKPwSWXoveLc8f%2Fi8jF9u5hQyBhOxk%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1666044000
     },
     {
@@ -88,6 +88,14 @@
       "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
       "entrants": 0,
       "start_time": 1666141200
+    },
+    {
+      "slug": "tournament/in-the-garden/event/melee-singles",
+      "tournament_name": "In The Garden",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/489022/image-c47a4a2e61d88c4955be18d0900069ed.png?ehk=jbm%2BEtUIm3rlUgyEgjVU5quhH3d8aMgS%2FmAo0MFuNSM%3D&ehkOptimized=x4xURsRRlhdsEdKfanp6xgbinWAaI0WDBMrn8%2Bbl56I%3D",
+      "entrants": 0,
+      "start_time": 1666054800
     },
     {
       "slug": "tournament/the-dairy-farm-5/event/melee-singles",
@@ -158,7 +166,7 @@
       "tournament_name": "FragFest Fall 2022",
       "event_name": "FragFest Fall 2022: Super Smash Bros. Melee Singles LAN Tournament, Sponsored by HyperX",
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
-      "entrants": 35,
+      "entrants": 36,
       "start_time": 1666396800
     },
     {
