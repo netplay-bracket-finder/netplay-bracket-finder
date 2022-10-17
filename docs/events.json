@@ -1,29 +1,21 @@
 {
-  "fetched_at": 1666043185,
+  "fetched_at": 1666045453,
   "data": [
-    {
-      "slug": "tournament/slippi-sauce-70/event/melee-singles",
-      "tournament_name": "Slippi Sauce #70 🐸",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/489160/image-8efe521f4452f1b104d4f9dae028da28.png?ehk=43NA8XJHGrAfmugHLrZyF5%2Fkv45CJ1aUWnfFNHZrd0c%3D&ehkOptimized=hlqxeYMiAM5yBBaIb9DdoAKxPsBKkYGFOM4cemfARsU%3D",
-      "entrants": 33,
-      "start_time": 1666044000
-    },
     {
       "slug": "tournament/pino-s-tired-of-0-2-94/event/tired-of-0-2",
       "tournament_name": "Pino's Tired of 0-2 #94!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/488981/image-88dbd94fce28fb7d45a8a419c01cfdec.jpg?ehk=%2BYV%2BkxXN4JCbfnhvNZGiPQWQcxFKvQpWb1etdSxDm2w%3D&ehkOptimized=J%2FIiV5%2Bj2k5P1OKPwSWXoveLc8f%2Fi8jF9u5hQyBhOxk%3D",
-      "entrants": 44,
+      "entrants": 55,
       "start_time": 1666044000
     },
     {
-      "slug": "tournament/super-smash-bong-68/event/melee-singles",
-      "tournament_name": "Super Smash Bong #68",
-      "event_name": "Melee singles",
-      "image": "https://images.start.gg/images/tournament/489198/image-bbb4bb7c8036d159a5ffb7abc3a79931.jpg?ehk=KbJyDlgpWUmTLtrwr%2Fw6wxQRKfpcVSiC3N2%2BnmvcN8M%3D&ehkOptimized=sB%2BQUALTBipJGMnlL71A6TKibbpx4Byh6EVZiCZRPmc%3D",
-      "entrants": 15,
-      "start_time": 1666045860
+      "slug": "tournament/coast-to-coast-doubles-3/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 3",
+      "event_name": "EC Doubles",
+      "image": "https://images.start.gg/images/tournament/487522/image-b71ee1e01bc1129e99d4443893d4a35d.png?ehk=qisvHgSWnmYu8KG%2BEQ5z%2BI1K459kAzRSTIVS4ahh7pI%3D&ehkOptimized=t98JsjJ7H9BQOFCyhZ2l31ldO27aQdfcSoh9gSi9TX8%3D",
+      "entrants": 4,
+      "start_time": 1666047600
     },
     {
       "slug": "tournament/coast-to-coast-doubles-3/event/wc-doubles",
@@ -31,14 +23,6 @@
       "event_name": "WC Doubles",
       "image": "https://images.start.gg/images/tournament/487522/image-b71ee1e01bc1129e99d4443893d4a35d.png?ehk=qisvHgSWnmYu8KG%2BEQ5z%2BI1K459kAzRSTIVS4ahh7pI%3D&ehkOptimized=t98JsjJ7H9BQOFCyhZ2l31ldO27aQdfcSoh9gSi9TX8%3D",
       "entrants": 2,
-      "start_time": 1666047600
-    },
-    {
-      "slug": "tournament/coast-to-coast-doubles-3/event/ec-doubles",
-      "tournament_name": "Coast to Coast Doubles # 3",
-      "event_name": "EC Doubles",
-      "image": "https://images.start.gg/images/tournament/487522/image-b71ee1e01bc1129e99d4443893d4a35d.png?ehk=qisvHgSWnmYu8KG%2BEQ5z%2BI1K459kAzRSTIVS4ahh7pI%3D&ehkOptimized=t98JsjJ7H9BQOFCyhZ2l31ldO27aQdfcSoh9gSi9TX8%3D",
-      "entrants": 1,
       "start_time": 1666047600
     },
     {
@@ -62,7 +46,7 @@
       "tournament_name": "Have you seen Russell??? #7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487492/image-85103c4a8bda1db1338387c0e496875c.jpg?ehk=YzDIyq4xOu9dYucWfJ8Ei%2FCgKw%2BtDd8h3sILvsWpWKQ%3D&ehkOptimized=r%2BvF4ITNx4ABcOt%2ByUapH3UHH%2Fl%2BEDYKK1AsYJPfyqM%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1666052100
     },
     {
@@ -78,7 +62,7 @@
       "tournament_name": "Tuesday Night Fever #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487927/image-dcaabfbcbc937fe37161334ca38c46c4.png?ehk=GNSXaxbszIVenWXhVTtROs3OyJj%2Bi7w3Curx5ch2zho%3D&ehkOptimized=eMjH0ybYzuTWjMgyiHbrry60ex7zy%2FVTbAw%2FxB1a0%2B0%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1666116000
     },
     {
@@ -166,7 +150,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #35 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488274/image-10587dfa659efda68f60fd91b6f7319b.png?ehk=6JwVgh4993sbcLVpj6%2F%2F%2FUhJOkZFosPWVqSWjrS8vtA%3D&ehkOptimized=ON5mqj93HiyH1VKadPwqw6sv%2FIHhbptcIE9n%2F2k%2Fbe8%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666285200
     },
     {
@@ -222,7 +206,7 @@
       "tournament_name": "FragFest Fall 2022",
       "event_name": "FragFest Fall 2022: Super Smash Bros. Melee Singles LAN Tournament, Sponsored by HyperX",
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
-      "entrants": 39,
+      "entrants": 41,
       "start_time": 1666396800
     },
     {
@@ -254,7 +238,7 @@
       "tournament_name": "Dusk x Australian Melee Presents: A Tribute to Denis",
       "event_name": "Melee Bracket",
       "image": "https://images.start.gg/images/tournament/488045/image-ebdef222cbe916402856aa1a1235185b.png?ehk=VkapuGzz5XCIVFKo%2Bl65q9M%2Br2bWhrVEBtofXt8w%2BDQ%3D&ehkOptimized=PSXD4M7BBWbIMiEfOI4kXw5UWRvrJvkyDgdDKnHVWWc%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1666508400
     },
     {
