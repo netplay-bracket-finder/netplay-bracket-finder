@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666033981,
+  "fetched_at": 1666035806,
   "data": [
     {
       "slug": "tournament/slippi-sauce-70/event/melee-singles",
       "tournament_name": "Slippi Sauce #70 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489160/image-8efe521f4452f1b104d4f9dae028da28.png?ehk=43NA8XJHGrAfmugHLrZyF5%2Fkv45CJ1aUWnfFNHZrd0c%3D&ehkOptimized=hlqxeYMiAM5yBBaIb9DdoAKxPsBKkYGFOM4cemfARsU%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1666044000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Spudfest 40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488043/image-1f98e7cbc2a80147806e3086be793438.jpg?ehk=3CyaPY0Ekd1DI0xQ2Z4ynAXacOlQoEnkMfuuaCg0hag%3D&ehkOptimized=PL6xs5V0vR%2F7MAtj4hVPfL8MC%2B8gZLmUhSom6KpgfBw%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1666054800
     },
     {
@@ -124,7 +124,7 @@
     {
       "slug": "tournament/sux-2-shine-online-6/event/sux-2-shine-online-6",
       "tournament_name": "Sux 2 Shine Online: 6!",
-      "event_name": "Sux 2 Shine Online: 6!",
+      "event_name": "Sux 2 Shine Online 6!",
       "image": "https://images.start.gg/images/tournament/487876/image-ff05d57ee2eafbbc2b817360d3bd4ed8.png?ehk=pMYpF3W9P54QvRKaZztbNhNYsLsU5jJ7HYp9t7pKylY%3D&ehkOptimized=6Gi2VbS8KV%2FA5smedaznegBVCFD%2BiMQBFt01uRpK4to%3D",
       "entrants": 0,
       "start_time": 1666164600
