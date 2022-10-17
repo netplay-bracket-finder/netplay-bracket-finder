@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666022370,
+  "fetched_at": 1666025560,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-34/event/melee-singles",
       "tournament_name": "Monday Night Mixup #34",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489063/image-4b3ac194d8667483cb97362b0787e449.png?ehk=H3cbnELt%2F0p9qzicbhyTHw6%2FCYZUIREOcmX7NqRwI6c%3D&ehkOptimized=F4UHGQFUx%2FKcvREMHiPhwV7C5XRyQTbgQADdCHsPO64%3D",
-      "entrants": 17,
+      "entrants": 25,
       "start_time": 1666029600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Slippi Sauce #70 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489160/image-8efe521f4452f1b104d4f9dae028da28.png?ehk=43NA8XJHGrAfmugHLrZyF5%2Fkv45CJ1aUWnfFNHZrd0c%3D&ehkOptimized=hlqxeYMiAM5yBBaIb9DdoAKxPsBKkYGFOM4cemfARsU%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1666044000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Pino's Tired of 0-2 #94!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/488981/image-88dbd94fce28fb7d45a8a419c01cfdec.jpg?ehk=%2BYV%2BkxXN4JCbfnhvNZGiPQWQcxFKvQpWb1etdSxDm2w%3D&ehkOptimized=J%2FIiV5%2Bj2k5P1OKPwSWXoveLc8f%2Fi8jF9u5hQyBhOxk%3D",
-      "entrants": 6,
+      "entrants": 10,
       "start_time": 1666044000
     },
     {
@@ -46,8 +46,24 @@
       "tournament_name": "Coast to Coast Doubles # 3",
       "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/487522/image-b71ee1e01bc1129e99d4443893d4a35d.png?ehk=qisvHgSWnmYu8KG%2BEQ5z%2BI1K459kAzRSTIVS4ahh7pI%3D&ehkOptimized=t98JsjJ7H9BQOFCyhZ2l31ldO27aQdfcSoh9gSi9TX8%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666047600
+    },
+    {
+      "slug": "tournament/the-playlist-17-how-do-you-feel-now/event/amateur-bracket",
+      "tournament_name": "The Playlist #17: How Do You Feel Now?",
+      "event_name": "Amateur Bracket",
+      "image": "https://images.start.gg/images/tournament/489374/image-7c75a451b8089ccbb8a94415670d3010.png?ehk=abpya9EXX0yWuOVbKjzr2xydq32bf0BflzTyAFSiIog%3D&ehkOptimized=Su0rD9uHt7NUQJSsJZNdzd5%2BTx5sY7R8ZEWlznXkCg4%3D",
+      "entrants": 0,
+      "start_time": 1666051200
+    },
+    {
+      "slug": "tournament/the-playlist-17-how-do-you-feel-now/event/melee-singles",
+      "tournament_name": "The Playlist #17: How Do You Feel Now?",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/489374/image-7c75a451b8089ccbb8a94415670d3010.png?ehk=abpya9EXX0yWuOVbKjzr2xydq32bf0BflzTyAFSiIog%3D&ehkOptimized=Su0rD9uHt7NUQJSsJZNdzd5%2BTx5sY7R8ZEWlznXkCg4%3D",
+      "entrants": 0,
+      "start_time": 1666051200
     },
     {
       "slug": "tournament/have-you-seen-russell-7/event/melee-singles",
@@ -70,7 +86,7 @@
       "tournament_name": "Tuesday Night Fever #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487927/image-dcaabfbcbc937fe37161334ca38c46c4.png?ehk=GNSXaxbszIVenWXhVTtROs3OyJj%2Bi7w3Curx5ch2zho%3D&ehkOptimized=eMjH0ybYzuTWjMgyiHbrry60ex7zy%2FVTbAw%2FxB1a0%2B0%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1666116000
     },
     {
@@ -90,6 +106,14 @@
       "start_time": 1666137600
     },
     {
+      "slug": "tournament/in-the-garden/event/melee-singles",
+      "tournament_name": "In The Garden",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/489022/image-c47a4a2e61d88c4955be18d0900069ed.png?ehk=jbm%2BEtUIm3rlUgyEgjVU5quhH3d8aMgS%2FmAo0MFuNSM%3D&ehkOptimized=x4xURsRRlhdsEdKfanp6xgbinWAaI0WDBMrn8%2Bbl56I%3D",
+      "entrants": 0,
+      "start_time": 1666054800
+    },
+    {
       "slug": "tournament/level-one-melee-48-a-noob-only-tournament/event/amateur-melee-singles",
       "tournament_name": "Level One Melee #48 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
@@ -102,16 +126,8 @@
       "tournament_name": "Level One Melee #48 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666141200
-    },
-    {
-      "slug": "tournament/in-the-garden/event/melee-singles",
-      "tournament_name": "In The Garden",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/489022/image-c47a4a2e61d88c4955be18d0900069ed.png?ehk=jbm%2BEtUIm3rlUgyEgjVU5quhH3d8aMgS%2FmAo0MFuNSM%3D&ehkOptimized=x4xURsRRlhdsEdKfanp6xgbinWAaI0WDBMrn8%2Bbl56I%3D",
-      "entrants": 0,
-      "start_time": 1666054800
     },
     {
       "slug": "tournament/sux-2-shine-online-6/event/sux-2-shine-online-6",
@@ -182,7 +198,7 @@
       "tournament_name": "Metabreaker #1",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666308600
     },
     {
@@ -246,7 +262,7 @@
       "tournament_name": "Dorime's Dojo #5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489314/image-fc0c2756b51dbb190399a801622c162c.png?ehk=Z%2B8nyQQ8rZLet08TxII8%2B2gvqvoml3hohGBe0O5DLv0%3D&ehkOptimized=8rDeHIF7kkiA0Hv6k1Jw6Z0DqXOLXSuepbSj83zyrgM%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1666540800
     },
     {
@@ -274,24 +290,24 @@
       "start_time": 1667084400
     },
     {
-      "slug": "tournament/cg-melee-monthly-november-2022/event/east-coast",
-      "tournament_name": "CG Melee Monthly - November 2022",
+      "slug": "tournament/350-cg-melee-monthly-november-2022/event/east-coast",
+      "tournament_name": "[$350] CG Melee Monthly - November 2022",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
       "entrants": 1,
       "start_time": 1667674800
     },
     {
-      "slug": "tournament/cg-melee-monthly-november-2022/event/ec-vs-wc-exhibition",
-      "tournament_name": "CG Melee Monthly - November 2022",
+      "slug": "tournament/350-cg-melee-monthly-november-2022/event/ec-vs-wc-exhibition",
+      "tournament_name": "[$350] CG Melee Monthly - November 2022",
       "event_name": "EC vs WC Exhibition",
       "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
       "entrants": 0,
       "start_time": 1667674800
     },
     {
-      "slug": "tournament/cg-melee-monthly-november-2022/event/west-coast",
-      "tournament_name": "CG Melee Monthly - November 2022",
+      "slug": "tournament/350-cg-melee-monthly-november-2022/event/west-coast",
+      "tournament_name": "[$350] CG Melee Monthly - November 2022",
       "event_name": "West Coast",
       "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
       "entrants": 0,
