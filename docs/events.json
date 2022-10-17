@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666041937,
+  "fetched_at": 1666043185,
   "data": [
     {
       "slug": "tournament/slippi-sauce-70/event/melee-singles",
       "tournament_name": "Slippi Sauce #70 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489160/image-8efe521f4452f1b104d4f9dae028da28.png?ehk=43NA8XJHGrAfmugHLrZyF5%2Fkv45CJ1aUWnfFNHZrd0c%3D&ehkOptimized=hlqxeYMiAM5yBBaIb9DdoAKxPsBKkYGFOM4cemfARsU%3D",
-      "entrants": 29,
+      "entrants": 33,
       "start_time": 1666044000
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Pino's Tired of 0-2 #94!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/488981/image-88dbd94fce28fb7d45a8a419c01cfdec.jpg?ehk=%2BYV%2BkxXN4JCbfnhvNZGiPQWQcxFKvQpWb1etdSxDm2w%3D&ehkOptimized=J%2FIiV5%2Bj2k5P1OKPwSWXoveLc8f%2Fi8jF9u5hQyBhOxk%3D",
-      "entrants": 34,
+      "entrants": 44,
       "start_time": 1666044000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Super Smash Bong #68",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/489198/image-bbb4bb7c8036d159a5ffb7abc3a79931.jpg?ehk=KbJyDlgpWUmTLtrwr%2Fw6wxQRKfpcVSiC3N2%2BnmvcN8M%3D&ehkOptimized=sB%2BQUALTBipJGMnlL71A6TKibbpx4Byh6EVZiCZRPmc%3D",
-      "entrants": 11,
+      "entrants": 15,
       "start_time": 1666045860
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Spudfest 40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488043/image-1f98e7cbc2a80147806e3086be793438.jpg?ehk=3CyaPY0Ekd1DI0xQ2Z4ynAXacOlQoEnkMfuuaCg0hag%3D&ehkOptimized=PL6xs5V0vR%2F7MAtj4hVPfL8MC%2B8gZLmUhSom6KpgfBw%3D",
-      "entrants": 23,
+      "entrants": 24,
       "start_time": 1666054800
     },
     {
@@ -238,7 +238,7 @@
       "tournament_name": "Quest for Best Noob EU #42 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/489493/image-9bb4623d51d57443e0fb4d9ef92a2365.jpg?ehk=ne7RAzaS%2FFsky1ofVfHt8717a9ukASJBBwj8boBGhwA%3D&ehkOptimized=pLvB%2FIb8Op1BmQILxWqUqyL2%2BvKjOM2Z%2Fio%2Blocl3BY%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666449000
     },
     {
