@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666046978,
+  "fetched_at": 1666050792,
   "data": [
     {
       "slug": "tournament/coast-to-coast-doubles-3/event/ec-doubles",
       "tournament_name": "Coast to Coast Doubles # 3",
       "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/487522/image-b71ee1e01bc1129e99d4443893d4a35d.png?ehk=qisvHgSWnmYu8KG%2BEQ5z%2BI1K459kAzRSTIVS4ahh7pI%3D&ehkOptimized=t98JsjJ7H9BQOFCyhZ2l31ldO27aQdfcSoh9gSi9TX8%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1666047600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Coast to Coast Doubles # 3",
       "event_name": "WC Doubles",
       "image": "https://images.start.gg/images/tournament/487522/image-b71ee1e01bc1129e99d4443893d4a35d.png?ehk=qisvHgSWnmYu8KG%2BEQ5z%2BI1K459kAzRSTIVS4ahh7pI%3D&ehkOptimized=t98JsjJ7H9BQOFCyhZ2l31ldO27aQdfcSoh9gSi9TX8%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1666047600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "The Playlist #17: How Do You Feel Now?",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489374/image-7c75a451b8089ccbb8a94415670d3010.png?ehk=abpya9EXX0yWuOVbKjzr2xydq32bf0BflzTyAFSiIog%3D&ehkOptimized=Su0rD9uHt7NUQJSsJZNdzd5%2BTx5sY7R8ZEWlznXkCg4%3D",
-      "entrants": 3,
+      "entrants": 8,
       "start_time": 1666051200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "The Playlist #17: How Do You Feel Now?",
       "event_name": "Amateur Bracket",
       "image": "https://images.start.gg/images/tournament/489374/image-7c75a451b8089ccbb8a94415670d3010.png?ehk=abpya9EXX0yWuOVbKjzr2xydq32bf0BflzTyAFSiIog%3D&ehkOptimized=Su0rD9uHt7NUQJSsJZNdzd5%2BTx5sY7R8ZEWlznXkCg4%3D",
-      "entrants": 1,
+      "entrants": 5,
       "start_time": 1666051200
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Have you seen Russell??? #7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487492/image-85103c4a8bda1db1338387c0e496875c.jpg?ehk=YzDIyq4xOu9dYucWfJ8Ei%2FCgKw%2BtDd8h3sILvsWpWKQ%3D&ehkOptimized=r%2BvF4ITNx4ABcOt%2ByUapH3UHH%2Fl%2BEDYKK1AsYJPfyqM%3D",
-      "entrants": 12,
+      "entrants": 22,
       "start_time": 1666052100
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Spudfest 40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488043/image-1f98e7cbc2a80147806e3086be793438.jpg?ehk=3CyaPY0Ekd1DI0xQ2Z4ynAXacOlQoEnkMfuuaCg0hag%3D&ehkOptimized=PL6xs5V0vR%2F7MAtj4hVPfL8MC%2B8gZLmUhSom6KpgfBw%3D",
-      "entrants": 29,
+      "entrants": 31,
       "start_time": 1666054800
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Level One Melee #48 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1666141200
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "Level One Melee #48 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1666141200
     },
     {
@@ -198,7 +198,7 @@
       "tournament_name": "FragFest Fall 2022",
       "event_name": "FragFest Fall 2022: Super Smash Bros. Melee Singles LAN Tournament, Sponsored by HyperX",
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
-      "entrants": 42,
+      "entrants": 43,
       "start_time": 1666396800
     },
     {
@@ -208,6 +208,14 @@
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
       "entrants": 2,
       "start_time": 1666396800
+    },
+    {
+      "slug": "tournament/the-shallow-end-8-a-wc-newbie-bracket/event/melee-singles",
+      "tournament_name": "The Shallow End #8 - a WC newbie bracket",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/489549/image-7fbe5262bb320b856b35dd575fa747eb.jpg?ehk=anuBmhNn5d05qxRHKKGeUHo8RUV%2BGlt65WyqP3WnpU0%3D&ehkOptimized=ph5dfsZ0Ii2B%2F76YnOjzZ1cFRFKbRWu0xxILDD49ukM%3D",
+      "entrants": null,
+      "start_time": 1666399500
     },
     {
       "slug": "tournament/quest-for-best-noob-eu-42-a-qfbn-all-star/event/newbie-singles",
