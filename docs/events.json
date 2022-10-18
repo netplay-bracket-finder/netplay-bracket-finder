@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666120286,
+  "fetched_at": 1666121828,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 23,
+      "entrants": 30,
       "start_time": 1666119600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 8,
+      "entrants": 11,
       "start_time": 1666119600
     },
     {
@@ -22,7 +22,15 @@
       "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 6,
+      "entrants": 10,
+      "start_time": 1666119600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
+      "entrants": 3,
       "start_time": 1666119600
     },
     {
@@ -31,14 +39,6 @@
       "event_name": "Main Bracket: EC Melee Singles",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
       "entrants": 2,
-      "start_time": 1666119600
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 1,
       "start_time": 1666119600
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "The Crossroads #38",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489611/image-e86088d4db2269f095b3515af97e7120.png?ehk=iN1Hn8oIpcntLs%2Bu2GW8WUGaSS1hmTFWWXmqaZvgLtw%3D&ehkOptimized=Nl5leA%2Bqq5Lif26iYpnD1LYs2PHm%2BIe3%2FRBMBAR2s%2Bc%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1666135800
     },
     {
@@ -190,7 +190,7 @@
       "tournament_name": "Only Noobs 89",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488420/image-22f7af679f6c33f4d19ac5c1a5fef4c7.jpg?ehk=1LzoHmGopRRtxffgR4SWBAiSNXE8o1fSc%2BotzaGbKzU%3D&ehkOptimized=IGMpJe5uK7WnJ6q8vk5uPzzjKwcUDsurKa3I41Or%2B2g%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1666306800
     },
     {
