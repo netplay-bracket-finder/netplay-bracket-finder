@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666094137,
+  "fetched_at": 1666097537,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-3/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487927/image-dcaabfbcbc937fe37161334ca38c46c4.png?ehk=GNSXaxbszIVenWXhVTtROs3OyJj%2Bi7w3Curx5ch2zho%3D&ehkOptimized=eMjH0ybYzuTWjMgyiHbrry60ex7zy%2FVTbAw%2FxB1a0%2B0%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1666116000
     },
     {
@@ -98,17 +98,17 @@
       "start_time": 1666141200
     },
     {
-      "slug": "tournament/level-one-melee-48-a-noob-only-tournament/event/amateur-melee-singles",
-      "tournament_name": "Level One Melee #48 - a noob-only tournament",
-      "event_name": "Amateur Melee Singles",
-      "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
-      "entrants": 6,
-      "start_time": 1666141200
-    },
-    {
       "slug": "tournament/level-one-melee-48-a-noob-only-tournament/event/main-melee-singles",
       "tournament_name": "Level One Melee #48 - a noob-only tournament",
       "event_name": "Main Melee Singles",
+      "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
+      "entrants": 7,
+      "start_time": 1666141200
+    },
+    {
+      "slug": "tournament/level-one-melee-48-a-noob-only-tournament/event/amateur-melee-singles",
+      "tournament_name": "Level One Melee #48 - a noob-only tournament",
+      "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
       "entrants": 6,
       "start_time": 1666141200
