@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666124747,
+  "fetched_at": 1666126225,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 46,
+      "entrants": 57,
       "start_time": 1666119600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1666119600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1666119600
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Sketchy Series 2: The Second One",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488671/image-dcba02a70eb4a60883b4692fe6f7fb87.png?ehk=0rQNO7j7ACOgtEr8lKvx0tNJjDyTQiN%2Fz%2FWPXyk3ulw%3D&ehkOptimized=kZ8oG35HDZYC%2FaZFnHBgegJJ20ANtCmo432jSi93s1w%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1666134000
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Level One Melee #48 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
-      "entrants": 14,
+      "entrants": 16,
       "start_time": 1666141200
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "Level One Melee #48 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1666141200
     },
     {
