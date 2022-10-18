@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666079508,
+  "fetched_at": 1666082176,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-3/event/melee-singles",
@@ -14,7 +14,15 @@
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 0,
+      "entrants": 1,
+      "start_time": 1666119600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-98-lite-edition-1/event/side-event-ec-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
+      "event_name": "Side Event: EC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
+      "entrants": 1,
       "start_time": 1666119600
     },
     {
@@ -42,14 +50,6 @@
       "start_time": 1666119600
     },
     {
-      "slug": "tournament/training-mode-tuesdays-98-lite-edition-1/event/side-event-ec-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
-      "event_name": "Side Event: EC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 0,
-      "start_time": 1666119600
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-98-lite-edition-1/event/side-event-wc-melee-redemption-bracket",
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
@@ -62,7 +62,7 @@
       "tournament_name": "Sketchy Series 2: The Second One",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488671/image-dcba02a70eb4a60883b4692fe6f7fb87.png?ehk=0rQNO7j7ACOgtEr8lKvx0tNJjDyTQiN%2Fz%2FWPXyk3ulw%3D&ehkOptimized=kZ8oG35HDZYC%2FaZFnHBgegJJ20ANtCmo432jSi93s1w%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1666134000
     },
     {
@@ -254,7 +254,7 @@
       "tournament_name": "Dusk x Australian Melee Presents: A Tribute to Denis",
       "event_name": "Melee Bracket",
       "image": "https://images.start.gg/images/tournament/488045/image-ebdef222cbe916402856aa1a1235185b.png?ehk=VkapuGzz5XCIVFKo%2Bl65q9M%2Br2bWhrVEBtofXt8w%2BDQ%3D&ehkOptimized=PSXD4M7BBWbIMiEfOI4kXw5UWRvrJvkyDgdDKnHVWWc%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1666508400
     },
     {
@@ -262,7 +262,7 @@
       "tournament_name": "Dorime's Dojo #5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489314/image-fc0c2756b51dbb190399a801622c162c.png?ehk=Z%2B8nyQQ8rZLet08TxII8%2B2gvqvoml3hohGBe0O5DLv0%3D&ehkOptimized=8rDeHIF7kkiA0Hv6k1Jw6Z0DqXOLXSuepbSj83zyrgM%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1666540800
     },
     {
