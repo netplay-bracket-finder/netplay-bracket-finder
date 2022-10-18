@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666103884,
+  "fetched_at": 1666105123,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-3/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487927/image-dcaabfbcbc937fe37161334ca38c46c4.png?ehk=GNSXaxbszIVenWXhVTtROs3OyJj%2Bi7w3Curx5ch2zho%3D&ehkOptimized=eMjH0ybYzuTWjMgyiHbrry60ex7zy%2FVTbAw%2FxB1a0%2B0%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1666116000
     },
     {
@@ -14,21 +14,21 @@
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 1,
-      "start_time": 1666119600
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-98-lite-edition-1/event/ladder-melee-west-coast",
-      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
-      "event_name": "Ladder Melee West Coast",
-      "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1666119600
     },
     {
       "slug": "tournament/training-mode-tuesdays-98-lite-edition-1/event/side-event-ec-melee-redemption-bracket",
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
+      "entrants": 2,
+      "start_time": 1666119600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-98-lite-edition-1/event/ladder-melee-west-coast",
+      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
+      "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
       "entrants": 1,
       "start_time": 1666119600
@@ -56,6 +56,14 @@
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
       "entrants": 0,
       "start_time": 1666119600
+    },
+    {
+      "slug": "tournament/sby-melee-netplay-133/event/melee-singles",
+      "tournament_name": "SBY Melee Netplay #133",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/489736/image-7d290a90575ae8ed931bd55dc60a9c27.jpg?ehk=6NhEqUTjW5oSqhxk%2FKxakRGYf4rrm0wKb%2FvvskTOjfk%3D&ehkOptimized=z39JGnlwGxyje60Qje8XEWNRTCXxSFNQUHninpb%2Fmeg%3D",
+      "entrants": 1,
+      "start_time": 1666130400
     },
     {
       "slug": "tournament/sketchy-series-2-the-second-one/event/melee-singles",
