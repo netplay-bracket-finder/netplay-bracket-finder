@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666129543,
+  "fetched_at": 1666131848,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 68,
+      "entrants": 85,
       "start_time": 1666119600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 21,
+      "entrants": 39,
       "start_time": 1666119600
     },
     {
@@ -26,19 +26,19 @@
       "start_time": 1666119600
     },
     {
-      "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 7,
-      "start_time": 1666119600
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/main-bracket-ec-melee-singles",
       "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 6,
+      "entrants": 11,
+      "start_time": 1666119600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
+      "entrants": 9,
       "start_time": 1666119600
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
       "event_name": "Main Bracket: WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666119600
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Sketchy Series 2: The Second One",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488671/image-dcba02a70eb4a60883b4692fe6f7fb87.png?ehk=0rQNO7j7ACOgtEr8lKvx0tNJjDyTQiN%2Fz%2FWPXyk3ulw%3D&ehkOptimized=kZ8oG35HDZYC%2FaZFnHBgegJJ20ANtCmo432jSi93s1w%3D",
-      "entrants": 19,
+      "entrants": 27,
       "start_time": 1666134000
     },
     {
@@ -74,14 +74,6 @@
       "start_time": 1666137600
     },
     {
-      "slug": "tournament/in-the-garden/event/melee-singles",
-      "tournament_name": "In The Garden",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/489022/image-c47a4a2e61d88c4955be18d0900069ed.png?ehk=jbm%2BEtUIm3rlUgyEgjVU5quhH3d8aMgS%2FmAo0MFuNSM%3D&ehkOptimized=x4xURsRRlhdsEdKfanp6xgbinWAaI0WDBMrn8%2Bbl56I%3D",
-      "entrants": 5,
-      "start_time": 1666054800
-    },
-    {
       "slug": "tournament/the-og-lincorperation-16/event/melee-singles",
       "tournament_name": "THE OG.LINCORPERATION 16",
       "event_name": "MELEE SINGLES",
@@ -94,7 +86,7 @@
       "tournament_name": "Level One Melee #48 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
-      "entrants": 18,
+      "entrants": 21,
       "start_time": 1666141200
     },
     {
@@ -104,6 +96,14 @@
       "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
       "entrants": 11,
       "start_time": 1666141200
+    },
+    {
+      "slug": "tournament/in-the-garden/event/melee-singles",
+      "tournament_name": "In The Garden",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/489022/image-c47a4a2e61d88c4955be18d0900069ed.png?ehk=jbm%2BEtUIm3rlUgyEgjVU5quhH3d8aMgS%2FmAo0MFuNSM%3D&ehkOptimized=x4xURsRRlhdsEdKfanp6xgbinWAaI0WDBMrn8%2Bbl56I%3D",
+      "entrants": 9,
+      "start_time": 1666054800
     },
     {
       "slug": "tournament/sux-2-shine-online-6/event/sux-2-shine-online-6",
@@ -262,7 +262,7 @@
       "tournament_name": "FragFest Fall 2022",
       "event_name": "FragFest Fall 2022: Super Smash Bros. Melee Singles LAN Tournament, Sponsored by HyperX",
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
-      "entrants": 44,
+      "entrants": 45,
       "start_time": 1666396800
     },
     {
