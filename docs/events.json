@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666088896,
+  "fetched_at": 1666090542,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-3/event/melee-singles",
@@ -128,6 +128,14 @@
       "image": "https://images.start.gg/images/tournament/489050/image-6b26bdd4ceab83dfb880f0d085bbf2ce.png?ehk=MtUZfU6c6zve0UxOLxNjsTpxlE%2BSfXR9RyzOCkS%2BB3g%3D&ehkOptimized=o%2BrRX1z282yi2Tbin7CUiea0glTvK8G3b6ZMrBCOxrs%3D",
       "entrants": 0,
       "start_time": 1666200600
+    },
+    {
+      "slug": "tournament/cre-lee-9/event/melee-singles",
+      "tournament_name": "Cre-lee #9",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/489684/image-940186df57638f348b39b3bcb915283f.jpg?ehk=cE4WW5taEE1CsZbQFapeDC5CLFsRCdS6e1B%2BEMvFpBE%3D&ehkOptimized=5CU5XNCjcvCNaFE2LXWXGBL1CreFTg4MeRjJ2I1OI7E%3D",
+      "entrants": 0,
+      "start_time": 1666222200
     },
     {
       "slug": "tournament/galaxy-gladiators-17-solar-circuit-qualifier/event/melee-singles",
