@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666097537,
+  "fetched_at": 1666101597,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-3/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487927/image-dcaabfbcbc937fe37161334ca38c46c4.png?ehk=GNSXaxbszIVenWXhVTtROs3OyJj%2Bi7w3Curx5ch2zho%3D&ehkOptimized=eMjH0ybYzuTWjMgyiHbrry60ex7zy%2FVTbAw%2FxB1a0%2B0%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1666116000
     },
     {
@@ -18,19 +18,19 @@
       "start_time": 1666119600
     },
     {
-      "slug": "tournament/training-mode-tuesdays-98-lite-edition-1/event/side-event-ec-melee-redemption-bracket",
+      "slug": "tournament/training-mode-tuesdays-98-lite-edition-1/event/ladder-melee-west-coast",
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
-      "event_name": "Side Event: EC Melee Redemption Bracket",
+      "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
       "entrants": 1,
       "start_time": 1666119600
     },
     {
-      "slug": "tournament/training-mode-tuesdays-98-lite-edition-1/event/ladder-melee-west-coast",
+      "slug": "tournament/training-mode-tuesdays-98-lite-edition-1/event/side-event-ec-melee-redemption-bracket",
       "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
-      "event_name": "Ladder Melee West Coast",
+      "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666119600
     },
     {
@@ -186,6 +186,22 @@
       "start_time": 1666306800
     },
     {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-8/event/results-data",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #8",
+      "event_name": "Results Data",
+      "image": "https://images.start.gg/images/tournament/489705/image-2f428a07d9be899d4812f04ac2023771.png?ehk=x2ncxHgUU2QHHGvzMz5TMXVKTGLFfSoqTE3FsaMHL8I%3D&ehkOptimized=bzsbbiJgGDJ4N%2BJSq3Kfgb9Vi1N%2FUpdX1h5fje4RmGI%3D",
+      "entrants": 0,
+      "start_time": 1666306800
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-8/event/ssbmr-singles",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #8",
+      "event_name": "SSBMr Singles",
+      "image": "https://images.start.gg/images/tournament/489705/image-2f428a07d9be899d4812f04ac2023771.png?ehk=x2ncxHgUU2QHHGvzMz5TMXVKTGLFfSoqTE3FsaMHL8I%3D&ehkOptimized=bzsbbiJgGDJ4N%2BJSq3Kfgb9Vi1N%2FUpdX1h5fje4RmGI%3D",
+      "entrants": 0,
+      "start_time": 1666306800
+    },
+    {
       "slug": "tournament/metabreaker-1/event/melee-singles",
       "tournament_name": "Metabreaker #1",
       "event_name": "Melee Singles",
@@ -206,7 +222,7 @@
       "tournament_name": "SandBag Skirmish 45",
       "event_name": "Skirmish",
       "image": "https://images.start.gg/images/tournament/489250/image-3acdf6e2a2e6c15c56ebb3f1e76fa837.png?ehk=BhKariMUWctZZEyF8MSz%2BSL9fYJ1KQLxLTT%2FbrYfJZk%3D&ehkOptimized=oOi5fnou4%2Bms%2FV%2BIIsa4m2uIsUtH4vLE7TPOnuVNxk4%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666371600
     },
     {
