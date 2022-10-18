@@ -1,53 +1,13 @@
 {
-  "fetched_at": 1666050792,
+  "fetched_at": 1666059613,
   "data": [
     {
-      "slug": "tournament/coast-to-coast-doubles-3/event/ec-doubles",
-      "tournament_name": "Coast to Coast Doubles # 3",
-      "event_name": "EC Doubles",
-      "image": "https://images.start.gg/images/tournament/487522/image-b71ee1e01bc1129e99d4443893d4a35d.png?ehk=qisvHgSWnmYu8KG%2BEQ5z%2BI1K459kAzRSTIVS4ahh7pI%3D&ehkOptimized=t98JsjJ7H9BQOFCyhZ2l31ldO27aQdfcSoh9gSi9TX8%3D",
-      "entrants": 6,
-      "start_time": 1666047600
-    },
-    {
-      "slug": "tournament/coast-to-coast-doubles-3/event/wc-doubles",
-      "tournament_name": "Coast to Coast Doubles # 3",
-      "event_name": "WC Doubles",
-      "image": "https://images.start.gg/images/tournament/487522/image-b71ee1e01bc1129e99d4443893d4a35d.png?ehk=qisvHgSWnmYu8KG%2BEQ5z%2BI1K459kAzRSTIVS4ahh7pI%3D&ehkOptimized=t98JsjJ7H9BQOFCyhZ2l31ldO27aQdfcSoh9gSi9TX8%3D",
-      "entrants": 3,
-      "start_time": 1666047600
-    },
-    {
-      "slug": "tournament/the-playlist-17-how-do-you-feel-now/event/melee-singles",
-      "tournament_name": "The Playlist #17: How Do You Feel Now?",
+      "slug": "tournament/mnn-29-1/event/melee-singles",
+      "tournament_name": "MNN#29",
       "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/489374/image-7c75a451b8089ccbb8a94415670d3010.png?ehk=abpya9EXX0yWuOVbKjzr2xydq32bf0BflzTyAFSiIog%3D&ehkOptimized=Su0rD9uHt7NUQJSsJZNdzd5%2BTx5sY7R8ZEWlznXkCg4%3D",
-      "entrants": 8,
-      "start_time": 1666051200
-    },
-    {
-      "slug": "tournament/the-playlist-17-how-do-you-feel-now/event/amateur-bracket",
-      "tournament_name": "The Playlist #17: How Do You Feel Now?",
-      "event_name": "Amateur Bracket",
-      "image": "https://images.start.gg/images/tournament/489374/image-7c75a451b8089ccbb8a94415670d3010.png?ehk=abpya9EXX0yWuOVbKjzr2xydq32bf0BflzTyAFSiIog%3D&ehkOptimized=Su0rD9uHt7NUQJSsJZNdzd5%2BTx5sY7R8ZEWlznXkCg4%3D",
-      "entrants": 5,
-      "start_time": 1666051200
-    },
-    {
-      "slug": "tournament/have-you-seen-russell-7/event/melee-singles",
-      "tournament_name": "Have you seen Russell??? #7",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/487492/image-85103c4a8bda1db1338387c0e496875c.jpg?ehk=YzDIyq4xOu9dYucWfJ8Ei%2FCgKw%2BtDd8h3sILvsWpWKQ%3D&ehkOptimized=r%2BvF4ITNx4ABcOt%2ByUapH3UHH%2Fl%2BEDYKK1AsYJPfyqM%3D",
-      "entrants": 22,
-      "start_time": 1666052100
-    },
-    {
-      "slug": "tournament/spudfest-40/event/melee-singles",
-      "tournament_name": "Spudfest 40",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/488043/image-1f98e7cbc2a80147806e3086be793438.jpg?ehk=3CyaPY0Ekd1DI0xQ2Z4ynAXacOlQoEnkMfuuaCg0hag%3D&ehkOptimized=PL6xs5V0vR%2F7MAtj4hVPfL8MC%2B8gZLmUhSom6KpgfBw%3D",
-      "entrants": 31,
-      "start_time": 1666054800
+      "image": "https://images.start.gg/images/tournament/489570/image-e2d6197cdf09fb127bbd4a8eacb4cbb5.png?ehk=b7KpL%2BMwn3sBTn%2BNPTXZT%2FhPJeOVkdy3Zyfmy7l7EpM%3D&ehkOptimized=dXh7p8CfMLB9X3bdrr%2B3BMVVZO6cBibYQycoCAumIng%3D",
+      "entrants": 13,
+      "start_time": 1666062000
     },
     {
       "slug": "tournament/tuesday-night-fever-3/event/melee-singles",
@@ -102,7 +62,7 @@
       "tournament_name": "Sux 2 Shine Online: 6!",
       "event_name": "Sux 2 Shine Online 6!",
       "image": "https://images.start.gg/images/tournament/487876/image-ff05d57ee2eafbbc2b817360d3bd4ed8.png?ehk=pMYpF3W9P54QvRKaZztbNhNYsLsU5jJ7HYp9t7pKylY%3D&ehkOptimized=6Gi2VbS8KV%2FA5smedaznegBVCFD%2BiMQBFt01uRpK4to%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666164600
     },
     {
@@ -158,7 +118,7 @@
       "tournament_name": "Only Noobs 89",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488420/image-22f7af679f6c33f4d19ac5c1a5fef4c7.jpg?ehk=1LzoHmGopRRtxffgR4SWBAiSNXE8o1fSc%2BotzaGbKzU%3D&ehkOptimized=IGMpJe5uK7WnJ6q8vk5uPzzjKwcUDsurKa3I41Or%2B2g%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1666306800
     },
     {
@@ -258,6 +218,14 @@
       "start_time": 1666544400
     },
     {
+      "slug": "tournament/bromomento-rel-mpago-2/event/melee-singles",
+      "tournament_name": "Bromomento relámpago #2",
+      "event_name": "Melee singles",
+      "image": "https://images.start.gg/images/tournament/489565/image-336a18423ec62bf9d5f75e47b41f4ebb.png?ehk=%2BZ4kCVB0ksGGUxbxsYUEALXHwns6evKyeki5tT%2F3ttY%3D&ehkOptimized=utqXr0GmJXgsjPN%2FYLw1M68n6Gt66eYEVNyRd%2BkdXnc%3D",
+      "entrants": 0,
+      "start_time": 1666564200
+    },
+    {
       "slug": "tournament/searcadian/event/singles",
       "tournament_name": "SEArcadian",
       "event_name": "Singles",
@@ -302,7 +270,7 @@
       "tournament_name": "Stel Hotel Throwdown: Minimum $100 Prize Pool!",
       "event_name": "Commentator Invitational",
       "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1668209400
     },
     {
