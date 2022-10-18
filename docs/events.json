@@ -1,13 +1,21 @@
 {
-  "fetched_at": 1666105123,
+  "fetched_at": 1666107397,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-3/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487927/image-dcaabfbcbc937fe37161334ca38c46c4.png?ehk=GNSXaxbszIVenWXhVTtROs3OyJj%2Bi7w3Curx5ch2zho%3D&ehkOptimized=eMjH0ybYzuTWjMgyiHbrry60ex7zy%2FVTbAw%2FxB1a0%2B0%3D",
-      "entrants": 15,
+      "entrants": 17,
       "start_time": 1666116000
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-98-lite-edition-1/event/ladder-melee-west-coast",
+      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
+      "event_name": "Ladder Melee West Coast",
+      "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
+      "entrants": 3,
+      "start_time": 1666119600
     },
     {
       "slug": "tournament/training-mode-tuesdays-98-lite-edition-1/event/ladder-melee-east-coast",
@@ -23,14 +31,6 @@
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
       "entrants": 2,
-      "start_time": 1666119600
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-98-lite-edition-1/event/ladder-melee-west-coast",
-      "tournament_name": "Training Mode Tuesdays #98 - Lite Edition",
-      "event_name": "Ladder Melee West Coast",
-      "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 1,
       "start_time": 1666119600
     },
     {
@@ -90,14 +90,6 @@
       "start_time": 1666137600
     },
     {
-      "slug": "tournament/in-the-garden/event/melee-singles",
-      "tournament_name": "In The Garden",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/489022/image-c47a4a2e61d88c4955be18d0900069ed.png?ehk=jbm%2BEtUIm3rlUgyEgjVU5quhH3d8aMgS%2FmAo0MFuNSM%3D&ehkOptimized=x4xURsRRlhdsEdKfanp6xgbinWAaI0WDBMrn8%2Bbl56I%3D",
-      "entrants": 0,
-      "start_time": 1666054800
-    },
-    {
       "slug": "tournament/the-og-lincorperation-16/event/melee-singles",
       "tournament_name": "THE OG.LINCORPERATION 16",
       "event_name": "MELEE SINGLES",
@@ -120,6 +112,14 @@
       "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
       "entrants": 6,
       "start_time": 1666141200
+    },
+    {
+      "slug": "tournament/in-the-garden/event/melee-singles",
+      "tournament_name": "In The Garden",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/489022/image-c47a4a2e61d88c4955be18d0900069ed.png?ehk=jbm%2BEtUIm3rlUgyEgjVU5quhH3d8aMgS%2FmAo0MFuNSM%3D&ehkOptimized=x4xURsRRlhdsEdKfanp6xgbinWAaI0WDBMrn8%2Bbl56I%3D",
+      "entrants": 1,
+      "start_time": 1666054800
     },
     {
       "slug": "tournament/sux-2-shine-online-6/event/sux-2-shine-online-6",
