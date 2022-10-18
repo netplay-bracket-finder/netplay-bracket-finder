@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666131848,
+  "fetched_at": 1666133371,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 85,
+      "entrants": 89,
       "start_time": 1666119600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 39,
+      "entrants": 47,
       "start_time": 1666119600
     },
     {
@@ -50,19 +50,11 @@
       "start_time": 1666119600
     },
     {
-      "slug": "tournament/sketchy-series-2-the-second-one/event/melee-singles",
-      "tournament_name": "Sketchy Series 2: The Second One",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/488671/image-dcba02a70eb4a60883b4692fe6f7fb87.png?ehk=0rQNO7j7ACOgtEr8lKvx0tNJjDyTQiN%2Fz%2FWPXyk3ulw%3D&ehkOptimized=kZ8oG35HDZYC%2FaZFnHBgegJJ20ANtCmo432jSi93s1w%3D",
-      "entrants": 27,
-      "start_time": 1666134000
-    },
-    {
       "slug": "tournament/the-crossroads-38/event/melee-singles",
       "tournament_name": "The Crossroads #38",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489611/image-e86088d4db2269f095b3515af97e7120.png?ehk=iN1Hn8oIpcntLs%2Bu2GW8WUGaSS1hmTFWWXmqaZvgLtw%3D&ehkOptimized=Nl5leA%2Bqq5Lif26iYpnD1LYs2PHm%2BIe3%2FRBMBAR2s%2Bc%3D",
-      "entrants": 8,
+      "entrants": 13,
       "start_time": 1666135800
     },
     {
@@ -70,7 +62,7 @@
       "tournament_name": "Cataquackdown 13: No Shot DUDE!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488026/image-ecaa13f22e1bb3e138c673a0ff366268.png?ehk=0UJxPK2MHS1pPWNan5G%2FsUJ3HJFMx41p9Gnw0X5%2F0QM%3D&ehkOptimized=g6ldQ7ys612zW5FkDf1qiXvNP4Ilzg%2FjMks4E6V5yvc%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1666137600
     },
     {
@@ -86,7 +78,7 @@
       "tournament_name": "Level One Melee #48 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1666141200
     },
     {
@@ -102,7 +94,7 @@
       "tournament_name": "In The Garden",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489022/image-c47a4a2e61d88c4955be18d0900069ed.png?ehk=jbm%2BEtUIm3rlUgyEgjVU5quhH3d8aMgS%2FmAo0MFuNSM%3D&ehkOptimized=x4xURsRRlhdsEdKfanp6xgbinWAaI0WDBMrn8%2Bbl56I%3D",
-      "entrants": 9,
+      "entrants": 11,
       "start_time": 1666054800
     },
     {
