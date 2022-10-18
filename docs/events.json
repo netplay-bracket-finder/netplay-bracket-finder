@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666135708,
+  "fetched_at": 1666137265,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/ladder-melee-east-coast",
@@ -14,23 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 56,
-      "start_time": 1666119600
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 13,
-      "start_time": 1666119600
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/main-bracket-wc-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
-      "event_name": "Main Bracket: WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 1,
+      "entrants": 63,
       "start_time": 1666119600
     },
     {
@@ -50,28 +34,28 @@
       "start_time": 1666135800
     },
     {
+      "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
+      "entrants": 14,
+      "start_time": 1666119600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/main-bracket-wc-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
+      "event_name": "Main Bracket: WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
+      "entrants": 1,
+      "start_time": 1666119600
+    },
+    {
       "slug": "tournament/cataquackdown-13-no-shot-dude/event/melee-singles",
       "tournament_name": "Cataquackdown 13: No Shot DUDE!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488026/image-ecaa13f22e1bb3e138c673a0ff366268.png?ehk=0UJxPK2MHS1pPWNan5G%2FsUJ3HJFMx41p9Gnw0X5%2F0QM%3D&ehkOptimized=g6ldQ7ys612zW5FkDf1qiXvNP4Ilzg%2FjMks4E6V5yvc%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1666137600
-    },
-    {
-      "slug": "tournament/level-one-melee-48-a-noob-only-tournament/event/main-melee-singles",
-      "tournament_name": "Level One Melee #48 - a noob-only tournament",
-      "event_name": "Main Melee Singles",
-      "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
-      "entrants": 24,
-      "start_time": 1666141200
-    },
-    {
-      "slug": "tournament/level-one-melee-48-a-noob-only-tournament/event/amateur-melee-singles",
-      "tournament_name": "Level One Melee #48 - a noob-only tournament",
-      "event_name": "Amateur Melee Singles",
-      "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
-      "entrants": 13,
-      "start_time": 1666141200
     },
     {
       "slug": "tournament/the-og-lincorperation-16/event/melee-singles",
@@ -90,11 +74,27 @@
       "start_time": 1666054800
     },
     {
+      "slug": "tournament/level-one-melee-48-a-noob-only-tournament/event/main-melee-singles",
+      "tournament_name": "Level One Melee #48 - a noob-only tournament",
+      "event_name": "Main Melee Singles",
+      "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
+      "entrants": 26,
+      "start_time": 1666141200
+    },
+    {
+      "slug": "tournament/level-one-melee-48-a-noob-only-tournament/event/amateur-melee-singles",
+      "tournament_name": "Level One Melee #48 - a noob-only tournament",
+      "event_name": "Amateur Melee Singles",
+      "image": "https://images.start.gg/images/tournament/488895/image-b7bfb763b4077cfebb45c03c639c37bb.png?ehk=Ir%2FQLNvUhkET9c2EYZKud6ycWMWyh8Z2TloPPMirFaQ%3D&ehkOptimized=uhwdF40FumPxpCQUEJ2fk3wvl96o3hL11Nh2oJqDHnA%3D",
+      "entrants": 17,
+      "start_time": 1666141200
+    },
+    {
       "slug": "tournament/sux-2-shine-online-6/event/sux-2-shine-online-6",
       "tournament_name": "Sux 2 Shine Online: 6!",
       "event_name": "Sux 2 Shine Online 6!",
       "image": "https://images.start.gg/images/tournament/487876/image-ff05d57ee2eafbbc2b817360d3bd4ed8.png?ehk=pMYpF3W9P54QvRKaZztbNhNYsLsU5jJ7HYp9t7pKylY%3D&ehkOptimized=6Gi2VbS8KV%2FA5smedaznegBVCFD%2BiMQBFt01uRpK4to%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1666164600
     },
     {
