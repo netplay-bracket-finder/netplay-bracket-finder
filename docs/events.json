@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666183878,
+  "fetched_at": 1666187954,
   "data": [
     {
       "slug": "tournament/the-dairy-farm-5/event/melee-singles",
@@ -54,7 +54,7 @@
       "tournament_name": "Garbage Connection: LITE",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/489951/image-698cab2c6a5f6b59afe8e53812a1e0b9.jpg?ehk=g%2B66oiwkSw2bKvW4KJnRdZFSDHxS0F8snF%2FOSxLwJqs%3D&ehkOptimized=cehBfjVQGuuucoe7S8jMQCzyDwUu19N0aXDEOdqIQ70%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1666233000
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #35 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488274/image-10587dfa659efda68f60fd91b6f7319b.png?ehk=6JwVgh4993sbcLVpj6%2F%2F%2FUhJOkZFosPWVqSWjrS8vtA%3D&ehkOptimized=ON5mqj93HiyH1VKadPwqw6sv%2FIHhbptcIE9n%2F2k%2Fbe8%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1666285200
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #35 (EU Event)",
       "event_name": "Toblerone waitlist",
       "image": "https://images.start.gg/images/tournament/488274/image-10587dfa659efda68f60fd91b6f7319b.png?ehk=6JwVgh4993sbcLVpj6%2F%2F%2FUhJOkZFosPWVqSWjrS8vtA%3D&ehkOptimized=ON5mqj93HiyH1VKadPwqw6sv%2FIHhbptcIE9n%2F2k%2Fbe8%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666285200
     },
     {
