@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1666163176,
+  "fetched_at": 1666166150,
   "data": [
-    {
-      "slug": "tournament/sux-2-shine-online-6/event/sux-2-shine-online-6",
-      "tournament_name": "Sux 2 Shine Online: 6!",
-      "event_name": "Sux 2 Shine Online 6!",
-      "image": "https://images.start.gg/images/tournament/487876/image-ff05d57ee2eafbbc2b817360d3bd4ed8.png?ehk=pMYpF3W9P54QvRKaZztbNhNYsLsU5jJ7HYp9t7pKylY%3D&ehkOptimized=6Gi2VbS8KV%2FA5smedaznegBVCFD%2BiMQBFt01uRpK4to%3D",
-      "entrants": 6,
-      "start_time": 1666164600
-    },
     {
       "slug": "tournament/the-dairy-farm-5/event/melee-singles",
       "tournament_name": "The Dairy Farm #5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489050/image-6b26bdd4ceab83dfb880f0d085bbf2ce.png?ehk=MtUZfU6c6zve0UxOLxNjsTpxlE%2BSfXR9RyzOCkS%2BB3g%3D&ehkOptimized=o%2BrRX1z282yi2Tbin7CUiea0glTvK8G3b6ZMrBCOxrs%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1666200600
     },
     {
@@ -62,7 +54,7 @@
       "tournament_name": "Garbage Connection: LITE",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/489951/image-698cab2c6a5f6b59afe8e53812a1e0b9.jpg?ehk=g%2B66oiwkSw2bKvW4KJnRdZFSDHxS0F8snF%2FOSxLwJqs%3D&ehkOptimized=cehBfjVQGuuucoe7S8jMQCzyDwUu19N0aXDEOdqIQ70%3D",
-      "entrants": 2,
+      "entrants": 5,
       "start_time": 1666233000
     },
     {
@@ -270,7 +262,7 @@
       "tournament_name": "SEArcadian",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/482975/image-6393ad6128716f302365f629330ea9a6.png?ehk=K1Fm0pB05NV5fd2%2BVDWzB2cP2XTJjCOBOWypFhK7heA%3D&ehkOptimized=qlHpyCX4yon4LWZCeLNQIggNiFtNZ0nRXoltg7cKopE%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667023200
     },
     {
