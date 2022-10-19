@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666214497,
+  "fetched_at": 1666216021,
   "data": [
     {
       "slug": "tournament/cre-lee-9/event/melee-singles",
       "tournament_name": "Cre-lee #9",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489684/image-940186df57638f348b39b3bcb915283f.jpg?ehk=cE4WW5taEE1CsZbQFapeDC5CLFsRCdS6e1B%2BEMvFpBE%3D&ehkOptimized=5CU5XNCjcvCNaFE2LXWXGBL1CreFTg4MeRjJ2I1OI7E%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1666222200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Waddle Wednesday 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488753/image-b79ae217292c970011c60b64530e832d.png?ehk=dz0R7XsAeHh%2FUFbpyoGIUabFoGmAr6h%2F2FBwdONQ55U%3D&ehkOptimized=32VOeg271YwirBQ9A2GFoT5zb0gceXTx9hjny6Qfu1g%3D",
-      "entrants": 29,
+      "entrants": 30,
       "start_time": 1666224000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Cute Melee: Week 6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489217/image-c0f0e6254f97d9b61fa2d9b0b905fa56.png?ehk=BDSNj1lzhCgUdZkAHodRnf8RCabbUcStWi9B%2FbnQGTc%3D&ehkOptimized=Rpqd1yL5R6XLVSOE7ZoogPmoDa48LdPhqjT9yKXViQE%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1666224000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "The Salt Mine #46!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/489808/image-4bec93e800ac51ec1a4b1d3ff2f85fa1.png?ehk=fid1U%2Fg5keNZk2bYoCeUSHcD2asBRwC2COdHbSuaYWo%3D&ehkOptimized=z%2Fk%2F1k2LxBF9u65ibCWtkhO61%2FhUhJXgwJe57sRoCjY%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1666306800
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #8",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/489705/image-2f428a07d9be899d4812f04ac2023771.png?ehk=x2ncxHgUU2QHHGvzMz5TMXVKTGLFfSoqTE3FsaMHL8I%3D&ehkOptimized=bzsbbiJgGDJ4N%2BJSq3Kfgb9Vi1N%2FUpdX1h5fje4RmGI%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1666306800
     },
     {
@@ -166,7 +166,7 @@
       "tournament_name": "FragFest Fall 2022",
       "event_name": "FragFest Fall 2022: Super Smash Bros. Melee Crews LAN Tournament, Sponsored by HyperX",
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
-      "entrants": 2,
+      "entrants": 1,
       "start_time": 1666396800
     },
     {
@@ -286,7 +286,7 @@
       "tournament_name": "blumflip presents: Nightmare on Dreamland",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/489282/image-ddba731fbccb0d805efd68041ee3f579.jpg?ehk=Oh9GyWTHO9fm9dq3FbFh9iFZy1cefpe1xXm1LMUjalY%3D&ehkOptimized=orQho2vomFZlU7N6uqIrGh1MHc9QOAs4GoKnO1vqm1s%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1667167200
     },
     {
