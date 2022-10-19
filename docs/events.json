@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666218364,
+  "fetched_at": 1666219916,
   "data": [
     {
       "slug": "tournament/cre-lee-9/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Waddle Wednesday 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488753/image-b79ae217292c970011c60b64530e832d.png?ehk=dz0R7XsAeHh%2FUFbpyoGIUabFoGmAr6h%2F2FBwdONQ55U%3D&ehkOptimized=32VOeg271YwirBQ9A2GFoT5zb0gceXTx9hjny6Qfu1g%3D",
-      "entrants": 40,
+      "entrants": 55,
       "start_time": 1666224000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Silver Slippi League #27",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/489964/image-c9cd6668d7481a9b77d5be67fa80cd8b.png?ehk=IQFKYgcbT%2BwbaJD93A6bVLoJ%2FQRlNYfBym45vdkaVVI%3D&ehkOptimized=t97Ye%2Br5dnCwzqSTpscaPNrBo8hR7jon8Zj%2FbEZwGTw%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1666227600
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Garbage Connection: LITE",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/489951/image-698cab2c6a5f6b59afe8e53812a1e0b9.jpg?ehk=g%2B66oiwkSw2bKvW4KJnRdZFSDHxS0F8snF%2FOSxLwJqs%3D&ehkOptimized=cehBfjVQGuuucoe7S8jMQCzyDwUu19N0aXDEOdqIQ70%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1666233000
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #35 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488274/image-10587dfa659efda68f60fd91b6f7319b.png?ehk=6JwVgh4993sbcLVpj6%2F%2F%2FUhJOkZFosPWVqSWjrS8vtA%3D&ehkOptimized=ON5mqj93HiyH1VKadPwqw6sv%2FIHhbptcIE9n%2F2k%2Fbe8%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1666285200
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Only Noobs 89",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488420/image-22f7af679f6c33f4d19ac5c1a5fef4c7.jpg?ehk=1LzoHmGopRRtxffgR4SWBAiSNXE8o1fSc%2BotzaGbKzU%3D&ehkOptimized=IGMpJe5uK7WnJ6q8vk5uPzzjKwcUDsurKa3I41Or%2B2g%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1666306800
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #8",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/489705/image-2f428a07d9be899d4812f04ac2023771.png?ehk=x2ncxHgUU2QHHGvzMz5TMXVKTGLFfSoqTE3FsaMHL8I%3D&ehkOptimized=bzsbbiJgGDJ4N%2BJSq3Kfgb9Vi1N%2FUpdX1h5fje4RmGI%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1666306800
     },
     {
@@ -326,7 +326,7 @@
       "tournament_name": "Stel Hotel Throwdown: Minimum $100 Prize Pool!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1668209400
     },
     {
