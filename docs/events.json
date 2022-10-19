@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666207667,
+  "fetched_at": 1666208897,
   "data": [
     {
       "slug": "tournament/cre-lee-9/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "Cute Melee: Week 6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489217/image-c0f0e6254f97d9b61fa2d9b0b905fa56.png?ehk=BDSNj1lzhCgUdZkAHodRnf8RCabbUcStWi9B%2FbnQGTc%3D&ehkOptimized=Rpqd1yL5R6XLVSOE7ZoogPmoDa48LdPhqjT9yKXViQE%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1666224000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Silver Slippi League #27",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/489964/image-c9cd6668d7481a9b77d5be67fa80cd8b.png?ehk=IQFKYgcbT%2BwbaJD93A6bVLoJ%2FQRlNYfBym45vdkaVVI%3D&ehkOptimized=t97Ye%2Br5dnCwzqSTpscaPNrBo8hR7jon8Zj%2FbEZwGTw%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1666227600
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #35 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488274/image-10587dfa659efda68f60fd91b6f7319b.png?ehk=6JwVgh4993sbcLVpj6%2F%2F%2FUhJOkZFosPWVqSWjrS8vtA%3D&ehkOptimized=ON5mqj93HiyH1VKadPwqw6sv%2FIHhbptcIE9n%2F2k%2Fbe8%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1666285200
     },
     {
@@ -106,14 +106,6 @@
       "start_time": 1666308600
     },
     {
-      "slug": "tournament/seamus-birthday-bash/event/melee-singles",
-      "tournament_name": "Seamus' Birthday Bash",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/487944/image-73d58e92cf4157b768ef32ef29433388.jpg?ehk=Si3Yri%2BpClObLFDwPeT%2F5zA7BqiSRd2%2Bh5TDmq9pbN0%3D&ehkOptimized=hGmPL2BUE4ik6uYH69tl2PcyKLw3UQb3H6HHz9EvLVE%3D",
-      "entrants": 9,
-      "start_time": 1666308600
-    },
-    {
       "slug": "tournament/caf-44/event/melee-singles",
       "tournament_name": "Café 44",
       "event_name": "Melee Singles",
@@ -158,7 +150,7 @@
       "tournament_name": "Fresh Combos - $50+ Prize Pool",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489914/image-efe5da169e3c807a1fa0573351b2ed13.png?ehk=gffWIDuvZWb1lq%2B4tm5EuRP5k3j0Rc6imafyCizu0io%3D&ehkOptimized=T1qiHa%2BivCc7SlWsNLWxgkNo5z%2BXZhE0JrCp9nFSygE%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1666393200
     },
     {
@@ -248,6 +240,14 @@
       "image": "https://images.start.gg/images/tournament/489565/image-336a18423ec62bf9d5f75e47b41f4ebb.png?ehk=%2BZ4kCVB0ksGGUxbxsYUEALXHwns6evKyeki5tT%2F3ttY%3D&ehkOptimized=utqXr0GmJXgsjPN%2FYLw1M68n6Gt66eYEVNyRd%2BkdXnc%3D",
       "entrants": 4,
       "start_time": 1666564200
+    },
+    {
+      "slug": "tournament/seamus-birthday-bash/event/melee-singles",
+      "tournament_name": "Seamus' Birthday Bash",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/487944/image-73d58e92cf4157b768ef32ef29433388.jpg?ehk=Si3Yri%2BpClObLFDwPeT%2F5zA7BqiSRd2%2Bh5TDmq9pbN0%3D&ehkOptimized=hGmPL2BUE4ik6uYH69tl2PcyKLw3UQb3H6HHz9EvLVE%3D",
+      "entrants": 9,
+      "start_time": 1666740600
     },
     {
       "slug": "tournament/searcadian/event/singles",
