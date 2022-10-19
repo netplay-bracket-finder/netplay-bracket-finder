@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666216021,
+  "fetched_at": 1666218364,
   "data": [
     {
       "slug": "tournament/cre-lee-9/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Waddle Wednesday 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488753/image-b79ae217292c970011c60b64530e832d.png?ehk=dz0R7XsAeHh%2FUFbpyoGIUabFoGmAr6h%2F2FBwdONQ55U%3D&ehkOptimized=32VOeg271YwirBQ9A2GFoT5zb0gceXTx9hjny6Qfu1g%3D",
-      "entrants": 30,
+      "entrants": 40,
       "start_time": 1666224000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Cute Melee: Week 6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489217/image-c0f0e6254f97d9b61fa2d9b0b905fa56.png?ehk=BDSNj1lzhCgUdZkAHodRnf8RCabbUcStWi9B%2FbnQGTc%3D&ehkOptimized=Rpqd1yL5R6XLVSOE7ZoogPmoDa48LdPhqjT9yKXViQE%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1666224000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Silver Slippi League #27",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/489964/image-c9cd6668d7481a9b77d5be67fa80cd8b.png?ehk=IQFKYgcbT%2BwbaJD93A6bVLoJ%2FQRlNYfBym45vdkaVVI%3D&ehkOptimized=t97Ye%2Br5dnCwzqSTpscaPNrBo8hR7jon8Zj%2FbEZwGTw%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1666227600
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "The Salt Mine #46!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/489808/image-4bec93e800ac51ec1a4b1d3ff2f85fa1.png?ehk=fid1U%2Fg5keNZk2bYoCeUSHcD2asBRwC2COdHbSuaYWo%3D&ehkOptimized=z%2Fk%2F1k2LxBF9u65ibCWtkhO61%2FhUhJXgwJe57sRoCjY%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1666306800
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #8",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/489705/image-2f428a07d9be899d4812f04ac2023771.png?ehk=x2ncxHgUU2QHHGvzMz5TMXVKTGLFfSoqTE3FsaMHL8I%3D&ehkOptimized=bzsbbiJgGDJ4N%2BJSq3Kfgb9Vi1N%2FUpdX1h5fje4RmGI%3D",
-      "entrants": 6,
+      "entrants": 9,
       "start_time": 1666306800
     },
     {
