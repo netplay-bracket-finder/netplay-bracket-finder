@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666145506,
+  "fetched_at": 1666153755,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/ladder-melee-east-coast",
@@ -18,6 +18,14 @@
       "start_time": 1666119600
     },
     {
+      "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/main-bracket-wc-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
+      "event_name": "Main Bracket: WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
+      "entrants": 22,
+      "start_time": 1666146600
+    },
+    {
       "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/main-bracket-ec-melee-singles",
       "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
@@ -34,27 +42,19 @@
       "start_time": 1666135800
     },
     {
-      "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/main-bracket-wc-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
-      "event_name": "Main Bracket: WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
-      "entrants": 20,
-      "start_time": 1666119600
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-99-lite-edition/event/side-event-wc-melee-redemption-bracket",
       "tournament_name": "Training Mode Tuesdays #99 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/489652/image-b52d70123206749810b5710a02b03fc4.png?ehk=81sdWqez7IST%2BzsBlxQ0ECaJn1u0hXiItctMPupLZ5E%3D&ehkOptimized=WuSbXyOsNr%2FNuFfzVVaxpdXoebDcKzLFjz15HwA02t4%3D",
       "entrants": 19,
-      "start_time": 1666119600
+      "start_time": 1666146600
     },
     {
       "slug": "tournament/sux-2-shine-online-6/event/sux-2-shine-online-6",
       "tournament_name": "Sux 2 Shine Online: 6!",
       "event_name": "Sux 2 Shine Online 6!",
       "image": "https://images.start.gg/images/tournament/487876/image-ff05d57ee2eafbbc2b817360d3bd4ed8.png?ehk=pMYpF3W9P54QvRKaZztbNhNYsLsU5jJ7HYp9t7pKylY%3D&ehkOptimized=6Gi2VbS8KV%2FA5smedaznegBVCFD%2BiMQBFt01uRpK4to%3D",
-      "entrants": 2,
+      "entrants": 5,
       "start_time": 1666164600
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Waddle Wednesday 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488753/image-b79ae217292c970011c60b64530e832d.png?ehk=dz0R7XsAeHh%2FUFbpyoGIUabFoGmAr6h%2F2FBwdONQ55U%3D&ehkOptimized=32VOeg271YwirBQ9A2GFoT5zb0gceXTx9hjny6Qfu1g%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1666224000
     },
     {
@@ -98,11 +98,19 @@
       "start_time": 1666224000
     },
     {
+      "slug": "tournament/silver-slippi-league-27/event/melee-ranked-ladder",
+      "tournament_name": "Silver Slippi League #27",
+      "event_name": "Melee Ranked Ladder",
+      "image": "https://images.start.gg/images/tournament/489964/image-c9cd6668d7481a9b77d5be67fa80cd8b.png?ehk=IQFKYgcbT%2BwbaJD93A6bVLoJ%2FQRlNYfBym45vdkaVVI%3D&ehkOptimized=t97Ye%2Br5dnCwzqSTpscaPNrBo8hR7jon8Zj%2FbEZwGTw%3D",
+      "entrants": 1,
+      "start_time": 1666227600
+    },
+    {
       "slug": "tournament/garbage-connection-lite/event/melee-singles-west-coast",
       "tournament_name": "Garbage Connection: LITE",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/489951/image-698cab2c6a5f6b59afe8e53812a1e0b9.jpg?ehk=g%2B66oiwkSw2bKvW4KJnRdZFSDHxS0F8snF%2FOSxLwJqs%3D&ehkOptimized=cehBfjVQGuuucoe7S8jMQCzyDwUu19N0aXDEOdqIQ70%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1666233000
     },
     {
@@ -134,7 +142,7 @@
       "tournament_name": "Only Noobs 89",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488420/image-22f7af679f6c33f4d19ac5c1a5fef4c7.jpg?ehk=1LzoHmGopRRtxffgR4SWBAiSNXE8o1fSc%2BotzaGbKzU%3D&ehkOptimized=IGMpJe5uK7WnJ6q8vk5uPzzjKwcUDsurKa3I41Or%2B2g%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1666306800
     },
     {
@@ -142,7 +150,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #8",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/489705/image-2f428a07d9be899d4812f04ac2023771.png?ehk=x2ncxHgUU2QHHGvzMz5TMXVKTGLFfSoqTE3FsaMHL8I%3D&ehkOptimized=bzsbbiJgGDJ4N%2BJSq3Kfgb9Vi1N%2FUpdX1h5fje4RmGI%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1666306800
     },
     {
@@ -214,7 +222,7 @@
       "tournament_name": "Fresh Combos - $50+ Prize Pool",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489914/image-efe5da169e3c807a1fa0573351b2ed13.png?ehk=gffWIDuvZWb1lq%2B4tm5EuRP5k3j0Rc6imafyCizu0io%3D&ehkOptimized=T1qiHa%2BivCc7SlWsNLWxgkNo5z%2BXZhE0JrCp9nFSygE%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1666393200
     },
     {
@@ -254,7 +262,7 @@
       "tournament_name": "Legs' Le Tournament #54",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488873/image-a43edb2eb52debad4feb67af9d211f27.png?ehk=GcmhTP2LupRQCs2w58qXr1lteZlz1lFyifJOhZZoaQU%3D&ehkOptimized=9J5OO0eTOzKqRaCWogdLWzGsDOjgndlP6SZ1SBTbzb4%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1666472400
     },
     {
