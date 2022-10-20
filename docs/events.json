@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1666239007,
+  "fetched_at": 1666242854,
   "data": [
-    {
-      "slug": "tournament/silver-slippi-league-27/event/melee-ranked-ladder",
-      "tournament_name": "Silver Slippi League #27",
-      "event_name": "Melee Ranked Ladder",
-      "image": "https://images.start.gg/images/tournament/489964/image-c9cd6668d7481a9b77d5be67fa80cd8b.png?ehk=IQFKYgcbT%2BwbaJD93A6bVLoJ%2FQRlNYfBym45vdkaVVI%3D&ehkOptimized=t97Ye%2Br5dnCwzqSTpscaPNrBo8hR7jon8Zj%2FbEZwGTw%3D",
-      "entrants": 29,
-      "start_time": 1666227600
-    },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-35-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #35 (EU Event)",
@@ -30,7 +22,7 @@
       "tournament_name": "The Salt Mine #46!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/489808/image-4bec93e800ac51ec1a4b1d3ff2f85fa1.png?ehk=fid1U%2Fg5keNZk2bYoCeUSHcD2asBRwC2COdHbSuaYWo%3D&ehkOptimized=z%2Fk%2F1k2LxBF9u65ibCWtkhO61%2FhUhJXgwJe57sRoCjY%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1666306800
     },
     {
@@ -38,7 +30,7 @@
       "tournament_name": "Only Noobs 89",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488420/image-22f7af679f6c33f4d19ac5c1a5fef4c7.jpg?ehk=1LzoHmGopRRtxffgR4SWBAiSNXE8o1fSc%2BotzaGbKzU%3D&ehkOptimized=IGMpJe5uK7WnJ6q8vk5uPzzjKwcUDsurKa3I41Or%2B2g%3D",
-      "entrants": 19,
+      "entrants": 20,
       "start_time": 1666306800
     },
     {
@@ -150,7 +142,7 @@
       "tournament_name": "Legs' Le Tournament #54",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488873/image-a43edb2eb52debad4feb67af9d211f27.png?ehk=GcmhTP2LupRQCs2w58qXr1lteZlz1lFyifJOhZZoaQU%3D&ehkOptimized=9J5OO0eTOzKqRaCWogdLWzGsDOjgndlP6SZ1SBTbzb4%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1666472400
     },
     {
@@ -202,17 +194,17 @@
       "start_time": 1666564200
     },
     {
-      "slug": "tournament/coast-to-coast-doubles-4/event/ec-doubles",
-      "tournament_name": "Coast to Coast Doubles # 4",
-      "event_name": "EC Doubles",
-      "image": "https://images.start.gg/images/tournament/490276/image-0a3ae46fd8fbd9449ea1fec658b1cdde.png?ehk=6V%2BhEZro%2BA4wPJ9a%2BWAOUuMvoPove2irUt3w9pb%2BjTA%3D&ehkOptimized=iQo1pjsaJdk0tRdwmJS0dbocn73vj5FDy25Dlv1Ly7g%3D",
-      "entrants": 0,
-      "start_time": 1666652400
-    },
-    {
       "slug": "tournament/coast-to-coast-doubles-4/event/wc-doubles",
       "tournament_name": "Coast to Coast Doubles # 4",
       "event_name": "WC Doubles",
+      "image": "https://images.start.gg/images/tournament/490276/image-0a3ae46fd8fbd9449ea1fec658b1cdde.png?ehk=6V%2BhEZro%2BA4wPJ9a%2BWAOUuMvoPove2irUt3w9pb%2BjTA%3D&ehkOptimized=iQo1pjsaJdk0tRdwmJS0dbocn73vj5FDy25Dlv1Ly7g%3D",
+      "entrants": 1,
+      "start_time": 1666652400
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-4/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 4",
+      "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/490276/image-0a3ae46fd8fbd9449ea1fec658b1cdde.png?ehk=6V%2BhEZro%2BA4wPJ9a%2BWAOUuMvoPove2irUt3w9pb%2BjTA%3D&ehkOptimized=iQo1pjsaJdk0tRdwmJS0dbocn73vj5FDy25Dlv1Ly7g%3D",
       "entrants": 0,
       "start_time": 1666652400
