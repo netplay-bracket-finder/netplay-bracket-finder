@@ -1,28 +1,12 @@
 {
-  "fetched_at": 1666308552,
+  "fetched_at": 1666310152,
   "data": [
-    {
-      "slug": "tournament/the-salt-mine-46/event/the-salt-mine",
-      "tournament_name": "The Salt Mine #46!",
-      "event_name": "The Salt Mine!",
-      "image": "https://images.start.gg/images/tournament/489808/image-4bec93e800ac51ec1a4b1d3ff2f85fa1.png?ehk=fid1U%2Fg5keNZk2bYoCeUSHcD2asBRwC2COdHbSuaYWo%3D&ehkOptimized=z%2Fk%2F1k2LxBF9u65ibCWtkhO61%2FhUhJXgwJe57sRoCjY%3D",
-      "entrants": 44,
-      "start_time": 1666306800
-    },
-    {
-      "slug": "tournament/goats-only-thursdaez-28/event/melee-singles",
-      "tournament_name": "GOATs Only - Thursdaez #28",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/490349/image-5b68ade00dda899112e4398087d952e1.png?ehk=KL9JQ9%2BwH8rUarWOi4GcuNzNeaNG6%2Fo5haR2k4ElevA%3D&ehkOptimized=UVYEWB160p8vZF4eQtFkaSu%2BXowoRWxaIaGi9DNwudQ%3D",
-      "entrants": 8,
-      "start_time": 1666310400
-    },
     {
       "slug": "tournament/thursday-thmackdown-7/event/melee-singles",
       "tournament_name": "Thursday Thmackdown #7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490396/image-ef756c1ad38bb9ea8ddbada9d936f946.png?ehk=E9YWYmgOjjwD2tc1aYktLTbGcpGImsQJsiT%2FPgak3WY%3D&ehkOptimized=5T4dcmIxWvoyY6gtMDzXJXyqjegqi5Hrxz1wZI7SvJw%3D",
-      "entrants": 6,
+      "entrants": 10,
       "start_time": 1666317600
     },
     {
@@ -30,7 +14,7 @@
       "tournament_name": "BB 75",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490513/image-dc7cfdaae2ddeb1b63900e9da070a4c2.jpg?ehk=VEnh56bB2p9FfYqljXmCypK0uoRwGv%2Fs2C8WtF3TW%2FA%3D&ehkOptimized=voCfmyh2nA3Bwhlmz%2F7zBjRYsyIQqX16aNZKKT3PKdM%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1666335600
     },
     {
@@ -86,7 +70,7 @@
       "tournament_name": "FragFest Fall 2022",
       "event_name": "FragFest Fall 2022: Super Smash Bros. Melee Singles LAN Tournament, Sponsored by HyperX",
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
-      "entrants": 56,
+      "entrants": 58,
       "start_time": 1666396800
     },
     {
