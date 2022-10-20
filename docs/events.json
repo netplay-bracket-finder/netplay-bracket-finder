@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666279654,
+  "fetched_at": 1666281357,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-35-eu-event/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "The Salt Mine #46!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/489808/image-4bec93e800ac51ec1a4b1d3ff2f85fa1.png?ehk=fid1U%2Fg5keNZk2bYoCeUSHcD2asBRwC2COdHbSuaYWo%3D&ehkOptimized=z%2Fk%2F1k2LxBF9u65ibCWtkhO61%2FhUhJXgwJe57sRoCjY%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1666306800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Only Noobs 89",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488420/image-22f7af679f6c33f4d19ac5c1a5fef4c7.jpg?ehk=1LzoHmGopRRtxffgR4SWBAiSNXE8o1fSc%2BotzaGbKzU%3D&ehkOptimized=IGMpJe5uK7WnJ6q8vk5uPzzjKwcUDsurKa3I41Or%2B2g%3D",
-      "entrants": 30,
+      "entrants": 32,
       "start_time": 1666306800
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Metabreaker #1",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1666308600
     },
     {
@@ -152,6 +152,14 @@
       "image": "https://images.start.gg/images/tournament/489493/image-9bb4623d51d57443e0fb4d9ef92a2365.jpg?ehk=ne7RAzaS%2FFsky1ofVfHt8717a9ukASJBBwj8boBGhwA%3D&ehkOptimized=pLvB%2FIb8Op1BmQILxWqUqyL2%2BvKjOM2Z%2Fio%2Blocl3BY%3D",
       "entrants": 1,
       "start_time": 1666449000
+    },
+    {
+      "slug": "tournament/asl-s-weekly-weekend-melee-13/event/melee-singles",
+      "tournament_name": "ASL’s Weekly Weekend Melee #13",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490377/image-9ebd705a9629294a763ea04208035a46.png?ehk=0SnTtH7SZINMphKrP%2Be%2BJhHmf35xxWZzep5YokXws8o%3D&ehkOptimized=Z9bxXj%2Fr5CR40QqUpxBjvWoxyy%2B1lruH1XLXaE2lXow%3D",
+      "entrants": 0,
+      "start_time": 1666456200
     },
     {
       "slug": "tournament/legs-le-tournament-54/event/melee-singles",
