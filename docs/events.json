@@ -1,21 +1,13 @@
 {
-  "fetched_at": 1666231956,
+  "fetched_at": 1666239007,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-27/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #27",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/489964/image-c9cd6668d7481a9b77d5be67fa80cd8b.png?ehk=IQFKYgcbT%2BwbaJD93A6bVLoJ%2FQRlNYfBym45vdkaVVI%3D&ehkOptimized=t97Ye%2Br5dnCwzqSTpscaPNrBo8hR7jon8Zj%2FbEZwGTw%3D",
-      "entrants": 27,
+      "entrants": 29,
       "start_time": 1666227600
-    },
-    {
-      "slug": "tournament/garbage-connection-lite/event/melee-singles-west-coast",
-      "tournament_name": "Garbage Connection: LITE",
-      "event_name": "Melee Singles: West-Coast",
-      "image": "https://images.start.gg/images/tournament/489951/image-698cab2c6a5f6b59afe8e53812a1e0b9.jpg?ehk=g%2B66oiwkSw2bKvW4KJnRdZFSDHxS0F8snF%2FOSxLwJqs%3D&ehkOptimized=cehBfjVQGuuucoe7S8jMQCzyDwUu19N0aXDEOdqIQ70%3D",
-      "entrants": 21,
-      "start_time": 1666233000
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-35-eu-event/event/melee-singles",
@@ -206,8 +198,24 @@
       "tournament_name": "Bromomento relámpago #2",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/489565/image-336a18423ec62bf9d5f75e47b41f4ebb.png?ehk=%2BZ4kCVB0ksGGUxbxsYUEALXHwns6evKyeki5tT%2F3ttY%3D&ehkOptimized=utqXr0GmJXgsjPN%2FYLw1M68n6Gt66eYEVNyRd%2BkdXnc%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1666564200
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-4/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 4",
+      "event_name": "EC Doubles",
+      "image": "https://images.start.gg/images/tournament/490276/image-0a3ae46fd8fbd9449ea1fec658b1cdde.png?ehk=6V%2BhEZro%2BA4wPJ9a%2BWAOUuMvoPove2irUt3w9pb%2BjTA%3D&ehkOptimized=iQo1pjsaJdk0tRdwmJS0dbocn73vj5FDy25Dlv1Ly7g%3D",
+      "entrants": 0,
+      "start_time": 1666652400
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-4/event/wc-doubles",
+      "tournament_name": "Coast to Coast Doubles # 4",
+      "event_name": "WC Doubles",
+      "image": "https://images.start.gg/images/tournament/490276/image-0a3ae46fd8fbd9449ea1fec658b1cdde.png?ehk=6V%2BhEZro%2BA4wPJ9a%2BWAOUuMvoPove2irUt3w9pb%2BjTA%3D&ehkOptimized=iQo1pjsaJdk0tRdwmJS0dbocn73vj5FDy25Dlv1Ly7g%3D",
+      "entrants": 0,
+      "start_time": 1666652400
     },
     {
       "slug": "tournament/seamus-birthday-bash/event/melee-singles",
