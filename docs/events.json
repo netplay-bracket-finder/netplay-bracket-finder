@@ -1,28 +1,12 @@
 {
-  "fetched_at": 1666283941,
+  "fetched_at": 1666286702,
   "data": [
-    {
-      "slug": "tournament/toblerone-tangerine-thursdays-35-eu-event/event/melee-singles",
-      "tournament_name": "Toblerone Tangerine Thursdays #35 (EU Event)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/488274/image-10587dfa659efda68f60fd91b6f7319b.png?ehk=6JwVgh4993sbcLVpj6%2F%2F%2FUhJOkZFosPWVqSWjrS8vtA%3D&ehkOptimized=ON5mqj93HiyH1VKadPwqw6sv%2FIHhbptcIE9n%2F2k%2Fbe8%3D",
-      "entrants": 16,
-      "start_time": 1666285200
-    },
-    {
-      "slug": "tournament/toblerone-tangerine-thursdays-35-eu-event/event/toblerone-waitlist",
-      "tournament_name": "Toblerone Tangerine Thursdays #35 (EU Event)",
-      "event_name": "Toblerone waitlist",
-      "image": "https://images.start.gg/images/tournament/488274/image-10587dfa659efda68f60fd91b6f7319b.png?ehk=6JwVgh4993sbcLVpj6%2F%2F%2FUhJOkZFosPWVqSWjrS8vtA%3D&ehkOptimized=ON5mqj93HiyH1VKadPwqw6sv%2FIHhbptcIE9n%2F2k%2Fbe8%3D",
-      "entrants": 6,
-      "start_time": 1666285200
-    },
     {
       "slug": "tournament/troppo-italiano-70/event/singles",
       "tournament_name": "Troppo Italiano #70",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/488208/image-3254421aa2b80c60182f9c91e5c2098a.jpg?ehk=%2BU4Vmc2GMFWLnB5SJUopwDOb9lSNGEvAXg6bz8H8jVs%3D&ehkOptimized=ILCYhscwHeJtoDf%2Bp2h9RFSl5paRiWT7B6FbSmCOQd0%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1666292400
     },
     {
@@ -30,7 +14,7 @@
       "tournament_name": "The Salt Mine #46!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/489808/image-4bec93e800ac51ec1a4b1d3ff2f85fa1.png?ehk=fid1U%2Fg5keNZk2bYoCeUSHcD2asBRwC2COdHbSuaYWo%3D&ehkOptimized=z%2Fk%2F1k2LxBF9u65ibCWtkhO61%2FhUhJXgwJe57sRoCjY%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1666306800
     },
     {
@@ -38,7 +22,7 @@
       "tournament_name": "Only Noobs 89",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488420/image-22f7af679f6c33f4d19ac5c1a5fef4c7.jpg?ehk=1LzoHmGopRRtxffgR4SWBAiSNXE8o1fSc%2BotzaGbKzU%3D&ehkOptimized=IGMpJe5uK7WnJ6q8vk5uPzzjKwcUDsurKa3I41Or%2B2g%3D",
-      "entrants": 39,
+      "entrants": 44,
       "start_time": 1666306800
     },
     {
@@ -72,6 +56,14 @@
       "image": "https://images.start.gg/images/tournament/490349/image-5b68ade00dda899112e4398087d952e1.png?ehk=KL9JQ9%2BwH8rUarWOi4GcuNzNeaNG6%2Fo5haR2k4ElevA%3D&ehkOptimized=UVYEWB160p8vZF4eQtFkaSu%2BXowoRWxaIaGi9DNwudQ%3D",
       "entrants": 1,
       "start_time": 1666310400
+    },
+    {
+      "slug": "tournament/thursday-thmackdown-7/event/melee-singles",
+      "tournament_name": "Thursday Thmackdown #7",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490396/image-ef756c1ad38bb9ea8ddbada9d936f946.png?ehk=E9YWYmgOjjwD2tc1aYktLTbGcpGImsQJsiT%2FPgak3WY%3D&ehkOptimized=5T4dcmIxWvoyY6gtMDzXJXyqjegqi5Hrxz1wZI7SvJw%3D",
+      "entrants": 1,
+      "start_time": 1666317600
     },
     {
       "slug": "tournament/caf-44/event/melee-singles",
@@ -158,7 +150,7 @@
       "tournament_name": "ASL’s Weekly Weekend Melee #13",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490377/image-9ebd705a9629294a763ea04208035a46.png?ehk=0SnTtH7SZINMphKrP%2Be%2BJhHmf35xxWZzep5YokXws8o%3D&ehkOptimized=Z9bxXj%2Fr5CR40QqUpxBjvWoxyy%2B1lruH1XLXaE2lXow%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1666456200
     },
     {
@@ -278,7 +270,7 @@
       "tournament_name": "blumflip presents: Nightmare on Dreamland",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/489282/image-ddba731fbccb0d805efd68041ee3f579.jpg?ehk=Oh9GyWTHO9fm9dq3FbFh9iFZy1cefpe1xXm1LMUjalY%3D&ehkOptimized=orQho2vomFZlU7N6uqIrGh1MHc9QOAs4GoKnO1vqm1s%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1667167200
     },
     {
