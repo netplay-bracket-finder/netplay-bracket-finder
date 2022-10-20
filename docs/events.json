@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1666289260,
+  "fetched_at": 1666292257,
   "data": [
-    {
-      "slug": "tournament/troppo-italiano-70/event/singles",
-      "tournament_name": "Troppo Italiano #70",
-      "event_name": "Singles",
-      "image": "https://images.start.gg/images/tournament/488208/image-3254421aa2b80c60182f9c91e5c2098a.jpg?ehk=%2BU4Vmc2GMFWLnB5SJUopwDOb9lSNGEvAXg6bz8H8jVs%3D&ehkOptimized=ILCYhscwHeJtoDf%2Bp2h9RFSl5paRiWT7B6FbSmCOQd0%3D",
-      "entrants": 3,
-      "start_time": 1666292400
-    },
     {
       "slug": "tournament/the-salt-mine-46/event/the-salt-mine",
       "tournament_name": "The Salt Mine #46!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/489808/image-4bec93e800ac51ec1a4b1d3ff2f85fa1.png?ehk=fid1U%2Fg5keNZk2bYoCeUSHcD2asBRwC2COdHbSuaYWo%3D&ehkOptimized=z%2Fk%2F1k2LxBF9u65ibCWtkhO61%2FhUhJXgwJe57sRoCjY%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1666306800
     },
     {
@@ -22,7 +14,7 @@
       "tournament_name": "Only Noobs 89",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488420/image-22f7af679f6c33f4d19ac5c1a5fef4c7.jpg?ehk=1LzoHmGopRRtxffgR4SWBAiSNXE8o1fSc%2BotzaGbKzU%3D&ehkOptimized=IGMpJe5uK7WnJ6q8vk5uPzzjKwcUDsurKa3I41Or%2B2g%3D",
-      "entrants": 50,
+      "entrants": 57,
       "start_time": 1666306800
     },
     {
@@ -46,7 +38,7 @@
       "tournament_name": "Metabreaker #1",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1666308600
     },
     {
@@ -62,7 +54,7 @@
       "tournament_name": "Thursday Thmackdown #7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490396/image-ef756c1ad38bb9ea8ddbada9d936f946.png?ehk=E9YWYmgOjjwD2tc1aYktLTbGcpGImsQJsiT%2FPgak3WY%3D&ehkOptimized=5T4dcmIxWvoyY6gtMDzXJXyqjegqi5Hrxz1wZI7SvJw%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1666317600
     },
     {
@@ -174,7 +166,7 @@
       "tournament_name": "LGBT S3E12: Oops! All Sundays!",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/489806/image-80e78a06d24f66e55b35e84240712d9d.png?ehk=1mQWLlT9t53kIZXWmQsvbixmuPgTZluwa1cJx%2BsWM9U%3D&ehkOptimized=zUCgEzTbXMdaC%2ByDYrrButMJt2Ru4cT1g1az5ZpaTqY%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1666497600
     },
     {
@@ -182,7 +174,7 @@
       "tournament_name": "LGBT S3E12: Oops! All Sundays!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489806/image-80e78a06d24f66e55b35e84240712d9d.png?ehk=1mQWLlT9t53kIZXWmQsvbixmuPgTZluwa1cJx%2BsWM9U%3D&ehkOptimized=zUCgEzTbXMdaC%2ByDYrrButMJt2Ru4cT1g1az5ZpaTqY%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1666497600
     },
     {
