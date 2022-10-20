@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666286702,
+  "fetched_at": 1666289260,
   "data": [
     {
       "slug": "tournament/troppo-italiano-70/event/singles",
@@ -14,7 +14,7 @@
       "tournament_name": "The Salt Mine #46!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/489808/image-4bec93e800ac51ec1a4b1d3ff2f85fa1.png?ehk=fid1U%2Fg5keNZk2bYoCeUSHcD2asBRwC2COdHbSuaYWo%3D&ehkOptimized=z%2Fk%2F1k2LxBF9u65ibCWtkhO61%2FhUhJXgwJe57sRoCjY%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1666306800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Only Noobs 89",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488420/image-22f7af679f6c33f4d19ac5c1a5fef4c7.jpg?ehk=1LzoHmGopRRtxffgR4SWBAiSNXE8o1fSc%2BotzaGbKzU%3D&ehkOptimized=IGMpJe5uK7WnJ6q8vk5uPzzjKwcUDsurKa3I41Or%2B2g%3D",
-      "entrants": 44,
+      "entrants": 50,
       "start_time": 1666306800
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Thursday Thmackdown #7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490396/image-ef756c1ad38bb9ea8ddbada9d936f946.png?ehk=E9YWYmgOjjwD2tc1aYktLTbGcpGImsQJsiT%2FPgak3WY%3D&ehkOptimized=5T4dcmIxWvoyY6gtMDzXJXyqjegqi5Hrxz1wZI7SvJw%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1666317600
     },
     {
@@ -270,7 +270,7 @@
       "tournament_name": "blumflip presents: Nightmare on Dreamland",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/489282/image-ddba731fbccb0d805efd68041ee3f579.jpg?ehk=Oh9GyWTHO9fm9dq3FbFh9iFZy1cefpe1xXm1LMUjalY%3D&ehkOptimized=orQho2vomFZlU7N6uqIrGh1MHc9QOAs4GoKnO1vqm1s%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667167200
     },
     {
