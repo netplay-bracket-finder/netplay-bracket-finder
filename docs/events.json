@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666270229,
+  "fetched_at": 1666274425,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-35-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #35 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488274/image-10587dfa659efda68f60fd91b6f7319b.png?ehk=6JwVgh4993sbcLVpj6%2F%2F%2FUhJOkZFosPWVqSWjrS8vtA%3D&ehkOptimized=ON5mqj93HiyH1VKadPwqw6sv%2FIHhbptcIE9n%2F2k%2Fbe8%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1666285200
     },
     {
@@ -16,6 +16,14 @@
       "image": "https://images.start.gg/images/tournament/488274/image-10587dfa659efda68f60fd91b6f7319b.png?ehk=6JwVgh4993sbcLVpj6%2F%2F%2FUhJOkZFosPWVqSWjrS8vtA%3D&ehkOptimized=ON5mqj93HiyH1VKadPwqw6sv%2FIHhbptcIE9n%2F2k%2Fbe8%3D",
       "entrants": 0,
       "start_time": 1666285200
+    },
+    {
+      "slug": "tournament/troppo-italiano-70/event/singles",
+      "tournament_name": "Troppo Italiano #70",
+      "event_name": "Singles",
+      "image": "https://images.start.gg/images/tournament/488208/image-3254421aa2b80c60182f9c91e5c2098a.jpg?ehk=%2BU4Vmc2GMFWLnB5SJUopwDOb9lSNGEvAXg6bz8H8jVs%3D&ehkOptimized=ILCYhscwHeJtoDf%2Bp2h9RFSl5paRiWT7B6FbSmCOQd0%3D",
+      "entrants": 1,
+      "start_time": 1666292400
     },
     {
       "slug": "tournament/the-salt-mine-46/event/the-salt-mine",
@@ -30,7 +38,7 @@
       "tournament_name": "Only Noobs 89",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488420/image-22f7af679f6c33f4d19ac5c1a5fef4c7.jpg?ehk=1LzoHmGopRRtxffgR4SWBAiSNXE8o1fSc%2BotzaGbKzU%3D&ehkOptimized=IGMpJe5uK7WnJ6q8vk5uPzzjKwcUDsurKa3I41Or%2B2g%3D",
-      "entrants": 23,
+      "entrants": 27,
       "start_time": 1666306800
     },
     {
@@ -56,6 +64,14 @@
       "image": "",
       "entrants": 1,
       "start_time": 1666308600
+    },
+    {
+      "slug": "tournament/goats-only-thursdaez-28/event/melee-singles",
+      "tournament_name": "GOATs Only - Thursdaez #28",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490349/image-5b68ade00dda899112e4398087d952e1.png?ehk=KL9JQ9%2BwH8rUarWOi4GcuNzNeaNG6%2Fo5haR2k4ElevA%3D&ehkOptimized=UVYEWB160p8vZF4eQtFkaSu%2BXowoRWxaIaGi9DNwudQ%3D",
+      "entrants": 1,
+      "start_time": 1666310400
     },
     {
       "slug": "tournament/caf-44/event/melee-singles",
@@ -182,7 +198,7 @@
       "tournament_name": "Fight of the Fearless 24",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/489245/image-b417e2ad5bfa2bd75bbd860949d84c99.png?ehk=JzhAtlNsnIgMl04UIPueANYCJ0yl5U4TeSfB2N4ZktA%3D&ehkOptimized=MM5PcLxHq1D94WKjR%2BVOSuaeeyXWOqHFo5UK3yHrw7k%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666544400
     },
     {
