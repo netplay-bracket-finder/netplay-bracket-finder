@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666304619,
+  "fetched_at": 1666306197,
   "data": [
     {
       "slug": "tournament/the-salt-mine-46/event/the-salt-mine",
       "tournament_name": "The Salt Mine #46!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/489808/image-4bec93e800ac51ec1a4b1d3ff2f85fa1.png?ehk=fid1U%2Fg5keNZk2bYoCeUSHcD2asBRwC2COdHbSuaYWo%3D&ehkOptimized=z%2Fk%2F1k2LxBF9u65ibCWtkhO61%2FhUhJXgwJe57sRoCjY%3D",
-      "entrants": 34,
+      "entrants": 37,
       "start_time": 1666306800
     },
     {
@@ -14,15 +14,7 @@
       "tournament_name": "The Return of NFC #6 | Presented by NxGn Esports",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490431/image-de3b580345c8394463e2bf77ee4a5814.png?ehk=r43QdA8m7PkQoKS8kf34jUwkPdasDJHatg07s8roOZ4%3D&ehkOptimized=yzy0xehaQ2kpXMmx0nQWPLG%2F7yg9SN%2FAODltodQyCMs%3D",
-      "entrants": 9,
-      "start_time": 1666306800
-    },
-    {
-      "slug": "tournament/only-noobs-89/event/melee-singles",
-      "tournament_name": "Only Noobs 89",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/488420/image-22f7af679f6c33f4d19ac5c1a5fef4c7.jpg?ehk=1LzoHmGopRRtxffgR4SWBAiSNXE8o1fSc%2BotzaGbKzU%3D&ehkOptimized=IGMpJe5uK7WnJ6q8vk5uPzzjKwcUDsurKa3I41Or%2B2g%3D",
-      "entrants": 113,
+      "entrants": 12,
       "start_time": 1666306800
     },
     {
@@ -206,7 +198,7 @@
       "tournament_name": "Bromomento relámpago #2",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/489565/image-336a18423ec62bf9d5f75e47b41f4ebb.png?ehk=%2BZ4kCVB0ksGGUxbxsYUEALXHwns6evKyeki5tT%2F3ttY%3D&ehkOptimized=utqXr0GmJXgsjPN%2FYLw1M68n6Gt66eYEVNyRd%2BkdXnc%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1666564200
     },
     {
