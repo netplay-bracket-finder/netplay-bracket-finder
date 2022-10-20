@@ -1,28 +1,12 @@
 {
-  "fetched_at": 1666223645,
+  "fetched_at": 1666231956,
   "data": [
-    {
-      "slug": "tournament/galaxy-gladiators-17-solar-circuit-qualifier/event/melee-singles",
-      "tournament_name": "Galaxy Gladiators #17 (Solar Circuit Qualifier)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/489006/image-ab5fd74cb1dbe7b26f498b6905b3d707.png?ehk=nPa9GJqhc%2FEvBiNpydoXSw5%2BnvuVkPah3ClfXtoG5hA%3D&ehkOptimized=CqWsjlo4PFhjYFCxWtFYjGjQc6E4Zhrk6AABGuKt%2BKI%3D",
-      "entrants": 1,
-      "start_time": 1666224000
-    },
-    {
-      "slug": "tournament/cute-melee-week-6/event/melee-singles",
-      "tournament_name": "Cute Melee: Week 6",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/489217/image-c0f0e6254f97d9b61fa2d9b0b905fa56.png?ehk=BDSNj1lzhCgUdZkAHodRnf8RCabbUcStWi9B%2FbnQGTc%3D&ehkOptimized=Rpqd1yL5R6XLVSOE7ZoogPmoDa48LdPhqjT9yKXViQE%3D",
-      "entrants": 17,
-      "start_time": 1666224000
-    },
     {
       "slug": "tournament/silver-slippi-league-27/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #27",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/489964/image-c9cd6668d7481a9b77d5be67fa80cd8b.png?ehk=IQFKYgcbT%2BwbaJD93A6bVLoJ%2FQRlNYfBym45vdkaVVI%3D&ehkOptimized=t97Ye%2Br5dnCwzqSTpscaPNrBo8hR7jon8Zj%2FbEZwGTw%3D",
-      "entrants": 13,
+      "entrants": 27,
       "start_time": 1666227600
     },
     {
@@ -30,7 +14,7 @@
       "tournament_name": "Garbage Connection: LITE",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/489951/image-698cab2c6a5f6b59afe8e53812a1e0b9.jpg?ehk=g%2B66oiwkSw2bKvW4KJnRdZFSDHxS0F8snF%2FOSxLwJqs%3D&ehkOptimized=cehBfjVQGuuucoe7S8jMQCzyDwUu19N0aXDEOdqIQ70%3D",
-      "entrants": 16,
+      "entrants": 21,
       "start_time": 1666233000
     },
     {
@@ -62,7 +46,7 @@
       "tournament_name": "Only Noobs 89",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488420/image-22f7af679f6c33f4d19ac5c1a5fef4c7.jpg?ehk=1LzoHmGopRRtxffgR4SWBAiSNXE8o1fSc%2BotzaGbKzU%3D&ehkOptimized=IGMpJe5uK7WnJ6q8vk5uPzzjKwcUDsurKa3I41Or%2B2g%3D",
-      "entrants": 17,
+      "entrants": 19,
       "start_time": 1666306800
     },
     {
@@ -158,7 +142,7 @@
       "tournament_name": "The Shallow End #8 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489549/image-7fbe5262bb320b856b35dd575fa747eb.jpg?ehk=anuBmhNn5d05qxRHKKGeUHo8RUV%2BGlt65WyqP3WnpU0%3D&ehkOptimized=ph5dfsZ0Ii2B%2F76YnOjzZ1cFRFKbRWu0xxILDD49ukM%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666399500
     },
     {
