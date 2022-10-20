@@ -1,52 +1,20 @@
 {
-  "fetched_at": 1666306197,
+  "fetched_at": 1666308552,
   "data": [
     {
       "slug": "tournament/the-salt-mine-46/event/the-salt-mine",
       "tournament_name": "The Salt Mine #46!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/489808/image-4bec93e800ac51ec1a4b1d3ff2f85fa1.png?ehk=fid1U%2Fg5keNZk2bYoCeUSHcD2asBRwC2COdHbSuaYWo%3D&ehkOptimized=z%2Fk%2F1k2LxBF9u65ibCWtkhO61%2FhUhJXgwJe57sRoCjY%3D",
-      "entrants": 37,
+      "entrants": 44,
       "start_time": 1666306800
-    },
-    {
-      "slug": "tournament/the-return-of-nfc-6-presented-by-nxgn-esports/event/melee-singles",
-      "tournament_name": "The Return of NFC #6 | Presented by NxGn Esports",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/490431/image-de3b580345c8394463e2bf77ee4a5814.png?ehk=r43QdA8m7PkQoKS8kf34jUwkPdasDJHatg07s8roOZ4%3D&ehkOptimized=yzy0xehaQ2kpXMmx0nQWPLG%2F7yg9SN%2FAODltodQyCMs%3D",
-      "entrants": 12,
-      "start_time": 1666306800
-    },
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-8/event/ssbmr-singles",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #8",
-      "event_name": "SSBMr Singles",
-      "image": "https://images.start.gg/images/tournament/489705/image-2f428a07d9be899d4812f04ac2023771.png?ehk=x2ncxHgUU2QHHGvzMz5TMXVKTGLFfSoqTE3FsaMHL8I%3D&ehkOptimized=bzsbbiJgGDJ4N%2BJSq3Kfgb9Vi1N%2FUpdX1h5fje4RmGI%3D",
-      "entrants": 13,
-      "start_time": 1666306800
-    },
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-8/event/results-data",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #8",
-      "event_name": "Results Data",
-      "image": "https://images.start.gg/images/tournament/489705/image-2f428a07d9be899d4812f04ac2023771.png?ehk=x2ncxHgUU2QHHGvzMz5TMXVKTGLFfSoqTE3FsaMHL8I%3D&ehkOptimized=bzsbbiJgGDJ4N%2BJSq3Kfgb9Vi1N%2FUpdX1h5fje4RmGI%3D",
-      "entrants": 0,
-      "start_time": 1666306800
-    },
-    {
-      "slug": "tournament/metabreaker-1/event/melee-singles",
-      "tournament_name": "Metabreaker #1",
-      "event_name": "Melee Singles",
-      "image": "",
-      "entrants": 6,
-      "start_time": 1666308600
     },
     {
       "slug": "tournament/goats-only-thursdaez-28/event/melee-singles",
       "tournament_name": "GOATs Only - Thursdaez #28",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490349/image-5b68ade00dda899112e4398087d952e1.png?ehk=KL9JQ9%2BwH8rUarWOi4GcuNzNeaNG6%2Fo5haR2k4ElevA%3D&ehkOptimized=UVYEWB160p8vZF4eQtFkaSu%2BXowoRWxaIaGi9DNwudQ%3D",
-      "entrants": 3,
+      "entrants": 8,
       "start_time": 1666310400
     },
     {
@@ -54,8 +22,16 @@
       "tournament_name": "Thursday Thmackdown #7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490396/image-ef756c1ad38bb9ea8ddbada9d936f946.png?ehk=E9YWYmgOjjwD2tc1aYktLTbGcpGImsQJsiT%2FPgak3WY%3D&ehkOptimized=5T4dcmIxWvoyY6gtMDzXJXyqjegqi5Hrxz1wZI7SvJw%3D",
-      "entrants": 3,
+      "entrants": 6,
       "start_time": 1666317600
+    },
+    {
+      "slug": "tournament/bb-75/event/melee-singles",
+      "tournament_name": "BB 75",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490513/image-dc7cfdaae2ddeb1b63900e9da070a4c2.jpg?ehk=VEnh56bB2p9FfYqljXmCypK0uoRwGv%2Fs2C8WtF3TW%2FA%3D&ehkOptimized=voCfmyh2nA3Bwhlmz%2F7zBjRYsyIQqX16aNZKKT3PKdM%3D",
+      "entrants": 1,
+      "start_time": 1666335600
     },
     {
       "slug": "tournament/caf-44/event/melee-singles",
@@ -110,7 +86,7 @@
       "tournament_name": "FragFest Fall 2022",
       "event_name": "FragFest Fall 2022: Super Smash Bros. Melee Singles LAN Tournament, Sponsored by HyperX",
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
-      "entrants": 55,
+      "entrants": 56,
       "start_time": 1666396800
     },
     {
@@ -158,7 +134,7 @@
       "tournament_name": "Dusk x Australian Melee Presents: A Tribute to Denis",
       "event_name": "Melee Bracket",
       "image": "https://images.start.gg/images/tournament/488045/image-ebdef222cbe916402856aa1a1235185b.png?ehk=VkapuGzz5XCIVFKo%2Bl65q9M%2Br2bWhrVEBtofXt8w%2BDQ%3D&ehkOptimized=PSXD4M7BBWbIMiEfOI4kXw5UWRvrJvkyDgdDKnHVWWc%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1666508400
     },
     {
@@ -216,14 +192,6 @@
       "image": "https://images.start.gg/images/tournament/490276/image-0a3ae46fd8fbd9449ea1fec658b1cdde.png?ehk=6V%2BhEZro%2BA4wPJ9a%2BWAOUuMvoPove2irUt3w9pb%2BjTA%3D&ehkOptimized=iQo1pjsaJdk0tRdwmJS0dbocn73vj5FDy25Dlv1Ly7g%3D",
       "entrants": 0,
       "start_time": 1666652400
-    },
-    {
-      "slug": "tournament/seamus-birthday-bash/event/melee-singles",
-      "tournament_name": "Seamus' Birthday Bash",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/487944/image-73d58e92cf4157b768ef32ef29433388.jpg?ehk=Si3Yri%2BpClObLFDwPeT%2F5zA7BqiSRd2%2Bh5TDmq9pbN0%3D&ehkOptimized=hGmPL2BUE4ik6uYH69tl2PcyKLw3UQb3H6HHz9EvLVE%3D",
-      "entrants": 10,
-      "start_time": 1666740600
     },
     {
       "slug": "tournament/level-one-melee-49-a-noob-only-tournament/event/amateur-melee-singles",
