@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666356533,
+  "fetched_at": 1666360728,
   "data": [
     {
       "slug": "tournament/caf-44/event/melee-singles",
@@ -78,7 +78,7 @@
       "tournament_name": "East Coast Fridays #226",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490582/image-076427fcf539f4470263644c4ce1b7c9.png?ehk=5DRmw6Mn0YnvLkPUbcfv3F%2FP1SYI%2FgIKmscd2f7TtBs%3D&ehkOptimized=q0Fpva5b1jgVsF50C1uNe5l6ZaZnVD6QFbqJhCwVuKY%3D",
-      "entrants": 5,
+      "entrants": 8,
       "start_time": 1666396800
     },
     {
@@ -160,6 +160,14 @@
       "image": "https://images.start.gg/images/tournament/489565/image-336a18423ec62bf9d5f75e47b41f4ebb.png?ehk=%2BZ4kCVB0ksGGUxbxsYUEALXHwns6evKyeki5tT%2F3ttY%3D&ehkOptimized=utqXr0GmJXgsjPN%2FYLw1M68n6Gt66eYEVNyRd%2BkdXnc%3D",
       "entrants": 8,
       "start_time": 1666564200
+    },
+    {
+      "slug": "tournament/super-smash-bong-69-crews/event/crews",
+      "tournament_name": "Super Smash Bong #69 (CREWS)",
+      "event_name": "Crews",
+      "image": "https://images.start.gg/images/tournament/490614/image-d0dccd1cc777d9fa58af0b1379ae29ad.jpg?ehk=Ftw4%2FqSPhZu%2BrfunO6hvcdN7sOLoNpr3tg0zTwQuHnc%3D&ehkOptimized=AJoV6xwRPNPk2bBMBzARQ5I4BnFn%2FYl%2B16w9fdk5Btk%3D",
+      "entrants": 1,
+      "start_time": 1666650600
     },
     {
       "slug": "tournament/coast-to-coast-doubles-4/event/wc-doubles",
