@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666337651,
+  "fetched_at": 1666339051,
   "data": [
     {
       "slug": "tournament/caf-44/event/melee-singles",
@@ -186,17 +186,17 @@
       "start_time": 1666740600
     },
     {
-      "slug": "tournament/level-one-melee-49-a-noob-only-tournament/event/amateur-melee-singles",
-      "tournament_name": "Level One Melee #49- a noob-only tournament",
-      "event_name": "Amateur Melee Singles",
-      "image": "https://images.start.gg/images/tournament/490465/image-77b7dc769a7854eb58bb37f9d9ea3088.png?ehk=N3TUKEwvWby%2FcbqEZu%2FjVLh2l2psG0NkIWdbcsig7VM%3D&ehkOptimized=7upQjNB79l7hpRmjf8ntX7b0vHiuTtxjAsvy47Y5qDA%3D",
-      "entrants": 0,
-      "start_time": 1666746000
-    },
-    {
       "slug": "tournament/level-one-melee-49-a-noob-only-tournament/event/main-melee-singles",
       "tournament_name": "Level One Melee #49- a noob-only tournament",
       "event_name": "Main Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490465/image-77b7dc769a7854eb58bb37f9d9ea3088.png?ehk=N3TUKEwvWby%2FcbqEZu%2FjVLh2l2psG0NkIWdbcsig7VM%3D&ehkOptimized=7upQjNB79l7hpRmjf8ntX7b0vHiuTtxjAsvy47Y5qDA%3D",
+      "entrants": 1,
+      "start_time": 1666746000
+    },
+    {
+      "slug": "tournament/level-one-melee-49-a-noob-only-tournament/event/amateur-melee-singles",
+      "tournament_name": "Level One Melee #49- a noob-only tournament",
+      "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/490465/image-77b7dc769a7854eb58bb37f9d9ea3088.png?ehk=N3TUKEwvWby%2FcbqEZu%2FjVLh2l2psG0NkIWdbcsig7VM%3D&ehkOptimized=7upQjNB79l7hpRmjf8ntX7b0vHiuTtxjAsvy47Y5qDA%3D",
       "entrants": 0,
       "start_time": 1666746000
