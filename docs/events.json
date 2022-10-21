@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666379099,
+  "fetched_at": 1666380857,
   "data": [
     {
       "slug": "tournament/caf-44/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Tournament Winner 3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489186/image-1765d6b3c59000209ddf58229b2342c5.png?ehk=LUX9XkUJ1opXn%2FDP9mNShyjGP5eWPdxrSNX64lO5YMY%3D&ehkOptimized=jGm9zbVrO50gGb%2FL%2FQfA0u4sOL%2BW7rhSa6Qo%2BgspIOk%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1666389600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "East Coast Fridays #226",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490582/image-076427fcf539f4470263644c4ce1b7c9.png?ehk=5DRmw6Mn0YnvLkPUbcfv3F%2FP1SYI%2FgIKmscd2f7TtBs%3D&ehkOptimized=q0Fpva5b1jgVsF50C1uNe5l6ZaZnVD6QFbqJhCwVuKY%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1666396800
     },
     {
@@ -138,6 +138,22 @@
       "start_time": 1666564200
     },
     {
+      "slug": "tournament/scss-east-coast-91/event/scss-singles",
+      "tournament_name": "SCSS East Coast #91",
+      "event_name": "SCSS Singles",
+      "image": "https://images.start.gg/images/tournament/490698/image-fbaf22d63e88d25f6d62ef1f59a0ca48.png?ehk=DfZuOykNXqJMRdyIBXH6J0chANrB3Hw01uEdNi8Jxgg%3D&ehkOptimized=KNFWjQZ2jSZPlLiKeOvPK4ApQG8wpWHyy0i%2BaQwAbYc%3D",
+      "entrants": 0,
+      "start_time": 1666567800
+    },
+    {
+      "slug": "tournament/scss-west-coast-80/event/melee-singles",
+      "tournament_name": "SCSS West Coast #80",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490701/image-cef0f42314f0547dd7bd0e4aaf73832f.png?ehk=6IdHGDEKf6GEm6t7GaG36VUt%2BABejzE75u%2BM6MDwJxk%3D&ehkOptimized=8Cfa9B6ciaLi3nugrBTeU%2F0jzoVdEdnBQSr2g1yeFE4%3D",
+      "entrants": 0,
+      "start_time": 1666571400
+    },
+    {
       "slug": "tournament/super-smash-bong-69-crews/event/crews",
       "tournament_name": "Super Smash Bong #69 (CREWS)",
       "event_name": "Crews",
@@ -184,6 +200,14 @@
       "image": "https://images.start.gg/images/tournament/490465/image-77b7dc769a7854eb58bb37f9d9ea3088.png?ehk=N3TUKEwvWby%2FcbqEZu%2FjVLh2l2psG0NkIWdbcsig7VM%3D&ehkOptimized=7upQjNB79l7hpRmjf8ntX7b0vHiuTtxjAsvy47Y5qDA%3D",
       "entrants": 0,
       "start_time": 1666746000
+    },
+    {
+      "slug": "tournament/waddle-wednesday-42/event/melee-singles",
+      "tournament_name": "Waddle Wednesday 42",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490703/image-35b077212bf2b51a9d87b60f029685f2.png?ehk=o8enCFAcVInR6I62G4L86IinXXss7q7aLuIymNGDoQ8%3D&ehkOptimized=SfqAds7r1Kgg7AKiolqSvE02leV2OZ4bhHoXhGrr4f4%3D",
+      "entrants": 0,
+      "start_time": 1666828800
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-36-eu-event/event/melee-singles",
