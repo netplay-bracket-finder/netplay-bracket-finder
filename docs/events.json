@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666385343,
+  "fetched_at": 1666387237,
   "data": [
     {
       "slug": "tournament/caf-44/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Tournament Winner 3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489186/image-1765d6b3c59000209ddf58229b2342c5.png?ehk=LUX9XkUJ1opXn%2FDP9mNShyjGP5eWPdxrSNX64lO5YMY%3D&ehkOptimized=jGm9zbVrO50gGb%2FL%2FQfA0u4sOL%2BW7rhSa6Qo%2BgspIOk%3D",
-      "entrants": 9,
+      "entrants": 12,
       "start_time": 1666389600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Fresh Combos - $50+ Prize Pool",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489914/image-efe5da169e3c807a1fa0573351b2ed13.png?ehk=gffWIDuvZWb1lq%2B4tm5EuRP5k3j0Rc6imafyCizu0io%3D&ehkOptimized=T1qiHa%2BivCc7SlWsNLWxgkNo5z%2BXZhE0JrCp9nFSygE%3D",
-      "entrants": 7,
+      "entrants": 9,
       "start_time": 1666393200
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "East Coast Fridays #226",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490582/image-076427fcf539f4470263644c4ce1b7c9.png?ehk=5DRmw6Mn0YnvLkPUbcfv3F%2FP1SYI%2FgIKmscd2f7TtBs%3D&ehkOptimized=q0Fpva5b1jgVsF50C1uNe5l6ZaZnVD6QFbqJhCwVuKY%3D",
-      "entrants": 29,
+      "entrants": 39,
       "start_time": 1666396800
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "The Shallow End #8 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489549/image-7fbe5262bb320b856b35dd575fa747eb.jpg?ehk=anuBmhNn5d05qxRHKKGeUHo8RUV%2BGlt65WyqP3WnpU0%3D&ehkOptimized=ph5dfsZ0Ii2B%2F76YnOjzZ1cFRFKbRWu0xxILDD49ukM%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1666399500
     },
     {
