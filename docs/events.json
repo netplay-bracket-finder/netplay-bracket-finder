@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1666310152,
+  "fetched_at": 1666317590,
   "data": [
-    {
-      "slug": "tournament/thursday-thmackdown-7/event/melee-singles",
-      "tournament_name": "Thursday Thmackdown #7",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/490396/image-ef756c1ad38bb9ea8ddbada9d936f946.png?ehk=E9YWYmgOjjwD2tc1aYktLTbGcpGImsQJsiT%2FPgak3WY%3D&ehkOptimized=5T4dcmIxWvoyY6gtMDzXJXyqjegqi5Hrxz1wZI7SvJw%3D",
-      "entrants": 10,
-      "start_time": 1666317600
-    },
     {
       "slug": "tournament/bb-75/event/melee-singles",
       "tournament_name": "BB 75",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490513/image-dc7cfdaae2ddeb1b63900e9da070a4c2.jpg?ehk=VEnh56bB2p9FfYqljXmCypK0uoRwGv%2Fs2C8WtF3TW%2FA%3D&ehkOptimized=voCfmyh2nA3Bwhlmz%2F7zBjRYsyIQqX16aNZKKT3PKdM%3D",
-      "entrants": 3,
+      "entrants": 6,
       "start_time": 1666335600
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "Tournament Winner 3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489186/image-1765d6b3c59000209ddf58229b2342c5.png?ehk=LUX9XkUJ1opXn%2FDP9mNShyjGP5eWPdxrSNX64lO5YMY%3D&ehkOptimized=jGm9zbVrO50gGb%2FL%2FQfA0u4sOL%2BW7rhSa6Qo%2BgspIOk%3D",
-      "entrants": 0,
+      "entrants": 3,
       "start_time": 1666389600
     },
     {
@@ -62,7 +54,7 @@
       "tournament_name": "Fresh Combos - $50+ Prize Pool",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489914/image-efe5da169e3c807a1fa0573351b2ed13.png?ehk=gffWIDuvZWb1lq%2B4tm5EuRP5k3j0Rc6imafyCizu0io%3D&ehkOptimized=T1qiHa%2BivCc7SlWsNLWxgkNo5z%2BXZhE0JrCp9nFSygE%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1666393200
     },
     {
@@ -110,7 +102,7 @@
       "tournament_name": "Legs' Le Tournament #54",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488873/image-a43edb2eb52debad4feb67af9d211f27.png?ehk=GcmhTP2LupRQCs2w58qXr1lteZlz1lFyifJOhZZoaQU%3D&ehkOptimized=9J5OO0eTOzKqRaCWogdLWzGsDOjgndlP6SZ1SBTbzb4%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1666472400
     },
     {
@@ -118,7 +110,7 @@
       "tournament_name": "Dusk x Australian Melee Presents: A Tribute to Denis",
       "event_name": "Melee Bracket",
       "image": "https://images.start.gg/images/tournament/488045/image-ebdef222cbe916402856aa1a1235185b.png?ehk=VkapuGzz5XCIVFKo%2Bl65q9M%2Br2bWhrVEBtofXt8w%2BDQ%3D&ehkOptimized=PSXD4M7BBWbIMiEfOI4kXw5UWRvrJvkyDgdDKnHVWWc%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1666508400
     },
     {
