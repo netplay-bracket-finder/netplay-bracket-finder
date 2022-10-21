@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666317590,
+  "fetched_at": 1666324583,
   "data": [
     {
       "slug": "tournament/bb-75/event/melee-singles",
       "tournament_name": "BB 75",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490513/image-dc7cfdaae2ddeb1b63900e9da070a4c2.jpg?ehk=VEnh56bB2p9FfYqljXmCypK0uoRwGv%2Fs2C8WtF3TW%2FA%3D&ehkOptimized=voCfmyh2nA3Bwhlmz%2F7zBjRYsyIQqX16aNZKKT3PKdM%3D",
-      "entrants": 6,
+      "entrants": 10,
       "start_time": 1666335600
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Legs' Le Tournament #54",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488873/image-a43edb2eb52debad4feb67af9d211f27.png?ehk=GcmhTP2LupRQCs2w58qXr1lteZlz1lFyifJOhZZoaQU%3D&ehkOptimized=9J5OO0eTOzKqRaCWogdLWzGsDOjgndlP6SZ1SBTbzb4%3D",
-      "entrants": 5,
+      "entrants": 4,
       "start_time": 1666472400
     },
     {
@@ -168,6 +168,14 @@
       "image": "https://images.start.gg/images/tournament/490276/image-0a3ae46fd8fbd9449ea1fec658b1cdde.png?ehk=6V%2BhEZro%2BA4wPJ9a%2BWAOUuMvoPove2irUt3w9pb%2BjTA%3D&ehkOptimized=iQo1pjsaJdk0tRdwmJS0dbocn73vj5FDy25Dlv1Ly7g%3D",
       "entrants": 0,
       "start_time": 1666652400
+    },
+    {
+      "slug": "tournament/seamus-birthday-bash/event/melee-singles",
+      "tournament_name": "Seamus' Birthday Bash",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/487944/image-73d58e92cf4157b768ef32ef29433388.jpg?ehk=Si3Yri%2BpClObLFDwPeT%2F5zA7BqiSRd2%2Bh5TDmq9pbN0%3D&ehkOptimized=hGmPL2BUE4ik6uYH69tl2PcyKLw3UQb3H6HHz9EvLVE%3D",
+      "entrants": 10,
+      "start_time": 1666740600
     },
     {
       "slug": "tournament/level-one-melee-49-a-noob-only-tournament/event/amateur-melee-singles",
