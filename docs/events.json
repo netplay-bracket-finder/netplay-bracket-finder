@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666370150,
+  "fetched_at": 1666372733,
   "data": [
     {
       "slug": "tournament/caf-44/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/489488/image-54a78ccd939aa89d9e71da0a56422338.png?ehk=CS%2FYVDL2xJ7i7lJjs3u4Dbk8dE146S%2FDWMTnYCHpOyw%3D&ehkOptimized=b5UU8xvb2N%2B%2Bd43kNVnZb29ZX6SzqSb1wf25rck5IuY%3D",
       "entrants": 0,
       "start_time": 1666368000
-    },
-    {
-      "slug": "tournament/sandbag-skirmish-45-1/event/skirmish",
-      "tournament_name": "SandBag Skirmish 45",
-      "event_name": "Skirmish",
-      "image": "https://images.start.gg/images/tournament/489250/image-3acdf6e2a2e6c15c56ebb3f1e76fa837.png?ehk=BhKariMUWctZZEyF8MSz%2BSL9fYJ1KQLxLTT%2FbrYfJZk%3D&ehkOptimized=oOi5fnou4%2Bms%2FV%2BIIsa4m2uIsUtH4vLE7TPOnuVNxk4%3D",
-      "entrants": 15,
-      "start_time": 1666371600
     },
     {
       "slug": "tournament/tournament-winner-3/event/melee-singles",
@@ -46,7 +38,7 @@
       "tournament_name": "East Coast Fridays #226",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490582/image-076427fcf539f4470263644c4ce1b7c9.png?ehk=5DRmw6Mn0YnvLkPUbcfv3F%2FP1SYI%2FgIKmscd2f7TtBs%3D&ehkOptimized=q0Fpva5b1jgVsF50C1uNe5l6ZaZnVD6QFbqJhCwVuKY%3D",
-      "entrants": 10,
+      "entrants": 14,
       "start_time": 1666396800
     },
     {
