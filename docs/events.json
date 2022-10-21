@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666343032,
+  "fetched_at": 1666345426,
   "data": [
     {
       "slug": "tournament/caf-44/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "SandBag Skirmish 45",
       "event_name": "Skirmish",
       "image": "https://images.start.gg/images/tournament/489250/image-3acdf6e2a2e6c15c56ebb3f1e76fa837.png?ehk=BhKariMUWctZZEyF8MSz%2BSL9fYJ1KQLxLTT%2FbrYfJZk%3D&ehkOptimized=oOi5fnou4%2Bms%2FV%2BIIsa4m2uIsUtH4vLE7TPOnuVNxk4%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1666371600
     },
     {
@@ -58,14 +58,6 @@
       "start_time": 1666396800
     },
     {
-      "slug": "tournament/east-coast-fridays-226/event/melee-singles",
-      "tournament_name": "East Coast Fridays #226",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/490582/image-076427fcf539f4470263644c4ce1b7c9.png?ehk=5DRmw6Mn0YnvLkPUbcfv3F%2FP1SYI%2FgIKmscd2f7TtBs%3D&ehkOptimized=q0Fpva5b1jgVsF50C1uNe5l6ZaZnVD6QFbqJhCwVuKY%3D",
-      "entrants": 1,
-      "start_time": 1666396800
-    },
-    {
       "slug": "tournament/fragfest-fall-2022/event/fragfest-fall-2022-super-smash-bros-melee-singles-lan-tournament",
       "tournament_name": "FragFest Fall 2022",
       "event_name": "FragFest Fall 2022: Super Smash Bros. Melee Singles LAN Tournament, Sponsored by HyperX",
@@ -79,6 +71,14 @@
       "event_name": "FragFest Fall 2022: Super Smash Bros. Melee Crews LAN Tournament, Sponsored by HyperX",
       "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
       "entrants": 6,
+      "start_time": 1666396800
+    },
+    {
+      "slug": "tournament/east-coast-fridays-226/event/melee-singles",
+      "tournament_name": "East Coast Fridays #226",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490582/image-076427fcf539f4470263644c4ce1b7c9.png?ehk=5DRmw6Mn0YnvLkPUbcfv3F%2FP1SYI%2FgIKmscd2f7TtBs%3D&ehkOptimized=q0Fpva5b1jgVsF50C1uNe5l6ZaZnVD6QFbqJhCwVuKY%3D",
+      "entrants": 2,
       "start_time": 1666396800
     },
     {
