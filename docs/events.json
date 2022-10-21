@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666377453,
+  "fetched_at": 1666379099,
   "data": [
     {
       "slug": "tournament/caf-44/event/melee-singles",
@@ -34,6 +34,14 @@
       "start_time": 1666396800
     },
     {
+      "slug": "tournament/east-coast-fridays-226/event/melee-singles",
+      "tournament_name": "East Coast Fridays #226",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490582/image-076427fcf539f4470263644c4ce1b7c9.png?ehk=5DRmw6Mn0YnvLkPUbcfv3F%2FP1SYI%2FgIKmscd2f7TtBs%3D&ehkOptimized=q0Fpva5b1jgVsF50C1uNe5l6ZaZnVD6QFbqJhCwVuKY%3D",
+      "entrants": 21,
+      "start_time": 1666396800
+    },
+    {
       "slug": "tournament/fragfest-fall-2022/event/fragfest-fall-2022-super-smash-bros-melee-singles-lan-tournament",
       "tournament_name": "FragFest Fall 2022",
       "event_name": "FragFest Fall 2022: Super Smash Bros. Melee Singles LAN Tournament, Sponsored by HyperX",
@@ -50,14 +58,6 @@
       "start_time": 1666396800
     },
     {
-      "slug": "tournament/east-coast-fridays-226/event/melee-singles",
-      "tournament_name": "East Coast Fridays #226",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/490582/image-076427fcf539f4470263644c4ce1b7c9.png?ehk=5DRmw6Mn0YnvLkPUbcfv3F%2FP1SYI%2FgIKmscd2f7TtBs%3D&ehkOptimized=q0Fpva5b1jgVsF50C1uNe5l6ZaZnVD6QFbqJhCwVuKY%3D",
-      "entrants": 16,
-      "start_time": 1666396800
-    },
-    {
       "slug": "tournament/the-shallow-end-8-a-wc-newbie-bracket/event/melee-singles",
       "tournament_name": "The Shallow End #8 - a WC newbie bracket",
       "event_name": "Melee Singles",
@@ -70,7 +70,7 @@
       "tournament_name": "Quest for Best Noob EU #42 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/489493/image-9bb4623d51d57443e0fb4d9ef92a2365.jpg?ehk=ne7RAzaS%2FFsky1ofVfHt8717a9ukASJBBwj8boBGhwA%3D&ehkOptimized=pLvB%2FIb8Op1BmQILxWqUqyL2%2BvKjOM2Z%2Fio%2Blocl3BY%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1666449000
     },
     {
@@ -200,6 +200,14 @@
       "image": "https://images.start.gg/images/tournament/490442/image-26cae0726c9324884bc3b30506374c7d.png?ehk=ldKSAni%2Fw3738EqtcN2%2BPx48P03Mg4JgI43gk1wEz3E%3D&ehkOptimized=UGZh5xM6RtKqiFHuJGRLONkngREiUfBCETV84Xfaep0%3D",
       "entrants": 0,
       "start_time": 1666890000
+    },
+    {
+      "slug": "tournament/only-noobs-90/event/melee-singles",
+      "tournament_name": "Only Noobs 90",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490686/image-832b7c5f7da0bcf395680fc997fecb9e.jpg?ehk=07%2BkxgUmLbycSpUJNfKw5dPfo7UZxdrbrbFJ3Ied7SE%3D&ehkOptimized=cIyV7vckE%2Bb2SdpcDMh%2BbcXjegLW%2F2GLXVit8gd5dHw%3D",
+      "entrants": 1,
+      "start_time": 1666911600
     },
     {
       "slug": "tournament/searcadian/event/singles",
