@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666324583,
+  "fetched_at": 1666329248,
   "data": [
     {
       "slug": "tournament/bb-75/event/melee-singles",
       "tournament_name": "BB 75",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490513/image-dc7cfdaae2ddeb1b63900e9da070a4c2.jpg?ehk=VEnh56bB2p9FfYqljXmCypK0uoRwGv%2Fs2C8WtF3TW%2FA%3D&ehkOptimized=voCfmyh2nA3Bwhlmz%2F7zBjRYsyIQqX16aNZKKT3PKdM%3D",
-      "entrants": 10,
+      "entrants": 16,
       "start_time": 1666335600
     },
     {
@@ -56,6 +56,14 @@
       "image": "https://images.start.gg/images/tournament/489914/image-efe5da169e3c807a1fa0573351b2ed13.png?ehk=gffWIDuvZWb1lq%2B4tm5EuRP5k3j0Rc6imafyCizu0io%3D&ehkOptimized=T1qiHa%2BivCc7SlWsNLWxgkNo5z%2BXZhE0JrCp9nFSygE%3D",
       "entrants": 6,
       "start_time": 1666393200
+    },
+    {
+      "slug": "tournament/fgc-friday-13-solar-circuit-qualifier/event/melee-singles",
+      "tournament_name": "FGC Friday #13 (Solar Circuit Qualifier)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490578/image-a3ecbc900d0ff82e1e12aa8ac12118a9.png?ehk=VrjsmhhdPaQSn8IdTzpYcEkknJrUwDlRXUu9uNLfEQE%3D&ehkOptimized=328ShX1zreXZW0F3oNW7pLTSP0VtJP2vT7uHKu7ER78%3D",
+      "entrants": 0,
+      "start_time": 1666396800
     },
     {
       "slug": "tournament/fragfest-fall-2022/event/fragfest-fall-2022-super-smash-bros-melee-singles-lan-tournament",
@@ -110,7 +118,7 @@
       "tournament_name": "Dusk x Australian Melee Presents: A Tribute to Denis",
       "event_name": "Melee Bracket",
       "image": "https://images.start.gg/images/tournament/488045/image-ebdef222cbe916402856aa1a1235185b.png?ehk=VkapuGzz5XCIVFKo%2Bl65q9M%2Br2bWhrVEBtofXt8w%2BDQ%3D&ehkOptimized=PSXD4M7BBWbIMiEfOI4kXw5UWRvrJvkyDgdDKnHVWWc%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1666508400
     },
     {
