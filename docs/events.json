@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666411432,
+  "fetched_at": 1666415860,
   "data": [
     {
       "slug": "tournament/caf-44/event/melee-singles",
@@ -8,22 +8,6 @@
       "image": "https://images.start.gg/images/tournament/489488/image-54a78ccd939aa89d9e71da0a56422338.png?ehk=CS%2FYVDL2xJ7i7lJjs3u4Dbk8dE146S%2FDWMTnYCHpOyw%3D&ehkOptimized=b5UU8xvb2N%2B%2Bd43kNVnZb29ZX6SzqSb1wf25rck5IuY%3D",
       "entrants": 0,
       "start_time": 1666368000
-    },
-    {
-      "slug": "tournament/fragfest-fall-2022/event/fragfest-fall-2022-super-smash-bros-melee-singles-lan-tournament",
-      "tournament_name": "FragFest Fall 2022",
-      "event_name": "FragFest Fall 2022: Super Smash Bros. Melee Singles LAN Tournament, Sponsored by HyperX",
-      "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
-      "entrants": 61,
-      "start_time": 1666396800
-    },
-    {
-      "slug": "tournament/fragfest-fall-2022/event/fragfest-fall-2022-super-smash-bros-melee-crews-lan-tournament",
-      "tournament_name": "FragFest Fall 2022",
-      "event_name": "FragFest Fall 2022: Super Smash Bros. Melee Crews LAN Tournament, Sponsored by HyperX",
-      "image": "https://images.start.gg/images/tournament/485714/image-ddbbfe2f417c2f978e47868384eb0fc4.png?ehk=xznNXEPebPIY3cbUz3%2BJ%2BLI1mxhoM7qhMvuaRwQso3Y%3D&ehkOptimized=CNI%2BMrcz0gXln79LZsad6ZorYuSPmPIVqWnjRjFYrvs%3D",
-      "entrants": 6,
-      "start_time": 1666396800
     },
     {
       "slug": "tournament/east-coast-fridays-226/event/melee-singles",
@@ -158,7 +142,7 @@
       "tournament_name": "Level One Melee #49- a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/490465/image-77b7dc769a7854eb58bb37f9d9ea3088.png?ehk=N3TUKEwvWby%2FcbqEZu%2FjVLh2l2psG0NkIWdbcsig7VM%3D&ehkOptimized=7upQjNB79l7hpRmjf8ntX7b0vHiuTtxjAsvy47Y5qDA%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1666746000
     },
     {
