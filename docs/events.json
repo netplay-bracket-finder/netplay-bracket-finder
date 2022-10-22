@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666470270,
+  "fetched_at": 1666471697,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/490377/image-9ebd705a9629294a763ea04208035a46.png?ehk=0SnTtH7SZINMphKrP%2Be%2BJhHmf35xxWZzep5YokXws8o%3D&ehkOptimized=Z9bxXj%2Fr5CR40QqUpxBjvWoxyy%2B1lruH1XLXaE2lXow%3D",
       "entrants": 9,
       "start_time": 1666456200
-    },
-    {
-      "slug": "tournament/legs-le-tournament-54/event/melee-singles",
-      "tournament_name": "Legs' Le Tournament #54",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/488873/image-a43edb2eb52debad4feb67af9d211f27.png?ehk=GcmhTP2LupRQCs2w58qXr1lteZlz1lFyifJOhZZoaQU%3D&ehkOptimized=9J5OO0eTOzKqRaCWogdLWzGsDOjgndlP6SZ1SBTbzb4%3D",
-      "entrants": 23,
-      "start_time": 1666472400
     },
     {
       "slug": "tournament/sober-saturday-115/event/melee-singles",
