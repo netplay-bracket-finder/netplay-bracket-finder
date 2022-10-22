@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666463242,
+  "fetched_at": 1666464930,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Legs' Le Tournament #54",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/488873/image-a43edb2eb52debad4feb67af9d211f27.png?ehk=GcmhTP2LupRQCs2w58qXr1lteZlz1lFyifJOhZZoaQU%3D&ehkOptimized=9J5OO0eTOzKqRaCWogdLWzGsDOjgndlP6SZ1SBTbzb4%3D",
-      "entrants": 17,
+      "entrants": 20,
       "start_time": 1666472400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Sober Saturday #115",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490922/image-fe0bc93257dad274df8556396baca7ea.jpg?ehk=QNImQqnvtfGBAmoHCQJoSlRppLEX9vuPRToSIWk4eU8%3D&ehkOptimized=jHXRcPahTZ3AMkzqULTMep0B2ihKAMqK0t%2BKd4pLh9k%3D",
-      "entrants": 0,
+      "entrants": 3,
       "start_time": 1666483200
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "Spooky Swiss Doubles",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/490889/image-3d216eaab3e684a0f44fbd553999cda8.png?ehk=bXwbLoYORvRqoSWpuIDDUZELJP4o2B98u1iIW44yi9I%3D&ehkOptimized=Ryt7hP10Km2hw8n%2BRNXKbLBUjP9zpvJXuv5j83xWdOc%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1667062800
     },
     {
