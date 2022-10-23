@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666502973,
+  "fetched_at": 1666505070,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/490377/image-9ebd705a9629294a763ea04208035a46.png?ehk=0SnTtH7SZINMphKrP%2Be%2BJhHmf35xxWZzep5YokXws8o%3D&ehkOptimized=Z9bxXj%2Fr5CR40QqUpxBjvWoxyy%2B1lruH1XLXaE2lXow%3D",
       "entrants": 9,
       "start_time": 1666456200
-    },
-    {
-      "slug": "tournament/dusk-x-australian-melee-presents-a-tribute-to-denis/event/melee-bracket",
-      "tournament_name": "Dusk x Australian Melee Presents: A Tribute to Denis",
-      "event_name": "Melee Bracket",
-      "image": "https://images.start.gg/images/tournament/488045/image-ebdef222cbe916402856aa1a1235185b.png?ehk=VkapuGzz5XCIVFKo%2Bl65q9M%2Br2bWhrVEBtofXt8w%2BDQ%3D&ehkOptimized=PSXD4M7BBWbIMiEfOI4kXw5UWRvrJvkyDgdDKnHVWWc%3D",
-      "entrants": 35,
-      "start_time": 1666508400
     },
     {
       "slug": "tournament/lgbt-s3e12-oops-all-sundays/event/melee-singles",
