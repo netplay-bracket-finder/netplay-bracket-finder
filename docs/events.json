@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666561520,
+  "fetched_at": 1666563742,
   "data": [
     {
       "slug": "tournament/kalvar-cup-66-dawg-in-em/event/melee-singles",
       "tournament_name": "Kalvar Cup #66: Dawg in Em",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491136/image-70889e2da54a1984a9f0265a39dcf7cf.png?ehk=6F7f%2Bn1CoxPHE%2FA1tLkapyjaxLPM6nSsyur6p9lEpoU%3D&ehkOptimized=OCTrfcH%2B9FWlbPLUZu4wsR2xL%2Fl9v9JxzNgNOP9Vi0g%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1666564200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "No Melee on Sundays 14",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491179/image-c25bbf17e107832ed5d488fc069479f5.png?ehk=MCDV4oHeV%2BcEddAMsE%2B%2BYslPjNXjyTSAWcuyL2oEkXU%3D&ehkOptimized=Va8hwPqodB3PDSNigOV%2BhOaariBzL0JdmzREIF4szG8%3D",
-      "entrants": 13,
+      "entrants": 16,
       "start_time": 1666569600
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #36 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490442/image-26cae0726c9324884bc3b30506374c7d.png?ehk=ldKSAni%2Fw3738EqtcN2%2BPx48P03Mg4JgI43gk1wEz3E%3D&ehkOptimized=UGZh5xM6RtKqiFHuJGRLONkngREiUfBCETV84Xfaep0%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1666890000
     },
     {
