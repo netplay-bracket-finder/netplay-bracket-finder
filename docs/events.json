@@ -1,20 +1,20 @@
 {
-  "fetched_at": 1666554761,
+  "fetched_at": 1666556673,
   "data": [
-    {
-      "slug": "tournament/kalvar-cup-66-dawg-in-em/event/melee-singles",
-      "tournament_name": "Kalvar Cup #66: Dawg in Em",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/491136/image-70889e2da54a1984a9f0265a39dcf7cf.png?ehk=6F7f%2Bn1CoxPHE%2FA1tLkapyjaxLPM6nSsyur6p9lEpoU%3D&ehkOptimized=OCTrfcH%2B9FWlbPLUZu4wsR2xL%2Fl9v9JxzNgNOP9Vi0g%3D",
-      "entrants": 3,
-      "start_time": 1666564200
-    },
     {
       "slug": "tournament/bromomento-rel-mpago-2/event/melee-singles",
       "tournament_name": "Bromomento relámpago #2",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/489565/image-336a18423ec62bf9d5f75e47b41f4ebb.png?ehk=%2BZ4kCVB0ksGGUxbxsYUEALXHwns6evKyeki5tT%2F3ttY%3D&ehkOptimized=utqXr0GmJXgsjPN%2FYLw1M68n6Gt66eYEVNyRd%2BkdXnc%3D",
       "entrants": 12,
+      "start_time": 1666564200
+    },
+    {
+      "slug": "tournament/kalvar-cup-66-dawg-in-em/event/melee-singles",
+      "tournament_name": "Kalvar Cup #66: Dawg in Em",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/491136/image-70889e2da54a1984a9f0265a39dcf7cf.png?ehk=6F7f%2Bn1CoxPHE%2FA1tLkapyjaxLPM6nSsyur6p9lEpoU%3D&ehkOptimized=OCTrfcH%2B9FWlbPLUZu4wsR2xL%2Fl9v9JxzNgNOP9Vi0g%3D",
+      "entrants": 4,
       "start_time": 1666564200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "No Melee on Sundays 14",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491179/image-c25bbf17e107832ed5d488fc069479f5.png?ehk=MCDV4oHeV%2BcEddAMsE%2B%2BYslPjNXjyTSAWcuyL2oEkXU%3D&ehkOptimized=Va8hwPqodB3PDSNigOV%2BhOaariBzL0JdmzREIF4szG8%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1666569600
     },
     {
