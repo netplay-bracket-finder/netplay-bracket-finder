@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666567631,
+  "fetched_at": 1666569175,
   "data": [
     {
       "slug": "tournament/kalvar-cup-66-dawg-in-em/event/melee-singles",
@@ -10,19 +10,11 @@
       "start_time": 1666564200
     },
     {
-      "slug": "tournament/no-melee-on-sundays-14/event/melee-singles",
-      "tournament_name": "No Melee on Sundays 14",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/491179/image-c25bbf17e107832ed5d488fc069479f5.png?ehk=MCDV4oHeV%2BcEddAMsE%2B%2BYslPjNXjyTSAWcuyL2oEkXU%3D&ehkOptimized=Va8hwPqodB3PDSNigOV%2BhOaariBzL0JdmzREIF4szG8%3D",
-      "entrants": 22,
-      "start_time": 1666569600
-    },
-    {
       "slug": "tournament/scss-west-coast-80/event/melee-singles",
       "tournament_name": "SCSS West Coast #80",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490701/image-cef0f42314f0547dd7bd0e4aaf73832f.png?ehk=6IdHGDEKf6GEm6t7GaG36VUt%2BABejzE75u%2BM6MDwJxk%3D&ehkOptimized=8Cfa9B6ciaLi3nugrBTeU%2F0jzoVdEdnBQSr2g1yeFE4%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1666571400
     },
     {
