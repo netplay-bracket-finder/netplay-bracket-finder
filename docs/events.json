@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1666558092,
+  "fetched_at": 1666560020,
   "data": [
-    {
-      "slug": "tournament/bromomento-rel-mpago-2/event/melee-singles",
-      "tournament_name": "Bromomento relámpago #2",
-      "event_name": "Melee singles",
-      "image": "https://images.start.gg/images/tournament/489565/image-336a18423ec62bf9d5f75e47b41f4ebb.png?ehk=%2BZ4kCVB0ksGGUxbxsYUEALXHwns6evKyeki5tT%2F3ttY%3D&ehkOptimized=utqXr0GmJXgsjPN%2FYLw1M68n6Gt66eYEVNyRd%2BkdXnc%3D",
-      "entrants": 12,
-      "start_time": 1666564200
-    },
     {
       "slug": "tournament/kalvar-cup-66-dawg-in-em/event/melee-singles",
       "tournament_name": "Kalvar Cup #66: Dawg in Em",
@@ -18,11 +10,19 @@
       "start_time": 1666564200
     },
     {
+      "slug": "tournament/bromomento-rel-mpago-2/event/melee-singles",
+      "tournament_name": "Bromomento relámpago #2",
+      "event_name": "Melee singles",
+      "image": "https://images.start.gg/images/tournament/489565/image-336a18423ec62bf9d5f75e47b41f4ebb.png?ehk=%2BZ4kCVB0ksGGUxbxsYUEALXHwns6evKyeki5tT%2F3ttY%3D&ehkOptimized=utqXr0GmJXgsjPN%2FYLw1M68n6Gt66eYEVNyRd%2BkdXnc%3D",
+      "entrants": 14,
+      "start_time": 1666564200
+    },
+    {
       "slug": "tournament/scss-east-coast-91/event/scss-singles",
       "tournament_name": "SCSS East Coast #91",
       "event_name": "SCSS Singles",
       "image": "https://images.start.gg/images/tournament/490698/image-fbaf22d63e88d25f6d62ef1f59a0ca48.png?ehk=DfZuOykNXqJMRdyIBXH6J0chANrB3Hw01uEdNi8Jxgg%3D&ehkOptimized=KNFWjQZ2jSZPlLiKeOvPK4ApQG8wpWHyy0i%2BaQwAbYc%3D",
-      "entrants": 10,
+      "entrants": 15,
       "start_time": 1666567800
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "No Melee on Sundays 14",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491179/image-c25bbf17e107832ed5d488fc069479f5.png?ehk=MCDV4oHeV%2BcEddAMsE%2B%2BYslPjNXjyTSAWcuyL2oEkXU%3D&ehkOptimized=Va8hwPqodB3PDSNigOV%2BhOaariBzL0JdmzREIF4szG8%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1666569600
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "SUPER SMASH BRONOL - MELEE #9",
       "event_name": "Melee 1vs1",
       "image": "https://images.start.gg/images/tournament/490756/image-32d04dbf5618a0e48214cf813e35e3ef.jpg?ehk=TwjXyaXss0i5CaRRkdxI6ZXEuc8wKK6Z8r0BR%2F9ikvg%3D&ehkOptimized=Xm983w3rfvsZfSa8l1a3bugIvlLuIX6Cmvc%2Fwt0GzLs%3D",
-      "entrants": 8,
+      "entrants": 11,
       "start_time": 1666974600
     },
     {
