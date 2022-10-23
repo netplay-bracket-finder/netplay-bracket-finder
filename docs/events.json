@@ -1,20 +1,20 @@
 {
-  "fetched_at": 1666542719,
+  "fetched_at": 1666545238,
   "data": [
-    {
-      "slug": "tournament/fight-of-the-fearless-24/event/fight-of-the-fearless-single",
-      "tournament_name": "Fight of the Fearless 24",
-      "event_name": "Fight Of The Fearless single",
-      "image": "https://images.start.gg/images/tournament/489245/image-b417e2ad5bfa2bd75bbd860949d84c99.png?ehk=JzhAtlNsnIgMl04UIPueANYCJ0yl5U4TeSfB2N4ZktA%3D&ehkOptimized=MM5PcLxHq1D94WKjR%2BVOSuaeeyXWOqHFo5UK3yHrw7k%3D",
-      "entrants": 25,
-      "start_time": 1666544400
-    },
     {
       "slug": "tournament/bromomento-rel-mpago-2/event/melee-singles",
       "tournament_name": "Bromomento relámpago #2",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/489565/image-336a18423ec62bf9d5f75e47b41f4ebb.png?ehk=%2BZ4kCVB0ksGGUxbxsYUEALXHwns6evKyeki5tT%2F3ttY%3D&ehkOptimized=utqXr0GmJXgsjPN%2FYLw1M68n6Gt66eYEVNyRd%2BkdXnc%3D",
-      "entrants": 9,
+      "entrants": 11,
+      "start_time": 1666564200
+    },
+    {
+      "slug": "tournament/kalvar-cup-66-dawg-in-em/event/melee-singles",
+      "tournament_name": "Kalvar Cup #66: Dawg in Em",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/491136/image-70889e2da54a1984a9f0265a39dcf7cf.png?ehk=6F7f%2Bn1CoxPHE%2FA1tLkapyjaxLPM6nSsyur6p9lEpoU%3D&ehkOptimized=OCTrfcH%2B9FWlbPLUZu4wsR2xL%2Fl9v9JxzNgNOP9Vi0g%3D",
+      "entrants": 3,
       "start_time": 1666564200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "SCSS East Coast #91",
       "event_name": "SCSS Singles",
       "image": "https://images.start.gg/images/tournament/490698/image-fbaf22d63e88d25f6d62ef1f59a0ca48.png?ehk=DfZuOykNXqJMRdyIBXH6J0chANrB3Hw01uEdNi8Jxgg%3D&ehkOptimized=KNFWjQZ2jSZPlLiKeOvPK4ApQG8wpWHyy0i%2BaQwAbYc%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1666567800
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "SCSS West Coast #80",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490701/image-cef0f42314f0547dd7bd0e4aaf73832f.png?ehk=6IdHGDEKf6GEm6t7GaG36VUt%2BABejzE75u%2BM6MDwJxk%3D&ehkOptimized=8Cfa9B6ciaLi3nugrBTeU%2F0jzoVdEdnBQSr2g1yeFE4%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1666571400
     },
     {
