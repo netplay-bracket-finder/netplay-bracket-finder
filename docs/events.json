@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666547149,
+  "fetched_at": 1666549658,
   "data": [
     {
       "slug": "tournament/bromomento-rel-mpago-2/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "SCSS East Coast #91",
       "event_name": "SCSS Singles",
       "image": "https://images.start.gg/images/tournament/490698/image-fbaf22d63e88d25f6d62ef1f59a0ca48.png?ehk=DfZuOykNXqJMRdyIBXH6J0chANrB3Hw01uEdNi8Jxgg%3D&ehkOptimized=KNFWjQZ2jSZPlLiKeOvPK4ApQG8wpWHyy0i%2BaQwAbYc%3D",
-      "entrants": 7,
+      "entrants": 9,
       "start_time": 1666567800
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Level One Melee #49- a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/490465/image-77b7dc769a7854eb58bb37f9d9ea3088.png?ehk=N3TUKEwvWby%2FcbqEZu%2FjVLh2l2psG0NkIWdbcsig7VM%3D&ehkOptimized=7upQjNB79l7hpRmjf8ntX7b0vHiuTtxjAsvy47Y5qDA%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1666746000
     },
     {
