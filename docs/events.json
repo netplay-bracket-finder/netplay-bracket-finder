@@ -1,30 +1,6 @@
 {
-  "fetched_at": 1666507840,
+  "fetched_at": 1666509927,
   "data": [
-    {
-      "slug": "tournament/asl-s-weekly-weekend-melee-13/event/melee-singles",
-      "tournament_name": "ASL’s Weekly Weekend Melee #13",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/490377/image-9ebd705a9629294a763ea04208035a46.png?ehk=0SnTtH7SZINMphKrP%2Be%2BJhHmf35xxWZzep5YokXws8o%3D&ehkOptimized=Z9bxXj%2Fr5CR40QqUpxBjvWoxyy%2B1lruH1XLXaE2lXow%3D",
-      "entrants": 9,
-      "start_time": 1666456200
-    },
-    {
-      "slug": "tournament/lgbt-s3e12-oops-all-sundays/event/melee-singles",
-      "tournament_name": "LGBT S3E12: Oops! All Sundays!",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/489806/image-80e78a06d24f66e55b35e84240712d9d.png?ehk=1mQWLlT9t53kIZXWmQsvbixmuPgTZluwa1cJx%2BsWM9U%3D&ehkOptimized=zUCgEzTbXMdaC%2ByDYrrButMJt2Ru4cT1g1az5ZpaTqY%3D",
-      "entrants": 8,
-      "start_time": 1666497600
-    },
-    {
-      "slug": "tournament/lgbt-s3e12-oops-all-sundays/event/ladder",
-      "tournament_name": "LGBT S3E12: Oops! All Sundays!",
-      "event_name": "Ladder",
-      "image": "https://images.start.gg/images/tournament/489806/image-80e78a06d24f66e55b35e84240712d9d.png?ehk=1mQWLlT9t53kIZXWmQsvbixmuPgTZluwa1cJx%2BsWM9U%3D&ehkOptimized=zUCgEzTbXMdaC%2ByDYrrButMJt2Ru4cT1g1az5ZpaTqY%3D",
-      "entrants": 6,
-      "start_time": 1666497600
-    },
     {
       "slug": "tournament/eli-s-weekly-low-tier-spanking-27/event/eli-s-weekly-low-tier-spanking-15",
       "tournament_name": "Eli's Weekly Low Tier Spanking 27",
