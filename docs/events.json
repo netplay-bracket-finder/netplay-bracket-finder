@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666482712,
+  "fetched_at": 1666491388,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13/event/melee-singles",
@@ -10,19 +10,11 @@
       "start_time": 1666456200
     },
     {
-      "slug": "tournament/sober-saturday-115/event/melee-singles",
-      "tournament_name": "Sober Saturday #115",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/490922/image-fe0bc93257dad274df8556396baca7ea.jpg?ehk=QNImQqnvtfGBAmoHCQJoSlRppLEX9vuPRToSIWk4eU8%3D&ehkOptimized=jHXRcPahTZ3AMkzqULTMep0B2ihKAMqK0t%2BKd4pLh9k%3D",
-      "entrants": 8,
-      "start_time": 1666483200
-    },
-    {
       "slug": "tournament/dusk-x-australian-melee-presents-a-tribute-to-denis/event/melee-bracket",
       "tournament_name": "Dusk x Australian Melee Presents: A Tribute to Denis",
       "event_name": "Melee Bracket",
       "image": "https://images.start.gg/images/tournament/488045/image-ebdef222cbe916402856aa1a1235185b.png?ehk=VkapuGzz5XCIVFKo%2Bl65q9M%2Br2bWhrVEBtofXt8w%2BDQ%3D&ehkOptimized=PSXD4M7BBWbIMiEfOI4kXw5UWRvrJvkyDgdDKnHVWWc%3D",
-      "entrants": 22,
+      "entrants": 28,
       "start_time": 1666508400
     },
     {
@@ -30,7 +22,7 @@
       "tournament_name": "LGBT S3E12: Oops! All Sundays!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489806/image-80e78a06d24f66e55b35e84240712d9d.png?ehk=1mQWLlT9t53kIZXWmQsvbixmuPgTZluwa1cJx%2BsWM9U%3D&ehkOptimized=zUCgEzTbXMdaC%2ByDYrrButMJt2Ru4cT1g1az5ZpaTqY%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1666497600
     },
     {
@@ -38,7 +30,7 @@
       "tournament_name": "LGBT S3E12: Oops! All Sundays!",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/489806/image-80e78a06d24f66e55b35e84240712d9d.png?ehk=1mQWLlT9t53kIZXWmQsvbixmuPgTZluwa1cJx%2BsWM9U%3D&ehkOptimized=zUCgEzTbXMdaC%2ByDYrrButMJt2Ru4cT1g1az5ZpaTqY%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1666497600
     },
     {
@@ -86,7 +78,7 @@
       "tournament_name": "SCSS East Coast #91",
       "event_name": "SCSS Singles",
       "image": "https://images.start.gg/images/tournament/490698/image-fbaf22d63e88d25f6d62ef1f59a0ca48.png?ehk=DfZuOykNXqJMRdyIBXH6J0chANrB3Hw01uEdNi8Jxgg%3D&ehkOptimized=KNFWjQZ2jSZPlLiKeOvPK4ApQG8wpWHyy0i%2BaQwAbYc%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666567800
     },
     {
@@ -182,7 +174,7 @@
       "tournament_name": "SUPER SMASH BRONOL - MELEE #9",
       "event_name": "Melee 1vs1",
       "image": "https://images.start.gg/images/tournament/490756/image-32d04dbf5618a0e48214cf813e35e3ef.jpg?ehk=TwjXyaXss0i5CaRRkdxI6ZXEuc8wKK6Z8r0BR%2F9ikvg%3D&ehkOptimized=Xm983w3rfvsZfSa8l1a3bugIvlLuIX6Cmvc%2Fwt0GzLs%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1666974600
     },
     {
@@ -218,16 +210,16 @@
       "start_time": 1667125800
     },
     {
-      "slug": "tournament/blumflip-presents-nightmare-on-dreamland/event/melee-doubles",
-      "tournament_name": "blumflip presents: Nightmare on Dreamland",
+      "slug": "tournament/blumflip-presents-nightmare-on-dreamland-50-prize-pool/event/melee-doubles",
+      "tournament_name": "blumflip presents: Nightmare on Dreamland -  $50 prize pool!",
       "event_name": "melee doubles",
       "image": "https://images.start.gg/images/tournament/489282/image-ddba731fbccb0d805efd68041ee3f579.jpg?ehk=Oh9GyWTHO9fm9dq3FbFh9iFZy1cefpe1xXm1LMUjalY%3D&ehkOptimized=orQho2vomFZlU7N6uqIrGh1MHc9QOAs4GoKnO1vqm1s%3D",
       "entrants": 0,
       "start_time": 1667160000
     },
     {
-      "slug": "tournament/blumflip-presents-nightmare-on-dreamland/event/melee-singles",
-      "tournament_name": "blumflip presents: Nightmare on Dreamland",
+      "slug": "tournament/blumflip-presents-nightmare-on-dreamland-50-prize-pool/event/melee-singles",
+      "tournament_name": "blumflip presents: Nightmare on Dreamland -  $50 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/489282/image-ddba731fbccb0d805efd68041ee3f579.jpg?ehk=Oh9GyWTHO9fm9dq3FbFh9iFZy1cefpe1xXm1LMUjalY%3D&ehkOptimized=orQho2vomFZlU7N6uqIrGh1MHc9QOAs4GoKnO1vqm1s%3D",
       "entrants": 5,
