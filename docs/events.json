@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666498653,
+  "fetched_at": 1666502973,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Dusk x Australian Melee Presents: A Tribute to Denis",
       "event_name": "Melee Bracket",
       "image": "https://images.start.gg/images/tournament/488045/image-ebdef222cbe916402856aa1a1235185b.png?ehk=VkapuGzz5XCIVFKo%2Bl65q9M%2Br2bWhrVEBtofXt8w%2BDQ%3D&ehkOptimized=PSXD4M7BBWbIMiEfOI4kXw5UWRvrJvkyDgdDKnHVWWc%3D",
-      "entrants": 32,
+      "entrants": 35,
       "start_time": 1666508400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "LGBT S3E12: Oops! All Sundays!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489806/image-80e78a06d24f66e55b35e84240712d9d.png?ehk=1mQWLlT9t53kIZXWmQsvbixmuPgTZluwa1cJx%2BsWM9U%3D&ehkOptimized=zUCgEzTbXMdaC%2ByDYrrButMJt2Ru4cT1g1az5ZpaTqY%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1666497600
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "Level One Melee #49- a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/490465/image-77b7dc769a7854eb58bb37f9d9ea3088.png?ehk=N3TUKEwvWby%2FcbqEZu%2FjVLh2l2psG0NkIWdbcsig7VM%3D&ehkOptimized=7upQjNB79l7hpRmjf8ntX7b0vHiuTtxjAsvy47Y5qDA%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1666746000
     },
     {
@@ -174,7 +174,7 @@
       "tournament_name": "SUPER SMASH BRONOL - MELEE #9",
       "event_name": "Melee 1vs1",
       "image": "https://images.start.gg/images/tournament/490756/image-32d04dbf5618a0e48214cf813e35e3ef.jpg?ehk=TwjXyaXss0i5CaRRkdxI6ZXEuc8wKK6Z8r0BR%2F9ikvg%3D&ehkOptimized=Xm983w3rfvsZfSa8l1a3bugIvlLuIX6Cmvc%2Fwt0GzLs%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1666974600
     },
     {
