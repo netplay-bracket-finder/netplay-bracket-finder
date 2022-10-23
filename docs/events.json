@@ -1,28 +1,12 @@
 {
-  "fetched_at": 1666538749,
+  "fetched_at": 1666540230,
   "data": [
-    {
-      "slug": "tournament/gay-european-melee-tournament-26/event/singles",
-      "tournament_name": "Gay European Melee Tournament 26",
-      "event_name": "Singles",
-      "image": "https://images.start.gg/images/tournament/491064/image-12e6f627f48007d320347835c49c7127.png?ehk=zS%2FbRUFEChw7PVrb2IZu8mdxzwm5HK9YOPbYDEfKgJA%3D&ehkOptimized=xQc%2BeF2A2VC2luxUz0q6BX7XQEfy8fbOArUS184oLeA%3D",
-      "entrants": 10,
-      "start_time": 1666540800
-    },
-    {
-      "slug": "tournament/dorime-s-dojo-5/event/melee-singles",
-      "tournament_name": "Dorime's Dojo #5",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/489314/image-fc0c2756b51dbb190399a801622c162c.png?ehk=Z%2B8nyQQ8rZLet08TxII8%2B2gvqvoml3hohGBe0O5DLv0%3D&ehkOptimized=8rDeHIF7kkiA0Hv6k1Jw6Z0DqXOLXSuepbSj83zyrgM%3D",
-      "entrants": 12,
-      "start_time": 1666540800
-    },
     {
       "slug": "tournament/fight-of-the-fearless-24/event/fight-of-the-fearless-single",
       "tournament_name": "Fight of the Fearless 24",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/489245/image-b417e2ad5bfa2bd75bbd860949d84c99.png?ehk=JzhAtlNsnIgMl04UIPueANYCJ0yl5U4TeSfB2N4ZktA%3D&ehkOptimized=MM5PcLxHq1D94WKjR%2BVOSuaeeyXWOqHFo5UK3yHrw7k%3D",
-      "entrants": 11,
+      "entrants": 14,
       "start_time": 1666544400
     },
     {
