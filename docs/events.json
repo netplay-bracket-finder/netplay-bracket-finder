@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666650240,
+  "fetched_at": 1666651749,
   "data": [
     {
       "slug": "tournament/pino-s-tired-of-0-2-95/event/tired-of-0-2",
@@ -14,7 +14,7 @@
       "tournament_name": "Coast to Coast Doubles # 4",
       "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/490276/image-0a3ae46fd8fbd9449ea1fec658b1cdde.png?ehk=6V%2BhEZro%2BA4wPJ9a%2BWAOUuMvoPove2irUt3w9pb%2BjTA%3D&ehkOptimized=iQo1pjsaJdk0tRdwmJS0dbocn73vj5FDy25Dlv1Ly7g%3D",
-      "entrants": 4,
+      "entrants": 7,
       "start_time": 1666652400
     },
     {
@@ -22,15 +22,7 @@
       "tournament_name": "Coast to Coast Doubles # 4",
       "event_name": "WC Doubles",
       "image": "https://images.start.gg/images/tournament/490276/image-0a3ae46fd8fbd9449ea1fec658b1cdde.png?ehk=6V%2BhEZro%2BA4wPJ9a%2BWAOUuMvoPove2irUt3w9pb%2BjTA%3D&ehkOptimized=iQo1pjsaJdk0tRdwmJS0dbocn73vj5FDy25Dlv1Ly7g%3D",
-      "entrants": 4,
-      "start_time": 1666652400
-    },
-    {
-      "slug": "tournament/brunswick-brawl-online-3-5-dollars-off-brunswick-brawl-entry/event/melee-singles",
-      "tournament_name": "Brunswick Brawl Online #3 (5 DOLLARS OFF BRUNSWICK BRAWL ENTRY FEE EDITION)",
-      "event_name": "Melee Singles",
-      "image": "",
-      "entrants": 7,
+      "entrants": 5,
       "start_time": 1666652400
     },
     {
