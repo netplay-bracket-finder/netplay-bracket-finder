@@ -1,29 +1,21 @@
 {
-  "fetched_at": 1666648040,
+  "fetched_at": 1666650240,
   "data": [
-    {
-      "slug": "tournament/slippi-sauce-71/event/melee-singles",
-      "tournament_name": "Slippi Sauce #71 🐸",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/491331/image-aa8029a41f615b29b6291d62ffebb731.png?ehk=qJQup1Mj0Ft44ewUa7kACMSdRnEvywIRHW6kSTNaLtE%3D&ehkOptimized=cOxKC9iAmKFtfTUpE2gILWYZT1JHm%2FUQEVLUChqZePw%3D",
-      "entrants": 23,
-      "start_time": 1666648800
-    },
-    {
-      "slug": "tournament/super-smash-bong-69-crews/event/crews",
-      "tournament_name": "Super Smash Bong #69 (CREWS)",
-      "event_name": "Crews",
-      "image": "https://images.start.gg/images/tournament/490614/image-d0dccd1cc777d9fa58af0b1379ae29ad.jpg?ehk=Ftw4%2FqSPhZu%2BrfunO6hvcdN7sOLoNpr3tg0zTwQuHnc%3D&ehkOptimized=AJoV6xwRPNPk2bBMBzARQ5I4BnFn%2FYl%2B16w9fdk5Btk%3D",
-      "entrants": 7,
-      "start_time": 1666650600
-    },
     {
       "slug": "tournament/pino-s-tired-of-0-2-95/event/tired-of-0-2",
       "tournament_name": "Pino's Tired of 0-2 #95!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/491435/image-64895430602d3b50fb1ab96af43e2022.jpg?ehk=c9uc7XYrM439MRgPyTFnZXQfVsM%2BgpNJ1sHgR5JYs5w%3D&ehkOptimized=8ElPQhchNGjl%2B3ivVuNmL1X%2Bb7GPtLU%2BGwrXpTJ04is%3D",
-      "entrants": 44,
+      "entrants": 49,
       "start_time": 1666652340
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-4/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 4",
+      "event_name": "EC Doubles",
+      "image": "https://images.start.gg/images/tournament/490276/image-0a3ae46fd8fbd9449ea1fec658b1cdde.png?ehk=6V%2BhEZro%2BA4wPJ9a%2BWAOUuMvoPove2irUt3w9pb%2BjTA%3D&ehkOptimized=iQo1pjsaJdk0tRdwmJS0dbocn73vj5FDy25Dlv1Ly7g%3D",
+      "entrants": 4,
+      "start_time": 1666652400
     },
     {
       "slug": "tournament/coast-to-coast-doubles-4/event/wc-doubles",
@@ -31,14 +23,6 @@
       "event_name": "WC Doubles",
       "image": "https://images.start.gg/images/tournament/490276/image-0a3ae46fd8fbd9449ea1fec658b1cdde.png?ehk=6V%2BhEZro%2BA4wPJ9a%2BWAOUuMvoPove2irUt3w9pb%2BjTA%3D&ehkOptimized=iQo1pjsaJdk0tRdwmJS0dbocn73vj5FDy25Dlv1Ly7g%3D",
       "entrants": 4,
-      "start_time": 1666652400
-    },
-    {
-      "slug": "tournament/coast-to-coast-doubles-4/event/ec-doubles",
-      "tournament_name": "Coast to Coast Doubles # 4",
-      "event_name": "EC Doubles",
-      "image": "https://images.start.gg/images/tournament/490276/image-0a3ae46fd8fbd9449ea1fec658b1cdde.png?ehk=6V%2BhEZro%2BA4wPJ9a%2BWAOUuMvoPove2irUt3w9pb%2BjTA%3D&ehkOptimized=iQo1pjsaJdk0tRdwmJS0dbocn73vj5FDy25Dlv1Ly7g%3D",
-      "entrants": 2,
       "start_time": 1666652400
     },
     {
@@ -54,7 +38,7 @@
       "tournament_name": "MNN#30",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491291/image-32573f693689d3acfa5b57d71112b82e.png?ehk=a4NEMTre1nrLbb1494Fm54vJb0tkG9HrzQaP8J%2BTS7E%3D&ehkOptimized=qWAH6XmbAS3tKw6Jmdi2urEK5yE%2Fh1RzvwffxJtr4nE%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1666666800
     },
     {
@@ -78,7 +62,7 @@
       "tournament_name": "Seamus' Birthday Bash",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487944/image-73d58e92cf4157b768ef32ef29433388.jpg?ehk=Si3Yri%2BpClObLFDwPeT%2F5zA7BqiSRd2%2Bh5TDmq9pbN0%3D&ehkOptimized=hGmPL2BUE4ik6uYH69tl2PcyKLw3UQb3H6HHz9EvLVE%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1666740600
     },
     {
@@ -146,19 +130,19 @@
       "start_time": 1666911600
     },
     {
-      "slug": "tournament/moonwalk-tournament-series-22-1/event/melee-doubles",
-      "tournament_name": "Moonwalk Tournament Series 22",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/491643/image-4e67721b513a43f789f0cb241fe10855.jpg?ehk=i5X%2B%2FWPuxaj3eV1OGIoW7h1g6mw5U3a%2FKBRrYkXZ4lA%3D&ehkOptimized=SRHJ%2BZETCPp4Hfb8Ik9DEtGLaihwikG254fhPeMfjpo%3D",
-      "entrants": 0,
-      "start_time": 1666911600
-    },
-    {
       "slug": "tournament/moonwalk-tournament-series-22-1/event/melee-ladder",
       "tournament_name": "Moonwalk Tournament Series 22",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/491643/image-4e67721b513a43f789f0cb241fe10855.jpg?ehk=i5X%2B%2FWPuxaj3eV1OGIoW7h1g6mw5U3a%2FKBRrYkXZ4lA%3D&ehkOptimized=SRHJ%2BZETCPp4Hfb8Ik9DEtGLaihwikG254fhPeMfjpo%3D",
-      "entrants": 0,
+      "entrants": 2,
+      "start_time": 1666911600
+    },
+    {
+      "slug": "tournament/moonwalk-tournament-series-22-1/event/melee-doubles",
+      "tournament_name": "Moonwalk Tournament Series 22",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/491643/image-4e67721b513a43f789f0cb241fe10855.jpg?ehk=i5X%2B%2FWPuxaj3eV1OGIoW7h1g6mw5U3a%2FKBRrYkXZ4lA%3D&ehkOptimized=SRHJ%2BZETCPp4Hfb8Ik9DEtGLaihwikG254fhPeMfjpo%3D",
+      "entrants": 1,
       "start_time": 1666911600
     },
     {
