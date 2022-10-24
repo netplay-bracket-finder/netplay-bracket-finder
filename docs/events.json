@@ -1,20 +1,20 @@
 {
-  "fetched_at": 1666608627,
+  "fetched_at": 1666610638,
   "data": [
-    {
-      "slug": "tournament/monday-night-mixup-35/event/melee-singles",
-      "tournament_name": "Monday Night Mixup #35",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/491193/image-c243e97f803ea647dce6fb6af8eb0eea.png?ehk=Gtp8Gg84dtEC%2BfAhzCT571TR71dLngXlu%2BpGp5zOICA%3D&ehkOptimized=DmcOSjfHNWQHn3WK%2B9V9lWsDbwXwa9oAvq5CQXP1TaQ%3D",
-      "entrants": 6,
-      "start_time": 1666634400
-    },
     {
       "slug": "tournament/tuesday-night-fever-4/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490831/image-b617a77a20103125734b58d8987b7aa7.png?ehk=8ZD2k8%2BPdjYhtYG%2BjO22Q9xpBte7cab9fE3MsjH1z1s%3D&ehkOptimized=h4d1FCiL2ZQPouqXETQ6HhUfrXYMW1Mvax1CAJlInbU%3D",
       "entrants": 0,
+      "start_time": 1666634400
+    },
+    {
+      "slug": "tournament/monday-night-mixup-35/event/melee-singles",
+      "tournament_name": "Monday Night Mixup #35",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/491193/image-c243e97f803ea647dce6fb6af8eb0eea.png?ehk=Gtp8Gg84dtEC%2BfAhzCT571TR71dLngXlu%2BpGp5zOICA%3D&ehkOptimized=DmcOSjfHNWQHn3WK%2B9V9lWsDbwXwa9oAvq5CQXP1TaQ%3D",
+      "entrants": 6,
       "start_time": 1666634400
     },
     {
