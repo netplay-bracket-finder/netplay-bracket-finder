@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666578549,
+  "fetched_at": 1666586603,
   "data": [
     {
       "slug": "tournament/kalvar-cup-66-dawg-in-em/event/melee-singles",
@@ -16,6 +16,14 @@
       "image": "https://images.start.gg/images/tournament/491193/image-c243e97f803ea647dce6fb6af8eb0eea.png?ehk=Gtp8Gg84dtEC%2BfAhzCT571TR71dLngXlu%2BpGp5zOICA%3D&ehkOptimized=DmcOSjfHNWQHn3WK%2B9V9lWsDbwXwa9oAvq5CQXP1TaQ%3D",
       "entrants": 2,
       "start_time": 1666634400
+    },
+    {
+      "slug": "tournament/slippi-sauce-71/event/melee-singles",
+      "tournament_name": "Slippi Sauce #71 🐸",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/491331/image-aa8029a41f615b29b6291d62ffebb731.png?ehk=qJQup1Mj0Ft44ewUa7kACMSdRnEvywIRHW6kSTNaLtE%3D&ehkOptimized=cOxKC9iAmKFtfTUpE2gILWYZT1JHm%2FUQEVLUChqZePw%3D",
+      "entrants": 2,
+      "start_time": 1666648800
     },
     {
       "slug": "tournament/super-smash-bong-69-crews/event/crews",
@@ -50,6 +58,14 @@
       "start_time": 1666666800
     },
     {
+      "slug": "tournament/sketchy-series-3-cut-to-the-tres/event/melee-singles",
+      "tournament_name": "Sketchy Series 3: Cut To The Tres",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/491329/image-23b73e1848ea9743ce1f2dd89f83af0f.png?ehk=wRoz8W2AJu54xSNjrnhbxrvP0jyCLyCvkeYCxBnSooc%3D&ehkOptimized=YI%2F66dxWfJOsG7Evidb4S4yYSWlRCxoIvkgTwrpdVNA%3D",
+      "entrants": 0,
+      "start_time": 1666738800
+    },
+    {
       "slug": "tournament/seamus-birthday-bash/event/melee-singles",
       "tournament_name": "Seamus' Birthday Bash",
       "event_name": "Melee Singles",
@@ -70,7 +86,7 @@
       "tournament_name": "Level One Melee #49- a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/490465/image-77b7dc769a7854eb58bb37f9d9ea3088.png?ehk=N3TUKEwvWby%2FcbqEZu%2FjVLh2l2psG0NkIWdbcsig7VM%3D&ehkOptimized=7upQjNB79l7hpRmjf8ntX7b0vHiuTtxjAsvy47Y5qDA%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1666746000
     },
     {
@@ -102,7 +118,7 @@
       "tournament_name": "Only Noobs 90",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490686/image-832b7c5f7da0bcf395680fc997fecb9e.jpg?ehk=07%2BkxgUmLbycSpUJNfKw5dPfo7UZxdrbrbFJ3Ied7SE%3D&ehkOptimized=cIyV7vckE%2Bb2SdpcDMh%2BbcXjegLW%2F2GLXVit8gd5dHw%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1666911600
     },
     {
@@ -112,6 +128,14 @@
       "image": "https://images.start.gg/images/tournament/490756/image-32d04dbf5618a0e48214cf813e35e3ef.jpg?ehk=TwjXyaXss0i5CaRRkdxI6ZXEuc8wKK6Z8r0BR%2F9ikvg%3D&ehkOptimized=Xm983w3rfvsZfSa8l1a3bugIvlLuIX6Cmvc%2Fwt0GzLs%3D",
       "entrants": 12,
       "start_time": 1666974600
+    },
+    {
+      "slug": "tournament/the-shallow-end-9-a-wc-newbie-bracket/event/melee-singles",
+      "tournament_name": "The Shallow End #9 - a WC newbie bracket",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490814/image-7796f7db35172c89836ae580df54ad44.jpg?ehk=lIIDj4pJvgYaIY2rZfpx0gy7INM4K517zpYe8OkLb0A%3D&ehkOptimized=d58S8c7Ylhsving3aoNpZUnGkso2S48uAICJvi9jGv8%3D",
+      "entrants": 0,
+      "start_time": 1667004300
     },
     {
       "slug": "tournament/searcadian/event/singles",
