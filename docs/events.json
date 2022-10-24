@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1666654062,
+  "fetched_at": 1666655643,
   "data": [
-    {
-      "slug": "tournament/pino-s-tired-of-0-2-95/event/tired-of-0-2",
-      "tournament_name": "Pino's Tired of 0-2 #95!",
-      "event_name": "Tired of 0-2?",
-      "image": "https://images.start.gg/images/tournament/491435/image-64895430602d3b50fb1ab96af43e2022.jpg?ehk=c9uc7XYrM439MRgPyTFnZXQfVsM%2BgpNJ1sHgR5JYs5w%3D&ehkOptimized=8ElPQhchNGjl%2B3ivVuNmL1X%2Bb7GPtLU%2BGwrXpTJ04is%3D",
-      "entrants": 49,
-      "start_time": 1666652340
-    },
     {
       "slug": "tournament/coast-to-coast-doubles-4/event/ec-doubles",
       "tournament_name": "Coast to Coast Doubles # 4",
@@ -22,7 +14,7 @@
       "tournament_name": "Coast to Coast Doubles # 4",
       "event_name": "WC Doubles",
       "image": "https://images.start.gg/images/tournament/490276/image-0a3ae46fd8fbd9449ea1fec658b1cdde.png?ehk=6V%2BhEZro%2BA4wPJ9a%2BWAOUuMvoPove2irUt3w9pb%2BjTA%3D&ehkOptimized=iQo1pjsaJdk0tRdwmJS0dbocn73vj5FDy25Dlv1Ly7g%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1666652400
     },
     {
@@ -30,7 +22,7 @@
       "tournament_name": "MNN#30",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491291/image-32573f693689d3acfa5b57d71112b82e.png?ehk=a4NEMTre1nrLbb1494Fm54vJb0tkG9HrzQaP8J%2BTS7E%3D&ehkOptimized=qWAH6XmbAS3tKw6Jmdi2urEK5yE%2Fh1RzvwffxJtr4nE%3D",
-      "entrants": 5,
+      "entrants": 10,
       "start_time": 1666666800
     },
     {
@@ -46,7 +38,7 @@
       "tournament_name": "Sketchy Series 3: Cut To The Tres",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491329/image-23b73e1848ea9743ce1f2dd89f83af0f.png?ehk=wRoz8W2AJu54xSNjrnhbxrvP0jyCLyCvkeYCxBnSooc%3D&ehkOptimized=YI%2F66dxWfJOsG7Evidb4S4yYSWlRCxoIvkgTwrpdVNA%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666738800
     },
     {
