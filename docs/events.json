@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666569175,
+  "fetched_at": 1666578549,
   "data": [
     {
       "slug": "tournament/kalvar-cup-66-dawg-in-em/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/491136/image-70889e2da54a1984a9f0265a39dcf7cf.png?ehk=6F7f%2Bn1CoxPHE%2FA1tLkapyjaxLPM6nSsyur6p9lEpoU%3D&ehkOptimized=OCTrfcH%2B9FWlbPLUZu4wsR2xL%2Fl9v9JxzNgNOP9Vi0g%3D",
       "entrants": 11,
       "start_time": 1666564200
-    },
-    {
-      "slug": "tournament/scss-west-coast-80/event/melee-singles",
-      "tournament_name": "SCSS West Coast #80",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/490701/image-cef0f42314f0547dd7bd0e4aaf73832f.png?ehk=6IdHGDEKf6GEm6t7GaG36VUt%2BABejzE75u%2BM6MDwJxk%3D&ehkOptimized=8Cfa9B6ciaLi3nugrBTeU%2F0jzoVdEdnBQSr2g1yeFE4%3D",
-      "entrants": 6,
-      "start_time": 1666571400
     },
     {
       "slug": "tournament/monday-night-mixup-35/event/melee-singles",
@@ -48,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/490276/image-0a3ae46fd8fbd9449ea1fec658b1cdde.png?ehk=6V%2BhEZro%2BA4wPJ9a%2BWAOUuMvoPove2irUt3w9pb%2BjTA%3D&ehkOptimized=iQo1pjsaJdk0tRdwmJS0dbocn73vj5FDy25Dlv1Ly7g%3D",
       "entrants": 0,
       "start_time": 1666652400
+    },
+    {
+      "slug": "tournament/mnn-30/event/melee-singles",
+      "tournament_name": "MNN#30",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/491291/image-32573f693689d3acfa5b57d71112b82e.png?ehk=a4NEMTre1nrLbb1494Fm54vJb0tkG9HrzQaP8J%2BTS7E%3D&ehkOptimized=qWAH6XmbAS3tKw6Jmdi2urEK5yE%2Fh1RzvwffxJtr4nE%3D",
+      "entrants": 0,
+      "start_time": 1666666800
     },
     {
       "slug": "tournament/seamus-birthday-bash/event/melee-singles",
@@ -110,7 +110,7 @@
       "tournament_name": "SUPER SMASH BRONOL - MELEE #9",
       "event_name": "Melee 1vs1",
       "image": "https://images.start.gg/images/tournament/490756/image-32d04dbf5618a0e48214cf813e35e3ef.jpg?ehk=TwjXyaXss0i5CaRRkdxI6ZXEuc8wKK6Z8r0BR%2F9ikvg%3D&ehkOptimized=Xm983w3rfvsZfSa8l1a3bugIvlLuIX6Cmvc%2Fwt0GzLs%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1666974600
     },
     {
