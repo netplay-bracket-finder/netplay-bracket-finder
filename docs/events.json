@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666629651,
+  "fetched_at": 1666632048,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-4/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Monday Night Mixup #35",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491193/image-c243e97f803ea647dce6fb6af8eb0eea.png?ehk=Gtp8Gg84dtEC%2BfAhzCT571TR71dLngXlu%2BpGp5zOICA%3D&ehkOptimized=DmcOSjfHNWQHn3WK%2B9V9lWsDbwXwa9oAvq5CQXP1TaQ%3D",
-      "entrants": 27,
+      "entrants": 35,
       "start_time": 1666634400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Slippi Sauce #71 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491331/image-aa8029a41f615b29b6291d62ffebb731.png?ehk=qJQup1Mj0Ft44ewUa7kACMSdRnEvywIRHW6kSTNaLtE%3D&ehkOptimized=cOxKC9iAmKFtfTUpE2gILWYZT1JHm%2FUQEVLUChqZePw%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1666648800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Pino's Tired of 0-2 #95!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/491435/image-64895430602d3b50fb1ab96af43e2022.jpg?ehk=c9uc7XYrM439MRgPyTFnZXQfVsM%2BgpNJ1sHgR5JYs5w%3D&ehkOptimized=8ElPQhchNGjl%2B3ivVuNmL1X%2Bb7GPtLU%2BGwrXpTJ04is%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1666652340
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "Only Noobs 90",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490686/image-832b7c5f7da0bcf395680fc997fecb9e.jpg?ehk=07%2BkxgUmLbycSpUJNfKw5dPfo7UZxdrbrbFJ3Ied7SE%3D&ehkOptimized=cIyV7vckE%2Bb2SdpcDMh%2BbcXjegLW%2F2GLXVit8gd5dHw%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1666911600
     },
     {
