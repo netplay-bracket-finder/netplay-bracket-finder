@@ -1,13 +1,29 @@
 {
-  "fetched_at": 1666711703,
+  "fetched_at": 1666713458,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-4/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490831/image-b617a77a20103125734b58d8987b7aa7.png?ehk=8ZD2k8%2BPdjYhtYG%2BjO22Q9xpBte7cab9fE3MsjH1z1s%3D&ehkOptimized=h4d1FCiL2ZQPouqXETQ6HhUfrXYMW1Mvax1CAJlInbU%3D",
-      "entrants": 10,
+      "entrants": 13,
       "start_time": 1666720800
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/ladder-melee-east-coast",
+      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
+      "event_name": "Ladder Melee East Coast",
+      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
+      "entrants": 2,
+      "start_time": 1666724400
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/side-event-ec-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
+      "event_name": "Side Event: EC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
+      "entrants": 2,
+      "start_time": 1666724400
     },
     {
       "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/ladder-melee-west-coast",
@@ -23,14 +39,6 @@
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
       "entrants": 1,
-      "start_time": 1666724400
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/ladder-melee-east-coast",
-      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
-      "event_name": "Ladder Melee East Coast",
-      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
-      "entrants": 0,
       "start_time": 1666724400
     },
     {
@@ -50,14 +58,6 @@
       "start_time": 1666724400
     },
     {
-      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/side-event-ec-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
-      "event_name": "Side Event: EC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
-      "entrants": 0,
-      "start_time": 1666724400
-    },
-    {
       "slug": "tournament/sketchy-series-3-cut-to-the-trace/event/melee-singles",
       "tournament_name": "Sketchy Series 3: Cut To The Trace",
       "event_name": "Melee Singles",
@@ -70,7 +70,7 @@
       "tournament_name": "Seamus' Birthday Bash",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/487944/image-73d58e92cf4157b768ef32ef29433388.jpg?ehk=Si3Yri%2BpClObLFDwPeT%2F5zA7BqiSRd2%2Bh5TDmq9pbN0%3D&ehkOptimized=hGmPL2BUE4ik6uYH69tl2PcyKLw3UQb3H6HHz9EvLVE%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1666740600
     },
     {
@@ -142,7 +142,7 @@
       "tournament_name": "Moonwalk Tournament Series 22",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/491643/image-4e67721b513a43f789f0cb241fe10855.jpg?ehk=i5X%2B%2FWPuxaj3eV1OGIoW7h1g6mw5U3a%2FKBRrYkXZ4lA%3D&ehkOptimized=SRHJ%2BZETCPp4Hfb8Ik9DEtGLaihwikG254fhPeMfjpo%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1666911600
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "Spooky Swiss Doubles",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/490889/image-3d216eaab3e684a0f44fbd553999cda8.png?ehk=bXwbLoYORvRqoSWpuIDDUZELJP4o2B98u1iIW44yi9I%3D&ehkOptimized=Ryt7hP10Km2hw8n%2BRNXKbLBUjP9zpvJXuv5j83xWdOc%3D",
-      "entrants": 2,
+      "entrants": 1,
       "start_time": 1667062800
     },
     {
