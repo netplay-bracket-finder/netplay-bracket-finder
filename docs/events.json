@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666696853,
+  "fetched_at": 1666698250,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-4/event/melee-singles",
@@ -58,8 +58,8 @@
       "start_time": 1666724400
     },
     {
-      "slug": "tournament/sketchy-series-3-cut-to-the-tres/event/melee-singles",
-      "tournament_name": "Sketchy Series 3: Cut To The Tres",
+      "slug": "tournament/sketchy-series-3-cut-to-the-trace/event/melee-singles",
+      "tournament_name": "Sketchy Series 3: Cut To The Trace",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491329/image-23b73e1848ea9743ce1f2dd89f83af0f.png?ehk=wRoz8W2AJu54xSNjrnhbxrvP0jyCLyCvkeYCxBnSooc%3D&ehkOptimized=YI%2F66dxWfJOsG7Evidb4S4yYSWlRCxoIvkgTwrpdVNA%3D",
       "entrants": 4,
