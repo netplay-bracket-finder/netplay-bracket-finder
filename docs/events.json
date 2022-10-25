@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1666728014,
+  "fetched_at": 1666730531,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
-      "entrants": 38,
-      "start_time": 1666724400
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/ladder-melee-west-coast",
-      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
-      "event_name": "Ladder Melee West Coast",
-      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
-      "entrants": 15,
+      "entrants": 51,
       "start_time": 1666724400
     },
     {
@@ -22,7 +14,15 @@
       "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
-      "entrants": 14,
+      "entrants": 17,
+      "start_time": 1666724400
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/ladder-melee-west-coast",
+      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
+      "event_name": "Ladder Melee West Coast",
+      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
+      "entrants": 16,
       "start_time": 1666724400
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Sketchy Series 3: Cut To The Trace",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491329/image-23b73e1848ea9743ce1f2dd89f83af0f.png?ehk=wRoz8W2AJu54xSNjrnhbxrvP0jyCLyCvkeYCxBnSooc%3D&ehkOptimized=YI%2F66dxWfJOsG7Evidb4S4yYSWlRCxoIvkgTwrpdVNA%3D",
-      "entrants": 17,
+      "entrants": 20,
       "start_time": 1666738800
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "The Crossroads #39",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491952/image-b171cc40eb040127a69456514da8c78b.png?ehk=dh7bNI4z1zIynH7k6K73uem4%2Fvm9YZ9srtBdFdEc%2FDU%3D&ehkOptimized=nSzx6JvP7AAUm9bPX6s8mlfi%2BP2W%2BJ%2FuDqvnsEd5YnU%3D",
-      "entrants": 1,
+      "entrants": 5,
       "start_time": 1666740600
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Cataquackdown 14:  We do a little bit of trolling here",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491951/image-ee4be179595c83bcdad6c7b65a53f26e.png?ehk=AFR9UeJO0zCixiQEKOJ0X7k%2FCX3JVRWT6ipvdx6qwUA%3D&ehkOptimized=8tOMAmnRc0lsAc%2FG4fhL%2FcN94Vd%2Bd2ih74aTnWWpqJU%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1666742400
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "The Dairy Farm #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491568/image-f1fe46f347ef51f3cf161eb0161194e1.png?ehk=SdNNd1frGGyc%2FbGFGjBCZs6PRJy1RhFVXcrk7LAlZuA%3D&ehkOptimized=XjLDAGSJSW8mBZ%2FzXbjedzPNcQHx6vtwK2zK130UkE0%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666805400
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "Cre-lee #10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491529/image-815473b53bed86f354b19a5e9334ead5.jpg?ehk=oDcefbE1%2BXnxSVJDJonpaxrFhClvouKxVxpGVYwa6BA%3D&ehkOptimized=fcdbUuf9hUsrwA8MlXqVZwMJkxV44X5667sn1fhdcjk%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666827000
     },
     {
@@ -142,7 +142,7 @@
       "tournament_name": "Only Noobs 90",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490686/image-832b7c5f7da0bcf395680fc997fecb9e.jpg?ehk=07%2BkxgUmLbycSpUJNfKw5dPfo7UZxdrbrbFJ3Ied7SE%3D&ehkOptimized=cIyV7vckE%2Bb2SdpcDMh%2BbcXjegLW%2F2GLXVit8gd5dHw%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1666911600
     },
     {
@@ -270,7 +270,7 @@
       "tournament_name": "blumflip presents: Nightmare on Dreamland -  $50 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/489282/image-ddba731fbccb0d805efd68041ee3f579.jpg?ehk=Oh9GyWTHO9fm9dq3FbFh9iFZy1cefpe1xXm1LMUjalY%3D&ehkOptimized=orQho2vomFZlU7N6uqIrGh1MHc9QOAs4GoKnO1vqm1s%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1667167200
     },
     {
@@ -302,7 +302,7 @@
       "tournament_name": "Spudfest 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491915/image-eec9acffed24ce285cf6b38da11d1886.jpg?ehk=d%2BOHgtkFtb8tGQ6kC6qbY%2FbeC0P8Lh7HpXusEclT%2FBw%3D&ehkOptimized=ihFBfCiEJ2oEI2HDPSZaerZcJZLhmsy%2FeVikRu4yVUQ%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1667264400
     },
     {
