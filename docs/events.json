@@ -1,28 +1,12 @@
 {
-  "fetched_at": 1666655643,
+  "fetched_at": 1666664630,
   "data": [
-    {
-      "slug": "tournament/coast-to-coast-doubles-4/event/ec-doubles",
-      "tournament_name": "Coast to Coast Doubles # 4",
-      "event_name": "EC Doubles",
-      "image": "https://images.start.gg/images/tournament/490276/image-0a3ae46fd8fbd9449ea1fec658b1cdde.png?ehk=6V%2BhEZro%2BA4wPJ9a%2BWAOUuMvoPove2irUt3w9pb%2BjTA%3D&ehkOptimized=iQo1pjsaJdk0tRdwmJS0dbocn73vj5FDy25Dlv1Ly7g%3D",
-      "entrants": 9,
-      "start_time": 1666652400
-    },
-    {
-      "slug": "tournament/coast-to-coast-doubles-4/event/wc-doubles",
-      "tournament_name": "Coast to Coast Doubles # 4",
-      "event_name": "WC Doubles",
-      "image": "https://images.start.gg/images/tournament/490276/image-0a3ae46fd8fbd9449ea1fec658b1cdde.png?ehk=6V%2BhEZro%2BA4wPJ9a%2BWAOUuMvoPove2irUt3w9pb%2BjTA%3D&ehkOptimized=iQo1pjsaJdk0tRdwmJS0dbocn73vj5FDy25Dlv1Ly7g%3D",
-      "entrants": 6,
-      "start_time": 1666652400
-    },
     {
       "slug": "tournament/mnn-30/event/melee-singles",
       "tournament_name": "MNN#30",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491291/image-32573f693689d3acfa5b57d71112b82e.png?ehk=a4NEMTre1nrLbb1494Fm54vJb0tkG9HrzQaP8J%2BTS7E%3D&ehkOptimized=qWAH6XmbAS3tKw6Jmdi2urEK5yE%2Fh1RzvwffxJtr4nE%3D",
-      "entrants": 10,
+      "entrants": 30,
       "start_time": 1666666800
     },
     {
@@ -54,7 +38,7 @@
       "tournament_name": "Level One Melee #49- a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/490465/image-77b7dc769a7854eb58bb37f9d9ea3088.png?ehk=N3TUKEwvWby%2FcbqEZu%2FjVLh2l2psG0NkIWdbcsig7VM%3D&ehkOptimized=7upQjNB79l7hpRmjf8ntX7b0vHiuTtxjAsvy47Y5qDA%3D",
-      "entrants": 5,
+      "entrants": 8,
       "start_time": 1666746000
     },
     {
@@ -62,7 +46,7 @@
       "tournament_name": "Level One Melee #49- a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/490465/image-77b7dc769a7854eb58bb37f9d9ea3088.png?ehk=N3TUKEwvWby%2FcbqEZu%2FjVLh2l2psG0NkIWdbcsig7VM%3D&ehkOptimized=7upQjNB79l7hpRmjf8ntX7b0vHiuTtxjAsvy47Y5qDA%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1666746000
     },
     {
@@ -110,7 +94,7 @@
       "tournament_name": "Only Noobs 90",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490686/image-832b7c5f7da0bcf395680fc997fecb9e.jpg?ehk=07%2BkxgUmLbycSpUJNfKw5dPfo7UZxdrbrbFJ3Ied7SE%3D&ehkOptimized=cIyV7vckE%2Bb2SdpcDMh%2BbcXjegLW%2F2GLXVit8gd5dHw%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1666911600
     },
     {
@@ -174,7 +158,7 @@
       "tournament_name": "SSBM RU Monthly (October 2022)",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/486647/image-e1750f4862665fa6b7446cb7dcc1981a.png?ehk=Zk8K4hK8D5tWcb9Xr8UsInofVtB5InQQR5O4UnCk2bw%3D&ehkOptimized=byvLe1iGXzADa%2BmqMgqL3H8SpoF8Kl0zsDkyH8gKDlU%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667059200
     },
     {
@@ -184,6 +168,14 @@
       "image": "https://images.start.gg/images/tournament/490889/image-3d216eaab3e684a0f44fbd553999cda8.png?ehk=bXwbLoYORvRqoSWpuIDDUZELJP4o2B98u1iIW44yi9I%3D&ehkOptimized=Ryt7hP10Km2hw8n%2BRNXKbLBUjP9zpvJXuv5j83xWdOc%3D",
       "entrants": 2,
       "start_time": 1667062800
+    },
+    {
+      "slug": "tournament/bimensual-de-patatatas-1/event/melee-singles",
+      "tournament_name": "Bimensual de Patatatas 1",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490871/image-4cae674be3262953136609d42f5b73a9.png?ehk=%2BoRaj7Et4ryC1LZ9HZnvPDEyKdtjhWk7EGGuINMRlwA%3D&ehkOptimized=kjwgVtlXcVgZngpd2ySCE3k2utPZadCUtZKsiMecEPg%3D",
+      "entrants": 0,
+      "start_time": 1667617200
     },
     {
       "slug": "tournament/after-dark-melee-2/event/after-dark-singles",
@@ -198,7 +190,7 @@
       "tournament_name": "Andrenaleague 15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/483698/image-e47fc25bb6295bc2294fb4ca99f4a380.png?ehk=bpLQDTenm8obQiAbJFJz0HClM6z1phfOUHpr9vijIqY%3D&ehkOptimized=QWAOy%2FEAKA5b9AamhrySVLypn2D1teKMMKsEDlzcDSU%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1667084400
     },
     {
@@ -206,7 +198,7 @@
       "tournament_name": "Finnish Melee League 2022 #5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489651/image-c81b37c54bd7bd20947c2db6c465ac4c.png?ehk=mJN2WSnvUBKql9WFFP5cQYPUADG%2Fya8kDEY1CgnnUwk%3D&ehkOptimized=ez%2BwmhqKd%2BkbyP2nqxQ%2FnRYWdKXBYOGomVpDqfCyHRw%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1667125800
     },
     {
@@ -222,7 +214,7 @@
       "tournament_name": "blumflip presents: Nightmare on Dreamland -  $50 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/489282/image-ddba731fbccb0d805efd68041ee3f579.jpg?ehk=Oh9GyWTHO9fm9dq3FbFh9iFZy1cefpe1xXm1LMUjalY%3D&ehkOptimized=orQho2vomFZlU7N6uqIrGh1MHc9QOAs4GoKnO1vqm1s%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1667167200
     },
     {
