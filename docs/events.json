@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666672575,
+  "fetched_at": 1666677824,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-4/event/melee-singles",
@@ -86,7 +86,7 @@
       "tournament_name": "Level One Melee #49- a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/490465/image-77b7dc769a7854eb58bb37f9d9ea3088.png?ehk=N3TUKEwvWby%2FcbqEZu%2FjVLh2l2psG0NkIWdbcsig7VM%3D&ehkOptimized=7upQjNB79l7hpRmjf8ntX7b0vHiuTtxjAsvy47Y5qDA%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1666746000
     },
     {
@@ -264,6 +264,22 @@
       "image": "https://images.start.gg/images/tournament/489565/image-336a18423ec62bf9d5f75e47b41f4ebb.png?ehk=%2BZ4kCVB0ksGGUxbxsYUEALXHwns6evKyeki5tT%2F3ttY%3D&ehkOptimized=utqXr0GmJXgsjPN%2FYLw1M68n6Gt66eYEVNyRd%2BkdXnc%3D",
       "entrants": 16,
       "start_time": 1667167200
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-5/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 5",
+      "event_name": "EC Doubles",
+      "image": "https://images.start.gg/images/tournament/491774/image-da285f6f1f6679891b7162de9dceca18.png?ehk=J81AV1iydUXCbJHTY7w0IunJjoTWMYiXDeR%2B3zeS74w%3D&ehkOptimized=LgYHuBbpUTV3RBpQEm%2FVXpuFUVc9Lape1o9DYrGn%2FIs%3D",
+      "entrants": 0,
+      "start_time": 1667257200
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-5/event/wc-doubles",
+      "tournament_name": "Coast to Coast Doubles # 5",
+      "event_name": "WC Doubles",
+      "image": "https://images.start.gg/images/tournament/491774/image-da285f6f1f6679891b7162de9dceca18.png?ehk=J81AV1iydUXCbJHTY7w0IunJjoTWMYiXDeR%2B3zeS74w%3D&ehkOptimized=LgYHuBbpUTV3RBpQEm%2FVXpuFUVc9Lape1o9DYrGn%2FIs%3D",
+      "entrants": 0,
+      "start_time": 1667257200
     },
     {
       "slug": "tournament/350-cg-melee-monthly-november-2022/event/east-coast",
