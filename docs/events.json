@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666706754,
+  "fetched_at": 1666709352,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-4/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490831/image-b617a77a20103125734b58d8987b7aa7.png?ehk=8ZD2k8%2BPdjYhtYG%2BjO22Q9xpBte7cab9fE3MsjH1z1s%3D&ehkOptimized=h4d1FCiL2ZQPouqXETQ6HhUfrXYMW1Mvax1CAJlInbU%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1666720800
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Sketchy Series 3: Cut To The Trace",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491329/image-23b73e1848ea9743ce1f2dd89f83af0f.png?ehk=wRoz8W2AJu54xSNjrnhbxrvP0jyCLyCvkeYCxBnSooc%3D&ehkOptimized=YI%2F66dxWfJOsG7Evidb4S4yYSWlRCxoIvkgTwrpdVNA%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1666738800
     },
     {
@@ -215,7 +215,7 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490871/image-4cae674be3262953136609d42f5b73a9.png?ehk=%2BoRaj7Et4ryC1LZ9HZnvPDEyKdtjhWk7EGGuINMRlwA%3D&ehkOptimized=kjwgVtlXcVgZngpd2ySCE3k2utPZadCUtZKsiMecEPg%3D",
       "entrants": 3,
-      "start_time": 1667081100
+      "start_time": 1667073600
     },
     {
       "slug": "tournament/after-dark-melee-2/event/after-dark-singles",
