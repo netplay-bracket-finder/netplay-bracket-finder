@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666677824,
+  "fetched_at": 1666681972,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-4/event/melee-singles",
@@ -10,17 +10,25 @@
       "start_time": 1666720800
     },
     {
-      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/ladder-melee-east-coast",
-      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
-      "event_name": "Ladder Melee East Coast",
-      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
-      "entrants": 0,
-      "start_time": 1666724400
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/ladder-melee-west-coast",
       "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
+      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
+      "entrants": 1,
+      "start_time": 1666724400
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
+      "entrants": 1,
+      "start_time": 1666724400
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/ladder-melee-east-coast",
+      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
+      "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
       "entrants": 0,
       "start_time": 1666724400
@@ -50,14 +58,6 @@
       "start_time": 1666724400
     },
     {
-      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
-      "entrants": 0,
-      "start_time": 1666724400
-    },
-    {
       "slug": "tournament/sketchy-series-3-cut-to-the-tres/event/melee-singles",
       "tournament_name": "Sketchy Series 3: Cut To The Tres",
       "event_name": "Melee Singles",
@@ -78,7 +78,7 @@
       "tournament_name": "Level One Melee #49- a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/490465/image-77b7dc769a7854eb58bb37f9d9ea3088.png?ehk=N3TUKEwvWby%2FcbqEZu%2FjVLh2l2psG0NkIWdbcsig7VM%3D&ehkOptimized=7upQjNB79l7hpRmjf8ntX7b0vHiuTtxjAsvy47Y5qDA%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1666746000
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Level One Melee #49- a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/490465/image-77b7dc769a7854eb58bb37f9d9ea3088.png?ehk=N3TUKEwvWby%2FcbqEZu%2FjVLh2l2psG0NkIWdbcsig7VM%3D&ehkOptimized=7upQjNB79l7hpRmjf8ntX7b0vHiuTtxjAsvy47Y5qDA%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1666746000
     },
     {
