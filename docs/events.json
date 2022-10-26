@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666817032,
+  "fetched_at": 1666817695,
   "data": [
     {
       "slug": "tournament/cre-lee-10/event/melee-singles",
       "tournament_name": "Cre-lee #10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491529/image-815473b53bed86f354b19a5e9334ead5.jpg?ehk=oDcefbE1%2BXnxSVJDJonpaxrFhClvouKxVxpGVYwa6BA%3D&ehkOptimized=fcdbUuf9hUsrwA8MlXqVZwMJkxV44X5667sn1fhdcjk%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1666827000
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490703/image-35b077212bf2b51a9d87b60f029685f2.png?ehk=o8enCFAcVInR6I62G4L86IinXXss7q7aLuIymNGDoQ8%3D&ehkOptimized=SfqAds7r1Kgg7AKiolqSvE02leV2OZ4bhHoXhGrr4f4%3D",
-      "entrants": 26,
+      "entrants": 29,
       "start_time": 1666828800
     },
     {
