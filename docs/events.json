@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666810237,
+  "fetched_at": 1666811770,
   "data": [
     {
       "slug": "tournament/cre-lee-10/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490703/image-35b077212bf2b51a9d87b60f029685f2.png?ehk=o8enCFAcVInR6I62G4L86IinXXss7q7aLuIymNGDoQ8%3D&ehkOptimized=SfqAds7r1Kgg7AKiolqSvE02leV2OZ4bhHoXhGrr4f4%3D",
-      "entrants": 14,
+      "entrants": 16,
       "start_time": 1666828800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Silver Slippi League #28",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/492142/image-06d36ccc25e0e49fe17eba0693e1fb8b.png?ehk=sHCKEkhz0pfEi1uXZcn3KPSERLu2MZMuhTky%2By2I420%3D&ehkOptimized=7DLS7ik%2BCzR3y5YE781M%2B4EQsehM%2FwB6kQrkPE9WrDI%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1666832400
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "Quest for Best Noob EU #43 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/491404/image-c88827330150d59f63863eb479f8c9c0.jpg?ehk=xtSagK49erKAB8qi6Mr6ltTmMXOGsCFjQ%2FTS44Xrk2Q%3D&ehkOptimized=gdyjsEPvDO6M2Y1sVWFz6%2FCMZ8H35pUZJNlY3T6aM4g%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1667053800
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "SSBM RU Monthly (October 2022)",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/486647/image-e1750f4862665fa6b7446cb7dcc1981a.png?ehk=Zk8K4hK8D5tWcb9Xr8UsInofVtB5InQQR5O4UnCk2bw%3D&ehkOptimized=byvLe1iGXzADa%2BmqMgqL3H8SpoF8Kl0zsDkyH8gKDlU%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1667059200
     },
     {
