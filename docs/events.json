@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666795565,
+  "fetched_at": 1666797743,
   "data": [
     {
       "slug": "tournament/the-dairy-farm-6/event/melee-singles",
       "tournament_name": "The Dairy Farm #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491568/image-f1fe46f347ef51f3cf161eb0161194e1.png?ehk=SdNNd1frGGyc%2FbGFGjBCZs6PRJy1RhFVXcrk7LAlZuA%3D&ehkOptimized=XjLDAGSJSW8mBZ%2FzXbjedzPNcQHx6vtwK2zK130UkE0%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1666805400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Waddle Wednesday 42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490703/image-35b077212bf2b51a9d87b60f029685f2.png?ehk=o8enCFAcVInR6I62G4L86IinXXss7q7aLuIymNGDoQ8%3D&ehkOptimized=SfqAds7r1Kgg7AKiolqSvE02leV2OZ4bhHoXhGrr4f4%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1666828800
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "SUPER SMASH BRONOL - MELEE #9",
       "event_name": "Melee 1vs1",
       "image": "https://images.start.gg/images/tournament/490756/image-32d04dbf5618a0e48214cf813e35e3ef.jpg?ehk=TwjXyaXss0i5CaRRkdxI6ZXEuc8wKK6Z8r0BR%2F9ikvg%3D&ehkOptimized=Xm983w3rfvsZfSa8l1a3bugIvlLuIX6Cmvc%2Fwt0GzLs%3D",
-      "entrants": 18,
+      "entrants": 17,
       "start_time": 1666974600
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "Bromomento relámpago #2",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/489565/image-336a18423ec62bf9d5f75e47b41f4ebb.png?ehk=%2BZ4kCVB0ksGGUxbxsYUEALXHwns6evKyeki5tT%2F3ttY%3D&ehkOptimized=utqXr0GmJXgsjPN%2FYLw1M68n6Gt66eYEVNyRd%2BkdXnc%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1667167200
     },
     {
