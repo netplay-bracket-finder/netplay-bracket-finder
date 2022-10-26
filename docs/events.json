@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666806723,
+  "fetched_at": 1666808757,
   "data": [
     {
       "slug": "tournament/cre-lee-10/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490703/image-35b077212bf2b51a9d87b60f029685f2.png?ehk=o8enCFAcVInR6I62G4L86IinXXss7q7aLuIymNGDoQ8%3D&ehkOptimized=SfqAds7r1Kgg7AKiolqSvE02leV2OZ4bhHoXhGrr4f4%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1666828800
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "SSBM RU Monthly (October 2022)",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/486647/image-e1750f4862665fa6b7446cb7dcc1981a.png?ehk=Zk8K4hK8D5tWcb9Xr8UsInofVtB5InQQR5O4UnCk2bw%3D&ehkOptimized=byvLe1iGXzADa%2BmqMgqL3H8SpoF8Kl0zsDkyH8gKDlU%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1667059200
     },
     {
@@ -254,7 +254,7 @@
       "tournament_name": "[$350] CG Melee Monthly - November 2022",
       "event_name": "West Coast",
       "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1667682000
     },
     {
