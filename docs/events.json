@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666819178,
+  "fetched_at": 1666820585,
   "data": [
     {
       "slug": "tournament/cre-lee-10/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490703/image-35b077212bf2b51a9d87b60f029685f2.png?ehk=o8enCFAcVInR6I62G4L86IinXXss7q7aLuIymNGDoQ8%3D&ehkOptimized=SfqAds7r1Kgg7AKiolqSvE02leV2OZ4bhHoXhGrr4f4%3D",
-      "entrants": 34,
+      "entrants": 38,
       "start_time": 1666828800
     },
     {
@@ -48,6 +48,14 @@
       "image": "https://images.start.gg/images/tournament/492257/image-4b4aa67375de655d6b3db64678645753.jpg?ehk=BzAw2cwyAUJi59hJqkCinbLP4EopjRLGh24qH2JOGS8%3D&ehkOptimized=bNjmaeutlR6aMVbfUA1t7LJEbJVXu3z5fuJiNkekWsY%3D",
       "entrants": 3,
       "start_time": 1666890000
+    },
+    {
+      "slug": "tournament/troppo-italiano-71/event/singles",
+      "tournament_name": "Troppo Italiano #71",
+      "event_name": "Singles",
+      "image": "https://images.start.gg/images/tournament/492284/image-e04640233f643e04c2897aa775e0b95c.jpg?ehk=zxffKeHOBJBJuGgOOIMnoj%2Fq8AfxtHES%2FsLX5rendwQ%3D&ehkOptimized=CgDA0A0myGsollSpc4lpSmgZ%2FLKw8reKIJM3cBtF39k%3D",
+      "entrants": 1,
+      "start_time": 1666897200
     },
     {
       "slug": "tournament/only-noobs-90/event/melee-singles",
