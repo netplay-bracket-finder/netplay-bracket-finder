@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666760156,
+  "fetched_at": 1666762363,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/ladder-melee-east-coast",
@@ -18,22 +18,6 @@
       "start_time": 1666724400
     },
     {
-      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/main-bracket-wc-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
-      "event_name": "Main Bracket: WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
-      "entrants": 23,
-      "start_time": 1666751400
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
-      "entrants": 21,
-      "start_time": 1666751400
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/main-bracket-ec-melee-singles",
       "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
@@ -48,6 +32,22 @@
       "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
       "entrants": 25,
       "start_time": 1666740600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/main-bracket-wc-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
+      "event_name": "Main Bracket: WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
+      "entrants": 23,
+      "start_time": 1666751400
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
+      "entrants": 21,
+      "start_time": 1666751400
     },
     {
       "slug": "tournament/the-dairy-farm-6/event/melee-singles",
@@ -106,6 +106,22 @@
       "start_time": 1666911600
     },
     {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-9/event/ssbmr-singles",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #9",
+      "event_name": "SSBMr Singles",
+      "image": "https://images.start.gg/images/tournament/491286/image-c21d8c13cd55f2682e930d23f7e2b9cb.png?ehk=7WSQzA5Cxv5g3uMi2%2FHzuGgxoESGdkFOoOvBsEUPbDg%3D&ehkOptimized=czP5rCQPiRRQ2BUpRVefP5ajRS%2FADdpu3JgSNombgD8%3D",
+      "entrants": 1,
+      "start_time": 1666911600
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-9/event/results-data",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #9",
+      "event_name": "Results Data",
+      "image": "https://images.start.gg/images/tournament/491286/image-c21d8c13cd55f2682e930d23f7e2b9cb.png?ehk=7WSQzA5Cxv5g3uMi2%2FHzuGgxoESGdkFOoOvBsEUPbDg%3D&ehkOptimized=czP5rCQPiRRQ2BUpRVefP5ajRS%2FADdpu3JgSNombgD8%3D",
+      "entrants": 0,
+      "start_time": 1666911600
+    },
+    {
       "slug": "tournament/moonwalk-tournament-series-22-1/event/melee-ladder",
       "tournament_name": "Moonwalk Tournament Series 22",
       "event_name": "Melee Ladder",
@@ -126,22 +142,6 @@
       "tournament_name": "Moonwalk Tournament Series 22",
       "event_name": "Melee Top 12",
       "image": "https://images.start.gg/images/tournament/491643/image-4e67721b513a43f789f0cb241fe10855.jpg?ehk=i5X%2B%2FWPuxaj3eV1OGIoW7h1g6mw5U3a%2FKBRrYkXZ4lA%3D&ehkOptimized=SRHJ%2BZETCPp4Hfb8Ik9DEtGLaihwikG254fhPeMfjpo%3D",
-      "entrants": 0,
-      "start_time": 1666911600
-    },
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-9/event/ssbmr-singles",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #9",
-      "event_name": "SSBMr Singles",
-      "image": "https://images.start.gg/images/tournament/491286/image-c21d8c13cd55f2682e930d23f7e2b9cb.png?ehk=7WSQzA5Cxv5g3uMi2%2FHzuGgxoESGdkFOoOvBsEUPbDg%3D&ehkOptimized=czP5rCQPiRRQ2BUpRVefP5ajRS%2FADdpu3JgSNombgD8%3D",
-      "entrants": 1,
-      "start_time": 1666911600
-    },
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-9/event/results-data",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #9",
-      "event_name": "Results Data",
-      "image": "https://images.start.gg/images/tournament/491286/image-c21d8c13cd55f2682e930d23f7e2b9cb.png?ehk=7WSQzA5Cxv5g3uMi2%2FHzuGgxoESGdkFOoOvBsEUPbDg%3D&ehkOptimized=czP5rCQPiRRQ2BUpRVefP5ajRS%2FADdpu3JgSNombgD8%3D",
       "entrants": 0,
       "start_time": 1666911600
     },
