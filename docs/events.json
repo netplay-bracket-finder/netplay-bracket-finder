@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666808757,
+  "fetched_at": 1666810237,
   "data": [
     {
       "slug": "tournament/cre-lee-10/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490703/image-35b077212bf2b51a9d87b60f029685f2.png?ehk=o8enCFAcVInR6I62G4L86IinXXss7q7aLuIymNGDoQ8%3D&ehkOptimized=SfqAds7r1Kgg7AKiolqSvE02leV2OZ4bhHoXhGrr4f4%3D",
-      "entrants": 12,
+      "entrants": 14,
       "start_time": 1666828800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Silver Slippi League #28",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/492142/image-06d36ccc25e0e49fe17eba0693e1fb8b.png?ehk=sHCKEkhz0pfEi1uXZcn3KPSERLu2MZMuhTky%2By2I420%3D&ehkOptimized=7DLS7ik%2BCzR3y5YE781M%2B4EQsehM%2FwB6kQrkPE9WrDI%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666832400
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #36 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490442/image-26cae0726c9324884bc3b30506374c7d.png?ehk=ldKSAni%2Fw3738EqtcN2%2BPx48P03Mg4JgI43gk1wEz3E%3D&ehkOptimized=UGZh5xM6RtKqiFHuJGRLONkngREiUfBCETV84Xfaep0%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1666890000
     },
     {
@@ -216,6 +216,14 @@
       "image": "https://images.start.gg/images/tournament/491774/image-da285f6f1f6679891b7162de9dceca18.png?ehk=J81AV1iydUXCbJHTY7w0IunJjoTWMYiXDeR%2B3zeS74w%3D&ehkOptimized=LgYHuBbpUTV3RBpQEm%2FVXpuFUVc9Lape1o9DYrGn%2FIs%3D",
       "entrants": 0,
       "start_time": 1667257200
+    },
+    {
+      "slug": "tournament/have-you-dreamed-this-cardboard-bear/event/melee-singles",
+      "tournament_name": "Have You Dreamed This Cardboard Bear?",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/492195/image-245c6fc200716c756703795ed300b7cc.jpg?ehk=f6I%2F4JbkCeUgPtzwhILzrl5Vs9zEhcFk1GZv27n697c%3D&ehkOptimized=AFf1rh2f9LOZhjyfVG55AA7VJs8p3UbY6OrWP9FqUxA%3D",
+      "entrants": 2,
+      "start_time": 1667261700
     },
     {
       "slug": "tournament/spudfest-41/event/melee-singles",
