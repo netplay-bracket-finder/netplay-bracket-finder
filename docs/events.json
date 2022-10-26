@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666799182,
+  "fetched_at": 1666801806,
   "data": [
     {
       "slug": "tournament/the-dairy-farm-6/event/melee-singles",
       "tournament_name": "The Dairy Farm #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491568/image-f1fe46f347ef51f3cf161eb0161194e1.png?ehk=SdNNd1frGGyc%2FbGFGjBCZs6PRJy1RhFVXcrk7LAlZuA%3D&ehkOptimized=XjLDAGSJSW8mBZ%2FzXbjedzPNcQHx6vtwK2zK130UkE0%3D",
-      "entrants": 13,
+      "entrants": 17,
       "start_time": 1666805400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Waddle Wednesday 42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490703/image-35b077212bf2b51a9d87b60f029685f2.png?ehk=o8enCFAcVInR6I62G4L86IinXXss7q7aLuIymNGDoQ8%3D&ehkOptimized=SfqAds7r1Kgg7AKiolqSvE02leV2OZ4bhHoXhGrr4f4%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1666828800
     },
     {
@@ -66,11 +66,27 @@
       "start_time": 1666911600
     },
     {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-9/event/ssbmr-singles",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #9",
+      "event_name": "SSBMr Singles",
+      "image": "https://images.start.gg/images/tournament/491286/image-c21d8c13cd55f2682e930d23f7e2b9cb.png?ehk=7WSQzA5Cxv5g3uMi2%2FHzuGgxoESGdkFOoOvBsEUPbDg%3D&ehkOptimized=czP5rCQPiRRQ2BUpRVefP5ajRS%2FADdpu3JgSNombgD8%3D",
+      "entrants": 4,
+      "start_time": 1666911600
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-9/event/results-data",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #9",
+      "event_name": "Results Data",
+      "image": "https://images.start.gg/images/tournament/491286/image-c21d8c13cd55f2682e930d23f7e2b9cb.png?ehk=7WSQzA5Cxv5g3uMi2%2FHzuGgxoESGdkFOoOvBsEUPbDg%3D&ehkOptimized=czP5rCQPiRRQ2BUpRVefP5ajRS%2FADdpu3JgSNombgD8%3D",
+      "entrants": 0,
+      "start_time": 1666911600
+    },
+    {
       "slug": "tournament/moonwalk-tournament-series-22-1/event/melee-ladder",
       "tournament_name": "Moonwalk Tournament Series 22",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/491643/image-4e67721b513a43f789f0cb241fe10855.jpg?ehk=i5X%2B%2FWPuxaj3eV1OGIoW7h1g6mw5U3a%2FKBRrYkXZ4lA%3D&ehkOptimized=SRHJ%2BZETCPp4Hfb8Ik9DEtGLaihwikG254fhPeMfjpo%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1666911600
     },
     {
@@ -86,22 +102,6 @@
       "tournament_name": "Moonwalk Tournament Series 22",
       "event_name": "Melee Top 12",
       "image": "https://images.start.gg/images/tournament/491643/image-4e67721b513a43f789f0cb241fe10855.jpg?ehk=i5X%2B%2FWPuxaj3eV1OGIoW7h1g6mw5U3a%2FKBRrYkXZ4lA%3D&ehkOptimized=SRHJ%2BZETCPp4Hfb8Ik9DEtGLaihwikG254fhPeMfjpo%3D",
-      "entrants": 0,
-      "start_time": 1666911600
-    },
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-9/event/ssbmr-singles",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #9",
-      "event_name": "SSBMr Singles",
-      "image": "https://images.start.gg/images/tournament/491286/image-c21d8c13cd55f2682e930d23f7e2b9cb.png?ehk=7WSQzA5Cxv5g3uMi2%2FHzuGgxoESGdkFOoOvBsEUPbDg%3D&ehkOptimized=czP5rCQPiRRQ2BUpRVefP5ajRS%2FADdpu3JgSNombgD8%3D",
-      "entrants": 4,
-      "start_time": 1666911600
-    },
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-9/event/results-data",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #9",
-      "event_name": "Results Data",
-      "image": "https://images.start.gg/images/tournament/491286/image-c21d8c13cd55f2682e930d23f7e2b9cb.png?ehk=7WSQzA5Cxv5g3uMi2%2FHzuGgxoESGdkFOoOvBsEUPbDg%3D&ehkOptimized=czP5rCQPiRRQ2BUpRVefP5ajRS%2FADdpu3JgSNombgD8%3D",
       "entrants": 0,
       "start_time": 1666911600
     },
@@ -198,7 +198,7 @@
       "tournament_name": "blumflip presents: Nightmare on Dreamland -  $50 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/489282/image-ddba731fbccb0d805efd68041ee3f579.jpg?ehk=Oh9GyWTHO9fm9dq3FbFh9iFZy1cefpe1xXm1LMUjalY%3D&ehkOptimized=orQho2vomFZlU7N6uqIrGh1MHc9QOAs4GoKnO1vqm1s%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1667167200
     },
     {
