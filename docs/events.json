@@ -1,54 +1,6 @@
 {
-  "fetched_at": 1666767431,
+  "fetched_at": 1666769184,
   "data": [
-    {
-      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/ladder-melee-east-coast",
-      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
-      "event_name": "Ladder Melee East Coast",
-      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
-      "entrants": 88,
-      "start_time": 1666724400
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/ladder-melee-west-coast",
-      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
-      "event_name": "Ladder Melee West Coast",
-      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
-      "entrants": 64,
-      "start_time": 1666724400
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/main-bracket-ec-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
-      "event_name": "Main Bracket: EC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
-      "entrants": 25,
-      "start_time": 1666740600
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/side-event-ec-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
-      "event_name": "Side Event: EC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
-      "entrants": 25,
-      "start_time": 1666740600
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/main-bracket-wc-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
-      "event_name": "Main Bracket: WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
-      "entrants": 23,
-      "start_time": 1666751400
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-100-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #100 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/491712/image-8115949599de94666fe610cb64603ed0.png?ehk=oKtSwW8A2%2FuyYHjF5hJJr8Cz9Lx%2BkOWtzGWiubCSntM%3D&ehkOptimized=%2BZ7Uxrxj7oOUJNaEdoWNHvs5QsjoDP7bqXm4cSGcXEA%3D",
-      "entrants": 21,
-      "start_time": 1666751400
-    },
     {
       "slug": "tournament/the-dairy-farm-6/event/melee-singles",
       "tournament_name": "The Dairy Farm #6",
