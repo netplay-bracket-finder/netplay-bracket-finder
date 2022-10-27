@@ -1,20 +1,36 @@
 {
-  "fetched_at": 1666895364,
+  "fetched_at": 1666896950,
   "data": [
     {
       "slug": "tournament/troppo-italiano-71/event/singles",
       "tournament_name": "Troppo Italiano #71",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/492284/image-e04640233f643e04c2897aa775e0b95c.jpg?ehk=zxffKeHOBJBJuGgOOIMnoj%2Fq8AfxtHES%2FsLX5rendwQ%3D&ehkOptimized=CgDA0A0myGsollSpc4lpSmgZ%2FLKw8reKIJM3cBtF39k%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1666897200
+    },
+    {
+      "slug": "tournament/the-return-of-nfc-7-presented-by-nxgn-esports/event/melee-singles",
+      "tournament_name": "The Return of NFC #7 | Presented by NxGn Esports",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/492560/image-5b9ccc365e0dc3b115489a0b32d2a141.png?ehk=W61qb%2FRTATVPD%2BCbgNv9Qu6tt5E2zt0wWNNM2p8iy%2BI%3D&ehkOptimized=bF2ZJmEes487URH080kj6FYcAQCtQbHnTT8F2Ubs6tg%3D",
+      "entrants": 0,
+      "start_time": 1666911600
     },
     {
       "slug": "tournament/only-noobs-90/event/melee-singles",
       "tournament_name": "Only Noobs 90",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490686/image-832b7c5f7da0bcf395680fc997fecb9e.jpg?ehk=07%2BkxgUmLbycSpUJNfKw5dPfo7UZxdrbrbFJ3Ied7SE%3D&ehkOptimized=cIyV7vckE%2Bb2SdpcDMh%2BbcXjegLW%2F2GLXVit8gd5dHw%3D",
-      "entrants": 56,
+      "entrants": 57,
+      "start_time": 1666911600
+    },
+    {
+      "slug": "tournament/the-salt-mine-47/event/the-salt-mine",
+      "tournament_name": "The Salt Mine #47!",
+      "event_name": "The Salt Mine!",
+      "image": "https://images.start.gg/images/tournament/491953/image-d08a1e50ab5f0aa4ab6a87b2d0899377.png?ehk=Duh6Ydvu04zsZG1gqrwhbTZQxj1lJt%2BOA2darGTbPW0%3D&ehkOptimized=DrMAly4MNVPOIfHqQLU5Kz2ki27%2FOLMCZE%2ByZUPDcQY%3D",
+      "entrants": 6,
       "start_time": 1666911600
     },
     {
@@ -22,7 +38,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #9",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/491286/image-c21d8c13cd55f2682e930d23f7e2b9cb.png?ehk=7WSQzA5Cxv5g3uMi2%2FHzuGgxoESGdkFOoOvBsEUPbDg%3D&ehkOptimized=czP5rCQPiRRQ2BUpRVefP5ajRS%2FADdpu3JgSNombgD8%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1666911600
     },
     {
@@ -34,19 +50,11 @@
       "start_time": 1666911600
     },
     {
-      "slug": "tournament/the-salt-mine-47/event/the-salt-mine",
-      "tournament_name": "The Salt Mine #47!",
-      "event_name": "The Salt Mine!",
-      "image": "https://images.start.gg/images/tournament/491953/image-d08a1e50ab5f0aa4ab6a87b2d0899377.png?ehk=Duh6Ydvu04zsZG1gqrwhbTZQxj1lJt%2BOA2darGTbPW0%3D&ehkOptimized=DrMAly4MNVPOIfHqQLU5Kz2ki27%2FOLMCZE%2ByZUPDcQY%3D",
-      "entrants": 4,
-      "start_time": 1666911600
-    },
-    {
       "slug": "tournament/moonwalk-tournament-series-22-1/event/melee-ladder",
       "tournament_name": "Moonwalk Tournament Series 22",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/491643/image-4e67721b513a43f789f0cb241fe10855.jpg?ehk=i5X%2B%2FWPuxaj3eV1OGIoW7h1g6mw5U3a%2FKBRrYkXZ4lA%3D&ehkOptimized=SRHJ%2BZETCPp4Hfb8Ik9DEtGLaihwikG254fhPeMfjpo%3D",
-      "entrants": 9,
+      "entrants": 8,
       "start_time": 1666911600
     },
     {
