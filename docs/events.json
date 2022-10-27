@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666907566,
+  "fetched_at": 1666909193,
   "data": [
     {
       "slug": "tournament/the-return-of-nfc-7-presented-by-nxgn-esports/event/melee-singles",
       "tournament_name": "The Return of NFC #7 | Presented by NxGn Esports",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492560/image-5b9ccc365e0dc3b115489a0b32d2a141.png?ehk=W61qb%2FRTATVPD%2BCbgNv9Qu6tt5E2zt0wWNNM2p8iy%2BI%3D&ehkOptimized=bF2ZJmEes487URH080kj6FYcAQCtQbHnTT8F2Ubs6tg%3D",
-      "entrants": 4,
+      "entrants": 7,
       "start_time": 1666911600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 90",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490686/image-832b7c5f7da0bcf395680fc997fecb9e.jpg?ehk=07%2BkxgUmLbycSpUJNfKw5dPfo7UZxdrbrbFJ3Ied7SE%3D&ehkOptimized=cIyV7vckE%2Bb2SdpcDMh%2BbcXjegLW%2F2GLXVit8gd5dHw%3D",
-      "entrants": 116,
+      "entrants": 131,
       "start_time": 1666911600
     },
     {
@@ -31,6 +31,14 @@
       "event_name": "Results Data",
       "image": "https://images.start.gg/images/tournament/491286/image-c21d8c13cd55f2682e930d23f7e2b9cb.png?ehk=7WSQzA5Cxv5g3uMi2%2FHzuGgxoESGdkFOoOvBsEUPbDg%3D&ehkOptimized=czP5rCQPiRRQ2BUpRVefP5ajRS%2FADdpu3JgSNombgD8%3D",
       "entrants": 0,
+      "start_time": 1666911600
+    },
+    {
+      "slug": "tournament/the-salt-mine-47/event/the-salt-mine",
+      "tournament_name": "The Salt Mine #47!",
+      "event_name": "The Salt Mine!",
+      "image": "https://images.start.gg/images/tournament/491953/image-d08a1e50ab5f0aa4ab6a87b2d0899377.png?ehk=Duh6Ydvu04zsZG1gqrwhbTZQxj1lJt%2BOA2darGTbPW0%3D&ehkOptimized=DrMAly4MNVPOIfHqQLU5Kz2ki27%2FOLMCZE%2ByZUPDcQY%3D",
+      "entrants": 31,
       "start_time": 1666911600
     },
     {
@@ -58,19 +66,11 @@
       "start_time": 1666911600
     },
     {
-      "slug": "tournament/the-salt-mine-47/event/the-salt-mine",
-      "tournament_name": "The Salt Mine #47!",
-      "event_name": "The Salt Mine!",
-      "image": "https://images.start.gg/images/tournament/491953/image-d08a1e50ab5f0aa4ab6a87b2d0899377.png?ehk=Duh6Ydvu04zsZG1gqrwhbTZQxj1lJt%2BOA2darGTbPW0%3D&ehkOptimized=DrMAly4MNVPOIfHqQLU5Kz2ki27%2FOLMCZE%2ByZUPDcQY%3D",
-      "entrants": 25,
-      "start_time": 1666911600
-    },
-    {
       "slug": "tournament/goats-only-thursdaez-29/event/melee-singles",
       "tournament_name": "GOATs Only - Thursdaez #29",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492471/image-af21d4d4321f230d5f6b981977c26ca1.png?ehk=cVelQpltb%2Ba3nQEhv6vqiZ6RO3kr%2FjUiT%2BNpLJm2ljw%3D&ehkOptimized=Z5GUbyuPLWYNIpRODhAGufIRDoWgQV7op%2B9jaxDYoaY%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1666915200
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "SUPER SMASH BRONOL - MELEE #9",
       "event_name": "Melee 1vs1",
       "image": "https://images.start.gg/images/tournament/490756/image-32d04dbf5618a0e48214cf813e35e3ef.jpg?ehk=TwjXyaXss0i5CaRRkdxI6ZXEuc8wKK6Z8r0BR%2F9ikvg%3D&ehkOptimized=Xm983w3rfvsZfSa8l1a3bugIvlLuIX6Cmvc%2Fwt0GzLs%3D",
-      "entrants": 19,
+      "entrants": 21,
       "start_time": 1666974600
     },
     {
