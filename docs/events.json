@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666870789,
+  "fetched_at": 1666871485,
   "data": [
     {
       "slug": "tournament/raccoon-rumble-2/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #36 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490442/image-26cae0726c9324884bc3b30506374c7d.png?ehk=ldKSAni%2Fw3738EqtcN2%2BPx48P03Mg4JgI43gk1wEz3E%3D&ehkOptimized=UGZh5xM6RtKqiFHuJGRLONkngREiUfBCETV84Xfaep0%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1666890000
     },
     {
@@ -88,6 +88,14 @@
       "image": "https://images.start.gg/images/tournament/491643/image-4e67721b513a43f789f0cb241fe10855.jpg?ehk=i5X%2B%2FWPuxaj3eV1OGIoW7h1g6mw5U3a%2FKBRrYkXZ4lA%3D&ehkOptimized=SRHJ%2BZETCPp4Hfb8Ik9DEtGLaihwikG254fhPeMfjpo%3D",
       "entrants": 0,
       "start_time": 1666911600
+    },
+    {
+      "slug": "tournament/goats-only-thursdaez-29/event/melee-singles",
+      "tournament_name": "GOATs Only - Thursdaez #29",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/492471/image-af21d4d4321f230d5f6b981977c26ca1.png?ehk=cVelQpltb%2Ba3nQEhv6vqiZ6RO3kr%2FjUiT%2BNpLJm2ljw%3D&ehkOptimized=Z5GUbyuPLWYNIpRODhAGufIRDoWgQV7op%2B9jaxDYoaY%3D",
+      "entrants": 0,
+      "start_time": 1666915200
     },
     {
       "slug": "tournament/thursday-thmackdown-8/event/melee-singles",
