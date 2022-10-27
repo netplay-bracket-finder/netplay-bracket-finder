@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666885563,
+  "fetched_at": 1666888270,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-36-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #36 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490442/image-26cae0726c9324884bc3b30506374c7d.png?ehk=ldKSAni%2Fw3738EqtcN2%2BPx48P03Mg4JgI43gk1wEz3E%3D&ehkOptimized=UGZh5xM6RtKqiFHuJGRLONkngREiUfBCETV84Xfaep0%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1666890000
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #36 (EU Event)",
       "event_name": "Toblerone waitlist",
       "image": "https://images.start.gg/images/tournament/490442/image-26cae0726c9324884bc3b30506374c7d.png?ehk=ldKSAni%2Fw3738EqtcN2%2BPx48P03Mg4JgI43gk1wEz3E%3D&ehkOptimized=UGZh5xM6RtKqiFHuJGRLONkngREiUfBCETV84Xfaep0%3D",
-      "entrants": 0,
+      "entrants": 2,
       "start_time": 1666890000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Raccoon Rumble #2 !!!!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492257/image-4b4aa67375de655d6b3db64678645753.jpg?ehk=BzAw2cwyAUJi59hJqkCinbLP4EopjRLGh24qH2JOGS8%3D&ehkOptimized=bNjmaeutlR6aMVbfUA1t7LJEbJVXu3z5fuJiNkekWsY%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1666890000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Only Noobs 90",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490686/image-832b7c5f7da0bcf395680fc997fecb9e.jpg?ehk=07%2BkxgUmLbycSpUJNfKw5dPfo7UZxdrbrbFJ3Ied7SE%3D&ehkOptimized=cIyV7vckE%2Bb2SdpcDMh%2BbcXjegLW%2F2GLXVit8gd5dHw%3D",
-      "entrants": 30,
+      "entrants": 40,
       "start_time": 1666911600
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "GOATs Only - Thursdaez #29",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492471/image-af21d4d4321f230d5f6b981977c26ca1.png?ehk=cVelQpltb%2Ba3nQEhv6vqiZ6RO3kr%2FjUiT%2BNpLJm2ljw%3D&ehkOptimized=Z5GUbyuPLWYNIpRODhAGufIRDoWgQV7op%2B9jaxDYoaY%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1666915200
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "SUPER SMASH BRONOL - MELEE #9",
       "event_name": "Melee 1vs1",
       "image": "https://images.start.gg/images/tournament/490756/image-32d04dbf5618a0e48214cf813e35e3ef.jpg?ehk=TwjXyaXss0i5CaRRkdxI6ZXEuc8wKK6Z8r0BR%2F9ikvg%3D&ehkOptimized=Xm983w3rfvsZfSa8l1a3bugIvlLuIX6Cmvc%2Fwt0GzLs%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1666974600
     },
     {
@@ -234,6 +234,14 @@
       "start_time": 1667257200
     },
     {
+      "slug": "tournament/ufo-boo-3/event/melee-singles",
+      "tournament_name": "UFO BOO! 3",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/492509/image-84ced15bdccfcd3de1235fda1ba86ebb.png?ehk=Z1sXzkOPJ3p8GC%2Ba9GHrhvo4sci4Io3N87mOa6fk2QY%3D&ehkOptimized=6wNMohIKvKrDlyVmG5EC5d0%2F9%2F4h79KK5Qmntuz%2F%2B9A%3D",
+      "entrants": 0,
+      "start_time": 1667257200
+    },
+    {
       "slug": "tournament/have-you-dreamed-this-cardboard-bear/event/melee-singles",
       "tournament_name": "Have You Dreamed This Cardboard Bear?",
       "event_name": "Melee Singles",
@@ -258,25 +266,25 @@
       "start_time": 1667271600
     },
     {
-      "slug": "tournament/the-jogo-reset-3-dubious-doubles/event/melee-doubles",
-      "tournament_name": "The JoGo Reset 3: Dubious Doubles",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/492370/image-523afd33043b76be852967c3584a90ab.png?ehk=WhhV7k6KPYT8E%2FgGlPpKP%2F6QwGu5%2F2jlNodtQQFtdp4%3D&ehkOptimized=%2FhxUAXOWvddD5kX%2BooHUqcae10QbXVe1dr90GtOJea4%3D",
-      "entrants": 0,
-      "start_time": 1667347200
-    },
-    {
       "slug": "tournament/the-jogo-reset-3-dubious-doubles/event/melee-singles",
       "tournament_name": "The JoGo Reset 3: Dubious Doubles",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492370/image-523afd33043b76be852967c3584a90ab.png?ehk=WhhV7k6KPYT8E%2FgGlPpKP%2F6QwGu5%2F2jlNodtQQFtdp4%3D&ehkOptimized=%2FhxUAXOWvddD5kX%2BooHUqcae10QbXVe1dr90GtOJea4%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1667347200
     },
     {
       "slug": "tournament/the-jogo-reset-3-dubious-doubles/event/redemption-bracket",
       "tournament_name": "The JoGo Reset 3: Dubious Doubles",
       "event_name": "Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/492370/image-523afd33043b76be852967c3584a90ab.png?ehk=WhhV7k6KPYT8E%2FgGlPpKP%2F6QwGu5%2F2jlNodtQQFtdp4%3D&ehkOptimized=%2FhxUAXOWvddD5kX%2BooHUqcae10QbXVe1dr90GtOJea4%3D",
+      "entrants": 1,
+      "start_time": 1667347200
+    },
+    {
+      "slug": "tournament/the-jogo-reset-3-dubious-doubles/event/melee-doubles",
+      "tournament_name": "The JoGo Reset 3: Dubious Doubles",
+      "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/492370/image-523afd33043b76be852967c3584a90ab.png?ehk=WhhV7k6KPYT8E%2FgGlPpKP%2F6QwGu5%2F2jlNodtQQFtdp4%3D&ehkOptimized=%2FhxUAXOWvddD5kX%2BooHUqcae10QbXVe1dr90GtOJea4%3D",
       "entrants": 0,
       "start_time": 1667347200
