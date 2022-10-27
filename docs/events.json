@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666898333,
+  "fetched_at": 1666899523,
   "data": [
     {
       "slug": "tournament/the-return-of-nfc-7-presented-by-nxgn-esports/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 90",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490686/image-832b7c5f7da0bcf395680fc997fecb9e.jpg?ehk=07%2BkxgUmLbycSpUJNfKw5dPfo7UZxdrbrbFJ3Ied7SE%3D&ehkOptimized=cIyV7vckE%2Bb2SdpcDMh%2BbcXjegLW%2F2GLXVit8gd5dHw%3D",
-      "entrants": 60,
+      "entrants": 65,
       "start_time": 1666911600
     },
     {
@@ -31,14 +31,6 @@
       "event_name": "Results Data",
       "image": "https://images.start.gg/images/tournament/491286/image-c21d8c13cd55f2682e930d23f7e2b9cb.png?ehk=7WSQzA5Cxv5g3uMi2%2FHzuGgxoESGdkFOoOvBsEUPbDg%3D&ehkOptimized=czP5rCQPiRRQ2BUpRVefP5ajRS%2FADdpu3JgSNombgD8%3D",
       "entrants": 0,
-      "start_time": 1666911600
-    },
-    {
-      "slug": "tournament/the-salt-mine-47/event/the-salt-mine",
-      "tournament_name": "The Salt Mine #47!",
-      "event_name": "The Salt Mine!",
-      "image": "https://images.start.gg/images/tournament/491953/image-d08a1e50ab5f0aa4ab6a87b2d0899377.png?ehk=Duh6Ydvu04zsZG1gqrwhbTZQxj1lJt%2BOA2darGTbPW0%3D&ehkOptimized=DrMAly4MNVPOIfHqQLU5Kz2ki27%2FOLMCZE%2ByZUPDcQY%3D",
-      "entrants": 6,
       "start_time": 1666911600
     },
     {
@@ -66,6 +58,14 @@
       "start_time": 1666911600
     },
     {
+      "slug": "tournament/the-salt-mine-47/event/the-salt-mine",
+      "tournament_name": "The Salt Mine #47!",
+      "event_name": "The Salt Mine!",
+      "image": "https://images.start.gg/images/tournament/491953/image-d08a1e50ab5f0aa4ab6a87b2d0899377.png?ehk=Duh6Ydvu04zsZG1gqrwhbTZQxj1lJt%2BOA2darGTbPW0%3D&ehkOptimized=DrMAly4MNVPOIfHqQLU5Kz2ki27%2FOLMCZE%2ByZUPDcQY%3D",
+      "entrants": 7,
+      "start_time": 1666911600
+    },
+    {
       "slug": "tournament/goats-only-thursdaez-29/event/melee-singles",
       "tournament_name": "GOATs Only - Thursdaez #29",
       "event_name": "Melee Singles",
@@ -78,7 +78,7 @@
       "tournament_name": "Thursday Thmackdown #8",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492308/image-a82295d7348f1d3312bf37de845b9fba.png?ehk=jh%2Bt9fER4i%2FmJ2eEK%2FLTPqZGw2PtQPeYDM%2Ff88X6JmA%3D&ehkOptimized=KKTrdrYZj%2FVykxVSfkVcg8Cy4OEDXmdfTKJoixXbvGI%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1666918800
     },
     {
