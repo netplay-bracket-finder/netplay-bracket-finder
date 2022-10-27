@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666827960,
+  "fetched_at": 1666835785,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-28/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #28",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/492142/image-06d36ccc25e0e49fe17eba0693e1fb8b.png?ehk=sHCKEkhz0pfEi1uXZcn3KPSERLu2MZMuhTky%2By2I420%3D&ehkOptimized=7DLS7ik%2BCzR3y5YE781M%2B4EQsehM%2FwB6kQrkPE9WrDI%3D",
-      "entrants": 12,
+      "entrants": 20,
       "start_time": 1666832400
     },
     {
@@ -166,7 +166,7 @@
       "tournament_name": "After Dark Melee #2",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/491421/image-031d967e8f2b71532d8fe27481959bfb.png?ehk=p7xJWTxX7yQOl17Y%2FwzLTvkd6tY6tjpGGiWbZj7aDro%3D&ehkOptimized=5XuoEF0PEb8JRWayIggnAc1RjMOSbEJr0w%2B3PoIKzdg%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1667070900
     },
     {
@@ -248,6 +248,30 @@
       "image": "https://images.start.gg/images/tournament/491954/image-0c41971f6c85cb871bcc1de746898382.png?ehk=mC2OswXOF0vFOebVA9qrvSf1VFzqtFDpO0vpQZw5j%2B0%3D&ehkOptimized=jTv%2FY1DH6qN92xwkZYn%2FIxhGimICVMuHyw21rHPJdLM%3D",
       "entrants": 1,
       "start_time": 1667271600
+    },
+    {
+      "slug": "tournament/the-jogo-reset-3-dubious-doubles/event/melee-doubles",
+      "tournament_name": "The JoGo Reset 3: Dubious Doubles",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/492370/image-523afd33043b76be852967c3584a90ab.png?ehk=WhhV7k6KPYT8E%2FgGlPpKP%2F6QwGu5%2F2jlNodtQQFtdp4%3D&ehkOptimized=%2FhxUAXOWvddD5kX%2BooHUqcae10QbXVe1dr90GtOJea4%3D",
+      "entrants": 0,
+      "start_time": 1667347200
+    },
+    {
+      "slug": "tournament/the-jogo-reset-3-dubious-doubles/event/melee-singles",
+      "tournament_name": "The JoGo Reset 3: Dubious Doubles",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/492370/image-523afd33043b76be852967c3584a90ab.png?ehk=WhhV7k6KPYT8E%2FgGlPpKP%2F6QwGu5%2F2jlNodtQQFtdp4%3D&ehkOptimized=%2FhxUAXOWvddD5kX%2BooHUqcae10QbXVe1dr90GtOJea4%3D",
+      "entrants": 0,
+      "start_time": 1667347200
+    },
+    {
+      "slug": "tournament/the-jogo-reset-3-dubious-doubles/event/redemption-bracket",
+      "tournament_name": "The JoGo Reset 3: Dubious Doubles",
+      "event_name": "Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/492370/image-523afd33043b76be852967c3584a90ab.png?ehk=WhhV7k6KPYT8E%2FgGlPpKP%2F6QwGu5%2F2jlNodtQQFtdp4%3D&ehkOptimized=%2FhxUAXOWvddD5kX%2BooHUqcae10QbXVe1dr90GtOJea4%3D",
+      "entrants": 0,
+      "start_time": 1667347200
     },
     {
       "slug": "tournament/350-cg-melee-monthly-november-2022/event/east-coast",
