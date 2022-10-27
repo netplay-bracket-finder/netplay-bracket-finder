@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666890675,
+  "fetched_at": 1666892421,
   "data": [
     {
       "slug": "tournament/troppo-italiano-71/event/singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 90",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490686/image-832b7c5f7da0bcf395680fc997fecb9e.jpg?ehk=07%2BkxgUmLbycSpUJNfKw5dPfo7UZxdrbrbFJ3Ied7SE%3D&ehkOptimized=cIyV7vckE%2Bb2SdpcDMh%2BbcXjegLW%2F2GLXVit8gd5dHw%3D",
-      "entrants": 44,
+      "entrants": 46,
       "start_time": 1666911600
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "GOATs Only - Thursdaez #29",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492471/image-af21d4d4321f230d5f6b981977c26ca1.png?ehk=cVelQpltb%2Ba3nQEhv6vqiZ6RO3kr%2FjUiT%2BNpLJm2ljw%3D&ehkOptimized=Z5GUbyuPLWYNIpRODhAGufIRDoWgQV7op%2B9jaxDYoaY%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1666915200
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Thursday Thmackdown #8",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492308/image-a82295d7348f1d3312bf37de845b9fba.png?ehk=jh%2Bt9fER4i%2FmJ2eEK%2FLTPqZGw2PtQPeYDM%2Ff88X6JmA%3D&ehkOptimized=KKTrdrYZj%2FVykxVSfkVcg8Cy4OEDXmdfTKJoixXbvGI%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1666918800
     },
     {
@@ -247,6 +247,14 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491915/image-eec9acffed24ce285cf6b38da11d1886.jpg?ehk=d%2BOHgtkFtb8tGQ6kC6qbY%2FbeC0P8Lh7HpXusEclT%2FBw%3D&ehkOptimized=ihFBfCiEJ2oEI2HDPSZaerZcJZLhmsy%2FeVikRu4yVUQ%3D",
       "entrants": 1,
+      "start_time": 1667264400
+    },
+    {
+      "slug": "tournament/the-haunted-bracket/event/melee-singles",
+      "tournament_name": "The Haunted Bracket",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/492530/image-2694eea592372d28ad1dbb9bdbdad001.png?ehk=IhZNtx9Xk1CziglcUfjwQEn%2F2VGEqsZqY9DUV%2F2Xpio%3D&ehkOptimized=gfwHP3f%2Bxyff4tfawqVh7bXP2Y%2BLfy74rQRHagQs2Eo%3D",
+      "entrants": 0,
       "start_time": 1667264400
     },
     {
