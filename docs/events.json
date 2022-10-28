@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1666968975,
+  "fetched_at": 1666970763,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13-1/event/melee-singles",
       "tournament_name": "ASL’s Weekly Weekend Melee #13",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492580/image-c1c71e0ded0e9fe0641cbca2d6de8851.png?ehk=hb4t6EGBM32MyKblZk%2FPHGTuZrJLLv5iSebamE5W9vU%3D&ehkOptimized=HajUJlpkdRuiN98Z9dWfqX%2BlQ2kheTIWgZY9v0iUXlI%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1666974600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "SUPER SMASH BRONOL - MELEE #9",
       "event_name": "Melee 1vs1",
       "image": "https://images.start.gg/images/tournament/490756/image-32d04dbf5618a0e48214cf813e35e3ef.jpg?ehk=TwjXyaXss0i5CaRRkdxI6ZXEuc8wKK6Z8r0BR%2F9ikvg%3D&ehkOptimized=Xm983w3rfvsZfSa8l1a3bugIvlLuIX6Cmvc%2Fwt0GzLs%3D",
-      "entrants": 27,
+      "entrants": 31,
       "start_time": 1666974600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "East Coast Fridays #227",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492761/image-4ae8db0261dec19802e09fa4310b23c7.png?ehk=D4Rvqf1SodHEDQl6KoRE3Ke3uOpxupD79xrlIl17It4%3D&ehkOptimized=4q8sIvNCsamYERHRnte4jfnEv3S5Rjs8vm%2FlUJhjUbQ%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1667001600
     },
     {
@@ -350,7 +350,7 @@
       "tournament_name": "The BIG Pink",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492672/image-e59cad14eec8a33939c7d3b7dbf1f8ad.jpg?ehk=Ug%2FzytecnblTpI7NCFssNEth%2BnbO36iP%2BnWZ%2B6NBsUc%3D&ehkOptimized=2AJYP8G0yTIXMxUR%2F%2FcBZ4BDHvxGORbrUxLHiVKrTgY%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1670731200
     }
   ]
