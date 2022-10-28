@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666957882,
+  "fetched_at": 1666961131,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13-1/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "SUPER SMASH BRONOL - MELEE #9",
       "event_name": "Melee 1vs1",
       "image": "https://images.start.gg/images/tournament/490756/image-32d04dbf5618a0e48214cf813e35e3ef.jpg?ehk=TwjXyaXss0i5CaRRkdxI6ZXEuc8wKK6Z8r0BR%2F9ikvg%3D&ehkOptimized=Xm983w3rfvsZfSa8l1a3bugIvlLuIX6Cmvc%2Fwt0GzLs%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1666974600
     },
     {
@@ -24,6 +24,14 @@
       "image": "https://images.start.gg/images/tournament/492531/image-578866b3f422c415592dc6d712d9eba4.png?ehk=nKhF%2B3lGzNSzaMLWLQ4vYDlTv9JXnzYtDbostFsMQto%3D&ehkOptimized=jcmMT1j4jD3oufqgVlvGZKz25H7KFCr5MnyXiyFSeNg%3D",
       "entrants": 0,
       "start_time": 1666976400
+    },
+    {
+      "slug": "tournament/east-coast-fridays-227/event/melee-singles",
+      "tournament_name": "East Coast Fridays #227",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/492761/image-4ae8db0261dec19802e09fa4310b23c7.png?ehk=D4Rvqf1SodHEDQl6KoRE3Ke3uOpxupD79xrlIl17It4%3D&ehkOptimized=4q8sIvNCsamYERHRnte4jfnEv3S5Rjs8vm%2FlUJhjUbQ%3D",
+      "entrants": 1,
+      "start_time": 1667001600
     },
     {
       "slug": "tournament/fgc-friday-14-solar-circuit-qualifier/event/melee-singles",
@@ -70,7 +78,7 @@
       "tournament_name": "Spooky Swiss Doubles",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/490889/image-3d216eaab3e684a0f44fbd553999cda8.png?ehk=bXwbLoYORvRqoSWpuIDDUZELJP4o2B98u1iIW44yi9I%3D&ehkOptimized=Ryt7hP10Km2hw8n%2BRNXKbLBUjP9zpvJXuv5j83xWdOc%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1667062800
     },
     {
