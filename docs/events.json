@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666988552,
+  "fetched_at": 1666989864,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13-1/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "East Coast Fridays #227",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492761/image-4ae8db0261dec19802e09fa4310b23c7.png?ehk=D4Rvqf1SodHEDQl6KoRE3Ke3uOpxupD79xrlIl17It4%3D&ehkOptimized=4q8sIvNCsamYERHRnte4jfnEv3S5Rjs8vm%2FlUJhjUbQ%3D",
-      "entrants": 30,
+      "entrants": 37,
       "start_time": 1667001600
     },
     {
@@ -136,6 +136,22 @@
       "image": "https://images.start.gg/images/tournament/489565/image-336a18423ec62bf9d5f75e47b41f4ebb.png?ehk=%2BZ4kCVB0ksGGUxbxsYUEALXHwns6evKyeki5tT%2F3ttY%3D&ehkOptimized=utqXr0GmJXgsjPN%2FYLw1M68n6Gt66eYEVNyRd%2BkdXnc%3D",
       "entrants": 21,
       "start_time": 1667167200
+    },
+    {
+      "slug": "tournament/scss-east-coast-92/event/scss-singles",
+      "tournament_name": "SCSS East Coast #92",
+      "event_name": "SCSS Singles",
+      "image": "https://images.start.gg/images/tournament/492876/image-184bf96c5e109c34686a931358c2ff45.png?ehk=xDstHpubC8K7u5xeoBpTGJBh5o%2BMbcsvs9XZaG7UVaI%3D&ehkOptimized=TBuf2gu21LNZ1%2FELlFCnttak8Tlr6xocl0XPxfkQSJg%3D",
+      "entrants": 0,
+      "start_time": 1667172600
+    },
+    {
+      "slug": "tournament/scss-west-coast-81/event/melee-singles",
+      "tournament_name": "SCSS West Coast #81",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/492875/image-b0174a86cfcc6795790dc7f24e6b4850.png?ehk=qOWRTMllZcdM1qDTzJM9naBa8FVM2BwBn4iK1dnNkzQ%3D&ehkOptimized=36Yt62gAlGjqsqF%2FG0eMw1xIQvE%2FOk6NjDKsmC3zVSI%3D",
+      "entrants": 0,
+      "start_time": 1667176200
     },
     {
       "slug": "tournament/moose-halloween-special/event/sami-singles",
