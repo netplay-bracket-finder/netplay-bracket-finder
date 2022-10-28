@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666984562,
+  "fetched_at": 1666985882,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13-1/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "East Coast Fridays #227",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492761/image-4ae8db0261dec19802e09fa4310b23c7.png?ehk=D4Rvqf1SodHEDQl6KoRE3Ke3uOpxupD79xrlIl17It4%3D&ehkOptimized=4q8sIvNCsamYERHRnte4jfnEv3S5Rjs8vm%2FlUJhjUbQ%3D",
-      "entrants": 22,
+      "entrants": 25,
       "start_time": 1667001600
     },
     {
@@ -264,6 +264,30 @@
       "image": "https://images.start.gg/images/tournament/492572/image-a624251228c28ad12b54e639cc042c9c.png?ehk=whXmdFI8kJvIvaZE1%2FGNIuoYmnHtiLChD3dl5OR9cOE%3D&ehkOptimized=89VMt2bIFZW9bFKS8%2F3QKXLLVnSleMbJszUHoljinMA%3D",
       "entrants": 0,
       "start_time": 1667498400
+    },
+    {
+      "slug": "tournament/moonwalk-tournament-series-24/event/melee-doubles",
+      "tournament_name": "Moonwalk Tournament Series 24",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
+      "entrants": 0,
+      "start_time": 1667516400
+    },
+    {
+      "slug": "tournament/moonwalk-tournament-series-24/event/melee-ladder",
+      "tournament_name": "Moonwalk Tournament Series 24",
+      "event_name": "Melee Ladder",
+      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
+      "entrants": 0,
+      "start_time": 1667516400
+    },
+    {
+      "slug": "tournament/moonwalk-tournament-series-24/event/melee-top-12",
+      "tournament_name": "Moonwalk Tournament Series 24",
+      "event_name": "Melee Top 12",
+      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
+      "entrants": 0,
+      "start_time": 1667516400
     },
     {
       "slug": "tournament/only-noobs-91/event/melee-singles",
