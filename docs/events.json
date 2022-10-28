@@ -1,28 +1,20 @@
 {
-  "fetched_at": 1666974458,
+  "fetched_at": 1666976380,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13-1/event/melee-singles",
       "tournament_name": "ASL’s Weekly Weekend Melee #13",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492580/image-c1c71e0ded0e9fe0641cbca2d6de8851.png?ehk=hb4t6EGBM32MyKblZk%2FPHGTuZrJLLv5iSebamE5W9vU%3D&ehkOptimized=HajUJlpkdRuiN98Z9dWfqX%2BlQ2kheTIWgZY9v0iUXlI%3D",
-      "entrants": 3,
+      "entrants": 2,
       "start_time": 1666974600
-    },
-    {
-      "slug": "tournament/sandbag-skirmish-46/event/skirmish",
-      "tournament_name": "SandBag Skirmish 46",
-      "event_name": "Skirmish",
-      "image": "https://images.start.gg/images/tournament/492531/image-578866b3f422c415592dc6d712d9eba4.png?ehk=nKhF%2B3lGzNSzaMLWLQ4vYDlTv9JXnzYtDbostFsMQto%3D&ehkOptimized=jcmMT1j4jD3oufqgVlvGZKz25H7KFCr5MnyXiyFSeNg%3D",
-      "entrants": 0,
-      "start_time": 1666976400
     },
     {
       "slug": "tournament/east-coast-fridays-227/event/melee-singles",
       "tournament_name": "East Coast Fridays #227",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492761/image-4ae8db0261dec19802e09fa4310b23c7.png?ehk=D4Rvqf1SodHEDQl6KoRE3Ke3uOpxupD79xrlIl17It4%3D&ehkOptimized=4q8sIvNCsamYERHRnte4jfnEv3S5Rjs8vm%2FlUJhjUbQ%3D",
-      "entrants": 12,
+      "entrants": 14,
       "start_time": 1667001600
     },
     {
@@ -146,6 +138,30 @@
       "start_time": 1667167200
     },
     {
+      "slug": "tournament/moose-halloween-special/event/sami-singles",
+      "tournament_name": "Moose Halloween Special!",
+      "event_name": "Sami Singles",
+      "image": "https://images.start.gg/images/tournament/492798/image-1487977ab762e0e2becd70e4cc50511c.jpg?ehk=l9C5D7mkO1%2Bn7jC8UbzH8zxwuCJ6VAzUgEcU7ljxxYE%3D&ehkOptimized=s4aUHZX%2BUXjurHbbyCW6tMP8SM1dqyhSCJGGuS5jcmI%3D",
+      "entrants": 1,
+      "start_time": 1667257200
+    },
+    {
+      "slug": "tournament/moose-halloween-special/event/melee-ladder",
+      "tournament_name": "Moose Halloween Special!",
+      "event_name": "Melee Ladder",
+      "image": "https://images.start.gg/images/tournament/492798/image-1487977ab762e0e2becd70e4cc50511c.jpg?ehk=l9C5D7mkO1%2Bn7jC8UbzH8zxwuCJ6VAzUgEcU7ljxxYE%3D&ehkOptimized=s4aUHZX%2BUXjurHbbyCW6tMP8SM1dqyhSCJGGuS5jcmI%3D",
+      "entrants": 1,
+      "start_time": 1667257260
+    },
+    {
+      "slug": "tournament/moose-halloween-special/event/melee-bracket",
+      "tournament_name": "Moose Halloween Special!",
+      "event_name": "Melee Bracket",
+      "image": "https://images.start.gg/images/tournament/492798/image-1487977ab762e0e2becd70e4cc50511c.jpg?ehk=l9C5D7mkO1%2Bn7jC8UbzH8zxwuCJ6VAzUgEcU7ljxxYE%3D&ehkOptimized=s4aUHZX%2BUXjurHbbyCW6tMP8SM1dqyhSCJGGuS5jcmI%3D",
+      "entrants": 0,
+      "start_time": 1667268000
+    },
+    {
       "slug": "tournament/coast-to-coast-doubles-5/event/wc-doubles",
       "tournament_name": "Coast to Coast Doubles # 5",
       "event_name": "WC Doubles",
@@ -167,22 +183,6 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492509/image-84ced15bdccfcd3de1235fda1ba86ebb.png?ehk=Z1sXzkOPJ3p8GC%2Ba9GHrhvo4sci4Io3N87mOa6fk2QY%3D&ehkOptimized=6wNMohIKvKrDlyVmG5EC5d0%2F9%2F4h79KK5Qmntuz%2F%2B9A%3D",
       "entrants": 0,
-      "start_time": 1667257200
-    },
-    {
-      "slug": "tournament/moose-halloween-special/event/melee-ladder",
-      "tournament_name": "Moose Halloween Special!",
-      "event_name": "Melee ladder",
-      "image": "https://images.start.gg/images/tournament/492798/image-1487977ab762e0e2becd70e4cc50511c.jpg?ehk=l9C5D7mkO1%2Bn7jC8UbzH8zxwuCJ6VAzUgEcU7ljxxYE%3D&ehkOptimized=s4aUHZX%2BUXjurHbbyCW6tMP8SM1dqyhSCJGGuS5jcmI%3D",
-      "entrants": null,
-      "start_time": 1667257200
-    },
-    {
-      "slug": "tournament/moose-halloween-special/event/sami-singles",
-      "tournament_name": "Moose Halloween Special!",
-      "event_name": "Sami Singles",
-      "image": "https://images.start.gg/images/tournament/492798/image-1487977ab762e0e2becd70e4cc50511c.jpg?ehk=l9C5D7mkO1%2Bn7jC8UbzH8zxwuCJ6VAzUgEcU7ljxxYE%3D&ehkOptimized=s4aUHZX%2BUXjurHbbyCW6tMP8SM1dqyhSCJGGuS5jcmI%3D",
-      "entrants": null,
       "start_time": 1667257200
     },
     {
