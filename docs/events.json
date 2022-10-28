@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666999422,
+  "fetched_at": 1667000738,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13-1/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "East Coast Fridays #227",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492761/image-4ae8db0261dec19802e09fa4310b23c7.png?ehk=D4Rvqf1SodHEDQl6KoRE3Ke3uOpxupD79xrlIl17It4%3D&ehkOptimized=4q8sIvNCsamYERHRnte4jfnEv3S5Rjs8vm%2FlUJhjUbQ%3D",
-      "entrants": 99,
+      "entrants": 103,
       "start_time": 1667001600
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Andrenaleague 15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/483698/image-e47fc25bb6295bc2294fb4ca99f4a380.png?ehk=bpLQDTenm8obQiAbJFJz0HClM6z1phfOUHpr9vijIqY%3D&ehkOptimized=QWAOy%2FEAKA5b9AamhrySVLypn2D1teKMMKsEDlzcDSU%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1667084400
     },
     {
@@ -141,7 +141,7 @@
       "slug": "tournament/return-of-sizzling-sundays/event/melee-singles",
       "tournament_name": "Return of Sizzling Sundays!",
       "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/492898/image-bbd06fe862ec96fa1b680bac524dfedf.png?ehk=DiDZFtpF8nmGL9h31CMRGTdazwIUqFMozQCXrN3ZcIY%3D&ehkOptimized=psiGNQj%2FxK9qD6zKANzjIi4PtMROKn%2BXaoyihR4ulnk%3D",
+      "image": "https://images.start.gg/images/tournament/492898/image-5dc48d67c95bb0239914b53005466b3c.png?ehk=ISGg%2B7DHCdvqwAiB6ZHVpgmf%2Bn1Xn2f%2BQiA7K6sPpW4%3D&ehkOptimized=aUbSRFnOaoAD9tJTMWpmJ4cFAoA27N4CtbOa8qFPG2U%3D",
       "entrants": 0,
       "start_time": 1667172600
     },
