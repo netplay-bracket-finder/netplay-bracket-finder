@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666965077,
+  "fetched_at": 1666967138,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13-1/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "SUPER SMASH BRONOL - MELEE #9",
       "event_name": "Melee 1vs1",
       "image": "https://images.start.gg/images/tournament/490756/image-32d04dbf5618a0e48214cf813e35e3ef.jpg?ehk=TwjXyaXss0i5CaRRkdxI6ZXEuc8wKK6Z8r0BR%2F9ikvg%3D&ehkOptimized=Xm983w3rfvsZfSa8l1a3bugIvlLuIX6Cmvc%2Fwt0GzLs%3D",
-      "entrants": 25,
+      "entrants": 27,
       "start_time": 1666974600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "East Coast Fridays #227",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492761/image-4ae8db0261dec19802e09fa4310b23c7.png?ehk=D4Rvqf1SodHEDQl6KoRE3Ke3uOpxupD79xrlIl17It4%3D&ehkOptimized=4q8sIvNCsamYERHRnte4jfnEv3S5Rjs8vm%2FlUJhjUbQ%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1667001600
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Quest for Best Noob EU #43 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/491404/image-c88827330150d59f63863eb479f8c9c0.jpg?ehk=xtSagK49erKAB8qi6Mr6ltTmMXOGsCFjQ%2FTS44Xrk2Q%3D&ehkOptimized=gdyjsEPvDO6M2Y1sVWFz6%2FCMZ8H35pUZJNlY3T6aM4g%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1667053800
     },
     {
@@ -142,7 +142,7 @@
       "tournament_name": "blumflip presents: Nightmare on Dreamland -  $50 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/489282/image-ddba731fbccb0d805efd68041ee3f579.jpg?ehk=Oh9GyWTHO9fm9dq3FbFh9iFZy1cefpe1xXm1LMUjalY%3D&ehkOptimized=orQho2vomFZlU7N6uqIrGh1MHc9QOAs4GoKnO1vqm1s%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1667167200
     },
     {
