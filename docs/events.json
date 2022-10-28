@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1666939956,
+  "fetched_at": 1666941472,
   "data": [
-    {
-      "slug": "tournament/bb-76/event/melee-singles",
-      "tournament_name": "BB 76",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/492616/image-3644a11a7cddebacf39eee19a60ba9f4.png?ehk=eG5PV%2F4LDGIiJAPbeh0iYK6%2Fog6XXrBGLR1zQSCYTfY%3D&ehkOptimized=iJNLG%2Bo1Ta79OSp7%2Fi5ZP4i3Bt21uzk53ZvvwztNqVA%3D",
-      "entrants": 27,
-      "start_time": 1666940400
-    },
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13-1/event/melee-singles",
       "tournament_name": "ASL’s Weekly Weekend Melee #13",
@@ -154,17 +146,17 @@
       "start_time": 1667167200
     },
     {
-      "slug": "tournament/coast-to-coast-doubles-5/event/ec-doubles",
-      "tournament_name": "Coast to Coast Doubles # 5",
-      "event_name": "EC Doubles",
-      "image": "https://images.start.gg/images/tournament/491774/image-da285f6f1f6679891b7162de9dceca18.png?ehk=J81AV1iydUXCbJHTY7w0IunJjoTWMYiXDeR%2B3zeS74w%3D&ehkOptimized=LgYHuBbpUTV3RBpQEm%2FVXpuFUVc9Lape1o9DYrGn%2FIs%3D",
-      "entrants": 0,
-      "start_time": 1667257200
-    },
-    {
       "slug": "tournament/coast-to-coast-doubles-5/event/wc-doubles",
       "tournament_name": "Coast to Coast Doubles # 5",
       "event_name": "WC Doubles",
+      "image": "https://images.start.gg/images/tournament/491774/image-da285f6f1f6679891b7162de9dceca18.png?ehk=J81AV1iydUXCbJHTY7w0IunJjoTWMYiXDeR%2B3zeS74w%3D&ehkOptimized=LgYHuBbpUTV3RBpQEm%2FVXpuFUVc9Lape1o9DYrGn%2FIs%3D",
+      "entrants": 1,
+      "start_time": 1667257200
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-5/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 5",
+      "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/491774/image-da285f6f1f6679891b7162de9dceca18.png?ehk=J81AV1iydUXCbJHTY7w0IunJjoTWMYiXDeR%2B3zeS74w%3D&ehkOptimized=LgYHuBbpUTV3RBpQEm%2FVXpuFUVc9Lape1o9DYrGn%2FIs%3D",
       "entrants": 0,
       "start_time": 1667257200
