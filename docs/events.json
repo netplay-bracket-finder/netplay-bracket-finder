@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1666982992,
+  "fetched_at": 1666984562,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13-1/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "The Shallow End #9 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490814/image-7796f7db35172c89836ae580df54ad44.jpg?ehk=lIIDj4pJvgYaIY2rZfpx0gy7INM4K517zpYe8OkLb0A%3D&ehkOptimized=d58S8c7Ylhsving3aoNpZUnGkso2S48uAICJvi9jGv8%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1667004300
     },
     {
@@ -202,6 +202,14 @@
       "start_time": 1667264400
     },
     {
+      "slug": "tournament/costume-contest/event/melee-singles-secondaries-only",
+      "tournament_name": "Costume Contest",
+      "event_name": "Melee Singles - Secondaries Only",
+      "image": "https://images.start.gg/images/tournament/492845/image-695ca1648f9eb14432d139a494c4a64f.png?ehk=lX4s5ecnBUKZgtp4O%2BYAWVNVO8ITV3bRrNGqpdj%2F9Zg%3D&ehkOptimized=eNvZSGZZqiaIVueE3IOxVc%2BOsHZzVJlYwgBxXMKYl4Q%3D",
+      "entrants": 0,
+      "start_time": 1667264400
+    },
+    {
       "slug": "tournament/mnn-31/event/melee-singles",
       "tournament_name": "MNN#31",
       "event_name": "Melee Singles",
@@ -270,7 +278,7 @@
       "tournament_name": "From The Ashes #9",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492834/image-5873e443c8d1c2240888e88faf7d5b67.png?ehk=gxqsS5USzgZtpYmcm6JJpX5uHQIUbL7VztOmCIHDMWM%3D&ehkOptimized=uDlcxolIEOx7%2BkVzSZeK2S1b9glPVtOM1W7H3ibs6yQ%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1667656800
     },
     {
