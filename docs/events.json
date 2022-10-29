@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667008167,
+  "fetched_at": 1667014660,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13-1/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "SEArcadian",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/482975/image-6393ad6128716f302365f629330ea9a6.png?ehk=K1Fm0pB05NV5fd2%2BVDWzB2cP2XTJjCOBOWypFhK7heA%3D&ehkOptimized=qlHpyCX4yon4LWZCeLNQIggNiFtNZ0nRXoltg7cKopE%3D",
-      "entrants": 6,
+      "entrants": 5,
       "start_time": 1667023200
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Bimensual de Patatatas 1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/490871/image-4cae674be3262953136609d42f5b73a9.png?ehk=%2BoRaj7Et4ryC1LZ9HZnvPDEyKdtjhWk7EGGuINMRlwA%3D&ehkOptimized=kjwgVtlXcVgZngpd2ySCE3k2utPZadCUtZKsiMecEPg%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1667073600
     },
     {
