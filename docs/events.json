@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667014660,
+  "fetched_at": 1667017206,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13-1/event/melee-singles",
@@ -48,6 +48,14 @@
       "image": "https://images.start.gg/images/tournament/490889/image-3d216eaab3e684a0f44fbd553999cda8.png?ehk=bXwbLoYORvRqoSWpuIDDUZELJP4o2B98u1iIW44yi9I%3D&ehkOptimized=Ryt7hP10Km2hw8n%2BRNXKbLBUjP9zpvJXuv5j83xWdOc%3D",
       "entrants": 3,
       "start_time": 1667062800
+    },
+    {
+      "slug": "tournament/the-battlefields-series-58/event/melee-singles",
+      "tournament_name": "The Battlefields Series #58",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/492971/image-52b2ea84ef67466f60f018b6f2e93616.png?ehk=vSBIPTBKmLZm7ju7%2BFTvf8rN7khAVTLa2SzgmzsWCSY%3D&ehkOptimized=fPUVZIAA29jSmWVKAJejd%2FU3EuDrzmj%2FExguctIM5i8%3D",
+      "entrants": 0,
+      "start_time": 1667167200
     },
     {
       "slug": "tournament/bimensual-de-patatatas-1/event/melee-singles",
@@ -118,7 +126,7 @@
       "tournament_name": "Bromomento relámpago #2",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/489565/image-336a18423ec62bf9d5f75e47b41f4ebb.png?ehk=%2BZ4kCVB0ksGGUxbxsYUEALXHwns6evKyeki5tT%2F3ttY%3D&ehkOptimized=utqXr0GmJXgsjPN%2FYLw1M68n6Gt66eYEVNyRd%2BkdXnc%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1667167200
     },
     {
