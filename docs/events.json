@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667000738,
+  "fetched_at": 1667008167,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13-1/event/melee-singles",
@@ -16,22 +16,6 @@
       "image": "https://images.start.gg/images/tournament/492761/image-4ae8db0261dec19802e09fa4310b23c7.png?ehk=D4Rvqf1SodHEDQl6KoRE3Ke3uOpxupD79xrlIl17It4%3D&ehkOptimized=4q8sIvNCsamYERHRnte4jfnEv3S5Rjs8vm%2FlUJhjUbQ%3D",
       "entrants": 103,
       "start_time": 1667001600
-    },
-    {
-      "slug": "tournament/fgc-friday-14-solar-circuit-qualifier/event/melee-singles",
-      "tournament_name": "FGC Friday #14 (Solar Circuit Qualifier)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/492706/image-60841514696a8a05c3ebf5f945f663dc.png?ehk=r5oR9K11MAsRavGk2G4TDQsblIvaWRuLx5MEq6mHtEo%3D&ehkOptimized=wXxrGqmYjosrRJczzaC0ZtuoIK7RApKnfOhg7sBevEM%3D",
-      "entrants": 1,
-      "start_time": 1667001600
-    },
-    {
-      "slug": "tournament/the-shallow-end-9-a-wc-newbie-bracket/event/melee-singles",
-      "tournament_name": "The Shallow End #9 - a WC newbie bracket",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/490814/image-7796f7db35172c89836ae580df54ad44.jpg?ehk=lIIDj4pJvgYaIY2rZfpx0gy7INM4K517zpYe8OkLb0A%3D&ehkOptimized=d58S8c7Ylhsving3aoNpZUnGkso2S48uAICJvi9jGv8%3D",
-      "entrants": 4,
-      "start_time": 1667004300
     },
     {
       "slug": "tournament/searcadian/event/singles",
@@ -78,7 +62,7 @@
       "tournament_name": "After Dark Melee #2",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/491421/image-031d967e8f2b71532d8fe27481959bfb.png?ehk=p7xJWTxX7yQOl17Y%2FwzLTvkd6tY6tjpGGiWbZj7aDro%3D&ehkOptimized=5XuoEF0PEb8JRWayIggnAc1RjMOSbEJr0w%2B3PoIKzdg%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667070900
     },
     {
