@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667080320,
+  "fetched_at": 1667081940,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-58/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Andrenaleague 15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/483698/image-e47fc25bb6295bc2294fb4ca99f4a380.png?ehk=bpLQDTenm8obQiAbJFJz0HClM6z1phfOUHpr9vijIqY%3D&ehkOptimized=QWAOy%2FEAKA5b9AamhrySVLypn2D1teKMMKsEDlzcDSU%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1667084400
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Melee Weekly BR #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493037/image-38a39be8a1ea2ef304169f8bb31a6356.png?ehk=BPnhVGB1QGG0rZUHAy%2FRpwnoCAbUZvaVCQRYVWDM5NQ%3D&ehkOptimized=P5QowffocdzlhjGv2X9dxRPWiNll1iDtTGaAtTAHaSw%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1667163600
     },
     {
@@ -166,7 +166,7 @@
       "tournament_name": "Spudfest 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491915/image-eec9acffed24ce285cf6b38da11d1886.jpg?ehk=d%2BOHgtkFtb8tGQ6kC6qbY%2FbeC0P8Lh7HpXusEclT%2FBw%3D&ehkOptimized=ihFBfCiEJ2oEI2HDPSZaerZcJZLhmsy%2FeVikRu4yVUQ%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1667264400
     },
     {
@@ -374,7 +374,7 @@
       "tournament_name": "The BIG Pink",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492672/image-e59cad14eec8a33939c7d3b7dbf1f8ad.jpg?ehk=Ug%2FzytecnblTpI7NCFssNEth%2BnbO36iP%2BnWZ%2B6NBsUc%3D&ehkOptimized=2AJYP8G0yTIXMxUR%2F%2FcBZ4BDHvxGORbrUxLHiVKrTgY%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1670731200
     }
   ]
