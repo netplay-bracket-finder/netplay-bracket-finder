@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1667058244,
+  "fetched_at": 1667058914,
   "data": [
-    {
-      "slug": "tournament/ssbm-ru-monthly-october-2022/event/melee-singles",
-      "tournament_name": "SSBM RU Monthly (October 2022)",
-      "event_name": "Melee singles",
-      "image": "https://images.start.gg/images/tournament/486647/image-e1750f4862665fa6b7446cb7dcc1981a.png?ehk=Zk8K4hK8D5tWcb9Xr8UsInofVtB5InQQR5O4UnCk2bw%3D&ehkOptimized=byvLe1iGXzADa%2BmqMgqL3H8SpoF8Kl0zsDkyH8gKDlU%3D",
-      "entrants": 10,
-      "start_time": 1667059200
-    },
     {
       "slug": "tournament/spooky-swiss-doubles/event/melee-doubles",
       "tournament_name": "Spooky Swiss Doubles",
@@ -70,7 +62,7 @@
       "tournament_name": "Finnish Melee League 2022 #5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489651/image-c81b37c54bd7bd20947c2db6c465ac4c.png?ehk=mJN2WSnvUBKql9WFFP5cQYPUADG%2Fya8kDEY1CgnnUwk%3D&ehkOptimized=ez%2BwmhqKd%2BkbyP2nqxQ%2FnRYWdKXBYOGomVpDqfCyHRw%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1667125800
     },
     {
@@ -104,6 +96,14 @@
       "image": "https://images.start.gg/images/tournament/489282/image-ddba731fbccb0d805efd68041ee3f579.jpg?ehk=Oh9GyWTHO9fm9dq3FbFh9iFZy1cefpe1xXm1LMUjalY%3D&ehkOptimized=orQho2vomFZlU7N6uqIrGh1MHc9QOAs4GoKnO1vqm1s%3D",
       "entrants": 16,
       "start_time": 1667167200
+    },
+    {
+      "slug": "tournament/melee-weekly-br-4/event/melee-singles",
+      "tournament_name": "Melee Weekly BR #4",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493037/image-38a39be8a1ea2ef304169f8bb31a6356.png?ehk=BPnhVGB1QGG0rZUHAy%2FRpwnoCAbUZvaVCQRYVWDM5NQ%3D&ehkOptimized=P5QowffocdzlhjGv2X9dxRPWiNll1iDtTGaAtTAHaSw%3D",
+      "entrants": 0,
+      "start_time": 1667163600
     },
     {
       "slug": "tournament/bromomento-rel-mpago-2/event/melee-singles",
