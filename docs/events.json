@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667022699,
+  "fetched_at": 1667024722,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-13-1/event/melee-singles",
@@ -16,14 +16,6 @@
       "image": "https://images.start.gg/images/tournament/492761/image-4ae8db0261dec19802e09fa4310b23c7.png?ehk=D4Rvqf1SodHEDQl6KoRE3Ke3uOpxupD79xrlIl17It4%3D&ehkOptimized=4q8sIvNCsamYERHRnte4jfnEv3S5Rjs8vm%2FlUJhjUbQ%3D",
       "entrants": 103,
       "start_time": 1667001600
-    },
-    {
-      "slug": "tournament/searcadian/event/singles",
-      "tournament_name": "SEArcadian",
-      "event_name": "Singles",
-      "image": "https://images.start.gg/images/tournament/482975/image-6393ad6128716f302365f629330ea9a6.png?ehk=K1Fm0pB05NV5fd2%2BVDWzB2cP2XTJjCOBOWypFhK7heA%3D&ehkOptimized=qlHpyCX4yon4LWZCeLNQIggNiFtNZ0nRXoltg7cKopE%3D",
-      "entrants": 5,
-      "start_time": 1667023200
     },
     {
       "slug": "tournament/quest-for-best-noob-eu-43-a-qfbn-all-star/event/newbie-singles",
