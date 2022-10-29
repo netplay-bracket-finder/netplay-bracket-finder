@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667078298,
+  "fetched_at": 1667079662,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-58/event/melee-singles",
@@ -210,6 +210,22 @@
       "start_time": 1667347200
     },
     {
+      "slug": "tournament/level-one-melee-50-a-noob-only-tournament/event/amateur-melee-singles",
+      "tournament_name": "Level One Melee #50 - a noob-only tournament",
+      "event_name": "Amateur Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
+      "entrants": 0,
+      "start_time": 1667350800
+    },
+    {
+      "slug": "tournament/level-one-melee-50-a-noob-only-tournament/event/main-melee-singles",
+      "tournament_name": "Level One Melee #50 - a noob-only tournament",
+      "event_name": "Main Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
+      "entrants": 0,
+      "start_time": 1667350800
+    },
+    {
       "slug": "tournament/toblerone-tangerine-thursdays-37-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #37 (EU Event)",
       "event_name": "Melee Singles",
@@ -296,14 +312,6 @@
       "image": "https://images.start.gg/images/tournament/455902/image-b6adc84c187fc56be4b5ebef40af1cc3.png?ehk=meJHD%2Fs2BCha4Yzb0AZiJE9nCh3HrLLUnrqc1pFzCHk%3D&ehkOptimized=FQ%2F5SZLjNx1wawgW0A3%2B3ob2jU7qlDm287Nzx2JsYVM%3D",
       "entrants": 0,
       "start_time": 1667865600
-    },
-    {
-      "slug": "tournament/daggetbeaves-thanks-giving-rumble/event/ssbm",
-      "tournament_name": "Daggetbeaves Thanks giving rumble",
-      "event_name": "SSBM",
-      "image": "https://images.start.gg/images/tournament/493063/image-497b37bf44e83ed42c4fe1a09995cf9c.jpg?ehk=IwmS8QpsbMG%2BGxJkTDsYvcpj32Jnp9nrHCaugDABtsc%3D&ehkOptimized=fP7qU4EzcW0NxdE1OBpqDOYPqyQkKbU8KlzhPZ%2FX%2BO4%3D",
-      "entrants": 0,
-      "start_time": 1667934000
     },
     {
       "slug": "tournament/stel-hotel-throwdown-minimum-100-prize-pool/event/commentator-invitational",
