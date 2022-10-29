@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667066024,
+  "fetched_at": 1667067849,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-58/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "After Dark Melee #2",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/491421/image-031d967e8f2b71532d8fe27481959bfb.png?ehk=p7xJWTxX7yQOl17Y%2FwzLTvkd6tY6tjpGGiWbZj7aDro%3D&ehkOptimized=5XuoEF0PEb8JRWayIggnAc1RjMOSbEJr0w%2B3PoIKzdg%3D",
-      "entrants": 7,
+      "entrants": 12,
       "start_time": 1667070900
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Finnish Melee League 2022 #5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/489651/image-c81b37c54bd7bd20947c2db6c465ac4c.png?ehk=mJN2WSnvUBKql9WFFP5cQYPUADG%2Fya8kDEY1CgnnUwk%3D&ehkOptimized=ez%2BwmhqKd%2BkbyP2nqxQ%2FnRYWdKXBYOGomVpDqfCyHRw%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1667125800
     },
     {
@@ -328,6 +328,14 @@
       "image": "https://images.start.gg/images/tournament/455902/image-b6adc84c187fc56be4b5ebef40af1cc3.png?ehk=meJHD%2Fs2BCha4Yzb0AZiJE9nCh3HrLLUnrqc1pFzCHk%3D&ehkOptimized=FQ%2F5SZLjNx1wawgW0A3%2B3ob2jU7qlDm287Nzx2JsYVM%3D",
       "entrants": 0,
       "start_time": 1667865600
+    },
+    {
+      "slug": "tournament/daggetbeaves-thanks-giving-rumble/event/ssbm",
+      "tournament_name": "Daggetbeaves Thanks giving rumble",
+      "event_name": "SSBM",
+      "image": "https://images.start.gg/images/tournament/493063/image-497b37bf44e83ed42c4fe1a09995cf9c.jpg?ehk=IwmS8QpsbMG%2BGxJkTDsYvcpj32Jnp9nrHCaugDABtsc%3D&ehkOptimized=fP7qU4EzcW0NxdE1OBpqDOYPqyQkKbU8KlzhPZ%2FX%2BO4%3D",
+      "entrants": 0,
+      "start_time": 1667934000
     },
     {
       "slug": "tournament/stel-hotel-throwdown-minimum-100-prize-pool/event/commentator-invitational",
