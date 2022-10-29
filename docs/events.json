@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667081940,
+  "fetched_at": 1667083338,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-58/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Andrenaleague 15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/483698/image-e47fc25bb6295bc2294fb4ca99f4a380.png?ehk=bpLQDTenm8obQiAbJFJz0HClM6z1phfOUHpr9vijIqY%3D&ehkOptimized=QWAOy%2FEAKA5b9AamhrySVLypn2D1teKMMKsEDlzcDSU%3D",
-      "entrants": 17,
+      "entrants": 21,
       "start_time": 1667084400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Sober Saturday #116",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493104/image-c60bb933a91b6d61bd714ba6e8ee36bb.jpg?ehk=DcWxSSVQrmdFXgSpZVLms5quPoNB%2BQgd3qHXXa%2BjFH4%3D&ehkOptimized=x4D0%2FBASk0tJLq8bOPs2IL9iId%2FjC17whzO7xaDmxR8%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1667088000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Fight of the Fearful 25",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/492444/image-2a4871724b3fb1986bc8def0e8a5b88a.png?ehk=n9RrJ4TIwlM3n3xcDTmnONApwo5LjnNbRxLi7kh2%2F7k%3D&ehkOptimized=3NYUjRGxjYgIfegE7OURvWxXvb7O0YJ0Zxu1GTEYUVc%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1667152800
     },
     {
