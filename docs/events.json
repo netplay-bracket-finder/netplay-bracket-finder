@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667083999,
+  "fetched_at": 1667085776,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-58/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/492971/image-52b2ea84ef67466f60f018b6f2e93616.png?ehk=vSBIPTBKmLZm7ju7%2BFTvf8rN7khAVTLa2SzgmzsWCSY%3D&ehkOptimized=fPUVZIAA29jSmWVKAJejd%2FU3EuDrzmj%2FExguctIM5i8%3D",
       "entrants": 1,
       "start_time": 1667167200
-    },
-    {
-      "slug": "tournament/andrenaleague-15/event/melee-singles",
-      "tournament_name": "Andrenaleague 15",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/483698/image-e47fc25bb6295bc2294fb4ca99f4a380.png?ehk=bpLQDTenm8obQiAbJFJz0HClM6z1phfOUHpr9vijIqY%3D&ehkOptimized=QWAOy%2FEAKA5b9AamhrySVLypn2D1teKMMKsEDlzcDSU%3D",
-      "entrants": 21,
-      "start_time": 1667084400
     },
     {
       "slug": "tournament/sober-saturday-116/event/melee-singles",
@@ -78,7 +70,7 @@
       "tournament_name": "Return of Sizzling Sundays!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492898/image-02dcb9a0e939aadf058eecdce2155c49.png?ehk=nPHqcPPqhsRryxEXR0MP5A%2F3zoa0LMIzG%2F0wQ6CqX5k%3D&ehkOptimized=ksynZyeP46U6qG6TDbI5fjZTi6HA8hO%2FaxXH3%2B0HjkE%3D",
-      "entrants": 0,
+      "entrants": 4,
       "start_time": 1667172600
     },
     {
@@ -166,7 +158,7 @@
       "tournament_name": "Spudfest 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491915/image-eec9acffed24ce285cf6b38da11d1886.jpg?ehk=d%2BOHgtkFtb8tGQ6kC6qbY%2FbeC0P8Lh7HpXusEclT%2FBw%3D&ehkOptimized=ihFBfCiEJ2oEI2HDPSZaerZcJZLhmsy%2FeVikRu4yVUQ%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1667264400
     },
     {
