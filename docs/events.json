@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667056871,
+  "fetched_at": 1667058244,
   "data": [
     {
       "slug": "tournament/ssbm-ru-monthly-october-2022/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Spooky Swiss Doubles",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/490889/image-3d216eaab3e684a0f44fbd553999cda8.png?ehk=bXwbLoYORvRqoSWpuIDDUZELJP4o2B98u1iIW44yi9I%3D&ehkOptimized=Ryt7hP10Km2hw8n%2BRNXKbLBUjP9zpvJXuv5j83xWdOc%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667062800
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Legs' Le Tournament #55",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493027/image-2f93efe70e8bddad221fc60062359176.png?ehk=zHq4mRP5Dt%2FSpXGsII%2F5q0q7M7xXz2u7Dqga2vYovJ0%3D&ehkOptimized=XmLmB95ie7gajk3%2FkjRQryhLq6Jo52RI%2BX0cAQpqiME%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1667077200
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "SCSS East Coast #92",
       "event_name": "SCSS Singles",
       "image": "https://images.start.gg/images/tournament/492876/image-184bf96c5e109c34686a931358c2ff45.png?ehk=xDstHpubC8K7u5xeoBpTGJBh5o%2BMbcsvs9XZaG7UVaI%3D&ehkOptimized=TBuf2gu21LNZ1%2FELlFCnttak8Tlr6xocl0XPxfkQSJg%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1667172600
     },
     {
