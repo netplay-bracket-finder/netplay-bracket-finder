@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667069248,
+  "fetched_at": 1667070953,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-58/event/melee-singles",
@@ -10,19 +10,11 @@
       "start_time": 1667167200
     },
     {
-      "slug": "tournament/after-dark-melee-2/event/after-dark-singles",
-      "tournament_name": "After Dark Melee #2",
-      "event_name": "After Dark Singles",
-      "image": "https://images.start.gg/images/tournament/491421/image-031d967e8f2b71532d8fe27481959bfb.png?ehk=p7xJWTxX7yQOl17Y%2FwzLTvkd6tY6tjpGGiWbZj7aDro%3D&ehkOptimized=5XuoEF0PEb8JRWayIggnAc1RjMOSbEJr0w%2B3PoIKzdg%3D",
-      "entrants": 19,
-      "start_time": 1667070900
-    },
-    {
       "slug": "tournament/legs-le-tournament-55/event/melee-singles",
       "tournament_name": "Legs' Le Tournament #55",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493027/image-2f93efe70e8bddad221fc60062359176.png?ehk=zHq4mRP5Dt%2FSpXGsII%2F5q0q7M7xXz2u7Dqga2vYovJ0%3D&ehkOptimized=XmLmB95ie7gajk3%2FkjRQryhLq6Jo52RI%2BX0cAQpqiME%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1667077200
     },
     {
@@ -38,16 +30,8 @@
       "tournament_name": "Andrenaleague 15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/483698/image-e47fc25bb6295bc2294fb4ca99f4a380.png?ehk=bpLQDTenm8obQiAbJFJz0HClM6z1phfOUHpr9vijIqY%3D&ehkOptimized=QWAOy%2FEAKA5b9AamhrySVLypn2D1teKMMKsEDlzcDSU%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1667084400
-    },
-    {
-      "slug": "tournament/finnish-melee-league-2022-5/event/melee-singles",
-      "tournament_name": "Finnish Melee League 2022 #5",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/489651/image-c81b37c54bd7bd20947c2db6c465ac4c.png?ehk=mJN2WSnvUBKql9WFFP5cQYPUADG%2Fya8kDEY1CgnnUwk%3D&ehkOptimized=ez%2BwmhqKd%2BkbyP2nqxQ%2FnRYWdKXBYOGomVpDqfCyHRw%3D",
-      "entrants": 12,
-      "start_time": 1667125800
     },
     {
       "slug": "tournament/dorime-s-dojo-6/event/melee-singles",
