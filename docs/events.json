@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667161259,
+  "fetched_at": 1667162553,
   "data": [
     {
       "slug": "tournament/melee-weekly-br-4/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "Return of Sizzling Sundays!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492898/image-02dcb9a0e939aadf058eecdce2155c49.png?ehk=nPHqcPPqhsRryxEXR0MP5A%2F3zoa0LMIzG%2F0wQ6CqX5k%3D&ehkOptimized=ksynZyeP46U6qG6TDbI5fjZTi6HA8hO%2FaxXH3%2B0HjkE%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667172600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "SCSS East Coast #92",
       "event_name": "SCSS Singles",
       "image": "https://images.start.gg/images/tournament/492876/image-184bf96c5e109c34686a931358c2ff45.png?ehk=xDstHpubC8K7u5xeoBpTGJBh5o%2BMbcsvs9XZaG7UVaI%3D&ehkOptimized=TBuf2gu21LNZ1%2FELlFCnttak8Tlr6xocl0XPxfkQSJg%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1667172600
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "No Melee On Sundays 15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493257/image-49b8cdecde40a11f20ecd093e453b73f.png?ehk=%2BQGXs5AwuzHtvU0dPR6tEB1vXcwicrT%2BI0gjKZXw15M%3D&ehkOptimized=aMqMymiMDSHDDhNelKseaCdj4IAI10cK71RMjzKmzgw%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1667174400
     },
     {
@@ -312,6 +312,14 @@
       "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
       "entrants": 6,
       "start_time": 1668209400
+    },
+    {
+      "slug": "tournament/the-battlefields-series-59-1/event/melee-singles",
+      "tournament_name": "The Battlefields Series #59",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493344/image-946fc0d767ee8651e364e198eaf40b5a.png?ehk=2hc%2FibbJjopv8g0JnDEXPyccapiYslWLHVCecak4POs%3D&ehkOptimized=nuFv7iONUTcf51MyDz%2BpOE85j0%2BM6cfmf68U%2FQYr%2BX8%3D",
+      "entrants": 0,
+      "start_time": 1668380400
     },
     {
       "slug": "tournament/multi-melee-masters-2-50-pot-bonus/event/multi-melee-singles",
