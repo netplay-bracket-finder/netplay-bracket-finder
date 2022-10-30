@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667168356,
+  "fetched_at": 1667169752,
   "data": [
     {
       "slug": "tournament/kalvar-cup-67/event/melee-singles",
       "tournament_name": "Kalvar Cup #67",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493295/image-fba1c074102bc8a4a7cf3ee9300b3e27.png?ehk=gZ6ULyMyAIS%2FyI0RikP5ATbo4SPp7q5xyDi6eASu0k8%3D&ehkOptimized=l4EiNnvpksKl%2Fs5WyaHNZkmw%2FEW0L33h3YTWmhwFbwg%3D",
-      "entrants": 4,
+      "entrants": 9,
       "start_time": 1667169000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "SCSS East Coast #92",
       "event_name": "SCSS Singles",
       "image": "https://images.start.gg/images/tournament/492876/image-184bf96c5e109c34686a931358c2ff45.png?ehk=xDstHpubC8K7u5xeoBpTGJBh5o%2BMbcsvs9XZaG7UVaI%3D&ehkOptimized=TBuf2gu21LNZ1%2FELlFCnttak8Tlr6xocl0XPxfkQSJg%3D",
-      "entrants": 23,
+      "entrants": 28,
       "start_time": 1667172600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "No Melee On Sundays 15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493257/image-49b8cdecde40a11f20ecd093e453b73f.png?ehk=%2BQGXs5AwuzHtvU0dPR6tEB1vXcwicrT%2BI0gjKZXw15M%3D&ehkOptimized=aMqMymiMDSHDDhNelKseaCdj4IAI10cK71RMjzKmzgw%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1667174400
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "Spudfest 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491915/image-eec9acffed24ce285cf6b38da11d1886.jpg?ehk=d%2BOHgtkFtb8tGQ6kC6qbY%2FbeC0P8Lh7HpXusEclT%2FBw%3D&ehkOptimized=ihFBfCiEJ2oEI2HDPSZaerZcJZLhmsy%2FeVikRu4yVUQ%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1667264400
     },
     {
