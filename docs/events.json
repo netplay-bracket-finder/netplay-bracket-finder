@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667096391,
+  "fetched_at": 1667102353,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-58/event/melee-singles",
@@ -54,7 +54,7 @@
       "tournament_name": "blumflip presents: Nightmare on Dreamland -  $50 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/489282/image-ddba731fbccb0d805efd68041ee3f579.jpg?ehk=Oh9GyWTHO9fm9dq3FbFh9iFZy1cefpe1xXm1LMUjalY%3D&ehkOptimized=orQho2vomFZlU7N6uqIrGh1MHc9QOAs4GoKnO1vqm1s%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1667167200
     },
     {
@@ -218,17 +218,17 @@
       "start_time": 1667347200
     },
     {
-      "slug": "tournament/level-one-melee-50-a-noob-only-tournament/event/amateur-melee-singles",
-      "tournament_name": "Level One Melee #50 - a noob-only tournament",
-      "event_name": "Amateur Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
-      "entrants": 0,
-      "start_time": 1667350800
-    },
-    {
       "slug": "tournament/level-one-melee-50-a-noob-only-tournament/event/main-melee-singles",
       "tournament_name": "Level One Melee #50 - a noob-only tournament",
       "event_name": "Main Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
+      "entrants": 1,
+      "start_time": 1667350800
+    },
+    {
+      "slug": "tournament/level-one-melee-50-a-noob-only-tournament/event/amateur-melee-singles",
+      "tournament_name": "Level One Melee #50 - a noob-only tournament",
+      "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
       "entrants": 0,
       "start_time": 1667350800
@@ -278,7 +278,7 @@
       "tournament_name": "Only Noobs 91",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492725/image-3d4eda7c179bae7cba45483fdc860b68.jpg?ehk=VKoE2eXJEynQtTrSSN0Fcjeeq%2BCIznTKUh5qYw6Oua4%3D&ehkOptimized=gL%2FPqwpl11LItMrauuswdY0TGgPGIx6jyq3oP2Nf%2Bto%3D",
-      "entrants": 0,
+      "entrants": 2,
       "start_time": 1667516400
     },
     {
