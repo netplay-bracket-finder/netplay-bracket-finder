@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667157359,
+  "fetched_at": 1667158643,
   "data": [
     {
       "slug": "tournament/blumflip-presents-nightmare-on-dreamland-50-prize-pool/event/melee-doubles",
       "tournament_name": "blumflip presents: Nightmare on Dreamland -  $50 prize pool!",
       "event_name": "melee doubles",
       "image": "https://images.start.gg/images/tournament/489282/image-ddba731fbccb0d805efd68041ee3f579.jpg?ehk=Oh9GyWTHO9fm9dq3FbFh9iFZy1cefpe1xXm1LMUjalY%3D&ehkOptimized=orQho2vomFZlU7N6uqIrGh1MHc9QOAs4GoKnO1vqm1s%3D",
-      "entrants": 14,
+      "entrants": 16,
       "start_time": 1667160000
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "blumflip presents: Nightmare on Dreamland -  $50 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/489282/image-ddba731fbccb0d805efd68041ee3f579.jpg?ehk=Oh9GyWTHO9fm9dq3FbFh9iFZy1cefpe1xXm1LMUjalY%3D&ehkOptimized=orQho2vomFZlU7N6uqIrGh1MHc9QOAs4GoKnO1vqm1s%3D",
-      "entrants": 54,
+      "entrants": 56,
       "start_time": 1667167200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Melee Weekly BR #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493037/image-38a39be8a1ea2ef304169f8bb31a6356.png?ehk=BPnhVGB1QGG0rZUHAy%2FRpwnoCAbUZvaVCQRYVWDM5NQ%3D&ehkOptimized=P5QowffocdzlhjGv2X9dxRPWiNll1iDtTGaAtTAHaSw%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1667163600
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "SCSS West Coast #81",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492875/image-b0174a86cfcc6795790dc7f24e6b4850.png?ehk=qOWRTMllZcdM1qDTzJM9naBa8FVM2BwBn4iK1dnNkzQ%3D&ehkOptimized=36Yt62gAlGjqsqF%2FG0eMw1xIQvE%2FOk6NjDKsmC3zVSI%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1667176200
     },
     {
