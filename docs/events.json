@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667143238,
+  "fetched_at": 1667144636,
   "data": [
     {
       "slug": "tournament/dorime-s-dojo-6/event/melee-singles",
       "tournament_name": "Dorime's Dojo #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492525/image-08cf83e828d6c50f4aa729a2f61a0682.png?ehk=WKhZrHNL7%2BrBmruu8yKWLzc3utyuGfZZfX5FhsgE36c%3D&ehkOptimized=TDxhoh%2BRM2xdncGcQTNCbwLExd8ZNp32reVZfVJC62c%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1667149200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Fight of the Fearful 25",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/492444/image-2a4871724b3fb1986bc8def0e8a5b88a.png?ehk=n9RrJ4TIwlM3n3xcDTmnONApwo5LjnNbRxLi7kh2%2F7k%3D&ehkOptimized=3NYUjRGxjYgIfegE7OURvWxXvb7O0YJ0Zxu1GTEYUVc%3D",
-      "entrants": 10,
+      "entrants": 14,
       "start_time": 1667152800
     },
     {
@@ -64,6 +64,14 @@
       "image": "https://images.start.gg/images/tournament/492876/image-184bf96c5e109c34686a931358c2ff45.png?ehk=xDstHpubC8K7u5xeoBpTGJBh5o%2BMbcsvs9XZaG7UVaI%3D&ehkOptimized=TBuf2gu21LNZ1%2FELlFCnttak8Tlr6xocl0XPxfkQSJg%3D",
       "entrants": 3,
       "start_time": 1667172600
+    },
+    {
+      "slug": "tournament/no-melee-on-sundays-15/event/melee-singles",
+      "tournament_name": "No Melee On Sundays 15",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493257/image-49b8cdecde40a11f20ecd093e453b73f.png?ehk=%2BQGXs5AwuzHtvU0dPR6tEB1vXcwicrT%2BI0gjKZXw15M%3D&ehkOptimized=aMqMymiMDSHDDhNelKseaCdj4IAI10cK71RMjzKmzgw%3D",
+      "entrants": 1,
+      "start_time": 1667174400
     },
     {
       "slug": "tournament/scss-west-coast-81/event/melee-singles",
