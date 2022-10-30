@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667154330,
+  "fetched_at": 1667155719,
   "data": [
     {
       "slug": "tournament/blumflip-presents-nightmare-on-dreamland-50-prize-pool/event/melee-doubles",
@@ -14,7 +14,7 @@
       "tournament_name": "blumflip presents: Nightmare on Dreamland -  $50 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/489282/image-ddba731fbccb0d805efd68041ee3f579.jpg?ehk=Oh9GyWTHO9fm9dq3FbFh9iFZy1cefpe1xXm1LMUjalY%3D&ehkOptimized=orQho2vomFZlU7N6uqIrGh1MHc9QOAs4GoKnO1vqm1s%3D",
-      "entrants": 47,
+      "entrants": 50,
       "start_time": 1667167200
     },
     {
@@ -34,6 +34,14 @@
       "start_time": 1667167200
     },
     {
+      "slug": "tournament/kalvar-cup-67/event/melee-singles",
+      "tournament_name": "Kalvar Cup #67",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493295/image-fba1c074102bc8a4a7cf3ee9300b3e27.png?ehk=gZ6ULyMyAIS%2FyI0RikP5ATbo4SPp7q5xyDi6eASu0k8%3D&ehkOptimized=l4EiNnvpksKl%2Fs5WyaHNZkmw%2FEW0L33h3YTWmhwFbwg%3D",
+      "entrants": 1,
+      "start_time": 1667169000
+    },
+    {
       "slug": "tournament/return-of-sizzling-sundays/event/melee-singles",
       "tournament_name": "Return of Sizzling Sundays!",
       "event_name": "Melee Singles",
@@ -46,7 +54,7 @@
       "tournament_name": "SCSS East Coast #92",
       "event_name": "SCSS Singles",
       "image": "https://images.start.gg/images/tournament/492876/image-184bf96c5e109c34686a931358c2ff45.png?ehk=xDstHpubC8K7u5xeoBpTGJBh5o%2BMbcsvs9XZaG7UVaI%3D&ehkOptimized=TBuf2gu21LNZ1%2FELlFCnttak8Tlr6xocl0XPxfkQSJg%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1667172600
     },
     {
@@ -136,6 +144,14 @@
       "image": "https://images.start.gg/images/tournament/492195/image-245c6fc200716c756703795ed300b7cc.jpg?ehk=f6I%2F4JbkCeUgPtzwhILzrl5Vs9zEhcFk1GZv27n697c%3D&ehkOptimized=AFf1rh2f9LOZhjyfVG55AA7VJs8p3UbY6OrWP9FqUxA%3D",
       "entrants": 2,
       "start_time": 1667261700
+    },
+    {
+      "slug": "tournament/snov-mondays-spooky-edition/event/melee-singles",
+      "tournament_name": "SNOV MONDAYS SPOOKY EDITION!!!",
+      "event_name": "melee singles",
+      "image": "https://images.start.gg/images/tournament/493300/image-32c8b26543c90154b502afc473f6808b.jpg?ehk=EVxCD%2FZ1CzXmSnwJ5%2Fpfau%2F8cF0e2P0a218nqx1iiMg%3D&ehkOptimized=pj0U6W97jqJuV0vYVV2nsxkz6NqMMkc0Z9elgqStuiE%3D",
+      "entrants": 0,
+      "start_time": 1667262900
     },
     {
       "slug": "tournament/spudfest-41/event/melee-singles",
@@ -254,7 +270,7 @@
       "tournament_name": "Only Noobs 91",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492725/image-3d4eda7c179bae7cba45483fdc860b68.jpg?ehk=VKoE2eXJEynQtTrSSN0Fcjeeq%2BCIznTKUh5qYw6Oua4%3D&ehkOptimized=gL%2FPqwpl11LItMrauuswdY0TGgPGIx6jyq3oP2Nf%2Bto%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1667516400
     },
     {
@@ -342,7 +358,7 @@
       "tournament_name": "The BIG Pink",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/492672/image-e59cad14eec8a33939c7d3b7dbf1f8ad.jpg?ehk=Ug%2FzytecnblTpI7NCFssNEth%2BnbO36iP%2BnWZ%2B6NBsUc%3D&ehkOptimized=2AJYP8G0yTIXMxUR%2F%2FcBZ4BDHvxGORbrUxLHiVKrTgY%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670716800
     },
     {
@@ -350,7 +366,7 @@
       "tournament_name": "The BIG Pink",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492672/image-e59cad14eec8a33939c7d3b7dbf1f8ad.jpg?ehk=Ug%2FzytecnblTpI7NCFssNEth%2BnbO36iP%2BnWZ%2B6NBsUc%3D&ehkOptimized=2AJYP8G0yTIXMxUR%2F%2FcBZ4BDHvxGORbrUxLHiVKrTgY%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1670731200
     }
   ]
