@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667127288,
+  "fetched_at": 1667128576,
   "data": [
     {
       "slug": "tournament/eli-s-weekly-low-tier-spanking-28/event/eli-s-weekly-low-tier-spanking-15",
@@ -88,6 +88,14 @@
       "image": "https://images.start.gg/images/tournament/492875/image-b0174a86cfcc6795790dc7f24e6b4850.png?ehk=qOWRTMllZcdM1qDTzJM9naBa8FVM2BwBn4iK1dnNkzQ%3D&ehkOptimized=36Yt62gAlGjqsqF%2FG0eMw1xIQvE%2FOk6NjDKsmC3zVSI%3D",
       "entrants": 1,
       "start_time": 1667176200
+    },
+    {
+      "slug": "tournament/monday-night-mixup-36/event/melee-singles",
+      "tournament_name": "Monday Night Mixup #36",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493211/image-ff60b1a4347a77bd8771c6d9a6404164.png?ehk=HAnM0iIanNp%2BURsklZ21UM3GNvlKkC%2B7BUFsQivAQNc%3D&ehkOptimized=mSXcbgNv2BPYQ%2BpY7ZoZb33lMIAJvDF0tRF%2F9h1fgR8%3D",
+      "entrants": 0,
+      "start_time": 1667242800
     },
     {
       "slug": "tournament/moose-halloween-special/event/sami-singles",
