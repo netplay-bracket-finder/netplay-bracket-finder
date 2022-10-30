@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667159489,
+  "fetched_at": 1667161259,
   "data": [
     {
       "slug": "tournament/melee-weekly-br-4/event/melee-singles",
       "tournament_name": "Melee Weekly BR #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493037/image-38a39be8a1ea2ef304169f8bb31a6356.png?ehk=BPnhVGB1QGG0rZUHAy%2FRpwnoCAbUZvaVCQRYVWDM5NQ%3D&ehkOptimized=P5QowffocdzlhjGv2X9dxRPWiNll1iDtTGaAtTAHaSw%3D",
-      "entrants": 9,
+      "entrants": 8,
       "start_time": 1667163600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "SCSS East Coast #92",
       "event_name": "SCSS Singles",
       "image": "https://images.start.gg/images/tournament/492876/image-184bf96c5e109c34686a931358c2ff45.png?ehk=xDstHpubC8K7u5xeoBpTGJBh5o%2BMbcsvs9XZaG7UVaI%3D&ehkOptimized=TBuf2gu21LNZ1%2FELlFCnttak8Tlr6xocl0XPxfkQSJg%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1667172600
     },
     {
