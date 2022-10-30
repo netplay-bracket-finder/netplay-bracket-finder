@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1667166726,
+  "fetched_at": 1667168356,
   "data": [
-    {
-      "slug": "tournament/bromomento-rel-mpago-2/event/melee-singles",
-      "tournament_name": "Bromomento relámpago #2",
-      "event_name": "Melee singles",
-      "image": "https://images.start.gg/images/tournament/489565/image-336a18423ec62bf9d5f75e47b41f4ebb.png?ehk=%2BZ4kCVB0ksGGUxbxsYUEALXHwns6evKyeki5tT%2F3ttY%3D&ehkOptimized=utqXr0GmJXgsjPN%2FYLw1M68n6Gt66eYEVNyRd%2BkdXnc%3D",
-      "entrants": 29,
-      "start_time": 1667167200
-    },
     {
       "slug": "tournament/kalvar-cup-67/event/melee-singles",
       "tournament_name": "Kalvar Cup #67",
@@ -22,7 +14,7 @@
       "tournament_name": "Return of Sizzling Sundays!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492898/image-02dcb9a0e939aadf058eecdce2155c49.png?ehk=nPHqcPPqhsRryxEXR0MP5A%2F3zoa0LMIzG%2F0wQ6CqX5k%3D&ehkOptimized=ksynZyeP46U6qG6TDbI5fjZTi6HA8hO%2FaxXH3%2B0HjkE%3D",
-      "entrants": 6,
+      "entrants": 10,
       "start_time": 1667172600
     },
     {
@@ -30,7 +22,7 @@
       "tournament_name": "SCSS East Coast #92",
       "event_name": "SCSS Singles",
       "image": "https://images.start.gg/images/tournament/492876/image-184bf96c5e109c34686a931358c2ff45.png?ehk=xDstHpubC8K7u5xeoBpTGJBh5o%2BMbcsvs9XZaG7UVaI%3D&ehkOptimized=TBuf2gu21LNZ1%2FELlFCnttak8Tlr6xocl0XPxfkQSJg%3D",
-      "entrants": 15,
+      "entrants": 23,
       "start_time": 1667172600
     },
     {
@@ -38,7 +30,7 @@
       "tournament_name": "No Melee On Sundays 15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493257/image-49b8cdecde40a11f20ecd093e453b73f.png?ehk=%2BQGXs5AwuzHtvU0dPR6tEB1vXcwicrT%2BI0gjKZXw15M%3D&ehkOptimized=aMqMymiMDSHDDhNelKseaCdj4IAI10cK71RMjzKmzgw%3D",
-      "entrants": 7,
+      "entrants": 10,
       "start_time": 1667174400
     },
     {
@@ -46,7 +38,7 @@
       "tournament_name": "SCSS West Coast #81",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492875/image-b0174a86cfcc6795790dc7f24e6b4850.png?ehk=qOWRTMllZcdM1qDTzJM9naBa8FVM2BwBn4iK1dnNkzQ%3D&ehkOptimized=36Yt62gAlGjqsqF%2FG0eMw1xIQvE%2FOk6NjDKsmC3zVSI%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1667176200
     },
     {
@@ -254,7 +246,7 @@
       "tournament_name": "From The Ashes #9",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492834/image-5873e443c8d1c2240888e88faf7d5b67.png?ehk=gxqsS5USzgZtpYmcm6JJpX5uHQIUbL7VztOmCIHDMWM%3D&ehkOptimized=uDlcxolIEOx7%2BkVzSZeK2S1b9glPVtOM1W7H3ibs6yQ%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667656800
     },
     {
