@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667169752,
+  "fetched_at": 1667170429,
   "data": [
     {
       "slug": "tournament/kalvar-cup-67/event/melee-singles",
       "tournament_name": "Kalvar Cup #67",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493295/image-fba1c074102bc8a4a7cf3ee9300b3e27.png?ehk=gZ6ULyMyAIS%2FyI0RikP5ATbo4SPp7q5xyDi6eASu0k8%3D&ehkOptimized=l4EiNnvpksKl%2Fs5WyaHNZkmw%2FEW0L33h3YTWmhwFbwg%3D",
-      "entrants": 9,
+      "entrants": 11,
       "start_time": 1667169000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "SCSS East Coast #92",
       "event_name": "SCSS Singles",
       "image": "https://images.start.gg/images/tournament/492876/image-184bf96c5e109c34686a931358c2ff45.png?ehk=xDstHpubC8K7u5xeoBpTGJBh5o%2BMbcsvs9XZaG7UVaI%3D&ehkOptimized=TBuf2gu21LNZ1%2FELlFCnttak8Tlr6xocl0XPxfkQSJg%3D",
-      "entrants": 28,
+      "entrants": 31,
       "start_time": 1667172600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "No Melee On Sundays 15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493257/image-49b8cdecde40a11f20ecd093e453b73f.png?ehk=%2BQGXs5AwuzHtvU0dPR6tEB1vXcwicrT%2BI0gjKZXw15M%3D&ehkOptimized=aMqMymiMDSHDDhNelKseaCdj4IAI10cK71RMjzKmzgw%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1667174400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "SCSS West Coast #81",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492875/image-b0174a86cfcc6795790dc7f24e6b4850.png?ehk=qOWRTMllZcdM1qDTzJM9naBa8FVM2BwBn4iK1dnNkzQ%3D&ehkOptimized=36Yt62gAlGjqsqF%2FG0eMw1xIQvE%2FOk6NjDKsmC3zVSI%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1667176200
     },
     {
@@ -270,7 +270,7 @@
       "tournament_name": "[$350] CG Melee Monthly - November 2022",
       "event_name": "West Coast",
       "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1667682000
     },
     {
