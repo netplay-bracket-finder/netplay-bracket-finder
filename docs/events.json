@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667115570,
+  "fetched_at": 1667116279,
   "data": [
     {
       "slug": "tournament/eli-s-weekly-low-tier-spanking-28/event/eli-s-weekly-low-tier-spanking-15",
@@ -210,19 +210,19 @@
       "start_time": 1667347200
     },
     {
-      "slug": "tournament/level-one-melee-50-a-noob-only-tournament/event/main-melee-singles",
+      "slug": "tournament/level-one-melee-50-a-noob-only-tournament/event/amateur-melee-singles",
       "tournament_name": "Level One Melee #50 - a noob-only tournament",
-      "event_name": "Main Melee Singles",
+      "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
       "entrants": 1,
       "start_time": 1667350800
     },
     {
-      "slug": "tournament/level-one-melee-50-a-noob-only-tournament/event/amateur-melee-singles",
+      "slug": "tournament/level-one-melee-50-a-noob-only-tournament/event/main-melee-singles",
       "tournament_name": "Level One Melee #50 - a noob-only tournament",
-      "event_name": "Amateur Melee Singles",
+      "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1667350800
     },
     {
