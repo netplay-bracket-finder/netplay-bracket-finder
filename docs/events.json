@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667249723,
+  "fetched_at": 1667251168,
   "data": [
     {
       "slug": "tournament/slippi-sauce-72/event/melee-singles",
       "tournament_name": "Slippi Sauce #72 🐸 🎃",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493428/image-ddb7f88173b3edef5345d8e7b5cd0965.png?ehk=mF32Yn2cZzskTPXzG0UJ%2FCOm4RrbxHHuwmO%2B6PskMjc%3D&ehkOptimized=kbejcPzY8G6dIELathzG5%2F0beB9fGk4ZParkiTn06O4%3D",
-      "entrants": 19,
+      "entrants": 25,
       "start_time": 1667253600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Pino's Tired of 0-2 #96!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/493656/image-2869a36d209fba4a50a1665c546b6b37.jpg?ehk=ARWt81pxz%2FHQ84b3tKSDN%2FLj2SRpscE13mjeDZrG5sw%3D&ehkOptimized=1PM19diu5TU0rQqmmhRmkCDykC7okOxImSnt7KUp4U0%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1667253600
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "The Playlist #18: Visions Of Bodies Being Burned",
       "event_name": "🎃 Halloween Bracket 🎃",
       "image": "https://images.start.gg/images/tournament/493583/image-b90db7f882428ed58cae0f35e7f6326e.png?ehk=xrmNmGESrgEMIZbPPW2yPPfoAOEIaVvhVvCLcmYZCag%3D&ehkOptimized=AESSQBnyS8oNfhLTmpgoYRwvUBN%2F4dUxk%2B%2F7BXdSjRY%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1667260800
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Spudfest 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491915/image-eec9acffed24ce285cf6b38da11d1886.jpg?ehk=d%2BOHgtkFtb8tGQ6kC6qbY%2FbeC0P8Lh7HpXusEclT%2FBw%3D&ehkOptimized=ihFBfCiEJ2oEI2HDPSZaerZcJZLhmsy%2FeVikRu4yVUQ%3D",
-      "entrants": 22,
+      "entrants": 24,
       "start_time": 1667264400
     },
     {
@@ -166,7 +166,7 @@
       "tournament_name": "Level One Melee #50 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1667350800
     },
     {
