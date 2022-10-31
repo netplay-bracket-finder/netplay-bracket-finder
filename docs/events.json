@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667244027,
+  "fetched_at": 1667245089,
   "data": [
     {
       "slug": "tournament/super-smash-bong-70/event/melee-singles",
       "tournament_name": "Super Smash Bong #70",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/493600/image-16b14f730707ba3320ae248e07bfa256.jpg?ehk=rXlwkusxwfPctRW31oVDIsnUrItbT9eUVgoujYv31wA%3D&ehkOptimized=saZ%2Fq2l%2BwqVqenh01OtjvZpMeqW1cz49Js27UZkuwD4%3D",
-      "entrants": 9,
+      "entrants": 11,
       "start_time": 1667246400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Slippi Sauce #72 🐸 🎃",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493428/image-ddb7f88173b3edef5345d8e7b5cd0965.png?ehk=mF32Yn2cZzskTPXzG0UJ%2FCOm4RrbxHHuwmO%2B6PskMjc%3D&ehkOptimized=kbejcPzY8G6dIELathzG5%2F0beB9fGk4ZParkiTn06O4%3D",
-      "entrants": 12,
+      "entrants": 14,
       "start_time": 1667253600
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Pino's Tired of 0-2 #96!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/493656/image-2869a36d209fba4a50a1665c546b6b37.jpg?ehk=ARWt81pxz%2FHQ84b3tKSDN%2FLj2SRpscE13mjeDZrG5sw%3D&ehkOptimized=1PM19diu5TU0rQqmmhRmkCDykC7okOxImSnt7KUp4U0%3D",
-      "entrants": 6,
+      "entrants": 10,
       "start_time": 1667253600
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "UFO BOO! 3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492509/image-84ced15bdccfcd3de1235fda1ba86ebb.png?ehk=Z1sXzkOPJ3p8GC%2Ba9GHrhvo4sci4Io3N87mOa6fk2QY%3D&ehkOptimized=6wNMohIKvKrDlyVmG5EC5d0%2F9%2F4h79KK5Qmntuz%2F%2B9A%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1667257200
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Spudfest 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491915/image-eec9acffed24ce285cf6b38da11d1886.jpg?ehk=d%2BOHgtkFtb8tGQ6kC6qbY%2FbeC0P8Lh7HpXusEclT%2FBw%3D&ehkOptimized=ihFBfCiEJ2oEI2HDPSZaerZcJZLhmsy%2FeVikRu4yVUQ%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1667264400
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "Costume Contest",
       "event_name": "Melee Singles - Secondaries Only",
       "image": "https://images.start.gg/images/tournament/492845/image-695ca1648f9eb14432d139a494c4a64f.png?ehk=lX4s5ecnBUKZgtp4O%2BYAWVNVO8ITV3bRrNGqpdj%2F9Zg%3D&ehkOptimized=eNvZSGZZqiaIVueE3IOxVc%2BOsHZzVJlYwgBxXMKYl4Q%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1667264400
     },
     {
@@ -162,17 +162,17 @@
       "start_time": 1667347200
     },
     {
-      "slug": "tournament/level-one-melee-50-a-noob-only-tournament/event/amateur-melee-singles",
-      "tournament_name": "Level One Melee #50 - a noob-only tournament",
-      "event_name": "Amateur Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
-      "entrants": 1,
-      "start_time": 1667350800
-    },
-    {
       "slug": "tournament/level-one-melee-50-a-noob-only-tournament/event/main-melee-singles",
       "tournament_name": "Level One Melee #50 - a noob-only tournament",
       "event_name": "Main Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
+      "entrants": 2,
+      "start_time": 1667350800
+    },
+    {
+      "slug": "tournament/level-one-melee-50-a-noob-only-tournament/event/amateur-melee-singles",
+      "tournament_name": "Level One Melee #50 - a noob-only tournament",
+      "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
       "entrants": 1,
       "start_time": 1667350800
@@ -238,7 +238,7 @@
       "tournament_name": "Only Noobs 91",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492725/image-3d4eda7c179bae7cba45483fdc860b68.jpg?ehk=VKoE2eXJEynQtTrSSN0Fcjeeq%2BCIznTKUh5qYw6Oua4%3D&ehkOptimized=gL%2FPqwpl11LItMrauuswdY0TGgPGIx6jyq3oP2Nf%2Bto%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1667516400
     },
     {
@@ -294,7 +294,7 @@
       "tournament_name": "salty.net/jas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
-      "entrants": 4,
+      "entrants": 7,
       "start_time": 1667764800
     },
     {
