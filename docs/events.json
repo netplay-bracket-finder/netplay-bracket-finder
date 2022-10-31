@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667247771,
+  "fetched_at": 1667249062,
   "data": [
     {
       "slug": "tournament/slippi-sauce-72/event/melee-singles",
       "tournament_name": "Slippi Sauce #72 🐸 🎃",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493428/image-ddb7f88173b3edef5345d8e7b5cd0965.png?ehk=mF32Yn2cZzskTPXzG0UJ%2FCOm4RrbxHHuwmO%2B6PskMjc%3D&ehkOptimized=kbejcPzY8G6dIELathzG5%2F0beB9fGk4ZParkiTn06O4%3D",
-      "entrants": 16,
+      "entrants": 18,
       "start_time": 1667253600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Pino's Tired of 0-2 #96!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/493656/image-2869a36d209fba4a50a1665c546b6b37.jpg?ehk=ARWt81pxz%2FHQ84b3tKSDN%2FLj2SRpscE13mjeDZrG5sw%3D&ehkOptimized=1PM19diu5TU0rQqmmhRmkCDykC7okOxImSnt7KUp4U0%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1667253600
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "UFO BOO! 3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492509/image-84ced15bdccfcd3de1235fda1ba86ebb.png?ehk=Z1sXzkOPJ3p8GC%2Ba9GHrhvo4sci4Io3N87mOa6fk2QY%3D&ehkOptimized=6wNMohIKvKrDlyVmG5EC5d0%2F9%2F4h79KK5Qmntuz%2F%2B9A%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1667257200
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Spudfest 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491915/image-eec9acffed24ce285cf6b38da11d1886.jpg?ehk=d%2BOHgtkFtb8tGQ6kC6qbY%2FbeC0P8Lh7HpXusEclT%2FBw%3D&ehkOptimized=ihFBfCiEJ2oEI2HDPSZaerZcJZLhmsy%2FeVikRu4yVUQ%3D",
-      "entrants": 19,
+      "entrants": 21,
       "start_time": 1667264400
     },
     {
@@ -118,7 +118,7 @@
       "tournament_name": "MNN#31",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491954/image-0c41971f6c85cb871bcc1de746898382.png?ehk=mC2OswXOF0vFOebVA9qrvSf1VFzqtFDpO0vpQZw5j%2B0%3D&ehkOptimized=jTv%2FY1DH6qN92xwkZYn%2FIxhGimICVMuHyw21rHPJdLM%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667271600
     },
     {
@@ -246,7 +246,7 @@
       "tournament_name": "From The Ashes #9",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492834/image-5873e443c8d1c2240888e88faf7d5b67.png?ehk=gxqsS5USzgZtpYmcm6JJpX5uHQIUbL7VztOmCIHDMWM%3D&ehkOptimized=uDlcxolIEOx7%2BkVzSZeK2S1b9glPVtOM1W7H3ibs6yQ%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1667656800
     },
     {
@@ -294,7 +294,7 @@
       "tournament_name": "salty.net/jas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1667764800
     },
     {
