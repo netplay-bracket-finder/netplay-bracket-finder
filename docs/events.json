@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667213204,
+  "fetched_at": 1667215112,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-36/event/melee-singles",
       "tournament_name": "Monday Night Mixup #36",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493211/image-ff60b1a4347a77bd8771c6d9a6404164.png?ehk=HAnM0iIanNp%2BURsklZ21UM3GNvlKkC%2B7BUFsQivAQNc%3D&ehkOptimized=mSXcbgNv2BPYQ%2BpY7ZoZb33lMIAJvDF0tRF%2F9h1fgR8%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1667242800
     },
     {
@@ -278,7 +278,7 @@
       "tournament_name": "LFSI Melee Tournament",
       "event_name": "LFSI Melee Tournament",
       "image": "",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668052800
     },
     {
