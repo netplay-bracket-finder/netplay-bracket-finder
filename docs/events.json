@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667253191,
+  "fetched_at": 1667254907,
   "data": [
     {
       "slug": "tournament/moose-halloween-special/event/sami-singles",
@@ -30,8 +30,16 @@
       "tournament_name": "Pino's Tired of 0-2 #96!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/493656/image-2869a36d209fba4a50a1665c546b6b37.jpg?ehk=ARWt81pxz%2FHQ84b3tKSDN%2FLj2SRpscE13mjeDZrG5sw%3D&ehkOptimized=1PM19diu5TU0rQqmmhRmkCDykC7okOxImSnt7KUp4U0%3D",
-      "entrants": 20,
+      "entrants": 24,
       "start_time": 1667253600
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-5/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 5",
+      "event_name": "EC Doubles",
+      "image": "https://images.start.gg/images/tournament/491774/image-da285f6f1f6679891b7162de9dceca18.png?ehk=J81AV1iydUXCbJHTY7w0IunJjoTWMYiXDeR%2B3zeS74w%3D&ehkOptimized=LgYHuBbpUTV3RBpQEm%2FVXpuFUVc9Lape1o9DYrGn%2FIs%3D",
+      "entrants": 5,
+      "start_time": 1667257200
     },
     {
       "slug": "tournament/coast-to-coast-doubles-5/event/wc-doubles",
@@ -42,19 +50,11 @@
       "start_time": 1667257200
     },
     {
-      "slug": "tournament/coast-to-coast-doubles-5/event/ec-doubles",
-      "tournament_name": "Coast to Coast Doubles # 5",
-      "event_name": "EC Doubles",
-      "image": "https://images.start.gg/images/tournament/491774/image-da285f6f1f6679891b7162de9dceca18.png?ehk=J81AV1iydUXCbJHTY7w0IunJjoTWMYiXDeR%2B3zeS74w%3D&ehkOptimized=LgYHuBbpUTV3RBpQEm%2FVXpuFUVc9Lape1o9DYrGn%2FIs%3D",
-      "entrants": 1,
-      "start_time": 1667257200
-    },
-    {
       "slug": "tournament/ufo-boo-3/event/melee-singles",
       "tournament_name": "UFO BOO! 3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492509/image-84ced15bdccfcd3de1235fda1ba86ebb.png?ehk=Z1sXzkOPJ3p8GC%2Ba9GHrhvo4sci4Io3N87mOa6fk2QY%3D&ehkOptimized=6wNMohIKvKrDlyVmG5EC5d0%2F9%2F4h79KK5Qmntuz%2F%2B9A%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1667257200
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "The Playlist #18: Visions Of Bodies Being Burned",
       "event_name": "🎃 Halloween Bracket 🎃",
       "image": "https://images.start.gg/images/tournament/493583/image-b90db7f882428ed58cae0f35e7f6326e.png?ehk=xrmNmGESrgEMIZbPPW2yPPfoAOEIaVvhVvCLcmYZCag%3D&ehkOptimized=AESSQBnyS8oNfhLTmpgoYRwvUBN%2F4dUxk%2B%2F7BXdSjRY%3D",
-      "entrants": 8,
+      "entrants": 11,
       "start_time": 1667260800
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "Spudfest 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491915/image-eec9acffed24ce285cf6b38da11d1886.jpg?ehk=d%2BOHgtkFtb8tGQ6kC6qbY%2FbeC0P8Lh7HpXusEclT%2FBw%3D&ehkOptimized=ihFBfCiEJ2oEI2HDPSZaerZcJZLhmsy%2FeVikRu4yVUQ%3D",
-      "entrants": 24,
+      "entrants": 27,
       "start_time": 1667264400
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Costume Contest",
       "event_name": "Melee Singles - Secondaries Only",
       "image": "https://images.start.gg/images/tournament/492845/image-695ca1648f9eb14432d139a494c4a64f.png?ehk=lX4s5ecnBUKZgtp4O%2BYAWVNVO8ITV3bRrNGqpdj%2F9Zg%3D&ehkOptimized=eNvZSGZZqiaIVueE3IOxVc%2BOsHZzVJlYwgBxXMKYl4Q%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1667264400
     },
     {
