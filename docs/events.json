@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1667245089,
+  "fetched_at": 1667245888,
   "data": [
-    {
-      "slug": "tournament/super-smash-bong-70/event/melee-singles",
-      "tournament_name": "Super Smash Bong #70",
-      "event_name": "Melee singles",
-      "image": "https://images.start.gg/images/tournament/493600/image-16b14f730707ba3320ae248e07bfa256.jpg?ehk=rXlwkusxwfPctRW31oVDIsnUrItbT9eUVgoujYv31wA%3D&ehkOptimized=saZ%2Fq2l%2BwqVqenh01OtjvZpMeqW1cz49Js27UZkuwD4%3D",
-      "entrants": 11,
-      "start_time": 1667246400
-    },
     {
       "slug": "tournament/slippi-sauce-72/event/melee-singles",
       "tournament_name": "Slippi Sauce #72 🐸 🎃",
@@ -96,6 +88,14 @@
       "image": "https://images.start.gg/images/tournament/493583/image-b90db7f882428ed58cae0f35e7f6326e.png?ehk=xrmNmGESrgEMIZbPPW2yPPfoAOEIaVvhVvCLcmYZCag%3D&ehkOptimized=AESSQBnyS8oNfhLTmpgoYRwvUBN%2F4dUxk%2B%2F7BXdSjRY%3D",
       "entrants": 4,
       "start_time": 1667260800
+    },
+    {
+      "slug": "tournament/snov-mondays-spooky-edition/event/melee-singles",
+      "tournament_name": "SNOV MONDAYS SPOOKY EDITION!!!",
+      "event_name": "melee singles",
+      "image": "https://images.start.gg/images/tournament/493300/image-32c8b26543c90154b502afc473f6808b.jpg?ehk=EVxCD%2FZ1CzXmSnwJ5%2Fpfau%2F8cF0e2P0a218nqx1iiMg%3D&ehkOptimized=pj0U6W97jqJuV0vYVV2nsxkz6NqMMkc0Z9elgqStuiE%3D",
+      "entrants": 0,
+      "start_time": 1667262900
     },
     {
       "slug": "tournament/spudfest-41/event/melee-singles",
