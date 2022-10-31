@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667174111,
+  "fetched_at": 1667182293,
   "data": [
     {
       "slug": "tournament/kalvar-cup-67/event/melee-singles",
@@ -10,20 +10,20 @@
       "start_time": 1667169000
     },
     {
-      "slug": "tournament/scss-west-coast-81/event/melee-singles",
-      "tournament_name": "SCSS West Coast #81",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/492875/image-b0174a86cfcc6795790dc7f24e6b4850.png?ehk=qOWRTMllZcdM1qDTzJM9naBa8FVM2BwBn4iK1dnNkzQ%3D&ehkOptimized=36Yt62gAlGjqsqF%2FG0eMw1xIQvE%2FOk6NjDKsmC3zVSI%3D",
-      "entrants": 13,
-      "start_time": 1667176200
-    },
-    {
       "slug": "tournament/monday-night-mixup-36/event/melee-singles",
       "tournament_name": "Monday Night Mixup #36",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493211/image-ff60b1a4347a77bd8771c6d9a6404164.png?ehk=HAnM0iIanNp%2BURsklZ21UM3GNvlKkC%2B7BUFsQivAQNc%3D&ehkOptimized=mSXcbgNv2BPYQ%2BpY7ZoZb33lMIAJvDF0tRF%2F9h1fgR8%3D",
       "entrants": 1,
       "start_time": 1667242800
+    },
+    {
+      "slug": "tournament/slippi-sauce-72/event/melee-singles",
+      "tournament_name": "Slippi Sauce #72 🐸 🎃",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493428/image-ddb7f88173b3edef5345d8e7b5cd0965.png?ehk=mF32Yn2cZzskTPXzG0UJ%2FCOm4RrbxHHuwmO%2B6PskMjc%3D&ehkOptimized=kbejcPzY8G6dIELathzG5%2F0beB9fGk4ZParkiTn06O4%3D",
+      "entrants": 5,
+      "start_time": 1667253600
     },
     {
       "slug": "tournament/moose-halloween-special/event/sami-singles",
@@ -102,7 +102,7 @@
       "tournament_name": "Spudfest 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491915/image-eec9acffed24ce285cf6b38da11d1886.jpg?ehk=d%2BOHgtkFtb8tGQ6kC6qbY%2FbeC0P8Lh7HpXusEclT%2FBw%3D&ehkOptimized=ihFBfCiEJ2oEI2HDPSZaerZcJZLhmsy%2FeVikRu4yVUQ%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1667264400
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "Costume Contest",
       "event_name": "Melee Singles - Secondaries Only",
       "image": "https://images.start.gg/images/tournament/492845/image-695ca1648f9eb14432d139a494c4a64f.png?ehk=lX4s5ecnBUKZgtp4O%2BYAWVNVO8ITV3bRrNGqpdj%2F9Zg%3D&ehkOptimized=eNvZSGZZqiaIVueE3IOxVc%2BOsHZzVJlYwgBxXMKYl4Q%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1667264400
     },
     {
@@ -134,6 +134,14 @@
       "tournament_name": "The JoGo Reset 3: Dubious Doubles",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492370/image-523afd33043b76be852967c3584a90ab.png?ehk=WhhV7k6KPYT8E%2FgGlPpKP%2F6QwGu5%2F2jlNodtQQFtdp4%3D&ehkOptimized=%2FhxUAXOWvddD5kX%2BooHUqcae10QbXVe1dr90GtOJea4%3D",
+      "entrants": 3,
+      "start_time": 1667347200
+    },
+    {
+      "slug": "tournament/the-jogo-reset-3-dubious-doubles/event/redemption-bracket",
+      "tournament_name": "The JoGo Reset 3: Dubious Doubles",
+      "event_name": "Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/492370/image-523afd33043b76be852967c3584a90ab.png?ehk=WhhV7k6KPYT8E%2FgGlPpKP%2F6QwGu5%2F2jlNodtQQFtdp4%3D&ehkOptimized=%2FhxUAXOWvddD5kX%2BooHUqcae10QbXVe1dr90GtOJea4%3D",
       "entrants": 2,
       "start_time": 1667347200
     },
@@ -141,14 +149,6 @@
       "slug": "tournament/the-jogo-reset-3-dubious-doubles/event/melee-doubles",
       "tournament_name": "The JoGo Reset 3: Dubious Doubles",
       "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/492370/image-523afd33043b76be852967c3584a90ab.png?ehk=WhhV7k6KPYT8E%2FgGlPpKP%2F6QwGu5%2F2jlNodtQQFtdp4%3D&ehkOptimized=%2FhxUAXOWvddD5kX%2BooHUqcae10QbXVe1dr90GtOJea4%3D",
-      "entrants": 1,
-      "start_time": 1667347200
-    },
-    {
-      "slug": "tournament/the-jogo-reset-3-dubious-doubles/event/redemption-bracket",
-      "tournament_name": "The JoGo Reset 3: Dubious Doubles",
-      "event_name": "Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/492370/image-523afd33043b76be852967c3584a90ab.png?ehk=WhhV7k6KPYT8E%2FgGlPpKP%2F6QwGu5%2F2jlNodtQQFtdp4%3D&ehkOptimized=%2FhxUAXOWvddD5kX%2BooHUqcae10QbXVe1dr90GtOJea4%3D",
       "entrants": 1,
       "start_time": 1667347200
@@ -250,6 +250,14 @@
       "start_time": 1667682000
     },
     {
+      "slug": "tournament/explosion-series-1/event/melee-singles",
+      "tournament_name": "Explosion Series 1",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493401/image-d7918a85bf0f0269d170d25ade2d088a.png?ehk=33VujcU9NRiteoxwfW9jyMNxoh5F4Jmuw687C9PqNMU%3D&ehkOptimized=2CHx%2BeHFjpvciaXaZ2XSj5tvOZxLHv4KI1HhCz15LaU%3D",
+      "entrants": null,
+      "start_time": 1667682000
+    },
+    {
       "slug": "tournament/woop-melee-51/event/melee-singles",
       "tournament_name": "Woop Melee! #51",
       "event_name": "Melee Singles",
@@ -328,6 +336,14 @@
       "image": "https://images.start.gg/images/tournament/492672/image-e59cad14eec8a33939c7d3b7dbf1f8ad.jpg?ehk=Ug%2FzytecnblTpI7NCFssNEth%2BnbO36iP%2BnWZ%2B6NBsUc%3D&ehkOptimized=2AJYP8G0yTIXMxUR%2F%2FcBZ4BDHvxGORbrUxLHiVKrTgY%3D",
       "entrants": 7,
       "start_time": 1670731200
+    },
+    {
+      "slug": "tournament/whispy-woods-superstar-circuit-qualifier-1/event/melee-singles",
+      "tournament_name": "Whispy Woods Superstar Circuit- Qualifier 1",
+      "event_name": "Melee Singles",
+      "image": "",
+      "entrants": 0,
+      "start_time": 1674946800
     }
   ]
 }
