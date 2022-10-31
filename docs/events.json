@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667224357,
+  "fetched_at": 1667226507,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-36/event/melee-singles",
       "tournament_name": "Monday Night Mixup #36",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493211/image-ff60b1a4347a77bd8771c6d9a6404164.png?ehk=HAnM0iIanNp%2BURsklZ21UM3GNvlKkC%2B7BUFsQivAQNc%3D&ehkOptimized=mSXcbgNv2BPYQ%2BpY7ZoZb33lMIAJvDF0tRF%2F9h1fgR8%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1667242800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Slippi Sauce #72 🐸 🎃",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493428/image-ddb7f88173b3edef5345d8e7b5cd0965.png?ehk=mF32Yn2cZzskTPXzG0UJ%2FCOm4RrbxHHuwmO%2B6PskMjc%3D&ehkOptimized=kbejcPzY8G6dIELathzG5%2F0beB9fGk4ZParkiTn06O4%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1667253600
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Spudfest 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491915/image-eec9acffed24ce285cf6b38da11d1886.jpg?ehk=d%2BOHgtkFtb8tGQ6kC6qbY%2FbeC0P8Lh7HpXusEclT%2FBw%3D&ehkOptimized=ihFBfCiEJ2oEI2HDPSZaerZcJZLhmsy%2FeVikRu4yVUQ%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1667264400
     },
     {
@@ -358,7 +358,7 @@
       "tournament_name": "Whispy Woods Superstar Circuit- Qualifier 1",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1674946800
     }
   ]
