@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667236775,
+  "fetched_at": 1667239117,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-36/event/melee-singles",
       "tournament_name": "Monday Night Mixup #36",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493211/image-ff60b1a4347a77bd8771c6d9a6404164.png?ehk=HAnM0iIanNp%2BURsklZ21UM3GNvlKkC%2B7BUFsQivAQNc%3D&ehkOptimized=mSXcbgNv2BPYQ%2BpY7ZoZb33lMIAJvDF0tRF%2F9h1fgR8%3D",
-      "entrants": 26,
+      "entrants": 33,
       "start_time": 1667242800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Super Smash Bong #70",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/493600/image-16b14f730707ba3320ae248e07bfa256.jpg?ehk=rXlwkusxwfPctRW31oVDIsnUrItbT9eUVgoujYv31wA%3D&ehkOptimized=saZ%2Fq2l%2BwqVqenh01OtjvZpMeqW1cz49Js27UZkuwD4%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1667246400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Slippi Sauce #72 🐸 🎃",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493428/image-ddb7f88173b3edef5345d8e7b5cd0965.png?ehk=mF32Yn2cZzskTPXzG0UJ%2FCOm4RrbxHHuwmO%2B6PskMjc%3D&ehkOptimized=kbejcPzY8G6dIELathzG5%2F0beB9fGk4ZParkiTn06O4%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1667253600
     },
     {
@@ -50,6 +50,14 @@
       "start_time": 1667268000
     },
     {
+      "slug": "tournament/pino-s-tired-of-0-2-96/event/tired-of-0-2",
+      "tournament_name": "Pino's Tired of 0-2 #96!",
+      "event_name": "Tired of 0-2?",
+      "image": "https://images.start.gg/images/tournament/493656/image-2869a36d209fba4a50a1665c546b6b37.jpg?ehk=ARWt81pxz%2FHQ84b3tKSDN%2FLj2SRpscE13mjeDZrG5sw%3D&ehkOptimized=1PM19diu5TU0rQqmmhRmkCDykC7okOxImSnt7KUp4U0%3D",
+      "entrants": 0,
+      "start_time": 1667253600
+    },
+    {
       "slug": "tournament/coast-to-coast-doubles-5/event/ec-doubles",
       "tournament_name": "Coast to Coast Doubles # 5",
       "event_name": "EC Doubles",
@@ -70,7 +78,7 @@
       "tournament_name": "UFO BOO! 3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492509/image-84ced15bdccfcd3de1235fda1ba86ebb.png?ehk=Z1sXzkOPJ3p8GC%2Ba9GHrhvo4sci4Io3N87mOa6fk2QY%3D&ehkOptimized=6wNMohIKvKrDlyVmG5EC5d0%2F9%2F4h79KK5Qmntuz%2F%2B9A%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667257200
     },
     {
@@ -94,7 +102,7 @@
       "tournament_name": "The Playlist #18: Visions Of Bodies Being Burned",
       "event_name": "🎃 Halloween Bracket 🎃",
       "image": "https://images.start.gg/images/tournament/493583/image-b90db7f882428ed58cae0f35e7f6326e.png?ehk=xrmNmGESrgEMIZbPPW2yPPfoAOEIaVvhVvCLcmYZCag%3D&ehkOptimized=AESSQBnyS8oNfhLTmpgoYRwvUBN%2F4dUxk%2B%2F7BXdSjRY%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1667260800
     },
     {
@@ -102,7 +110,7 @@
       "tournament_name": "Spudfest 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491915/image-eec9acffed24ce285cf6b38da11d1886.jpg?ehk=d%2BOHgtkFtb8tGQ6kC6qbY%2FbeC0P8Lh7HpXusEclT%2FBw%3D&ehkOptimized=ihFBfCiEJ2oEI2HDPSZaerZcJZLhmsy%2FeVikRu4yVUQ%3D",
-      "entrants": 13,
+      "entrants": 17,
       "start_time": 1667264400
     },
     {
@@ -110,7 +118,7 @@
       "tournament_name": "Costume Contest",
       "event_name": "Melee Singles - Secondaries Only",
       "image": "https://images.start.gg/images/tournament/492845/image-695ca1648f9eb14432d139a494c4a64f.png?ehk=lX4s5ecnBUKZgtp4O%2BYAWVNVO8ITV3bRrNGqpdj%2F9Zg%3D&ehkOptimized=eNvZSGZZqiaIVueE3IOxVc%2BOsHZzVJlYwgBxXMKYl4Q%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1667264400
     },
     {
@@ -176,6 +184,14 @@
       "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
       "entrants": 1,
       "start_time": 1667350800
+    },
+    {
+      "slug": "tournament/the-dairy-farm-7-1/event/melee-singles",
+      "tournament_name": "The Dairy Farm #7",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493651/image-1e7eb4d127b9cf4fb38417c73b504e9d.png?ehk=IGwJL6UnUvhdx7q%2B3w5DKObc5GvUmxK7kmfzUeVCauU%3D&ehkOptimized=qTopmBmT%2BUMTyVUbdgxS9iQUcDP1BF5Hq6h3E%2B6E0vs%3D",
+      "entrants": 0,
+      "start_time": 1667413800
     },
     {
       "slug": "tournament/waddle-wednesday-43/event/melee-singles",
@@ -314,6 +330,14 @@
       "start_time": 1668209400
     },
     {
+      "slug": "tournament/melee-legends-4/event/melee-singles",
+      "tournament_name": "Melee Legends 4",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493654/image-dfe6a476b4ae5c4ae7088aa229ed1e8c.png?ehk=gwlZOs6d7VIY1SW%2F9YppDMgHjquGIsFUq%2BJyQKm8oFg%3D&ehkOptimized=9lCtpWruIFKO7AXF7SiMwS1qAYKHbW%2FG%2Ft6kG5yltXY%3D",
+      "entrants": 0,
+      "start_time": 1668214800
+    },
+    {
       "slug": "tournament/the-battlefields-series-59-1/event/melee-singles",
       "tournament_name": "The Battlefields Series #59",
       "event_name": "Melee Singles",
@@ -374,7 +398,7 @@
       "tournament_name": "Whispy Woods Superstar Circuit- Qualifier 1",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1674946800
     }
   ]
