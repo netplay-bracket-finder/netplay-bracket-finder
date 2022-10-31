@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667216465,
+  "fetched_at": 1667217126,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-36/event/melee-singles",
@@ -142,6 +142,14 @@
       "tournament_name": "The JoGo Reset 3: Dubious Doubles",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/492370/image-523afd33043b76be852967c3584a90ab.png?ehk=WhhV7k6KPYT8E%2FgGlPpKP%2F6QwGu5%2F2jlNodtQQFtdp4%3D&ehkOptimized=%2FhxUAXOWvddD5kX%2BooHUqcae10QbXVe1dr90GtOJea4%3D",
+      "entrants": 1,
+      "start_time": 1667347200
+    },
+    {
+      "slug": "tournament/get-clipped-10/event/melee-singles",
+      "tournament_name": "Get Clipped!",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493532/image-8de879ceb755be1feded5f56f0eaf50a.jpg?ehk=Vs78iu%2FlPfe6o4rmbn8HrXTLcKZE4FrLyEVYsx%2FNk90%3D&ehkOptimized=WPZ%2BtmvhqwIpk%2FiSuOJsyTQTMYAfeq19uYRraIptp1M%3D",
       "entrants": 1,
       "start_time": 1667347200
     },
