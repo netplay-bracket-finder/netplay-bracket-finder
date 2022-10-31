@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667229725,
+  "fetched_at": 1667231169,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-36/event/melee-singles",
       "tournament_name": "Monday Night Mixup #36",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493211/image-ff60b1a4347a77bd8771c6d9a6404164.png?ehk=HAnM0iIanNp%2BURsklZ21UM3GNvlKkC%2B7BUFsQivAQNc%3D&ehkOptimized=mSXcbgNv2BPYQ%2BpY7ZoZb33lMIAJvDF0tRF%2F9h1fgR8%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1667242800
     },
     {
@@ -40,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/492798/image-1487977ab762e0e2becd70e4cc50511c.jpg?ehk=l9C5D7mkO1%2Bn7jC8UbzH8zxwuCJ6VAzUgEcU7ljxxYE%3D&ehkOptimized=s4aUHZX%2BUXjurHbbyCW6tMP8SM1dqyhSCJGGuS5jcmI%3D",
       "entrants": 0,
       "start_time": 1667268000
+    },
+    {
+      "slug": "tournament/super-smash-bong-70/event/melee-singles",
+      "tournament_name": "Super Smash Bong #70",
+      "event_name": "Melee singles",
+      "image": "https://images.start.gg/images/tournament/493600/image-16b14f730707ba3320ae248e07bfa256.jpg?ehk=rXlwkusxwfPctRW31oVDIsnUrItbT9eUVgoujYv31wA%3D&ehkOptimized=saZ%2Fq2l%2BwqVqenh01OtjvZpMeqW1cz49Js27UZkuwD4%3D",
+      "entrants": 0,
+      "start_time": 1667255460
     },
     {
       "slug": "tournament/coast-to-coast-doubles-5/event/wc-doubles",
@@ -78,7 +86,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear?",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492195/image-245c6fc200716c756703795ed300b7cc.jpg?ehk=f6I%2F4JbkCeUgPtzwhILzrl5Vs9zEhcFk1GZv27n697c%3D&ehkOptimized=AFf1rh2f9LOZhjyfVG55AA7VJs8p3UbY6OrWP9FqUxA%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1667261700
     },
     {
@@ -86,7 +94,7 @@
       "tournament_name": "The Playlist #18: Visions Of Bodies Being Burned",
       "event_name": "🎃 Halloween Bracket 🎃",
       "image": "https://images.start.gg/images/tournament/493583/image-b90db7f882428ed58cae0f35e7f6326e.png?ehk=xrmNmGESrgEMIZbPPW2yPPfoAOEIaVvhVvCLcmYZCag%3D&ehkOptimized=AESSQBnyS8oNfhLTmpgoYRwvUBN%2F4dUxk%2B%2F7BXdSjRY%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1667260800
     },
     {
@@ -110,7 +118,7 @@
       "tournament_name": "MNN#31",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491954/image-0c41971f6c85cb871bcc1de746898382.png?ehk=mC2OswXOF0vFOebVA9qrvSf1VFzqtFDpO0vpQZw5j%2B0%3D&ehkOptimized=jTv%2FY1DH6qN92xwkZYn%2FIxhGimICVMuHyw21rHPJdLM%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1667271600
     },
     {
