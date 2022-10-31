@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1667241325,
+  "fetched_at": 1667242633,
   "data": [
-    {
-      "slug": "tournament/monday-night-mixup-36/event/melee-singles",
-      "tournament_name": "Monday Night Mixup #36",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493211/image-ff60b1a4347a77bd8771c6d9a6404164.png?ehk=HAnM0iIanNp%2BURsklZ21UM3GNvlKkC%2B7BUFsQivAQNc%3D&ehkOptimized=mSXcbgNv2BPYQ%2BpY7ZoZb33lMIAJvDF0tRF%2F9h1fgR8%3D",
-      "entrants": 38,
-      "start_time": 1667242800
-    },
     {
       "slug": "tournament/super-smash-bong-70/event/melee-singles",
       "tournament_name": "Super Smash Bong #70",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/493600/image-16b14f730707ba3320ae248e07bfa256.jpg?ehk=rXlwkusxwfPctRW31oVDIsnUrItbT9eUVgoujYv31wA%3D&ehkOptimized=saZ%2Fq2l%2BwqVqenh01OtjvZpMeqW1cz49Js27UZkuwD4%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1667246400
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "Pino's Tired of 0-2 #96!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/493656/image-2869a36d209fba4a50a1665c546b6b37.jpg?ehk=ARWt81pxz%2FHQ84b3tKSDN%2FLj2SRpscE13mjeDZrG5sw%3D&ehkOptimized=1PM19diu5TU0rQqmmhRmkCDykC7okOxImSnt7KUp4U0%3D",
-      "entrants": 2,
+      "entrants": 5,
       "start_time": 1667253600
     },
     {
@@ -94,7 +86,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear?",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492195/image-245c6fc200716c756703795ed300b7cc.jpg?ehk=f6I%2F4JbkCeUgPtzwhILzrl5Vs9zEhcFk1GZv27n697c%3D&ehkOptimized=AFf1rh2f9LOZhjyfVG55AA7VJs8p3UbY6OrWP9FqUxA%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1667261700
     },
     {
@@ -110,7 +102,7 @@
       "tournament_name": "Spudfest 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491915/image-eec9acffed24ce285cf6b38da11d1886.jpg?ehk=d%2BOHgtkFtb8tGQ6kC6qbY%2FbeC0P8Lh7HpXusEclT%2FBw%3D&ehkOptimized=ihFBfCiEJ2oEI2HDPSZaerZcJZLhmsy%2FeVikRu4yVUQ%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1667264400
     },
     {
@@ -118,7 +110,7 @@
       "tournament_name": "Costume Contest",
       "event_name": "Melee Singles - Secondaries Only",
       "image": "https://images.start.gg/images/tournament/492845/image-695ca1648f9eb14432d139a494c4a64f.png?ehk=lX4s5ecnBUKZgtp4O%2BYAWVNVO8ITV3bRrNGqpdj%2F9Zg%3D&ehkOptimized=eNvZSGZZqiaIVueE3IOxVc%2BOsHZzVJlYwgBxXMKYl4Q%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1667264400
     },
     {
@@ -198,7 +190,7 @@
       "tournament_name": "Waddle Wednesday 43",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493498/image-ca598c7af533cb2592df62961759d2ef.png?ehk=pHgtlECDtUKbdiLb%2FrbaBlvOxUFeBzL9pYaz7pL9pt4%3D&ehkOptimized=JztNbxXyY5WfiXlaQkzpxuwvb65444JGW3IhExErRDs%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1667433600
     },
     {
