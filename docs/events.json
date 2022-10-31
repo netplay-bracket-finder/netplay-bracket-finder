@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667256270,
+  "fetched_at": 1667256934,
   "data": [
     {
       "slug": "tournament/moose-halloween-special/event/sami-singles",
@@ -26,19 +26,11 @@
       "start_time": 1667268000
     },
     {
-      "slug": "tournament/pino-s-tired-of-0-2-96/event/tired-of-0-2",
-      "tournament_name": "Pino's Tired of 0-2 #96!",
-      "event_name": "Tired of 0-2?",
-      "image": "https://images.start.gg/images/tournament/493656/image-2869a36d209fba4a50a1665c546b6b37.jpg?ehk=ARWt81pxz%2FHQ84b3tKSDN%2FLj2SRpscE13mjeDZrG5sw%3D&ehkOptimized=1PM19diu5TU0rQqmmhRmkCDykC7okOxImSnt7KUp4U0%3D",
-      "entrants": 24,
-      "start_time": 1667253600
-    },
-    {
       "slug": "tournament/coast-to-coast-doubles-5/event/ec-doubles",
       "tournament_name": "Coast to Coast Doubles # 5",
       "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/491774/image-da285f6f1f6679891b7162de9dceca18.png?ehk=J81AV1iydUXCbJHTY7w0IunJjoTWMYiXDeR%2B3zeS74w%3D&ehkOptimized=LgYHuBbpUTV3RBpQEm%2FVXpuFUVc9Lape1o9DYrGn%2FIs%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1667257200
     },
     {
@@ -50,27 +42,11 @@
       "start_time": 1667257200
     },
     {
-      "slug": "tournament/ufo-boo-3/event/melee-singles",
-      "tournament_name": "UFO BOO! 3",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/492509/image-84ced15bdccfcd3de1235fda1ba86ebb.png?ehk=Z1sXzkOPJ3p8GC%2Ba9GHrhvo4sci4Io3N87mOa6fk2QY%3D&ehkOptimized=6wNMohIKvKrDlyVmG5EC5d0%2F9%2F4h79KK5Qmntuz%2F%2B9A%3D",
-      "entrants": 19,
-      "start_time": 1667257200
-    },
-    {
-      "slug": "tournament/brunswick-brawl-online-4-melee-mendy-is-washed-edition/event/melee-singles",
-      "tournament_name": "Brunswick Brawl Online #4 MELEE (mendy is washed edition)",
-      "event_name": "Melee Singles",
-      "image": "",
-      "entrants": 2,
-      "start_time": 1667257200
-    },
-    {
       "slug": "tournament/have-you-dreamed-this-cardboard-bear/event/melee-singles",
       "tournament_name": "Have You Dreamed This Cardboard Bear?",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492195/image-245c6fc200716c756703795ed300b7cc.jpg?ehk=f6I%2F4JbkCeUgPtzwhILzrl5Vs9zEhcFk1GZv27n697c%3D&ehkOptimized=AFf1rh2f9LOZhjyfVG55AA7VJs8p3UbY6OrWP9FqUxA%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1667261700
     },
     {
@@ -94,7 +70,7 @@
       "tournament_name": "Spudfest 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491915/image-eec9acffed24ce285cf6b38da11d1886.jpg?ehk=d%2BOHgtkFtb8tGQ6kC6qbY%2FbeC0P8Lh7HpXusEclT%2FBw%3D&ehkOptimized=ihFBfCiEJ2oEI2HDPSZaerZcJZLhmsy%2FeVikRu4yVUQ%3D",
-      "entrants": 26,
+      "entrants": 27,
       "start_time": 1667264400
     },
     {
@@ -110,7 +86,7 @@
       "tournament_name": "MNN#31",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491954/image-0c41971f6c85cb871bcc1de746898382.png?ehk=mC2OswXOF0vFOebVA9qrvSf1VFzqtFDpO0vpQZw5j%2B0%3D&ehkOptimized=jTv%2FY1DH6qN92xwkZYn%2FIxhGimICVMuHyw21rHPJdLM%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1667271600
     },
     {
@@ -360,6 +336,46 @@
       "image": "https://images.start.gg/images/tournament/445064/image-9090e46dd0b8ea221dc95a263fd929b2.png?ehk=fuhW7%2F39EH%2BBU0i%2FAC7dd3uzpgADCjevuW8Fpn9nu5Q%3D&ehkOptimized=UXI5snn22Y83wgCnhVf2bw9vJaWLYS3yDdpzhRtvanY%3D",
       "entrants": 0,
       "start_time": 1669147200
+    },
+    {
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-coast-to-coast-items-on",
+      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
+      "event_name": "NA Coast-To-Coast Items-On",
+      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
+      "entrants": 0,
+      "start_time": 1669482000
+    },
+    {
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-east-melee-singles",
+      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
+      "event_name": "NA East Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
+      "entrants": 0,
+      "start_time": 1669482000
+    },
+    {
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-west-east-melee-doubles",
+      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
+      "event_name": "NA West & East Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
+      "entrants": 0,
+      "start_time": 1669482000
+    },
+    {
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-west-melee-singles",
+      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
+      "event_name": "NA West Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
+      "entrants": 0,
+      "start_time": 1669496400
+    },
+    {
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/eu-melee-singles",
+      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
+      "event_name": "EU Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
+      "entrants": 0,
+      "start_time": 1669550400
     },
     {
       "slug": "tournament/krampus-s-online-smashfest-1/event/melee-singles",
