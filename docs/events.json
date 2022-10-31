@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667256934,
+  "fetched_at": 1667258717,
   "data": [
     {
       "slug": "tournament/moose-halloween-special/event/sami-singles",
@@ -26,6 +26,14 @@
       "start_time": 1667268000
     },
     {
+      "slug": "tournament/ranked-is-here/event/ladder-match",
+      "tournament_name": "Ranked is Here",
+      "event_name": "Ladder Match",
+      "image": "https://images.start.gg/images/tournament/493771/image-b4cdca4c081b5d9ba9d18d17211d9176.png?ehk=QI7f5719goGFLbpgVSFCT5viLqzkzYjwagg6BtKnltE%3D&ehkOptimized=YE2sCelIfZ5i6dGi%2FZFBCEclNM%2BmM7hDOjJi7Cl6jD0%3D",
+      "entrants": 5,
+      "start_time": 1667256840
+    },
+    {
       "slug": "tournament/coast-to-coast-doubles-5/event/ec-doubles",
       "tournament_name": "Coast to Coast Doubles # 5",
       "event_name": "EC Doubles",
@@ -46,7 +54,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear?",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492195/image-245c6fc200716c756703795ed300b7cc.jpg?ehk=f6I%2F4JbkCeUgPtzwhILzrl5Vs9zEhcFk1GZv27n697c%3D&ehkOptimized=AFf1rh2f9LOZhjyfVG55AA7VJs8p3UbY6OrWP9FqUxA%3D",
-      "entrants": 10,
+      "entrants": 9,
       "start_time": 1667261700
     },
     {
@@ -70,7 +78,7 @@
       "tournament_name": "Spudfest 41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491915/image-eec9acffed24ce285cf6b38da11d1886.jpg?ehk=d%2BOHgtkFtb8tGQ6kC6qbY%2FbeC0P8Lh7HpXusEclT%2FBw%3D&ehkOptimized=ihFBfCiEJ2oEI2HDPSZaerZcJZLhmsy%2FeVikRu4yVUQ%3D",
-      "entrants": 27,
+      "entrants": 30,
       "start_time": 1667264400
     },
     {
@@ -78,7 +86,7 @@
       "tournament_name": "Costume Contest",
       "event_name": "Melee Singles - Secondaries Only",
       "image": "https://images.start.gg/images/tournament/492845/image-695ca1648f9eb14432d139a494c4a64f.png?ehk=lX4s5ecnBUKZgtp4O%2BYAWVNVO8ITV3bRrNGqpdj%2F9Zg%3D&ehkOptimized=eNvZSGZZqiaIVueE3IOxVc%2BOsHZzVJlYwgBxXMKYl4Q%3D",
-      "entrants": 21,
+      "entrants": 23,
       "start_time": 1667264400
     },
     {
@@ -86,7 +94,7 @@
       "tournament_name": "MNN#31",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491954/image-0c41971f6c85cb871bcc1de746898382.png?ehk=mC2OswXOF0vFOebVA9qrvSf1VFzqtFDpO0vpQZw5j%2B0%3D&ehkOptimized=jTv%2FY1DH6qN92xwkZYn%2FIxhGimICVMuHyw21rHPJdLM%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1667271600
     },
     {
@@ -134,7 +142,7 @@
       "tournament_name": "Level One Melee #50 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1667350800
     },
     {
@@ -262,7 +270,7 @@
       "tournament_name": "salty.net/jas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1667764800
     },
     {
