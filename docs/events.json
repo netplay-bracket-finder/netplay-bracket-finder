@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1667252533,
+  "fetched_at": 1667253191,
   "data": [
-    {
-      "slug": "tournament/slippi-sauce-72/event/melee-singles",
-      "tournament_name": "Slippi Sauce #72 🐸 🎃",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493428/image-ddb7f88173b3edef5345d8e7b5cd0965.png?ehk=mF32Yn2cZzskTPXzG0UJ%2FCOm4RrbxHHuwmO%2B6PskMjc%3D&ehkOptimized=kbejcPzY8G6dIELathzG5%2F0beB9fGk4ZParkiTn06O4%3D",
-      "entrants": 26,
-      "start_time": 1667253600
-    },
     {
       "slug": "tournament/moose-halloween-special/event/sami-singles",
       "tournament_name": "Moose Halloween Special!",
@@ -42,17 +34,17 @@
       "start_time": 1667253600
     },
     {
-      "slug": "tournament/coast-to-coast-doubles-5/event/ec-doubles",
-      "tournament_name": "Coast to Coast Doubles # 5",
-      "event_name": "EC Doubles",
-      "image": "https://images.start.gg/images/tournament/491774/image-da285f6f1f6679891b7162de9dceca18.png?ehk=J81AV1iydUXCbJHTY7w0IunJjoTWMYiXDeR%2B3zeS74w%3D&ehkOptimized=LgYHuBbpUTV3RBpQEm%2FVXpuFUVc9Lape1o9DYrGn%2FIs%3D",
-      "entrants": 1,
-      "start_time": 1667257200
-    },
-    {
       "slug": "tournament/coast-to-coast-doubles-5/event/wc-doubles",
       "tournament_name": "Coast to Coast Doubles # 5",
       "event_name": "WC Doubles",
+      "image": "https://images.start.gg/images/tournament/491774/image-da285f6f1f6679891b7162de9dceca18.png?ehk=J81AV1iydUXCbJHTY7w0IunJjoTWMYiXDeR%2B3zeS74w%3D&ehkOptimized=LgYHuBbpUTV3RBpQEm%2FVXpuFUVc9Lape1o9DYrGn%2FIs%3D",
+      "entrants": 2,
+      "start_time": 1667257200
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-5/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 5",
+      "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/491774/image-da285f6f1f6679891b7162de9dceca18.png?ehk=J81AV1iydUXCbJHTY7w0IunJjoTWMYiXDeR%2B3zeS74w%3D&ehkOptimized=LgYHuBbpUTV3RBpQEm%2FVXpuFUVc9Lape1o9DYrGn%2FIs%3D",
       "entrants": 1,
       "start_time": 1667257200
@@ -62,7 +54,7 @@
       "tournament_name": "UFO BOO! 3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492509/image-84ced15bdccfcd3de1235fda1ba86ebb.png?ehk=Z1sXzkOPJ3p8GC%2Ba9GHrhvo4sci4Io3N87mOa6fk2QY%3D&ehkOptimized=6wNMohIKvKrDlyVmG5EC5d0%2F9%2F4h79KK5Qmntuz%2F%2B9A%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1667257200
     },
     {
@@ -86,7 +78,7 @@
       "tournament_name": "The Playlist #18: Visions Of Bodies Being Burned",
       "event_name": "🎃 Halloween Bracket 🎃",
       "image": "https://images.start.gg/images/tournament/493583/image-b90db7f882428ed58cae0f35e7f6326e.png?ehk=xrmNmGESrgEMIZbPPW2yPPfoAOEIaVvhVvCLcmYZCag%3D&ehkOptimized=AESSQBnyS8oNfhLTmpgoYRwvUBN%2F4dUxk%2B%2F7BXdSjRY%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1667260800
     },
     {
@@ -238,7 +230,7 @@
       "tournament_name": "Only Noobs 91",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492725/image-3d4eda7c179bae7cba45483fdc860b68.jpg?ehk=VKoE2eXJEynQtTrSSN0Fcjeeq%2BCIznTKUh5qYw6Oua4%3D&ehkOptimized=gL%2FPqwpl11LItMrauuswdY0TGgPGIx6jyq3oP2Nf%2Bto%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1667516400
     },
     {
