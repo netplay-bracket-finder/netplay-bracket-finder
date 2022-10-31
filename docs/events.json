@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1667191976,
+  "fetched_at": 1667194487,
   "data": [
-    {
-      "slug": "tournament/kalvar-cup-67/event/melee-singles",
-      "tournament_name": "Kalvar Cup #67",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493295/image-fba1c074102bc8a4a7cf3ee9300b3e27.png?ehk=gZ6ULyMyAIS%2FyI0RikP5ATbo4SPp7q5xyDi6eASu0k8%3D&ehkOptimized=l4EiNnvpksKl%2Fs5WyaHNZkmw%2FEW0L33h3YTWmhwFbwg%3D",
-      "entrants": 11,
-      "start_time": 1667169000
-    },
     {
       "slug": "tournament/monday-night-mixup-36/event/melee-singles",
       "tournament_name": "Monday Night Mixup #36",
@@ -118,7 +110,7 @@
       "tournament_name": "MNN#31",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/491954/image-0c41971f6c85cb871bcc1de746898382.png?ehk=mC2OswXOF0vFOebVA9qrvSf1VFzqtFDpO0vpQZw5j%2B0%3D&ehkOptimized=jTv%2FY1DH6qN92xwkZYn%2FIxhGimICVMuHyw21rHPJdLM%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1667271600
     },
     {
@@ -170,6 +162,14 @@
       "start_time": 1667350800
     },
     {
+      "slug": "tournament/waddle-wednesday-43/event/melee-singles",
+      "tournament_name": "Waddle Wednesday 43",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493498/image-ca598c7af533cb2592df62961759d2ef.png?ehk=pHgtlECDtUKbdiLb%2FrbaBlvOxUFeBzL9pYaz7pL9pt4%3D&ehkOptimized=JztNbxXyY5WfiXlaQkzpxuwvb65444JGW3IhExErRDs%3D",
+      "entrants": 0,
+      "start_time": 1667433600
+    },
+    {
       "slug": "tournament/toblerone-tangerine-thursdays-37-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #37 (EU Event)",
       "event_name": "Melee Singles",
@@ -214,7 +214,7 @@
       "tournament_name": "Only Noobs 91",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492725/image-3d4eda7c179bae7cba45483fdc860b68.jpg?ehk=VKoE2eXJEynQtTrSSN0Fcjeeq%2BCIznTKUh5qYw6Oua4%3D&ehkOptimized=gL%2FPqwpl11LItMrauuswdY0TGgPGIx6jyq3oP2Nf%2Bto%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1667516400
     },
     {
