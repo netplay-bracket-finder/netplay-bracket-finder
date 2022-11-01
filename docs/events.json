@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667330546,
+  "fetched_at": 1667331528,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 28,
+      "entrants": 32,
       "start_time": 1667329200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1667329200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1667329200
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Cataquackdown 15: Powerful Pants",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494041/image-6fac16d1975759cb98d9201afa566777.png?ehk=NnC4pNdYfU%2Fo5u7BZfOa%2BhNt%2BkvRm7yISWcw5sTR1tw%3D&ehkOptimized=igfYrhePAUHc3O4KrTFlCxzq02lz0GKScuyK6FuCoM4%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1667347200
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "Level One Melee #50 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1667350800
     },
     {
@@ -118,7 +118,7 @@
       "tournament_name": "Level One Melee #50 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1667350800
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "Labrador Ladder (Test Power Hour)",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/493776/image-0e134dc63acf8c8abbe121783474cbcb.jpg?ehk=7eD3l36US%2BQ0jHXrlBUgb5LXJdMt469eEiZeTm9Z2C0%3D&ehkOptimized=%2BAvQpkAnno691KIRQck%2F6D7hI5R0%2FpUU0zbbCQ%2FKhA8%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1667430000
     },
     {
