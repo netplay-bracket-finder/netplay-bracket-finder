@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667314312,
+  "fetched_at": 1667316189,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/ladder-melee-west-coast",
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1667329200
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Sketchy Series 4: Drawn and Quartered",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492736/image-64f4b12584d942cfd6ed4f3c2b773b8d.png?ehk=pu%2FYjGEn9mLw6dqxdNj%2FfvAe7WHUCliZtII0D5RCpPs%3D&ehkOptimized=jelj%2Ft6JVYpawwyq9eAfyE3jZy%2FTl4NW%2Bry%2Fb%2F%2F32mo%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667343600
     },
     {
@@ -122,6 +122,14 @@
       "start_time": 1667430000
     },
     {
+      "slug": "tournament/cute-melee-week-7/event/melee-singles",
+      "tournament_name": "Cute Melee: Week 7",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493939/image-e80519c771f2fa1ec8b48e93be08ed4c.png?ehk=gQKHnVcnQi197MGusR8VTbHZhQp9osPFHS2ps6X1KdQ%3D&ehkOptimized=oJGkkXgAsPqGbMq0isnquYUQGx4i%2B0kIABFyjr2NRIw%3D",
+      "entrants": 0,
+      "start_time": 1667433600
+    },
+    {
       "slug": "tournament/waddle-wednesday-43/event/melee-singles",
       "tournament_name": "Waddle Wednesday 43",
       "event_name": "Melee Singles",
@@ -142,7 +150,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #37 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492572/image-a624251228c28ad12b54e639cc042c9c.png?ehk=whXmdFI8kJvIvaZE1%2FGNIuoYmnHtiLChD3dl5OR9cOE%3D&ehkOptimized=89VMt2bIFZW9bFKS8%2F3QKXLLVnSleMbJszUHoljinMA%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1667498400
     },
     {
