@@ -1,30 +1,6 @@
 {
-  "fetched_at": 1667276366,
+  "fetched_at": 1667280900,
   "data": [
-    {
-      "slug": "tournament/moose-halloween-special/event/sami-singles",
-      "tournament_name": "Moose Halloween Special!",
-      "event_name": "Sami Singles",
-      "image": "https://images.start.gg/images/tournament/492798/image-1487977ab762e0e2becd70e4cc50511c.jpg?ehk=l9C5D7mkO1%2Bn7jC8UbzH8zxwuCJ6VAzUgEcU7ljxxYE%3D&ehkOptimized=s4aUHZX%2BUXjurHbbyCW6tMP8SM1dqyhSCJGGuS5jcmI%3D",
-      "entrants": 2,
-      "start_time": 1667257200
-    },
-    {
-      "slug": "tournament/moose-halloween-special/event/melee-ladder",
-      "tournament_name": "Moose Halloween Special!",
-      "event_name": "Melee Ladder",
-      "image": "https://images.start.gg/images/tournament/492798/image-1487977ab762e0e2becd70e4cc50511c.jpg?ehk=l9C5D7mkO1%2Bn7jC8UbzH8zxwuCJ6VAzUgEcU7ljxxYE%3D&ehkOptimized=s4aUHZX%2BUXjurHbbyCW6tMP8SM1dqyhSCJGGuS5jcmI%3D",
-      "entrants": 2,
-      "start_time": 1667257260
-    },
-    {
-      "slug": "tournament/moose-halloween-special/event/melee-bracket",
-      "tournament_name": "Moose Halloween Special!",
-      "event_name": "Melee Bracket",
-      "image": "https://images.start.gg/images/tournament/492798/image-1487977ab762e0e2becd70e4cc50511c.jpg?ehk=l9C5D7mkO1%2Bn7jC8UbzH8zxwuCJ6VAzUgEcU7ljxxYE%3D&ehkOptimized=s4aUHZX%2BUXjurHbbyCW6tMP8SM1dqyhSCJGGuS5jcmI%3D",
-      "entrants": 0,
-      "start_time": 1667268000
-    },
     {
       "slug": "tournament/ranked-is-here/event/ladder-match",
       "tournament_name": "Ranked is Here",
@@ -86,7 +62,7 @@
       "tournament_name": "Level One Melee #50 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667350800
     },
     {
@@ -222,7 +198,7 @@
       "tournament_name": "salty.net/jas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1667764800
     },
     {
@@ -234,11 +210,27 @@
       "start_time": 1667865600
     },
     {
+      "slug": "tournament/coast-to-coast-doubles-6/event/wc-doubles",
+      "tournament_name": "Coast to Coast Doubles # 6",
+      "event_name": "WC Doubles",
+      "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
+      "entrants": 1,
+      "start_time": 1667865600
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-6/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 6",
+      "event_name": "EC Doubles",
+      "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
+      "entrants": 0,
+      "start_time": 1667865600
+    },
+    {
       "slug": "tournament/lfsi-melee-tournament/event/lfsi-melee-tournament",
       "tournament_name": "LFSI Melee Tournament",
       "event_name": "LFSI Melee Tournament",
       "image": "",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1668052800
     },
     {
@@ -326,7 +318,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669496400
     },
     {
