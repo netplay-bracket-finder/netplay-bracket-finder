@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1667285393,
+  "fetched_at": 1667287257,
   "data": [
-    {
-      "slug": "tournament/ranked-is-here/event/ladder-match",
-      "tournament_name": "Ranked is Here",
-      "event_name": "Ladder Match",
-      "image": "https://images.start.gg/images/tournament/493771/image-b4cdca4c081b5d9ba9d18d17211d9176.png?ehk=QI7f5719goGFLbpgVSFCT5viLqzkzYjwagg6BtKnltE%3D&ehkOptimized=YE2sCelIfZ5i6dGi%2FZFBCEclNM%2BmM7hDOjJi7Cl6jD0%3D",
-      "entrants": 21,
-      "start_time": 1667256840
-    },
     {
       "slug": "tournament/sketchy-series-4-drawn-and-quartered/event/melee-singles",
       "tournament_name": "Sketchy Series 4: Drawn and Quartered",
