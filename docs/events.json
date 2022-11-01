@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667322730,
+  "fetched_at": 1667324641,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/ladder-melee-west-coast",
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1667329200
     },
     {
@@ -54,8 +54,16 @@
       "tournament_name": "Sketchy Series 4: Drawn and Quartered",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492736/image-64f4b12584d942cfd6ed4f3c2b773b8d.png?ehk=pu%2FYjGEn9mLw6dqxdNj%2FfvAe7WHUCliZtII0D5RCpPs%3D&ehkOptimized=jelj%2Ft6JVYpawwyq9eAfyE3jZy%2FTl4NW%2Bry%2Fb%2F%2F32mo%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1667343600
+    },
+    {
+      "slug": "tournament/the-crossroads-40/event/melee-singles",
+      "tournament_name": "The Crossroads #40",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493993/image-7b0e69de4e38e6486c93abfd0d34700b.png?ehk=ORZgs0Dcra8yBSBoi5aHHcCuXu278lrVKYkonSq2374%3D&ehkOptimized=FlUJCLiP98znONFiFupRDb9JIzEgcVRQ8EWKmysTWog%3D",
+      "entrants": 5,
+      "start_time": 1667345400
     },
     {
       "slug": "tournament/the-jogo-reset-3-dubious-doubles/event/melee-singles",
@@ -102,7 +110,7 @@
       "tournament_name": "Level One Melee #50 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1667350800
     },
     {
@@ -288,6 +296,14 @@
       "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
       "entrants": 0,
       "start_time": 1667865600
+    },
+    {
+      "slug": "tournament/have-you-dreamed-this-cardboard-bear-2/event/melee-singles",
+      "tournament_name": "Have You Dreamed This Cardboard Bear? #2",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493990/image-c5c22ed048a8a816e5a6447b29b35b52.jpg?ehk=9whJAkjzqaEfzc9x1U0nT1JDfeI1DBKI9r0fcTvaIGo%3D&ehkOptimized=32Uw1OfOx%2Bx9uPlY8Z8BQF4LdbhaRPkfBkEdeoflapY%3D",
+      "entrants": 1,
+      "start_time": 1667870100
     },
     {
       "slug": "tournament/lfsi-melee-tournament/event/lfsi-melee-tournament",
