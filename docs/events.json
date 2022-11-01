@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667329130,
+  "fetched_at": 1667330546,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 12,
+      "entrants": 28,
       "start_time": 1667329200
     },
     {
@@ -22,7 +22,23 @@
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 4,
+      "entrants": 7,
+      "start_time": 1667329200
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/main-bracket-ec-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
+      "event_name": "Main Bracket: EC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
+      "entrants": 1,
+      "start_time": 1667329200
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/main-bracket-wc-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
+      "event_name": "Main Bracket: WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
+      "entrants": 1,
       "start_time": 1667329200
     },
     {
@@ -31,22 +47,6 @@
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
       "entrants": 1,
-      "start_time": 1667329200
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/main-bracket-ec-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
-      "event_name": "Main Bracket: EC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 0,
-      "start_time": 1667329200
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/main-bracket-wc-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
-      "event_name": "Main Bracket: WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 0,
       "start_time": 1667329200
     },
     {
@@ -98,11 +98,19 @@
       "start_time": 1667347200
     },
     {
+      "slug": "tournament/cataquackdown-15-powerful-pants/event/melee-singles",
+      "tournament_name": "Cataquackdown 15: Powerful Pants",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/494041/image-6fac16d1975759cb98d9201afa566777.png?ehk=NnC4pNdYfU%2Fo5u7BZfOa%2BhNt%2BkvRm7yISWcw5sTR1tw%3D&ehkOptimized=igfYrhePAUHc3O4KrTFlCxzq02lz0GKScuyK6FuCoM4%3D",
+      "entrants": 0,
+      "start_time": 1667347200
+    },
+    {
       "slug": "tournament/level-one-melee-50-a-noob-only-tournament/event/main-melee-singles",
       "tournament_name": "Level One Melee #50 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
-      "entrants": 10,
+      "entrants": 13,
       "start_time": 1667350800
     },
     {
@@ -110,7 +118,7 @@
       "tournament_name": "Level One Melee #50 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1667350800
     },
     {
