@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667269066,
+  "fetched_at": 1667276366,
   "data": [
     {
       "slug": "tournament/moose-halloween-special/event/sami-singles",
@@ -30,23 +30,15 @@
       "tournament_name": "Ranked is Here",
       "event_name": "Ladder Match",
       "image": "https://images.start.gg/images/tournament/493771/image-b4cdca4c081b5d9ba9d18d17211d9176.png?ehk=QI7f5719goGFLbpgVSFCT5viLqzkzYjwagg6BtKnltE%3D&ehkOptimized=YE2sCelIfZ5i6dGi%2FZFBCEclNM%2BmM7hDOjJi7Cl6jD0%3D",
-      "entrants": 15,
+      "entrants": 21,
       "start_time": 1667256840
-    },
-    {
-      "slug": "tournament/mnn-31/event/melee-singles",
-      "tournament_name": "MNN#31",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/491954/image-0c41971f6c85cb871bcc1de746898382.png?ehk=mC2OswXOF0vFOebVA9qrvSf1VFzqtFDpO0vpQZw5j%2B0%3D&ehkOptimized=jTv%2FY1DH6qN92xwkZYn%2FIxhGimICVMuHyw21rHPJdLM%3D",
-      "entrants": 22,
-      "start_time": 1667271600
     },
     {
       "slug": "tournament/sketchy-series-4-drawn-and-quartered/event/melee-singles",
       "tournament_name": "Sketchy Series 4: Drawn and Quartered",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492736/image-64f4b12584d942cfd6ed4f3c2b773b8d.png?ehk=pu%2FYjGEn9mLw6dqxdNj%2FfvAe7WHUCliZtII0D5RCpPs%3D&ehkOptimized=jelj%2Ft6JVYpawwyq9eAfyE3jZy%2FTl4NW%2Bry%2Fb%2F%2F32mo%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1667343600
     },
     {
@@ -86,7 +78,7 @@
       "tournament_name": "Level One Melee #50 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1667350800
     },
     {
@@ -111,6 +103,14 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493498/image-ca598c7af533cb2592df62961759d2ef.png?ehk=pHgtlECDtUKbdiLb%2FrbaBlvOxUFeBzL9pYaz7pL9pt4%3D&ehkOptimized=JztNbxXyY5WfiXlaQkzpxuwvb65444JGW3IhExErRDs%3D",
       "entrants": 2,
+      "start_time": 1667433600
+    },
+    {
+      "slug": "tournament/galaxy-gladiators-19-solar-circuit-qualifier/event/melee-singles",
+      "tournament_name": "Galaxy Gladiators #19 (Solar Circuit Qualifier)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493827/image-313539692ee44914a6dcd96207afdc64.png?ehk=ZSVqB79APmcKjWpWLNySpFtt2x%2FcCIgA5JaQ42bEZjs%3D&ehkOptimized=7vT%2FY69nokIsoqCuTA8ILr6vSBxWRWTPQwaZuAuAwA8%3D",
+      "entrants": 0,
       "start_time": 1667433600
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "Explosion Series 1: First Or Bust",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493401/image-d7918a85bf0f0269d170d25ade2d088a.png?ehk=33VujcU9NRiteoxwfW9jyMNxoh5F4Jmuw687C9PqNMU%3D&ehkOptimized=2CHx%2BeHFjpvciaXaZ2XSj5tvOZxLHv4KI1HhCz15LaU%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1667682000
     },
     {
@@ -222,7 +222,7 @@
       "tournament_name": "salty.net/jas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1667764800
     },
     {
@@ -302,7 +302,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1669482000
     },
     {
