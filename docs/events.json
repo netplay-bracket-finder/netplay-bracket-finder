@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667310535,
+  "fetched_at": 1667312881,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/ladder-melee-east-coast",
@@ -54,7 +54,7 @@
       "tournament_name": "Sketchy Series 4: Drawn and Quartered",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492736/image-64f4b12584d942cfd6ed4f3c2b773b8d.png?ehk=pu%2FYjGEn9mLw6dqxdNj%2FfvAe7WHUCliZtII0D5RCpPs%3D&ehkOptimized=jelj%2Ft6JVYpawwyq9eAfyE3jZy%2FTl4NW%2Bry%2Fb%2F%2F32mo%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1667343600
     },
     {
@@ -112,6 +112,14 @@
       "image": "https://images.start.gg/images/tournament/493651/image-1e7eb4d127b9cf4fb38417c73b504e9d.png?ehk=IGwJL6UnUvhdx7q%2B3w5DKObc5GvUmxK7kmfzUeVCauU%3D&ehkOptimized=qTopmBmT%2BUMTyVUbdgxS9iQUcDP1BF5Hq6h3E%2B6E0vs%3D",
       "entrants": 0,
       "start_time": 1667413800
+    },
+    {
+      "slug": "tournament/labrador-ladder-test-power-hour/event/melee-ladder",
+      "tournament_name": "Labrador Ladder (Test Power Hour)",
+      "event_name": "Melee Ladder",
+      "image": "https://images.start.gg/images/tournament/493776/image-0e134dc63acf8c8abbe121783474cbcb.jpg?ehk=7eD3l36US%2BQ0jHXrlBUgb5LXJdMt469eEiZeTm9Z2C0%3D&ehkOptimized=%2BAvQpkAnno691KIRQck%2F6D7hI5R0%2FpUU0zbbCQ%2FKhA8%3D",
+      "entrants": 2,
+      "start_time": 1667430000
     },
     {
       "slug": "tournament/waddle-wednesday-43/event/melee-singles",
