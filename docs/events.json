@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667335498,
+  "fetched_at": 1667336158,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 53,
+      "entrants": 54,
       "start_time": 1667329200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1667329200
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1667329200
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "The Crossroads #40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493993/image-7b0e69de4e38e6486c93abfd0d34700b.png?ehk=ORZgs0Dcra8yBSBoi5aHHcCuXu278lrVKYkonSq2374%3D&ehkOptimized=FlUJCLiP98znONFiFupRDb9JIzEgcVRQ8EWKmysTWog%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1667345400
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "Get Clipped!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493532/image-8de879ceb755be1feded5f56f0eaf50a.jpg?ehk=Vs78iu%2FlPfe6o4rmbn8HrXTLcKZE4FrLyEVYsx%2FNk90%3D&ehkOptimized=WPZ%2BtmvhqwIpk%2FiSuOJsyTQTMYAfeq19uYRraIptp1M%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1667347200
     },
     {
