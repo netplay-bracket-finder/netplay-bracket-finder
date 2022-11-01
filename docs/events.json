@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667334192,
+  "fetched_at": 1667335498,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 44,
+      "entrants": 53,
       "start_time": 1667329200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1667329200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1667329200
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Sketchy Series 4: Drawn and Quartered",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492736/image-64f4b12584d942cfd6ed4f3c2b773b8d.png?ehk=pu%2FYjGEn9mLw6dqxdNj%2FfvAe7WHUCliZtII0D5RCpPs%3D&ehkOptimized=jelj%2Ft6JVYpawwyq9eAfyE3jZy%2FTl4NW%2Bry%2Fb%2F%2F32mo%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1667343600
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "The Crossroads #40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493993/image-7b0e69de4e38e6486c93abfd0d34700b.png?ehk=ORZgs0Dcra8yBSBoi5aHHcCuXu278lrVKYkonSq2374%3D&ehkOptimized=FlUJCLiP98znONFiFupRDb9JIzEgcVRQ8EWKmysTWog%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1667345400
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "Get Clipped!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493532/image-8de879ceb755be1feded5f56f0eaf50a.jpg?ehk=Vs78iu%2FlPfe6o4rmbn8HrXTLcKZE4FrLyEVYsx%2FNk90%3D&ehkOptimized=WPZ%2BtmvhqwIpk%2FiSuOJsyTQTMYAfeq19uYRraIptp1M%3D",
-      "entrants": 6,
+      "entrants": 8,
       "start_time": 1667347200
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Cataquackdown 15: Powerful Pants",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494041/image-6fac16d1975759cb98d9201afa566777.png?ehk=NnC4pNdYfU%2Fo5u7BZfOa%2BhNt%2BkvRm7yISWcw5sTR1tw%3D&ehkOptimized=igfYrhePAUHc3O4KrTFlCxzq02lz0GKScuyK6FuCoM4%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1667347200
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "Level One Melee #50 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
-      "entrants": 17,
+      "entrants": 19,
       "start_time": 1667350800
     },
     {
@@ -280,6 +280,14 @@
       "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
       "entrants": 14,
       "start_time": 1667764800
+    },
+    {
+      "slug": "tournament/new-sizzling-sundays-2/event/melee-singles",
+      "tournament_name": "NEW Sizzling Sundays #2",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/494077/image-241598449668e1fa0808f5a04692032d.png?ehk=sSglrltzORX7pBA5ag45kXioUEE1Wts8CiJ7hNwgS2g%3D&ehkOptimized=bGeEkMicgMdPXrR5P9%2F2PKREE%2FKiiu%2BKsEr68HKq8Rs%3D",
+      "entrants": 0,
+      "start_time": 1667781000
     },
     {
       "slug": "tournament/woop-melee-51/event/melee-singles",
@@ -453,7 +461,7 @@
       "slug": "tournament/sizzling-sundays-beef-wellington-edition/event/melee-singles",
       "tournament_name": "Sizzling Sundays: Beef Wellington edition!",
       "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/494062/image-50858a470ce0ccaa6c424681f1c63bb9.png?ehk=c5D9t%2B%2Fe1OOT5ZY5CfyBt1HDQKThOg1NDDq4MY8b8%2BY%3D&ehkOptimized=LUYMEjZ8DJSC0Z1cLKyxpSNdnyYkv3WspF1NaaPjd8g%3D",
+      "image": "https://images.start.gg/images/tournament/494062/image-d49f5d852b020d5b51866dc344cb09d1.png?ehk=lmQcjP4hFmxZFVvZlbluJz3zJBPWCGDNxGRNOAmsiOk%3D&ehkOptimized=piYLetGX5IVNyK4fxCgbqyfRyJsHYb3vsfot6rxKAp8%3D",
       "entrants": 0,
       "start_time": 1673224200
     },
