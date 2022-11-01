@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667327613,
+  "fetched_at": 1667329130,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 9,
+      "entrants": 12,
       "start_time": 1667329200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1667329200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1667329200
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "The Crossroads #40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493993/image-7b0e69de4e38e6486c93abfd0d34700b.png?ehk=ORZgs0Dcra8yBSBoi5aHHcCuXu278lrVKYkonSq2374%3D&ehkOptimized=FlUJCLiP98znONFiFupRDb9JIzEgcVRQ8EWKmysTWog%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1667345400
     },
     {
@@ -294,6 +294,14 @@
       "tournament_name": "Coast to Coast Doubles # 6",
       "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
+      "entrants": 0,
+      "start_time": 1667865600
+    },
+    {
+      "slug": "tournament/moose-tracks-2/event/melee-ladder",
+      "tournament_name": "Moose Tracks 2",
+      "event_name": "Melee Ladder",
+      "image": "https://images.start.gg/images/tournament/494032/image-af92f9e8b99e009d67144715aef0fa79.jpg?ehk=sRXOVM%2BASc%2FUN3RWbnhJs0VdoECIIrP%2BS4QCVYhWlB0%3D&ehkOptimized=MYFoRyaLT7PeotoLBOx6IDClALcy9I0S8TWBbtV8DaI%3D",
       "entrants": 0,
       "start_time": 1667865600
     },
