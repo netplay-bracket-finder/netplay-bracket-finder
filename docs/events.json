@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667342914,
+  "fetched_at": 1667345014,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 70,
+      "entrants": 71,
       "start_time": 1667329200
     },
     {
@@ -14,23 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 39,
-      "start_time": 1667329200
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/main-bracket-ec-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
-      "event_name": "Main Bracket: EC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 19,
-      "start_time": 1667329200
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/side-event-ec-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
-      "event_name": "Side Event: EC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 13,
+      "entrants": 50,
       "start_time": 1667329200
     },
     {
@@ -38,7 +22,7 @@
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 10,
+      "entrants": 13,
       "start_time": 1667329200
     },
     {
@@ -46,24 +30,24 @@
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Main Bracket: WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1667329200
     },
     {
-      "slug": "tournament/the-crossroads-40/event/melee-singles",
-      "tournament_name": "The Crossroads #40",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493993/image-7b0e69de4e38e6486c93abfd0d34700b.png?ehk=ORZgs0Dcra8yBSBoi5aHHcCuXu278lrVKYkonSq2374%3D&ehkOptimized=FlUJCLiP98znONFiFupRDb9JIzEgcVRQ8EWKmysTWog%3D",
-      "entrants": 19,
+      "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/main-bracket-ec-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
+      "event_name": "Main Bracket: EC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
+      "entrants": 23,
       "start_time": 1667345400
     },
     {
-      "slug": "tournament/the-jogo-reset-3-dubious-doubles/event/melee-singles",
-      "tournament_name": "The JoGo Reset 3: Dubious Doubles",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/492370/image-523afd33043b76be852967c3584a90ab.png?ehk=WhhV7k6KPYT8E%2FgGlPpKP%2F6QwGu5%2F2jlNodtQQFtdp4%3D&ehkOptimized=%2FhxUAXOWvddD5kX%2BooHUqcae10QbXVe1dr90GtOJea4%3D",
-      "entrants": 16,
-      "start_time": 1667347200
+      "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/side-event-ec-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
+      "event_name": "Side Event: EC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
+      "entrants": 13,
+      "start_time": 1667345400
     },
     {
       "slug": "tournament/the-jogo-reset-3-dubious-doubles/event/redemption-bracket",
@@ -78,15 +62,23 @@
       "tournament_name": "The JoGo Reset 3: Dubious Doubles",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/492370/image-523afd33043b76be852967c3584a90ab.png?ehk=WhhV7k6KPYT8E%2FgGlPpKP%2F6QwGu5%2F2jlNodtQQFtdp4%3D&ehkOptimized=%2FhxUAXOWvddD5kX%2BooHUqcae10QbXVe1dr90GtOJea4%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1667347200
+    },
+    {
+      "slug": "tournament/the-jogo-reset-3-dubious-doubles/event/melee-singles",
+      "tournament_name": "The JoGo Reset 3: Dubious Doubles",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/492370/image-523afd33043b76be852967c3584a90ab.png?ehk=WhhV7k6KPYT8E%2FgGlPpKP%2F6QwGu5%2F2jlNodtQQFtdp4%3D&ehkOptimized=%2FhxUAXOWvddD5kX%2BooHUqcae10QbXVe1dr90GtOJea4%3D",
+      "entrants": 17,
+      "start_time": 1667350800
     },
     {
       "slug": "tournament/get-clipped-10/event/melee-singles",
       "tournament_name": "Get Clipped!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493532/image-8de879ceb755be1feded5f56f0eaf50a.jpg?ehk=Vs78iu%2FlPfe6o4rmbn8HrXTLcKZE4FrLyEVYsx%2FNk90%3D&ehkOptimized=WPZ%2BtmvhqwIpk%2FiSuOJsyTQTMYAfeq19uYRraIptp1M%3D",
-      "entrants": 16,
+      "entrants": 24,
       "start_time": 1667347200
     },
     {
@@ -94,7 +86,7 @@
       "tournament_name": "Cataquackdown 15: Powerful Pants",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494041/image-6fac16d1975759cb98d9201afa566777.png?ehk=NnC4pNdYfU%2Fo5u7BZfOa%2BhNt%2BkvRm7yISWcw5sTR1tw%3D&ehkOptimized=igfYrhePAUHc3O4KrTFlCxzq02lz0GKScuyK6FuCoM4%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1667347200
     },
     {
@@ -102,7 +94,7 @@
       "tournament_name": "Level One Melee #50 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/493101/image-f3c267096473546c179977f28a96d55d.png?ehk=MPxMz5DBZmcz6D40FohzqN3nB9sRasNbRBnvFAwuYNU%3D&ehkOptimized=ZOyniTUumJdodHnrzOsSIZLFsEunzbnR6gOUj2oTit4%3D",
-      "entrants": 24,
+      "entrants": 31,
       "start_time": 1667350800
     },
     {
@@ -336,6 +328,14 @@
       "image": "https://images.start.gg/images/tournament/493990/image-c5c22ed048a8a816e5a6447b29b35b52.jpg?ehk=9whJAkjzqaEfzc9x1U0nT1JDfeI1DBKI9r0fcTvaIGo%3D&ehkOptimized=32Uw1OfOx%2Bx9uPlY8Z8BQF4LdbhaRPkfBkEdeoflapY%3D",
       "entrants": 1,
       "start_time": 1667870100
+    },
+    {
+      "slug": "tournament/daggetbeaves-thanks-giving-rumble/event/ssbm",
+      "tournament_name": "Daggetbeaves Thanks giving rumble",
+      "event_name": "SSBM",
+      "image": "https://images.start.gg/images/tournament/493063/image-497b37bf44e83ed42c4fe1a09995cf9c.jpg?ehk=IwmS8QpsbMG%2BGxJkTDsYvcpj32Jnp9nrHCaugDABtsc%3D&ehkOptimized=fP7qU4EzcW0NxdE1OBpqDOYPqyQkKbU8KlzhPZ%2FX%2BO4%3D",
+      "entrants": 0,
+      "start_time": 1667934000
     },
     {
       "slug": "tournament/lfsi-melee-tournament/event/lfsi-melee-tournament",
