@@ -1,12 +1,20 @@
 {
-  "fetched_at": 1667317644,
+  "fetched_at": 1667320338,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/ladder-melee-west-coast",
       "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 2,
+      "entrants": 4,
+      "start_time": 1667329200
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
+      "entrants": 1,
       "start_time": 1667329200
     },
     {
@@ -42,28 +50,12 @@
       "start_time": 1667329200
     },
     {
-      "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #101 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/493872/image-4f6864eead42f7d616794ce6a0c17153.png?ehk=DQAoP%2F9JXPmwyGSEhFUhSSA8FRA9crfPpe9uRyEaVTg%3D&ehkOptimized=WfaZayw7I%2BnEDf6jATMGYG6AmLaKGkePLDFxrKQgpD8%3D",
-      "entrants": 0,
-      "start_time": 1667329200
-    },
-    {
       "slug": "tournament/sketchy-series-4-drawn-and-quartered/event/melee-singles",
       "tournament_name": "Sketchy Series 4: Drawn and Quartered",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492736/image-64f4b12584d942cfd6ed4f3c2b773b8d.png?ehk=pu%2FYjGEn9mLw6dqxdNj%2FfvAe7WHUCliZtII0D5RCpPs%3D&ehkOptimized=jelj%2Ft6JVYpawwyq9eAfyE3jZy%2FTl4NW%2Bry%2Fb%2F%2F32mo%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1667343600
-    },
-    {
-      "slug": "tournament/get-clipped-10/event/melee-singles",
-      "tournament_name": "Get Clipped!",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493532/image-8de879ceb755be1feded5f56f0eaf50a.jpg?ehk=Vs78iu%2FlPfe6o4rmbn8HrXTLcKZE4FrLyEVYsx%2FNk90%3D&ehkOptimized=WPZ%2BtmvhqwIpk%2FiSuOJsyTQTMYAfeq19uYRraIptp1M%3D",
-      "entrants": 2,
-      "start_time": 1667347200
     },
     {
       "slug": "tournament/the-jogo-reset-3-dubious-doubles/event/melee-singles",
@@ -87,6 +79,14 @@
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/492370/image-523afd33043b76be852967c3584a90ab.png?ehk=WhhV7k6KPYT8E%2FgGlPpKP%2F6QwGu5%2F2jlNodtQQFtdp4%3D&ehkOptimized=%2FhxUAXOWvddD5kX%2BooHUqcae10QbXVe1dr90GtOJea4%3D",
       "entrants": 1,
+      "start_time": 1667347200
+    },
+    {
+      "slug": "tournament/get-clipped-10/event/melee-singles",
+      "tournament_name": "Get Clipped!",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493532/image-8de879ceb755be1feded5f56f0eaf50a.jpg?ehk=Vs78iu%2FlPfe6o4rmbn8HrXTLcKZE4FrLyEVYsx%2FNk90%3D&ehkOptimized=WPZ%2BtmvhqwIpk%2FiSuOJsyTQTMYAfeq19uYRraIptp1M%3D",
+      "entrants": 3,
       "start_time": 1667347200
     },
     {
@@ -118,7 +118,7 @@
       "tournament_name": "Labrador Ladder (Test Power Hour)",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/493776/image-0e134dc63acf8c8abbe121783474cbcb.jpg?ehk=7eD3l36US%2BQ0jHXrlBUgb5LXJdMt469eEiZeTm9Z2C0%3D&ehkOptimized=%2BAvQpkAnno691KIRQck%2F6D7hI5R0%2FpUU0zbbCQ%2FKhA8%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667430000
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "Cute Melee: Week 7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493939/image-e80519c771f2fa1ec8b48e93be08ed4c.png?ehk=gQKHnVcnQi197MGusR8VTbHZhQp9osPFHS2ps6X1KdQ%3D&ehkOptimized=oJGkkXgAsPqGbMq0isnquYUQGx4i%2B0kIABFyjr2NRIw%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1667433600
     },
     {
@@ -190,7 +190,7 @@
       "tournament_name": "Only Noobs 91",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492725/image-3d4eda7c179bae7cba45483fdc860b68.jpg?ehk=VKoE2eXJEynQtTrSSN0Fcjeeq%2BCIznTKUh5qYw6Oua4%3D&ehkOptimized=gL%2FPqwpl11LItMrauuswdY0TGgPGIx6jyq3oP2Nf%2Bto%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1667516400
     },
     {
@@ -232,6 +232,14 @@
       "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
       "entrants": 2,
       "start_time": 1667682000
+    },
+    {
+      "slug": "tournament/after-dark-melee-3/event/after-dark-singles",
+      "tournament_name": "After Dark Melee #3",
+      "event_name": "After Dark Singles",
+      "image": "https://images.start.gg/images/tournament/493268/image-4f10538829c50fe387122cab0be68d31.png?ehk=sGpJuQxbAf5Ln2zarUZ%2BTmn2rEoczTaR1Gbl85WXF9Y%3D&ehkOptimized=Hc1d2p%2B2K0MHvkpVXuB%2BwHFT04zxbE5sCF3qm03jucg%3D",
+      "entrants": 0,
+      "start_time": 1667679300
     },
     {
       "slug": "tournament/explosion-series-1-first-or-bust/event/melee-singles",
@@ -350,7 +358,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 7,
+      "entrants": 9,
       "start_time": 1669482000
     },
     {
