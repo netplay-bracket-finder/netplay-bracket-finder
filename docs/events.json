@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667418686,
+  "fetched_at": 1667420402,
   "data": [
     {
       "slug": "tournament/labrador-ladder-test-power-hour/event/melee-ladder",
       "tournament_name": "Labrador Ladder (Test Power Hour)",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/493776/image-0e134dc63acf8c8abbe121783474cbcb.jpg?ehk=7eD3l36US%2BQ0jHXrlBUgb5LXJdMt469eEiZeTm9Z2C0%3D&ehkOptimized=%2BAvQpkAnno691KIRQck%2F6D7hI5R0%2FpUU0zbbCQ%2FKhA8%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1667430000
     },
     {
@@ -14,7 +14,15 @@
       "tournament_name": "Cute Melee: Week 7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493939/image-e80519c771f2fa1ec8b48e93be08ed4c.png?ehk=gQKHnVcnQi197MGusR8VTbHZhQp9osPFHS2ps6X1KdQ%3D&ehkOptimized=oJGkkXgAsPqGbMq0isnquYUQGx4i%2B0kIABFyjr2NRIw%3D",
-      "entrants": 8,
+      "entrants": 9,
+      "start_time": 1667433600
+    },
+    {
+      "slug": "tournament/waddle-wednesday-43/event/melee-singles",
+      "tournament_name": "Waddle Wednesday 43",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493498/image-ca598c7af533cb2592df62961759d2ef.png?ehk=pHgtlECDtUKbdiLb%2FrbaBlvOxUFeBzL9pYaz7pL9pt4%3D&ehkOptimized=JztNbxXyY5WfiXlaQkzpxuwvb65444JGW3IhExErRDs%3D",
+      "entrants": 24,
       "start_time": 1667433600
     },
     {
@@ -26,19 +34,11 @@
       "start_time": 1667433600
     },
     {
-      "slug": "tournament/waddle-wednesday-43/event/melee-singles",
-      "tournament_name": "Waddle Wednesday 43",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493498/image-ca598c7af533cb2592df62961759d2ef.png?ehk=pHgtlECDtUKbdiLb%2FrbaBlvOxUFeBzL9pYaz7pL9pt4%3D&ehkOptimized=JztNbxXyY5WfiXlaQkzpxuwvb65444JGW3IhExErRDs%3D",
-      "entrants": 19,
-      "start_time": 1667433600
-    },
-    {
       "slug": "tournament/silver-slippi-league-29/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #29",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/494270/image-f5b6b2a9f0b78aed313dc093161b7941.png?ehk=W%2FIeJQ7StJLWsW6LjpxMEzppfn21HlDX5AxmuoMiY2E%3D&ehkOptimized=8ZnvlN7L%2B%2BYDWqR5vCoNzwoLxnYmYoBNJEKXmiAwaRk%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1667437200
     },
     {
