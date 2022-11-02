@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667368473,
+  "fetched_at": 1667370608,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-101-lite-edition/event/ladder-melee-east-coast",
@@ -54,7 +54,7 @@
       "tournament_name": "The Dairy Farm #7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493651/image-1e7eb4d127b9cf4fb38417c73b504e9d.png?ehk=IGwJL6UnUvhdx7q%2B3w5DKObc5GvUmxK7kmfzUeVCauU%3D&ehkOptimized=qTopmBmT%2BUMTyVUbdgxS9iQUcDP1BF5Hq6h3E%2B6E0vs%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1667413800
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Waddle Wednesday 43",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493498/image-ca598c7af533cb2592df62961759d2ef.png?ehk=pHgtlECDtUKbdiLb%2FrbaBlvOxUFeBzL9pYaz7pL9pt4%3D&ehkOptimized=JztNbxXyY5WfiXlaQkzpxuwvb65444JGW3IhExErRDs%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667433600
     },
     {
@@ -198,7 +198,7 @@
       "tournament_name": "[$350] CG Melee Monthly - November 2022",
       "event_name": "West Coast",
       "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1667682000
     },
     {
@@ -288,6 +288,14 @@
       "image": "https://images.start.gg/images/tournament/493063/image-497b37bf44e83ed42c4fe1a09995cf9c.jpg?ehk=IwmS8QpsbMG%2BGxJkTDsYvcpj32Jnp9nrHCaugDABtsc%3D&ehkOptimized=fP7qU4EzcW0NxdE1OBpqDOYPqyQkKbU8KlzhPZ%2FX%2BO4%3D",
       "entrants": 0,
       "start_time": 1667934000
+    },
+    {
+      "slug": "tournament/sketchy-series-5/event/melee-singles",
+      "tournament_name": "Sketchy Series 5",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/494238/image-a7bf4bf37a538999d5c9d9de98cf614e.png?ehk=IfuGjY4PYSwW7rurIlOMBLI3H186Bv8oSSuwl5WYN6c%3D&ehkOptimized=weKIMqza7BzGQG6SIpkQeFEJSCvVz6aCRl%2F2xS0eVyA%3D",
+      "entrants": 0,
+      "start_time": 1667952000
     },
     {
       "slug": "tournament/lfsi-melee-tournament/event/lfsi-melee-tournament",
