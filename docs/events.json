@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667404002,
+  "fetched_at": 1667406709,
   "data": [
     {
       "slug": "tournament/the-dairy-farm-7-1/event/melee-singles",
       "tournament_name": "The Dairy Farm #7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493651/image-1e7eb4d127b9cf4fb38417c73b504e9d.png?ehk=IGwJL6UnUvhdx7q%2B3w5DKObc5GvUmxK7kmfzUeVCauU%3D&ehkOptimized=qTopmBmT%2BUMTyVUbdgxS9iQUcDP1BF5Hq6h3E%2B6E0vs%3D",
-      "entrants": 5,
+      "entrants": 8,
       "start_time": 1667413800
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Silver Slippi League #29",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/494270/image-f5b6b2a9f0b78aed313dc093161b7941.png?ehk=W%2FIeJQ7StJLWsW6LjpxMEzppfn21HlDX5AxmuoMiY2E%3D&ehkOptimized=8ZnvlN7L%2B%2BYDWqR5vCoNzwoLxnYmYoBNJEKXmiAwaRk%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1667437200
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #37 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492572/image-a624251228c28ad12b54e639cc042c9c.png?ehk=whXmdFI8kJvIvaZE1%2FGNIuoYmnHtiLChD3dl5OR9cOE%3D&ehkOptimized=89VMt2bIFZW9bFKS8%2F3QKXLLVnSleMbJszUHoljinMA%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1667498400
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "From The Ashes #9",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492834/image-5873e443c8d1c2240888e88faf7d5b67.png?ehk=gxqsS5USzgZtpYmcm6JJpX5uHQIUbL7VztOmCIHDMWM%3D&ehkOptimized=uDlcxolIEOx7%2BkVzSZeK2S1b9glPVtOM1W7H3ibs6yQ%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1667656800
     },
     {
