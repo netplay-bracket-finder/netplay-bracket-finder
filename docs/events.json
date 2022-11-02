@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667409466,
+  "fetched_at": 1667411747,
   "data": [
     {
       "slug": "tournament/the-dairy-farm-7-1/event/melee-singles",
       "tournament_name": "The Dairy Farm #7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493651/image-1e7eb4d127b9cf4fb38417c73b504e9d.png?ehk=IGwJL6UnUvhdx7q%2B3w5DKObc5GvUmxK7kmfzUeVCauU%3D&ehkOptimized=qTopmBmT%2BUMTyVUbdgxS9iQUcDP1BF5Hq6h3E%2B6E0vs%3D",
-      "entrants": 12,
+      "entrants": 17,
       "start_time": 1667413800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Labrador Ladder (Test Power Hour)",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/493776/image-0e134dc63acf8c8abbe121783474cbcb.jpg?ehk=7eD3l36US%2BQ0jHXrlBUgb5LXJdMt469eEiZeTm9Z2C0%3D&ehkOptimized=%2BAvQpkAnno691KIRQck%2F6D7hI5R0%2FpUU0zbbCQ%2FKhA8%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1667430000
     },
     {
@@ -26,14 +26,6 @@
       "start_time": 1667433600
     },
     {
-      "slug": "tournament/waddle-wednesday-43/event/melee-singles",
-      "tournament_name": "Waddle Wednesday 43",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493498/image-ca598c7af533cb2592df62961759d2ef.png?ehk=pHgtlECDtUKbdiLb%2FrbaBlvOxUFeBzL9pYaz7pL9pt4%3D&ehkOptimized=JztNbxXyY5WfiXlaQkzpxuwvb65444JGW3IhExErRDs%3D",
-      "entrants": 8,
-      "start_time": 1667433600
-    },
-    {
       "slug": "tournament/galaxy-gladiators-19-solar-circuit-qualifier/event/melee-singles",
       "tournament_name": "Galaxy Gladiators #19 (Solar Circuit Qualifier)",
       "event_name": "Melee Singles",
@@ -42,11 +34,19 @@
       "start_time": 1667433600
     },
     {
+      "slug": "tournament/waddle-wednesday-43/event/melee-singles",
+      "tournament_name": "Waddle Wednesday 43",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493498/image-ca598c7af533cb2592df62961759d2ef.png?ehk=pHgtlECDtUKbdiLb%2FrbaBlvOxUFeBzL9pYaz7pL9pt4%3D&ehkOptimized=JztNbxXyY5WfiXlaQkzpxuwvb65444JGW3IhExErRDs%3D",
+      "entrants": 10,
+      "start_time": 1667433600
+    },
+    {
       "slug": "tournament/silver-slippi-league-29/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #29",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/494270/image-f5b6b2a9f0b78aed313dc093161b7941.png?ehk=W%2FIeJQ7StJLWsW6LjpxMEzppfn21HlDX5AxmuoMiY2E%3D&ehkOptimized=8ZnvlN7L%2B%2BYDWqR5vCoNzwoLxnYmYoBNJEKXmiAwaRk%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1667437200
     },
     {
@@ -182,7 +182,7 @@
       "tournament_name": "Dorime's Dojo #7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493527/image-321e7cd1465f416f36ee5538d1ee9f5b.png?ehk=I5rsvw%2BH%2B%2Bcjz7Yo6hVxrsm7%2BB7Kuoq5k%2F%2F6chGv4oE%3D&ehkOptimized=Loak2OKFUcGMJNC9B21LaKRLesc44MpM9rnuog6wJj8%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1667754000
     },
     {
