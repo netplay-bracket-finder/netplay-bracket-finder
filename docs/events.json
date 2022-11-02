@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1667411747,
+  "fetched_at": 1667413672,
   "data": [
-    {
-      "slug": "tournament/the-dairy-farm-7-1/event/melee-singles",
-      "tournament_name": "The Dairy Farm #7",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493651/image-1e7eb4d127b9cf4fb38417c73b504e9d.png?ehk=IGwJL6UnUvhdx7q%2B3w5DKObc5GvUmxK7kmfzUeVCauU%3D&ehkOptimized=qTopmBmT%2BUMTyVUbdgxS9iQUcDP1BF5Hq6h3E%2B6E0vs%3D",
-      "entrants": 17,
-      "start_time": 1667413800
-    },
     {
       "slug": "tournament/labrador-ladder-test-power-hour/event/melee-ladder",
       "tournament_name": "Labrador Ladder (Test Power Hour)",
@@ -22,7 +14,7 @@
       "tournament_name": "Cute Melee: Week 7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493939/image-e80519c771f2fa1ec8b48e93be08ed4c.png?ehk=gQKHnVcnQi197MGusR8VTbHZhQp9osPFHS2ps6X1KdQ%3D&ehkOptimized=oJGkkXgAsPqGbMq0isnquYUQGx4i%2B0kIABFyjr2NRIw%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1667433600
     },
     {
@@ -38,7 +30,7 @@
       "tournament_name": "Waddle Wednesday 43",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493498/image-ca598c7af533cb2592df62961759d2ef.png?ehk=pHgtlECDtUKbdiLb%2FrbaBlvOxUFeBzL9pYaz7pL9pt4%3D&ehkOptimized=JztNbxXyY5WfiXlaQkzpxuwvb65444JGW3IhExErRDs%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1667433600
     },
     {
@@ -46,7 +38,7 @@
       "tournament_name": "Silver Slippi League #29",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/494270/image-f5b6b2a9f0b78aed313dc093161b7941.png?ehk=W%2FIeJQ7StJLWsW6LjpxMEzppfn21HlDX5AxmuoMiY2E%3D&ehkOptimized=8ZnvlN7L%2B%2BYDWqR5vCoNzwoLxnYmYoBNJEKXmiAwaRk%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1667437200
     },
     {
@@ -270,7 +262,7 @@
       "tournament_name": "Stel Hotel Throwdown: Minimum $100 Prize Pool!",
       "event_name": "Commentator Invitational",
       "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1668209400
     },
     {
