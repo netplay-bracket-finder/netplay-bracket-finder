@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667400419,
+  "fetched_at": 1667402556,
   "data": [
     {
       "slug": "tournament/the-dairy-farm-7-1/event/melee-singles",
       "tournament_name": "The Dairy Farm #7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493651/image-1e7eb4d127b9cf4fb38417c73b504e9d.png?ehk=IGwJL6UnUvhdx7q%2B3w5DKObc5GvUmxK7kmfzUeVCauU%3D&ehkOptimized=qTopmBmT%2BUMTyVUbdgxS9iQUcDP1BF5Hq6h3E%2B6E0vs%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667413800
     },
     {
@@ -26,19 +26,19 @@
       "start_time": 1667433600
     },
     {
-      "slug": "tournament/galaxy-gladiators-19-solar-circuit-qualifier/event/melee-singles",
-      "tournament_name": "Galaxy Gladiators #19 (Solar Circuit Qualifier)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493827/image-313539692ee44914a6dcd96207afdc64.png?ehk=ZSVqB79APmcKjWpWLNySpFtt2x%2FcCIgA5JaQ42bEZjs%3D&ehkOptimized=7vT%2FY69nokIsoqCuTA8ILr6vSBxWRWTPQwaZuAuAwA8%3D",
-      "entrants": 0,
-      "start_time": 1667433600
-    },
-    {
       "slug": "tournament/waddle-wednesday-43/event/melee-singles",
       "tournament_name": "Waddle Wednesday 43",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493498/image-ca598c7af533cb2592df62961759d2ef.png?ehk=pHgtlECDtUKbdiLb%2FrbaBlvOxUFeBzL9pYaz7pL9pt4%3D&ehkOptimized=JztNbxXyY5WfiXlaQkzpxuwvb65444JGW3IhExErRDs%3D",
       "entrants": 8,
+      "start_time": 1667433600
+    },
+    {
+      "slug": "tournament/galaxy-gladiators-19-solar-circuit-qualifier/event/melee-singles",
+      "tournament_name": "Galaxy Gladiators #19 (Solar Circuit Qualifier)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493827/image-313539692ee44914a6dcd96207afdc64.png?ehk=ZSVqB79APmcKjWpWLNySpFtt2x%2FcCIgA5JaQ42bEZjs%3D&ehkOptimized=7vT%2FY69nokIsoqCuTA8ILr6vSBxWRWTPQwaZuAuAwA8%3D",
+      "entrants": 0,
       "start_time": 1667433600
     },
     {
@@ -142,7 +142,7 @@
       "tournament_name": "[$350] CG Melee Monthly - November 2022",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1667674800
     },
     {
@@ -190,7 +190,7 @@
       "tournament_name": "salty.net/jas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1667764800
     },
     {
