@@ -1,0 +1,397 @@
+{
+  "fetched_at": 1667397206,
+  "data": [
+    {
+      "slug": "tournament/the-dairy-farm-7-1/event/melee-singles",
+      "tournament_name": "The Dairy Farm #7",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493651/image-1e7eb4d127b9cf4fb38417c73b504e9d.png?ehk=IGwJL6UnUvhdx7q%2B3w5DKObc5GvUmxK7kmfzUeVCauU%3D&ehkOptimized=qTopmBmT%2BUMTyVUbdgxS9iQUcDP1BF5Hq6h3E%2B6E0vs%3D",
+      "entrants": 4,
+      "start_time": 1667413800
+    },
+    {
+      "slug": "tournament/labrador-ladder-test-power-hour/event/melee-ladder",
+      "tournament_name": "Labrador Ladder (Test Power Hour)",
+      "event_name": "Melee Ladder",
+      "image": "https://images.start.gg/images/tournament/493776/image-0e134dc63acf8c8abbe121783474cbcb.jpg?ehk=7eD3l36US%2BQ0jHXrlBUgb5LXJdMt469eEiZeTm9Z2C0%3D&ehkOptimized=%2BAvQpkAnno691KIRQck%2F6D7hI5R0%2FpUU0zbbCQ%2FKhA8%3D",
+      "entrants": 9,
+      "start_time": 1667430000
+    },
+    {
+      "slug": "tournament/cute-melee-week-7/event/melee-singles",
+      "tournament_name": "Cute Melee: Week 7",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493939/image-e80519c771f2fa1ec8b48e93be08ed4c.png?ehk=gQKHnVcnQi197MGusR8VTbHZhQp9osPFHS2ps6X1KdQ%3D&ehkOptimized=oJGkkXgAsPqGbMq0isnquYUQGx4i%2B0kIABFyjr2NRIw%3D",
+      "entrants": 6,
+      "start_time": 1667433600
+    },
+    {
+      "slug": "tournament/waddle-wednesday-43/event/melee-singles",
+      "tournament_name": "Waddle Wednesday 43",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493498/image-ca598c7af533cb2592df62961759d2ef.png?ehk=pHgtlECDtUKbdiLb%2FrbaBlvOxUFeBzL9pYaz7pL9pt4%3D&ehkOptimized=JztNbxXyY5WfiXlaQkzpxuwvb65444JGW3IhExErRDs%3D",
+      "entrants": 6,
+      "start_time": 1667433600
+    },
+    {
+      "slug": "tournament/galaxy-gladiators-19-solar-circuit-qualifier/event/melee-singles",
+      "tournament_name": "Galaxy Gladiators #19 (Solar Circuit Qualifier)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493827/image-313539692ee44914a6dcd96207afdc64.png?ehk=ZSVqB79APmcKjWpWLNySpFtt2x%2FcCIgA5JaQ42bEZjs%3D&ehkOptimized=7vT%2FY69nokIsoqCuTA8ILr6vSBxWRWTPQwaZuAuAwA8%3D",
+      "entrants": 0,
+      "start_time": 1667433600
+    },
+    {
+      "slug": "tournament/toblerone-tangerine-thursdays-37-eu-event/event/melee-singles",
+      "tournament_name": "Toblerone Tangerine Thursdays #37 (EU Event)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/492572/image-a624251228c28ad12b54e639cc042c9c.png?ehk=whXmdFI8kJvIvaZE1%2FGNIuoYmnHtiLChD3dl5OR9cOE%3D&ehkOptimized=89VMt2bIFZW9bFKS8%2F3QKXLLVnSleMbJszUHoljinMA%3D",
+      "entrants": 3,
+      "start_time": 1667498400
+    },
+    {
+      "slug": "tournament/toblerone-tangerine-thursdays-37-eu-event/event/toblerone-waitlist",
+      "tournament_name": "Toblerone Tangerine Thursdays #37 (EU Event)",
+      "event_name": "Toblerone waitlist",
+      "image": "https://images.start.gg/images/tournament/492572/image-a624251228c28ad12b54e639cc042c9c.png?ehk=whXmdFI8kJvIvaZE1%2FGNIuoYmnHtiLChD3dl5OR9cOE%3D&ehkOptimized=89VMt2bIFZW9bFKS8%2F3QKXLLVnSleMbJszUHoljinMA%3D",
+      "entrants": 0,
+      "start_time": 1667498400
+    },
+    {
+      "slug": "tournament/moonwalk-tournament-series-24/event/melee-ladder",
+      "tournament_name": "Moonwalk Tournament Series 24",
+      "event_name": "Melee Ladder",
+      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
+      "entrants": 1,
+      "start_time": 1667516400
+    },
+    {
+      "slug": "tournament/moonwalk-tournament-series-24/event/melee-doubles",
+      "tournament_name": "Moonwalk Tournament Series 24",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
+      "entrants": 0,
+      "start_time": 1667516400
+    },
+    {
+      "slug": "tournament/moonwalk-tournament-series-24/event/melee-top-12",
+      "tournament_name": "Moonwalk Tournament Series 24",
+      "event_name": "Melee Top 12",
+      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
+      "entrants": 0,
+      "start_time": 1667516400
+    },
+    {
+      "slug": "tournament/only-noobs-91/event/melee-singles",
+      "tournament_name": "Only Noobs 91",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/492725/image-3d4eda7c179bae7cba45483fdc860b68.jpg?ehk=VKoE2eXJEynQtTrSSN0Fcjeeq%2BCIznTKUh5qYw6Oua4%3D&ehkOptimized=gL%2FPqwpl11LItMrauuswdY0TGgPGIx6jyq3oP2Nf%2Bto%3D",
+      "entrants": 17,
+      "start_time": 1667516400
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-10/event/ssbmr-singles",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #10",
+      "event_name": "SSBMr Singles",
+      "image": "https://images.start.gg/images/tournament/493742/image-d900edc887c929f6b78c073723dffaa6.png?ehk=KbI0dnKKJMrWKBdz037cleXOKhgvuZ0u%2BXctDaWWf7g%3D&ehkOptimized=v8f0QMBvuiCJ%2FykhEhUPcRhSp%2FsW1kBHBfWub9KS2ms%3D",
+      "entrants": 1,
+      "start_time": 1667516400
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-10/event/results-data",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #10",
+      "event_name": "Results Data",
+      "image": "https://images.start.gg/images/tournament/493742/image-d900edc887c929f6b78c073723dffaa6.png?ehk=KbI0dnKKJMrWKBdz037cleXOKhgvuZ0u%2BXctDaWWf7g%3D&ehkOptimized=v8f0QMBvuiCJ%2FykhEhUPcRhSp%2FsW1kBHBfWub9KS2ms%3D",
+      "entrants": 0,
+      "start_time": 1667516400
+    },
+    {
+      "slug": "tournament/aero-s-arena-17-wc-50-prizepool/event/wc-melee-singles",
+      "tournament_name": "Aero's Arena #17 WC - $50 Prizepool",
+      "event_name": "WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/494137/image-c3f1ecb52c036624d1ceb5da98aacc72.jpg?ehk=QEUGAH9psgfp39I%2FBG1b0pftwG7fKrZ30kKAXgDA4zo%3D&ehkOptimized=kJoOh8jJ3cY1TutM15dmy72vD1i4QBBkNoF5LwYgMGg%3D",
+      "entrants": 3,
+      "start_time": 1667527200
+    },
+    {
+      "slug": "tournament/house-call/event/melee-singles",
+      "tournament_name": "House Call",
+      "event_name": "melee singles",
+      "image": "",
+      "entrants": 0,
+      "start_time": 1667615400
+    },
+    {
+      "slug": "tournament/from-the-ashes-9/event/melee-singles",
+      "tournament_name": "From The Ashes #9",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/492834/image-5873e443c8d1c2240888e88faf7d5b67.png?ehk=gxqsS5USzgZtpYmcm6JJpX5uHQIUbL7VztOmCIHDMWM%3D&ehkOptimized=uDlcxolIEOx7%2BkVzSZeK2S1b9glPVtOM1W7H3ibs6yQ%3D",
+      "entrants": 8,
+      "start_time": 1667656800
+    },
+    {
+      "slug": "tournament/350-cg-melee-monthly-november-2022/event/east-coast",
+      "tournament_name": "[$350] CG Melee Monthly - November 2022",
+      "event_name": "East Coast",
+      "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
+      "entrants": 6,
+      "start_time": 1667674800
+    },
+    {
+      "slug": "tournament/350-cg-melee-monthly-november-2022/event/ec-vs-wc-exhibition",
+      "tournament_name": "[$350] CG Melee Monthly - November 2022",
+      "event_name": "EC vs WC Exhibition",
+      "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
+      "entrants": 0,
+      "start_time": 1667674800
+    },
+    {
+      "slug": "tournament/350-cg-melee-monthly-november-2022/event/west-coast",
+      "tournament_name": "[$350] CG Melee Monthly - November 2022",
+      "event_name": "West Coast",
+      "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
+      "entrants": 3,
+      "start_time": 1667682000
+    },
+    {
+      "slug": "tournament/after-dark-melee-3/event/after-dark-singles",
+      "tournament_name": "After Dark Melee #3",
+      "event_name": "After Dark Singles",
+      "image": "https://images.start.gg/images/tournament/493268/image-4f10538829c50fe387122cab0be68d31.png?ehk=sGpJuQxbAf5Ln2zarUZ%2BTmn2rEoczTaR1Gbl85WXF9Y%3D&ehkOptimized=Hc1d2p%2B2K0MHvkpVXuB%2BwHFT04zxbE5sCF3qm03jucg%3D",
+      "entrants": 0,
+      "start_time": 1667679300
+    },
+    {
+      "slug": "tournament/explosion-series-1-first-or-bust/event/melee-singles",
+      "tournament_name": "Explosion Series 1: First Or Bust",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493401/image-d7918a85bf0f0269d170d25ade2d088a.png?ehk=33VujcU9NRiteoxwfW9jyMNxoh5F4Jmuw687C9PqNMU%3D&ehkOptimized=2CHx%2BeHFjpvciaXaZ2XSj5tvOZxLHv4KI1HhCz15LaU%3D",
+      "entrants": 4,
+      "start_time": 1667682000
+    },
+    {
+      "slug": "tournament/dorime-s-dojo-7/event/melee-singles",
+      "tournament_name": "Dorime's Dojo #7",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493527/image-321e7cd1465f416f36ee5538d1ee9f5b.png?ehk=I5rsvw%2BH%2B%2Bcjz7Yo6hVxrsm7%2BB7Kuoq5k%2F%2F6chGv4oE%3D&ehkOptimized=Loak2OKFUcGMJNC9B21LaKRLesc44MpM9rnuog6wJj8%3D",
+      "entrants": 5,
+      "start_time": 1667754000
+    },
+    {
+      "slug": "tournament/salty-net-jas/event/melee-singles",
+      "tournament_name": "salty.net/jas",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
+      "entrants": 16,
+      "start_time": 1667764800
+    },
+    {
+      "slug": "tournament/new-sizzling-sundays-2/event/melee-singles",
+      "tournament_name": "NEW Sizzling Sundays #2",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/494077/image-241598449668e1fa0808f5a04692032d.png?ehk=sSglrltzORX7pBA5ag45kXioUEE1Wts8CiJ7hNwgS2g%3D&ehkOptimized=bGeEkMicgMdPXrR5P9%2F2PKREE%2FKiiu%2BKsEr68HKq8Rs%3D",
+      "entrants": 0,
+      "start_time": 1667781000
+    },
+    {
+      "slug": "tournament/woop-melee-51/event/melee-singles",
+      "tournament_name": "Woop Melee! #51",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/455902/image-b6adc84c187fc56be4b5ebef40af1cc3.png?ehk=meJHD%2Fs2BCha4Yzb0AZiJE9nCh3HrLLUnrqc1pFzCHk%3D&ehkOptimized=FQ%2F5SZLjNx1wawgW0A3%2B3ob2jU7qlDm287Nzx2JsYVM%3D",
+      "entrants": 1,
+      "start_time": 1667865600
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-6/event/wc-doubles",
+      "tournament_name": "Coast to Coast Doubles # 6",
+      "event_name": "WC Doubles",
+      "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
+      "entrants": 1,
+      "start_time": 1667865600
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-6/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 6",
+      "event_name": "EC Doubles",
+      "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
+      "entrants": 0,
+      "start_time": 1667865600
+    },
+    {
+      "slug": "tournament/moose-tracks-2/event/melee-ladder",
+      "tournament_name": "Moose Tracks 2",
+      "event_name": "Melee Ladder",
+      "image": "https://images.start.gg/images/tournament/494032/image-af92f9e8b99e009d67144715aef0fa79.jpg?ehk=sRXOVM%2BASc%2FUN3RWbnhJs0VdoECIIrP%2BS4QCVYhWlB0%3D&ehkOptimized=MYFoRyaLT7PeotoLBOx6IDClALcy9I0S8TWBbtV8DaI%3D",
+      "entrants": 0,
+      "start_time": 1667865600
+    },
+    {
+      "slug": "tournament/have-you-dreamed-this-cardboard-bear-2/event/melee-singles",
+      "tournament_name": "Have You Dreamed This Cardboard Bear? #2",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493990/image-c5c22ed048a8a816e5a6447b29b35b52.jpg?ehk=9whJAkjzqaEfzc9x1U0nT1JDfeI1DBKI9r0fcTvaIGo%3D&ehkOptimized=32Uw1OfOx%2Bx9uPlY8Z8BQF4LdbhaRPkfBkEdeoflapY%3D",
+      "entrants": 2,
+      "start_time": 1667870100
+    },
+    {
+      "slug": "tournament/daggetbeaves-thanks-giving-rumble/event/ssbm",
+      "tournament_name": "Daggetbeaves Thanks giving rumble",
+      "event_name": "SSBM",
+      "image": "https://images.start.gg/images/tournament/493063/image-497b37bf44e83ed42c4fe1a09995cf9c.jpg?ehk=IwmS8QpsbMG%2BGxJkTDsYvcpj32Jnp9nrHCaugDABtsc%3D&ehkOptimized=fP7qU4EzcW0NxdE1OBpqDOYPqyQkKbU8KlzhPZ%2FX%2BO4%3D",
+      "entrants": 0,
+      "start_time": 1667934000
+    },
+    {
+      "slug": "tournament/sketchy-series-5/event/melee-singles",
+      "tournament_name": "Sketchy Series 5",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/494238/image-a7bf4bf37a538999d5c9d9de98cf614e.png?ehk=IfuGjY4PYSwW7rurIlOMBLI3H186Bv8oSSuwl5WYN6c%3D&ehkOptimized=weKIMqza7BzGQG6SIpkQeFEJSCvVz6aCRl%2F2xS0eVyA%3D",
+      "entrants": 0,
+      "start_time": 1667952000
+    },
+    {
+      "slug": "tournament/lfsi-melee-tournament/event/lfsi-melee-tournament",
+      "tournament_name": "LFSI Melee Tournament",
+      "event_name": "LFSI Melee Tournament",
+      "image": "",
+      "entrants": 7,
+      "start_time": 1668052800
+    },
+    {
+      "slug": "tournament/stel-hotel-throwdown-minimum-100-prize-pool/event/commentator-invitational",
+      "tournament_name": "Stel Hotel Throwdown: Minimum $100 Prize Pool!",
+      "event_name": "Commentator Invitational",
+      "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
+      "entrants": 10,
+      "start_time": 1668209400
+    },
+    {
+      "slug": "tournament/stel-hotel-throwdown-minimum-100-prize-pool/event/melee-singles",
+      "tournament_name": "Stel Hotel Throwdown: Minimum $100 Prize Pool!",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
+      "entrants": 6,
+      "start_time": 1668209400
+    },
+    {
+      "slug": "tournament/melee-legends-4/event/melee-singles",
+      "tournament_name": "Melee Legends 4",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493654/image-dfe6a476b4ae5c4ae7088aa229ed1e8c.png?ehk=gwlZOs6d7VIY1SW%2F9YppDMgHjquGIsFUq%2BJyQKm8oFg%3D&ehkOptimized=9lCtpWruIFKO7AXF7SiMwS1qAYKHbW%2FG%2Ft6kG5yltXY%3D",
+      "entrants": 0,
+      "start_time": 1668214800
+    },
+    {
+      "slug": "tournament/the-battlefields-series-59-1/event/melee-singles",
+      "tournament_name": "The Battlefields Series #59",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493344/image-946fc0d767ee8651e364e198eaf40b5a.png?ehk=2hc%2FibbJjopv8g0JnDEXPyccapiYslWLHVCecak4POs%3D&ehkOptimized=nuFv7iONUTcf51MyDz%2BpOE85j0%2BM6cfmf68U%2FQYr%2BX8%3D",
+      "entrants": 0,
+      "start_time": 1668380400
+    },
+    {
+      "slug": "tournament/melee-s-weekend-beat-down/event/melee-singles",
+      "tournament_name": "Melee's Weekend Beat Down",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/493353/image-cd836a9b47415efcadcec805a701fb6b.jpg?ehk=Tc%2FFFWfG%2BLTrQ8yTkYJwfksTgk%2BdhjgIVNV9VkF%2FDSs%3D&ehkOptimized=6n6dpSsjOsfexoP1kg0UOpoRMvcZmXg8wBNNQIy2PgY%3D",
+      "entrants": null,
+      "start_time": 1668378600
+    },
+    {
+      "slug": "tournament/multi-melee-masters-2-50-pot-bonus/event/multi-melee-singles",
+      "tournament_name": "Multi Melee Masters #2 - €50 Pot Bonus!",
+      "event_name": "Multi Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490451/image-7f80cc12fd5555cebe7111dd7a0eb2e2.png?ehk=Vayg6F3aJyDSuHqkT0bEpKhT2tEj7dD4rJgiGjh68AI%3D&ehkOptimized=2qf7%2F%2Bhb5jlM8r02%2BQlQRohn7aeHs14Fc%2FQntraIEYE%3D",
+      "entrants": 7,
+      "start_time": 1668880800
+    },
+    {
+      "slug": "tournament/melee-delaware-smash-2/event/melee-ds-1v1",
+      "tournament_name": "Melee Delaware Smash ! #2",
+      "event_name": "Melee DS 1v1",
+      "image": "https://images.start.gg/images/tournament/445064/image-9090e46dd0b8ea221dc95a263fd929b2.png?ehk=fuhW7%2F39EH%2BBU0i%2FAC7dd3uzpgADCjevuW8Fpn9nu5Q%3D&ehkOptimized=UXI5snn22Y83wgCnhVf2bw9vJaWLYS3yDdpzhRtvanY%3D",
+      "entrants": 1,
+      "start_time": 1669147200
+    },
+    {
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-east-melee-singles",
+      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
+      "event_name": "NA East Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
+      "entrants": 11,
+      "start_time": 1669482000
+    },
+    {
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-west-east-melee-doubles",
+      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
+      "event_name": "NA West & East Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
+      "entrants": 1,
+      "start_time": 1669482000
+    },
+    {
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-coast-to-coast-items-on",
+      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
+      "event_name": "NA Coast-To-Coast Items-On",
+      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
+      "entrants": 0,
+      "start_time": 1669482000
+    },
+    {
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-west-melee-singles",
+      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
+      "event_name": "NA West Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
+      "entrants": 5,
+      "start_time": 1669496400
+    },
+    {
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/eu-melee-singles",
+      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
+      "event_name": "EU Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
+      "entrants": 4,
+      "start_time": 1669550400
+    },
+    {
+      "slug": "tournament/krampus-s-online-smashfest-1/event/melee-singles",
+      "tournament_name": "Krampus's Online Smashfest",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/476152/image-234d2054e4a3f236cef89ec647415612.png?ehk=wf1mjz3Tp4uLN20IDYJKsblD5i0I3zMnPbjLg2%2FoQjU%3D&ehkOptimized=SQtysk8eHHf2qW2Ma0KNL3Y0aE3aTokwevnlZ6VDYT4%3D",
+      "entrants": 2,
+      "start_time": 1670608800
+    },
+    {
+      "slug": "tournament/the-big-pink/event/melee-doubles",
+      "tournament_name": "The BIG Pink",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/492672/image-e59cad14eec8a33939c7d3b7dbf1f8ad.jpg?ehk=Ug%2FzytecnblTpI7NCFssNEth%2BnbO36iP%2BnWZ%2B6NBsUc%3D&ehkOptimized=2AJYP8G0yTIXMxUR%2F%2FcBZ4BDHvxGORbrUxLHiVKrTgY%3D",
+      "entrants": 3,
+      "start_time": 1670716800
+    },
+    {
+      "slug": "tournament/the-big-pink/event/melee-singles",
+      "tournament_name": "The BIG Pink",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/492672/image-e59cad14eec8a33939c7d3b7dbf1f8ad.jpg?ehk=Ug%2FzytecnblTpI7NCFssNEth%2BnbO36iP%2BnWZ%2B6NBsUc%3D&ehkOptimized=2AJYP8G0yTIXMxUR%2F%2FcBZ4BDHvxGORbrUxLHiVKrTgY%3D",
+      "entrants": 8,
+      "start_time": 1670731200
+    },
+    {
+      "slug": "tournament/sizzling-sundays-beef-wellington-edition/event/melee-singles",
+      "tournament_name": "Sizzling Sundays: Beef Wellington edition!",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/494062/image-d49f5d852b020d5b51866dc344cb09d1.png?ehk=lmQcjP4hFmxZFVvZlbluJz3zJBPWCGDNxGRNOAmsiOk%3D&ehkOptimized=piYLetGX5IVNyK4fxCgbqyfRyJsHYb3vsfot6rxKAp8%3D",
+      "entrants": 1,
+      "start_time": 1673224200
+    },
+    {
+      "slug": "tournament/whispy-woods-superstar-circuit-qualifier-1/event/melee-singles",
+      "tournament_name": "Whispy Woods Superstar Circuit- Qualifier 1",
+      "event_name": "Melee Singles",
+      "image": "",
+      "entrants": 9,
+      "start_time": 1674946800
+    }
+  ]
+}
