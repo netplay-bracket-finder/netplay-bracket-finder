@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667515893,
+  "fetched_at": 1667517699,
   "data": [
     {
       "slug": "tournament/moonwalk-tournament-series-24/event/melee-ladder",
@@ -26,35 +26,11 @@
       "start_time": 1667516400
     },
     {
-      "slug": "tournament/the-return-of-nfc-8-presented-by-nxgn-esports/event/melee-singles",
-      "tournament_name": "The Return of NFC #8 | Presented by NxGn Esports",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/494680/image-5170fa7905e152c1c857f14fc3ac2178.png?ehk=7zKkKhkbChCVtKpg2JKlQfTPS9OHKfsC4Wf%2BIpiU890%3D&ehkOptimized=%2BkkAg0vjmWl6cYorgceTCvMTp9XM75Zf9eBcVmJSI28%3D",
-      "entrants": 10,
-      "start_time": 1667516400
-    },
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-10/event/ssbmr-singles",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #10",
-      "event_name": "SSBMr Singles",
-      "image": "https://images.start.gg/images/tournament/493742/image-d900edc887c929f6b78c073723dffaa6.png?ehk=KbI0dnKKJMrWKBdz037cleXOKhgvuZ0u%2BXctDaWWf7g%3D&ehkOptimized=v8f0QMBvuiCJ%2FykhEhUPcRhSp%2FsW1kBHBfWub9KS2ms%3D",
-      "entrants": 5,
-      "start_time": 1667516400
-    },
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-10/event/results-data",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #10",
-      "event_name": "Results Data",
-      "image": "https://images.start.gg/images/tournament/493742/image-d900edc887c929f6b78c073723dffaa6.png?ehk=KbI0dnKKJMrWKBdz037cleXOKhgvuZ0u%2BXctDaWWf7g%3D&ehkOptimized=v8f0QMBvuiCJ%2FykhEhUPcRhSp%2FsW1kBHBfWub9KS2ms%3D",
-      "entrants": 0,
-      "start_time": 1667516400
-    },
-    {
       "slug": "tournament/mountain-melee-2/event/melee-singles",
       "tournament_name": "Mountain Melee 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494732/image-3fc82e15ec39420b317b3c0a1ce35ec4.png?ehk=i3xQWgxDPzSF75l7f654ydqE5Dolk%2B6GrhM%2BAczP%2FLU%3D&ehkOptimized=9cAxI7NKNvlt2Ft%2BHa1nYg%2BJPMurhtT682yvIb6I5UA%3D",
-      "entrants": 10,
+      "entrants": 15,
       "start_time": 1667520000
     },
     {
@@ -62,7 +38,7 @@
       "tournament_name": "Thursday Thmackdown #9",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494400/image-8bdbab6cf7b7949148502c0491a24377.png?ehk=C2DgT9HAUpLLJTRDdUO0IhXmijo4Bad%2FWz3mAuq4Src%3D&ehkOptimized=SjdCu7wRF2r6Gyl1eKRNC%2BcHqAw9ckjXrkrGxWFTTs0%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1667523600
     },
     {
@@ -118,7 +94,7 @@
       "tournament_name": "Scrub Summit 11",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/494420/image-830b9f65e5efc405374bf43b7c6afa59.png?ehk=YN0JSrIddZA32WmQJgJFG4mtc5WhlYoNSmKHvW0rMdE%3D&ehkOptimized=20wtsz4SX9SmXOaUxumvG9cKRFSgObn99acGbLo%2BrA8%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1667678400
     },
     {
@@ -270,7 +246,7 @@
       "tournament_name": "Stel Hotel Throwdown: Minimum $100 Prize Pool!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1668209400
     },
     {
