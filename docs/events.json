@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667500255,
+  "fetched_at": 1667501895,
   "data": [
     {
       "slug": "tournament/troppo-italiano-72/event/singles",
@@ -34,19 +34,19 @@
       "start_time": 1667516400
     },
     {
-      "slug": "tournament/only-noobs-91/event/melee-singles",
-      "tournament_name": "Only Noobs 91",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/492725/image-3d4eda7c179bae7cba45483fdc860b68.jpg?ehk=VKoE2eXJEynQtTrSSN0Fcjeeq%2BCIznTKUh5qYw6Oua4%3D&ehkOptimized=gL%2FPqwpl11LItMrauuswdY0TGgPGIx6jyq3oP2Nf%2Bto%3D",
-      "entrants": 61,
-      "start_time": 1667516400
-    },
-    {
       "slug": "tournament/the-return-of-nfc-8-presented-by-nxgn-esports/event/melee-singles",
       "tournament_name": "The Return of NFC #8 | Presented by NxGn Esports",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494680/image-5170fa7905e152c1c857f14fc3ac2178.png?ehk=7zKkKhkbChCVtKpg2JKlQfTPS9OHKfsC4Wf%2BIpiU890%3D&ehkOptimized=%2BkkAg0vjmWl6cYorgceTCvMTp9XM75Zf9eBcVmJSI28%3D",
-      "entrants": 1,
+      "entrants": 2,
+      "start_time": 1667516400
+    },
+    {
+      "slug": "tournament/only-noobs-91/event/melee-singles",
+      "tournament_name": "Only Noobs 91",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/492725/image-3d4eda7c179bae7cba45483fdc860b68.jpg?ehk=VKoE2eXJEynQtTrSSN0Fcjeeq%2BCIznTKUh5qYw6Oua4%3D&ehkOptimized=gL%2FPqwpl11LItMrauuswdY0TGgPGIx6jyq3oP2Nf%2Bto%3D",
+      "entrants": 64,
       "start_time": 1667516400
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "House Call",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/492950/image-e3eaac75d1018657cbbf05e4e57fcb02.png?ehk=hCFHS7xDwQMIiCP%2BKZF0MwIs5WXKmqjapYB9uNHIptE%3D&ehkOptimized=saGKyI0DVTZkJbrRb%2FzwCMQxQ0BFtgD%2FNxLt%2BqDrHRo%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1667615400
     },
     {
