@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667504254,
+  "fetched_at": 1667505086,
   "data": [
     {
       "slug": "tournament/troppo-italiano-72/event/singles",
       "tournament_name": "Troppo Italiano #72",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/494600/image-b8bc10e87304bc3923b595ebd75338f1.jpg?ehk=gBWJylm%2FwGNMfgeSTA%2FgEbNau%2BDqoTrR4Tr0co%2FmonA%3D&ehkOptimized=t8FpChbETP%2FIriz3YpyXIx21%2BgsrS1mwziB9OjgNBHM%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1667505600
     },
     {
@@ -34,19 +34,19 @@
       "start_time": 1667516400
     },
     {
-      "slug": "tournament/the-return-of-nfc-8-presented-by-nxgn-esports/event/melee-singles",
-      "tournament_name": "The Return of NFC #8 | Presented by NxGn Esports",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/494680/image-5170fa7905e152c1c857f14fc3ac2178.png?ehk=7zKkKhkbChCVtKpg2JKlQfTPS9OHKfsC4Wf%2BIpiU890%3D&ehkOptimized=%2BkkAg0vjmWl6cYorgceTCvMTp9XM75Zf9eBcVmJSI28%3D",
-      "entrants": 4,
-      "start_time": 1667516400
-    },
-    {
       "slug": "tournament/only-noobs-91/event/melee-singles",
       "tournament_name": "Only Noobs 91",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492725/image-3d4eda7c179bae7cba45483fdc860b68.jpg?ehk=VKoE2eXJEynQtTrSSN0Fcjeeq%2BCIznTKUh5qYw6Oua4%3D&ehkOptimized=gL%2FPqwpl11LItMrauuswdY0TGgPGIx6jyq3oP2Nf%2Bto%3D",
-      "entrants": 71,
+      "entrants": 76,
+      "start_time": 1667516400
+    },
+    {
+      "slug": "tournament/the-return-of-nfc-8-presented-by-nxgn-esports/event/melee-singles",
+      "tournament_name": "The Return of NFC #8 | Presented by NxGn Esports",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/494680/image-5170fa7905e152c1c857f14fc3ac2178.png?ehk=7zKkKhkbChCVtKpg2JKlQfTPS9OHKfsC4Wf%2BIpiU890%3D&ehkOptimized=%2BkkAg0vjmWl6cYorgceTCvMTp9XM75Zf9eBcVmJSI28%3D",
+      "entrants": 5,
       "start_time": 1667516400
     },
     {
@@ -64,6 +64,14 @@
       "image": "https://images.start.gg/images/tournament/493742/image-d900edc887c929f6b78c073723dffaa6.png?ehk=KbI0dnKKJMrWKBdz037cleXOKhgvuZ0u%2BXctDaWWf7g%3D&ehkOptimized=v8f0QMBvuiCJ%2FykhEhUPcRhSp%2FsW1kBHBfWub9KS2ms%3D",
       "entrants": 0,
       "start_time": 1667516400
+    },
+    {
+      "slug": "tournament/thursday-thmackdown-9/event/melee-singles",
+      "tournament_name": "Thursday Thmackdown #9",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/494400/image-8bdbab6cf7b7949148502c0491a24377.png?ehk=C2DgT9HAUpLLJTRDdUO0IhXmijo4Bad%2FWz3mAuq4Src%3D&ehkOptimized=SjdCu7wRF2r6Gyl1eKRNC%2BcHqAw9ckjXrkrGxWFTTs0%3D",
+      "entrants": 6,
+      "start_time": 1667523600
     },
     {
       "slug": "tournament/aero-s-arena-17-wc-50-prizepool/event/wc-melee-singles",
