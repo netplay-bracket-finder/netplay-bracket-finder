@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667512279,
+  "fetched_at": 1667513830,
   "data": [
     {
       "slug": "tournament/moonwalk-tournament-series-24/event/melee-ladder",
@@ -38,7 +38,7 @@
       "tournament_name": "Only Noobs 91",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492725/image-3d4eda7c179bae7cba45483fdc860b68.jpg?ehk=VKoE2eXJEynQtTrSSN0Fcjeeq%2BCIznTKUh5qYw6Oua4%3D&ehkOptimized=gL%2FPqwpl11LItMrauuswdY0TGgPGIx6jyq3oP2Nf%2Bto%3D",
-      "entrants": 107,
+      "entrants": 121,
       "start_time": 1667516400
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Mountain Melee 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494732/image-3fc82e15ec39420b317b3c0a1ce35ec4.png?ehk=i3xQWgxDPzSF75l7f654ydqE5Dolk%2B6GrhM%2BAczP%2FLU%3D&ehkOptimized=9cAxI7NKNvlt2Ft%2BHa1nYg%2BJPMurhtT682yvIb6I5UA%3D",
-      "entrants": 3,
+      "entrants": 7,
       "start_time": 1667520000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Thursday Thmackdown #9",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494400/image-8bdbab6cf7b7949148502c0491a24377.png?ehk=C2DgT9HAUpLLJTRDdUO0IhXmijo4Bad%2FWz3mAuq4Src%3D&ehkOptimized=SjdCu7wRF2r6Gyl1eKRNC%2BcHqAw9ckjXrkrGxWFTTs0%3D",
-      "entrants": 7,
+      "entrants": 9,
       "start_time": 1667523600
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Aero's Arena #17 WC - $50 Prizepool",
       "event_name": "WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/494137/image-c3f1ecb52c036624d1ceb5da98aacc72.jpg?ehk=QEUGAH9psgfp39I%2FBG1b0pftwG7fKrZ30kKAXgDA4zo%3D&ehkOptimized=kJoOh8jJ3cY1TutM15dmy72vD1i4QBBkNoF5LwYgMGg%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667527200
     },
     {
