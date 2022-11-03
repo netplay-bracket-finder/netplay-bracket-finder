@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667507837,
+  "fetched_at": 1667508675,
   "data": [
     {
       "slug": "tournament/moonwalk-tournament-series-24/event/melee-ladder",
@@ -38,7 +38,7 @@
       "tournament_name": "Only Noobs 91",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492725/image-3d4eda7c179bae7cba45483fdc860b68.jpg?ehk=VKoE2eXJEynQtTrSSN0Fcjeeq%2BCIznTKUh5qYw6Oua4%3D&ehkOptimized=gL%2FPqwpl11LItMrauuswdY0TGgPGIx6jyq3oP2Nf%2Bto%3D",
-      "entrants": 88,
+      "entrants": 90,
       "start_time": 1667516400
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Thursday Thmackdown #9",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494400/image-8bdbab6cf7b7949148502c0491a24377.png?ehk=C2DgT9HAUpLLJTRDdUO0IhXmijo4Bad%2FWz3mAuq4Src%3D&ehkOptimized=SjdCu7wRF2r6Gyl1eKRNC%2BcHqAw9ckjXrkrGxWFTTs0%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1667523600
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Aero's Arena #17 WC - $50 Prizepool",
       "event_name": "WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/494137/image-c3f1ecb52c036624d1ceb5da98aacc72.jpg?ehk=QEUGAH9psgfp39I%2FBG1b0pftwG7fKrZ30kKAXgDA4zo%3D&ehkOptimized=kJoOh8jJ3cY1TutM15dmy72vD1i4QBBkNoF5LwYgMGg%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1667527200
     },
     {
@@ -240,6 +240,22 @@
       "image": "",
       "entrants": 7,
       "start_time": 1668052800
+    },
+    {
+      "slug": "tournament/toblerone-tangerine-thursdays-38-eu-event/event/melee-singles",
+      "tournament_name": "Toblerone Tangerine Thursdays #38 (EU Event)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/494716/image-369f557f7a7c534577cab49d12c068eb.png?ehk=VSTniKtdTFsTNIwyb%2BUug%2FMMw0bT6A2svfIf4eLbwMI%3D&ehkOptimized=icAULaNUek37M7a9pZS%2FIf34qO1n84nagw6NOlQyQ6U%3D",
+      "entrants": 0,
+      "start_time": 1668103200
+    },
+    {
+      "slug": "tournament/toblerone-tangerine-thursdays-38-eu-event/event/toblerone-waitlist",
+      "tournament_name": "Toblerone Tangerine Thursdays #38 (EU Event)",
+      "event_name": "Toblerone waitlist",
+      "image": "https://images.start.gg/images/tournament/494716/image-369f557f7a7c534577cab49d12c068eb.png?ehk=VSTniKtdTFsTNIwyb%2BUug%2FMMw0bT6A2svfIf4eLbwMI%3D&ehkOptimized=icAULaNUek37M7a9pZS%2FIf34qO1n84nagw6NOlQyQ6U%3D",
+      "entrants": 0,
+      "start_time": 1668103200
     },
     {
       "slug": "tournament/stel-hotel-throwdown-minimum-100-prize-pool/event/commentator-invitational",
