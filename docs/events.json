@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1667497879,
+  "fetched_at": 1667500255,
   "data": [
-    {
-      "slug": "tournament/toblerone-tangerine-thursdays-37-eu-event/event/melee-singles",
-      "tournament_name": "Toblerone Tangerine Thursdays #37 (EU Event)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/492572/image-a624251228c28ad12b54e639cc042c9c.png?ehk=whXmdFI8kJvIvaZE1%2FGNIuoYmnHtiLChD3dl5OR9cOE%3D&ehkOptimized=89VMt2bIFZW9bFKS8%2F3QKXLLVnSleMbJszUHoljinMA%3D",
-      "entrants": 16,
-      "start_time": 1667498400
-    },
-    {
-      "slug": "tournament/toblerone-tangerine-thursdays-37-eu-event/event/toblerone-waitlist",
-      "tournament_name": "Toblerone Tangerine Thursdays #37 (EU Event)",
-      "event_name": "Toblerone waitlist",
-      "image": "https://images.start.gg/images/tournament/492572/image-a624251228c28ad12b54e639cc042c9c.png?ehk=whXmdFI8kJvIvaZE1%2FGNIuoYmnHtiLChD3dl5OR9cOE%3D&ehkOptimized=89VMt2bIFZW9bFKS8%2F3QKXLLVnSleMbJszUHoljinMA%3D",
-      "entrants": 8,
-      "start_time": 1667498400
-    },
     {
       "slug": "tournament/troppo-italiano-72/event/singles",
       "tournament_name": "Troppo Italiano #72",
@@ -54,7 +38,15 @@
       "tournament_name": "Only Noobs 91",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492725/image-3d4eda7c179bae7cba45483fdc860b68.jpg?ehk=VKoE2eXJEynQtTrSSN0Fcjeeq%2BCIznTKUh5qYw6Oua4%3D&ehkOptimized=gL%2FPqwpl11LItMrauuswdY0TGgPGIx6jyq3oP2Nf%2Bto%3D",
-      "entrants": 56,
+      "entrants": 61,
+      "start_time": 1667516400
+    },
+    {
+      "slug": "tournament/the-return-of-nfc-8-presented-by-nxgn-esports/event/melee-singles",
+      "tournament_name": "The Return of NFC #8 | Presented by NxGn Esports",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/494680/image-5170fa7905e152c1c857f14fc3ac2178.png?ehk=7zKkKhkbChCVtKpg2JKlQfTPS9OHKfsC4Wf%2BIpiU890%3D&ehkOptimized=%2BkkAg0vjmWl6cYorgceTCvMTp9XM75Zf9eBcVmJSI28%3D",
+      "entrants": 1,
       "start_time": 1667516400
     },
     {
