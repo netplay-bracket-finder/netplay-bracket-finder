@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667461122,
+  "fetched_at": 1667461887,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-37-eu-event/event/melee-singles",
@@ -162,6 +162,14 @@
       "start_time": 1667754000
     },
     {
+      "slug": "tournament/fight-of-the-fearless-26/event/fight-of-the-fearless-single",
+      "tournament_name": "Fight of the fearless 26",
+      "event_name": "Fight Of The Fearless single",
+      "image": "https://images.start.gg/images/tournament/494550/image-562112640ce23869753662e93e17a805.png?ehk=wcarIFJdqx%2BKle8lPjhJ39hTEd7M1fDHGO3HNariz6I%3D&ehkOptimized=65LmPNlJ%2BL0TE86VnBepOes7SY96A25oWQOFJzmQZCA%3D",
+      "entrants": 0,
+      "start_time": 1667757600
+    },
+    {
       "slug": "tournament/salty-net-jas/event/melee-singles",
       "tournament_name": "salty.net/jas",
       "event_name": "Melee Singles",
@@ -298,6 +306,14 @@
       "start_time": 1669482000
     },
     {
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-coast-to-coast-items-on",
+      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
+      "event_name": "NA Coast-To-Coast Items-On",
+      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
+      "entrants": 1,
+      "start_time": 1669482000
+    },
+    {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-west-east-melee-doubles",
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West & East Melee Doubles",
@@ -306,19 +322,11 @@
       "start_time": 1669482000
     },
     {
-      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-coast-to-coast-items-on",
-      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
-      "event_name": "NA Coast-To-Coast Items-On",
-      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 0,
-      "start_time": 1669482000
-    },
-    {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-west-melee-singles",
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1669496400
     },
     {
