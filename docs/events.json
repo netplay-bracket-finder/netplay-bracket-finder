@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667515199,
+  "fetched_at": 1667515893,
   "data": [
     {
       "slug": "tournament/moonwalk-tournament-series-24/event/melee-ladder",
@@ -30,15 +30,7 @@
       "tournament_name": "The Return of NFC #8 | Presented by NxGn Esports",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494680/image-5170fa7905e152c1c857f14fc3ac2178.png?ehk=7zKkKhkbChCVtKpg2JKlQfTPS9OHKfsC4Wf%2BIpiU890%3D&ehkOptimized=%2BkkAg0vjmWl6cYorgceTCvMTp9XM75Zf9eBcVmJSI28%3D",
-      "entrants": 11,
-      "start_time": 1667516400
-    },
-    {
-      "slug": "tournament/only-noobs-91/event/melee-singles",
-      "tournament_name": "Only Noobs 91",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/492725/image-3d4eda7c179bae7cba45483fdc860b68.jpg?ehk=VKoE2eXJEynQtTrSSN0Fcjeeq%2BCIznTKUh5qYw6Oua4%3D&ehkOptimized=gL%2FPqwpl11LItMrauuswdY0TGgPGIx6jyq3oP2Nf%2Bto%3D",
-      "entrants": 133,
+      "entrants": 10,
       "start_time": 1667516400
     },
     {
@@ -62,7 +54,7 @@
       "tournament_name": "Mountain Melee 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494732/image-3fc82e15ec39420b317b3c0a1ce35ec4.png?ehk=i3xQWgxDPzSF75l7f654ydqE5Dolk%2B6GrhM%2BAczP%2FLU%3D&ehkOptimized=9cAxI7NKNvlt2Ft%2BHa1nYg%2BJPMurhtT682yvIb6I5UA%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1667520000
     },
     {
@@ -86,7 +78,7 @@
       "tournament_name": "House Call",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/492950/image-e3eaac75d1018657cbbf05e4e57fcb02.png?ehk=hCFHS7xDwQMIiCP%2BKZF0MwIs5WXKmqjapYB9uNHIptE%3D&ehkOptimized=saGKyI0DVTZkJbrRb%2FzwCMQxQ0BFtgD%2FNxLt%2BqDrHRo%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667615400
     },
     {
