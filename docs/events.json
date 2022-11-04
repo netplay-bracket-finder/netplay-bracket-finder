@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1667537125,
+  "fetched_at": 1667539469,
   "data": [
-    {
-      "slug": "tournament/aero-s-arena-17-wc-50-prizepool/event/wc-melee-singles",
-      "tournament_name": "Aero's Arena #17 WC - $50 Prizepool",
-      "event_name": "WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/494137/image-c3f1ecb52c036624d1ceb5da98aacc72.jpg?ehk=QEUGAH9psgfp39I%2FBG1b0pftwG7fKrZ30kKAXgDA4zo%3D&ehkOptimized=kJoOh8jJ3cY1TutM15dmy72vD1i4QBBkNoF5LwYgMGg%3D",
-      "entrants": 8,
-      "start_time": 1667527200
-    },
     {
       "slug": "tournament/fgc-friday-15-solar-circuit-qualifier/event/melee-singles",
       "tournament_name": "FGC Friday #15 (Solar Circuit Qualifier)",
