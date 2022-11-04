@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667533581,
+  "fetched_at": 1667537125,
   "data": [
     {
       "slug": "tournament/aero-s-arena-17-wc-50-prizepool/event/wc-melee-singles",
@@ -210,6 +210,14 @@
       "start_time": 1668103200
     },
     {
+      "slug": "tournament/only-noobs-92/event/melee-singles",
+      "tournament_name": "Only Noobs 92",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
+      "entrants": 1,
+      "start_time": 1668124800
+    },
+    {
       "slug": "tournament/stel-hotel-throwdown-minimum-100-prize-pool/event/commentator-invitational",
       "tournament_name": "Stel Hotel Throwdown: Minimum $100 Prize Pool!",
       "event_name": "Commentator Invitational",
@@ -230,7 +238,7 @@
       "tournament_name": "Melee Legends 4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493654/image-dfe6a476b4ae5c4ae7088aa229ed1e8c.png?ehk=gwlZOs6d7VIY1SW%2F9YppDMgHjquGIsFUq%2BJyQKm8oFg%3D&ehkOptimized=9lCtpWruIFKO7AXF7SiMwS1qAYKHbW%2FG%2Ft6kG5yltXY%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668214800
     },
     {
