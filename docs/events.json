@@ -1,36 +1,12 @@
 {
-  "fetched_at": 1667527077,
+  "fetched_at": 1667533581,
   "data": [
-    {
-      "slug": "tournament/moonwalk-tournament-series-24/event/melee-ladder",
-      "tournament_name": "Moonwalk Tournament Series 24",
-      "event_name": "Melee Ladder",
-      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
-      "entrants": 1,
-      "start_time": 1667516400
-    },
-    {
-      "slug": "tournament/moonwalk-tournament-series-24/event/melee-doubles",
-      "tournament_name": "Moonwalk Tournament Series 24",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
-      "entrants": 0,
-      "start_time": 1667516400
-    },
-    {
-      "slug": "tournament/moonwalk-tournament-series-24/event/melee-top-12",
-      "tournament_name": "Moonwalk Tournament Series 24",
-      "event_name": "Melee Top 12",
-      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
-      "entrants": 0,
-      "start_time": 1667516400
-    },
     {
       "slug": "tournament/aero-s-arena-17-wc-50-prizepool/event/wc-melee-singles",
       "tournament_name": "Aero's Arena #17 WC - $50 Prizepool",
       "event_name": "WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/494137/image-c3f1ecb52c036624d1ceb5da98aacc72.jpg?ehk=QEUGAH9psgfp39I%2FBG1b0pftwG7fKrZ30kKAXgDA4zo%3D&ehkOptimized=kJoOh8jJ3cY1TutM15dmy72vD1i4QBBkNoF5LwYgMGg%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1667527200
     },
     {
@@ -86,7 +62,7 @@
       "tournament_name": "Scrub Summit 11",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/494420/image-830b9f65e5efc405374bf43b7c6afa59.png?ehk=YN0JSrIddZA32WmQJgJFG4mtc5WhlYoNSmKHvW0rMdE%3D&ehkOptimized=20wtsz4SX9SmXOaUxumvG9cKRFSgObn99acGbLo%2BrA8%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1667678400
     },
     {
@@ -158,7 +134,7 @@
       "tournament_name": "NEW Sizzling Sundays #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494077/image-241598449668e1fa0808f5a04692032d.png?ehk=sSglrltzORX7pBA5ag45kXioUEE1Wts8CiJ7hNwgS2g%3D&ehkOptimized=bGeEkMicgMdPXrR5P9%2F2PKREE%2FKiiu%2BKsEr68HKq8Rs%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1667781000
     },
     {
@@ -166,7 +142,7 @@
       "tournament_name": "Woop Melee! #51",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/455902/image-b6adc84c187fc56be4b5ebef40af1cc3.png?ehk=meJHD%2Fs2BCha4Yzb0AZiJE9nCh3HrLLUnrqc1pFzCHk%3D&ehkOptimized=FQ%2F5SZLjNx1wawgW0A3%2B3ob2jU7qlDm287Nzx2JsYVM%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1667865600
     },
     {
@@ -254,7 +230,7 @@
       "tournament_name": "Melee Legends 4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493654/image-dfe6a476b4ae5c4ae7088aa229ed1e8c.png?ehk=gwlZOs6d7VIY1SW%2F9YppDMgHjquGIsFUq%2BJyQKm8oFg%3D&ehkOptimized=9lCtpWruIFKO7AXF7SiMwS1qAYKHbW%2FG%2Ft6kG5yltXY%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668214800
     },
     {
@@ -318,7 +294,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1669496400
     },
     {
