@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667562679,
+  "fetched_at": 1667565693,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-14-1/event/melee-singles",
       "tournament_name": "ASL’s Weekly Weekend Melee #14",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494865/image-075d1c6e131b4119119cf60d506ac28f.png?ehk=MyvgYjq5cMmR4WXeORBAihXuvc2paVUtXoRRHxYug6g%3D&ehkOptimized=xsmMEn0VKzq2NoukOscHNVoSRNL9WYWb5Di5X02G6h8%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1667579400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Raccoon Rumble #3 !!!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494874/image-a16f9115814e4c632afbb3f38e50b830.jpg?ehk=HSpnEyJPm%2B50m7tBZPQdqMLQyB%2FoT7GTkPQ74kd64ng%3D&ehkOptimized=mPlrQETKWGrRRmzm3d3rI9ZPtHwhyua7iAsuJdyOd2I%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1667588400
     },
     {
@@ -26,11 +26,19 @@
       "start_time": 1667606400
     },
     {
+      "slug": "tournament/east-coast-fridays-228/event/melee-singles",
+      "tournament_name": "East Coast Fridays #228",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/494887/image-ce38652f199e6c8ecf7cafd9fe34be3a.png?ehk=qaSldv8vM%2B45Uhv4XhBu9MjAeF7m9Gy2jKuwYQY%2F%2BMQ%3D&ehkOptimized=gMkppcpUaRoinfJQSb64qZFvflHoaOrdsiFAmTAOehs%3D",
+      "entrants": 0,
+      "start_time": 1667606400
+    },
+    {
       "slug": "tournament/house-call/event/melee-singles",
       "tournament_name": "House Call",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/492950/image-e3eaac75d1018657cbbf05e4e57fcb02.png?ehk=hCFHS7xDwQMIiCP%2BKZF0MwIs5WXKmqjapYB9uNHIptE%3D&ehkOptimized=saGKyI0DVTZkJbrRb%2FzwCMQxQ0BFtgD%2FNxLt%2BqDrHRo%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1667615400
     },
     {
@@ -318,7 +326,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "EU Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1669550400
     },
     {
