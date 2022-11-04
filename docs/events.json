@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1667587640,
+  "fetched_at": 1667589356,
   "data": [
-    {
-      "slug": "tournament/raccoon-rumble-3-1/event/melee-singles",
-      "tournament_name": "Raccoon Rumble #3 !!!",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/494874/image-a16f9115814e4c632afbb3f38e50b830.jpg?ehk=HSpnEyJPm%2B50m7tBZPQdqMLQyB%2FoT7GTkPQ74kd64ng%3D&ehkOptimized=mPlrQETKWGrRRmzm3d3rI9ZPtHwhyua7iAsuJdyOd2I%3D",
-      "entrants": 16,
-      "start_time": 1667588400
-    },
     {
       "slug": "tournament/fgc-friday-15-solar-circuit-qualifier/event/melee-singles",
       "tournament_name": "FGC Friday #15 (Solar Circuit Qualifier)",
@@ -22,7 +14,7 @@
       "tournament_name": "East Coast Fridays #228",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494887/image-ce38652f199e6c8ecf7cafd9fe34be3a.png?ehk=qaSldv8vM%2B45Uhv4XhBu9MjAeF7m9Gy2jKuwYQY%2F%2BMQ%3D&ehkOptimized=gMkppcpUaRoinfJQSb64qZFvflHoaOrdsiFAmTAOehs%3D",
-      "entrants": 21,
+      "entrants": 23,
       "start_time": 1667606400
     },
     {
@@ -30,7 +22,7 @@
       "tournament_name": "House Call",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/492950/image-e3eaac75d1018657cbbf05e4e57fcb02.png?ehk=hCFHS7xDwQMIiCP%2BKZF0MwIs5WXKmqjapYB9uNHIptE%3D&ehkOptimized=saGKyI0DVTZkJbrRb%2FzwCMQxQ0BFtgD%2FNxLt%2BqDrHRo%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1667615400
     },
     {
@@ -46,7 +38,7 @@
       "tournament_name": "[$350] CG Melee Monthly - November 2022",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1667674800
     },
     {
@@ -238,7 +230,7 @@
       "tournament_name": "Only Noobs 92",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668124800
     },
     {
