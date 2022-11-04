@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667591480,
+  "fetched_at": 1667593364,
   "data": [
     {
       "slug": "tournament/fgc-friday-15-solar-circuit-qualifier/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "East Coast Fridays #228",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494887/image-ce38652f199e6c8ecf7cafd9fe34be3a.png?ehk=qaSldv8vM%2B45Uhv4XhBu9MjAeF7m9Gy2jKuwYQY%2F%2BMQ%3D&ehkOptimized=gMkppcpUaRoinfJQSb64qZFvflHoaOrdsiFAmTAOehs%3D",
-      "entrants": 25,
+      "entrants": 29,
       "start_time": 1667606400
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Scrub Summit 11",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/494420/image-830b9f65e5efc405374bf43b7c6afa59.png?ehk=YN0JSrIddZA32WmQJgJFG4mtc5WhlYoNSmKHvW0rMdE%3D&ehkOptimized=20wtsz4SX9SmXOaUxumvG9cKRFSgObn99acGbLo%2BrA8%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1667678400
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "salty.net/jas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1667764800
     },
     {
