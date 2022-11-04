@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667595203,
+  "fetched_at": 1667596627,
   "data": [
     {
       "slug": "tournament/fgc-friday-15-solar-circuit-qualifier/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "East Coast Fridays #228",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494887/image-ce38652f199e6c8ecf7cafd9fe34be3a.png?ehk=qaSldv8vM%2B45Uhv4XhBu9MjAeF7m9Gy2jKuwYQY%2F%2BMQ%3D&ehkOptimized=gMkppcpUaRoinfJQSb64qZFvflHoaOrdsiFAmTAOehs%3D",
-      "entrants": 32,
+      "entrants": 36,
       "start_time": 1667606400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "House Call",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/492950/image-e3eaac75d1018657cbbf05e4e57fcb02.png?ehk=hCFHS7xDwQMIiCP%2BKZF0MwIs5WXKmqjapYB9uNHIptE%3D&ehkOptimized=saGKyI0DVTZkJbrRb%2FzwCMQxQ0BFtgD%2FNxLt%2BqDrHRo%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1667615400
     },
     {
@@ -32,6 +32,14 @@
       "image": "https://images.start.gg/images/tournament/492834/image-5873e443c8d1c2240888e88faf7d5b67.png?ehk=gxqsS5USzgZtpYmcm6JJpX5uHQIUbL7VztOmCIHDMWM%3D&ehkOptimized=uDlcxolIEOx7%2BkVzSZeK2S1b9glPVtOM1W7H3ibs6yQ%3D",
       "entrants": 14,
       "start_time": 1667656800
+    },
+    {
+      "slug": "tournament/quest-for-best-noob-eu-44-a-qfbn-all-star/event/newbie-singles",
+      "tournament_name": "Quest for Best Noob EU #44 A QFBN All Star Summit Qualifier Event",
+      "event_name": "Newbie Singles",
+      "image": "https://images.start.gg/images/tournament/495026/image-3a5456e5b3f77e0be926363ccec4650e.jpg?ehk=7trB6XMcNqiUAHUPDcqGKY4AmWeVxm7D7k3SSOHJ46U%3D&ehkOptimized=7CYQl%2FV60iwN2lF%2BW1qe3QzD%2B4A6NBPOrB8kf4Lfo0A%3D",
+      "entrants": 2,
+      "start_time": 1667662200
     },
     {
       "slug": "tournament/350-cg-melee-monthly-november-2022/event/east-coast",
