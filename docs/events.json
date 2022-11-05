@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667656282,
+  "fetched_at": 1667657769,
   "data": [
     {
       "slug": "tournament/quest-for-best-noob-eu-44-a-qfbn-all-star/event/newbie-singles",
       "tournament_name": "Quest for Best Noob EU #44 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/495026/image-3a5456e5b3f77e0be926363ccec4650e.jpg?ehk=7trB6XMcNqiUAHUPDcqGKY4AmWeVxm7D7k3SSOHJ46U%3D&ehkOptimized=7CYQl%2FV60iwN2lF%2BW1qe3QzD%2B4A6NBPOrB8kf4Lfo0A%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1667662200
     },
     {
@@ -34,14 +34,6 @@
       "start_time": 1667682000
     },
     {
-      "slug": "tournament/scrub-summit-11/event/singles-pools",
-      "tournament_name": "Scrub Summit 11",
-      "event_name": "Singles Pools",
-      "image": "https://images.start.gg/images/tournament/494420/image-830b9f65e5efc405374bf43b7c6afa59.png?ehk=YN0JSrIddZA32WmQJgJFG4mtc5WhlYoNSmKHvW0rMdE%3D&ehkOptimized=20wtsz4SX9SmXOaUxumvG9cKRFSgObn99acGbLo%2BrA8%3D",
-      "entrants": 15,
-      "start_time": 1667678400
-    },
-    {
       "slug": "tournament/scrub-summit-11/event/doubles-ladder",
       "tournament_name": "Scrub Summit 11",
       "event_name": "Doubles Ladder",
@@ -58,11 +50,19 @@
       "start_time": 1667678400
     },
     {
+      "slug": "tournament/scrub-summit-11/event/singles-pools",
+      "tournament_name": "Scrub Summit 11",
+      "event_name": "Singles Pools",
+      "image": "https://images.start.gg/images/tournament/494420/image-830b9f65e5efc405374bf43b7c6afa59.png?ehk=YN0JSrIddZA32WmQJgJFG4mtc5WhlYoNSmKHvW0rMdE%3D&ehkOptimized=20wtsz4SX9SmXOaUxumvG9cKRFSgObn99acGbLo%2BrA8%3D",
+      "entrants": 16,
+      "start_time": 1667685600
+    },
+    {
       "slug": "tournament/after-dark-melee-3/event/after-dark-singles",
       "tournament_name": "After Dark Melee #3",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/493268/image-4f10538829c50fe387122cab0be68d31.png?ehk=sGpJuQxbAf5Ln2zarUZ%2BTmn2rEoczTaR1Gbl85WXF9Y%3D&ehkOptimized=Hc1d2p%2B2K0MHvkpVXuB%2BwHFT04zxbE5sCF3qm03jucg%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667679300
     },
     {
@@ -71,6 +71,14 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493401/image-d7918a85bf0f0269d170d25ade2d088a.png?ehk=33VujcU9NRiteoxwfW9jyMNxoh5F4Jmuw687C9PqNMU%3D&ehkOptimized=2CHx%2BeHFjpvciaXaZ2XSj5tvOZxLHv4KI1HhCz15LaU%3D",
       "entrants": 5,
+      "start_time": 1667682000
+    },
+    {
+      "slug": "tournament/legs-le-tournament-56/event/melee-singles",
+      "tournament_name": "Legs' Le Tournament #56",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/495146/image-ab8c89a119999ad14cb206e92b045f5d.png?ehk=XZg0lsIE8aTUlo0eAY9HFTDHHneSA2bqCeUI%2BJBaHks%3D&ehkOptimized=BZ9y%2BAk9vbcF1HrsPx3l8y5SBboONIKpqtviOoex3q0%3D",
+      "entrants": 2,
       "start_time": 1667682000
     },
     {
@@ -118,7 +126,7 @@
       "tournament_name": "NEW Sizzling Sundays #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494077/image-241598449668e1fa0808f5a04692032d.png?ehk=sSglrltzORX7pBA5ag45kXioUEE1Wts8CiJ7hNwgS2g%3D&ehkOptimized=bGeEkMicgMdPXrR5P9%2F2PKREE%2FKiiu%2BKsEr68HKq8Rs%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1667781000
     },
     {
