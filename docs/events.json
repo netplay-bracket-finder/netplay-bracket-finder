@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667679741,
+  "fetched_at": 1667680929,
   "data": [
     {
       "slug": "tournament/scrub-summit-11/event/doubles-ladder",
@@ -22,16 +22,8 @@
       "tournament_name": "Scrub Summit 11",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/494420/image-830b9f65e5efc405374bf43b7c6afa59.png?ehk=YN0JSrIddZA32WmQJgJFG4mtc5WhlYoNSmKHvW0rMdE%3D&ehkOptimized=20wtsz4SX9SmXOaUxumvG9cKRFSgObn99acGbLo%2BrA8%3D",
-      "entrants": 34,
+      "entrants": 37,
       "start_time": 1667685600
-    },
-    {
-      "slug": "tournament/legs-le-tournament-56/event/melee-singles",
-      "tournament_name": "Legs' Le Tournament #56",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/495146/image-ab8c89a119999ad14cb206e92b045f5d.png?ehk=XZg0lsIE8aTUlo0eAY9HFTDHHneSA2bqCeUI%2BJBaHks%3D&ehkOptimized=BZ9y%2BAk9vbcF1HrsPx3l8y5SBboONIKpqtviOoex3q0%3D",
-      "entrants": 26,
-      "start_time": 1667682000
     },
     {
       "slug": "tournament/bro-help-me-melee-doubles-1/event/bro-help-me-melee-doubles-1",
@@ -262,7 +254,7 @@
       "tournament_name": "Melee Legends 4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493654/image-dfe6a476b4ae5c4ae7088aa229ed1e8c.png?ehk=gwlZOs6d7VIY1SW%2F9YppDMgHjquGIsFUq%2BJyQKm8oFg%3D&ehkOptimized=9lCtpWruIFKO7AXF7SiMwS1qAYKHbW%2FG%2Ft6kG5yltXY%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1668214800
     },
     {
