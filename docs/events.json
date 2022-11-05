@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1667606053,
+  "fetched_at": 1667613026,
   "data": [
-    {
-      "slug": "tournament/fgc-friday-15-solar-circuit-qualifier/event/melee-singles",
-      "tournament_name": "FGC Friday #15 (Solar Circuit Qualifier)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/494802/image-a98d20a817e0dd283e0915f6ed6e2a73.png?ehk=GkcBFkbzlVzqXgJZVqEL0wg9GIvsjcrku6ATpjgBFIo%3D&ehkOptimized=65rrbgmXxFhZLLyKFlCxALwa1l2ACUoPW1Oph6hLQ%2BI%3D",
-      "entrants": 0,
-      "start_time": 1667606400
-    },
     {
       "slug": "tournament/east-coast-fridays-228/event/melee-singles",
       "tournament_name": "East Coast Fridays #228",
@@ -22,8 +14,16 @@
       "tournament_name": "House Call",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/492950/image-e3eaac75d1018657cbbf05e4e57fcb02.png?ehk=hCFHS7xDwQMIiCP%2BKZF0MwIs5WXKmqjapYB9uNHIptE%3D&ehkOptimized=saGKyI0DVTZkJbrRb%2FzwCMQxQ0BFtgD%2FNxLt%2BqDrHRo%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1667615400
+    },
+    {
+      "slug": "tournament/ggs-too-sleepy-28/event/sleepy-singles",
+      "tournament_name": "ggs too sleepy #28",
+      "event_name": "sleepy singles",
+      "image": "https://images.start.gg/images/tournament/495061/image-38599fb9124bf2a1380a284859e8114a.png?ehk=a9ZuHtsLcMD3jE5M3VNq%2BLIZLpbhr3MJM6QQDdab2Z0%3D&ehkOptimized=6J4weHGZ2PaEXBh8Mixz0RAqcrVqNUZKyVBJU58d2rI%3D",
+      "entrants": 10,
+      "start_time": 1667619000
     },
     {
       "slug": "tournament/from-the-ashes-9/event/melee-singles",
@@ -62,7 +62,7 @@
       "tournament_name": "[$350] CG Melee Monthly - November 2022",
       "event_name": "West Coast",
       "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
-      "entrants": 9,
+      "entrants": 11,
       "start_time": 1667682000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Scrub Summit 11",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/494420/image-830b9f65e5efc405374bf43b7c6afa59.png?ehk=YN0JSrIddZA32WmQJgJFG4mtc5WhlYoNSmKHvW0rMdE%3D&ehkOptimized=20wtsz4SX9SmXOaUxumvG9cKRFSgObn99acGbLo%2BrA8%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1667678400
     },
     {
