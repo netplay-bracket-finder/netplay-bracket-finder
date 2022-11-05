@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667672554,
+  "fetched_at": 1667673869,
   "data": [
     {
       "slug": "tournament/350-cg-melee-monthly-november-2022/event/east-coast",
       "tournament_name": "[$350] CG Melee Monthly - November 2022",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
-      "entrants": 19,
+      "entrants": 20,
       "start_time": 1667674800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "[$350] CG Melee Monthly - November 2022",
       "event_name": "West Coast",
       "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1667682000
     },
     {
