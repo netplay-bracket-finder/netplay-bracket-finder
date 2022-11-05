@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667669979,
+  "fetched_at": 1667670683,
   "data": [
     {
       "slug": "tournament/350-cg-melee-monthly-november-2022/event/east-coast",
       "tournament_name": "[$350] CG Melee Monthly - November 2022",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1667674800
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "After Dark Melee #3",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/493268/image-4f10538829c50fe387122cab0be68d31.png?ehk=sGpJuQxbAf5Ln2zarUZ%2BTmn2rEoczTaR1Gbl85WXF9Y%3D&ehkOptimized=Hc1d2p%2B2K0MHvkpVXuB%2BwHFT04zxbE5sCF3qm03jucg%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1667679300
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Legs' Le Tournament #56",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495146/image-ab8c89a119999ad14cb206e92b045f5d.png?ehk=XZg0lsIE8aTUlo0eAY9HFTDHHneSA2bqCeUI%2BJBaHks%3D&ehkOptimized=BZ9y%2BAk9vbcF1HrsPx3l8y5SBboONIKpqtviOoex3q0%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1667682000
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "salty.net/jas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
-      "entrants": 25,
+      "entrants": 26,
       "start_time": 1667764800
     },
     {
