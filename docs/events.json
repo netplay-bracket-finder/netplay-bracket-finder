@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667661522,
+  "fetched_at": 1667662868,
   "data": [
     {
       "slug": "tournament/350-cg-melee-monthly-november-2022/event/east-coast",
       "tournament_name": "[$350] CG Melee Monthly - November 2022",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1667674800
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Legs' Le Tournament #56",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495146/image-ab8c89a119999ad14cb206e92b045f5d.png?ehk=XZg0lsIE8aTUlo0eAY9HFTDHHneSA2bqCeUI%2BJBaHks%3D&ehkOptimized=BZ9y%2BAk9vbcF1HrsPx3l8y5SBboONIKpqtviOoex3q0%3D",
-      "entrants": 7,
+      "entrants": 9,
       "start_time": 1667682000
     },
     {
@@ -310,7 +310,7 @@
       "tournament_name": "Bimensual de Patatatas 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495053/image-2b67f97d1dd547c16e863b32ffc58ce0.png?ehk=bogqDehbOSKFLsiHDhYO9XUhVz6nASNTRGDtPHtvt9A%3D&ehkOptimized=z%2FJRZGIqyQIH5EFe4CdUGPnXXM7Db2pZVSHwUzrM%2BJs%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668283200
     },
     {
