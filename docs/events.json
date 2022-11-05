@@ -1,30 +1,6 @@
 {
-  "fetched_at": 1667677877,
+  "fetched_at": 1667679741,
   "data": [
-    {
-      "slug": "tournament/350-cg-melee-monthly-november-2022/event/east-coast",
-      "tournament_name": "[$350] CG Melee Monthly - November 2022",
-      "event_name": "East Coast",
-      "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
-      "entrants": 20,
-      "start_time": 1667674800
-    },
-    {
-      "slug": "tournament/350-cg-melee-monthly-november-2022/event/ec-vs-wc-exhibition",
-      "tournament_name": "[$350] CG Melee Monthly - November 2022",
-      "event_name": "EC vs WC Exhibition",
-      "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
-      "entrants": 0,
-      "start_time": 1667674800
-    },
-    {
-      "slug": "tournament/350-cg-melee-monthly-november-2022/event/west-coast",
-      "tournament_name": "[$350] CG Melee Monthly - November 2022",
-      "event_name": "West Coast",
-      "image": "https://images.start.gg/images/tournament/486191/image-f2d41b6dc8676aa6e390c18c41c91474.jpg?ehk=aqcuOjJ3Bbq%2F8i3hfjwIgVs1ZdtADLb%2B%2BcXPeM50sUA%3D&ehkOptimized=NXncFl25f8drE0OCXp9PCV93n9qtqJmgLg6q1TVX5d8%3D",
-      "entrants": 16,
-      "start_time": 1667682000
-    },
     {
       "slug": "tournament/scrub-summit-11/event/doubles-ladder",
       "tournament_name": "Scrub Summit 11",
@@ -46,31 +22,15 @@
       "tournament_name": "Scrub Summit 11",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/494420/image-830b9f65e5efc405374bf43b7c6afa59.png?ehk=YN0JSrIddZA32WmQJgJFG4mtc5WhlYoNSmKHvW0rMdE%3D&ehkOptimized=20wtsz4SX9SmXOaUxumvG9cKRFSgObn99acGbLo%2BrA8%3D",
-      "entrants": 33,
+      "entrants": 34,
       "start_time": 1667685600
-    },
-    {
-      "slug": "tournament/after-dark-melee-3/event/after-dark-singles",
-      "tournament_name": "After Dark Melee #3",
-      "event_name": "After Dark Singles",
-      "image": "https://images.start.gg/images/tournament/493268/image-4f10538829c50fe387122cab0be68d31.png?ehk=sGpJuQxbAf5Ln2zarUZ%2BTmn2rEoczTaR1Gbl85WXF9Y%3D&ehkOptimized=Hc1d2p%2B2K0MHvkpVXuB%2BwHFT04zxbE5sCF3qm03jucg%3D",
-      "entrants": 14,
-      "start_time": 1667679300
-    },
-    {
-      "slug": "tournament/explosion-series-1-first-or-bust/event/melee-singles",
-      "tournament_name": "Explosion Series 1: First Or Bust",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493401/image-d7918a85bf0f0269d170d25ade2d088a.png?ehk=33VujcU9NRiteoxwfW9jyMNxoh5F4Jmuw687C9PqNMU%3D&ehkOptimized=2CHx%2BeHFjpvciaXaZ2XSj5tvOZxLHv4KI1HhCz15LaU%3D",
-      "entrants": 6,
-      "start_time": 1667682000
     },
     {
       "slug": "tournament/legs-le-tournament-56/event/melee-singles",
       "tournament_name": "Legs' Le Tournament #56",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495146/image-ab8c89a119999ad14cb206e92b045f5d.png?ehk=XZg0lsIE8aTUlo0eAY9HFTDHHneSA2bqCeUI%2BJBaHks%3D&ehkOptimized=BZ9y%2BAk9vbcF1HrsPx3l8y5SBboONIKpqtviOoex3q0%3D",
-      "entrants": 20,
+      "entrants": 26,
       "start_time": 1667682000
     },
     {
@@ -80,6 +40,14 @@
       "image": "",
       "entrants": 0,
       "start_time": 1667689200
+    },
+    {
+      "slug": "tournament/clover-crucible-8/event/melee-singles",
+      "tournament_name": "cloveR Crucible #8",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/495218/image-b04abad81e7c3740a7e05a4b147bf2b2.jpg?ehk=wPyAxP0TtxOk4X7TcAosP1JoV5e%2FWfzmzvRWP9BHqDs%3D&ehkOptimized=4zrzG89diBhaGKU%2FGOb98muLl98VPVLXWmer4lY1Sxg%3D",
+      "entrants": 3,
+      "start_time": 1667692800
     },
     {
       "slug": "tournament/break-the-blocks-a-green-greens-block-destroying-battle-ec/event/melee-singles-break-the-blocks",
@@ -318,7 +286,7 @@
       "tournament_name": "Bimensual de Patatatas 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495053/image-2b67f97d1dd547c16e863b32ffc58ce0.png?ehk=bogqDehbOSKFLsiHDhYO9XUhVz6nASNTRGDtPHtvt9A%3D&ehkOptimized=z%2FJRZGIqyQIH5EFe4CdUGPnXXM7Db2pZVSHwUzrM%2BJs%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668283200
     },
     {
