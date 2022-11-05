@@ -1,28 +1,12 @@
 {
-  "fetched_at": 1667630799,
+  "fetched_at": 1667632634,
   "data": [
-    {
-      "slug": "tournament/east-coast-fridays-228/event/melee-singles",
-      "tournament_name": "East Coast Fridays #228",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/494887/image-ce38652f199e6c8ecf7cafd9fe34be3a.png?ehk=qaSldv8vM%2B45Uhv4XhBu9MjAeF7m9Gy2jKuwYQY%2F%2BMQ%3D&ehkOptimized=gMkppcpUaRoinfJQSb64qZFvflHoaOrdsiFAmTAOehs%3D",
-      "entrants": 83,
-      "start_time": 1667606400
-    },
-    {
-      "slug": "tournament/ggs-too-sleepy-28/event/sleepy-singles",
-      "tournament_name": "ggs too sleepy #28",
-      "event_name": "sleepy singles",
-      "image": "https://images.start.gg/images/tournament/495061/image-38599fb9124bf2a1380a284859e8114a.png?ehk=a9ZuHtsLcMD3jE5M3VNq%2BLIZLpbhr3MJM6QQDdab2Z0%3D&ehkOptimized=6J4weHGZ2PaEXBh8Mixz0RAqcrVqNUZKyVBJU58d2rI%3D",
-      "entrants": 30,
-      "start_time": 1667619000
-    },
     {
       "slug": "tournament/from-the-ashes-9/event/melee-singles",
       "tournament_name": "From The Ashes #9",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492834/image-5873e443c8d1c2240888e88faf7d5b67.png?ehk=gxqsS5USzgZtpYmcm6JJpX5uHQIUbL7VztOmCIHDMWM%3D&ehkOptimized=uDlcxolIEOx7%2BkVzSZeK2S1b9glPVtOM1W7H3ibs6yQ%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1667656800
     },
     {
