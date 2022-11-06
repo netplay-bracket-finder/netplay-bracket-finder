@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667709821,
+  "fetched_at": 1667710749,
   "data": [
     {
       "slug": "tournament/bb-77-1/event/melee-singles",
       "tournament_name": "BB 77",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495120/image-a25762cde5df7540deb349c10a13d0b6.png?ehk=1ZZRh7mXx4iV6sHausAVAPQigN944FMmfL4LZAOlKy0%3D&ehkOptimized=XPihrGbfVffrGlfKwGZrpeQansHv9sO%2FdxNgbg3Vu64%3D",
-      "entrants": 23,
+      "entrants": 25,
       "start_time": 1667718000
     },
     {
@@ -82,6 +82,14 @@
       "start_time": 1667865600
     },
     {
+      "slug": "tournament/moose-tracks-2/event/melee-ladder",
+      "tournament_name": "Moose Tracks 2",
+      "event_name": "Melee Ladder",
+      "image": "https://images.start.gg/images/tournament/494032/image-af92f9e8b99e009d67144715aef0fa79.jpg?ehk=sRXOVM%2BASc%2FUN3RWbnhJs0VdoECIIrP%2BS4QCVYhWlB0%3D&ehkOptimized=MYFoRyaLT7PeotoLBOx6IDClALcy9I0S8TWBbtV8DaI%3D",
+      "entrants": 0,
+      "start_time": 1667865600
+    },
+    {
       "slug": "tournament/coast-to-coast-doubles-6/event/wc-doubles",
       "tournament_name": "Coast to Coast Doubles # 6",
       "event_name": "WC Doubles",
@@ -94,14 +102,6 @@
       "tournament_name": "Coast to Coast Doubles # 6",
       "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
-      "entrants": 0,
-      "start_time": 1667865600
-    },
-    {
-      "slug": "tournament/moose-tracks-2/event/melee-ladder",
-      "tournament_name": "Moose Tracks 2",
-      "event_name": "Melee Ladder",
-      "image": "https://images.start.gg/images/tournament/494032/image-af92f9e8b99e009d67144715aef0fa79.jpg?ehk=sRXOVM%2BASc%2FUN3RWbnhJs0VdoECIIrP%2BS4QCVYhWlB0%3D&ehkOptimized=MYFoRyaLT7PeotoLBOx6IDClALcy9I0S8TWBbtV8DaI%3D",
       "entrants": 0,
       "start_time": 1667865600
     },
