@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1667717161,
+  "fetched_at": 1667719058,
   "data": [
-    {
-      "slug": "tournament/bb-77-1/event/melee-singles",
-      "tournament_name": "BB 77",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/495120/image-a25762cde5df7540deb349c10a13d0b6.png?ehk=1ZZRh7mXx4iV6sHausAVAPQigN944FMmfL4LZAOlKy0%3D&ehkOptimized=XPihrGbfVffrGlfKwGZrpeQansHv9sO%2FdxNgbg3Vu64%3D",
-      "entrants": 31,
-      "start_time": 1667718000
-    },
     {
       "slug": "tournament/eli-s-weekly-low-tier-spanking-29/event/eli-s-weekly-low-tier-spanking-15",
       "tournament_name": "Eli's Weekly Low Tier Spanking 29",
@@ -38,7 +30,7 @@
       "tournament_name": "Fight of the fearless 26",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/494550/image-562112640ce23869753662e93e17a805.png?ehk=wcarIFJdqx%2BKle8lPjhJ39hTEd7M1fDHGO3HNariz6I%3D&ehkOptimized=65LmPNlJ%2BL0TE86VnBepOes7SY96A25oWQOFJzmQZCA%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1667757600
     },
     {
@@ -48,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
       "entrants": 32,
       "start_time": 1667764800
+    },
+    {
+      "slug": "tournament/salty-net-jas/event/amateur-bracket",
+      "tournament_name": "salty.net/jas",
+      "event_name": "Amateur Bracket",
+      "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
+      "entrants": 0,
+      "start_time": 1667772000
     },
     {
       "slug": "tournament/new-sizzling-sundays-2/event/melee-singles",
@@ -94,7 +94,7 @@
       "tournament_name": "Coast to Coast Doubles # 6",
       "event_name": "WC Doubles",
       "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1667865600
     },
     {
