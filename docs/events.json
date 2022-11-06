@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667757082,
+  "fetched_at": 1667758991,
   "data": [
     {
       "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
@@ -18,19 +18,11 @@
       "start_time": 1667757600
     },
     {
-      "slug": "tournament/fight-of-the-fearless-26/event/fight-of-the-fearless-single",
-      "tournament_name": "Fight of the fearless 26",
-      "event_name": "Fight Of The Fearless single",
-      "image": "https://images.start.gg/images/tournament/494550/image-562112640ce23869753662e93e17a805.png?ehk=wcarIFJdqx%2BKle8lPjhJ39hTEd7M1fDHGO3HNariz6I%3D&ehkOptimized=65LmPNlJ%2BL0TE86VnBepOes7SY96A25oWQOFJzmQZCA%3D",
-      "entrants": 26,
-      "start_time": 1667757600
-    },
-    {
       "slug": "tournament/melee-weekly-br-5/event/melee-singles",
       "tournament_name": "Melee Weekly BR #5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495362/image-af3dfcb42c7d764afbb6ca4b4c4624aa.png?ehk=4s73YL5pvxnP43HtVVo%2BhmrW9hOibT%2FHXaz3NVZHSIM%3D&ehkOptimized=wXGAt3H7rqWCCODjgeymMerxWpHpOrDXeg99TLtHJHk%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1667763000
     },
     {
