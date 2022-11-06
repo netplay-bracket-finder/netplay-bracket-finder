@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667692326,
+  "fetched_at": 1667699564,
   "data": [
     {
       "slug": "tournament/bb-77-1/event/melee-singles",
       "tournament_name": "BB 77",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495120/image-a25762cde5df7540deb349c10a13d0b6.png?ehk=1ZZRh7mXx4iV6sHausAVAPQigN944FMmfL4LZAOlKy0%3D&ehkOptimized=XPihrGbfVffrGlfKwGZrpeQansHv9sO%2FdxNgbg3Vu64%3D",
-      "entrants": 11,
+      "entrants": 16,
       "start_time": 1667718000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Fight of the fearless 26",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/494550/image-562112640ce23869753662e93e17a805.png?ehk=wcarIFJdqx%2BKle8lPjhJ39hTEd7M1fDHGO3HNariz6I%3D&ehkOptimized=65LmPNlJ%2BL0TE86VnBepOes7SY96A25oWQOFJzmQZCA%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1667757600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "salty.net/jas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
-      "entrants": 26,
+      "entrants": 28,
       "start_time": 1667764800
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "Melee Legends 4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493654/image-dfe6a476b4ae5c4ae7088aa229ed1e8c.png?ehk=gwlZOs6d7VIY1SW%2F9YppDMgHjquGIsFUq%2BJyQKm8oFg%3D&ehkOptimized=9lCtpWruIFKO7AXF7SiMwS1qAYKHbW%2FG%2Ft6kG5yltXY%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1668214800
     },
     {
