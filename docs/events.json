@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1667762199,
+  "fetched_at": 1667763446,
   "data": [
-    {
-      "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
-      "tournament_name": "The Wolf's Den #2",
-      "event_name": "The Wolf's Den #2",
-      "image": "https://images.start.gg/images/tournament/495394/image-fd79d4ec163b4739409eef0d5d2b5135.png?ehk=6BLadgbRonHOuUmMdFfCzNSPoPY%2FMM6V4ubBafWNqKU%3D&ehkOptimized=Fs10UPrCu%2B0qQTR8BDaDcFr7KdgRiDU29rP7WCCUY%2F4%3D",
-      "entrants": 3,
-      "start_time": 1667764800
-    },
     {
       "slug": "tournament/shitters-on-stream-1-the-big-one/event/melee-singles",
       "tournament_name": "Shitters on Stream #1: The Big One",
@@ -16,22 +8,6 @@
       "image": "https://images.start.gg/images/tournament/486603/image-868b234c9334c3df3e83783efe13726c.jpg?ehk=ifD49nwck8qT0Ch2KLYPZWdAqoif2C174HaZHmS%2FI7E%3D&ehkOptimized=x7Lw2GuvVJkO923Jsoo%2Bq%2BPw%2FRUjfFroKvsX1wjdU6Q%3D",
       "entrants": 8,
       "start_time": 1667757600
-    },
-    {
-      "slug": "tournament/salty-net-jas/event/melee-singles",
-      "tournament_name": "salty.net/jas",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
-      "entrants": 35,
-      "start_time": 1667764800
-    },
-    {
-      "slug": "tournament/salty-net-jas/event/amateur-bracket",
-      "tournament_name": "salty.net/jas",
-      "event_name": "Amateur Bracket",
-      "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
-      "entrants": 0,
-      "start_time": 1667772000
     },
     {
       "slug": "tournament/new-sizzling-sundays-2/event/melee-singles",
@@ -46,7 +22,7 @@
       "tournament_name": "SCSS East Coast #93",
       "event_name": "SCSS Singles",
       "image": "https://images.start.gg/images/tournament/495017/image-d81e6ec5d132074330ec490737a6a291.png?ehk=I%2BvKI9qKpLhUByBrW5yfyhXJrL7V11JGiRPDJBRYiMg%3D&ehkOptimized=qeTQ253W%2FyiDskAKi3WVthJJSTXtFOw%2BFkA8q8h9ZQQ%3D",
-      "entrants": 0,
+      "entrants": 3,
       "start_time": 1667781000
     },
     {
@@ -54,7 +30,7 @@
       "tournament_name": "No Melee on Sundays 16",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495379/image-5246f53cf90530c0c764338ef3696317.png?ehk=faHf8EoXEN4ggVVK2kXFhlTWu2pFEvHXjagqNkFP31s%3D&ehkOptimized=6cCVf4JcWfczd1krU%2BMJGBe94aQD6bQSOo0iCY6tI%2BY%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1667782800
     },
     {
@@ -248,6 +224,14 @@
       "image": "https://images.start.gg/images/tournament/493083/image-9d5fc116fdfa6184b339911757eb673b.png?ehk=YVsoY0upd%2F0mVapphgSgEG4EPhz3kUpOQVh3TcQpFVw%3D&ehkOptimized=yw%2F%2BY6EQM4VebSP7J2UeBSYt%2BIpxt8sXejSsAJd6OWI%3D",
       "entrants": 0,
       "start_time": 1668294000
+    },
+    {
+      "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
+      "tournament_name": "The Wolf's Den #2",
+      "event_name": "The Wolf's Den #2",
+      "image": "https://images.start.gg/images/tournament/495394/image-fd79d4ec163b4739409eef0d5d2b5135.png?ehk=6BLadgbRonHOuUmMdFfCzNSPoPY%2FMM6V4ubBafWNqKU%3D&ehkOptimized=Fs10UPrCu%2B0qQTR8BDaDcFr7KdgRiDU29rP7WCCUY%2F4%3D",
+      "entrants": 3,
+      "start_time": 1668376800
     },
     {
       "slug": "tournament/melee-s-weekend-beat-down/event/melee-singles",
