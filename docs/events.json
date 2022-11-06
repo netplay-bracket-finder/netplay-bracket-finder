@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667745546,
+  "fetched_at": 1667746288,
   "data": [
     {
       "slug": "tournament/dorime-s-dojo-7/event/melee-singles",
@@ -10,11 +10,19 @@
       "start_time": 1667754000
     },
     {
+      "slug": "tournament/shitters-on-stream-1-the-big-one/event/melee-singles",
+      "tournament_name": "Shitters on Stream #1: The Big One",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/486603/image-868b234c9334c3df3e83783efe13726c.jpg?ehk=ifD49nwck8qT0Ch2KLYPZWdAqoif2C174HaZHmS%2FI7E%3D&ehkOptimized=x7Lw2GuvVJkO923Jsoo%2Bq%2BPw%2FRUjfFroKvsX1wjdU6Q%3D",
+      "entrants": 8,
+      "start_time": 1667757600
+    },
+    {
       "slug": "tournament/fight-of-the-fearless-26/event/fight-of-the-fearless-single",
       "tournament_name": "Fight of the fearless 26",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/494550/image-562112640ce23869753662e93e17a805.png?ehk=wcarIFJdqx%2BKle8lPjhJ39hTEd7M1fDHGO3HNariz6I%3D&ehkOptimized=65LmPNlJ%2BL0TE86VnBepOes7SY96A25oWQOFJzmQZCA%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1667757600
     },
     {
