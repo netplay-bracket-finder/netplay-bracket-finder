@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667764292,
+  "fetched_at": 1667766001,
   "data": [
     {
       "slug": "tournament/shitters-on-stream-1-the-big-one/event/melee-singles",
@@ -10,11 +10,19 @@
       "start_time": 1667757600
     },
     {
+      "slug": "tournament/kalvar-cup-68/event/melee-singles",
+      "tournament_name": "Kalvar Cup #68",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/495459/image-0a4d0002a3716886907b868f3e87f0c5.png?ehk=PzLlus58oJ9Pp%2BzJs8rQtumn2%2BP18ctZZHiOL%2BVvYtg%3D&ehkOptimized=kKEkbLUrZeV4roiDr9c0WmVTGAfiJoAoWBqLwN2VCAs%3D",
+      "entrants": 1,
+      "start_time": 1667777460
+    },
+    {
       "slug": "tournament/new-sizzling-sundays-2/event/melee-singles",
       "tournament_name": "NEW Sizzling Sundays #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494077/image-241598449668e1fa0808f5a04692032d.png?ehk=sSglrltzORX7pBA5ag45kXioUEE1Wts8CiJ7hNwgS2g%3D&ehkOptimized=bGeEkMicgMdPXrR5P9%2F2PKREE%2FKiiu%2BKsEr68HKq8Rs%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1667781000
     },
     {
@@ -22,7 +30,7 @@
       "tournament_name": "SCSS East Coast #93",
       "event_name": "SCSS Singles",
       "image": "https://images.start.gg/images/tournament/495017/image-d81e6ec5d132074330ec490737a6a291.png?ehk=I%2BvKI9qKpLhUByBrW5yfyhXJrL7V11JGiRPDJBRYiMg%3D&ehkOptimized=qeTQ253W%2FyiDskAKi3WVthJJSTXtFOw%2BFkA8q8h9ZQQ%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1667781000
     },
     {
@@ -38,7 +46,7 @@
       "tournament_name": "SCSS West Coast #82",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495018/image-d476272d91bc5d7b365b84758c9c0f62.png?ehk=M7Sx8%2F3two%2ByqPnTYHvygeJYv3OBzEKhAYOjPe9rq2I%3D&ehkOptimized=Fi1hePc%2F3nxnQvbstDB17mm93R6%2Fz5GJmzTHGGOdZ%2BY%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1667784600
     },
     {
@@ -224,14 +232,6 @@
       "image": "https://images.start.gg/images/tournament/493083/image-9d5fc116fdfa6184b339911757eb673b.png?ehk=YVsoY0upd%2F0mVapphgSgEG4EPhz3kUpOQVh3TcQpFVw%3D&ehkOptimized=yw%2F%2BY6EQM4VebSP7J2UeBSYt%2BIpxt8sXejSsAJd6OWI%3D",
       "entrants": 0,
       "start_time": 1668294000
-    },
-    {
-      "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
-      "tournament_name": "The Wolf's Den #2",
-      "event_name": "The Wolf's Den #2",
-      "image": "https://images.start.gg/images/tournament/495394/image-fd79d4ec163b4739409eef0d5d2b5135.png?ehk=6BLadgbRonHOuUmMdFfCzNSPoPY%2FMM6V4ubBafWNqKU%3D&ehkOptimized=Fs10UPrCu%2B0qQTR8BDaDcFr7KdgRiDU29rP7WCCUY%2F4%3D",
-      "entrants": 3,
-      "start_time": 1668376800
     },
     {
       "slug": "tournament/melee-s-weekend-beat-down/event/melee-singles",
