@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667699564,
+  "fetched_at": 1667705121,
   "data": [
     {
       "slug": "tournament/bb-77-1/event/melee-singles",
       "tournament_name": "BB 77",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495120/image-a25762cde5df7540deb349c10a13d0b6.png?ehk=1ZZRh7mXx4iV6sHausAVAPQigN944FMmfL4LZAOlKy0%3D&ehkOptimized=XPihrGbfVffrGlfKwGZrpeQansHv9sO%2FdxNgbg3Vu64%3D",
-      "entrants": 16,
+      "entrants": 19,
       "start_time": 1667718000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "salty.net/jas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
-      "entrants": 28,
+      "entrants": 30,
       "start_time": 1667764800
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "SCSS West Coast #82",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495018/image-d476272d91bc5d7b365b84758c9c0f62.png?ehk=M7Sx8%2F3two%2ByqPnTYHvygeJYv3OBzEKhAYOjPe9rq2I%3D&ehkOptimized=Fi1hePc%2F3nxnQvbstDB17mm93R6%2Fz5GJmzTHGGOdZ%2BY%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1667784600
     },
     {
@@ -286,7 +286,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA Coast-To-Coast Items-On",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669482000
     },
     {
@@ -302,7 +302,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1669496400
     },
     {
