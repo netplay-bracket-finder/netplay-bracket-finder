@@ -1,13 +1,29 @@
 {
-  "fetched_at": 1667707374,
+  "fetched_at": 1667709821,
   "data": [
     {
       "slug": "tournament/bb-77-1/event/melee-singles",
       "tournament_name": "BB 77",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495120/image-a25762cde5df7540deb349c10a13d0b6.png?ehk=1ZZRh7mXx4iV6sHausAVAPQigN944FMmfL4LZAOlKy0%3D&ehkOptimized=XPihrGbfVffrGlfKwGZrpeQansHv9sO%2FdxNgbg3Vu64%3D",
-      "entrants": 20,
+      "entrants": 23,
       "start_time": 1667718000
+    },
+    {
+      "slug": "tournament/eli-s-weekly-low-tier-spanking-29/event/eli-s-weekly-low-tier-spanking-15",
+      "tournament_name": "Eli's Weekly Low Tier Spanking 29",
+      "event_name": "Eli's Weekly Low Tier Spanking 15",
+      "image": "https://images.start.gg/images/tournament/495310/image-db1f3f23e107bf9f5e7c1f9d242d7c00.png?ehk=4ZiUnk0CJIIvoWccvQ4TFQteIuF68eJUcSrL3fxv7oQ%3D&ehkOptimized=EZ8n7XuOSIXjupn8hOVQZ3ncSbG0TEVvqiQXAgKd7wU%3D",
+      "entrants": 0,
+      "start_time": 1667739600
+    },
+    {
+      "slug": "tournament/eli-s-weekly-low-tier-spanking-29/event/eli-s-weekly-low-tier-spanking-15-double-team-battle",
+      "tournament_name": "Eli's Weekly Low Tier Spanking 29",
+      "event_name": "Eli's Weekly Low Tier Spanking 15 Double Team Battle Special Event",
+      "image": "https://images.start.gg/images/tournament/495310/image-db1f3f23e107bf9f5e7c1f9d242d7c00.png?ehk=4ZiUnk0CJIIvoWccvQ4TFQteIuF68eJUcSrL3fxv7oQ%3D&ehkOptimized=EZ8n7XuOSIXjupn8hOVQZ3ncSbG0TEVvqiQXAgKd7wU%3D",
+      "entrants": 0,
+      "start_time": 1667739600
     },
     {
       "slug": "tournament/dorime-s-dojo-7/event/melee-singles",
@@ -30,7 +46,7 @@
       "tournament_name": "salty.net/jas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493639/image-ade49e5a51f1da03ed0507af094496a3.jpg?ehk=SfZ6Jq0vUBXiZumOiVJhPU2ywDVs0wxUI6sM40iqJps%3D&ehkOptimized=FghAdLhw1LRF7Z6CZOlkTsnms338A4%2F1ti7AVsFbV8Q%3D",
-      "entrants": 31,
+      "entrants": 32,
       "start_time": 1667764800
     },
     {
