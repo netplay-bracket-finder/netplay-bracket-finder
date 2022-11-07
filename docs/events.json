@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667857305,
+  "fetched_at": 1667857963,
   "data": [
     {
       "slug": "tournament/montevideo-melee-mondays-1/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Super Smash Bong #71",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/495587/image-605b920ad8245ccf73abd7c962aee730.jpg?ehk=pDe3yij2iJYDCJbsKJ7iIt0sXAtZ912%2F%2FQgizwdGY%2F4%3D&ehkOptimized=Zqz%2Bz9YlWFM%2FlXIKoK9q0mGdi87v1bdGtk6Il6IHO74%3D",
-      "entrants": 13,
+      "entrants": 17,
       "start_time": 1667860200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Slippi Sauce #73 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495575/image-4bf001d0d0448e03cfb2d996fc168c94.png?ehk=wcCGrsL19W62NIxiEzX7VDd%2F%2BEctxEn8fDDWk9UA31M%3D&ehkOptimized=k2Uddq573uNvBYxfhkQII%2FzSmU7x31GvF5KgHv8jA9I%3D",
-      "entrants": 16,
+      "entrants": 20,
       "start_time": 1667862000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Pino's tired of 0-2 #97!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/495586/image-9c7dfd75e32b6f4ce38558a16e660134.jpg?ehk=V6XywCYwC0ovHttSc4mD7LZzwzHM8fxZ4wL0i%2B7mZ9k%3D&ehkOptimized=gN%2BYrFmjh2rovisrH%2FKuUG%2B7yynKnH8nXfhpMXd6Kos%3D",
-      "entrants": 28,
+      "entrants": 30,
       "start_time": 1667862000
     },
     {
@@ -38,13 +38,21 @@
       "tournament_name": "Woop Melee! #51",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/455902/image-b6adc84c187fc56be4b5ebef40af1cc3.png?ehk=meJHD%2Fs2BCha4Yzb0AZiJE9nCh3HrLLUnrqc1pFzCHk%3D&ehkOptimized=FQ%2F5SZLjNx1wawgW0A3%2B3ob2jU7qlDm287Nzx2JsYVM%3D",
-      "entrants": 23,
+      "entrants": 24,
       "start_time": 1667865600
     },
     {
       "slug": "tournament/moose-tracks-2/event/melee-ladder",
       "tournament_name": "Moose Tracks 2",
       "event_name": "Melee Ladder",
+      "image": "https://images.start.gg/images/tournament/494032/image-af92f9e8b99e009d67144715aef0fa79.jpg?ehk=sRXOVM%2BASc%2FUN3RWbnhJs0VdoECIIrP%2BS4QCVYhWlB0%3D&ehkOptimized=MYFoRyaLT7PeotoLBOx6IDClALcy9I0S8TWBbtV8DaI%3D",
+      "entrants": 0,
+      "start_time": 1667865600
+    },
+    {
+      "slug": "tournament/moose-tracks-2/event/melee-top-8",
+      "tournament_name": "Moose Tracks 2",
+      "event_name": "Melee Top 8",
       "image": "https://images.start.gg/images/tournament/494032/image-af92f9e8b99e009d67144715aef0fa79.jpg?ehk=sRXOVM%2BASc%2FUN3RWbnhJs0VdoECIIrP%2BS4QCVYhWlB0%3D&ehkOptimized=MYFoRyaLT7PeotoLBOx6IDClALcy9I0S8TWBbtV8DaI%3D",
       "entrants": 0,
       "start_time": 1667865600
@@ -78,7 +86,7 @@
       "tournament_name": "The Playlist #19: Third Eye Blind",
       "event_name": "Amateur Bracket",
       "image": "https://images.start.gg/images/tournament/495760/image-32d5cd470098f88ee2a4347eb5f00412.png?ehk=z4d%2BVH5ArVSzqRS4HPgKRtT0i7wWNrEp6NhTnrNZy3M%3D&ehkOptimized=2AIQ23ZxW4MxbthrSesvGolHYuKR2wK%2FBlmG4RPcHYE%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667876400
     },
     {
