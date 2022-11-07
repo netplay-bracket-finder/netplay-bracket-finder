@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667792246,
+  "fetched_at": 1667795155,
   "data": [
     {
       "slug": "tournament/shitters-on-stream-1-the-big-one/event/melee-singles",
@@ -18,14 +18,6 @@
       "start_time": 1667777460
     },
     {
-      "slug": "tournament/mang0-celebration-bracket-3/event/melee-singles",
-      "tournament_name": "Mang0 Celebration Bracket 3",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/495574/image-4b2e76bb0187d6032430407e07cf05be.png?ehk=H2G1v%2Bcv0%2BlVQ9OMzUE8SWVKDCWLbqhPMlQ4MPONoMU%3D&ehkOptimized=BKknLAsZU%2FG7CgjyDRJ2EFYz4S9cE%2Fe59YgXrr1Swt4%3D",
-      "entrants": 8,
-      "start_time": 1667795400
-    },
-    {
       "slug": "tournament/monday-night-mixup-37/event/melee-singles",
       "tournament_name": "Monday Night Mixup #37",
       "event_name": "Melee Singles",
@@ -42,11 +34,19 @@
       "start_time": 1667858400
     },
     {
+      "slug": "tournament/super-smash-bong-71/event/melee-singles",
+      "tournament_name": "Super Smash Bong #71",
+      "event_name": "Melee singles",
+      "image": "https://images.start.gg/images/tournament/495587/image-605b920ad8245ccf73abd7c962aee730.jpg?ehk=pDe3yij2iJYDCJbsKJ7iIt0sXAtZ912%2F%2FQgizwdGY%2F4%3D&ehkOptimized=Zqz%2Bz9YlWFM%2FlXIKoK9q0mGdi87v1bdGtk6Il6IHO74%3D",
+      "entrants": 3,
+      "start_time": 1667860200
+    },
+    {
       "slug": "tournament/slippi-sauce-73/event/melee-singles",
       "tournament_name": "Slippi Sauce #73 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495575/image-4bf001d0d0448e03cfb2d996fc168c94.png?ehk=wcCGrsL19W62NIxiEzX7VDd%2F%2BEctxEn8fDDWk9UA31M%3D&ehkOptimized=k2Uddq573uNvBYxfhkQII%2FzSmU7x31GvF5KgHv8jA9I%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1667862000
     },
     {
