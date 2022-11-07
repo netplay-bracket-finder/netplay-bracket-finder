@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667819815,
+  "fetched_at": 1667821098,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-37/event/melee-singles",
       "tournament_name": "Monday Night Mixup #37",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495536/image-98462b56479050d71dbdd70abd108fb1.png?ehk=%2BMBolJ737MTom9x1z5RPFtDNdDVvz%2F1LQ9KVHzJiPDY%3D&ehkOptimized=xXc4%2Bs%2FlTQOmK9%2FTXAkl0JX5p4NiJoIjQI08i0XFK1Q%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1667847600
     },
     {
@@ -88,6 +88,14 @@
       "image": "https://images.start.gg/images/tournament/494238/image-a7bf4bf37a538999d5c9d9de98cf614e.png?ehk=IfuGjY4PYSwW7rurIlOMBLI3H186Bv8oSSuwl5WYN6c%3D&ehkOptimized=weKIMqza7BzGQG6SIpkQeFEJSCvVz6aCRl%2F2xS0eVyA%3D",
       "entrants": 4,
       "start_time": 1667952000
+    },
+    {
+      "slug": "tournament/the-cc-lincorperation-2/event/melee-singles-ditto-s",
+      "tournament_name": "THE CC.LINCORPERATION 2",
+      "event_name": "MELEE SINGLES DITTO'S",
+      "image": "https://images.start.gg/images/tournament/495658/image-7f98cbc7a54a1f1be45cb5c84d7c917e.png?ehk=sAwMpKSlqm7PV4tVGK%2Fz1jwJ456lodqqDFIOb%2BvhZcw%3D&ehkOptimized=kthN1AmZN6DvsznImAFOD4Bd4wDX1tLmdwamd3Yle9Y%3D",
+      "entrants": 0,
+      "start_time": 1667959200
     },
     {
       "slug": "tournament/full-moon-melee-11/event/melee-singles",
@@ -246,7 +254,7 @@
       "tournament_name": "Multi Melee Masters #2 - €50 Pot Bonus!",
       "event_name": "Multi Melee Singles",
       "image": "https://images.start.gg/images/tournament/490451/image-7f80cc12fd5555cebe7111dd7a0eb2e2.png?ehk=Vayg6F3aJyDSuHqkT0bEpKhT2tEj7dD4rJgiGjh68AI%3D&ehkOptimized=2qf7%2F%2Bhb5jlM8r02%2BQlQRohn7aeHs14Fc%2FQntraIEYE%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1668880800
     },
     {
