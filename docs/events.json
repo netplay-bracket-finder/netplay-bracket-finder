@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667836466,
+  "fetched_at": 1667838445,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-37/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "Slippi Sauce #73 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495575/image-4bf001d0d0448e03cfb2d996fc168c94.png?ehk=wcCGrsL19W62NIxiEzX7VDd%2F%2BEctxEn8fDDWk9UA31M%3D&ehkOptimized=k2Uddq573uNvBYxfhkQII%2FzSmU7x31GvF5KgHv8jA9I%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1667862000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Pino's tired of 0-2 #97!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/495586/image-9c7dfd75e32b6f4ce38558a16e660134.jpg?ehk=V6XywCYwC0ovHttSc4mD7LZzwzHM8fxZ4wL0i%2B7mZ9k%3D&ehkOptimized=gN%2BYrFmjh2rovisrH%2FKuUG%2B7yynKnH8nXfhpMXd6Kos%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667862000
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Woop Melee! #51",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/455902/image-b6adc84c187fc56be4b5ebef40af1cc3.png?ehk=meJHD%2Fs2BCha4Yzb0AZiJE9nCh3HrLLUnrqc1pFzCHk%3D&ehkOptimized=FQ%2F5SZLjNx1wawgW0A3%2B3ob2jU7qlDm287Nzx2JsYVM%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1667865600
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Coast to Coast Doubles # 6",
       "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1667865600
     },
     {
@@ -80,6 +80,14 @@
       "image": "https://images.start.gg/images/tournament/493990/image-c5c22ed048a8a816e5a6447b29b35b52.jpg?ehk=9whJAkjzqaEfzc9x1U0nT1JDfeI1DBKI9r0fcTvaIGo%3D&ehkOptimized=32Uw1OfOx%2Bx9uPlY8Z8BQF4LdbhaRPkfBkEdeoflapY%3D",
       "entrants": 6,
       "start_time": 1667870100
+    },
+    {
+      "slug": "tournament/mnn-32/event/melee-singles",
+      "tournament_name": "MNN#32",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/495737/image-b37c6b04f2ba7e98d1792c70ce2609dc.png?ehk=7P7WEjeVQ%2FnikgdcW8Vk7G7HMwyF3o%2F22dnSAxM9Gqo%3D&ehkOptimized=qIGNl%2Bx0NW%2FwH4mrvVIMQL%2BWo%2BoJ51Eo0gG%2BDLBUGNI%3D",
+      "entrants": 0,
+      "start_time": 1667880000
     },
     {
       "slug": "tournament/sketchy-series-5-all-your-trace-are-belong-to-us/event/melee-singles",
@@ -110,7 +118,7 @@
       "tournament_name": "Labrador Ladder #1",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/495198/image-81cf0249a81bbdc687ce1bae649f6121.jpg?ehk=6mepasxOx658xwx7ohqXSOCnoOrfjiso%2FoAoy0fxILw%3D&ehkOptimized=2sma2XCXJjaTBfCFv8EXxcKQbEmIb70MJ%2BPwjfZAVvI%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668038400
     },
     {
@@ -174,7 +182,7 @@
       "tournament_name": "Only Noobs 92",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1668124800
     },
     {
@@ -214,7 +222,7 @@
       "tournament_name": "Porq Adobo #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495118/image-f2d244b18b920aa04050f5cef9b2b28d.png?ehk=13%2Fp4BrqDJD%2FZy5t6sSJ1t%2FRXp%2BBl8bBA37S6UYtpjA%3D&ehkOptimized=W9FU%2BLE896IdJZRR4YEtxPRnoAvuUr%2Fc2hRHqkBMVpY%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668232800
     },
     {
@@ -262,7 +270,7 @@
       "tournament_name": "Multi Melee Masters #2 - €50 Pot Bonus!",
       "event_name": "Multi Melee Singles",
       "image": "https://images.start.gg/images/tournament/490451/image-7f80cc12fd5555cebe7111dd7a0eb2e2.png?ehk=Vayg6F3aJyDSuHqkT0bEpKhT2tEj7dD4rJgiGjh68AI%3D&ehkOptimized=2qf7%2F%2Bhb5jlM8r02%2BQlQRohn7aeHs14Fc%2FQntraIEYE%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1668880800
     },
     {
