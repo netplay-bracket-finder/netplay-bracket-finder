@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667785685,
+  "fetched_at": 1667792246,
   "data": [
     {
       "slug": "tournament/shitters-on-stream-1-the-big-one/event/melee-singles",
@@ -18,12 +18,44 @@
       "start_time": 1667777460
     },
     {
+      "slug": "tournament/mang0-celebration-bracket-3/event/melee-singles",
+      "tournament_name": "Mang0 Celebration Bracket 3",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/495574/image-4b2e76bb0187d6032430407e07cf05be.png?ehk=H2G1v%2Bcv0%2BlVQ9OMzUE8SWVKDCWLbqhPMlQ4MPONoMU%3D&ehkOptimized=BKknLAsZU%2FG7CgjyDRJ2EFYz4S9cE%2Fe59YgXrr1Swt4%3D",
+      "entrants": 8,
+      "start_time": 1667795400
+    },
+    {
       "slug": "tournament/monday-night-mixup-37/event/melee-singles",
       "tournament_name": "Monday Night Mixup #37",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495536/image-98462b56479050d71dbdd70abd108fb1.png?ehk=%2BMBolJ737MTom9x1z5RPFtDNdDVvz%2F1LQ9KVHzJiPDY%3D&ehkOptimized=xXc4%2Bs%2FlTQOmK9%2FTXAkl0JX5p4NiJoIjQI08i0XFK1Q%3D",
       "entrants": 1,
       "start_time": 1667847600
+    },
+    {
+      "slug": "tournament/montevideo-melee-mondays-1/event/melee-singles",
+      "tournament_name": "Montevideo Melee Mondays #1",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/495566/image-4f103293c2992dee12f07b09f5349f99.png?ehk=Jjb4qqXkdgrmAer9zKGLzX6%2FC%2FN7fJ943j2rnLtbkBQ%3D&ehkOptimized=ICTfQYIroaijrHT4sjnFX5qPhA5LLHxKRxnF9inUHdw%3D",
+      "entrants": 2,
+      "start_time": 1667858400
+    },
+    {
+      "slug": "tournament/slippi-sauce-73/event/melee-singles",
+      "tournament_name": "Slippi Sauce #73 🐸",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/495575/image-4bf001d0d0448e03cfb2d996fc168c94.png?ehk=wcCGrsL19W62NIxiEzX7VDd%2F%2BEctxEn8fDDWk9UA31M%3D&ehkOptimized=k2Uddq573uNvBYxfhkQII%2FzSmU7x31GvF5KgHv8jA9I%3D",
+      "entrants": 3,
+      "start_time": 1667862000
+    },
+    {
+      "slug": "tournament/pino-s-tired-of-0-2-97/event/tired-of-0-2",
+      "tournament_name": "Pino's tired of 0-2 #97!",
+      "event_name": "Tired of 0-2?",
+      "image": "https://images.start.gg/images/tournament/495586/image-9c7dfd75e32b6f4ce38558a16e660134.jpg?ehk=V6XywCYwC0ovHttSc4mD7LZzwzHM8fxZ4wL0i%2B7mZ9k%3D&ehkOptimized=gN%2BYrFmjh2rovisrH%2FKuUG%2B7yynKnH8nXfhpMXd6Kos%3D",
+      "entrants": 0,
+      "start_time": 1667862000
     },
     {
       "slug": "tournament/woop-melee-51/event/melee-singles",
@@ -62,7 +94,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493990/image-c5c22ed048a8a816e5a6447b29b35b52.jpg?ehk=9whJAkjzqaEfzc9x1U0nT1JDfeI1DBKI9r0fcTvaIGo%3D&ehkOptimized=32Uw1OfOx%2Bx9uPlY8Z8BQF4LdbhaRPkfBkEdeoflapY%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1667870100
     },
     {
@@ -70,7 +102,7 @@
       "tournament_name": "Sketchy Series 5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494238/image-a7bf4bf37a538999d5c9d9de98cf614e.png?ehk=IfuGjY4PYSwW7rurIlOMBLI3H186Bv8oSSuwl5WYN6c%3D&ehkOptimized=weKIMqza7BzGQG6SIpkQeFEJSCvVz6aCRl%2F2xS0eVyA%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1667952000
     },
     {
@@ -86,7 +118,7 @@
       "tournament_name": "Waddle Wednesday 44",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494935/image-12e5919871d924b6896a852b3f08df23.png?ehk=%2F%2FZMAR2C9fMdb6LUw5AuUDljgDS%2FqXGDR0OyUcuz84k%3D&ehkOptimized=ACKiKsTl8DzxMejkewtzrC88v%2B7Xk7KA8E%2FeE%2BTSfPE%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668042000
     },
     {
