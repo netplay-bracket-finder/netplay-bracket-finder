@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667795155,
+  "fetched_at": 1667797456,
   "data": [
     {
       "slug": "tournament/shitters-on-stream-1-the-big-one/event/melee-singles",
@@ -62,7 +62,7 @@
       "tournament_name": "Woop Melee! #51",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/455902/image-b6adc84c187fc56be4b5ebef40af1cc3.png?ehk=meJHD%2Fs2BCha4Yzb0AZiJE9nCh3HrLLUnrqc1pFzCHk%3D&ehkOptimized=FQ%2F5SZLjNx1wawgW0A3%2B3ob2jU7qlDm287Nzx2JsYVM%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1667865600
     },
     {
@@ -182,7 +182,7 @@
       "tournament_name": "Princess Party",
       "event_name": "Peach Only Singles",
       "image": "https://images.start.gg/images/tournament/495029/image-a2c75343a5bf61106566efa938cb9012.png?ehk=irAbcMdBqswXgGdqcyp6TIX%2BBPt3LZ%2BEb%2BwZMZ5AsG4%3D&ehkOptimized=vw088zIG488BHROrrKUIQw3GD2NVc2XBPdZ2FqcYu3Y%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668207600
     },
     {
@@ -254,7 +254,7 @@
       "tournament_name": "End Of The Peach Era",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494992/image-372f2b6bc04721c85870bf4154ed4a61.png?ehk=3ngBWW8XMqWYyMtlj%2FuYJPlniuiqE33YR5phKd8%2FMmU%3D&ehkOptimized=csqH1g9m%2BxnnWJ25WU8d2WPCRUMB12a1k8MIPRyYkZg%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668387600
     },
     {
