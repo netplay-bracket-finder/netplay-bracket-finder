@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667864652,
+  "fetched_at": 1667865315,
   "data": [
     {
       "slug": "tournament/montevideo-melee-mondays-1/event/melee-singles-este-es-el-posta",
       "tournament_name": "Montevideo Melee Mondays #1",
       "event_name": "Melee Singles (este es el posta)",
       "image": "https://images.start.gg/images/tournament/495566/image-3781d7ad10b3a27eb94bf104d5331b12.png?ehk=Q3Q3Df4Q6OR9%2FoM9jDooqRx3QOpmerXBKNP2YA%2BVIJw%3D&ehkOptimized=O%2FTHaBBAAezGKfoRTeFEFpBLOeuxXYTeii0SgXRY4%2Fs%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1667833200
     },
     {
@@ -34,19 +34,19 @@
       "start_time": 1667865600
     },
     {
+      "slug": "tournament/coast-to-coast-doubles-6/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 6",
+      "event_name": "EC Doubles",
+      "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
+      "entrants": 7,
+      "start_time": 1667865600
+    },
+    {
       "slug": "tournament/coast-to-coast-doubles-6/event/wc-doubles",
       "tournament_name": "Coast to Coast Doubles # 6",
       "event_name": "WC Doubles",
       "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
       "entrants": 5,
-      "start_time": 1667865600
-    },
-    {
-      "slug": "tournament/coast-to-coast-doubles-6/event/ec-doubles",
-      "tournament_name": "Coast to Coast Doubles # 6",
-      "event_name": "EC Doubles",
-      "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
-      "entrants": 4,
       "start_time": 1667865600
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "The Playlist #19: Third Eye Blind",
       "event_name": "Amateur Bracket",
       "image": "https://images.start.gg/images/tournament/495760/image-32d5cd470098f88ee2a4347eb5f00412.png?ehk=z4d%2BVH5ArVSzqRS4HPgKRtT0i7wWNrEp6NhTnrNZy3M%3D&ehkOptimized=2AIQ23ZxW4MxbthrSesvGolHYuKR2wK%2FBlmG4RPcHYE%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1667876400
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493990/image-c5c22ed048a8a816e5a6447b29b35b52.jpg?ehk=9whJAkjzqaEfzc9x1U0nT1JDfeI1DBKI9r0fcTvaIGo%3D&ehkOptimized=32Uw1OfOx%2Bx9uPlY8Z8BQF4LdbhaRPkfBkEdeoflapY%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1667870100
     },
     {
@@ -166,6 +166,14 @@
       "tournament_name": "Moonwalk Tournament Series 24",
       "event_name": "Melee Top 12",
       "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
+      "entrants": 0,
+      "start_time": 1668124800
+    },
+    {
+      "slug": "tournament/delaware-netplay-popup-popoff-special/event/melee-singles",
+      "tournament_name": "Delaware Netplay Popup Popoff Special",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/495937/image-9ac8fb23c187f25e08cc70f77a25b904.jpg?ehk=vv7SPAj4UdjLYoSLxFzlOx6NjHE%2Fs6H9QOHJK80ScUw%3D&ehkOptimized=Xv4%2FDGTkbF7GK1n8%2FSiW9gd8%2FlVwOHmDA%2F6FtUAMK78%3D",
       "entrants": 0,
       "start_time": 1668124800
     },
