@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667860959,
+  "fetched_at": 1667861630,
   "data": [
     {
       "slug": "tournament/montevideo-melee-mondays-1/event/melee-singles",
@@ -7,23 +7,15 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495566/image-3781d7ad10b3a27eb94bf104d5331b12.png?ehk=Q3Q3Df4Q6OR9%2FoM9jDooqRx3QOpmerXBKNP2YA%2BVIJw%3D&ehkOptimized=O%2FTHaBBAAezGKfoRTeFEFpBLOeuxXYTeii0SgXRY4%2Fs%3D",
       "entrants": 7,
-      "start_time": 1667858400
-    },
-    {
-      "slug": "tournament/slippi-sauce-73/event/melee-singles",
-      "tournament_name": "Slippi Sauce #73 🐸",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/495575/image-4bf001d0d0448e03cfb2d996fc168c94.png?ehk=wcCGrsL19W62NIxiEzX7VDd%2F%2BEctxEn8fDDWk9UA31M%3D&ehkOptimized=k2Uddq573uNvBYxfhkQII%2FzSmU7x31GvF5KgHv8jA9I%3D",
-      "entrants": 28,
-      "start_time": 1667862000
+      "start_time": 1667833200
     },
     {
       "slug": "tournament/woop-melee-51/event/melee-singles",
       "tournament_name": "Woop Melee! #51",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/455902/image-b6adc84c187fc56be4b5ebef40af1cc3.png?ehk=meJHD%2Fs2BCha4Yzb0AZiJE9nCh3HrLLUnrqc1pFzCHk%3D&ehkOptimized=FQ%2F5SZLjNx1wawgW0A3%2B3ob2jU7qlDm287Nzx2JsYVM%3D",
-      "entrants": 31,
-      "start_time": 1667865600
+      "entrants": 34,
+      "start_time": 1667869200
     },
     {
       "slug": "tournament/moose-tracks-2/event/melee-ladder",
@@ -86,7 +78,7 @@
       "tournament_name": "MNN#32",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495737/image-b37c6b04f2ba7e98d1792c70ce2609dc.png?ehk=7P7WEjeVQ%2FnikgdcW8Vk7G7HMwyF3o%2F22dnSAxM9Gqo%3D&ehkOptimized=qIGNl%2Bx0NW%2FwH4mrvVIMQL%2BWo%2BoJ51Eo0gG%2BDLBUGNI%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1667880000
     },
     {
@@ -184,6 +176,14 @@
       "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
       "entrants": 8,
       "start_time": 1668124800
+    },
+    {
+      "slug": "tournament/lubbock-melee-online-9-ft-20-prize-pot/event/lubbock-melee-singles",
+      "tournament_name": "Lubbock Melee Online 9 ft. 20$ Prize Pot",
+      "event_name": "Lubbock Melee Singles",
+      "image": "https://images.start.gg/images/tournament/495916/image-f82bc18fd0b72fb53013165639dbf8cf.png?ehk=j2lYvMb5hSc5gdHlw2uvPTCOKkyZZ6FBdDyQJJ51mIE%3D&ehkOptimized=7%2BoLBXJuQrSC7TceIJ9iHGyGO9CfGtPXCfxXzF6ItCs%3D",
+      "entrants": 1,
+      "start_time": 1668133800
     },
     {
       "slug": "tournament/princess-party/event/peach-only-singles",
