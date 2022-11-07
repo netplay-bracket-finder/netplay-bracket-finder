@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667838445,
+  "fetched_at": 1667840428,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-37/event/melee-singles",
       "tournament_name": "Monday Night Mixup #37",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495536/image-98462b56479050d71dbdd70abd108fb1.png?ehk=%2BMBolJ737MTom9x1z5RPFtDNdDVvz%2F1LQ9KVHzJiPDY%3D&ehkOptimized=xXc4%2Bs%2FlTQOmK9%2FTXAkl0JX5p4NiJoIjQI08i0XFK1Q%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1667847600
     },
     {
@@ -72,6 +72,22 @@
       "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
       "entrants": 1,
       "start_time": 1667865600
+    },
+    {
+      "slug": "tournament/the-playlist-19-third-eye-blind/event/melee-singles",
+      "tournament_name": "The Playlist #19: Third Eye Blind",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/495760/image-32d5cd470098f88ee2a4347eb5f00412.png?ehk=z4d%2BVH5ArVSzqRS4HPgKRtT0i7wWNrEp6NhTnrNZy3M%3D&ehkOptimized=2AIQ23ZxW4MxbthrSesvGolHYuKR2wK%2FBlmG4RPcHYE%3D",
+      "entrants": 0,
+      "start_time": 1667869200
+    },
+    {
+      "slug": "tournament/the-playlist-19-third-eye-blind/event/amateur-bracket",
+      "tournament_name": "The Playlist #19: Third Eye Blind",
+      "event_name": "Amateur Bracket",
+      "image": "https://images.start.gg/images/tournament/495760/image-32d5cd470098f88ee2a4347eb5f00412.png?ehk=z4d%2BVH5ArVSzqRS4HPgKRtT0i7wWNrEp6NhTnrNZy3M%3D&ehkOptimized=2AIQ23ZxW4MxbthrSesvGolHYuKR2wK%2FBlmG4RPcHYE%3D",
+      "entrants": 0,
+      "start_time": 1667876400
     },
     {
       "slug": "tournament/have-you-dreamed-this-cardboard-bear-2/event/melee-singles",
