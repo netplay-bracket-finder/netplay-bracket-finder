@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667859635,
+  "fetched_at": 1667860959,
   "data": [
     {
       "slug": "tournament/montevideo-melee-mondays-1/event/melee-singles",
@@ -14,15 +14,7 @@
       "tournament_name": "Slippi Sauce #73 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495575/image-4bf001d0d0448e03cfb2d996fc168c94.png?ehk=wcCGrsL19W62NIxiEzX7VDd%2F%2BEctxEn8fDDWk9UA31M%3D&ehkOptimized=k2Uddq573uNvBYxfhkQII%2FzSmU7x31GvF5KgHv8jA9I%3D",
-      "entrants": 24,
-      "start_time": 1667862000
-    },
-    {
-      "slug": "tournament/pino-s-tired-of-0-2-97/event/tired-of-0-2",
-      "tournament_name": "Pino's tired of 0-2 #97!",
-      "event_name": "Tired of 0-2?",
-      "image": "https://images.start.gg/images/tournament/495586/image-9c7dfd75e32b6f4ce38558a16e660134.jpg?ehk=V6XywCYwC0ovHttSc4mD7LZzwzHM8fxZ4wL0i%2B7mZ9k%3D&ehkOptimized=gN%2BYrFmjh2rovisrH%2FKuUG%2B7yynKnH8nXfhpMXd6Kos%3D",
-      "entrants": 37,
+      "entrants": 28,
       "start_time": 1667862000
     },
     {
@@ -30,23 +22,7 @@
       "tournament_name": "Woop Melee! #51",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/455902/image-b6adc84c187fc56be4b5ebef40af1cc3.png?ehk=meJHD%2Fs2BCha4Yzb0AZiJE9nCh3HrLLUnrqc1pFzCHk%3D&ehkOptimized=FQ%2F5SZLjNx1wawgW0A3%2B3ob2jU7qlDm287Nzx2JsYVM%3D",
-      "entrants": 29,
-      "start_time": 1667865600
-    },
-    {
-      "slug": "tournament/coast-to-coast-doubles-6/event/wc-doubles",
-      "tournament_name": "Coast to Coast Doubles # 6",
-      "event_name": "WC Doubles",
-      "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
-      "entrants": 4,
-      "start_time": 1667865600
-    },
-    {
-      "slug": "tournament/coast-to-coast-doubles-6/event/ec-doubles",
-      "tournament_name": "Coast to Coast Doubles # 6",
-      "event_name": "EC Doubles",
-      "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
-      "entrants": 2,
+      "entrants": 31,
       "start_time": 1667865600
     },
     {
@@ -66,11 +42,27 @@
       "start_time": 1667865600
     },
     {
+      "slug": "tournament/coast-to-coast-doubles-6/event/wc-doubles",
+      "tournament_name": "Coast to Coast Doubles # 6",
+      "event_name": "WC Doubles",
+      "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
+      "entrants": 4,
+      "start_time": 1667865600
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-6/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 6",
+      "event_name": "EC Doubles",
+      "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
+      "entrants": 2,
+      "start_time": 1667865600
+    },
+    {
       "slug": "tournament/the-playlist-19-third-eye-blind/event/melee-singles",
       "tournament_name": "The Playlist #19: Third Eye Blind",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495760/image-32d5cd470098f88ee2a4347eb5f00412.png?ehk=z4d%2BVH5ArVSzqRS4HPgKRtT0i7wWNrEp6NhTnrNZy3M%3D&ehkOptimized=2AIQ23ZxW4MxbthrSesvGolHYuKR2wK%2FBlmG4RPcHYE%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667869200
     },
     {
