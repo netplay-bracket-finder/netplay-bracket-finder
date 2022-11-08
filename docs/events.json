@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667891882,
+  "fetched_at": 1667893113,
   "data": [
     {
       "slug": "tournament/montevideo-melee-mondays-1/event/melee-singles",
@@ -234,17 +234,17 @@
       "start_time": 1668387600
     },
     {
-      "slug": "tournament/coast-to-coast-doubles-7/event/ec-doubles",
-      "tournament_name": "Coast to Coast Doubles # 7",
-      "event_name": "EC Doubles",
-      "image": "https://images.start.gg/images/tournament/496036/image-2f63e3f95b2f1e7c6a90a8d3288c1d65.png?ehk=HGCf6DqUP5ZUWit7SZHPrA5gteojcHQiwAefwdieiWI%3D&ehkOptimized=bmlp%2BpyzKLWdtCDda2dZq2em6vSCOYdptVjrLN1mdW4%3D",
-      "entrants": 0,
-      "start_time": 1668470400
-    },
-    {
       "slug": "tournament/coast-to-coast-doubles-7/event/wc-doubles",
       "tournament_name": "Coast to Coast Doubles # 7",
       "event_name": "WC Doubles",
+      "image": "https://images.start.gg/images/tournament/496036/image-2f63e3f95b2f1e7c6a90a8d3288c1d65.png?ehk=HGCf6DqUP5ZUWit7SZHPrA5gteojcHQiwAefwdieiWI%3D&ehkOptimized=bmlp%2BpyzKLWdtCDda2dZq2em6vSCOYdptVjrLN1mdW4%3D",
+      "entrants": 1,
+      "start_time": 1668470400
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-7/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 7",
+      "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/496036/image-2f63e3f95b2f1e7c6a90a8d3288c1d65.png?ehk=HGCf6DqUP5ZUWit7SZHPrA5gteojcHQiwAefwdieiWI%3D&ehkOptimized=bmlp%2BpyzKLWdtCDda2dZq2em6vSCOYdptVjrLN1mdW4%3D",
       "entrants": 0,
       "start_time": 1668470400
