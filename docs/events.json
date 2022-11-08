@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667920852,
+  "fetched_at": 1667922238,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-5/event/melee-singles",
@@ -112,6 +112,14 @@
       "image": "https://images.start.gg/images/tournament/495198/image-81cf0249a81bbdc687ce1bae649f6121.jpg?ehk=6mepasxOx658xwx7ohqXSOCnoOrfjiso%2FoAoy0fxILw%3D&ehkOptimized=2sma2XCXJjaTBfCFv8EXxcKQbEmIb70MJ%2BPwjfZAVvI%3D",
       "entrants": 5,
       "start_time": 1668038400
+    },
+    {
+      "slug": "tournament/galaxy-gladiators-20-solar-circuit-qualifier/event/melee-singles",
+      "tournament_name": "Galaxy Gladiators #20 (Solar Circuit Qualifier)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496110/image-4b9eb5d392fd58f3a5b041f594fabb26.png?ehk=XBJ5sSc13OiglCx1XKlUjeJGIH5A6IOAB7AtlbQUn7E%3D&ehkOptimized=x0v4KQj2BwmqAHPUNXL0Rd0dJyqozuWuWpx2du%2FG2yY%3D",
+      "entrants": 0,
+      "start_time": 1668042000
     },
     {
       "slug": "tournament/waddle-wednesday-44/event/melee-singles",
@@ -288,6 +296,14 @@
       "image": "https://images.start.gg/images/tournament/496036/image-2f63e3f95b2f1e7c6a90a8d3288c1d65.png?ehk=HGCf6DqUP5ZUWit7SZHPrA5gteojcHQiwAefwdieiWI%3D&ehkOptimized=bmlp%2BpyzKLWdtCDda2dZq2em6vSCOYdptVjrLN1mdW4%3D",
       "entrants": 0,
       "start_time": 1668470400
+    },
+    {
+      "slug": "tournament/have-you-dreamed-this-cardboard-bear-3-1/event/melee-singles",
+      "tournament_name": "Have You Dreamed This Cardboard Bear? #3",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496119/image-6b624658e8772301f65b545874f28a1c.jpg?ehk=g5ACfY%2B%2FfxxVRy7uEEnqjG8Xfh%2BjSyiax%2FQb1XTyD9w%3D&ehkOptimized=SA4HN21KaBmNX%2FkmxdNKMQFFMDiE5XCvL4KwizPPffQ%3D",
+      "entrants": 3,
+      "start_time": 1668474900
     },
     {
       "slug": "tournament/multi-melee-masters-2-50-pot-bonus/event/multi-melee-singles",
