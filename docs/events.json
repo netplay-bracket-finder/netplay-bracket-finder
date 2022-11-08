@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667904405,
+  "fetched_at": 1667906188,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-5/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495766/image-c649c9e73e45c7bb5389cb57838ef699.png?ehk=T4JDW0NSot5QBfvBrWgxEJvXRYtv3ZyhT4G6EhJ%2Byus%3D&ehkOptimized=9SrBlhxuROjLTDWAI6LAzZUBGsaGpZF7f8NObwIiAsM%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1667934000
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Sketchy Series 5: All Your Trace Are Belong To Us",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494238/image-a7bf4bf37a538999d5c9d9de98cf614e.png?ehk=IfuGjY4PYSwW7rurIlOMBLI3H186Bv8oSSuwl5WYN6c%3D&ehkOptimized=weKIMqza7BzGQG6SIpkQeFEJSCvVz6aCRl%2F2xS0eVyA%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1667952000
     },
     {
@@ -174,7 +174,7 @@
       "tournament_name": "Only Noobs 92",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1668124800
     },
     {
