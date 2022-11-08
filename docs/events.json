@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667908292,
+  "fetched_at": 1667911469,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-5/event/melee-singles",
@@ -96,6 +96,14 @@
       "image": "https://images.start.gg/images/tournament/494933/image-b8c6f6384e138c6c639b5cfaa3f1f918.png?ehk=dgd48j3ih%2BJEyvoV344M%2FKwUuYsYZ4UCLIAd2FszTNM%3D&ehkOptimized=jv6ZWAJcal1xDjXH%2BSoQn5IJvQHnGpbYE53G5F%2F%2F0Jk%3D",
       "entrants": 0,
       "start_time": 1667962800
+    },
+    {
+      "slug": "tournament/trashtalkmaster9000-vs-fluentputin/event/melee-singles",
+      "tournament_name": "Trashtalkmaster9000 vs fluentputin",
+      "event_name": "Melee Singles",
+      "image": "",
+      "entrants": null,
+      "start_time": 1668016800
     },
     {
       "slug": "tournament/labrador-ladder-1/event/melee-ladder",
