@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667865315,
+  "fetched_at": 1667872126,
   "data": [
     {
       "slug": "tournament/montevideo-melee-mondays-1/event/melee-singles-este-es-el-posta",
@@ -18,22 +18,6 @@
       "start_time": 1667833200
     },
     {
-      "slug": "tournament/moose-tracks-2/event/melee-ladder",
-      "tournament_name": "Moose Tracks 2",
-      "event_name": "Melee Ladder",
-      "image": "https://images.start.gg/images/tournament/494032/image-af92f9e8b99e009d67144715aef0fa79.jpg?ehk=sRXOVM%2BASc%2FUN3RWbnhJs0VdoECIIrP%2BS4QCVYhWlB0%3D&ehkOptimized=MYFoRyaLT7PeotoLBOx6IDClALcy9I0S8TWBbtV8DaI%3D",
-      "entrants": 4,
-      "start_time": 1667865600
-    },
-    {
-      "slug": "tournament/moose-tracks-2/event/melee-top-8",
-      "tournament_name": "Moose Tracks 2",
-      "event_name": "Melee Top 8",
-      "image": "https://images.start.gg/images/tournament/494032/image-af92f9e8b99e009d67144715aef0fa79.jpg?ehk=sRXOVM%2BASc%2FUN3RWbnhJs0VdoECIIrP%2BS4QCVYhWlB0%3D&ehkOptimized=MYFoRyaLT7PeotoLBOx6IDClALcy9I0S8TWBbtV8DaI%3D",
-      "entrants": 0,
-      "start_time": 1667865600
-    },
-    {
       "slug": "tournament/coast-to-coast-doubles-6/event/ec-doubles",
       "tournament_name": "Coast to Coast Doubles # 6",
       "event_name": "EC Doubles",
@@ -46,7 +30,23 @@
       "tournament_name": "Coast to Coast Doubles # 6",
       "event_name": "WC Doubles",
       "image": "https://images.start.gg/images/tournament/493855/image-b1fd5b2c3fb5b379f7575f3a227e11ff.png?ehk=PKpKmff8gt4mJ6n8Jl9itlFSFNTuWCwYTh1H79ki6s4%3D&ehkOptimized=Ty7IoEj7P2kwVkvmBe6%2BlV7CnwPF00qkXFaNAgZA3o4%3D",
-      "entrants": 5,
+      "entrants": 8,
+      "start_time": 1667865600
+    },
+    {
+      "slug": "tournament/moose-tracks-2/event/melee-ladder",
+      "tournament_name": "Moose Tracks 2",
+      "event_name": "Melee Ladder",
+      "image": "https://images.start.gg/images/tournament/494032/image-af92f9e8b99e009d67144715aef0fa79.jpg?ehk=sRXOVM%2BASc%2FUN3RWbnhJs0VdoECIIrP%2BS4QCVYhWlB0%3D&ehkOptimized=MYFoRyaLT7PeotoLBOx6IDClALcy9I0S8TWBbtV8DaI%3D",
+      "entrants": 6,
+      "start_time": 1667865600
+    },
+    {
+      "slug": "tournament/moose-tracks-2/event/melee-top-8",
+      "tournament_name": "Moose Tracks 2",
+      "event_name": "Melee Top 8",
+      "image": "https://images.start.gg/images/tournament/494032/image-af92f9e8b99e009d67144715aef0fa79.jpg?ehk=sRXOVM%2BASc%2FUN3RWbnhJs0VdoECIIrP%2BS4QCVYhWlB0%3D&ehkOptimized=MYFoRyaLT7PeotoLBOx6IDClALcy9I0S8TWBbtV8DaI%3D",
+      "entrants": 0,
       "start_time": 1667865600
     },
     {
@@ -66,19 +66,11 @@
       "start_time": 1667876400
     },
     {
-      "slug": "tournament/have-you-dreamed-this-cardboard-bear-2/event/melee-singles",
-      "tournament_name": "Have You Dreamed This Cardboard Bear? #2",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493990/image-c5c22ed048a8a816e5a6447b29b35b52.jpg?ehk=9whJAkjzqaEfzc9x1U0nT1JDfeI1DBKI9r0fcTvaIGo%3D&ehkOptimized=32Uw1OfOx%2Bx9uPlY8Z8BQF4LdbhaRPkfBkEdeoflapY%3D",
-      "entrants": 15,
-      "start_time": 1667870100
-    },
-    {
       "slug": "tournament/mnn-32/event/melee-singles",
       "tournament_name": "MNN#32",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495737/image-b37c6b04f2ba7e98d1792c70ce2609dc.png?ehk=7P7WEjeVQ%2FnikgdcW8Vk7G7HMwyF3o%2F22dnSAxM9Gqo%3D&ehkOptimized=qIGNl%2Bx0NW%2FwH4mrvVIMQL%2BWo%2BoJ51Eo0gG%2BDLBUGNI%3D",
-      "entrants": 5,
+      "entrants": 11,
       "start_time": 1667880000
     },
     {
@@ -126,7 +118,7 @@
       "tournament_name": "Waddle Wednesday 44",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494935/image-12e5919871d924b6896a852b3f08df23.png?ehk=%2F%2FZMAR2C9fMdb6LUw5AuUDljgDS%2FqXGDR0OyUcuz84k%3D&ehkOptimized=ACKiKsTl8DzxMejkewtzrC88v%2B7Xk7KA8E%2FeE%2BTSfPE%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668042000
     },
     {
@@ -174,7 +166,7 @@
       "tournament_name": "Delaware Netplay Popup Popoff Special",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495937/image-9ac8fb23c187f25e08cc70f77a25b904.jpg?ehk=vv7SPAj4UdjLYoSLxFzlOx6NjHE%2Fs6H9QOHJK80ScUw%3D&ehkOptimized=Xv4%2FDGTkbF7GK1n8%2FSiW9gd8%2FlVwOHmDA%2F6FtUAMK78%3D",
-      "entrants": 0,
+      "entrants": 3,
       "start_time": 1668124800
     },
     {
@@ -182,7 +174,7 @@
       "tournament_name": "Only Noobs 92",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1668124800
     },
     {
@@ -246,7 +238,7 @@
       "tournament_name": "Bimensual de Patatatas 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495053/image-2b67f97d1dd547c16e863b32ffc58ce0.png?ehk=bogqDehbOSKFLsiHDhYO9XUhVz6nASNTRGDtPHtvt9A%3D&ehkOptimized=z%2FJRZGIqyQIH5EFe4CdUGPnXXM7Db2pZVSHwUzrM%2BJs%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668283200
     },
     {
@@ -326,7 +318,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1669496400
     },
     {
