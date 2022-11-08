@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667947356,
+  "fetched_at": 1667948028,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 72,
+      "entrants": 75,
       "start_time": 1667937600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 19,
+      "entrants": 20,
       "start_time": 1667937600
     },
     {
@@ -50,19 +50,11 @@
       "start_time": 1667937600
     },
     {
-      "slug": "tournament/sby-melee-netplay-136/event/melee-singles",
-      "tournament_name": "SBY Melee Netplay #136",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/496218/image-9d2013b94a075d9941bbd4747b750035.jpg?ehk=9u2KyzZke1oILe7mg2BQcAIU3fn8gVSXSbEmGSS%2FPBM%3D&ehkOptimized=r1etxhJzCfMnMOb1jjQL3Ozwbe2X4AYOJpDp2oclQNQ%3D",
-      "entrants": 8,
-      "start_time": 1667948400
-    },
-    {
       "slug": "tournament/sketchy-series-5-all-your-trace-are-belong-to-us/event/melee-singles",
       "tournament_name": "Sketchy Series 5: All Your Trace Are Belong To Us",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494238/image-a7bf4bf37a538999d5c9d9de98cf614e.png?ehk=IfuGjY4PYSwW7rurIlOMBLI3H186Bv8oSSuwl5WYN6c%3D&ehkOptimized=weKIMqza7BzGQG6SIpkQeFEJSCvVz6aCRl%2F2xS0eVyA%3D",
-      "entrants": 19,
+      "entrants": 20,
       "start_time": 1667952000
     },
     {
