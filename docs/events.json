@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667914198,
+  "fetched_at": 1667916089,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-5/event/melee-singles",
@@ -14,7 +14,15 @@
       "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 0,
+      "entrants": 1,
+      "start_time": 1667937600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/side-event-ec-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
+      "event_name": "Side Event: EC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
+      "entrants": 1,
       "start_time": 1667937600
     },
     {
@@ -37,14 +45,6 @@
       "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/main-bracket-wc-melee-singles",
       "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
       "event_name": "Main Bracket: WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 0,
-      "start_time": 1667937600
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/side-event-ec-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
-      "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
       "entrants": 0,
       "start_time": 1667937600
