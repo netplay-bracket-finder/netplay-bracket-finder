@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667940846,
+  "fetched_at": 1667942272,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 48,
+      "entrants": 50,
       "start_time": 1667937600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 14,
+      "entrants": 16,
       "start_time": 1667937600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1667937600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1667937600
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Sketchy Series 5: All Your Trace Are Belong To Us",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494238/image-a7bf4bf37a538999d5c9d9de98cf614e.png?ehk=IfuGjY4PYSwW7rurIlOMBLI3H186Bv8oSSuwl5WYN6c%3D&ehkOptimized=weKIMqza7BzGQG6SIpkQeFEJSCvVz6aCRl%2F2xS0eVyA%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1667952000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "The Crossroads Grand Finale!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496209/image-e368a09b4a52ceae35365138b0f7e485.png?ehk=SljXJ0l6sJIx4tIHUismwMVu0qR3K4RASa2uMYiXCQ0%3D&ehkOptimized=9YdLWFg0Zb%2BUC4A%2FOHGx%2F5d6XLwLX7BN0L765QIUc9U%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1667953800
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "Level One Melee #51 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/496037/image-b88d5208dfa80c659535d9e6b6c1e5ae.png?ehk=kuRVi8rsnY1ZITh2CtbcKZeMENGheZMhsJwc6dpN4vE%3D&ehkOptimized=EWgloMcefR6q9cMVuZ%2Bk2XIsSkM1SoQHGpXvO7I4Tkk%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1667959200
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "Lubbock Melee Online 9 ft. 20$ Prize Pot",
       "event_name": "Lubbock Melee Singles",
       "image": "https://images.start.gg/images/tournament/495916/image-f82bc18fd0b72fb53013165639dbf8cf.png?ehk=j2lYvMb5hSc5gdHlw2uvPTCOKkyZZ6FBdDyQJJ51mIE%3D&ehkOptimized=7%2BoLBXJuQrSC7TceIJ9iHGyGO9CfGtPXCfxXzF6ItCs%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1668133800
     },
     {
