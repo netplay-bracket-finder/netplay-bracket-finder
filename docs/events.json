@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667893113,
+  "fetched_at": 1667893898,
   "data": [
     {
       "slug": "tournament/montevideo-melee-mondays-1/event/melee-singles",
@@ -26,6 +26,54 @@
       "start_time": 1667934000
     },
     {
+      "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/ladder-melee-east-coast",
+      "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
+      "event_name": "Ladder Melee East Coast",
+      "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
+      "entrants": 0,
+      "start_time": 1667937600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/ladder-melee-west-coast",
+      "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
+      "event_name": "Ladder Melee West Coast",
+      "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
+      "entrants": 0,
+      "start_time": 1667937600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/main-bracket-ec-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
+      "event_name": "Main Bracket: EC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
+      "entrants": 0,
+      "start_time": 1667937600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/main-bracket-wc-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
+      "event_name": "Main Bracket: WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
+      "entrants": 0,
+      "start_time": 1667937600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/side-event-ec-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
+      "event_name": "Side Event: EC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
+      "entrants": 0,
+      "start_time": 1667937600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
+      "entrants": 0,
+      "start_time": 1667937600
+    },
+    {
       "slug": "tournament/sketchy-series-5-all-your-trace-are-belong-to-us/event/melee-singles",
       "tournament_name": "Sketchy Series 5: All Your Trace Are Belong To Us",
       "event_name": "Melee Singles",
@@ -46,7 +94,7 @@
       "tournament_name": "Level One Melee #51 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/496037/image-b88d5208dfa80c659535d9e6b6c1e5ae.png?ehk=kuRVi8rsnY1ZITh2CtbcKZeMENGheZMhsJwc6dpN4vE%3D&ehkOptimized=EWgloMcefR6q9cMVuZ%2Bk2XIsSkM1SoQHGpXvO7I4Tkk%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1667959200
     },
     {
