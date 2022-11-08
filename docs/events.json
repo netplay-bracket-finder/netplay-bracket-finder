@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667878189,
+  "fetched_at": 1667881418,
   "data": [
     {
       "slug": "tournament/montevideo-melee-mondays-1/event/melee-singles",
@@ -16,14 +16,6 @@
       "image": "https://images.start.gg/images/tournament/495566/image-3781d7ad10b3a27eb94bf104d5331b12.png?ehk=Q3Q3Df4Q6OR9%2FoM9jDooqRx3QOpmerXBKNP2YA%2BVIJw%3D&ehkOptimized=O%2FTHaBBAAezGKfoRTeFEFpBLOeuxXYTeii0SgXRY4%2Fs%3D",
       "entrants": 7,
       "start_time": 1667833200
-    },
-    {
-      "slug": "tournament/mnn-32/event/melee-singles",
-      "tournament_name": "MNN#32",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/495737/image-b37c6b04f2ba7e98d1792c70ce2609dc.png?ehk=7P7WEjeVQ%2FnikgdcW8Vk7G7HMwyF3o%2F22dnSAxM9Gqo%3D&ehkOptimized=qIGNl%2Bx0NW%2FwH4mrvVIMQL%2BWo%2BoJ51Eo0gG%2BDLBUGNI%3D",
-      "entrants": 22,
-      "start_time": 1667880000
     },
     {
       "slug": "tournament/tuesday-night-fever-5/event/melee-singles",
@@ -310,7 +302,7 @@
       "tournament_name": "The BIG Pink",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492672/image-e59cad14eec8a33939c7d3b7dbf1f8ad.jpg?ehk=Ug%2FzytecnblTpI7NCFssNEth%2BnbO36iP%2BnWZ%2B6NBsUc%3D&ehkOptimized=2AJYP8G0yTIXMxUR%2F%2FcBZ4BDHvxGORbrUxLHiVKrTgY%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1670731200
     },
     {
