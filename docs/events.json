@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667965393,
+  "fetched_at": 1667968244,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/ladder-melee-east-coast",
@@ -86,16 +86,8 @@
       "tournament_name": "Silver Slippi League #30",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/495992/image-3df8a46497d0d0c63dbf43f3c872a93a.png?ehk=regcA4G4Lo3GF70H9lMtRpQcei2f5LMZNTG22zHPdfc%3D&ehkOptimized=RXu17qRW4TRcSt%2BcWBWSfNjlWHJZ45QJ1b7N1BieoD0%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668045600
-    },
-    {
-      "slug": "tournament/lfsi-melee-tournament/event/lfsi-melee-tournament",
-      "tournament_name": "LFSI Melee Tournament",
-      "event_name": "LFSI Melee Tournament",
-      "image": "",
-      "entrants": 8,
-      "start_time": 1668052800
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-38-eu-event/event/melee-singles",
@@ -114,22 +106,6 @@
       "start_time": 1668103200
     },
     {
-      "slug": "tournament/moonwalk-tournament-series-24/event/melee-ladder",
-      "tournament_name": "Moonwalk Tournament Series 24",
-      "event_name": "Melee Ladder",
-      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
-      "entrants": 3,
-      "start_time": 1668124800
-    },
-    {
-      "slug": "tournament/moonwalk-tournament-series-24/event/melee-top-12",
-      "tournament_name": "Moonwalk Tournament Series 24",
-      "event_name": "Melee Top 12",
-      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
-      "entrants": 0,
-      "start_time": 1668124800
-    },
-    {
       "slug": "tournament/ssbm-randomizer-seed-of-the-week-11/event/ssbmr-singles",
       "tournament_name": "SSBM Randomizer: Seed of the Week #11",
       "event_name": "SSBMr Singles",
@@ -146,6 +122,22 @@
       "start_time": 1668124800
     },
     {
+      "slug": "tournament/moonwalk-tournament-series-24/event/melee-ladder",
+      "tournament_name": "Moonwalk Tournament Series 24",
+      "event_name": "Melee Ladder",
+      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
+      "entrants": 3,
+      "start_time": 1668124800
+    },
+    {
+      "slug": "tournament/moonwalk-tournament-series-24/event/melee-top-12",
+      "tournament_name": "Moonwalk Tournament Series 24",
+      "event_name": "Melee Top 12",
+      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
+      "entrants": 0,
+      "start_time": 1668124800
+    },
+    {
       "slug": "tournament/delaware-netplay-popup-popoff-special/event/melee-singles",
       "tournament_name": "Delaware Netplay Popup Popoff Special",
       "event_name": "Melee Singles",
@@ -158,7 +150,7 @@
       "tournament_name": "Only Noobs 92",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1668124800
     },
     {
