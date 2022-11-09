@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667968244,
+  "fetched_at": 1667971094,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/ladder-melee-east-coast",
@@ -62,7 +62,7 @@
       "tournament_name": "Labrador Ladder #1",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/495198/image-81cf0249a81bbdc687ce1bae649f6121.jpg?ehk=6mepasxOx658xwx7ohqXSOCnoOrfjiso%2FoAoy0fxILw%3D&ehkOptimized=2sma2XCXJjaTBfCFv8EXxcKQbEmIb70MJ%2BPwjfZAVvI%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1668038400
     },
     {
@@ -134,6 +134,14 @@
       "tournament_name": "Moonwalk Tournament Series 24",
       "event_name": "Melee Top 12",
       "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
+      "entrants": 0,
+      "start_time": 1668124800
+    },
+    {
+      "slug": "tournament/the-salt-mine-48/event/the-salt-mine",
+      "tournament_name": "The Salt Mine #48!",
+      "event_name": "The Salt Mine!",
+      "image": "https://images.start.gg/images/tournament/496345/image-b9f5eb8b9c5b90b1a98cfbef62033bf5.png?ehk=CHAZSg%2BVALln3Gwz3UWSJaNjBPaY6sI%2BALl8k8T7vtQ%3D&ehkOptimized=CBGbINWcjq3KUkCKyAH1BoRK9GoT%2FxXt1V4eFa4jtFU%3D",
       "entrants": 0,
       "start_time": 1668124800
     },
