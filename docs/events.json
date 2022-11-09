@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1667951122,
+  "fetched_at": 1667959087,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 79,
+      "entrants": 80,
       "start_time": 1667937600
     },
     {
@@ -14,15 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 33,
-      "start_time": 1667937600
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/side-event-ec-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
-      "event_name": "Side Event: EC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 17,
+      "entrants": 62,
       "start_time": 1667937600
     },
     {
@@ -30,15 +22,23 @@
       "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
       "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 14,
-      "start_time": 1667937600
+      "entrants": 20,
+      "start_time": 1667953800
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/side-event-ec-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
+      "event_name": "Side Event: EC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
+      "entrants": 20,
+      "start_time": 1667953800
     },
     {
       "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/side-event-wc-melee-redemption-bracket",
       "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 12,
+      "entrants": 19,
       "start_time": 1667937600
     },
     {
@@ -46,47 +46,15 @@
       "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
       "event_name": "Main Bracket: WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1667937600
-    },
-    {
-      "slug": "tournament/the-crossroads-grand-finale/event/melee-singles",
-      "tournament_name": "The Crossroads Grand Finale!",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/496209/image-e368a09b4a52ceae35365138b0f7e485.png?ehk=SljXJ0l6sJIx4tIHUismwMVu0qR3K4RASa2uMYiXCQ0%3D&ehkOptimized=9YdLWFg0Zb%2BUC4A%2FOHGx%2F5d6XLwLX7BN0L765QIUc9U%3D",
-      "entrants": 19,
-      "start_time": 1667953800
-    },
-    {
-      "slug": "tournament/the-cc-lincorperation-2/event/melee-singles-ditto-s",
-      "tournament_name": "THE CC.LINCORPERATION 2",
-      "event_name": "MELEE SINGLES DITTO'S",
-      "image": "https://images.start.gg/images/tournament/495658/image-7f98cbc7a54a1f1be45cb5c84d7c917e.png?ehk=sAwMpKSlqm7PV4tVGK%2Fz1jwJ456lodqqDFIOb%2BvhZcw%3D&ehkOptimized=kthN1AmZN6DvsznImAFOD4Bd4wDX1tLmdwamd3Yle9Y%3D",
-      "entrants": 3,
-      "start_time": 1667959200
-    },
-    {
-      "slug": "tournament/level-one-melee-51-a-noob-only-tournament/event/main-melee-singles",
-      "tournament_name": "Level One Melee #51 - a noob-only tournament",
-      "event_name": "Main Melee Singles",
-      "image": "https://images.start.gg/images/tournament/496037/image-b88d5208dfa80c659535d9e6b6c1e5ae.png?ehk=kuRVi8rsnY1ZITh2CtbcKZeMENGheZMhsJwc6dpN4vE%3D&ehkOptimized=EWgloMcefR6q9cMVuZ%2Bk2XIsSkM1SoQHGpXvO7I4Tkk%3D",
-      "entrants": 18,
-      "start_time": 1667959200
-    },
-    {
-      "slug": "tournament/level-one-melee-51-a-noob-only-tournament/event/amateur-melee-singles",
-      "tournament_name": "Level One Melee #51 - a noob-only tournament",
-      "event_name": "Amateur Melee Singles",
-      "image": "https://images.start.gg/images/tournament/496037/image-b88d5208dfa80c659535d9e6b6c1e5ae.png?ehk=kuRVi8rsnY1ZITh2CtbcKZeMENGheZMhsJwc6dpN4vE%3D&ehkOptimized=EWgloMcefR6q9cMVuZ%2Bk2XIsSkM1SoQHGpXvO7I4Tkk%3D",
-      "entrants": 13,
-      "start_time": 1667959200
     },
     {
       "slug": "tournament/full-moon-melee-11/event/melee-singles",
       "tournament_name": "Full Moon Melee 11",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494933/image-b8c6f6384e138c6c639b5cfaa3f1f918.png?ehk=dgd48j3ih%2BJEyvoV344M%2FKwUuYsYZ4UCLIAd2FszTNM%3D&ehkOptimized=jv6ZWAJcal1xDjXH%2BSoQn5IJvQHnGpbYE53G5F%2F%2F0Jk%3D",
-      "entrants": 12,
+      "entrants": 20,
       "start_time": 1667962800
     },
     {
@@ -102,7 +70,7 @@
       "tournament_name": "Labrador Ladder #1",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/495198/image-81cf0249a81bbdc687ce1bae649f6121.jpg?ehk=6mepasxOx658xwx7ohqXSOCnoOrfjiso%2FoAoy0fxILw%3D&ehkOptimized=2sma2XCXJjaTBfCFv8EXxcKQbEmIb70MJ%2BPwjfZAVvI%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1668038400
     },
     {
@@ -170,17 +138,17 @@
       "start_time": 1668124800
     },
     {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-11/event/results-data",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #11",
-      "event_name": "Results Data",
-      "image": "https://images.start.gg/images/tournament/496108/image-b693a805dc06a413d4e6333f1379c203.png?ehk=wSmahYY6wBuZs5SJqykzrlfBwNoauWOKd2lyKMJbXTg%3D&ehkOptimized=7EsD02LYeBQVW1YUb2AZFuCGeEUo4%2BL8fgxZ%2FLY%2Bw8s%3D",
-      "entrants": 0,
-      "start_time": 1668124800
-    },
-    {
       "slug": "tournament/ssbm-randomizer-seed-of-the-week-11/event/ssbmr-singles",
       "tournament_name": "SSBM Randomizer: Seed of the Week #11",
       "event_name": "SSBMr Singles",
+      "image": "https://images.start.gg/images/tournament/496108/image-b693a805dc06a413d4e6333f1379c203.png?ehk=wSmahYY6wBuZs5SJqykzrlfBwNoauWOKd2lyKMJbXTg%3D&ehkOptimized=7EsD02LYeBQVW1YUb2AZFuCGeEUo4%2BL8fgxZ%2FLY%2Bw8s%3D",
+      "entrants": 1,
+      "start_time": 1668124800
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-11/event/results-data",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #11",
+      "event_name": "Results Data",
       "image": "https://images.start.gg/images/tournament/496108/image-b693a805dc06a413d4e6333f1379c203.png?ehk=wSmahYY6wBuZs5SJqykzrlfBwNoauWOKd2lyKMJbXTg%3D&ehkOptimized=7EsD02LYeBQVW1YUb2AZFuCGeEUo4%2BL8fgxZ%2FLY%2Bw8s%3D",
       "entrants": 0,
       "start_time": 1668124800
@@ -198,7 +166,7 @@
       "tournament_name": "Only Noobs 92",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1668124800
     },
     {
@@ -238,7 +206,7 @@
       "tournament_name": "Melee Legends 4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493654/image-dfe6a476b4ae5c4ae7088aa229ed1e8c.png?ehk=gwlZOs6d7VIY1SW%2F9YppDMgHjquGIsFUq%2BJyQKm8oFg%3D&ehkOptimized=9lCtpWruIFKO7AXF7SiMwS1qAYKHbW%2FG%2Ft6kG5yltXY%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1668214800
     },
     {
@@ -298,11 +266,27 @@
       "start_time": 1668294000
     },
     {
+      "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/ladder",
+      "tournament_name": "LGBT S3E14: The Rat's Back and Its' Ready To Party",
+      "event_name": "Ladder",
+      "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
+      "entrants": 0,
+      "start_time": 1668373200
+    },
+    {
+      "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/melee-singles",
+      "tournament_name": "LGBT S3E14: The Rat's Back and Its' Ready To Party",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
+      "entrants": 0,
+      "start_time": 1668373200
+    },
+    {
       "slug": "tournament/head-of-the-m-house-12/event/melee-singles",
       "tournament_name": "Head of the (M) House #12",
       "event_name": "Melee singles",
       "image": "",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668333600
     },
     {
@@ -358,7 +342,7 @@
       "tournament_name": "Andrenaleague 16",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495842/image-0584c4f0bbf442e2d6c023bbe491ece1.png?ehk=2y0xTXaOg0XvL2FDN%2FF6ES9FO17tAgYvsrOK8enunZA%3D&ehkOptimized=164LekSI5GU5fRVH1Nj5jRmoQ1hJCpoQtkKtuS185vo%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668898800
     },
     {
