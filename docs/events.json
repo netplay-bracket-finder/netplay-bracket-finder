@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668015338,
+  "fetched_at": 1668016296,
   "data": [
     {
       "slug": "tournament/trashtalkmaster9000-vs-fluentputin/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Raccoon Rumble #4 !!!!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496388/image-2d9da8b7f41edbb14d7693c0d81eb1e5.jpg?ehk=blBqqtHPmqELTcz4%2FSbyaJU8aN%2Bt%2B%2FRRWMEFWin3wwo%3D&ehkOptimized=NRxP9ihhxt%2Frl%2FMRVPoXK4nSh3iFuzaqsIPUOFrHwwM%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1668018600
     },
     {
@@ -98,6 +98,14 @@
       "start_time": 1668124800
     },
     {
+      "slug": "tournament/the-dojo-30/event/melee-singles",
+      "tournament_name": "The Dojo #30",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496255/image-d57216ac8b60e409ad3a096f55eb8394.png?ehk=vDE9YwQcah85z7Q%2BjSO2OPVFvf2okV2rmwf6%2F2%2BFcCc%3D&ehkOptimized=BOqEhua1P7pfa1dP93vrzfznv6pylaLmoEdUkZxvzz0%3D",
+      "entrants": 0,
+      "start_time": 1668130200
+    },
+    {
       "slug": "tournament/the-salt-mine-48/event/the-salt-mine",
       "tournament_name": "The Salt Mine #48!",
       "event_name": "The Salt Mine!",
@@ -158,7 +166,7 @@
       "tournament_name": "Stel Hotel Throwdown: Minimum $100 Prize Pool!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1668209400
     },
     {
