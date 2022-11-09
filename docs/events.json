@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667972835,
+  "fetched_at": 1667975433,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/ladder-melee-east-coast",
@@ -16,14 +16,6 @@
       "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
       "entrants": 67,
       "start_time": 1667937600
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/main-bracket-wc-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
-      "event_name": "Main Bracket: WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 19,
-      "start_time": 1667964600
     },
     {
       "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/main-bracket-ec-melee-singles",
@@ -47,6 +39,14 @@
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
       "entrants": 21,
+      "start_time": 1667964600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/main-bracket-wc-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
+      "event_name": "Main Bracket: WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
+      "entrants": 19,
       "start_time": 1667964600
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Silver Slippi League #30",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/495992/image-3df8a46497d0d0c63dbf43f3c872a93a.png?ehk=regcA4G4Lo3GF70H9lMtRpQcei2f5LMZNTG22zHPdfc%3D&ehkOptimized=RXu17qRW4TRcSt%2BcWBWSfNjlWHJZ45QJ1b7N1BieoD0%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668045600
     },
     {
@@ -182,7 +182,7 @@
       "tournament_name": "Stel Hotel Throwdown: Minimum $100 Prize Pool!",
       "event_name": "Commentator Invitational",
       "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1668209400
     },
     {
