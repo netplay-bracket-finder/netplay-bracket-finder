@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667959087,
+  "fetched_at": 1667965393,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/ladder-melee-east-coast",
@@ -14,8 +14,24 @@
       "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 62,
+      "entrants": 67,
       "start_time": 1667937600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
+      "entrants": 21,
+      "start_time": 1667964600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/main-bracket-wc-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
+      "event_name": "Main Bracket: WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
+      "entrants": 19,
+      "start_time": 1667964600
     },
     {
       "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/main-bracket-ec-melee-singles",
@@ -34,30 +50,6 @@
       "start_time": 1667953800
     },
     {
-      "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 19,
-      "start_time": 1667937600
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/main-bracket-wc-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #102 - Lite Edition",
-      "event_name": "Main Bracket: WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/496055/image-fcde4c9bbdce2df647dfc204d78abc90.png?ehk=9gLSSwL5z4LNJiRqkBeRJRUSNm2fc6HD3YXb9aqGDdI%3D&ehkOptimized=two8EprrCL86xxC24Jq8x6OMPbpwKy4%2B2jmj4PHqaOc%3D",
-      "entrants": 1,
-      "start_time": 1667937600
-    },
-    {
-      "slug": "tournament/full-moon-melee-11/event/melee-singles",
-      "tournament_name": "Full Moon Melee 11",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/494933/image-b8c6f6384e138c6c639b5cfaa3f1f918.png?ehk=dgd48j3ih%2BJEyvoV344M%2FKwUuYsYZ4UCLIAd2FszTNM%3D&ehkOptimized=jv6ZWAJcal1xDjXH%2BSoQn5IJvQHnGpbYE53G5F%2F%2F0Jk%3D",
-      "entrants": 20,
-      "start_time": 1667962800
-    },
-    {
       "slug": "tournament/trashtalkmaster9000-vs-fluentputin/event/melee-singles",
       "tournament_name": "Trashtalkmaster9000 vs fluentputin",
       "event_name": "Melee Singles",
@@ -70,7 +62,7 @@
       "tournament_name": "Labrador Ladder #1",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/495198/image-81cf0249a81bbdc687ce1bae649f6121.jpg?ehk=6mepasxOx658xwx7ohqXSOCnoOrfjiso%2FoAoy0fxILw%3D&ehkOptimized=2sma2XCXJjaTBfCFv8EXxcKQbEmIb70MJ%2BPwjfZAVvI%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1668038400
     },
     {
@@ -267,7 +259,7 @@
     },
     {
       "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/ladder",
-      "tournament_name": "LGBT S3E14: The Rat's Back and Its' Ready To Party",
+      "tournament_name": "LGBT S3E14: The Rat's Back and Its Ready To Party",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
       "entrants": 0,
@@ -275,7 +267,7 @@
     },
     {
       "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/melee-singles",
-      "tournament_name": "LGBT S3E14: The Rat's Back and Its' Ready To Party",
+      "tournament_name": "LGBT S3E14: The Rat's Back and Its Ready To Party",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
       "entrants": 0,
