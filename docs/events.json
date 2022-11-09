@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668030779,
+  "fetched_at": 1668032350,
   "data": [
     {
       "slug": "tournament/trashtalkmaster9000-vs-fluentputin/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "UNF Smash 11/9",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 2,
+      "entrants": 5,
       "start_time": 1668031200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Galaxy Gladiators #20 (Solar Circuit Qualifier)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496110/image-4b9eb5d392fd58f3a5b041f594fabb26.png?ehk=XBJ5sSc13OiglCx1XKlUjeJGIH5A6IOAB7AtlbQUn7E%3D&ehkOptimized=x0v4KQj2BwmqAHPUNXL0Rd0dJyqozuWuWpx2du%2FG2yY%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668042000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Waddle Wednesday 44",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494935/image-12e5919871d924b6896a852b3f08df23.png?ehk=%2F%2FZMAR2C9fMdb6LUw5AuUDljgDS%2FqXGDR0OyUcuz84k%3D&ehkOptimized=ACKiKsTl8DzxMejkewtzrC88v%2B7Xk7KA8E%2FeE%2BTSfPE%3D",
-      "entrants": 27,
+      "entrants": 32,
       "start_time": 1668042000
     },
     {
