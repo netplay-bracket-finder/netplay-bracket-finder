@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668018259,
+  "fetched_at": 1668019634,
   "data": [
     {
       "slug": "tournament/trashtalkmaster9000-vs-fluentputin/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "",
       "entrants": null,
       "start_time": 1668016800
-    },
-    {
-      "slug": "tournament/raccoon-rumble-4-1/event/melee-singles",
-      "tournament_name": "Raccoon Rumble #4 !!!!",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/496388/image-2d9da8b7f41edbb14d7693c0d81eb1e5.jpg?ehk=blBqqtHPmqELTcz4%2FSbyaJU8aN%2Bt%2B%2FRRWMEFWin3wwo%3D&ehkOptimized=NRxP9ihhxt%2Frl%2FMRVPoXK4nSh3iFuzaqsIPUOFrHwwM%3D",
-      "entrants": 14,
-      "start_time": 1668018600
     },
     {
       "slug": "tournament/labrador-ladder-1/event/melee-ladder",
@@ -38,7 +30,7 @@
       "tournament_name": "Waddle Wednesday 44",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494935/image-12e5919871d924b6896a852b3f08df23.png?ehk=%2F%2FZMAR2C9fMdb6LUw5AuUDljgDS%2FqXGDR0OyUcuz84k%3D&ehkOptimized=ACKiKsTl8DzxMejkewtzrC88v%2B7Xk7KA8E%2FeE%2BTSfPE%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1668042000
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #38 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494716/image-369f557f7a7c534577cab49d12c068eb.png?ehk=VSTniKtdTFsTNIwyb%2BUug%2FMMw0bT6A2svfIf4eLbwMI%3D&ehkOptimized=icAULaNUek37M7a9pZS%2FIf34qO1n84nagw6NOlQyQ6U%3D",
-      "entrants": 6,
+      "entrants": 8,
       "start_time": 1668103200
     },
     {
