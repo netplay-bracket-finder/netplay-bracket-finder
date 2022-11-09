@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668019634,
+  "fetched_at": 1668021355,
   "data": [
     {
       "slug": "tournament/trashtalkmaster9000-vs-fluentputin/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "Waddle Wednesday 44",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494935/image-12e5919871d924b6896a852b3f08df23.png?ehk=%2F%2FZMAR2C9fMdb6LUw5AuUDljgDS%2FqXGDR0OyUcuz84k%3D&ehkOptimized=ACKiKsTl8DzxMejkewtzrC88v%2B7Xk7KA8E%2FeE%2BTSfPE%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1668042000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Silver Slippi League #30",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/495992/image-3df8a46497d0d0c63dbf43f3c872a93a.png?ehk=regcA4G4Lo3GF70H9lMtRpQcei2f5LMZNTG22zHPdfc%3D&ehkOptimized=RXu17qRW4TRcSt%2BcWBWSfNjlWHJZ45QJ1b7N1BieoD0%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668045600
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #38 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494716/image-369f557f7a7c534577cab49d12c068eb.png?ehk=VSTniKtdTFsTNIwyb%2BUug%2FMMw0bT6A2svfIf4eLbwMI%3D&ehkOptimized=icAULaNUek37M7a9pZS%2FIf34qO1n84nagw6NOlQyQ6U%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1668103200
     },
     {
@@ -150,7 +150,7 @@
       "tournament_name": "Stel Hotel Throwdown: Minimum $100 Prize Pool!",
       "event_name": "Commentator Invitational",
       "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1668209400
     },
     {
@@ -310,8 +310,16 @@
       "tournament_name": "CASINO ROYALE ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/496368/image-4846a3acb2d354bf17857068fffe988e.png?ehk=1gpj%2BAmVh8Z3fzH3cJ4GKpJkL3GmE6wFSSPkT9B%2BrYw%3D&ehkOptimized=aKraBE7Tvxq4iPenewffzJbeL2fZK2v1HLiHmAVYxwE%3D",
-      "entrants": 0,
+      "entrants": 2,
       "start_time": 1668479400
+    },
+    {
+      "slug": "tournament/dad-s-house-online-1-50-pot-bonus-wow/event/melee-singles",
+      "tournament_name": "Dad's House: Online #1 | $50 Pot Bonus (wow)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496485/image-d1e9624f066b5b09f11c69354097282c.png?ehk=s33xZEHfGnnrGftTaHddmMRBOfKzUHkhd4ro1iSpFzk%3D&ehkOptimized=kWnVLcYsLO0YhISOE3cairayBFBipQ7rUzNhWdwCCq8%3D",
+      "entrants": 2,
+      "start_time": 1668558600
     },
     {
       "slug": "tournament/multi-melee-masters-2-50-pot-bonus/event/multi-melee-singles",
