@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668034388,
+  "fetched_at": 1668036206,
   "data": [
     {
       "slug": "tournament/trashtalkmaster9000-vs-fluentputin/event/melee-singles",
@@ -38,7 +38,7 @@
       "tournament_name": "Waddle Wednesday 44",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494935/image-12e5919871d924b6896a852b3f08df23.png?ehk=%2F%2FZMAR2C9fMdb6LUw5AuUDljgDS%2FqXGDR0OyUcuz84k%3D&ehkOptimized=ACKiKsTl8DzxMejkewtzrC88v%2B7Xk7KA8E%2FeE%2BTSfPE%3D",
-      "entrants": 38,
+      "entrants": 47,
       "start_time": 1668042000
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Silver Slippi League #30",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/495992/image-3df8a46497d0d0c63dbf43f3c872a93a.png?ehk=regcA4G4Lo3GF70H9lMtRpQcei2f5LMZNTG22zHPdfc%3D&ehkOptimized=RXu17qRW4TRcSt%2BcWBWSfNjlWHJZ45QJ1b7N1BieoD0%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1668045600
     },
     {
@@ -74,22 +74,6 @@
       "start_time": 1668110400
     },
     {
-      "slug": "tournament/moonwalk-tournament-series-24/event/melee-ladder",
-      "tournament_name": "Moonwalk Tournament Series 24",
-      "event_name": "Melee Ladder",
-      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
-      "entrants": 3,
-      "start_time": 1668124800
-    },
-    {
-      "slug": "tournament/moonwalk-tournament-series-24/event/melee-top-12",
-      "tournament_name": "Moonwalk Tournament Series 24",
-      "event_name": "Melee Top 12",
-      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
-      "entrants": 0,
-      "start_time": 1668124800
-    },
-    {
       "slug": "tournament/the-dojo-30/event/melee-singles",
       "tournament_name": "The Dojo #30",
       "event_name": "Melee Singles",
@@ -110,6 +94,22 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #11",
       "event_name": "Results Data",
       "image": "https://images.start.gg/images/tournament/496108/image-b693a805dc06a413d4e6333f1379c203.png?ehk=wSmahYY6wBuZs5SJqykzrlfBwNoauWOKd2lyKMJbXTg%3D&ehkOptimized=7EsD02LYeBQVW1YUb2AZFuCGeEUo4%2BL8fgxZ%2FLY%2Bw8s%3D",
+      "entrants": 0,
+      "start_time": 1668124800
+    },
+    {
+      "slug": "tournament/moonwalk-tournament-series-24/event/melee-ladder",
+      "tournament_name": "Moonwalk Tournament Series 24",
+      "event_name": "Melee Ladder",
+      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
+      "entrants": 3,
+      "start_time": 1668124800
+    },
+    {
+      "slug": "tournament/moonwalk-tournament-series-24/event/melee-top-12",
+      "tournament_name": "Moonwalk Tournament Series 24",
+      "event_name": "Melee Top 12",
+      "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
       "entrants": 0,
       "start_time": 1668124800
     },
@@ -200,6 +200,14 @@
       "image": "https://images.start.gg/images/tournament/496220/image-2cb0f12bc980bf20c8bdcfa4102c38fe.jpg?ehk=%2Bfjd4HY3P2yyfM1pcPxiGo7L3alMG3j3yrqtlKMVe8E%3D&ehkOptimized=Ev3XbweDhl0neVHCQ5dRiQ2u3%2FCHmFK2mh%2F3gRv9UOE%3D",
       "entrants": 1,
       "start_time": 1668267000
+    },
+    {
+      "slug": "tournament/rod-revival-of-the-dojo/event/melee-singles",
+      "tournament_name": "ROD (Revival of the Dojo)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496302/image-779bd9e094a0549f7b90ba590bc8c819.png?ehk=VVywVqL4fuh0yOx4jRqL8w%2BsQn03j3OQUWiq%2FCOwNVo%3D&ehkOptimized=MjLlbhvQIWeIrEeJapi%2F9K6ZAPd8LdmeJnjEjQeJAt8%3D",
+      "entrants": 1,
+      "start_time": 1668279600
     },
     {
       "slug": "tournament/the-battlefields-series-59-1/event/melee-singles",
@@ -326,7 +334,7 @@
       "tournament_name": "CASINO ROYALE ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/496368/image-4846a3acb2d354bf17857068fffe988e.png?ehk=1gpj%2BAmVh8Z3fzH3cJ4GKpJkL3GmE6wFSSPkT9B%2BrYw%3D&ehkOptimized=aKraBE7Tvxq4iPenewffzJbeL2fZK2v1HLiHmAVYxwE%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1668479400
     },
     {
@@ -334,7 +342,7 @@
       "tournament_name": "Dad's House: Online #1 | $50 Pot Bonus (wow)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496485/image-d1e9624f066b5b09f11c69354097282c.png?ehk=s33xZEHfGnnrGftTaHddmMRBOfKzUHkhd4ro1iSpFzk%3D&ehkOptimized=kWnVLcYsLO0YhISOE3cairayBFBipQ7rUzNhWdwCCq8%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1668558600
     },
     {
