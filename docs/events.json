@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667979747,
+  "fetched_at": 1667980418,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-102-lite-edition/event/ladder-melee-east-coast",
@@ -320,6 +320,14 @@
       "image": "https://images.start.gg/images/tournament/496119/image-6b624658e8772301f65b545874f28a1c.jpg?ehk=g5ACfY%2B%2FfxxVRy7uEEnqjG8Xfh%2BjSyiax%2FQb1XTyD9w%3D&ehkOptimized=SA4HN21KaBmNX%2FkmxdNKMQFFMDiE5XCvL4KwizPPffQ%3D",
       "entrants": 4,
       "start_time": 1668474900
+    },
+    {
+      "slug": "tournament/casino-royale-ssbm-online-weekly/event/casino",
+      "tournament_name": "CASINO ROYALE ~ SSBM Online Weekly",
+      "event_name": "CASINO",
+      "image": "https://images.start.gg/images/tournament/496368/image-4846a3acb2d354bf17857068fffe988e.png?ehk=1gpj%2BAmVh8Z3fzH3cJ4GKpJkL3GmE6wFSSPkT9B%2BrYw%3D&ehkOptimized=aKraBE7Tvxq4iPenewffzJbeL2fZK2v1HLiHmAVYxwE%3D",
+      "entrants": 0,
+      "start_time": 1668479400
     },
     {
       "slug": "tournament/multi-melee-masters-2-50-pot-bonus/event/multi-melee-singles",
