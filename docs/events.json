@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1667987599,
+  "fetched_at": 1667989275,
   "data": [
     {
       "slug": "tournament/trashtalkmaster9000-vs-fluentputin/event/melee-singles",
@@ -120,6 +120,14 @@
       "image": "https://images.start.gg/images/tournament/495916/image-f82bc18fd0b72fb53013165639dbf8cf.png?ehk=j2lYvMb5hSc5gdHlw2uvPTCOKkyZZ6FBdDyQJJ51mIE%3D&ehkOptimized=7%2BoLBXJuQrSC7TceIJ9iHGyGO9CfGtPXCfxXzF6ItCs%3D",
       "entrants": 7,
       "start_time": 1668133800
+    },
+    {
+      "slug": "tournament/bb-78/event/melee-singles",
+      "tournament_name": "BB 78",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496382/image-d78529a4f63951b73a216fc5cd6d96c8.png?ehk=iOyt0j21Dn7O05frrxv45roKDuKAfZRJGkpWSUghgIg%3D&ehkOptimized=tLD6tsEpFG0FtfoEwv30%2FS07cUWf0T0iJTSpbavW4j4%3D",
+      "entrants": 1,
+      "start_time": 1668150000
     },
     {
       "slug": "tournament/princess-party/event/peach-only-singles",
