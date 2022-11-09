@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668007304,
+  "fetched_at": 1668008694,
   "data": [
     {
       "slug": "tournament/trashtalkmaster9000-vs-fluentputin/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Labrador Ladder #1",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/495198/image-81cf0249a81bbdc687ce1bae649f6121.jpg?ehk=6mepasxOx658xwx7ohqXSOCnoOrfjiso%2FoAoy0fxILw%3D&ehkOptimized=2sma2XCXJjaTBfCFv8EXxcKQbEmIb70MJ%2BPwjfZAVvI%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1668038400
     },
     {
@@ -118,7 +118,7 @@
       "tournament_name": "Only Noobs 92",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1668124800
     },
     {
@@ -264,6 +264,14 @@
       "image": "https://images.start.gg/images/tournament/494992/image-372f2b6bc04721c85870bf4154ed4a61.png?ehk=3ngBWW8XMqWYyMtlj%2FuYJPlniuiqE33YR5phKd8%2FMmU%3D&ehkOptimized=csqH1g9m%2BxnnWJ25WU8d2WPCRUMB12a1k8MIPRyYkZg%3D",
       "entrants": 2,
       "start_time": 1668387600
+    },
+    {
+      "slug": "tournament/woop-melee-52/event/melee-singles",
+      "tournament_name": "Woop Melee! #52",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496299/image-6113ed54b853f3c74895c766a18d0499.png?ehk=RbKDSUYCDE2j5U4fJCbL2%2FHlXdoOlP5ufFLnFp9p3vA%3D&ehkOptimized=TVwACClMMMmUSM%2BN%2FI1QfrBtGjDOGFpfu07Wa2RZfKA%3D",
+      "entrants": 0,
+      "start_time": 1668470400
     },
     {
       "slug": "tournament/coast-to-coast-doubles-7/event/wc-doubles",
