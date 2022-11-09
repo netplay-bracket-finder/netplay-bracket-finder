@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668032350,
+  "fetched_at": 1668033729,
   "data": [
     {
       "slug": "tournament/trashtalkmaster9000-vs-fluentputin/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "UNF Smash 11/9",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 5,
+      "entrants": 8,
       "start_time": 1668031200
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Waddle Wednesday 44",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494935/image-12e5919871d924b6896a852b3f08df23.png?ehk=%2F%2FZMAR2C9fMdb6LUw5AuUDljgDS%2FqXGDR0OyUcuz84k%3D&ehkOptimized=ACKiKsTl8DzxMejkewtzrC88v%2B7Xk7KA8E%2FeE%2BTSfPE%3D",
-      "entrants": 32,
+      "entrants": 36,
       "start_time": 1668042000
     },
     {
@@ -74,22 +74,6 @@
       "start_time": 1668110400
     },
     {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-11/event/ssbmr-singles",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #11",
-      "event_name": "SSBMr Singles",
-      "image": "https://images.start.gg/images/tournament/496108/image-b693a805dc06a413d4e6333f1379c203.png?ehk=wSmahYY6wBuZs5SJqykzrlfBwNoauWOKd2lyKMJbXTg%3D&ehkOptimized=7EsD02LYeBQVW1YUb2AZFuCGeEUo4%2BL8fgxZ%2FLY%2Bw8s%3D",
-      "entrants": 1,
-      "start_time": 1668124800
-    },
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-11/event/results-data",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #11",
-      "event_name": "Results Data",
-      "image": "https://images.start.gg/images/tournament/496108/image-b693a805dc06a413d4e6333f1379c203.png?ehk=wSmahYY6wBuZs5SJqykzrlfBwNoauWOKd2lyKMJbXTg%3D&ehkOptimized=7EsD02LYeBQVW1YUb2AZFuCGeEUo4%2BL8fgxZ%2FLY%2Bw8s%3D",
-      "entrants": 0,
-      "start_time": 1668124800
-    },
-    {
       "slug": "tournament/moonwalk-tournament-series-24/event/melee-ladder",
       "tournament_name": "Moonwalk Tournament Series 24",
       "event_name": "Melee Ladder",
@@ -112,6 +96,22 @@
       "image": "https://images.start.gg/images/tournament/496255/image-d57216ac8b60e409ad3a096f55eb8394.png?ehk=vDE9YwQcah85z7Q%2BjSO2OPVFvf2okV2rmwf6%2F2%2BFcCc%3D&ehkOptimized=BOqEhua1P7pfa1dP93vrzfznv6pylaLmoEdUkZxvzz0%3D",
       "entrants": 0,
       "start_time": 1668130200
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-11/event/ssbmr-singles",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #11",
+      "event_name": "SSBMr Singles",
+      "image": "https://images.start.gg/images/tournament/496108/image-b693a805dc06a413d4e6333f1379c203.png?ehk=wSmahYY6wBuZs5SJqykzrlfBwNoauWOKd2lyKMJbXTg%3D&ehkOptimized=7EsD02LYeBQVW1YUb2AZFuCGeEUo4%2BL8fgxZ%2FLY%2Bw8s%3D",
+      "entrants": 2,
+      "start_time": 1668124800
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-11/event/results-data",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #11",
+      "event_name": "Results Data",
+      "image": "https://images.start.gg/images/tournament/496108/image-b693a805dc06a413d4e6333f1379c203.png?ehk=wSmahYY6wBuZs5SJqykzrlfBwNoauWOKd2lyKMJbXTg%3D&ehkOptimized=7EsD02LYeBQVW1YUb2AZFuCGeEUo4%2BL8fgxZ%2FLY%2Bw8s%3D",
+      "entrants": 0,
+      "start_time": 1668124800
     },
     {
       "slug": "tournament/the-salt-mine-48/event/the-salt-mine",
