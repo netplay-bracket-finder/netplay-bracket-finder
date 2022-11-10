@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668097693,
+  "fetched_at": 1668099520,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-38-eu-event/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #38 (EU Event)",
       "event_name": "Toblerone waitlist",
       "image": "https://images.start.gg/images/tournament/494716/image-369f557f7a7c534577cab49d12c068eb.png?ehk=VSTniKtdTFsTNIwyb%2BUug%2FMMw0bT6A2svfIf4eLbwMI%3D&ehkOptimized=icAULaNUek37M7a9pZS%2FIf34qO1n84nagw6NOlQyQ6U%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668103200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Troppo Italiano #73",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/496536/image-c7605d22336321f986bdf5b008291325.jpg?ehk=o5%2Bpcv07GP8ntZjCGWtuJn9pZlCqRV%2BIWED4%2B2znWqw%3D&ehkOptimized=YMQ4IXlzJeOh6LFk39c7SCHVu0CYwMzhXAvUWkkhtcA%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1668110400
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Only Noobs 92",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
-      "entrants": 32,
+      "entrants": 35,
       "start_time": 1668124800
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "Stel Hotel Throwdown: Minimum $100 Prize Pool!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1668209400
     },
     {
@@ -174,7 +174,7 @@
       "tournament_name": "ROD (Revival of the Dojo)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496302/image-779bd9e094a0549f7b90ba590bc8c819.png?ehk=VVywVqL4fuh0yOx4jRqL8w%2BsQn03j3OQUWiq%2FCOwNVo%3D&ehkOptimized=MjLlbhvQIWeIrEeJapi%2F9K6ZAPd8LdmeJnjEjQeJAt8%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1668279600
     },
     {
