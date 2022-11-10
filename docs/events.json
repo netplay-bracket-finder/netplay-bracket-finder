@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668115131,
+  "fetched_at": 1668116454,
   "data": [
     {
       "slug": "tournament/ssbm-randomizer-seed-of-the-week-11/event/ssbmr-singles",
@@ -18,14 +18,6 @@
       "start_time": 1668124800
     },
     {
-      "slug": "tournament/the-dojo-30/event/melee-singles",
-      "tournament_name": "The Dojo #30",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/496255/image-d57216ac8b60e409ad3a096f55eb8394.png?ehk=vDE9YwQcah85z7Q%2BjSO2OPVFvf2okV2rmwf6%2F2%2BFcCc%3D&ehkOptimized=BOqEhua1P7pfa1dP93vrzfznv6pylaLmoEdUkZxvzz0%3D",
-      "entrants": 1,
-      "start_time": 1668130200
-    },
-    {
       "slug": "tournament/moonwalk-tournament-series-24/event/melee-ladder",
       "tournament_name": "Moonwalk Tournament Series 24",
       "event_name": "Melee Ladder",
@@ -42,11 +34,19 @@
       "start_time": 1668124800
     },
     {
+      "slug": "tournament/the-dojo-30/event/melee-singles",
+      "tournament_name": "The Dojo #30",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496255/image-d57216ac8b60e409ad3a096f55eb8394.png?ehk=vDE9YwQcah85z7Q%2BjSO2OPVFvf2okV2rmwf6%2F2%2BFcCc%3D&ehkOptimized=BOqEhua1P7pfa1dP93vrzfznv6pylaLmoEdUkZxvzz0%3D",
+      "entrants": 1,
+      "start_time": 1668130200
+    },
+    {
       "slug": "tournament/the-salt-mine-48/event/the-salt-mine",
       "tournament_name": "The Salt Mine #48!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/496345/image-b9f5eb8b9c5b90b1a98cfbef62033bf5.png?ehk=CHAZSg%2BVALln3Gwz3UWSJaNjBPaY6sI%2BALl8k8T7vtQ%3D&ehkOptimized=CBGbINWcjq3KUkCKyAH1BoRK9GoT%2FxXt1V4eFa4jtFU%3D",
-      "entrants": 20,
+      "entrants": 22,
       "start_time": 1668124800
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "The Return of NFC #9 | Presented by NxGn Esports",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496866/image-36c9386fc056b500995cacebe6f28099.png?ehk=KMNQ54qdFCensTVSey0YjVLpZCWWr0rg43hVXJDlI9c%3D&ehkOptimized=BX4AZa97WXvhDKiwjcSJdLtmFdxwkSyi1PwLgmC7CS8%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1668124800
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Only Noobs 92",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
-      "entrants": 82,
+      "entrants": 87,
       "start_time": 1668124800
     },
     {
