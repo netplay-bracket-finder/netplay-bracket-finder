@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668099520,
+  "fetched_at": 1668101226,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-38-eu-event/event/melee-singles",
@@ -70,7 +70,7 @@
       "tournament_name": "The Salt Mine #48!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/496345/image-b9f5eb8b9c5b90b1a98cfbef62033bf5.png?ehk=CHAZSg%2BVALln3Gwz3UWSJaNjBPaY6sI%2BALl8k8T7vtQ%3D&ehkOptimized=CBGbINWcjq3KUkCKyAH1BoRK9GoT%2FxXt1V4eFa4jtFU%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1668124800
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Only Noobs 92",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
-      "entrants": 35,
+      "entrants": 42,
       "start_time": 1668124800
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "Stel Hotel Throwdown: Minimum $100 Prize Pool!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1668209400
     },
     {
@@ -216,6 +216,14 @@
       "image": "https://images.start.gg/images/tournament/493083/image-9d5fc116fdfa6184b339911757eb673b.png?ehk=YVsoY0upd%2F0mVapphgSgEG4EPhz3kUpOQVh3TcQpFVw%3D&ehkOptimized=yw%2F%2BY6EQM4VebSP7J2UeBSYt%2BIpxt8sXejSsAJd6OWI%3D",
       "entrants": 0,
       "start_time": 1668294000
+    },
+    {
+      "slug": "tournament/dorime-s-dojo-8/event/melee-singles",
+      "tournament_name": "Dorime's Dojo #8",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496806/image-dc2e8a0e70552182919db23ccc1078cc.png?ehk=G%2Fh73VHDK5IirwflbSTZ9nNdzWt7bxiJielIslDp%2Fqg%3D&ehkOptimized=Y46aQ5hF2i6GiLPhxpGlWLO8moM6p3l9xJKG8m9YSd0%3D",
+      "entrants": 1,
+      "start_time": 1668358800
     },
     {
       "slug": "tournament/fight-of-the-fearless-27/event/fight-of-the-fearless-single",
