@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668053982,
+  "fetched_at": 1668056725,
   "data": [
     {
       "slug": "tournament/trashtalkmaster9000-vs-fluentputin/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "",
       "entrants": null,
       "start_time": 1668016800
-    },
-    {
-      "slug": "tournament/unf-smash-11-9/event/melee-singles",
-      "tournament_name": "UNF Smash 11/9",
-      "event_name": "Melee Singles",
-      "image": "",
-      "entrants": 9,
-      "start_time": 1668031200
     },
     {
       "slug": "tournament/silver-slippi-league-30/event/melee-ranked-ladder",
@@ -110,7 +102,7 @@
       "tournament_name": "Only Noobs 92",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
-      "entrants": 23,
+      "entrants": 24,
       "start_time": 1668124800
     },
     {
