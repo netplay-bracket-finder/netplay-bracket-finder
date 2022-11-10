@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668106147,
+  "fetched_at": 1668107779,
   "data": [
     {
       "slug": "tournament/troppo-italiano-73/event/singles",
@@ -38,7 +38,7 @@
       "tournament_name": "Moonwalk Tournament Series 24",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1668124800
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "The Salt Mine #48!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/496345/image-b9f5eb8b9c5b90b1a98cfbef62033bf5.png?ehk=CHAZSg%2BVALln3Gwz3UWSJaNjBPaY6sI%2BALl8k8T7vtQ%3D&ehkOptimized=CBGbINWcjq3KUkCKyAH1BoRK9GoT%2FxXt1V4eFa4jtFU%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1668124800
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Only Noobs 92",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
-      "entrants": 56,
+      "entrants": 57,
       "start_time": 1668124800
     },
     {
