@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668111701,
+  "fetched_at": 1668112960,
   "data": [
     {
       "slug": "tournament/ssbm-randomizer-seed-of-the-week-11/event/ssbmr-singles",
@@ -46,7 +46,7 @@
       "tournament_name": "The Salt Mine #48!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/496345/image-b9f5eb8b9c5b90b1a98cfbef62033bf5.png?ehk=CHAZSg%2BVALln3Gwz3UWSJaNjBPaY6sI%2BALl8k8T7vtQ%3D&ehkOptimized=CBGbINWcjq3KUkCKyAH1BoRK9GoT%2FxXt1V4eFa4jtFU%3D",
-      "entrants": 15,
+      "entrants": 17,
       "start_time": 1668124800
     },
     {
@@ -62,7 +62,15 @@
       "tournament_name": "Only Noobs 92",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
-      "entrants": 63,
+      "entrants": 69,
+      "start_time": 1668124800
+    },
+    {
+      "slug": "tournament/the-return-of-nfc-9-presented-by-nxgn-esports/event/melee-singles",
+      "tournament_name": "The Return of NFC #9 | Presented by NxGn Esports",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496866/image-36c9386fc056b500995cacebe6f28099.png?ehk=KMNQ54qdFCensTVSey0YjVLpZCWWr0rg43hVXJDlI9c%3D&ehkOptimized=BX4AZa97WXvhDKiwjcSJdLtmFdxwkSyi1PwLgmC7CS8%3D",
+      "entrants": 0,
       "start_time": 1668124800
     },
     {
@@ -240,6 +248,14 @@
       "image": "https://images.start.gg/images/tournament/493353/image-cd836a9b47415efcadcec805a701fb6b.jpg?ehk=Tc%2FFFWfG%2BLTrQ8yTkYJwfksTgk%2BdhjgIVNV9VkF%2FDSs%3D&ehkOptimized=6n6dpSsjOsfexoP1kg0UOpoRMvcZmXg8wBNNQIy2PgY%3D",
       "entrants": null,
       "start_time": 1668378600
+    },
+    {
+      "slug": "tournament/new-sizzling-sundays-3/event/melee-singles",
+      "tournament_name": "NEW Sizzling Sundays #3",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496867/image-5e4dcf5b80cd858cf5d9fc291346b840.png?ehk=6odt5xoOakRCjAlws3cTXO5%2FkkK1buRDjl%2BCdSwlGhI%3D&ehkOptimized=ZwqNaSjM8X44Mvjh11r2Ll6l%2BHLaOxnxIa2wXANUz8k%3D",
+      "entrants": 0,
+      "start_time": 1668385800
     },
     {
       "slug": "tournament/end-of-the-peach-era/event/melee-singles",
