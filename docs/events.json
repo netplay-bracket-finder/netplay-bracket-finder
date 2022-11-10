@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668089884,
+  "fetched_at": 1668091905,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-38-eu-event/event/melee-singles",
@@ -90,6 +90,14 @@
       "start_time": 1668124800
     },
     {
+      "slug": "tournament/goats-only-thursdaez-30/event/melee-singles",
+      "tournament_name": "GOATs Only - Thursdaez #30",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496765/image-2098935d7b091dcbb0a8138512acb35a.png?ehk=wsZZLv0JmCinTXJRbQ8QL%2Fhu9pi2a9xVzQGRB0WewIY%3D&ehkOptimized=RQnFD%2Fw%2F%2Bi4YT5es73aYf86%2BYhfdmxI55t3yC%2F8vMD0%3D",
+      "entrants": 1,
+      "start_time": 1668128400
+    },
+    {
       "slug": "tournament/lubbock-melee-online-9-ft-20-prize-pot/event/lubbock-melee-singles",
       "tournament_name": "Lubbock Melee Online 9 ft. 20$ Prize Pot",
       "event_name": "Lubbock Melee Singles",
@@ -150,7 +158,7 @@
       "tournament_name": "Quest for Best Noob EU #45",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/496220/image-2cb0f12bc980bf20c8bdcfa4102c38fe.jpg?ehk=%2Bfjd4HY3P2yyfM1pcPxiGo7L3alMG3j3yrqtlKMVe8E%3D&ehkOptimized=Ev3XbweDhl0neVHCQ5dRiQ2u3%2FCHmFK2mh%2F3gRv9UOE%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668267000
     },
     {
@@ -158,7 +166,7 @@
       "tournament_name": "ASL’s Weekly Weekend Melee #15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496752/image-cef91ca9b11cd8570808642acb3b4e63.png?ehk=bynHpCO4hfqRds3V2fzzBFICmdjgYhGSAVr7QR%2FF5j8%3D&ehkOptimized=az8UvTTNtxnTYTOWG7LiftSXLDScOcZGaXvhtKlpRos%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668270600
     },
     {
