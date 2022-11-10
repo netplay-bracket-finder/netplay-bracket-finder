@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668058632,
+  "fetched_at": 1668059507,
   "data": [
     {
       "slug": "tournament/trashtalkmaster9000-vs-fluentputin/event/melee-singles",
@@ -42,14 +42,6 @@
       "start_time": 1668110400
     },
     {
-      "slug": "tournament/the-dojo-30/event/melee-singles",
-      "tournament_name": "The Dojo #30",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/496255/image-d57216ac8b60e409ad3a096f55eb8394.png?ehk=vDE9YwQcah85z7Q%2BjSO2OPVFvf2okV2rmwf6%2F2%2BFcCc%3D&ehkOptimized=BOqEhua1P7pfa1dP93vrzfznv6pylaLmoEdUkZxvzz0%3D",
-      "entrants": 0,
-      "start_time": 1668130200
-    },
-    {
       "slug": "tournament/ssbm-randomizer-seed-of-the-week-11/event/ssbmr-singles",
       "tournament_name": "SSBM Randomizer: Seed of the Week #11",
       "event_name": "SSBMr Singles",
@@ -80,6 +72,14 @@
       "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
       "entrants": 0,
       "start_time": 1668124800
+    },
+    {
+      "slug": "tournament/the-dojo-30/event/melee-singles",
+      "tournament_name": "The Dojo #30",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496255/image-d57216ac8b60e409ad3a096f55eb8394.png?ehk=vDE9YwQcah85z7Q%2BjSO2OPVFvf2okV2rmwf6%2F2%2BFcCc%3D&ehkOptimized=BOqEhua1P7pfa1dP93vrzfznv6pylaLmoEdUkZxvzz0%3D",
+      "entrants": 1,
+      "start_time": 1668130200
     },
     {
       "slug": "tournament/the-salt-mine-48/event/the-salt-mine",
@@ -174,7 +174,7 @@
       "tournament_name": "ROD (Revival of the Dojo)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496302/image-779bd9e094a0549f7b90ba590bc8c819.png?ehk=VVywVqL4fuh0yOx4jRqL8w%2BsQn03j3OQUWiq%2FCOwNVo%3D&ehkOptimized=MjLlbhvQIWeIrEeJapi%2F9K6ZAPd8LdmeJnjEjQeJAt8%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1668279600
     },
     {
