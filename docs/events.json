@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668084213,
+  "fetched_at": 1668087479,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-38-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #38 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494716/image-369f557f7a7c534577cab49d12c068eb.png?ehk=VSTniKtdTFsTNIwyb%2BUug%2FMMw0bT6A2svfIf4eLbwMI%3D&ehkOptimized=icAULaNUek37M7a9pZS%2FIf34qO1n84nagw6NOlQyQ6U%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1668103200
     },
     {
@@ -42,14 +42,6 @@
       "start_time": 1668124800
     },
     {
-      "slug": "tournament/the-dojo-30/event/melee-singles",
-      "tournament_name": "The Dojo #30",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/496255/image-d57216ac8b60e409ad3a096f55eb8394.png?ehk=vDE9YwQcah85z7Q%2BjSO2OPVFvf2okV2rmwf6%2F2%2BFcCc%3D&ehkOptimized=BOqEhua1P7pfa1dP93vrzfznv6pylaLmoEdUkZxvzz0%3D",
-      "entrants": 1,
-      "start_time": 1668130200
-    },
-    {
       "slug": "tournament/moonwalk-tournament-series-24/event/melee-ladder",
       "tournament_name": "Moonwalk Tournament Series 24",
       "event_name": "Melee Ladder",
@@ -64,6 +56,14 @@
       "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
       "entrants": 0,
       "start_time": 1668124800
+    },
+    {
+      "slug": "tournament/the-dojo-30/event/melee-singles",
+      "tournament_name": "The Dojo #30",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496255/image-d57216ac8b60e409ad3a096f55eb8394.png?ehk=vDE9YwQcah85z7Q%2BjSO2OPVFvf2okV2rmwf6%2F2%2BFcCc%3D&ehkOptimized=BOqEhua1P7pfa1dP93vrzfznv6pylaLmoEdUkZxvzz0%3D",
+      "entrants": 1,
+      "start_time": 1668130200
     },
     {
       "slug": "tournament/the-salt-mine-48/event/the-salt-mine",
@@ -102,7 +102,7 @@
       "tournament_name": "BB 78",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496382/image-d78529a4f63951b73a216fc5cd6d96c8.png?ehk=iOyt0j21Dn7O05frrxv45roKDuKAfZRJGkpWSUghgIg%3D&ehkOptimized=tLD6tsEpFG0FtfoEwv30%2FS07cUWf0T0iJTSpbavW4j4%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1668150000
     },
     {
