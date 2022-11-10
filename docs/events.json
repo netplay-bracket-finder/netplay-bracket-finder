@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668091905,
+  "fetched_at": 1668093607,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-38-eu-event/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Troppo Italiano #73",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/496536/image-c7605d22336321f986bdf5b008291325.jpg?ehk=o5%2Bpcv07GP8ntZjCGWtuJn9pZlCqRV%2BIWED4%2B2znWqw%3D&ehkOptimized=YMQ4IXlzJeOh6LFk39c7SCHVu0CYwMzhXAvUWkkhtcA%3D",
-      "entrants": 1,
+      "entrants": 6,
       "start_time": 1668110400
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Moonwalk Tournament Series 24",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/492866/image-1dadb99e48b93a804ef86c743cd87c52.jpg?ehk=dib0HrR6CCINxriGEL796p%2BUy%2FSZ4XwTuGZkyZz7%2Bng%3D&ehkOptimized=x1jrsg8Dzd%2BRGmNXx8%2FmHDfG6GWuPHShwDBFraD7snw%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668124800
     },
     {
@@ -416,6 +416,14 @@
       "image": "",
       "entrants": 13,
       "start_time": 1674946800
+    },
+    {
+      "slug": "tournament/meteor-massacre-1/event/melee-singles",
+      "tournament_name": "Meteor Massacre 1",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/495659/image-39b30fc38142aeb9178bd9805f1d61aa.png?ehk=tkyuKJF8Y9QXIWJnCRlMzsBIqgggSA925qr6LOLf9vY%3D&ehkOptimized=MwpOF%2FbbTSw3faQgNMb6CRFU5EULicBxqFmL1VZ%2F1Rg%3D",
+      "entrants": 0,
+      "start_time": 1691969400
     }
   ]
 }
