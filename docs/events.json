@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1668066692,
+  "fetched_at": 1668069138,
   "data": [
-    {
-      "slug": "tournament/trashtalkmaster9000-vs-fluentputin/event/melee-singles",
-      "tournament_name": "Trashtalkmaster9000 vs fluentputin",
-      "event_name": "Melee Singles",
-      "image": "",
-      "entrants": null,
-      "start_time": 1668016800
-    },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-38-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #38 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494716/image-369f557f7a7c534577cab49d12c068eb.png?ehk=VSTniKtdTFsTNIwyb%2BUug%2FMMw0bT6A2svfIf4eLbwMI%3D&ehkOptimized=icAULaNUek37M7a9pZS%2FIf34qO1n84nagw6NOlQyQ6U%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1668103200
     },
     {
@@ -110,7 +102,7 @@
       "tournament_name": "BB 78",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496382/image-d78529a4f63951b73a216fc5cd6d96c8.png?ehk=iOyt0j21Dn7O05frrxv45roKDuKAfZRJGkpWSUghgIg%3D&ehkOptimized=tLD6tsEpFG0FtfoEwv30%2FS07cUWf0T0iJTSpbavW4j4%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1668150000
     },
     {
