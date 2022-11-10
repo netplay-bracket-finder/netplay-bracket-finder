@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1668109888,
+  "fetched_at": 1668111701,
   "data": [
-    {
-      "slug": "tournament/troppo-italiano-73/event/singles",
-      "tournament_name": "Troppo Italiano #73",
-      "event_name": "Singles",
-      "image": "https://images.start.gg/images/tournament/496536/image-c7605d22336321f986bdf5b008291325.jpg?ehk=o5%2Bpcv07GP8ntZjCGWtuJn9pZlCqRV%2BIWED4%2B2znWqw%3D&ehkOptimized=YMQ4IXlzJeOh6LFk39c7SCHVu0CYwMzhXAvUWkkhtcA%3D",
-      "entrants": 12,
-      "start_time": 1668110400
-    },
     {
       "slug": "tournament/ssbm-randomizer-seed-of-the-week-11/event/ssbmr-singles",
       "tournament_name": "SSBM Randomizer: Seed of the Week #11",
@@ -24,14 +16,6 @@
       "image": "https://images.start.gg/images/tournament/496108/image-b693a805dc06a413d4e6333f1379c203.png?ehk=wSmahYY6wBuZs5SJqykzrlfBwNoauWOKd2lyKMJbXTg%3D&ehkOptimized=7EsD02LYeBQVW1YUb2AZFuCGeEUo4%2BL8fgxZ%2FLY%2Bw8s%3D",
       "entrants": 0,
       "start_time": 1668124800
-    },
-    {
-      "slug": "tournament/the-dojo-30/event/melee-singles",
-      "tournament_name": "The Dojo #30",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/496255/image-d57216ac8b60e409ad3a096f55eb8394.png?ehk=vDE9YwQcah85z7Q%2BjSO2OPVFvf2okV2rmwf6%2F2%2BFcCc%3D&ehkOptimized=BOqEhua1P7pfa1dP93vrzfznv6pylaLmoEdUkZxvzz0%3D",
-      "entrants": 1,
-      "start_time": 1668130200
     },
     {
       "slug": "tournament/moonwalk-tournament-series-24/event/melee-ladder",
@@ -50,11 +34,19 @@
       "start_time": 1668124800
     },
     {
+      "slug": "tournament/the-dojo-30/event/melee-singles",
+      "tournament_name": "The Dojo #30",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496255/image-d57216ac8b60e409ad3a096f55eb8394.png?ehk=vDE9YwQcah85z7Q%2BjSO2OPVFvf2okV2rmwf6%2F2%2BFcCc%3D&ehkOptimized=BOqEhua1P7pfa1dP93vrzfznv6pylaLmoEdUkZxvzz0%3D",
+      "entrants": 1,
+      "start_time": 1668130200
+    },
+    {
       "slug": "tournament/the-salt-mine-48/event/the-salt-mine",
       "tournament_name": "The Salt Mine #48!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/496345/image-b9f5eb8b9c5b90b1a98cfbef62033bf5.png?ehk=CHAZSg%2BVALln3Gwz3UWSJaNjBPaY6sI%2BALl8k8T7vtQ%3D&ehkOptimized=CBGbINWcjq3KUkCKyAH1BoRK9GoT%2FxXt1V4eFa4jtFU%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1668124800
     },
     {
@@ -70,7 +62,7 @@
       "tournament_name": "Only Noobs 92",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
-      "entrants": 60,
+      "entrants": 63,
       "start_time": 1668124800
     },
     {
@@ -78,7 +70,7 @@
       "tournament_name": "GOATs Only - Thursdaez #30",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496765/image-2098935d7b091dcbb0a8138512acb35a.png?ehk=wsZZLv0JmCinTXJRbQ8QL%2Fhu9pi2a9xVzQGRB0WewIY%3D&ehkOptimized=RQnFD%2Fw%2F%2Bi4YT5es73aYf86%2BYhfdmxI55t3yC%2F8vMD0%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668128400
     },
     {
@@ -142,7 +134,7 @@
       "tournament_name": "Quest for Best Noob EU #45",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/496220/image-2cb0f12bc980bf20c8bdcfa4102c38fe.jpg?ehk=%2Bfjd4HY3P2yyfM1pcPxiGo7L3alMG3j3yrqtlKMVe8E%3D&ehkOptimized=Ev3XbweDhl0neVHCQ5dRiQ2u3%2FCHmFK2mh%2F3gRv9UOE%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668267000
     },
     {
@@ -158,7 +150,7 @@
       "tournament_name": "ROD (Revival of the Dojo)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496302/image-779bd9e094a0549f7b90ba590bc8c819.png?ehk=VVywVqL4fuh0yOx4jRqL8w%2BsQn03j3OQUWiq%2FCOwNVo%3D&ehkOptimized=MjLlbhvQIWeIrEeJapi%2F9K6ZAPd8LdmeJnjEjQeJAt8%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1668279600
     },
     {
@@ -174,7 +166,7 @@
       "tournament_name": "Bimensual de Patatatas 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495053/image-2b67f97d1dd547c16e863b32ffc58ce0.png?ehk=bogqDehbOSKFLsiHDhYO9XUhVz6nASNTRGDtPHtvt9A%3D&ehkOptimized=z%2FJRZGIqyQIH5EFe4CdUGPnXXM7Db2pZVSHwUzrM%2BJs%3D",
-      "entrants": 5,
+      "entrants": 4,
       "start_time": 1668283200
     },
     {
@@ -304,6 +296,22 @@
       "image": "https://images.start.gg/images/tournament/496485/image-d1e9624f066b5b09f11c69354097282c.png?ehk=s33xZEHfGnnrGftTaHddmMRBOfKzUHkhd4ro1iSpFzk%3D&ehkOptimized=kWnVLcYsLO0YhISOE3cairayBFBipQ7rUzNhWdwCCq8%3D",
       "entrants": 6,
       "start_time": 1668558600
+    },
+    {
+      "slug": "tournament/toblerone-tangerine-thursdays-39-eu-event-1/event/melee-singles",
+      "tournament_name": "Toblerone Tangerine Thursdays #39 (EU Event)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496860/image-436f00b2fbd96ba50883c3e24b39a4ea.png?ehk=aoifhzmM4eTti18%2FVpqHZBqBX4OZKJIkj8zXVAigdz8%3D&ehkOptimized=oH7AjdWg3E9V%2Blf98%2BhXVjSVu4bIpaMCFzdkkuzyRvE%3D",
+      "entrants": 0,
+      "start_time": 1668708000
+    },
+    {
+      "slug": "tournament/toblerone-tangerine-thursdays-39-eu-event-1/event/toblerone-waitlist",
+      "tournament_name": "Toblerone Tangerine Thursdays #39 (EU Event)",
+      "event_name": "Toblerone waitlist",
+      "image": "https://images.start.gg/images/tournament/496860/image-436f00b2fbd96ba50883c3e24b39a4ea.png?ehk=aoifhzmM4eTti18%2FVpqHZBqBX4OZKJIkj8zXVAigdz8%3D&ehkOptimized=oH7AjdWg3E9V%2Blf98%2BhXVjSVu4bIpaMCFzdkkuzyRvE%3D",
+      "entrants": 0,
+      "start_time": 1668708000
     },
     {
       "slug": "tournament/multi-melee-masters-2-50-pot-bonus/event/multi-melee-singles",
