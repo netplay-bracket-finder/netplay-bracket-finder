@@ -1,28 +1,12 @@
 {
-  "fetched_at": 1668102964,
+  "fetched_at": 1668104825,
   "data": [
-    {
-      "slug": "tournament/toblerone-tangerine-thursdays-38-eu-event/event/melee-singles",
-      "tournament_name": "Toblerone Tangerine Thursdays #38 (EU Event)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/494716/image-369f557f7a7c534577cab49d12c068eb.png?ehk=VSTniKtdTFsTNIwyb%2BUug%2FMMw0bT6A2svfIf4eLbwMI%3D&ehkOptimized=icAULaNUek37M7a9pZS%2FIf34qO1n84nagw6NOlQyQ6U%3D",
-      "entrants": 17,
-      "start_time": 1668103200
-    },
-    {
-      "slug": "tournament/toblerone-tangerine-thursdays-38-eu-event/event/toblerone-waitlist",
-      "tournament_name": "Toblerone Tangerine Thursdays #38 (EU Event)",
-      "event_name": "Toblerone waitlist",
-      "image": "https://images.start.gg/images/tournament/494716/image-369f557f7a7c534577cab49d12c068eb.png?ehk=VSTniKtdTFsTNIwyb%2BUug%2FMMw0bT6A2svfIf4eLbwMI%3D&ehkOptimized=icAULaNUek37M7a9pZS%2FIf34qO1n84nagw6NOlQyQ6U%3D",
-      "entrants": 4,
-      "start_time": 1668103200
-    },
     {
       "slug": "tournament/troppo-italiano-73/event/singles",
       "tournament_name": "Troppo Italiano #73",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/496536/image-c7605d22336321f986bdf5b008291325.jpg?ehk=o5%2Bpcv07GP8ntZjCGWtuJn9pZlCqRV%2BIWED4%2B2znWqw%3D&ehkOptimized=YMQ4IXlzJeOh6LFk39c7SCHVu0CYwMzhXAvUWkkhtcA%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1668110400
     },
     {
@@ -70,7 +54,7 @@
       "tournament_name": "The Salt Mine #48!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/496345/image-b9f5eb8b9c5b90b1a98cfbef62033bf5.png?ehk=CHAZSg%2BVALln3Gwz3UWSJaNjBPaY6sI%2BALl8k8T7vtQ%3D&ehkOptimized=CBGbINWcjq3KUkCKyAH1BoRK9GoT%2FxXt1V4eFa4jtFU%3D",
-      "entrants": 6,
+      "entrants": 9,
       "start_time": 1668124800
     },
     {
@@ -78,7 +62,7 @@
       "tournament_name": "Delaware Netplay Popup Popoff Special",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495937/image-9ac8fb23c187f25e08cc70f77a25b904.jpg?ehk=vv7SPAj4UdjLYoSLxFzlOx6NjHE%2Fs6H9QOHJK80ScUw%3D&ehkOptimized=Xv4%2FDGTkbF7GK1n8%2FSiW9gd8%2FlVwOHmDA%2F6FtUAMK78%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1668124800
     },
     {
@@ -86,7 +70,7 @@
       "tournament_name": "Only Noobs 92",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494834/image-d37b05a41ab5c352c5cdfa57a61620a7.jpg?ehk=6siJ5%2BCm1X33zThZqkHV7Lx4eVur9hBmNFqVyVNQNrA%3D&ehkOptimized=9QX7NOu1ytW6DeoE1jMsyZJ91IHWt%2BaoW0GTzrbUvUQ%3D",
-      "entrants": 49,
+      "entrants": 52,
       "start_time": 1668124800
     },
     {
@@ -222,7 +206,7 @@
       "tournament_name": "Dorime's Dojo #8",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496806/image-dc2e8a0e70552182919db23ccc1078cc.png?ehk=G%2Fh73VHDK5IirwflbSTZ9nNdzWt7bxiJielIslDp%2Fqg%3D&ehkOptimized=Y46aQ5hF2i6GiLPhxpGlWLO8moM6p3l9xJKG8m9YSd0%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668358800
     },
     {
