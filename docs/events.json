@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668038104,
+  "fetched_at": 1668045034,
   "data": [
     {
       "slug": "tournament/trashtalkmaster9000-vs-fluentputin/event/melee-singles",
@@ -18,35 +18,11 @@
       "start_time": 1668031200
     },
     {
-      "slug": "tournament/labrador-ladder-1/event/melee-ladder",
-      "tournament_name": "Labrador Ladder #1",
-      "event_name": "Melee Ladder",
-      "image": "https://images.start.gg/images/tournament/495198/image-81cf0249a81bbdc687ce1bae649f6121.jpg?ehk=6mepasxOx658xwx7ohqXSOCnoOrfjiso%2FoAoy0fxILw%3D&ehkOptimized=2sma2XCXJjaTBfCFv8EXxcKQbEmIb70MJ%2BPwjfZAVvI%3D",
-      "entrants": 13,
-      "start_time": 1668038400
-    },
-    {
-      "slug": "tournament/galaxy-gladiators-20-solar-circuit-qualifier/event/melee-singles",
-      "tournament_name": "Galaxy Gladiators #20 (Solar Circuit Qualifier)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/496110/image-4b9eb5d392fd58f3a5b041f594fabb26.png?ehk=XBJ5sSc13OiglCx1XKlUjeJGIH5A6IOAB7AtlbQUn7E%3D&ehkOptimized=x0v4KQj2BwmqAHPUNXL0Rd0dJyqozuWuWpx2du%2FG2yY%3D",
-      "entrants": 1,
-      "start_time": 1668042000
-    },
-    {
-      "slug": "tournament/waddle-wednesday-44/event/melee-singles",
-      "tournament_name": "Waddle Wednesday 44",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/494935/image-12e5919871d924b6896a852b3f08df23.png?ehk=%2F%2FZMAR2C9fMdb6LUw5AuUDljgDS%2FqXGDR0OyUcuz84k%3D&ehkOptimized=ACKiKsTl8DzxMejkewtzrC88v%2B7Xk7KA8E%2FeE%2BTSfPE%3D",
-      "entrants": 66,
-      "start_time": 1668042000
-    },
-    {
       "slug": "tournament/silver-slippi-league-30/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #30",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/495992/image-3df8a46497d0d0c63dbf43f3c872a93a.png?ehk=regcA4G4Lo3GF70H9lMtRpQcei2f5LMZNTG22zHPdfc%3D&ehkOptimized=RXu17qRW4TRcSt%2BcWBWSfNjlWHJZ45QJ1b7N1BieoD0%3D",
-      "entrants": 9,
+      "entrants": 18,
       "start_time": 1668045600
     },
     {
@@ -206,7 +182,7 @@
       "tournament_name": "ROD (Revival of the Dojo)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496302/image-779bd9e094a0549f7b90ba590bc8c819.png?ehk=VVywVqL4fuh0yOx4jRqL8w%2BsQn03j3OQUWiq%2FCOwNVo%3D&ehkOptimized=MjLlbhvQIWeIrEeJapi%2F9K6ZAPd8LdmeJnjEjQeJAt8%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1668279600
     },
     {
@@ -334,7 +310,7 @@
       "tournament_name": "CASINO ROYALE ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/496368/image-4846a3acb2d354bf17857068fffe988e.png?ehk=1gpj%2BAmVh8Z3fzH3cJ4GKpJkL3GmE6wFSSPkT9B%2BrYw%3D&ehkOptimized=aKraBE7Tvxq4iPenewffzJbeL2fZK2v1HLiHmAVYxwE%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1668479400
     },
     {
