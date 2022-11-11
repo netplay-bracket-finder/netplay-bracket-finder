@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668191156,
+  "fetched_at": 1668192573,
   "data": [
     {
       "slug": "tournament/princess-party/event/peach-only-singles",
@@ -38,7 +38,7 @@
       "tournament_name": "East Coast Fridays #229",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497017/image-6acab73b0d2865397db49c5bf97f8f85.png?ehk=m1qFyox4pBCDF%2BwVXyIqqbLGgxaccNzvlCAGNtbpgF8%3D&ehkOptimized=swPGV1109gHpsSkF76Ta6O%2FQK8hQK1FSmKHF4ux3Ypg%3D",
-      "entrants": 14,
+      "entrants": 16,
       "start_time": 1668214800
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "KOMET VI",
       "event_name": "KOMET Pro League",
       "image": "https://images.start.gg/images/tournament/492666/image-33aa1be8c178e93b2d275f242d0fb1ff.png?ehk=wVKagJlZk5TRqkZNGQ1NJIA3lCm%2BZ9hmG1BTEypADa4%3D&ehkOptimized=eVqamGB%2FVaKBix5vtdqxTxCaZH7%2FjCHkpNubVU7CsKE%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1668272400
     },
     {
@@ -118,7 +118,7 @@
       "tournament_name": "Super Fall Guys Melee 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493083/image-9d5fc116fdfa6184b339911757eb673b.png?ehk=YVsoY0upd%2F0mVapphgSgEG4EPhz3kUpOQVh3TcQpFVw%3D&ehkOptimized=yw%2F%2BY6EQM4VebSP7J2UeBSYt%2BIpxt8sXejSsAJd6OWI%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668294000
     },
     {
