@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668163601,
+  "fetched_at": 1668165424,
   "data": [
     {
       "slug": "tournament/princess-party/event/peach-only-singles",
@@ -360,14 +360,6 @@
       "image": "",
       "entrants": 13,
       "start_time": 1674946800
-    },
-    {
-      "slug": "tournament/meteor-massacre-1/event/melee-singles",
-      "tournament_name": "Meteor Massacre 1",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/495659/image-39b30fc38142aeb9178bd9805f1d61aa.png?ehk=tkyuKJF8Y9QXIWJnCRlMzsBIqgggSA925qr6LOLf9vY%3D&ehkOptimized=MwpOF%2FbbTSw3faQgNMb6CRFU5EULicBxqFmL1VZ%2F1Rg%3D",
-      "entrants": 0,
-      "start_time": 1691969400
     }
   ]
 }
