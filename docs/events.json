@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668196300,
+  "fetched_at": 1668198037,
   "data": [
     {
       "slug": "tournament/princess-party/event/peach-only-singles",
       "tournament_name": "Princess Party",
       "event_name": "Peach Only Singles",
       "image": "https://images.start.gg/images/tournament/495029/image-a2c75343a5bf61106566efa938cb9012.png?ehk=irAbcMdBqswXgGdqcyp6TIX%2BBPt3LZ%2BEb%2BwZMZ5AsG4%3D&ehkOptimized=vw088zIG488BHROrrKUIQw3GD2NVc2XBPdZ2FqcYu3Y%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668207600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "East Coast Fridays #229",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497017/image-6acab73b0d2865397db49c5bf97f8f85.png?ehk=m1qFyox4pBCDF%2BwVXyIqqbLGgxaccNzvlCAGNtbpgF8%3D&ehkOptimized=swPGV1109gHpsSkF76Ta6O%2FQK8hQK1FSmKHF4ux3Ypg%3D",
-      "entrants": 21,
+      "entrants": 25,
       "start_time": 1668214800
     },
     {
@@ -242,6 +242,14 @@
       "start_time": 1668558600
     },
     {
+      "slug": "tournament/waddle-wednesday-45/event/melee-singles",
+      "tournament_name": "Waddle Wednesday 45",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/497114/image-f62f1889f23e938c9fa58a417f0724b2.png?ehk=NYm3n%2Fyn5tUE2iqNYVg2VfjFRxtenZhD1p7ZPpJ6Gzs%3D&ehkOptimized=%2BDLbmAqClQqkwaVv14jpp%2BrIcHpSBLSj0ddRZBfkqYU%3D",
+      "entrants": 0,
+      "start_time": 1668646800
+    },
+    {
       "slug": "tournament/treythetrashman-s-garbage-connection-wc-100-pot-bonus-allchat-esports-9/event/melee-singles-west-coast",
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
@@ -390,7 +398,7 @@
       "tournament_name": "Sizzling Sundays: Beef Wellington edition!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494062/image-d49f5d852b020d5b51866dc344cb09d1.png?ehk=lmQcjP4hFmxZFVvZlbluJz3zJBPWCGDNxGRNOAmsiOk%3D&ehkOptimized=piYLetGX5IVNyK4fxCgbqyfRyJsHYb3vsfot6rxKAp8%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1673224200
     },
     {
