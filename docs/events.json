@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668167474,
+  "fetched_at": 1668170537,
   "data": [
     {
       "slug": "tournament/princess-party/event/peach-only-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Stel Hotel Throwdown: Minimum $125 Prize Pool!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
-      "entrants": 17,
+      "entrants": 19,
       "start_time": 1668210300
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "ASL’s Weekly Weekend Melee #15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496752/image-cef91ca9b11cd8570808642acb3b4e63.png?ehk=bynHpCO4hfqRds3V2fzzBFICmdjgYhGSAVr7QR%2FF5j8%3D&ehkOptimized=az8UvTTNtxnTYTOWG7LiftSXLDScOcZGaXvhtKlpRos%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668270600
     },
     {
@@ -350,7 +350,7 @@
       "tournament_name": "Sizzling Sundays: Beef Wellington edition!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494062/image-d49f5d852b020d5b51866dc344cb09d1.png?ehk=lmQcjP4hFmxZFVvZlbluJz3zJBPWCGDNxGRNOAmsiOk%3D&ehkOptimized=piYLetGX5IVNyK4fxCgbqyfRyJsHYb3vsfot6rxKAp8%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1673224200
     },
     {
