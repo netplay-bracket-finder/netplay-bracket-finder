@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668142918,
+  "fetched_at": 1668144874,
   "data": [
     {
       "slug": "tournament/bb-78/event/melee-singles",
       "tournament_name": "BB 78",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496382/image-d78529a4f63951b73a216fc5cd6d96c8.png?ehk=iOyt0j21Dn7O05frrxv45roKDuKAfZRJGkpWSUghgIg%3D&ehkOptimized=tLD6tsEpFG0FtfoEwv30%2FS07cUWf0T0iJTSpbavW4j4%3D",
-      "entrants": 19,
+      "entrants": 20,
       "start_time": 1668150000
     },
     {
@@ -248,6 +248,14 @@
       "image": "https://images.start.gg/images/tournament/496860/image-436f00b2fbd96ba50883c3e24b39a4ea.png?ehk=aoifhzmM4eTti18%2FVpqHZBqBX4OZKJIkj8zXVAigdz8%3D&ehkOptimized=oH7AjdWg3E9V%2Blf98%2BhXVjSVu4bIpaMCFzdkkuzyRvE%3D",
       "entrants": 0,
       "start_time": 1668708000
+    },
+    {
+      "slug": "tournament/only-noobs-93/event/melee-singles",
+      "tournament_name": "Only Noobs 93",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
+      "entrants": 1,
+      "start_time": 1668729600
     },
     {
       "slug": "tournament/multi-melee-masters-2-50-pot-bonus/event/multi-melee-singles",
