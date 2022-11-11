@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668180085,
+  "fetched_at": 1668181454,
   "data": [
     {
       "slug": "tournament/princess-party/event/peach-only-singles",
@@ -38,7 +38,7 @@
       "tournament_name": "East Coast Fridays #229",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497017/image-6acab73b0d2865397db49c5bf97f8f85.png?ehk=m1qFyox4pBCDF%2BwVXyIqqbLGgxaccNzvlCAGNtbpgF8%3D&ehkOptimized=swPGV1109gHpsSkF76Ta6O%2FQK8hQK1FSmKHF4ux3Ypg%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1668214800
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "ASL’s Weekly Weekend Melee #15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496752/image-cef91ca9b11cd8570808642acb3b4e63.png?ehk=bynHpCO4hfqRds3V2fzzBFICmdjgYhGSAVr7QR%2FF5j8%3D&ehkOptimized=az8UvTTNtxnTYTOWG7LiftSXLDScOcZGaXvhtKlpRos%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1668270600
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "KOMET VI",
       "event_name": "KOMET Pro League",
       "image": "https://images.start.gg/images/tournament/492666/image-33aa1be8c178e93b2d275f242d0fb1ff.png?ehk=wVKagJlZk5TRqkZNGQ1NJIA3lCm%2BZ9hmG1BTEypADa4%3D&ehkOptimized=eVqamGB%2FVaKBix5vtdqxTxCaZH7%2FjCHkpNubVU7CsKE%3D",
-      "entrants": 0,
+      "entrants": 3,
       "start_time": 1668272400
     },
     {
@@ -326,7 +326,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "EU Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 18,
+      "entrants": 17,
       "start_time": 1669550400
     },
     {
