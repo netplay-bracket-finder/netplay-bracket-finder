@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668188593,
+  "fetched_at": 1668189260,
   "data": [
     {
       "slug": "tournament/princess-party/event/peach-only-singles",
@@ -38,7 +38,7 @@
       "tournament_name": "East Coast Fridays #229",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497017/image-6acab73b0d2865397db49c5bf97f8f85.png?ehk=m1qFyox4pBCDF%2BwVXyIqqbLGgxaccNzvlCAGNtbpgF8%3D&ehkOptimized=swPGV1109gHpsSkF76Ta6O%2FQK8hQK1FSmKHF4ux3Ypg%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1668214800
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "KOMET VI",
       "event_name": "KOMET Pro League",
       "image": "https://images.start.gg/images/tournament/492666/image-33aa1be8c178e93b2d275f242d0fb1ff.png?ehk=wVKagJlZk5TRqkZNGQ1NJIA3lCm%2BZ9hmG1BTEypADa4%3D&ehkOptimized=eVqamGB%2FVaKBix5vtdqxTxCaZH7%2FjCHkpNubVU7CsKE%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1668272400
     },
     {
@@ -240,6 +240,14 @@
       "image": "https://images.start.gg/images/tournament/496485/image-d1e9624f066b5b09f11c69354097282c.png?ehk=s33xZEHfGnnrGftTaHddmMRBOfKzUHkhd4ro1iSpFzk%3D&ehkOptimized=kWnVLcYsLO0YhISOE3cairayBFBipQ7rUzNhWdwCCq8%3D",
       "entrants": 6,
       "start_time": 1668558600
+    },
+    {
+      "slug": "tournament/treythetrashman-s-garbage-connection-wc-100-pot-bonus-allchat-esports-9/event/melee-singles-west-coast",
+      "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
+      "event_name": "Melee Singles: West-Coast",
+      "image": "https://images.start.gg/images/tournament/497073/image-fc850fc779d3f6329f8f30ca9ecd6cdd.jpg?ehk=3bErYiU1ljbmMPn%2BxxGCD7INw7PmGyKK1qabSvnaKDs%3D&ehkOptimized=AuJmPSyxL%2BX1Sr65pSHrhEcklP5dNQv9SwjH0q7Rj%2F4%3D",
+      "entrants": 0,
+      "start_time": 1668655800
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-39-eu-event-1/event/melee-singles",
