@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668145883,
+  "fetched_at": 1668148123,
   "data": [
     {
       "slug": "tournament/bb-78/event/melee-singles",
       "tournament_name": "BB 78",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496382/image-d78529a4f63951b73a216fc5cd6d96c8.png?ehk=iOyt0j21Dn7O05frrxv45roKDuKAfZRJGkpWSUghgIg%3D&ehkOptimized=tLD6tsEpFG0FtfoEwv30%2FS07cUWf0T0iJTSpbavW4j4%3D",
-      "entrants": 22,
+      "entrants": 30,
       "start_time": 1668150000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Melee Legends 4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493654/image-dfe6a476b4ae5c4ae7088aa229ed1e8c.png?ehk=gwlZOs6d7VIY1SW%2F9YppDMgHjquGIsFUq%2BJyQKm8oFg%3D&ehkOptimized=9lCtpWruIFKO7AXF7SiMwS1qAYKHbW%2FG%2Ft6kG5yltXY%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1668214800
     },
     {
