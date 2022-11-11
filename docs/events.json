@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1668207232,
+  "fetched_at": 1668208833,
   "data": [
-    {
-      "slug": "tournament/stel-hotel-throwdown-minimum-125-prize-pool/event/commentator-invitational",
-      "tournament_name": "Stel Hotel Throwdown: Minimum $125 Prize Pool!",
-      "event_name": "Commentator Invitational",
-      "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
-      "entrants": 14,
-      "start_time": 1668209400
-    },
-    {
-      "slug": "tournament/stel-hotel-throwdown-minimum-125-prize-pool/event/melee-singles",
-      "tournament_name": "Stel Hotel Throwdown: Minimum $125 Prize Pool!",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
-      "entrants": 30,
-      "start_time": 1668210300
-    },
     {
       "slug": "tournament/melee-legends-4/event/melee-singles",
       "tournament_name": "Melee Legends 4",
@@ -30,7 +14,7 @@
       "tournament_name": "East Coast Fridays #229",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497017/image-6acab73b0d2865397db49c5bf97f8f85.png?ehk=m1qFyox4pBCDF%2BwVXyIqqbLGgxaccNzvlCAGNtbpgF8%3D&ehkOptimized=swPGV1109gHpsSkF76Ta6O%2FQK8hQK1FSmKHF4ux3Ypg%3D",
-      "entrants": 56,
+      "entrants": 69,
       "start_time": 1668214800
     },
     {
@@ -38,8 +22,8 @@
       "tournament_name": "The Boat",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497151/image-03fd840a0275050695b28c27200f6a25.jpg?ehk=cVb%2BSQG3vxOZgIOOk%2BH98bMkGup%2FTIu5VCqQL6%2FoXTo%3D&ehkOptimized=HwNsBU2SiXCZUFv2MjDEElIFophKeTOgIRuiKzgYecI%3D",
-      "entrants": 0,
-      "start_time": 1668218400
+      "entrants": 1,
+      "start_time": 1668222000
     },
     {
       "slug": "tournament/porq-adobo-4/event/melee-singles",
@@ -86,7 +70,7 @@
       "tournament_name": "The Battlefields Series #59",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493344/image-946fc0d767ee8651e364e198eaf40b5a.png?ehk=2hc%2FibbJjopv8g0JnDEXPyccapiYslWLHVCecak4POs%3D&ehkOptimized=nuFv7iONUTcf51MyDz%2BpOE85j0%2BM6cfmf68U%2FQYr%2BX8%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668380400
     },
     {
@@ -178,6 +162,14 @@
       "start_time": 1668385800
     },
     {
+      "slug": "tournament/scss-east-coast-94/event/melee-singles",
+      "tournament_name": "SCSS East Coast #94",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/497160/image-fa80d9ffafc072ee2531ee6884a016c5.png?ehk=HrWOjCcHGP2XOJGkjfRqvjwImjFbFJqHG4cFKjGvhhQ%3D&ehkOptimized=SkpgM8afno%2BuYvy%2Fs9MSH5d2dx51te%2BN7hIHHm%2Fui40%3D",
+      "entrants": 0,
+      "start_time": 1668385800
+    },
+    {
       "slug": "tournament/end-of-the-peach-era/event/melee-singles",
       "tournament_name": "End Of The Peach Era",
       "event_name": "Melee Singles",
@@ -222,7 +214,7 @@
       "tournament_name": "Spudfest 42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497000/image-0972ef6c9439ecd1378c568c74ab6d7b.jpg?ehk=pTQeSu%2F%2BhysLw7vDjnUDxM90RMAixB3ZcuAip%2B3oKAU%3D&ehkOptimized=1%2BPh4lrim9onQNKOzDGN67SUW261D%2ByWwsL1y9szDrA%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668477600
     },
     {
@@ -278,7 +270,7 @@
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1668729600
     },
     {
