@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1668149739,
+  "fetched_at": 1668151166,
   "data": [
-    {
-      "slug": "tournament/bb-78/event/melee-singles",
-      "tournament_name": "BB 78",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/496382/image-d78529a4f63951b73a216fc5cd6d96c8.png?ehk=iOyt0j21Dn7O05frrxv45roKDuKAfZRJGkpWSUghgIg%3D&ehkOptimized=tLD6tsEpFG0FtfoEwv30%2FS07cUWf0T0iJTSpbavW4j4%3D",
-      "entrants": 34,
-      "start_time": 1668150000
-    },
     {
       "slug": "tournament/princess-party/event/peach-only-singles",
       "tournament_name": "Princess Party",
@@ -30,7 +22,7 @@
       "tournament_name": "Stel Hotel Throwdown: Minimum $125 Prize Pool!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1668210300
     },
     {
