@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668202817,
+  "fetched_at": 1668203483,
   "data": [
     {
       "slug": "tournament/princess-party/event/peach-only-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Stel Hotel Throwdown: Minimum $125 Prize Pool!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/481026/image-6e5a165a408f055cc6d7ef6309a3b98b.png?ehk=iUW6SuWFXAO9XkRI4dC%2BOtXMxHFPBaYdhFRqZJ2KKFs%3D&ehkOptimized=cNlD8qrjx5UqNFOtTXCkjVFMn9szStWARLymZdSeJA4%3D",
-      "entrants": 26,
+      "entrants": 27,
       "start_time": 1668210300
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Melee Legends 4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493654/image-dfe6a476b4ae5c4ae7088aa229ed1e8c.png?ehk=gwlZOs6d7VIY1SW%2F9YppDMgHjquGIsFUq%2BJyQKm8oFg%3D&ehkOptimized=9lCtpWruIFKO7AXF7SiMwS1qAYKHbW%2FG%2Ft6kG5yltXY%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1668214800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "East Coast Fridays #229",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497017/image-6acab73b0d2865397db49c5bf97f8f85.png?ehk=m1qFyox4pBCDF%2BwVXyIqqbLGgxaccNzvlCAGNtbpgF8%3D&ehkOptimized=swPGV1109gHpsSkF76Ta6O%2FQK8hQK1FSmKHF4ux3Ypg%3D",
-      "entrants": 34,
+      "entrants": 42,
       "start_time": 1668214800
     },
     {
