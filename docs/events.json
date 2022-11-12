@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668210809,
+  "fetched_at": 1668217642,
   "data": [
     {
       "slug": "tournament/melee-legends-4/event/melee-singles",
       "tournament_name": "Melee Legends 4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493654/image-dfe6a476b4ae5c4ae7088aa229ed1e8c.png?ehk=gwlZOs6d7VIY1SW%2F9YppDMgHjquGIsFUq%2BJyQKm8oFg%3D&ehkOptimized=9lCtpWruIFKO7AXF7SiMwS1qAYKHbW%2FG%2Ft6kG5yltXY%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1668214800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "East Coast Fridays #229",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497017/image-6acab73b0d2865397db49c5bf97f8f85.png?ehk=m1qFyox4pBCDF%2BwVXyIqqbLGgxaccNzvlCAGNtbpgF8%3D&ehkOptimized=swPGV1109gHpsSkF76Ta6O%2FQK8hQK1FSmKHF4ux3Ypg%3D",
-      "entrants": 82,
+      "entrants": 115,
       "start_time": 1668214800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "The Boat",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497151/image-03fd840a0275050695b28c27200f6a25.jpg?ehk=cVb%2BSQG3vxOZgIOOk%2BH98bMkGup%2FTIu5VCqQL6%2FoXTo%3D&ehkOptimized=HwNsBU2SiXCZUFv2MjDEElIFophKeTOgIRuiKzgYecI%3D",
-      "entrants": 1,
+      "entrants": 7,
       "start_time": 1668222000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Quest for Best Noob EU #45",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/496220/image-2cb0f12bc980bf20c8bdcfa4102c38fe.jpg?ehk=%2Bfjd4HY3P2yyfM1pcPxiGo7L3alMG3j3yrqtlKMVe8E%3D&ehkOptimized=Ev3XbweDhl0neVHCQ5dRiQ2u3%2FCHmFK2mh%2F3gRv9UOE%3D",
-      "entrants": 4,
+      "entrants": 3,
       "start_time": 1668267000
     },
     {
@@ -82,6 +82,22 @@
       "start_time": 1668283200
     },
     {
+      "slug": "tournament/legs-le-silly-7/event/melee-doubles",
+      "tournament_name": "Legs' Le Silly #7",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/497172/image-f3236238c640c3341cf6eeb8dbc0f8ce.png?ehk=kglKhE%2F3h6MDPbdpqsaH7JkNrlEIRXkaVT9lnFLvVoA%3D&ehkOptimized=VwCN5ALP43MNRbVsQg24K8jGV9wPXpGx%2Fh1Y3oXgR7Q%3D",
+      "entrants": 0,
+      "start_time": 1668283200
+    },
+    {
+      "slug": "tournament/legs-le-silly-7/event/all-stages-no-bans",
+      "tournament_name": "Legs' Le Silly #7",
+      "event_name": "All Stages/No Bans",
+      "image": "https://images.start.gg/images/tournament/497172/image-f3236238c640c3341cf6eeb8dbc0f8ce.png?ehk=kglKhE%2F3h6MDPbdpqsaH7JkNrlEIRXkaVT9lnFLvVoA%3D&ehkOptimized=VwCN5ALP43MNRbVsQg24K8jGV9wPXpGx%2Fh1Y3oXgR7Q%3D",
+      "entrants": 0,
+      "start_time": 1668290400
+    },
+    {
       "slug": "tournament/after-dark-melee-4/event/after-dark-singles",
       "tournament_name": "After Dark Melee #4",
       "event_name": "After Dark Singles",
@@ -94,7 +110,7 @@
       "tournament_name": "After Dark Melee #4",
       "event_name": "After Dark Doubles",
       "image": "https://images.start.gg/images/tournament/495744/image-a5708b106718ef0d8083d7779265e0be.png?ehk=cXVgJ8YWSabNBRj%2BIFcc5SWuInfdW1%2BuZYpf%2BptcPKw%3D&ehkOptimized=r8T6IOLiKNmzIY%2Be%2Fe712YKmUoqTR%2BNxg5Mn4jyFROk%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668286800
     },
     {
@@ -158,7 +174,7 @@
       "tournament_name": "NEW Sizzling Sundays #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496867/image-5e4dcf5b80cd858cf5d9fc291346b840.png?ehk=6odt5xoOakRCjAlws3cTXO5%2FkkK1buRDjl%2BCdSwlGhI%3D&ehkOptimized=ZwqNaSjM8X44Mvjh11r2Ll6l%2BHLaOxnxIa2wXANUz8k%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668385800
     },
     {
@@ -176,6 +192,14 @@
       "image": "https://images.start.gg/images/tournament/494992/image-372f2b6bc04721c85870bf4154ed4a61.png?ehk=3ngBWW8XMqWYyMtlj%2FuYJPlniuiqE33YR5phKd8%2FMmU%3D&ehkOptimized=csqH1g9m%2BxnnWJ25WU8d2WPCRUMB12a1k8MIPRyYkZg%3D",
       "entrants": 2,
       "start_time": 1668387600
+    },
+    {
+      "slug": "tournament/scss-west-coast-83/event/melee-singles",
+      "tournament_name": "SCSS West Coast #83",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/497191/image-0d19a5c51bd1a62d43cc83f6d9e4b4dd.png?ehk=KGuBemIBz21lVL9x7zE4rfRScwBWVp8kvGqXrbXaEqg%3D&ehkOptimized=50nCJfDhoSZMSr9IIwooCSkQvfYi3B5strpEiciwU4c%3D",
+      "entrants": 1,
+      "start_time": 1668389400
     },
     {
       "slug": "tournament/woop-melee-52/event/melee-singles",
@@ -270,7 +294,7 @@
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1668729600
     },
     {
@@ -302,7 +326,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1669482000
     },
     {
