@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668262593,
+  "fetched_at": 1668263958,
   "data": [
     {
       "slug": "tournament/quest-for-best-noob-eu-45/event/newbie-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "ASL’s Weekly Weekend Melee #15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496752/image-cef91ca9b11cd8570808642acb3b4e63.png?ehk=bynHpCO4hfqRds3V2fzzBFICmdjgYhGSAVr7QR%2FF5j8%3D&ehkOptimized=az8UvTTNtxnTYTOWG7LiftSXLDScOcZGaXvhtKlpRos%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1668270600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "KOMET VI",
       "event_name": "KOMET Pro League",
       "image": "https://images.start.gg/images/tournament/492666/image-33aa1be8c178e93b2d275f242d0fb1ff.png?ehk=wVKagJlZk5TRqkZNGQ1NJIA3lCm%2BZ9hmG1BTEypADa4%3D&ehkOptimized=eVqamGB%2FVaKBix5vtdqxTxCaZH7%2FjCHkpNubVU7CsKE%3D",
-      "entrants": 25,
+      "entrants": 26,
       "start_time": 1668272400
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Legs' Le Silly #7",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/497172/image-f3236238c640c3341cf6eeb8dbc0f8ce.png?ehk=kglKhE%2F3h6MDPbdpqsaH7JkNrlEIRXkaVT9lnFLvVoA%3D&ehkOptimized=VwCN5ALP43MNRbVsQg24K8jGV9wPXpGx%2Fh1Y3oXgR7Q%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668283200
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Legs' Le Silly #7",
       "event_name": "All Stages/No Bans",
       "image": "https://images.start.gg/images/tournament/497172/image-f3236238c640c3341cf6eeb8dbc0f8ce.png?ehk=kglKhE%2F3h6MDPbdpqsaH7JkNrlEIRXkaVT9lnFLvVoA%3D&ehkOptimized=VwCN5ALP43MNRbVsQg24K8jGV9wPXpGx%2Fh1Y3oXgR7Q%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668290400
     },
     {
@@ -120,6 +120,14 @@
       "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
       "entrants": 1,
       "start_time": 1668373200
+    },
+    {
+      "slug": "tournament/stellar-showdown-16-solar-circuit-qualifier-1/event/melee-singles",
+      "tournament_name": "Stellar Showdown #16 (Solar Circuit Qualifier)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/497274/image-f274a5cc3f12f77941c0fa478a428f18.png?ehk=JQus21b80xz72lSssre3KYkLRy1Viqnh5hSFj%2B060xw%3D&ehkOptimized=O0WzbENorf9fgT66Cfmo6%2BmegLXZIrJWgCjHRhc1lIg%3D",
+      "entrants": 0,
+      "start_time": 1668387600
     },
     {
       "slug": "tournament/head-of-the-m-house-12/event/melee-singles",
