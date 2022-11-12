@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668232279,
+  "fetched_at": 1668234242,
   "data": [
     {
       "slug": "tournament/melee-legends-4/event/melee-singles",
@@ -24,14 +24,6 @@
       "image": "https://images.start.gg/images/tournament/497204/image-6ed4c43818f0fd96810ca3125c76fc00.png?ehk=WAeS0kjtDuEHTnOZr32n6f6OY3xWGWlYNNqpSlao4wA%3D&ehkOptimized=H3xjjOfD0znByqcMTx9%2BwiUe%2FtEuETJK7l83Bsrtn70%3D",
       "entrants": 29,
       "start_time": 1668227400
-    },
-    {
-      "slug": "tournament/porq-adobo-4/event/melee-singles",
-      "tournament_name": "Porq Adobo #4",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/495118/image-f2d244b18b920aa04050f5cef9b2b28d.png?ehk=13%2Fp4BrqDJD%2FZy5t6sSJ1t%2FRXp%2BBl8bBA37S6UYtpjA%3D&ehkOptimized=W9FU%2BLE896IdJZRR4YEtxPRnoAvuUr%2Fc2hRHqkBMVpY%3D",
-      "entrants": 11,
-      "start_time": 1668232800
     },
     {
       "slug": "tournament/quest-for-best-noob-eu-45/event/newbie-singles",
