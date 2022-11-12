@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668291479,
+  "fetched_at": 1668292868,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-15-1/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "The Battlefields Series #59",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493344/image-946fc0d767ee8651e364e198eaf40b5a.png?ehk=2hc%2FibbJjopv8g0JnDEXPyccapiYslWLHVCecak4POs%3D&ehkOptimized=nuFv7iONUTcf51MyDz%2BpOE85j0%2BM6cfmf68U%2FQYr%2BX8%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668380400
     },
     {
@@ -34,19 +34,11 @@
       "start_time": 1668283200
     },
     {
-      "slug": "tournament/super-fall-guys-melee-2/event/melee-singles",
-      "tournament_name": "Super Fall Guys Melee 2",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493083/image-9d5fc116fdfa6184b339911757eb673b.png?ehk=YVsoY0upd%2F0mVapphgSgEG4EPhz3kUpOQVh3TcQpFVw%3D&ehkOptimized=yw%2F%2BY6EQM4VebSP7J2UeBSYt%2BIpxt8sXejSsAJd6OWI%3D",
-      "entrants": 22,
-      "start_time": 1668294000
-    },
-    {
       "slug": "tournament/sober-saturday-117/event/melee-singles",
       "tournament_name": "Sober Saturday #117",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497366/image-e9ba75fd0046a75021eee77c962ace06.jpg?ehk=%2FpPx5Qq02650aDrY41dXzvDTWaKt1h4bq0iKy8yzZRc%3D&ehkOptimized=A%2BXP9cquh2PacsB1STVQlMenoCQW9SGydto1J7a5ZX8%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1668301200
     },
     {
