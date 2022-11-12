@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668235629,
+  "fetched_at": 1668237478,
   "data": [
     {
       "slug": "tournament/melee-legends-4/event/melee-singles",
@@ -46,7 +46,7 @@
       "tournament_name": "KOMET VI",
       "event_name": "KOMET Pro League",
       "image": "https://images.start.gg/images/tournament/492666/image-33aa1be8c178e93b2d275f242d0fb1ff.png?ehk=wVKagJlZk5TRqkZNGQ1NJIA3lCm%2BZ9hmG1BTEypADa4%3D&ehkOptimized=eVqamGB%2FVaKBix5vtdqxTxCaZH7%2FjCHkpNubVU7CsKE%3D",
-      "entrants": 19,
+      "entrants": 20,
       "start_time": 1668272400
     },
     {
@@ -130,17 +130,17 @@
       "start_time": 1668362400
     },
     {
-      "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/ladder",
-      "tournament_name": "LGBT S3E14: The Rat's Back and Its Ready To Party",
-      "event_name": "Ladder",
-      "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
-      "entrants": 1,
-      "start_time": 1668373200
-    },
-    {
       "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/melee-singles",
       "tournament_name": "LGBT S3E14: The Rat's Back and Its Ready To Party",
       "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
+      "entrants": 2,
+      "start_time": 1668373200
+    },
+    {
+      "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/ladder",
+      "tournament_name": "LGBT S3E14: The Rat's Back and Its Ready To Party",
+      "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
       "entrants": 1,
       "start_time": 1668373200
@@ -246,7 +246,7 @@
       "tournament_name": "Dad's House: Online #1 | $50 Pot Bonus (wow)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496485/image-d1e9624f066b5b09f11c69354097282c.png?ehk=s33xZEHfGnnrGftTaHddmMRBOfKzUHkhd4ro1iSpFzk%3D&ehkOptimized=kWnVLcYsLO0YhISOE3cairayBFBipQ7rUzNhWdwCCq8%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1668558600
     },
     {
