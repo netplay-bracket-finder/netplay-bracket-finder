@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668270386,
+  "fetched_at": 1668272081,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-15-1/event/melee-singles",
       "tournament_name": "ASL’s Weekly Weekend Melee #15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496752/image-cef91ca9b11cd8570808642acb3b4e63.png?ehk=bynHpCO4hfqRds3V2fzzBFICmdjgYhGSAVr7QR%2FF5j8%3D&ehkOptimized=az8UvTTNtxnTYTOWG7LiftSXLDScOcZGaXvhtKlpRos%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1668270600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "KOMET VI",
       "event_name": "KOMET Pro League",
       "image": "https://images.start.gg/images/tournament/492666/image-33aa1be8c178e93b2d275f242d0fb1ff.png?ehk=wVKagJlZk5TRqkZNGQ1NJIA3lCm%2BZ9hmG1BTEypADa4%3D&ehkOptimized=eVqamGB%2FVaKBix5vtdqxTxCaZH7%2FjCHkpNubVU7CsKE%3D",
-      "entrants": 27,
+      "entrants": 29,
       "start_time": 1668272400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Legs' Le Silly #7",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/497172/image-f3236238c640c3341cf6eeb8dbc0f8ce.png?ehk=kglKhE%2F3h6MDPbdpqsaH7JkNrlEIRXkaVT9lnFLvVoA%3D&ehkOptimized=VwCN5ALP43MNRbVsQg24K8jGV9wPXpGx%2Fh1Y3oXgR7Q%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668283200
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Legs' Le Silly #7",
       "event_name": "All Stages/No Bans",
       "image": "https://images.start.gg/images/tournament/497172/image-f3236238c640c3341cf6eeb8dbc0f8ce.png?ehk=kglKhE%2F3h6MDPbdpqsaH7JkNrlEIRXkaVT9lnFLvVoA%3D&ehkOptimized=VwCN5ALP43MNRbVsQg24K8jGV9wPXpGx%2Fh1Y3oXgR7Q%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1668290400
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "After Dark Melee #4",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/495744/image-a5708b106718ef0d8083d7779265e0be.png?ehk=cXVgJ8YWSabNBRj%2BIFcc5SWuInfdW1%2BuZYpf%2BptcPKw%3D&ehkOptimized=r8T6IOLiKNmzIY%2Be%2Fe712YKmUoqTR%2BNxg5Mn4jyFROk%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1668284100
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Super Fall Guys Melee 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493083/image-9d5fc116fdfa6184b339911757eb673b.png?ehk=YVsoY0upd%2F0mVapphgSgEG4EPhz3kUpOQVh3TcQpFVw%3D&ehkOptimized=yw%2F%2BY6EQM4VebSP7J2UeBSYt%2BIpxt8sXejSsAJd6OWI%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1668294000
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Dorime's Dojo #8",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496806/image-dc2e8a0e70552182919db23ccc1078cc.png?ehk=G%2Fh73VHDK5IirwflbSTZ9nNdzWt7bxiJielIslDp%2Fqg%3D&ehkOptimized=Y46aQ5hF2i6GiLPhxpGlWLO8moM6p3l9xJKG8m9YSd0%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668358800
     },
     {
@@ -142,7 +142,7 @@
       "tournament_name": "NEW Sizzling Sundays #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496867/image-5e4dcf5b80cd858cf5d9fc291346b840.png?ehk=6odt5xoOakRCjAlws3cTXO5%2FkkK1buRDjl%2BCdSwlGhI%3D&ehkOptimized=ZwqNaSjM8X44Mvjh11r2Ll6l%2BHLaOxnxIa2wXANUz8k%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1668385800
     },
     {
