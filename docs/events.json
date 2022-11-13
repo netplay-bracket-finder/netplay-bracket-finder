@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668366922,
+  "fetched_at": 1668368243,
   "data": [
     {
       "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
@@ -10,17 +10,17 @@
       "start_time": 1668376800
     },
     {
-      "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/ladder",
-      "tournament_name": "LGBT S3E14: The Rat's Back and Its Ready To Party",
-      "event_name": "Ladder",
-      "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
-      "entrants": 4,
-      "start_time": 1668373200
-    },
-    {
       "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/melee-singles",
       "tournament_name": "LGBT S3E14: The Rat's Back and Its Ready To Party",
       "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
+      "entrants": 5,
+      "start_time": 1668373200
+    },
+    {
+      "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/ladder",
+      "tournament_name": "LGBT S3E14: The Rat's Back and Its Ready To Party",
+      "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
       "entrants": 4,
       "start_time": 1668373200
