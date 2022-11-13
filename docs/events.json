@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668382953,
+  "fetched_at": 1668383604,
   "data": [
     {
       "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/ladder",
@@ -30,7 +30,7 @@
       "tournament_name": "NEW Sizzling Sundays #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496867/image-5e4dcf5b80cd858cf5d9fc291346b840.png?ehk=6odt5xoOakRCjAlws3cTXO5%2FkkK1buRDjl%2BCdSwlGhI%3D&ehkOptimized=ZwqNaSjM8X44Mvjh11r2Ll6l%2BHLaOxnxIa2wXANUz8k%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1668385800
     },
     {
@@ -64,6 +64,14 @@
       "image": "https://images.start.gg/images/tournament/497191/image-0d19a5c51bd1a62d43cc83f6d9e4b4dd.png?ehk=KGuBemIBz21lVL9x7zE4rfRScwBWVp8kvGqXrbXaEqg%3D&ehkOptimized=50nCJfDhoSZMSr9IIwooCSkQvfYi3B5strpEiciwU4c%3D",
       "entrants": 8,
       "start_time": 1668389400
+    },
+    {
+      "slug": "tournament/slippi-sauce-74/event/melee-singles",
+      "tournament_name": "Slippi Sauce #74 🐸",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/497607/image-f727dbe92906787202a4ae1c040a5e9a.png?ehk=9%2FrcfFQsgoLUsDJIoJYoTllWvp6IepJdeFtwKVFOAgc%3D&ehkOptimized=p9%2FtmW%2FZq7GEzjQQTfQyjaJCQ2AGUDZ1apUQgv7xJsI%3D",
+      "entrants": 0,
+      "start_time": 1668466800
     },
     {
       "slug": "tournament/woop-melee-52/event/melee-singles",
@@ -214,7 +222,7 @@
       "tournament_name": "KOMET VII",
       "event_name": "KOMET Pro League",
       "image": "https://images.start.gg/images/tournament/497355/image-5c60f021a809055fb17116749cdebf24.png?ehk=gVJuIiqeXrrA0uIDxhlvfSNon%2B9yoKmcplfn6KTnqL4%3D&ehkOptimized=%2FJAsqPwWR3PgdzTta%2BaPDV3XbkBI6By%2BZMa6pHVS8a4%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668877200
     },
     {
@@ -262,7 +270,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 29,
+      "entrants": 30,
       "start_time": 1669482000
     },
     {
