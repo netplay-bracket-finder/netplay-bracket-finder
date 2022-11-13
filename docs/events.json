@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668379312,
+  "fetched_at": 1668379979,
   "data": [
     {
       "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
@@ -54,7 +54,7 @@
       "tournament_name": "SCSS East Coast #94",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497160/image-fa80d9ffafc072ee2531ee6884a016c5.png?ehk=HrWOjCcHGP2XOJGkjfRqvjwImjFbFJqHG4cFKjGvhhQ%3D&ehkOptimized=SkpgM8afno%2BuYvy%2Fs9MSH5d2dx51te%2BN7hIHHm%2Fui40%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1668385800
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "No Melee on Sundays 17",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497566/image-6e8238943e2fc746fdcbefb0531c69c3.png?ehk=jEa2TYxBBfcOfjqe1ovjTgWd55RqVmu8CcFJhYuL%2Fzc%3D&ehkOptimized=k6CkUAmLG5yDE0J9lY8%2FCdR%2BOd12Lese7uUX6BJuP5A%3D",
-      "entrants": 7,
+      "entrants": 9,
       "start_time": 1668387600
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "SCSS West Coast #83",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497191/image-0d19a5c51bd1a62d43cc83f6d9e4b4dd.png?ehk=KGuBemIBz21lVL9x7zE4rfRScwBWVp8kvGqXrbXaEqg%3D&ehkOptimized=50nCJfDhoSZMSr9IIwooCSkQvfYi3B5strpEiciwU4c%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1668389400
     },
     {
@@ -128,6 +128,22 @@
       "image": "https://images.start.gg/images/tournament/496368/image-4846a3acb2d354bf17857068fffe988e.png?ehk=1gpj%2BAmVh8Z3fzH3cJ4GKpJkL3GmE6wFSSPkT9B%2BrYw%3D&ehkOptimized=aKraBE7Tvxq4iPenewffzJbeL2fZK2v1HLiHmAVYxwE%3D",
       "entrants": 17,
       "start_time": 1668479400
+    },
+    {
+      "slug": "tournament/netmoal-this-is-a-test/event/melee-doubles",
+      "tournament_name": "NetMoaL: this is a test",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/497588/image-e7daf5a9a94f5869aaf56755590d2075.png?ehk=VKwAa1sW0n3DOmed3UHoxK0OTepTwQq%2B4tSdjNylSWg%3D&ehkOptimized=rsUUOwTp7aYCgJFmwjGFhtq%2Foz1%2F259rduz0nPZQ0Gc%3D",
+      "entrants": 0,
+      "start_time": 1668556800
+    },
+    {
+      "slug": "tournament/netmoal-this-is-a-test/event/melee-singles",
+      "tournament_name": "NetMoaL: this is a test",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/497588/image-e7daf5a9a94f5869aaf56755590d2075.png?ehk=VKwAa1sW0n3DOmed3UHoxK0OTepTwQq%2B4tSdjNylSWg%3D&ehkOptimized=rsUUOwTp7aYCgJFmwjGFhtq%2Foz1%2F259rduz0nPZQ0Gc%3D",
+      "entrants": 0,
+      "start_time": 1668556800
     },
     {
       "slug": "tournament/sketchy-series-6-luck-of-the-draw/event/melee-singles",
