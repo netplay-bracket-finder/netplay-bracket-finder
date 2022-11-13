@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668303962,
+  "fetched_at": 1668309995,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-15-1/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "The Battlefields Series #59",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/493344/image-946fc0d767ee8651e364e198eaf40b5a.png?ehk=2hc%2FibbJjopv8g0JnDEXPyccapiYslWLHVCecak4POs%3D&ehkOptimized=nuFv7iONUTcf51MyDz%2BpOE85j0%2BM6cfmf68U%2FQYr%2BX8%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668380400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "SNN#1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497356/image-e4dc544295a2fbd78bc1c118eeb0d4b7.png?ehk=C7Vdyp5C1TsVOQA9CJi2iDjiLF9FGfR2EzZtFCTnJhs%3D&ehkOptimized=SbJLdLjER%2BIe%2BbZR5SRkDlaeF9PHBdcY9mkNAI%2BLNcI%3D",
-      "entrants": 7,
+      "entrants": 35,
       "start_time": 1668312000
     },
     {
@@ -256,6 +256,14 @@
       "image": "https://images.start.gg/images/tournament/490451/image-7f80cc12fd5555cebe7111dd7a0eb2e2.png?ehk=Vayg6F3aJyDSuHqkT0bEpKhT2tEj7dD4rJgiGjh68AI%3D&ehkOptimized=2qf7%2F%2Bhb5jlM8r02%2BQlQRohn7aeHs14Fc%2FQntraIEYE%3D",
       "entrants": 11,
       "start_time": 1668880800
+    },
+    {
+      "slug": "tournament/explosion-series-2-fox-this-game/event/melee-singles",
+      "tournament_name": "Explosion Series 2: Fox This Game",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/497427/image-086d8784feceb5b0b0071f66e40d27ce.png?ehk=%2BuDl9a8M6pveNS%2FWUmKEYVZ8IAQ23uV2j%2F%2F0sEScZ5c%3D&ehkOptimized=I9zntUVt2rnoieVtXY3HV8kYMZigjnMVcC6vSM%2BB3Ts%3D",
+      "entrants": 0,
+      "start_time": 1668895200
     },
     {
       "slug": "tournament/andrenaleague-16/event/melee-singles",
