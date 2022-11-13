@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668376277,
+  "fetched_at": 1668377941,
   "data": [
     {
       "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
@@ -26,14 +26,6 @@
       "start_time": 1668373200
     },
     {
-      "slug": "tournament/the-dojo-31-2/event/melee-singles",
-      "tournament_name": "The Dojo #31",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/497396/image-073cdd0473fa6c6a98a2d574b8f45b57.png?ehk=cYUqbExePWZPYObB3YT3U9BHW1wumWvrROjJqZhmdT0%3D&ehkOptimized=fACNhuITLgVQx%2F5PTNlpptwkm8EK3BZMsqhvFWrm7aY%3D",
-      "entrants": 2,
-      "start_time": 1668376800
-    },
-    {
       "slug": "tournament/stellar-showdown-16-solar-circuit-qualifier-1/event/melee-singles",
       "tournament_name": "Stellar Showdown #16 (Solar Circuit Qualifier)",
       "event_name": "Melee Singles",
@@ -46,8 +38,8 @@
       "tournament_name": "Head of the (M) House #12",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/496144/image-c6f9d91482070a47b3055597b6a6cd05.jpg?ehk=1%2BJOu4CQQLDPtm1CcoxgWHWkGruKj9wEAq58NSPBlG8%3D&ehkOptimized=8Ck6cdq1sh6xPwk82dpghYj9Rf6NoFKRkZi0VTHGhtU%3D",
-      "entrants": 11,
-      "start_time": 1668333600
+      "entrants": 9,
+      "start_time": 1668377820
     },
     {
       "slug": "tournament/melee-s-weekend-beat-down/event/melee-singles",
@@ -78,7 +70,7 @@
       "tournament_name": "No Melee on Sundays 17",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497566/image-6e8238943e2fc746fdcbefb0531c69c3.png?ehk=jEa2TYxBBfcOfjqe1ovjTgWd55RqVmu8CcFJhYuL%2Fzc%3D&ehkOptimized=k6CkUAmLG5yDE0J9lY8%2FCdR%2BOd12Lese7uUX6BJuP5A%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1668387600
     },
     {
@@ -86,7 +78,7 @@
       "tournament_name": "End Of The Peach Era",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494992/image-372f2b6bc04721c85870bf4154ed4a61.png?ehk=3ngBWW8XMqWYyMtlj%2FuYJPlniuiqE33YR5phKd8%2FMmU%3D&ehkOptimized=csqH1g9m%2BxnnWJ25WU8d2WPCRUMB12a1k8MIPRyYkZg%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1668387600
     },
     {
