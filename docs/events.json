@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668323850,
+  "fetched_at": 1668325113,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-15-1/event/melee-singles",
@@ -74,19 +74,19 @@
       "start_time": 1668362400
     },
     {
-      "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/melee-singles",
+      "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/ladder",
       "tournament_name": "LGBT S3E14: The Rat's Back and Its Ready To Party",
-      "event_name": "Melee Singles",
+      "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
       "entrants": 4,
       "start_time": 1668373200
     },
     {
-      "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/ladder",
+      "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/melee-singles",
       "tournament_name": "LGBT S3E14: The Rat's Back and Its Ready To Party",
-      "event_name": "Ladder",
+      "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668373200
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "SCSS East Coast #94",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497160/image-fa80d9ffafc072ee2531ee6884a016c5.png?ehk=HrWOjCcHGP2XOJGkjfRqvjwImjFbFJqHG4cFKjGvhhQ%3D&ehkOptimized=SkpgM8afno%2BuYvy%2Fs9MSH5d2dx51te%2BN7hIHHm%2Fui40%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668385800
     },
     {
