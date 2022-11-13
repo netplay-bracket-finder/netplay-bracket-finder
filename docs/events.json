@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668361926,
+  "fetched_at": 1668363780,
   "data": [
     {
       "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/495394/image-fd79d4ec163b4739409eef0d5d2b5135.png?ehk=6BLadgbRonHOuUmMdFfCzNSPoPY%2FMM6V4ubBafWNqKU%3D&ehkOptimized=Fs10UPrCu%2B0qQTR8BDaDcFr7KdgRiDU29rP7WCCUY%2F4%3D",
       "entrants": 3,
       "start_time": 1668376800
-    },
-    {
-      "slug": "tournament/fight-of-the-fearless-27/event/fight-of-the-fearless-single",
-      "tournament_name": "Fight of the Fearless 27",
-      "event_name": "Fight Of The Fearless single",
-      "image": "https://images.start.gg/images/tournament/496468/image-bdd76e66a4b6b9298a462ec02db29fc8.png?ehk=RX7a40NHq8wcESqvkNCTPwj8DWlf1Mit2MtoKwXCKHg%3D&ehkOptimized=2DFACq690aCOTzgTcsYpvQggt1eBQpgBhzS%2FSp9J3Uc%3D",
-      "entrants": 12,
-      "start_time": 1668362400
     },
     {
       "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/ladder",
@@ -86,7 +78,7 @@
       "tournament_name": "End Of The Peach Era",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494992/image-372f2b6bc04721c85870bf4154ed4a61.png?ehk=3ngBWW8XMqWYyMtlj%2FuYJPlniuiqE33YR5phKd8%2FMmU%3D&ehkOptimized=csqH1g9m%2BxnnWJ25WU8d2WPCRUMB12a1k8MIPRyYkZg%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1668387600
     },
     {
@@ -134,7 +126,7 @@
       "tournament_name": "Spudfest 42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497000/image-0972ef6c9439ecd1378c568c74ab6d7b.jpg?ehk=pTQeSu%2F%2BhysLw7vDjnUDxM90RMAixB3ZcuAip%2B3oKAU%3D&ehkOptimized=1%2BPh4lrim9onQNKOzDGN67SUW261D%2ByWwsL1y9szDrA%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1668477600
     },
     {
@@ -150,7 +142,7 @@
       "tournament_name": "Dad's House: Online #1 | $50 Pot Bonus (wow)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496485/image-d1e9624f066b5b09f11c69354097282c.png?ehk=s33xZEHfGnnrGftTaHddmMRBOfKzUHkhd4ro1iSpFzk%3D&ehkOptimized=kWnVLcYsLO0YhISOE3cairayBFBipQ7rUzNhWdwCCq8%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1668558600
     },
     {
