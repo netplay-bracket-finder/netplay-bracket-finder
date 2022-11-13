@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1668379979,
+  "fetched_at": 1668381667,
   "data": [
-    {
-      "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
-      "tournament_name": "The Wolf's Den #2",
-      "event_name": "The Wolf's Den #2",
-      "image": "https://images.start.gg/images/tournament/495394/image-fd79d4ec163b4739409eef0d5d2b5135.png?ehk=6BLadgbRonHOuUmMdFfCzNSPoPY%2FMM6V4ubBafWNqKU%3D&ehkOptimized=Fs10UPrCu%2B0qQTR8BDaDcFr7KdgRiDU29rP7WCCUY%2F4%3D",
-      "entrants": 3,
-      "start_time": 1668384000
-    },
     {
       "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/melee-singles",
       "tournament_name": "LGBT S3E14: The Rat's Back and Its Ready To Party",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1668373200
     },
     {
@@ -22,7 +14,7 @@
       "tournament_name": "LGBT S3E14: The Rat's Back and Its Ready To Party",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1668373200
     },
     {
@@ -34,19 +26,11 @@
       "start_time": 1668387600
     },
     {
-      "slug": "tournament/head-of-the-m-house-12/event/melee-singles",
-      "tournament_name": "Head of the (M) House #12",
-      "event_name": "Melee singles",
-      "image": "https://images.start.gg/images/tournament/496144/image-c6f9d91482070a47b3055597b6a6cd05.jpg?ehk=1%2BJOu4CQQLDPtm1CcoxgWHWkGruKj9wEAq58NSPBlG8%3D&ehkOptimized=8Ck6cdq1sh6xPwk82dpghYj9Rf6NoFKRkZi0VTHGhtU%3D",
-      "entrants": 10,
-      "start_time": 1668377820
-    },
-    {
       "slug": "tournament/new-sizzling-sundays-3/event/melee-singles",
       "tournament_name": "NEW Sizzling Sundays #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496867/image-5e4dcf5b80cd858cf5d9fc291346b840.png?ehk=6odt5xoOakRCjAlws3cTXO5%2FkkK1buRDjl%2BCdSwlGhI%3D&ehkOptimized=ZwqNaSjM8X44Mvjh11r2Ll6l%2BHLaOxnxIa2wXANUz8k%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1668385800
     },
     {
@@ -54,7 +38,7 @@
       "tournament_name": "SCSS East Coast #94",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497160/image-fa80d9ffafc072ee2531ee6884a016c5.png?ehk=HrWOjCcHGP2XOJGkjfRqvjwImjFbFJqHG4cFKjGvhhQ%3D&ehkOptimized=SkpgM8afno%2BuYvy%2Fs9MSH5d2dx51te%2BN7hIHHm%2Fui40%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1668385800
     },
     {
@@ -62,7 +46,7 @@
       "tournament_name": "No Melee on Sundays 17",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497566/image-6e8238943e2fc746fdcbefb0531c69c3.png?ehk=jEa2TYxBBfcOfjqe1ovjTgWd55RqVmu8CcFJhYuL%2Fzc%3D&ehkOptimized=k6CkUAmLG5yDE0J9lY8%2FCdR%2BOd12Lese7uUX6BJuP5A%3D",
-      "entrants": 9,
+      "entrants": 11,
       "start_time": 1668387600
     },
     {
@@ -70,7 +54,7 @@
       "tournament_name": "End Of The Peach Era",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/494992/image-372f2b6bc04721c85870bf4154ed4a61.png?ehk=3ngBWW8XMqWYyMtlj%2FuYJPlniuiqE33YR5phKd8%2FMmU%3D&ehkOptimized=csqH1g9m%2BxnnWJ25WU8d2WPCRUMB12a1k8MIPRyYkZg%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1668387600
     },
     {
@@ -126,7 +110,7 @@
       "tournament_name": "CASINO ROYALE ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/496368/image-4846a3acb2d354bf17857068fffe988e.png?ehk=1gpj%2BAmVh8Z3fzH3cJ4GKpJkL3GmE6wFSSPkT9B%2BrYw%3D&ehkOptimized=aKraBE7Tvxq4iPenewffzJbeL2fZK2v1HLiHmAVYxwE%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1668479400
     },
     {
@@ -150,7 +134,7 @@
       "tournament_name": "Sketchy Series 6: Luck of the Draw",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497539/image-213d15f3d16418b80af8fb71f23e1d4b.png?ehk=33Ev8pi6fYx6IqFpJIOu8q3lDLaUFLB2Sj8wLSgD6%2BE%3D&ehkOptimized=IbH6Vl7ZanJsv1HNdw4pNuD5TwHEpiSq1S8pQNie1sk%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668556800
     },
     {
@@ -258,6 +242,14 @@
       "start_time": 1668898800
     },
     {
+      "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
+      "tournament_name": "The Wolf's Den #2",
+      "event_name": "The Wolf's Den #2",
+      "image": "https://images.start.gg/images/tournament/495394/image-fd79d4ec163b4739409eef0d5d2b5135.png?ehk=6BLadgbRonHOuUmMdFfCzNSPoPY%2FMM6V4ubBafWNqKU%3D&ehkOptimized=Fs10UPrCu%2B0qQTR8BDaDcFr7KdgRiDU29rP7WCCUY%2F4%3D",
+      "entrants": 3,
+      "start_time": 1668988800
+    },
+    {
       "slug": "tournament/melee-delaware-smash-2/event/melee-ds-1v1",
       "tournament_name": "Melee Delaware Smash ! #2",
       "event_name": "Melee DS 1v1",
@@ -270,7 +262,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 28,
+      "entrants": 29,
       "start_time": 1669482000
     },
     {
@@ -304,6 +296,14 @@
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
       "entrants": 19,
       "start_time": 1669550400
+    },
+    {
+      "slug": "tournament/the-battlefields-series-60/event/melee-singles",
+      "tournament_name": "The Battlefields Series #60",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/497591/image-fcbe255b8102184fd0005767940d961b.png?ehk=hayYxI3oRFmlcgjGNVuaT34dvckvoYDulIuwiEphiTo%3D&ehkOptimized=adaM8MTG722cm4HISkARmZFbrvUC5QJF9DYxJf%2FJgTY%3D",
+      "entrants": 0,
+      "start_time": 1669590000
     },
     {
       "slug": "tournament/krampus-s-online-smashfest-1/event/melee-singles",
