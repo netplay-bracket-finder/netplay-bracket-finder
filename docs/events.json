@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668365122,
+  "fetched_at": 1668366922,
   "data": [
     {
       "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
@@ -134,8 +134,16 @@
       "tournament_name": "CASINO ROYALE ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/496368/image-4846a3acb2d354bf17857068fffe988e.png?ehk=1gpj%2BAmVh8Z3fzH3cJ4GKpJkL3GmE6wFSSPkT9B%2BrYw%3D&ehkOptimized=aKraBE7Tvxq4iPenewffzJbeL2fZK2v1HLiHmAVYxwE%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1668479400
+    },
+    {
+      "slug": "tournament/sketchy-series-6-luck-of-the-draw/event/melee-singles",
+      "tournament_name": "Sketchy Series 6: Luck of the Draw",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/497539/image-213d15f3d16418b80af8fb71f23e1d4b.png?ehk=33Ev8pi6fYx6IqFpJIOu8q3lDLaUFLB2Sj8wLSgD6%2BE%3D&ehkOptimized=IbH6Vl7ZanJsv1HNdw4pNuD5TwHEpiSq1S8pQNie1sk%3D",
+      "entrants": 0,
+      "start_time": 1668556800
     },
     {
       "slug": "tournament/dad-s-house-online-1-50-pot-bonus-wow/event/melee-singles",
