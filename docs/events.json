@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668377941,
+  "fetched_at": 1668379312,
   "data": [
     {
       "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
@@ -38,23 +38,15 @@
       "tournament_name": "Head of the (M) House #12",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/496144/image-c6f9d91482070a47b3055597b6a6cd05.jpg?ehk=1%2BJOu4CQQLDPtm1CcoxgWHWkGruKj9wEAq58NSPBlG8%3D&ehkOptimized=8Ck6cdq1sh6xPwk82dpghYj9Rf6NoFKRkZi0VTHGhtU%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1668377820
-    },
-    {
-      "slug": "tournament/melee-s-weekend-beat-down/event/melee-singles",
-      "tournament_name": "Melee's Weekend Beat Down",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/493353/image-cd836a9b47415efcadcec805a701fb6b.jpg?ehk=Tc%2FFFWfG%2BLTrQ8yTkYJwfksTgk%2BdhjgIVNV9VkF%2FDSs%3D&ehkOptimized=6n6dpSsjOsfexoP1kg0UOpoRMvcZmXg8wBNNQIy2PgY%3D",
-      "entrants": null,
-      "start_time": 1668378600
     },
     {
       "slug": "tournament/new-sizzling-sundays-3/event/melee-singles",
       "tournament_name": "NEW Sizzling Sundays #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496867/image-5e4dcf5b80cd858cf5d9fc291346b840.png?ehk=6odt5xoOakRCjAlws3cTXO5%2FkkK1buRDjl%2BCdSwlGhI%3D&ehkOptimized=ZwqNaSjM8X44Mvjh11r2Ll6l%2BHLaOxnxIa2wXANUz8k%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1668385800
     },
     {
@@ -62,7 +54,7 @@
       "tournament_name": "SCSS East Coast #94",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497160/image-fa80d9ffafc072ee2531ee6884a016c5.png?ehk=HrWOjCcHGP2XOJGkjfRqvjwImjFbFJqHG4cFKjGvhhQ%3D&ehkOptimized=SkpgM8afno%2BuYvy%2Fs9MSH5d2dx51te%2BN7hIHHm%2Fui40%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668385800
     },
     {
@@ -70,7 +62,7 @@
       "tournament_name": "No Melee on Sundays 17",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497566/image-6e8238943e2fc746fdcbefb0531c69c3.png?ehk=jEa2TYxBBfcOfjqe1ovjTgWd55RqVmu8CcFJhYuL%2Fzc%3D&ehkOptimized=k6CkUAmLG5yDE0J9lY8%2FCdR%2BOd12Lese7uUX6BJuP5A%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1668387600
     },
     {
@@ -286,7 +278,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1669496400
     },
     {
