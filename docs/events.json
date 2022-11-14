@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668443302,
+  "fetched_at": 1668445469,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-38/event/melee-singles",
       "tournament_name": "Monday Night Mixup #38",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497635/image-61cfab4ab7e4a500c1d683d358117d02.png?ehk=7mkBiNVvZcOp4BRkp2%2B695WQetsLZhTJKaFUqD9U8zA%3D&ehkOptimized=IBQxmoK7pUmEZGNE%2BrEPXIZrnvrL6oPJnLxhDRTWhLI%3D",
-      "entrants": 19,
+      "entrants": 20,
       "start_time": 1668452400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Super Smash Bong #72",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/497772/image-37ca26b0328861e2c30ea6bf2b4b791e.jpg?ehk=uO1kP%2FMRzaQ2vmj0xoOf7zuM3LbRes%2F2CovprJ6Az3o%3D&ehkOptimized=Lm9MBcYjgWvkm92mbpq%2FFQOpUZCkKu8%2FeNs%2BW%2BY85gk%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668465060
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Sketchy Series 6: Luck of the Draw",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497539/image-213d15f3d16418b80af8fb71f23e1d4b.png?ehk=33Ev8pi6fYx6IqFpJIOu8q3lDLaUFLB2Sj8wLSgD6%2BE%3D&ehkOptimized=IbH6Vl7ZanJsv1HNdw4pNuD5TwHEpiSq1S8pQNie1sk%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668556800
     },
     {
