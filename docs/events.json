@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1668412290,
+  "fetched_at": 1668414430,
   "data": [
-    {
-      "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/ladder",
-      "tournament_name": "LGBT S3E14: The Rat's Back and Its Ready To Party",
-      "event_name": "Ladder",
-      "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
-      "entrants": 6,
-      "start_time": 1668373200
-    },
-    {
-      "slug": "tournament/lgbt-s3e14-the-rat-s-back-and-its-ready-to/event/melee-singles",
-      "tournament_name": "LGBT S3E14: The Rat's Back and Its Ready To Party",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/496229/image-a1bcc38235d84bc91c191eae549a151c.png?ehk=D84T2I%2BKiJUR%2FlenxiCqfB8klCpjq%2FsVN09ys2N27i4%3D&ehkOptimized=IFijMD83ZxPpJxR6hxrlS2QcpeSq1AIiSegyY48KZ7c%3D",
-      "entrants": 6,
-      "start_time": 1668387600
-    },
     {
       "slug": "tournament/monday-night-mixup-38/event/melee-singles",
       "tournament_name": "Monday Night Mixup #38",
@@ -86,7 +70,7 @@
       "tournament_name": "CASINO ROYALE ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/496368/image-4846a3acb2d354bf17857068fffe988e.png?ehk=1gpj%2BAmVh8Z3fzH3cJ4GKpJkL3GmE6wFSSPkT9B%2BrYw%3D&ehkOptimized=aKraBE7Tvxq4iPenewffzJbeL2fZK2v1HLiHmAVYxwE%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1668479400
     },
     {
@@ -182,7 +166,7 @@
       "tournament_name": "Ranked and Spanked - presented by ORB and Kuura.co",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/495336/image-eabd82b0c58092fbef032d5ea55d47d0.png?ehk=fv4u%2Fb1c0d7At3fGF0ttNmUYwP4cZP2HDkZXD0tXXC8%3D&ehkOptimized=89dFL7V11tQZrnKZ5TcN18t6PxrfWRufRLCWvjf%2F4GQ%3D",
-      "entrants": 14,
+      "entrants": 18,
       "start_time": 1667653260
     },
     {
