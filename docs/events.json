@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668447995,
+  "fetched_at": 1668450235,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-38/event/melee-singles",
       "tournament_name": "Monday Night Mixup #38",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497635/image-61cfab4ab7e4a500c1d683d358117d02.png?ehk=7mkBiNVvZcOp4BRkp2%2B695WQetsLZhTJKaFUqD9U8zA%3D&ehkOptimized=IBQxmoK7pUmEZGNE%2BrEPXIZrnvrL6oPJnLxhDRTWhLI%3D",
-      "entrants": 26,
+      "entrants": 33,
       "start_time": 1668452400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Super Smash Bong #72",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/497772/image-37ca26b0328861e2c30ea6bf2b4b791e.jpg?ehk=uO1kP%2FMRzaQ2vmj0xoOf7zuM3LbRes%2F2CovprJ6Az3o%3D&ehkOptimized=Lm9MBcYjgWvkm92mbpq%2FFQOpUZCkKu8%2FeNs%2BW%2BY85gk%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668465060
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Pino's tired of 0-2 #98!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/497616/image-f670b8b09f8763bbfe7befb8510287ec.jpg?ehk=MB2QbgK%2BkG5lFqVHO3%2F%2FP%2B7j3Fh1xmVD2Q7HIYKOdUg%3D&ehkOptimized=3ewnDoYcWGGoR5awLhXTsDeVq3RV%2BgLJNzuRTVb41jQ%3D",
-      "entrants": 5,
+      "entrants": 8,
       "start_time": 1668466800
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Spudfest 42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497000/image-0972ef6c9439ecd1378c568c74ab6d7b.jpg?ehk=pTQeSu%2F%2BhysLw7vDjnUDxM90RMAixB3ZcuAip%2B3oKAU%3D&ehkOptimized=1%2BPh4lrim9onQNKOzDGN67SUW261D%2ByWwsL1y9szDrA%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1668477600
     },
     {
@@ -160,6 +160,22 @@
       "image": "https://images.start.gg/images/tournament/497206/image-6dbfcd340737a9c4c3b3ed8b19c64313.png?ehk=aZDDlhRZyaQGYNuM%2BGWfJ21M94OalSvkyCwQAXhdl6c%3D&ehkOptimized=KDSxdTjnAqj%2FERKyPF8CGmlTFEKJliqIqSFpgbVQLd8%3D",
       "entrants": 0,
       "start_time": 1668808800
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-12/event/ssbmr-singles",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #12",
+      "event_name": "SSBMr Singles",
+      "image": "https://images.start.gg/images/tournament/497845/image-e812e84ebdf6e6d50dc2b80f46bcfd3b.png?ehk=xN2HaVqF9MxFZ%2BkSDGUnACZuzVqTtw7NaK8iaGJ9wHc%3D&ehkOptimized=6IGtmdCEumHX7TRJ5rqNwN9aWUJq3A7Jpiwa7fTNP8Q%3D",
+      "entrants": 1,
+      "start_time": 1668729600
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-12/event/results-data",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #12",
+      "event_name": "Results Data",
+      "image": "https://images.start.gg/images/tournament/497845/image-e812e84ebdf6e6d50dc2b80f46bcfd3b.png?ehk=xN2HaVqF9MxFZ%2BkSDGUnACZuzVqTtw7NaK8iaGJ9wHc%3D&ehkOptimized=6IGtmdCEumHX7TRJ5rqNwN9aWUJq3A7Jpiwa7fTNP8Q%3D",
+      "entrants": 0,
+      "start_time": 1668729600
     },
     {
       "slug": "tournament/only-noobs-93/event/melee-singles",
@@ -280,6 +296,22 @@
       "image": "https://images.start.gg/images/tournament/497591/image-fcbe255b8102184fd0005767940d961b.png?ehk=hayYxI3oRFmlcgjGNVuaT34dvckvoYDulIuwiEphiTo%3D&ehkOptimized=adaM8MTG722cm4HISkARmZFbrvUC5QJF9DYxJf%2FJgTY%3D",
       "entrants": 0,
       "start_time": 1669590000
+    },
+    {
+      "slug": "tournament/scrub-quotes-5/event/scrub-quotes-5-east-coast",
+      "tournament_name": "Scrub Quotes 5",
+      "event_name": "SCRUB QUOTES 5: EAST COAST",
+      "image": "",
+      "entrants": 1,
+      "start_time": 1669669200
+    },
+    {
+      "slug": "tournament/scrub-quotes-5/event/scrub-quotes-5-west-coast",
+      "tournament_name": "Scrub Quotes 5",
+      "event_name": "SCRUB QUOTES 5: WEST COAST",
+      "image": "",
+      "entrants": 0,
+      "start_time": 1669680000
     },
     {
       "slug": "tournament/krampus-s-online-smashfest-1/event/melee-singles",
