@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668458524,
+  "fetched_at": 1668459202,
   "data": [
     {
       "slug": "tournament/super-smash-bong-72/event/melee-singles",
       "tournament_name": "Super Smash Bong #72",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/497772/image-37ca26b0328861e2c30ea6bf2b4b791e.jpg?ehk=uO1kP%2FMRzaQ2vmj0xoOf7zuM3LbRes%2F2CovprJ6Az3o%3D&ehkOptimized=Lm9MBcYjgWvkm92mbpq%2FFQOpUZCkKu8%2FeNs%2BW%2BY85gk%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1668465060
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Pino's tired of 0-2 #98!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/497616/image-f670b8b09f8763bbfe7befb8510287ec.jpg?ehk=MB2QbgK%2BkG5lFqVHO3%2F%2FP%2B7j3Fh1xmVD2Q7HIYKOdUg%3D&ehkOptimized=3ewnDoYcWGGoR5awLhXTsDeVq3RV%2BgLJNzuRTVb41jQ%3D",
-      "entrants": 18,
+      "entrants": 20,
       "start_time": 1668466800
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Woop Melee! #52",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496299/image-6113ed54b853f3c74895c766a18d0499.png?ehk=RbKDSUYCDE2j5U4fJCbL2%2FHlXdoOlP5ufFLnFp9p3vA%3D&ehkOptimized=TVwACClMMMmUSM%2BN%2FI1QfrBtGjDOGFpfu07Wa2RZfKA%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1668470400
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Spudfest 42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497000/image-0972ef6c9439ecd1378c568c74ab6d7b.jpg?ehk=pTQeSu%2F%2BhysLw7vDjnUDxM90RMAixB3ZcuAip%2B3oKAU%3D&ehkOptimized=1%2BPh4lrim9onQNKOzDGN67SUW261D%2ByWwsL1y9szDrA%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1668477600
     },
     {
