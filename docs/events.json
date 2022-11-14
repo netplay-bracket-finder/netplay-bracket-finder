@@ -1,28 +1,28 @@
 {
-  "fetched_at": 1668459202,
+  "fetched_at": 1668460739,
   "data": [
     {
       "slug": "tournament/super-smash-bong-72/event/melee-singles",
       "tournament_name": "Super Smash Bong #72",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/497772/image-37ca26b0328861e2c30ea6bf2b4b791e.jpg?ehk=uO1kP%2FMRzaQ2vmj0xoOf7zuM3LbRes%2F2CovprJ6Az3o%3D&ehkOptimized=Lm9MBcYjgWvkm92mbpq%2FFQOpUZCkKu8%2FeNs%2BW%2BY85gk%3D",
-      "entrants": 6,
+      "entrants": 9,
       "start_time": 1668465060
-    },
-    {
-      "slug": "tournament/slippi-sauce-74/event/melee-singles",
-      "tournament_name": "Slippi Sauce #74 🐸",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/497607/image-f727dbe92906787202a4ae1c040a5e9a.png?ehk=9%2FrcfFQsgoLUsDJIoJYoTllWvp6IepJdeFtwKVFOAgc%3D&ehkOptimized=p9%2FtmW%2FZq7GEzjQQTfQyjaJCQ2AGUDZ1apUQgv7xJsI%3D",
-      "entrants": 11,
-      "start_time": 1668466800
     },
     {
       "slug": "tournament/pino-s-tired-of-0-2-98/event/tired-of-0-2",
       "tournament_name": "Pino's tired of 0-2 #98!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/497616/image-f670b8b09f8763bbfe7befb8510287ec.jpg?ehk=MB2QbgK%2BkG5lFqVHO3%2F%2FP%2B7j3Fh1xmVD2Q7HIYKOdUg%3D&ehkOptimized=3ewnDoYcWGGoR5awLhXTsDeVq3RV%2BgLJNzuRTVb41jQ%3D",
-      "entrants": 20,
+      "entrants": 24,
+      "start_time": 1668466800
+    },
+    {
+      "slug": "tournament/slippi-sauce-74/event/melee-singles",
+      "tournament_name": "Slippi Sauce #74 🐸",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/497607/image-f727dbe92906787202a4ae1c040a5e9a.png?ehk=9%2FrcfFQsgoLUsDJIoJYoTllWvp6IepJdeFtwKVFOAgc%3D&ehkOptimized=p9%2FtmW%2FZq7GEzjQQTfQyjaJCQ2AGUDZ1apUQgv7xJsI%3D",
+      "entrants": 14,
       "start_time": 1668466800
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Spudfest 42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497000/image-0972ef6c9439ecd1378c568c74ab6d7b.jpg?ehk=pTQeSu%2F%2BhysLw7vDjnUDxM90RMAixB3ZcuAip%2B3oKAU%3D&ehkOptimized=1%2BPh4lrim9onQNKOzDGN67SUW261D%2ByWwsL1y9szDrA%3D",
-      "entrants": 17,
+      "entrants": 19,
       "start_time": 1668477600
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "CASINO ROYALE ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/496368/image-4846a3acb2d354bf17857068fffe988e.png?ehk=1gpj%2BAmVh8Z3fzH3cJ4GKpJkL3GmE6wFSSPkT9B%2BrYw%3D&ehkOptimized=aKraBE7Tvxq4iPenewffzJbeL2fZK2v1HLiHmAVYxwE%3D",
-      "entrants": 26,
+      "entrants": 29,
       "start_time": 1668479400
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "The Dairy Farm #8",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497563/image-34baaa6f96a45a85e4bc3e0bec72b507.png?ehk=OMLk5T0zwzkF3q5TEUDJnJ4o%2FS9KN6MGPez5xGiq7CU%3D&ehkOptimized=qI%2FMo1SL1YJg0%2FrI%2FCCwQK0xsA4lfYcJu6CXrZeJUB0%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668623400
     },
     {
@@ -334,7 +334,7 @@
       "tournament_name": "Scrub Quotes 5",
       "event_name": "SCRUB QUOTES 5: WEST COAST",
       "image": "",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669680000
     },
     {
