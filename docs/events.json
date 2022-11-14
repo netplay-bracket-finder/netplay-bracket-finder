@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1668465869,
+  "fetched_at": 1668466531,
   "data": [
-    {
-      "slug": "tournament/slippi-sauce-74/event/melee-singles",
-      "tournament_name": "Slippi Sauce #74 🐸",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/497607/image-f727dbe92906787202a4ae1c040a5e9a.png?ehk=9%2FrcfFQsgoLUsDJIoJYoTllWvp6IepJdeFtwKVFOAgc%3D&ehkOptimized=p9%2FtmW%2FZq7GEzjQQTfQyjaJCQ2AGUDZ1apUQgv7xJsI%3D",
-      "entrants": 29,
-      "start_time": 1668466800
-    },
     {
       "slug": "tournament/woop-melee-52/event/melee-singles",
       "tournament_name": "Woop Melee! #52",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496299/image-6113ed54b853f3c74895c766a18d0499.png?ehk=RbKDSUYCDE2j5U4fJCbL2%2FHlXdoOlP5ufFLnFp9p3vA%3D&ehkOptimized=TVwACClMMMmUSM%2BN%2FI1QfrBtGjDOGFpfu07Wa2RZfKA%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1668470400
     },
     {
@@ -46,7 +38,7 @@
       "tournament_name": "Spudfest 42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497000/image-0972ef6c9439ecd1378c568c74ab6d7b.jpg?ehk=pTQeSu%2F%2BhysLw7vDjnUDxM90RMAixB3ZcuAip%2B3oKAU%3D&ehkOptimized=1%2BPh4lrim9onQNKOzDGN67SUW261D%2ByWwsL1y9szDrA%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1668477600
     },
     {
