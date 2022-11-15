@@ -1,36 +1,12 @@
 {
-  "fetched_at": 1668476637,
+  "fetched_at": 1668481653,
   "data": [
-    {
-      "slug": "tournament/coast-to-coast-doubles-7/event/ec-doubles",
-      "tournament_name": "Coast to Coast Doubles # 7",
-      "event_name": "EC Doubles",
-      "image": "https://images.start.gg/images/tournament/496036/image-2f63e3f95b2f1e7c6a90a8d3288c1d65.png?ehk=HGCf6DqUP5ZUWit7SZHPrA5gteojcHQiwAefwdieiWI%3D&ehkOptimized=bmlp%2BpyzKLWdtCDda2dZq2em6vSCOYdptVjrLN1mdW4%3D",
-      "entrants": 10,
-      "start_time": 1668470400
-    },
-    {
-      "slug": "tournament/coast-to-coast-doubles-7/event/wc-doubles",
-      "tournament_name": "Coast to Coast Doubles # 7",
-      "event_name": "WC Doubles",
-      "image": "https://images.start.gg/images/tournament/496036/image-2f63e3f95b2f1e7c6a90a8d3288c1d65.png?ehk=HGCf6DqUP5ZUWit7SZHPrA5gteojcHQiwAefwdieiWI%3D&ehkOptimized=bmlp%2BpyzKLWdtCDda2dZq2em6vSCOYdptVjrLN1mdW4%3D",
-      "entrants": 6,
-      "start_time": 1668470400
-    },
-    {
-      "slug": "tournament/casino-royale-ssbm-online-weekly/event/casino",
-      "tournament_name": "CASINO ROYALE ~ SSBM Online Weekly",
-      "event_name": "CASINO",
-      "image": "https://images.start.gg/images/tournament/496368/image-4846a3acb2d354bf17857068fffe988e.png?ehk=1gpj%2BAmVh8Z3fzH3cJ4GKpJkL3GmE6wFSSPkT9B%2BrYw%3D&ehkOptimized=aKraBE7Tvxq4iPenewffzJbeL2fZK2v1HLiHmAVYxwE%3D",
-      "entrants": 47,
-      "start_time": 1668479400
-    },
     {
       "slug": "tournament/mnn-33/event/melee-singles",
       "tournament_name": "MNN#33",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497875/image-d1b28c48dbf942b50d32682f1d431e32.png?ehk=WcD%2F0Q9mCAKwJm%2FCHtr7GHvbmzXauuPQCLezHdemeLs%3D&ehkOptimized=0kNw%2BJ8o%2BJGoeHQ%2BDuvMx2Sdn3XJeRO2iQDSJJ4tow4%3D",
-      "entrants": 20,
+      "entrants": 30,
       "start_time": 1668484800
     },
     {
@@ -70,7 +46,7 @@
       "tournament_name": "Cataquackdown 16: Back after a Break",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497876/image-f76d31469c12a3d8a41fbc6526a13dc6.png?ehk=t7uZzPboxBz9akCbC07Om7Wrt2mdDYsuA8W%2BR%2F%2Bevmw%3D&ehkOptimized=6YABt2vMyknaXyf%2BhRqtcVpYfMuuFb19lnvfs%2FKmRkc%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668560400
     },
     {
@@ -142,7 +118,7 @@
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1668729600
     },
     {
@@ -210,6 +186,14 @@
       "start_time": 1668988800
     },
     {
+      "slug": "tournament/woop-melee-53/event/melee-singles",
+      "tournament_name": "Woop Melee! #53",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498049/image-109b31d53258a595c4b63cf3cdb601bd.png?ehk=TtzNpw1tO8Sndn%2FQ78TzlDFyPBanCfVTOxnhkyygr9Q%3D&ehkOptimized=KnXz04REwY0tS%2BcBLjonJaTZoShowG%2B0wE2oxQpCmAg%3D",
+      "entrants": 0,
+      "start_time": 1669075200
+    },
+    {
       "slug": "tournament/melee-delaware-smash-2/event/melee-ds-1v1",
       "tournament_name": "Melee Delaware Smash ! #2",
       "event_name": "Melee DS 1v1",
@@ -238,7 +222,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 38,
+      "entrants": 40,
       "start_time": 1669482000
     },
     {
