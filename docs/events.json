@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668532778,
+  "fetched_at": 1668534012,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-6/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497740/image-448b098f37ec8d575b4c277fa564b9f0.png?ehk=Z6AhY3cccYZHCgUt1PuNXzJsclcFOM9b7otXVJvKfTo%3D&ehkOptimized=7FhIku%2FqQ9G37UyAwJ0tR0W1%2FpQ%2BeTTDkEcWFpgUO%2Fs%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1668538800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668542400
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Level One Melee #52 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/498105/image-13e98924888bdb3739b47d9596062613.png?ehk=fn9XoxhWBZIEj%2F%2FNvbIEWS%2BXU%2FCnwN9y%2F5RkwvKYTfA%3D&ehkOptimized=hSIEl1sMXF9X9gH8QRwN1iosIwOuXedH2SW62KioNgQ%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1668564000
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "Level One Melee #52 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/498105/image-13e98924888bdb3739b47d9596062613.png?ehk=fn9XoxhWBZIEj%2F%2FNvbIEWS%2BXU%2FCnwN9y%2F5RkwvKYTfA%3D&ehkOptimized=hSIEl1sMXF9X9gH8QRwN1iosIwOuXedH2SW62KioNgQ%3D",
-      "entrants": 5,
+      "entrants": 4,
       "start_time": 1668564000
     },
     {
@@ -142,7 +142,7 @@
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/497073/image-fc850fc779d3f6329f8f30ca9ecd6cdd.jpg?ehk=3bErYiU1ljbmMPn%2BxxGCD7INw7PmGyKK1qabSvnaKDs%3D&ehkOptimized=AuJmPSyxL%2BX1Sr65pSHrhEcklP5dNQv9SwjH0q7Rj%2F4%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1668655800
     },
     {
