@@ -1,26 +1,26 @@
 {
-  "fetched_at": 1668544830,
+  "fetched_at": 1668545510,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
-      "entrants": 30,
-      "start_time": 1668542400
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/ladder-melee-west-coast",
-      "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
-      "event_name": "Ladder Melee West Coast",
-      "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
-      "entrants": 9,
+      "entrants": 33,
       "start_time": 1668542400
     },
     {
       "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/side-event-ec-melee-redemption-bracket",
       "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
+      "entrants": 12,
+      "start_time": 1668542400
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/ladder-melee-west-coast",
+      "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
+      "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
       "entrants": 9,
       "start_time": 1668542400
@@ -54,7 +54,7 @@
       "tournament_name": "MEAT Online #2",
       "event_name": "Melee Open Ladder",
       "image": "https://images.start.gg/images/tournament/498278/image-6a536662575c04af6e7d2923f919bfc6.png?ehk=MZfZJ1CwUfl0kxnQzjMznKtYunBWyLz45fvddxIOZTQ%3D&ehkOptimized=pnLO0qjTyQhLZ9z9C2YtbS0JkrLDC%2FmnjslCEJeo6RU%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668538800
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "Sketchy Series 6: Luck of the Draw",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497539/image-213d15f3d16418b80af8fb71f23e1d4b.png?ehk=33Ev8pi6fYx6IqFpJIOu8q3lDLaUFLB2Sj8wLSgD6%2BE%3D&ehkOptimized=IbH6Vl7ZanJsv1HNdw4pNuD5TwHEpiSq1S8pQNie1sk%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1668556800
     },
     {
@@ -142,7 +142,7 @@
       "tournament_name": "Waddle Wednesday 45",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497114/image-f62f1889f23e938c9fa58a417f0724b2.png?ehk=NYm3n%2Fyn5tUE2iqNYVg2VfjFRxtenZhD1p7ZPpJ6Gzs%3D&ehkOptimized=%2BDLbmAqClQqkwaVv14jpp%2BrIcHpSBLSj0ddRZBfkqYU%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668646800
     },
     {
