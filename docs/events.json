@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668486408,
+  "fetched_at": 1668487789,
   "data": [
     {
       "slug": "tournament/netmoal-this-is-a-test/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "Dad's House: Online #1 | $50 Pot Bonus (wow)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496485/image-d1e9624f066b5b09f11c69354097282c.png?ehk=s33xZEHfGnnrGftTaHddmMRBOfKzUHkhd4ro1iSpFzk%3D&ehkOptimized=kWnVLcYsLO0YhISOE3cairayBFBipQ7rUzNhWdwCCq8%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1668558600
     },
     {
@@ -54,6 +54,14 @@
       "tournament_name": "Waddle Wednesday 45",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497114/image-f62f1889f23e938c9fa58a417f0724b2.png?ehk=NYm3n%2Fyn5tUE2iqNYVg2VfjFRxtenZhD1p7ZPpJ6Gzs%3D&ehkOptimized=%2BDLbmAqClQqkwaVv14jpp%2BrIcHpSBLSj0ddRZBfkqYU%3D",
+      "entrants": 0,
+      "start_time": 1668646800
+    },
+    {
+      "slug": "tournament/galaxy-gladiators-21-solar-circuit-qualifier/event/melee-singles",
+      "tournament_name": "Galaxy Gladiators #21 (Solar Circuit Qualifier)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498073/image-a721966a0a83dbc5dc6710fc27e92cd4.png?ehk=4TD%2Fz7QGSWZq%2B6Dpzij4KEJN9VOq0cFv%2BqOOw8Rhj48%3D&ehkOptimized=HwUTmcbKm8zckXw3XxLnB%2F6spZjiDZAC5UUnZcDecCQ%3D",
       "entrants": 0,
       "start_time": 1668646800
     },
