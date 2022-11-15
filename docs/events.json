@@ -1,6 +1,14 @@
 {
-  "fetched_at": 1668507627,
+  "fetched_at": 1668508922,
   "data": [
+    {
+      "slug": "tournament/tuesday-night-fever-6/event/melee-singles",
+      "tournament_name": "Tuesday Night Fever #6",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/497740/image-448b098f37ec8d575b4c277fa564b9f0.png?ehk=Z6AhY3cccYZHCgUt1PuNXzJsclcFOM9b7otXVJvKfTo%3D&ehkOptimized=7FhIku%2FqQ9G37UyAwJ0tR0W1%2FpQ%2BeTTDkEcWFpgUO%2Fs%3D",
+      "entrants": 0,
+      "start_time": 1668538800
+    },
     {
       "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
