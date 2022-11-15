@@ -1,18 +1,26 @@
 {
-  "fetched_at": 1668527590,
+  "fetched_at": 1668529648,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-6/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497740/image-448b098f37ec8d575b4c277fa564b9f0.png?ehk=Z6AhY3cccYZHCgUt1PuNXzJsclcFOM9b7otXVJvKfTo%3D&ehkOptimized=7FhIku%2FqQ9G37UyAwJ0tR0W1%2FpQ%2BeTTDkEcWFpgUO%2Fs%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668538800
     },
     {
       "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/ladder-melee-west-coast",
       "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
+      "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
+      "entrants": 1,
+      "start_time": 1668542400
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/side-event-ec-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
+      "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
       "entrants": 1,
       "start_time": 1668542400
@@ -50,19 +58,11 @@
       "start_time": 1668542400
     },
     {
-      "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/side-event-ec-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
-      "event_name": "Side Event: EC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
-      "entrants": 0,
-      "start_time": 1668542400
-    },
-    {
       "slug": "tournament/netmoal-this-is-a-test/event/melee-singles",
       "tournament_name": "NetMoaL: this is a test",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497588/image-e7daf5a9a94f5869aaf56755590d2075.png?ehk=VKwAa1sW0n3DOmed3UHoxK0OTepTwQq%2B4tSdjNylSWg%3D&ehkOptimized=rsUUOwTp7aYCgJFmwjGFhtq%2Foz1%2F259rduz0nPZQ0Gc%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668556800
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Dad's House: Online #1 | $50 Pot Bonus (wow)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496485/image-d1e9624f066b5b09f11c69354097282c.png?ehk=s33xZEHfGnnrGftTaHddmMRBOfKzUHkhd4ro1iSpFzk%3D&ehkOptimized=kWnVLcYsLO0YhISOE3cairayBFBipQ7rUzNhWdwCCq8%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1668558600
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "Level One Melee #52 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/498105/image-13e98924888bdb3739b47d9596062613.png?ehk=fn9XoxhWBZIEj%2F%2FNvbIEWS%2BXU%2FCnwN9y%2F5RkwvKYTfA%3D&ehkOptimized=hSIEl1sMXF9X9gH8QRwN1iosIwOuXedH2SW62KioNgQ%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668564000
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "The Legends Tournament #83",
       "event_name": "WaveDash #21",
       "image": "https://images.start.gg/images/tournament/497953/image-c53e346ddac09b618b48d3356516cbb2.png?ehk=BptEN%2B1GuD8wkUyMcg7jPNxKt0Kmsj17jJCegqLvt2o%3D&ehkOptimized=LDNgxIQOXNOFjYxROHCNOn8Hr0vbOVOFKtwJ0izoTjQ%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668795000
     },
     {
