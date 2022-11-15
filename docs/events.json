@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668487789,
+  "fetched_at": 1668489415,
   "data": [
     {
       "slug": "tournament/netmoal-this-is-a-test/event/melee-singles",
@@ -194,6 +194,22 @@
       "start_time": 1669075200
     },
     {
+      "slug": "tournament/coast-to-coast-doubles-8/event/wc-doubles",
+      "tournament_name": "Coast to Coast Doubles # 8",
+      "event_name": "WC Doubles",
+      "image": "https://images.start.gg/images/tournament/498083/image-a25705776bb4f53fc2d4d16baca2ba06.png?ehk=I%2BxY1%2FQM8W3v3Sj508EU97YETE7DccZmqJGc%2B6kJlsk%3D&ehkOptimized=vwkJsXu05don738A9gXhsxm%2B4DFRWEvgFBUfc4lukQE%3D",
+      "entrants": 1,
+      "start_time": 1669075200
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-8/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 8",
+      "event_name": "EC Doubles",
+      "image": "https://images.start.gg/images/tournament/498083/image-a25705776bb4f53fc2d4d16baca2ba06.png?ehk=I%2BxY1%2FQM8W3v3Sj508EU97YETE7DccZmqJGc%2B6kJlsk%3D&ehkOptimized=vwkJsXu05don738A9gXhsxm%2B4DFRWEvgFBUfc4lukQE%3D",
+      "entrants": 0,
+      "start_time": 1669075200
+    },
+    {
       "slug": "tournament/melee-delaware-smash-2/event/melee-ds-1v1",
       "tournament_name": "Melee Delaware Smash ! #2",
       "event_name": "Melee DS 1v1",
@@ -222,7 +238,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 41,
+      "entrants": 42,
       "start_time": 1669482000
     },
     {
