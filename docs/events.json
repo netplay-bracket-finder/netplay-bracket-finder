@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668494737,
+  "fetched_at": 1668496639,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/ladder-melee-east-coast",
@@ -90,19 +90,19 @@
       "start_time": 1668560400
     },
     {
-      "slug": "tournament/level-one-melee-52-a-noob-only-tournament/event/amateur-melee-singles",
-      "tournament_name": "Level One Melee #52 - a noob-only tournament",
-      "event_name": "Amateur Melee Singles",
-      "image": "https://images.start.gg/images/tournament/498105/image-13e98924888bdb3739b47d9596062613.png?ehk=fn9XoxhWBZIEj%2F%2FNvbIEWS%2BXU%2FCnwN9y%2F5RkwvKYTfA%3D&ehkOptimized=hSIEl1sMXF9X9gH8QRwN1iosIwOuXedH2SW62KioNgQ%3D",
-      "entrants": 0,
-      "start_time": 1668564000
-    },
-    {
       "slug": "tournament/level-one-melee-52-a-noob-only-tournament/event/main-melee-singles",
       "tournament_name": "Level One Melee #52 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/498105/image-13e98924888bdb3739b47d9596062613.png?ehk=fn9XoxhWBZIEj%2F%2FNvbIEWS%2BXU%2FCnwN9y%2F5RkwvKYTfA%3D&ehkOptimized=hSIEl1sMXF9X9gH8QRwN1iosIwOuXedH2SW62KioNgQ%3D",
-      "entrants": 0,
+      "entrants": 3,
+      "start_time": 1668564000
+    },
+    {
+      "slug": "tournament/level-one-melee-52-a-noob-only-tournament/event/amateur-melee-singles",
+      "tournament_name": "Level One Melee #52 - a noob-only tournament",
+      "event_name": "Amateur Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498105/image-13e98924888bdb3739b47d9596062613.png?ehk=fn9XoxhWBZIEj%2F%2FNvbIEWS%2BXU%2FCnwN9y%2F5RkwvKYTfA%3D&ehkOptimized=hSIEl1sMXF9X9gH8QRwN1iosIwOuXedH2SW62KioNgQ%3D",
+      "entrants": 1,
       "start_time": 1668564000
     },
     {
