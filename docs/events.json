@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668538566,
+  "fetched_at": 1668539773,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
-      "entrants": 6,
+      "entrants": 8,
       "start_time": 1668542400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1668542400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668542400
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Dad's House: Online #1 | $50 Pot Bonus (wow)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496485/image-d1e9624f066b5b09f11c69354097282c.png?ehk=s33xZEHfGnnrGftTaHddmMRBOfKzUHkhd4ro1iSpFzk%3D&ehkOptimized=kWnVLcYsLO0YhISOE3cairayBFBipQ7rUzNhWdwCCq8%3D",
-      "entrants": 19,
+      "entrants": 21,
       "start_time": 1668558600
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "The Dairy Farm #8",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497563/image-34baaa6f96a45a85e4bc3e0bec72b507.png?ehk=OMLk5T0zwzkF3q5TEUDJnJ4o%2FS9KN6MGPez5xGiq7CU%3D&ehkOptimized=qI%2FMo1SL1YJg0%2FrI%2FCCwQK0xsA4lfYcJu6CXrZeJUB0%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668623400
     },
     {
