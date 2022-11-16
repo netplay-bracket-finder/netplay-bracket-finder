@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668568665,
+  "fetched_at": 1668571190,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/ladder-melee-east-coast",
@@ -158,7 +158,7 @@
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 25,
+      "entrants": 26,
       "start_time": 1668729600
     },
     {
@@ -166,8 +166,16 @@
       "tournament_name": "Ranked and Spanked - presented by ORB and Kuura.co",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/495336/image-eabd82b0c58092fbef032d5ea55d47d0.png?ehk=fv4u%2Fb1c0d7At3fGF0ttNmUYwP4cZP2HDkZXD0tXXC8%3D&ehkOptimized=89dFL7V11tQZrnKZ5TcN18t6PxrfWRufRLCWvjf%2F4GQ%3D",
-      "entrants": 30,
+      "entrants": 31,
       "start_time": 1667653260
+    },
+    {
+      "slug": "tournament/aero-s-arena-18-wc-50-prizepool/event/wc-melee-singles",
+      "tournament_name": "Aero’s Arena #18 WC - $50 Prizepool!",
+      "event_name": "WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498427/image-8eec84378a82302d5551cfd52f147fbe.jpg?ehk=ASwxHh3PnHCrFAuSExMk4iriPzhTU5JSICdJcjdKM3c%3D&ehkOptimized=pBqh8C%2B6RUAELNy%2BtLhia4TnA0%2B7Y8Tl%2FUJeUsx%2Ff9M%3D",
+      "entrants": 2,
+      "start_time": 1668740400
     },
     {
       "slug": "tournament/the-legends-tournament-83/event/wavedash-21",
