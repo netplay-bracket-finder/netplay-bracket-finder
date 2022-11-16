@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668571190,
+  "fetched_at": 1668573242,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/ladder-melee-east-coast",
@@ -18,14 +18,6 @@
       "start_time": 1668542400
     },
     {
-      "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/main-bracket-ec-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
-      "event_name": "Main Bracket: EC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
-      "entrants": 23,
-      "start_time": 1668558600
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/main-bracket-wc-melee-singles",
       "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
       "event_name": "Main Bracket: WC Melee Singles",
@@ -42,36 +34,20 @@
       "start_time": 1668569400
     },
     {
+      "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/main-bracket-ec-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
+      "event_name": "Main Bracket: EC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
+      "entrants": 23,
+      "start_time": 1668558600
+    },
+    {
       "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/side-event-ec-melee-redemption-bracket",
       "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
       "entrants": 22,
       "start_time": 1668558600
-    },
-    {
-      "slug": "tournament/meat-online-2/event/melee-open-ladder",
-      "tournament_name": "MEAT Online #2",
-      "event_name": "Melee Open Ladder",
-      "image": "https://images.start.gg/images/tournament/498278/image-6a536662575c04af6e7d2923f919bfc6.png?ehk=MZfZJ1CwUfl0kxnQzjMznKtYunBWyLz45fvddxIOZTQ%3D&ehkOptimized=pnLO0qjTyQhLZ9z9C2YtbS0JkrLDC%2FmnjslCEJeo6RU%3D",
-      "entrants": 13,
-      "start_time": 1668538800
-    },
-    {
-      "slug": "tournament/meat-online-2/event/melee-singles",
-      "tournament_name": "MEAT Online #2",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/498278/image-6a536662575c04af6e7d2923f919bfc6.png?ehk=MZfZJ1CwUfl0kxnQzjMznKtYunBWyLz45fvddxIOZTQ%3D&ehkOptimized=pnLO0qjTyQhLZ9z9C2YtbS0JkrLDC%2FmnjslCEJeo6RU%3D",
-      "entrants": 16,
-      "start_time": 1668553200
-    },
-    {
-      "slug": "tournament/meat-online-2/event/melee-doubles",
-      "tournament_name": "MEAT Online #2",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/498278/image-6a536662575c04af6e7d2923f919bfc6.png?ehk=MZfZJ1CwUfl0kxnQzjMznKtYunBWyLz45fvddxIOZTQ%3D&ehkOptimized=pnLO0qjTyQhLZ9z9C2YtbS0JkrLDC%2FmnjslCEJeo6RU%3D",
-      "entrants": 3,
-      "start_time": 1668556800
     },
     {
       "slug": "tournament/the-dairy-farm-8/event/melee-singles",
@@ -96,6 +72,14 @@
       "image": "https://images.start.gg/images/tournament/498073/image-a721966a0a83dbc5dc6710fc27e92cd4.png?ehk=4TD%2Fz7QGSWZq%2B6Dpzij4KEJN9VOq0cFv%2BqOOw8Rhj48%3D&ehkOptimized=HwUTmcbKm8zckXw3XxLnB%2F6spZjiDZAC5UUnZcDecCQ%3D",
       "entrants": 0,
       "start_time": 1668646800
+    },
+    {
+      "slug": "tournament/silver-slippi-league-31/event/melee-ranked-ladder",
+      "tournament_name": "Silver Slippi League #31",
+      "event_name": "Melee Ranked Ladder",
+      "image": "https://images.start.gg/images/tournament/498440/image-47527045cf4e8de4d3c46886185c55e3.png?ehk=zELwIuiTzZt4nDWsS23ks2wh3rDgNFqjX7jcHLZMelA%3D&ehkOptimized=%2Bm9ETWVk7sO03ZC%2BWn10yEpEa9PA%2FzFzeA2zt%2B3FO2Q%3D",
+      "entrants": 1,
+      "start_time": 1668650400
     },
     {
       "slug": "tournament/treythetrashman-s-garbage-connection-wc-100-pot-bonus-allchat-esports-9/event/melee-singles-west-coast",
