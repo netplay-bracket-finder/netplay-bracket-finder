@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668563129,
+  "fetched_at": 1668568665,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/ladder-melee-east-coast",
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
-      "entrants": 52,
+      "entrants": 55,
       "start_time": 1668542400
     },
     {
@@ -26,6 +26,22 @@
       "start_time": 1668558600
     },
     {
+      "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/main-bracket-wc-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
+      "event_name": "Main Bracket: WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
+      "entrants": 19,
+      "start_time": 1668569400
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
+      "entrants": 18,
+      "start_time": 1668569400
+    },
+    {
       "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/side-event-ec-melee-redemption-bracket",
       "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
@@ -34,27 +50,11 @@
       "start_time": 1668558600
     },
     {
-      "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
-      "entrants": 16,
-      "start_time": 1668542400
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/main-bracket-wc-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
-      "event_name": "Main Bracket: WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
-      "entrants": 3,
-      "start_time": 1668542400
-    },
-    {
       "slug": "tournament/meat-online-2/event/melee-open-ladder",
       "tournament_name": "MEAT Online #2",
       "event_name": "Melee Open Ladder",
       "image": "https://images.start.gg/images/tournament/498278/image-6a536662575c04af6e7d2923f919bfc6.png?ehk=MZfZJ1CwUfl0kxnQzjMznKtYunBWyLz45fvddxIOZTQ%3D&ehkOptimized=pnLO0qjTyQhLZ9z9C2YtbS0JkrLDC%2FmnjslCEJeo6RU%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1668538800
     },
     {
@@ -72,14 +72,6 @@
       "image": "https://images.start.gg/images/tournament/498278/image-6a536662575c04af6e7d2923f919bfc6.png?ehk=MZfZJ1CwUfl0kxnQzjMznKtYunBWyLz45fvddxIOZTQ%3D&ehkOptimized=pnLO0qjTyQhLZ9z9C2YtbS0JkrLDC%2FmnjslCEJeo6RU%3D",
       "entrants": 3,
       "start_time": 1668556800
-    },
-    {
-      "slug": "tournament/the-cc-lincorperation-2/event/melee-singles-ditto-s",
-      "tournament_name": "THE CC.LINCORPERATION 2",
-      "event_name": "MELEE SINGLES DITTO'S",
-      "image": "https://images.start.gg/images/tournament/495658/image-7f98cbc7a54a1f1be45cb5c84d7c917e.png?ehk=sAwMpKSlqm7PV4tVGK%2Fz1jwJ456lodqqDFIOb%2BvhZcw%3D&ehkOptimized=kthN1AmZN6DvsznImAFOD4Bd4wDX1tLmdwamd3Yle9Y%3D",
-      "entrants": 4,
-      "start_time": 1668564000
     },
     {
       "slug": "tournament/the-dairy-farm-8/event/melee-singles",
@@ -166,7 +158,7 @@
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 24,
+      "entrants": 25,
       "start_time": 1668729600
     },
     {
@@ -174,7 +166,7 @@
       "tournament_name": "Ranked and Spanked - presented by ORB and Kuura.co",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/495336/image-eabd82b0c58092fbef032d5ea55d47d0.png?ehk=fv4u%2Fb1c0d7At3fGF0ttNmUYwP4cZP2HDkZXD0tXXC8%3D&ehkOptimized=89dFL7V11tQZrnKZ5TcN18t6PxrfWRufRLCWvjf%2F4GQ%3D",
-      "entrants": 28,
+      "entrants": 30,
       "start_time": 1667653260
     },
     {
