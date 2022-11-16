@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668637062,
+  "fetched_at": 1668638418,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-45/event/melee-singles",
       "tournament_name": "Waddle Wednesday 45",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497114/image-f62f1889f23e938c9fa58a417f0724b2.png?ehk=NYm3n%2Fyn5tUE2iqNYVg2VfjFRxtenZhD1p7ZPpJ6Gzs%3D&ehkOptimized=%2BDLbmAqClQqkwaVv14jpp%2BrIcHpSBLSj0ddRZBfkqYU%3D",
-      "entrants": 15,
+      "entrants": 20,
       "start_time": 1668646800
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/497073/image-fc850fc779d3f6329f8f30ca9ecd6cdd.jpg?ehk=3bErYiU1ljbmMPn%2BxxGCD7INw7PmGyKK1qabSvnaKDs%3D&ehkOptimized=AuJmPSyxL%2BX1Sr65pSHrhEcklP5dNQv9SwjH0q7Rj%2F4%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1668655800
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 29,
+      "entrants": 30,
       "start_time": 1668729600
     },
     {
@@ -254,7 +254,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 45,
+      "entrants": 46,
       "start_time": 1669482000
     },
     {
