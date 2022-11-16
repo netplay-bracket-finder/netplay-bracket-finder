@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668573242,
+  "fetched_at": 1668574567,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/ladder-melee-east-coast",
@@ -78,7 +78,7 @@
       "tournament_name": "Silver Slippi League #31",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/498440/image-47527045cf4e8de4d3c46886185c55e3.png?ehk=zELwIuiTzZt4nDWsS23ks2wh3rDgNFqjX7jcHLZMelA%3D&ehkOptimized=%2Bm9ETWVk7sO03ZC%2BWn10yEpEa9PA%2FzFzeA2zt%2B3FO2Q%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668650400
     },
     {
@@ -270,7 +270,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 44,
+      "entrants": 45,
       "start_time": 1669482000
     },
     {
