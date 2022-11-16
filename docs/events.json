@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668579809,
+  "fetched_at": 1668581149,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/ladder-melee-east-coast",
@@ -18,14 +18,6 @@
       "start_time": 1668542400
     },
     {
-      "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/main-bracket-wc-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
-      "event_name": "Main Bracket: WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
-      "entrants": 19,
-      "start_time": 1668569400
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/main-bracket-ec-melee-singles",
       "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
@@ -40,6 +32,14 @@
       "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
       "entrants": 22,
       "start_time": 1668558600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/main-bracket-wc-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #103 - Lite Edition",
+      "event_name": "Main Bracket: WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498099/image-02b793e8ffd7ec72b1b964b7efebae80.png?ehk=yyA%2FwLLbnRPeYEboNyMo5VvrboOolo9h5ZIynVxk5Qk%3D&ehkOptimized=%2BPCbT%2FFyK4brnI3Mvcr1g9TsQQhatXjkiNFagHtwVg4%3D",
+      "entrants": 19,
+      "start_time": 1668569400
     },
     {
       "slug": "tournament/training-mode-tuesdays-103-lite-edition/event/side-event-wc-melee-redemption-bracket",
@@ -158,7 +158,7 @@
       "tournament_name": "Aero’s Arena #18 WC - $50 Prizepool!",
       "event_name": "WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/498427/image-8eec84378a82302d5551cfd52f147fbe.jpg?ehk=ASwxHh3PnHCrFAuSExMk4iriPzhTU5JSICdJcjdKM3c%3D&ehkOptimized=pBqh8C%2B6RUAELNy%2BtLhia4TnA0%2B7Y8Tl%2FUJeUsx%2Ff9M%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668740400
     },
     {
