@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668599490,
+  "fetched_at": 1668602241,
   "data": [
     {
       "slug": "tournament/the-dairy-farm-8/event/melee-singles",
@@ -46,7 +46,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #39 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496860/image-436f00b2fbd96ba50883c3e24b39a4ea.png?ehk=aoifhzmM4eTti18%2FVpqHZBqBX4OZKJIkj8zXVAigdz8%3D&ehkOptimized=oH7AjdWg3E9V%2Blf98%2BhXVjSVu4bIpaMCFzdkkuzyRvE%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668708000
     },
     {
@@ -118,7 +118,7 @@
       "tournament_name": "BB 79",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498467/image-d8708f6188d061727d37dc274c9f2b47.png?ehk=I8YXoWeQ%2Frg8BmVny0OSsxBIbEwW8VYrQgZIji6x2ak%3D&ehkOptimized=lm1TzFazX1w7bu%2BhJAS4vNPA3HvfSNxexsbb2qYjBoo%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1668754800
     },
     {
@@ -200,6 +200,14 @@
       "image": "https://images.start.gg/images/tournament/498083/image-a25705776bb4f53fc2d4d16baca2ba06.png?ehk=I%2BxY1%2FQM8W3v3Sj508EU97YETE7DccZmqJGc%2B6kJlsk%3D&ehkOptimized=vwkJsXu05don738A9gXhsxm%2B4DFRWEvgFBUfc4lukQE%3D",
       "entrants": 0,
       "start_time": 1669075200
+    },
+    {
+      "slug": "tournament/doubles-troubles-1/event/melee-doubles",
+      "tournament_name": "DOUBLES TROUBLES #1",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/498483/image-7879570d63239849ecaae8d4fbf0666b.png?ehk=khu0TXv%2FDt72x%2FEuU6tNZuOxWmOKGSgJcBsyTO2Sotc%3D&ehkOptimized=Ox9MR9jRWqNZMfzmbtC4fgZKgzH4hTxxVY0XY5QalKI%3D",
+      "entrants": 1,
+      "start_time": 1669107600
     },
     {
       "slug": "tournament/melee-delaware-smash-2/event/melee-ds-1v1",
