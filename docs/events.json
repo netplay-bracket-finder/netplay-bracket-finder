@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668628281,
+  "fetched_at": 1668629971,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-45/event/melee-singles",
       "tournament_name": "Waddle Wednesday 45",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497114/image-f62f1889f23e938c9fa58a417f0724b2.png?ehk=NYm3n%2Fyn5tUE2iqNYVg2VfjFRxtenZhD1p7ZPpJ6Gzs%3D&ehkOptimized=%2BDLbmAqClQqkwaVv14jpp%2BrIcHpSBLSj0ddRZBfkqYU%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1668646800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Silver Slippi League #31",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/498440/image-47527045cf4e8de4d3c46886185c55e3.png?ehk=zELwIuiTzZt4nDWsS23ks2wh3rDgNFqjX7jcHLZMelA%3D&ehkOptimized=%2Bm9ETWVk7sO03ZC%2BWn10yEpEa9PA%2FzFzeA2zt%2B3FO2Q%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1668650400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #39 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496860/image-436f00b2fbd96ba50883c3e24b39a4ea.png?ehk=aoifhzmM4eTti18%2FVpqHZBqBX4OZKJIkj8zXVAigdz8%3D&ehkOptimized=oH7AjdWg3E9V%2Blf98%2BhXVjSVu4bIpaMCFzdkkuzyRvE%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1668708000
     },
     {
@@ -98,6 +98,14 @@
       "start_time": 1667653260
     },
     {
+      "slug": "tournament/thursday-thmackdown-10/event/melee-singles",
+      "tournament_name": "Thursday Thmackdown #10",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498619/image-45c88ccd9f4a390c1a282589c99b747d.png?ehk=n1KRgMpSR%2FUBPruJOcVeTJNDtkYHbDpvVAtLcwFb6rw%3D&ehkOptimized=0UJialqt9mY404G5Db65DX7z%2FQESfbOpeWPYn9BU7VQ%3D",
+      "entrants": 1,
+      "start_time": 1668736800
+    },
+    {
       "slug": "tournament/aero-s-arena-18-wc-50-prizepool/event/wc-melee-singles",
       "tournament_name": "Aero’s Arena #18 WC - $50 Prizepool!",
       "event_name": "WC Melee Singles",
@@ -134,7 +142,7 @@
       "tournament_name": "KOMET VII",
       "event_name": "KOMET Pro League",
       "image": "https://images.start.gg/images/tournament/497355/image-5c60f021a809055fb17116749cdebf24.png?ehk=gVJuIiqeXrrA0uIDxhlvfSNon%2B9yoKmcplfn6KTnqL4%3D&ehkOptimized=%2FJAsqPwWR3PgdzTta%2BaPDV3XbkBI6By%2BZMa6pHVS8a4%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1668880800
     },
     {
