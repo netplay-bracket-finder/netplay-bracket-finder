@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668640723,
+  "fetched_at": 1668641996,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-45/event/melee-singles",
       "tournament_name": "Waddle Wednesday 45",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497114/image-f62f1889f23e938c9fa58a417f0724b2.png?ehk=NYm3n%2Fyn5tUE2iqNYVg2VfjFRxtenZhD1p7ZPpJ6Gzs%3D&ehkOptimized=%2BDLbmAqClQqkwaVv14jpp%2BrIcHpSBLSj0ddRZBfkqYU%3D",
-      "entrants": 39,
+      "entrants": 45,
       "start_time": 1668646800
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 30,
+      "entrants": 31,
       "start_time": 1668729600
     },
     {
