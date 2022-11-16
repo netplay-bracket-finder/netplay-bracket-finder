@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668617548,
+  "fetched_at": 1668619026,
   "data": [
     {
       "slug": "tournament/the-dairy-farm-8/event/melee-singles",
       "tournament_name": "The Dairy Farm #8",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497563/image-34baaa6f96a45a85e4bc3e0bec72b507.png?ehk=OMLk5T0zwzkF3q5TEUDJnJ4o%2FS9KN6MGPez5xGiq7CU%3D&ehkOptimized=qI%2FMo1SL1YJg0%2FrI%2FCCwQK0xsA4lfYcJu6CXrZeJUB0%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1668623400
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Silver Slippi League #31",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/498440/image-47527045cf4e8de4d3c46886185c55e3.png?ehk=zELwIuiTzZt4nDWsS23ks2wh3rDgNFqjX7jcHLZMelA%3D&ehkOptimized=%2Bm9ETWVk7sO03ZC%2BWn10yEpEa9PA%2FzFzeA2zt%2B3FO2Q%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1668650400
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 26,
+      "entrants": 27,
       "start_time": 1668729600
     },
     {
