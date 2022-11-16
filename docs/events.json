@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668624300,
+  "fetched_at": 1668624964,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-45/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/497073/image-fc850fc779d3f6329f8f30ca9ecd6cdd.jpg?ehk=3bErYiU1ljbmMPn%2BxxGCD7INw7PmGyKK1qabSvnaKDs%3D&ehkOptimized=AuJmPSyxL%2BX1Sr65pSHrhEcklP5dNQv9SwjH0q7Rj%2F4%3D",
-      "entrants": 9,
+      "entrants": 12,
       "start_time": 1668655800
     },
     {
@@ -135,7 +135,7 @@
       "event_name": "KOMET Pro League",
       "image": "https://images.start.gg/images/tournament/497355/image-5c60f021a809055fb17116749cdebf24.png?ehk=gVJuIiqeXrrA0uIDxhlvfSNon%2B9yoKmcplfn6KTnqL4%3D&ehkOptimized=%2FJAsqPwWR3PgdzTta%2BaPDV3XbkBI6By%2BZMa6pHVS8a4%3D",
       "entrants": 8,
-      "start_time": 1668877200
+      "start_time": 1668880800
     },
     {
       "slug": "tournament/multi-melee-masters-2-50-pot-bonus/event/multi-melee-singles",
