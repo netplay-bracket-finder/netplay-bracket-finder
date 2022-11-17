@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668713831,
+  "fetched_at": 1668714679,
   "data": [
     {
       "slug": "tournament/the-salad-online-49/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Troppo Italiano #74",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/498809/image-198d2ec15eba39780dc5e4f10d94cab4.jpg?ehk=WseL0bLdbqcndqdhmo53NYxtcljWFT0X4pxqyxGJwSk%3D&ehkOptimized=WiIjpRkRmA1chOCvzfxeHc12yPRelz36ib%2FIJz13i0o%3D",
-      "entrants": 8,
+      "entrants": 11,
       "start_time": 1668715200
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 67,
+      "entrants": 69,
       "start_time": 1668729600
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Thursday Thmackdown #10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498619/image-45c88ccd9f4a390c1a282589c99b747d.png?ehk=n1KRgMpSR%2FUBPruJOcVeTJNDtkYHbDpvVAtLcwFb6rw%3D&ehkOptimized=0UJialqt9mY404G5Db65DX7z%2FQESfbOpeWPYn9BU7VQ%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668736800
     },
     {
@@ -240,6 +240,22 @@
       "image": "https://images.start.gg/images/tournament/498768/image-a729a7eebf91d26dc40dd9e931558933.png?ehk=%2Fw%2BlGOrXdWHCHxozPJ4TYRNjT6a%2FcarJ2zgMqiNgZP4%3D&ehkOptimized=hqQcI%2BDKxHcyB3B%2Bkw1HstY%2FOZ0c64oL6hFwrPu0eJA%3D",
       "entrants": 0,
       "start_time": 1669165200
+    },
+    {
+      "slug": "tournament/level-one-melee-53-a-noob-only-tournament/event/amateur-melee-singles",
+      "tournament_name": "Level One Melee #53 - a noob-only tournament",
+      "event_name": "Amateur Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498913/image-9e4f58504a4ce8e5e13445b1932f3d7a.png?ehk=J6ZE%2BtpeBndGPDrHweZbvJu7ylXx47nxljquMo9gD1E%3D&ehkOptimized=0y5%2BSFnk0THOeEfEJ2cns3DnFpwDZc8aBIgmgODz4Rc%3D",
+      "entrants": 0,
+      "start_time": 1669168800
+    },
+    {
+      "slug": "tournament/level-one-melee-53-a-noob-only-tournament/event/main-melee-singles",
+      "tournament_name": "Level One Melee #53 - a noob-only tournament",
+      "event_name": "Main Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498913/image-9e4f58504a4ce8e5e13445b1932f3d7a.png?ehk=J6ZE%2BtpeBndGPDrHweZbvJu7ylXx47nxljquMo9gD1E%3D&ehkOptimized=0y5%2BSFnk0THOeEfEJ2cns3DnFpwDZc8aBIgmgODz4Rc%3D",
+      "entrants": 0,
+      "start_time": 1669168800
     },
     {
       "slug": "tournament/sb-slippi-based-melee-1/event/melee-singles",
