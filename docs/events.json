@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668678676,
+  "fetched_at": 1668680387,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-39-eu-event-1/event/melee-singles",
@@ -152,6 +152,14 @@
       "image": "https://images.start.gg/images/tournament/495394/image-fd79d4ec163b4739409eef0d5d2b5135.png?ehk=6BLadgbRonHOuUmMdFfCzNSPoPY%2FMM6V4ubBafWNqKU%3D&ehkOptimized=Fs10UPrCu%2B0qQTR8BDaDcFr7KdgRiDU29rP7WCCUY%2F4%3D",
       "entrants": 3,
       "start_time": 1668988800
+    },
+    {
+      "slug": "tournament/new-sizzling-sundays-4-1/event/bonus-stages-melee-singles",
+      "tournament_name": "NEW Sizzling Sundays #4",
+      "event_name": "BONUS STAGES melee singles",
+      "image": "https://images.start.gg/images/tournament/498796/image-30152bc186270af3af730b46a99064f8.png?ehk=yAQPHChzPaVjpAaM%2BCQZYptqL0SEc1cN%2B8C%2F2U5Rdi4%3D&ehkOptimized=ZofsF8mv5OYNOW7aVkkGaDKDJ1aDcfpnrm%2FsKsdyzP4%3D",
+      "entrants": 0,
+      "start_time": 1668990600
     },
     {
       "slug": "tournament/woop-melee-53/event/melee-singles",
