@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668719795,
+  "fetched_at": 1668721106,
   "data": [
     {
       "slug": "tournament/the-salad-online-49/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #12",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/497845/image-e812e84ebdf6e6d50dc2b80f46bcfd3b.png?ehk=xN2HaVqF9MxFZ%2BkSDGUnACZuzVqTtw7NaK8iaGJ9wHc%3D&ehkOptimized=6IGtmdCEumHX7TRJ5rqNwN9aWUJq3A7Jpiwa7fTNP8Q%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1668729600
     },
     {
@@ -30,15 +30,7 @@
       "tournament_name": "The Salt Mine #49",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/498862/image-842074d5b9e8c15b822f28cfa52b8159.png?ehk=jaLbwPkTgFgGfv0UyWYgqTPNDg6mLLe%2F460Eio2drtY%3D&ehkOptimized=2IoG59XbNs2VlTpB%2BKNn%2FFbadyLdd%2BEyiKYmeTFYGqM%3D",
-      "entrants": 8,
-      "start_time": 1668729600
-    },
-    {
-      "slug": "tournament/the-return-of-nfc-presented-by-slyfox-esports/event/melee-singles",
-      "tournament_name": "The Return of NFC | Presented by Slyfox Esports",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/498906/image-a6dbbfb4b03f882d5af5c84582fbd936.png?ehk=A5JST9C%2BxxSJJgWks%2FHUVKB7%2B1CC3VuEOE%2FJlOqv%2Bmo%3D&ehkOptimized=XTlpHD30gEEyYHvAE4vxJCCAshVcckq1Xhy9%2Bttoq88%3D",
-      "entrants": 4,
+      "entrants": 9,
       "start_time": 1668729600
     },
     {
@@ -46,7 +38,15 @@
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 78,
+      "entrants": 81,
+      "start_time": 1668729600
+    },
+    {
+      "slug": "tournament/the-return-of-nfc-presented-by-slyfox-esports/event/melee-singles",
+      "tournament_name": "The Return of NFC | Presented by Slyfox Esports",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498906/image-a6dbbfb4b03f882d5af5c84582fbd936.png?ehk=A5JST9C%2BxxSJJgWks%2FHUVKB7%2B1CC3VuEOE%2FJlOqv%2Bmo%3D&ehkOptimized=XTlpHD30gEEyYHvAE4vxJCCAshVcckq1Xhy9%2Bttoq88%3D",
+      "entrants": 6,
       "start_time": 1668729600
     },
     {
@@ -214,7 +214,7 @@
       "tournament_name": "DOUBLES TROUBLES #1",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/498483/image-7879570d63239849ecaae8d4fbf0666b.png?ehk=khu0TXv%2FDt72x%2FEuU6tNZuOxWmOKGSgJcBsyTO2Sotc%3D&ehkOptimized=Ox9MR9jRWqNZMfzmbtC4fgZKgzH4hTxxVY0XY5QalKI%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669107600
     },
     {
