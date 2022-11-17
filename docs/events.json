@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668712554,
+  "fetched_at": 1668713831,
   "data": [
     {
       "slug": "tournament/the-salad-online-49/event/melee-singles",
@@ -42,11 +42,19 @@
       "start_time": 1668729600
     },
     {
+      "slug": "tournament/the-return-of-nfc-presented-by-slyfox-esports/event/melee-singles",
+      "tournament_name": "The Return of NFC | Presented by Slyfox Esports",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498906/image-a6dbbfb4b03f882d5af5c84582fbd936.png?ehk=A5JST9C%2BxxSJJgWks%2FHUVKB7%2B1CC3VuEOE%2FJlOqv%2Bmo%3D&ehkOptimized=XTlpHD30gEEyYHvAE4vxJCCAshVcckq1Xhy9%2Bttoq88%3D",
+      "entrants": 0,
+      "start_time": 1668729600
+    },
+    {
       "slug": "tournament/only-noobs-93/event/melee-singles",
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 64,
+      "entrants": 67,
       "start_time": 1668729600
     },
     {
@@ -413,7 +421,7 @@
       "slug": "tournament/whispy-woods-superstar-circuit-qualifier-1/event/melee-singles",
       "tournament_name": "Whispy Woods Superstar Circuit- Qualifier 1",
       "event_name": "Melee Singles",
-      "image": "",
+      "image": "https://images.start.gg/images/tournament/492841/image-25503525b7a477b0d3cf79d8edd231b5.png?ehk=imi1GXSK2RRhQ6P2wLkYKi0L%2BFufyHQQoKRu46xUBxw%3D&ehkOptimized=PGAXVHlTmkwd5NsRpetUcGIGJxqQQE7r82nqo0%2Fx1cA%3D",
       "entrants": 13,
       "start_time": 1674946800
     },
