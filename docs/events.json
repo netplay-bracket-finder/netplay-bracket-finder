@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668700395,
+  "fetched_at": 1668702454,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-39-eu-event-1/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #39 (EU Event)",
       "event_name": "Toblerone waitlist",
       "image": "https://images.start.gg/images/tournament/496860/image-436f00b2fbd96ba50883c3e24b39a4ea.png?ehk=aoifhzmM4eTti18%2FVpqHZBqBX4OZKJIkj8zXVAigdz8%3D&ehkOptimized=oH7AjdWg3E9V%2Blf98%2BhXVjSVu4bIpaMCFzdkkuzyRvE%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668708000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Troppo Italiano #74",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/498809/image-198d2ec15eba39780dc5e4f10d94cab4.jpg?ehk=WseL0bLdbqcndqdhmo53NYxtcljWFT0X4pxqyxGJwSk%3D&ehkOptimized=WiIjpRkRmA1chOCvzfxeHc12yPRelz36ib%2FIJz13i0o%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1668715200
     },
     {
@@ -58,11 +58,19 @@
       "start_time": 1668729600
     },
     {
+      "slug": "tournament/the-salt-mine-49/event/the-salt-mine",
+      "tournament_name": "The Salt Mine #49",
+      "event_name": "The Salt Mine!",
+      "image": "https://images.start.gg/images/tournament/498862/image-842074d5b9e8c15b822f28cfa52b8159.png?ehk=jaLbwPkTgFgGfv0UyWYgqTPNDg6mLLe%2F460Eio2drtY%3D&ehkOptimized=2IoG59XbNs2VlTpB%2BKNn%2FFbadyLdd%2BEyiKYmeTFYGqM%3D",
+      "entrants": 0,
+      "start_time": 1668729600
+    },
+    {
       "slug": "tournament/only-noobs-93/event/melee-singles",
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 40,
+      "entrants": 41,
       "start_time": 1668729600
     },
     {
