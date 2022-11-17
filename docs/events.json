@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668725543,
+  "fetched_at": 1668727191,
   "data": [
     {
       "slug": "tournament/the-salad-online-49/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "The Salt Mine #49",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/498862/image-842074d5b9e8c15b822f28cfa52b8159.png?ehk=jaLbwPkTgFgGfv0UyWYgqTPNDg6mLLe%2F460Eio2drtY%3D&ehkOptimized=2IoG59XbNs2VlTpB%2BKNn%2FFbadyLdd%2BEyiKYmeTFYGqM%3D",
-      "entrants": 13,
+      "entrants": 19,
       "start_time": 1668729600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 114,
+      "entrants": 124,
       "start_time": 1668729600
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "The Return of NFC | Presented by Slyfox Esports",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498906/image-a6dbbfb4b03f882d5af5c84582fbd936.png?ehk=A5JST9C%2BxxSJJgWks%2FHUVKB7%2B1CC3VuEOE%2FJlOqv%2Bmo%3D&ehkOptimized=XTlpHD30gEEyYHvAE4vxJCCAshVcckq1Xhy9%2Bttoq88%3D",
-      "entrants": 7,
+      "entrants": 11,
       "start_time": 1668729600
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "BB 79",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498467/image-d8708f6188d061727d37dc274c9f2b47.png?ehk=I8YXoWeQ%2Frg8BmVny0OSsxBIbEwW8VYrQgZIji6x2ak%3D&ehkOptimized=lm1TzFazX1w7bu%2BhJAS4vNPA3HvfSNxexsbb2qYjBoo%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1668754800
     },
     {
