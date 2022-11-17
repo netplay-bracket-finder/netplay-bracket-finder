@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668684498,
+  "fetched_at": 1668685168,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-39-eu-event-1/event/melee-singles",
@@ -32,6 +32,14 @@
       "image": "https://images.start.gg/images/tournament/497206/image-6dbfcd340737a9c4c3b3ed8b19c64313.png?ehk=aZDDlhRZyaQGYNuM%2BGWfJ21M94OalSvkyCwQAXhdl6c%3D&ehkOptimized=KDSxdTjnAqj%2FERKyPF8CGmlTFEKJliqIqSFpgbVQLd8%3D",
       "entrants": 0,
       "start_time": 1668808800
+    },
+    {
+      "slug": "tournament/troppo-italiano-74/event/singles",
+      "tournament_name": "Troppo Italiano #74",
+      "event_name": "Singles",
+      "image": "https://images.start.gg/images/tournament/498809/image-198d2ec15eba39780dc5e4f10d94cab4.jpg?ehk=WseL0bLdbqcndqdhmo53NYxtcljWFT0X4pxqyxGJwSk%3D&ehkOptimized=WiIjpRkRmA1chOCvzfxeHc12yPRelz36ib%2FIJz13i0o%3D",
+      "entrants": 0,
+      "start_time": 1668715200
     },
     {
       "slug": "tournament/ssbm-randomizer-seed-of-the-week-12/event/ssbmr-singles",
