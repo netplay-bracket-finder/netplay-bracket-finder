@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668705586,
+  "fetched_at": 1668706812,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-39-eu-event-1/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #39 (EU Event)",
       "event_name": "Toblerone waitlist",
       "image": "https://images.start.gg/images/tournament/496860/image-436f00b2fbd96ba50883c3e24b39a4ea.png?ehk=aoifhzmM4eTti18%2FVpqHZBqBX4OZKJIkj8zXVAigdz8%3D&ehkOptimized=oH7AjdWg3E9V%2Blf98%2BhXVjSVu4bIpaMCFzdkkuzyRvE%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668708000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 45,
+      "entrants": 51,
       "start_time": 1668729600
     },
     {
@@ -136,6 +136,22 @@
       "image": "https://images.start.gg/images/tournament/490451/image-7f80cc12fd5555cebe7111dd7a0eb2e2.png?ehk=Vayg6F3aJyDSuHqkT0bEpKhT2tEj7dD4rJgiGjh68AI%3D&ehkOptimized=2qf7%2F%2Bhb5jlM8r02%2BQlQRohn7aeHs14Fc%2FQntraIEYE%3D",
       "entrants": 14,
       "start_time": 1668880800
+    },
+    {
+      "slug": "tournament/after-dark-melee-5/event/after-dark-singles",
+      "tournament_name": "After Dark Melee # 5",
+      "event_name": "After Dark Singles",
+      "image": "https://images.start.gg/images/tournament/498874/image-825b16dc567920da201de46f33e1c302.png?ehk=yu0ktQByw39k5cAbKDqjsFI7AnBa9Z4z47IHfmpVXRQ%3D&ehkOptimized=%2FgvNavd4R0%2F8SiyTprVNYC7BAwgfEFpOjJ5Z8xi34Vs%3D",
+      "entrants": 0,
+      "start_time": 1668892500
+    },
+    {
+      "slug": "tournament/after-dark-melee-5/event/after-dark-doubles",
+      "tournament_name": "After Dark Melee # 5",
+      "event_name": "After Dark Doubles",
+      "image": "https://images.start.gg/images/tournament/498874/image-825b16dc567920da201de46f33e1c302.png?ehk=yu0ktQByw39k5cAbKDqjsFI7AnBa9Z4z47IHfmpVXRQ%3D&ehkOptimized=%2FgvNavd4R0%2F8SiyTprVNYC7BAwgfEFpOjJ5Z8xi34Vs%3D",
+      "entrants": 0,
+      "start_time": 1668897000
     },
     {
       "slug": "tournament/explosion-series-2-fox-this-game/event/melee-singles",
@@ -230,7 +246,7 @@
       "tournament_name": "Dad's House: Online #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498569/image-736c9ce4316048ce0f89143cf79c19f8.png?ehk=CufXWKz9Ca%2F6Bfw8ScEUUO7WfRPX49xrKxnJpY1OqhE%3D&ehkOptimized=jRikZVE%2BlFTndWgYdVcDi1E8a7p2COhR3EBqeSo6iFE%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1669163400
     },
     {
