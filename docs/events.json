@@ -1,36 +1,20 @@
 {
-  "fetched_at": 1668642686,
+  "fetched_at": 1668649424,
   "data": [
-    {
-      "slug": "tournament/waddle-wednesday-45/event/melee-singles",
-      "tournament_name": "Waddle Wednesday 45",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/497114/image-f62f1889f23e938c9fa58a417f0724b2.png?ehk=NYm3n%2Fyn5tUE2iqNYVg2VfjFRxtenZhD1p7ZPpJ6Gzs%3D&ehkOptimized=%2BDLbmAqClQqkwaVv14jpp%2BrIcHpSBLSj0ddRZBfkqYU%3D",
-      "entrants": 48,
-      "start_time": 1668646800
-    },
-    {
-      "slug": "tournament/galaxy-gladiators-21-solar-circuit-qualifier/event/melee-singles",
-      "tournament_name": "Galaxy Gladiators #21 (Solar Circuit Qualifier)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/498073/image-a721966a0a83dbc5dc6710fc27e92cd4.png?ehk=4TD%2Fz7QGSWZq%2B6Dpzij4KEJN9VOq0cFv%2BqOOw8Rhj48%3D&ehkOptimized=HwUTmcbKm8zckXw3XxLnB%2F6spZjiDZAC5UUnZcDecCQ%3D",
-      "entrants": 0,
-      "start_time": 1668646800
-    },
     {
       "slug": "tournament/silver-slippi-league-31/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #31",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/498440/image-47527045cf4e8de4d3c46886185c55e3.png?ehk=zELwIuiTzZt4nDWsS23ks2wh3rDgNFqjX7jcHLZMelA%3D&ehkOptimized=%2Bm9ETWVk7sO03ZC%2BWn10yEpEa9PA%2FzFzeA2zt%2B3FO2Q%3D",
-      "entrants": 13,
-      "start_time": 1668658200
+      "entrants": 26,
+      "start_time": 1668650400
     },
     {
       "slug": "tournament/treythetrashman-s-garbage-connection-wc-100-pot-bonus-allchat-esports-9/event/melee-singles-west-coast",
       "tournament_name": "TreyTheTrashman's Garbage Connection - WC - $100 Pot Bonus -  AllChat Esports",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/497073/image-fc850fc779d3f6329f8f30ca9ecd6cdd.jpg?ehk=3bErYiU1ljbmMPn%2BxxGCD7INw7PmGyKK1qabSvnaKDs%3D&ehkOptimized=AuJmPSyxL%2BX1Sr65pSHrhEcklP5dNQv9SwjH0q7Rj%2F4%3D",
-      "entrants": 16,
+      "entrants": 18,
       "start_time": 1668655800
     },
     {
@@ -94,7 +78,7 @@
       "tournament_name": "Ranked and Spanked - presented by ORB and Kuura.co",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/495336/image-eabd82b0c58092fbef032d5ea55d47d0.png?ehk=fv4u%2Fb1c0d7At3fGF0ttNmUYwP4cZP2HDkZXD0tXXC8%3D&ehkOptimized=89dFL7V11tQZrnKZ5TcN18t6PxrfWRufRLCWvjf%2F4GQ%3D",
-      "entrants": 34,
+      "entrants": 35,
       "start_time": 1667653260
     },
     {
@@ -142,7 +126,7 @@
       "tournament_name": "KOMET VII",
       "event_name": "KOMET Pro League",
       "image": "https://images.start.gg/images/tournament/497355/image-5c60f021a809055fb17116749cdebf24.png?ehk=gVJuIiqeXrrA0uIDxhlvfSNon%2B9yoKmcplfn6KTnqL4%3D&ehkOptimized=%2FJAsqPwWR3PgdzTta%2BaPDV3XbkBI6By%2BZMa6pHVS8a4%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1668880800
     },
     {
@@ -222,7 +206,7 @@
       "tournament_name": "Dad's House: Online #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498569/image-736c9ce4316048ce0f89143cf79c19f8.png?ehk=CufXWKz9Ca%2F6Bfw8ScEUUO7WfRPX49xrKxnJpY1OqhE%3D&ehkOptimized=jRikZVE%2BlFTndWgYdVcDi1E8a7p2COhR3EBqeSo6iFE%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1669163400
     },
     {
@@ -278,7 +262,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 19,
+      "entrants": 20,
       "start_time": 1669496400
     },
     {
@@ -366,7 +350,7 @@
       "tournament_name": "The BIG Pink",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492672/image-e59cad14eec8a33939c7d3b7dbf1f8ad.jpg?ehk=Ug%2FzytecnblTpI7NCFssNEth%2BnbO36iP%2BnWZ%2B6NBsUc%3D&ehkOptimized=2AJYP8G0yTIXMxUR%2F%2FcBZ4BDHvxGORbrUxLHiVKrTgY%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1670731200
     },
     {
