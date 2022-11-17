@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668670610,
+  "fetched_at": 1668671489,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-39-eu-event-1/event/melee-singles",
@@ -208,6 +208,14 @@
       "image": "https://images.start.gg/images/tournament/498768/image-a729a7eebf91d26dc40dd9e931558933.png?ehk=%2Fw%2BlGOrXdWHCHxozPJ4TYRNjT6a%2FcarJ2zgMqiNgZP4%3D&ehkOptimized=hqQcI%2BDKxHcyB3B%2Bkw1HstY%2FOZ0c64oL6hFwrPu0eJA%3D",
       "entrants": 0,
       "start_time": 1669165200
+    },
+    {
+      "slug": "tournament/sb-slippi-based-melee-1/event/melee-singles",
+      "tournament_name": "SB (Slippi Based) Melee #1",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498775/image-69f7276a69bcce37baebb1cbd8451780.png?ehk=eoF%2BC4U0XmSrpDknK9UIvlTWeJnVvZSNe9wKL4OcDPg%3D&ehkOptimized=VtNNaSInLDNPIfwVdPV1XpfNvJ3Gux4MLLfNPQy%2Bcik%3D",
+      "entrants": 0,
+      "start_time": 1669172400
     },
     {
       "slug": "tournament/moonwalk-tournament-series-26/event/melee-ladder",
