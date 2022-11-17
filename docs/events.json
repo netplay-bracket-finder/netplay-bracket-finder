@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668724871,
+  "fetched_at": 1668725543,
   "data": [
     {
       "slug": "tournament/the-salad-online-49/event/melee-singles",
@@ -30,15 +30,7 @@
       "tournament_name": "The Salt Mine #49",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/498862/image-842074d5b9e8c15b822f28cfa52b8159.png?ehk=jaLbwPkTgFgGfv0UyWYgqTPNDg6mLLe%2F460Eio2drtY%3D&ehkOptimized=2IoG59XbNs2VlTpB%2BKNn%2FFbadyLdd%2BEyiKYmeTFYGqM%3D",
-      "entrants": 12,
-      "start_time": 1668729600
-    },
-    {
-      "slug": "tournament/the-return-of-nfc-presented-by-slyfox-esports/event/melee-singles",
-      "tournament_name": "The Return of NFC | Presented by Slyfox Esports",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/498906/image-a6dbbfb4b03f882d5af5c84582fbd936.png?ehk=A5JST9C%2BxxSJJgWks%2FHUVKB7%2B1CC3VuEOE%2FJlOqv%2Bmo%3D&ehkOptimized=XTlpHD30gEEyYHvAE4vxJCCAshVcckq1Xhy9%2Bttoq88%3D",
-      "entrants": 6,
+      "entrants": 13,
       "start_time": 1668729600
     },
     {
@@ -46,7 +38,15 @@
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 105,
+      "entrants": 114,
+      "start_time": 1668729600
+    },
+    {
+      "slug": "tournament/the-return-of-nfc-presented-by-slyfox-esports/event/melee-singles",
+      "tournament_name": "The Return of NFC | Presented by Slyfox Esports",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498906/image-a6dbbfb4b03f882d5af5c84582fbd936.png?ehk=A5JST9C%2BxxSJJgWks%2FHUVKB7%2B1CC3VuEOE%2FJlOqv%2Bmo%3D&ehkOptimized=XTlpHD30gEEyYHvAE4vxJCCAshVcckq1Xhy9%2Bttoq88%3D",
+      "entrants": 7,
       "start_time": 1668729600
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Ranked and Spanked - presented by ORB and Kuura.co",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/495336/image-eabd82b0c58092fbef032d5ea55d47d0.png?ehk=fv4u%2Fb1c0d7At3fGF0ttNmUYwP4cZP2HDkZXD0tXXC8%3D&ehkOptimized=89dFL7V11tQZrnKZ5TcN18t6PxrfWRufRLCWvjf%2F4GQ%3D",
-      "entrants": 48,
+      "entrants": 50,
       "start_time": 1667653260
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "The Legends Tournament #83",
       "event_name": "WaveDash #21",
       "image": "https://images.start.gg/images/tournament/497953/image-c53e346ddac09b618b48d3356516cbb2.png?ehk=BptEN%2B1GuD8wkUyMcg7jPNxKt0Kmsj17jJCegqLvt2o%3D&ehkOptimized=LDNgxIQOXNOFjYxROHCNOn8Hr0vbOVOFKtwJ0izoTjQ%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1668795000
     },
     {
