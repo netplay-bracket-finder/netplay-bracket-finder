@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668718277,
+  "fetched_at": 1668719795,
   "data": [
     {
       "slug": "tournament/the-salad-online-49/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "The Salt Mine #49",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/498862/image-842074d5b9e8c15b822f28cfa52b8159.png?ehk=jaLbwPkTgFgGfv0UyWYgqTPNDg6mLLe%2F460Eio2drtY%3D&ehkOptimized=2IoG59XbNs2VlTpB%2BKNn%2FFbadyLdd%2BEyiKYmeTFYGqM%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1668729600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "The Return of NFC | Presented by Slyfox Esports",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498906/image-a6dbbfb4b03f882d5af5c84582fbd936.png?ehk=A5JST9C%2BxxSJJgWks%2FHUVKB7%2B1CC3VuEOE%2FJlOqv%2Bmo%3D&ehkOptimized=XTlpHD30gEEyYHvAE4vxJCCAshVcckq1Xhy9%2Bttoq88%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668729600
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 76,
+      "entrants": 78,
       "start_time": 1668729600
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Ranked and Spanked - presented by ORB and Kuura.co",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/495336/image-eabd82b0c58092fbef032d5ea55d47d0.png?ehk=fv4u%2Fb1c0d7At3fGF0ttNmUYwP4cZP2HDkZXD0tXXC8%3D&ehkOptimized=89dFL7V11tQZrnKZ5TcN18t6PxrfWRufRLCWvjf%2F4GQ%3D",
-      "entrants": 50,
+      "entrants": 46,
       "start_time": 1667653260
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Thursday Thmackdown #10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498619/image-45c88ccd9f4a390c1a282589c99b747d.png?ehk=n1KRgMpSR%2FUBPruJOcVeTJNDtkYHbDpvVAtLcwFb6rw%3D&ehkOptimized=0UJialqt9mY404G5Db65DX7z%2FQESfbOpeWPYn9BU7VQ%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1668736800
     },
     {
@@ -96,6 +96,14 @@
       "image": "https://images.start.gg/images/tournament/497215/image-a8daf982045f092e6791362800385411.png?ehk=2T%2BGhVcfkRQ9TUOQBDGfTS57HJunWto8YecOex7ySkc%3D&ehkOptimized=uXuivP2BsgjM81MSrOF1b9lJu1HfJCShUWl5ae%2FSQJY%3D",
       "entrants": 5,
       "start_time": 1668816000
+    },
+    {
+      "slug": "tournament/fgc-friday-17-solar-circuit-qualifier/event/melee-singles",
+      "tournament_name": "FGC Friday #17 (Solar Circuit Qualifier)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498939/image-b04b94a9d52fc90d8d106ae425b8c3db.png?ehk=xOJISGR9JUl1h20OYowyKqOyZduseLXobYDIUMpx1DM%3D&ehkOptimized=2n0FVjEqKD9hvp9R0aVYVCV0vmzBVDqQYvD7AMNVeA8%3D",
+      "entrants": 0,
+      "start_time": 1668819600
     },
     {
       "slug": "tournament/komet-vii/event/komet-pro-league",
@@ -256,6 +264,22 @@
       "image": "https://images.start.gg/images/tournament/498775/image-69f7276a69bcce37baebb1cbd8451780.png?ehk=eoF%2BC4U0XmSrpDknK9UIvlTWeJnVvZSNe9wKL4OcDPg%3D&ehkOptimized=VtNNaSInLDNPIfwVdPV1XpfNvJ3Gux4MLLfNPQy%2Bcik%3D",
       "entrants": 0,
       "start_time": 1669172400
+    },
+    {
+      "slug": "tournament/toblerone-tangerine-thursdays-40-eu-event/event/melee-singles",
+      "tournament_name": "Toblerone Tangerine Thursdays #40 (EU Event)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498935/image-2d1dc91f092fd33c86084b1ee5391f80.png?ehk=BVllJgNGjyBtq4vzUxbdP7pZHXzVfBosytlzjhKOHfc%3D&ehkOptimized=2JbRyqDpuYp891ruTLGg%2FBFczDoRzc29UkPGpCdJfLI%3D",
+      "entrants": 0,
+      "start_time": 1669312800
+    },
+    {
+      "slug": "tournament/toblerone-tangerine-thursdays-40-eu-event/event/toblerone-waitlist",
+      "tournament_name": "Toblerone Tangerine Thursdays #40 (EU Event)",
+      "event_name": "Toblerone waitlist",
+      "image": "https://images.start.gg/images/tournament/498935/image-2d1dc91f092fd33c86084b1ee5391f80.png?ehk=BVllJgNGjyBtq4vzUxbdP7pZHXzVfBosytlzjhKOHfc%3D&ehkOptimized=2JbRyqDpuYp891ruTLGg%2FBFczDoRzc29UkPGpCdJfLI%3D",
+      "entrants": 0,
+      "start_time": 1669312800
     },
     {
       "slug": "tournament/moonwalk-tournament-series-26/event/melee-ladder",
