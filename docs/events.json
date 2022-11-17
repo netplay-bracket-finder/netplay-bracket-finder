@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668702454,
+  "fetched_at": 1668704153,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-39-eu-event-1/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #39 (EU Event)",
       "event_name": "Toblerone waitlist",
       "image": "https://images.start.gg/images/tournament/496860/image-436f00b2fbd96ba50883c3e24b39a4ea.png?ehk=aoifhzmM4eTti18%2FVpqHZBqBX4OZKJIkj8zXVAigdz8%3D&ehkOptimized=oH7AjdWg3E9V%2Blf98%2BhXVjSVu4bIpaMCFzdkkuzyRvE%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1668708000
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "The Salt Mine #49",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/498862/image-842074d5b9e8c15b822f28cfa52b8159.png?ehk=jaLbwPkTgFgGfv0UyWYgqTPNDg6mLLe%2F460Eio2drtY%3D&ehkOptimized=2IoG59XbNs2VlTpB%2BKNn%2FFbadyLdd%2BEyiKYmeTFYGqM%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668729600
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Only Noobs 93",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496988/image-7041f333f86961f271da67441194088c.jpg?ehk=C0BIG%2FCPhF6nktHX3Pr2CyhWcIpliyYYqQUTKm0UvGw%3D&ehkOptimized=zMYPEq44Kt78nitFLI7LpC1P55vwhAAf6KZpq5j0MHE%3D",
-      "entrants": 41,
+      "entrants": 42,
       "start_time": 1668729600
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "Multi Melee Masters #2 - €50 Pot Bonus!",
       "event_name": "Multi Melee Singles",
       "image": "https://images.start.gg/images/tournament/490451/image-7f80cc12fd5555cebe7111dd7a0eb2e2.png?ehk=Vayg6F3aJyDSuHqkT0bEpKhT2tEj7dD4rJgiGjh68AI%3D&ehkOptimized=2qf7%2F%2Bhb5jlM8r02%2BQlQRohn7aeHs14Fc%2FQntraIEYE%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1668880800
     },
     {
