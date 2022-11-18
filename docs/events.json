@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668811959,
+  "fetched_at": 1668813516,
   "data": [
     {
       "slug": "tournament/the-legends-tournament-83/event/wavedash-21",
@@ -22,7 +22,7 @@
       "tournament_name": "East Coast Fridays #230",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499066/image-a46ff4a8e17a93d520f07b32ea902f74.png?ehk=AOecnshw%2Bn9CiBAJWifK8k%2Bf3X8dJeQ4HsSn5%2Bnxtgc%3D&ehkOptimized=NybHCL7mx4hnczoHM2IgI%2BXTlFg1iui1S5o3HTRfSEY%3D",
-      "entrants": 43,
+      "entrants": 52,
       "start_time": 1668819600
     },
     {
@@ -392,6 +392,46 @@
       "image": "https://images.start.gg/images/tournament/498056/image-1e40a77911fbe85ae04fe7b93510b98f.png?ehk=tPFKbZRs9Bim72Jcs6UcR0UPvOl3EA3WPqXINfGcPSs%3D&ehkOptimized=UZwrBU7rFc0esecSQ7cmBDuPJnZtnYWfD0Alh0q%2BQlk%3D",
       "entrants": 1,
       "start_time": 1670724000
+    },
+    {
+      "slug": "tournament/cg-gold-invitational-last-chance-qualifier/event/ssbm-randomizer-singles",
+      "tournament_name": "CG Gold Invitational Last Chance Qualifier",
+      "event_name": "SSBM Randomizer Singles",
+      "image": "https://images.start.gg/images/tournament/498261/image-542ac2ee11e8497bebc0259c10cb8d85.png?ehk=plB0BejFZMXsr36WuG8hFFarDq%2FBol80VC84NA4BVzo%3D&ehkOptimized=CgdCyc5nTJmQ2GfCCfwXr2v7PZE7va2PEGFYoiJVHDU%3D",
+      "entrants": 0,
+      "start_time": 1671148800
+    },
+    {
+      "slug": "tournament/cg-gold-invitational-last-chance-qualifier/event/ec-melee-singles",
+      "tournament_name": "CG Gold Invitational Last Chance Qualifier",
+      "event_name": "EC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498261/image-542ac2ee11e8497bebc0259c10cb8d85.png?ehk=plB0BejFZMXsr36WuG8hFFarDq%2FBol80VC84NA4BVzo%3D&ehkOptimized=CgdCyc5nTJmQ2GfCCfwXr2v7PZE7va2PEGFYoiJVHDU%3D",
+      "entrants": 0,
+      "start_time": 1671307200
+    },
+    {
+      "slug": "tournament/cg-gold-invitational-last-chance-qualifier/event/wc-melee-singles",
+      "tournament_name": "CG Gold Invitational Last Chance Qualifier",
+      "event_name": "WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/498261/image-542ac2ee11e8497bebc0259c10cb8d85.png?ehk=plB0BejFZMXsr36WuG8hFFarDq%2FBol80VC84NA4BVzo%3D&ehkOptimized=CgdCyc5nTJmQ2GfCCfwXr2v7PZE7va2PEGFYoiJVHDU%3D",
+      "entrants": 0,
+      "start_time": 1671318000
+    },
+    {
+      "slug": "tournament/cg-gold-invitational-last-chance-qualifier/event/ec-melee-doubles",
+      "tournament_name": "CG Gold Invitational Last Chance Qualifier",
+      "event_name": "EC Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/498261/image-542ac2ee11e8497bebc0259c10cb8d85.png?ehk=plB0BejFZMXsr36WuG8hFFarDq%2FBol80VC84NA4BVzo%3D&ehkOptimized=CgdCyc5nTJmQ2GfCCfwXr2v7PZE7va2PEGFYoiJVHDU%3D",
+      "entrants": 0,
+      "start_time": 1671494400
+    },
+    {
+      "slug": "tournament/cg-gold-invitational-last-chance-qualifier/event/wc-melee-doubles",
+      "tournament_name": "CG Gold Invitational Last Chance Qualifier",
+      "event_name": "WC Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/498261/image-542ac2ee11e8497bebc0259c10cb8d85.png?ehk=plB0BejFZMXsr36WuG8hFFarDq%2FBol80VC84NA4BVzo%3D&ehkOptimized=CgdCyc5nTJmQ2GfCCfwXr2v7PZE7va2PEGFYoiJVHDU%3D",
+      "entrants": 0,
+      "start_time": 1671505200
     },
     {
       "slug": "tournament/finnish-melee-league-2022-finals/event/fml2022-top-8-final-bracket",
