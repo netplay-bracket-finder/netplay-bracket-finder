@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668753984,
+  "fetched_at": 1668755818,
   "data": [
     {
       "slug": "tournament/the-salad-online-49/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/497206/image-6dbfcd340737a9c4c3b3ed8b19c64313.png?ehk=aZDDlhRZyaQGYNuM%2BGWfJ21M94OalSvkyCwQAXhdl6c%3D&ehkOptimized=KDSxdTjnAqj%2FERKyPF8CGmlTFEKJliqIqSFpgbVQLd8%3D",
       "entrants": 0,
       "start_time": 1668808800
-    },
-    {
-      "slug": "tournament/bb-79-1/event/melee-singles",
-      "tournament_name": "BB 79",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/498467/image-d8708f6188d061727d37dc274c9f2b47.png?ehk=I8YXoWeQ%2Frg8BmVny0OSsxBIbEwW8VYrQgZIji6x2ak%3D&ehkOptimized=lm1TzFazX1w7bu%2BhJAS4vNPA3HvfSNxexsbb2qYjBoo%3D",
-      "entrants": 29,
-      "start_time": 1668754800
     },
     {
       "slug": "tournament/the-legends-tournament-83/event/wavedash-21",
