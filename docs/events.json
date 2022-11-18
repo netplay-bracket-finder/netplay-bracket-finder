@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668814800,
+  "fetched_at": 1668815483,
   "data": [
     {
       "slug": "tournament/the-legends-tournament-83/event/wavedash-21",
@@ -10,17 +10,17 @@
       "start_time": 1668795000
     },
     {
-      "slug": "tournament/kb-classic-43-online/event/melee-singles",
+      "slug": "tournament/kb-classic-43-online/event/kb-ladder",
       "tournament_name": "KB Classic 43 *online*",
-      "event_name": "Melee singles",
+      "event_name": "KB Ladder!",
       "image": "https://images.start.gg/images/tournament/499147/image-7722fdab11213d80b0cb5fbf6475545a.png?ehk=O6H74435apEh6A8fyYuNTwwLcuzSgFc1U%2BO%2FxABXzeg%3D&ehkOptimized=mRZF09AFvRcF6a8onEMSCwNTF2mWs5MLilOKe5BRkoM%3D",
       "entrants": 3,
       "start_time": 1668814200
     },
     {
-      "slug": "tournament/kb-classic-43-online/event/melee-singles-1",
+      "slug": "tournament/kb-classic-43-online/event/melee-singles",
       "tournament_name": "KB Classic 43 *online*",
-      "event_name": "Melee Singles",
+      "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/499147/image-7722fdab11213d80b0cb5fbf6475545a.png?ehk=O6H74435apEh6A8fyYuNTwwLcuzSgFc1U%2BO%2FxABXzeg%3D&ehkOptimized=mRZF09AFvRcF6a8onEMSCwNTF2mWs5MLilOKe5BRkoM%3D",
       "entrants": 0,
       "start_time": 1668814200
@@ -46,7 +46,7 @@
       "tournament_name": "East Coast Fridays #230",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499066/image-a46ff4a8e17a93d520f07b32ea902f74.png?ehk=AOecnshw%2Bn9CiBAJWifK8k%2Bf3X8dJeQ4HsSn5%2Bnxtgc%3D&ehkOptimized=NybHCL7mx4hnczoHM2IgI%2BXTlFg1iui1S5o3HTRfSEY%3D",
-      "entrants": 61,
+      "entrants": 66,
       "start_time": 1668819600
     },
     {
