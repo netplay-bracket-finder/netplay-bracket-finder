@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668791867,
+  "fetched_at": 1668793214,
   "data": [
     {
       "slug": "tournament/the-legends-tournament-83/event/wavedash-21",
       "tournament_name": "The Legends Tournament #83",
       "event_name": "WaveDash #21",
       "image": "https://images.start.gg/images/tournament/497953/image-c53e346ddac09b618b48d3356516cbb2.png?ehk=BptEN%2B1GuD8wkUyMcg7jPNxKt0Kmsj17jJCegqLvt2o%3D&ehkOptimized=LDNgxIQOXNOFjYxROHCNOn8Hr0vbOVOFKtwJ0izoTjQ%3D",
-      "entrants": 17,
+      "entrants": 19,
       "start_time": 1668795000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "East Coast Fridays #230",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499066/image-a46ff4a8e17a93d520f07b32ea902f74.png?ehk=AOecnshw%2Bn9CiBAJWifK8k%2Bf3X8dJeQ4HsSn5%2Bnxtgc%3D&ehkOptimized=NybHCL7mx4hnczoHM2IgI%2BXTlFg1iui1S5o3HTRfSEY%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1668819600
     },
     {
@@ -158,7 +158,7 @@
       "tournament_name": "CASINO ROYALE 2 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/498993/image-2dc995aaabed4be5ad76bef7d8b9b159.png?ehk=Kk2h5DfwYbG3Z%2FIlxiayiNR5aN1iFao0d55k%2BJDALtI%3D&ehkOptimized=%2BjzuAzd7zR247g8hnqA6BP82ODpWBIoT49ArjgIx1YU%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669091400
     },
     {
