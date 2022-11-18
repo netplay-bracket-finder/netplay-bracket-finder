@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668804680,
+  "fetched_at": 1668806175,
   "data": [
     {
       "slug": "tournament/the-legends-tournament-83/event/wavedash-21",
@@ -22,7 +22,7 @@
       "tournament_name": "East Coast Fridays #230",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499066/image-a46ff4a8e17a93d520f07b32ea902f74.png?ehk=AOecnshw%2Bn9CiBAJWifK8k%2Bf3X8dJeQ4HsSn5%2Bnxtgc%3D&ehkOptimized=NybHCL7mx4hnczoHM2IgI%2BXTlFg1iui1S5o3HTRfSEY%3D",
-      "entrants": 19,
+      "entrants": 23,
       "start_time": 1668819600
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "After Dark Melee # 5",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/498874/image-825b16dc567920da201de46f33e1c302.png?ehk=yu0ktQByw39k5cAbKDqjsFI7AnBa9Z4z47IHfmpVXRQ%3D&ehkOptimized=%2FgvNavd4R0%2F8SiyTprVNYC7BAwgfEFpOjJ5Z8xi34Vs%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668888900
     },
     {
@@ -118,7 +118,7 @@
       "tournament_name": "Fight of the Fearless 28",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/498817/image-ccb29776d8e015c08c9a8a4dd6c9e1ef.png?ehk=0ymoCmI6RGAOl3qX0kOkWlyBc7HYUxd0xMlfMpgRi3g%3D&ehkOptimized=5cdgDFxsm%2FoUfzt6Ln3%2F%2F5vUWyqao6PTldgGtfuTafE%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668967200
     },
     {
