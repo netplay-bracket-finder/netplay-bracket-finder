@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668784752,
+  "fetched_at": 1668786101,
   "data": [
     {
       "slug": "tournament/the-legends-tournament-83/event/wavedash-21",
       "tournament_name": "The Legends Tournament #83",
       "event_name": "WaveDash #21",
       "image": "https://images.start.gg/images/tournament/497953/image-c53e346ddac09b618b48d3356516cbb2.png?ehk=BptEN%2B1GuD8wkUyMcg7jPNxKt0Kmsj17jJCegqLvt2o%3D&ehkOptimized=LDNgxIQOXNOFjYxROHCNOn8Hr0vbOVOFKtwJ0izoTjQ%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1668795000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "East Coast Fridays #230",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499066/image-a46ff4a8e17a93d520f07b32ea902f74.png?ehk=AOecnshw%2Bn9CiBAJWifK8k%2Bf3X8dJeQ4HsSn5%2Bnxtgc%3D&ehkOptimized=NybHCL7mx4hnczoHM2IgI%2BXTlFg1iui1S5o3HTRfSEY%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1668819600
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "Level One Melee #53 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/498913/image-9e4f58504a4ce8e5e13445b1932f3d7a.png?ehk=J6ZE%2BtpeBndGPDrHweZbvJu7ylXx47nxljquMo9gD1E%3D&ehkOptimized=0y5%2BSFnk0THOeEfEJ2cns3DnFpwDZc8aBIgmgODz4Rc%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669168800
     },
     {
