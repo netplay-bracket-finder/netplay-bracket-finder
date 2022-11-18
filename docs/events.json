@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668750686,
+  "fetched_at": 1668752636,
   "data": [
     {
       "slug": "tournament/the-salad-online-49/event/melee-singles",
@@ -10,19 +10,11 @@
       "start_time": 1668808800
     },
     {
-      "slug": "tournament/aero-s-arena-18-wc-50-prizepool/event/wc-melee-singles",
-      "tournament_name": "Aero’s Arena #18 WC - $50 Prizepool!",
-      "event_name": "WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/498427/image-8eec84378a82302d5551cfd52f147fbe.jpg?ehk=ASwxHh3PnHCrFAuSExMk4iriPzhTU5JSICdJcjdKM3c%3D&ehkOptimized=pBqh8C%2B6RUAELNy%2BtLhia4TnA0%2B7Y8Tl%2FUJeUsx%2Ff9M%3D",
-      "entrants": 9,
-      "start_time": 1668740400
-    },
-    {
       "slug": "tournament/bb-79-1/event/melee-singles",
       "tournament_name": "BB 79",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498467/image-d8708f6188d061727d37dc274c9f2b47.png?ehk=I8YXoWeQ%2Frg8BmVny0OSsxBIbEwW8VYrQgZIji6x2ak%3D&ehkOptimized=lm1TzFazX1w7bu%2BhJAS4vNPA3HvfSNxexsbb2qYjBoo%3D",
-      "entrants": 21,
+      "entrants": 25,
       "start_time": 1668754800
     },
     {
