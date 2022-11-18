@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668786101,
+  "fetched_at": 1668786766,
   "data": [
     {
       "slug": "tournament/the-legends-tournament-83/event/wavedash-21",
       "tournament_name": "The Legends Tournament #83",
       "event_name": "WaveDash #21",
       "image": "https://images.start.gg/images/tournament/497953/image-c53e346ddac09b618b48d3356516cbb2.png?ehk=BptEN%2B1GuD8wkUyMcg7jPNxKt0Kmsj17jJCegqLvt2o%3D&ehkOptimized=LDNgxIQOXNOFjYxROHCNOn8Hr0vbOVOFKtwJ0izoTjQ%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1668795000
     },
     {
@@ -55,7 +55,7 @@
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/498874/image-825b16dc567920da201de46f33e1c302.png?ehk=yu0ktQByw39k5cAbKDqjsFI7AnBa9Z4z47IHfmpVXRQ%3D&ehkOptimized=%2FgvNavd4R0%2F8SiyTprVNYC7BAwgfEFpOjJ5Z8xi34Vs%3D",
       "entrants": 0,
-      "start_time": 1668892500
+      "start_time": 1668888900
     },
     {
       "slug": "tournament/after-dark-melee-5/event/after-dark-doubles",
@@ -63,7 +63,7 @@
       "event_name": "After Dark Doubles",
       "image": "https://images.start.gg/images/tournament/498874/image-825b16dc567920da201de46f33e1c302.png?ehk=yu0ktQByw39k5cAbKDqjsFI7AnBa9Z4z47IHfmpVXRQ%3D&ehkOptimized=%2FgvNavd4R0%2F8SiyTprVNYC7BAwgfEFpOjJ5Z8xi34Vs%3D",
       "entrants": 0,
-      "start_time": 1668897000
+      "start_time": 1668893400
     },
     {
       "slug": "tournament/explosion-series-2-fox-this-game/event/melee-singles",
