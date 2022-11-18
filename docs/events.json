@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668786766,
+  "fetched_at": 1668788760,
   "data": [
     {
       "slug": "tournament/the-legends-tournament-83/event/wavedash-21",
       "tournament_name": "The Legends Tournament #83",
       "event_name": "WaveDash #21",
       "image": "https://images.start.gg/images/tournament/497953/image-c53e346ddac09b618b48d3356516cbb2.png?ehk=BptEN%2B1GuD8wkUyMcg7jPNxKt0Kmsj17jJCegqLvt2o%3D&ehkOptimized=LDNgxIQOXNOFjYxROHCNOn8Hr0vbOVOFKtwJ0izoTjQ%3D",
-      "entrants": 14,
+      "entrants": 16,
       "start_time": 1668795000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "KOMET VII",
       "event_name": "KOMET Pro League",
       "image": "https://images.start.gg/images/tournament/497355/image-5c60f021a809055fb17116749cdebf24.png?ehk=gVJuIiqeXrrA0uIDxhlvfSNon%2B9yoKmcplfn6KTnqL4%3D&ehkOptimized=%2FJAsqPwWR3PgdzTta%2BaPDV3XbkBI6By%2BZMa6pHVS8a4%3D",
-      "entrants": 15,
+      "entrants": 17,
       "start_time": 1668880800
     },
     {
@@ -222,7 +222,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #40 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498935/image-2d1dc91f092fd33c86084b1ee5391f80.png?ehk=BVllJgNGjyBtq4vzUxbdP7pZHXzVfBosytlzjhKOHfc%3D&ehkOptimized=2JbRyqDpuYp891ruTLGg%2FBFczDoRzc29UkPGpCdJfLI%3D",
-      "entrants": 1,
+      "entrants": 0,
       "start_time": 1669312800
     },
     {
