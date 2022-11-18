@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668759796,
+  "fetched_at": 1668761032,
   "data": [
     {
       "slug": "tournament/the-legends-tournament-83/event/wavedash-21",
@@ -178,6 +178,14 @@
       "start_time": 1669147200
     },
     {
+      "slug": "tournament/sketchy-series-7/event/melee-singles",
+      "tournament_name": "Sketchy Series 7",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/499069/image-44b6014a9ae15e513113e30981a7e1dd.png?ehk=3JSFetTShOK9UwASsO5b%2B1CaRKLX3%2FuFpk0IqsnxYPU%3D&ehkOptimized=0WRETchTBHCmcLLEWacFtjz6FCPO%2B%2FkMVpHDkXV%2BqoA%3D",
+      "entrants": 0,
+      "start_time": 1669161600
+    },
+    {
       "slug": "tournament/dad-s-house-online-2/event/melee-singles",
       "tournament_name": "Dad's House: Online #2",
       "event_name": "Melee Singles",
@@ -214,7 +222,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #40 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498935/image-2d1dc91f092fd33c86084b1ee5391f80.png?ehk=BVllJgNGjyBtq4vzUxbdP7pZHXzVfBosytlzjhKOHfc%3D&ehkOptimized=2JbRyqDpuYp891ruTLGg%2FBFczDoRzc29UkPGpCdJfLI%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669312800
     },
     {
