@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668736052,
+  "fetched_at": 1668741309,
   "data": [
     {
       "slug": "tournament/the-salad-online-49/event/melee-singles",
@@ -10,27 +10,11 @@
       "start_time": 1668808800
     },
     {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-12/event/ssbmr-singles",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #12",
-      "event_name": "SSBMr Singles",
-      "image": "https://images.start.gg/images/tournament/497845/image-e812e84ebdf6e6d50dc2b80f46bcfd3b.png?ehk=xN2HaVqF9MxFZ%2BkSDGUnACZuzVqTtw7NaK8iaGJ9wHc%3D&ehkOptimized=6IGtmdCEumHX7TRJ5rqNwN9aWUJq3A7Jpiwa7fTNP8Q%3D",
-      "entrants": 7,
-      "start_time": 1668729600
-    },
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-12/event/results-data",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #12",
-      "event_name": "Results Data",
-      "image": "https://images.start.gg/images/tournament/497845/image-e812e84ebdf6e6d50dc2b80f46bcfd3b.png?ehk=xN2HaVqF9MxFZ%2BkSDGUnACZuzVqTtw7NaK8iaGJ9wHc%3D&ehkOptimized=6IGtmdCEumHX7TRJ5rqNwN9aWUJq3A7Jpiwa7fTNP8Q%3D",
-      "entrants": 0,
-      "start_time": 1668729600
-    },
-    {
       "slug": "tournament/aero-s-arena-18-wc-50-prizepool/event/wc-melee-singles",
       "tournament_name": "Aero’s Arena #18 WC - $50 Prizepool!",
       "event_name": "WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/498427/image-8eec84378a82302d5551cfd52f147fbe.jpg?ehk=ASwxHh3PnHCrFAuSExMk4iriPzhTU5JSICdJcjdKM3c%3D&ehkOptimized=pBqh8C%2B6RUAELNy%2BtLhia4TnA0%2B7Y8Tl%2FUJeUsx%2Ff9M%3D",
-      "entrants": 6,
+      "entrants": 9,
       "start_time": 1668740400
     },
     {
@@ -38,7 +22,7 @@
       "tournament_name": "BB 79",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498467/image-d8708f6188d061727d37dc274c9f2b47.png?ehk=I8YXoWeQ%2Frg8BmVny0OSsxBIbEwW8VYrQgZIji6x2ak%3D&ehkOptimized=lm1TzFazX1w7bu%2BhJAS4vNPA3HvfSNxexsbb2qYjBoo%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1668754800
     },
     {
@@ -126,7 +110,7 @@
       "tournament_name": "NonOptimal Swiss Bracket",
       "event_name": "Why Press Buttons?",
       "image": "",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668909600
     },
     {
@@ -158,7 +142,7 @@
       "tournament_name": "SB (Slippi Based) Melee #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498775/image-69f7276a69bcce37baebb1cbd8451780.png?ehk=eoF%2BC4U0XmSrpDknK9UIvlTWeJnVvZSNe9wKL4OcDPg%3D&ehkOptimized=VtNNaSInLDNPIfwVdPV1XpfNvJ3Gux4MLLfNPQy%2Bcik%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668999600
     },
     {
