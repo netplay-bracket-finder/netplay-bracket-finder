@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668893852,
+  "fetched_at": 1668894678,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-16/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/499335/image-92c275ff436593b2839e56361303395d.png?ehk=P5uv1foLdY7RfZbOMFjf7guL2RGrkEN8MO1kbqgnUgc%3D&ehkOptimized=fLzyPJTDmOYqklXuObBSn%2BkWZLMngJvssRF4kSXkjWY%3D",
       "entrants": 6,
       "start_time": 1668879000
-    },
-    {
-      "slug": "tournament/explosion-series-2-fox-this-game/event/melee-singles",
-      "tournament_name": "Explosion Series 2: Fox This Game",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/497427/image-086d8784feceb5b0b0071f66e40d27ce.png?ehk=%2BuDl9a8M6pveNS%2FWUmKEYVZ8IAQ23uV2j%2F%2F0sEScZ5c%3D&ehkOptimized=I9zntUVt2rnoieVtXY3HV8kYMZigjnMVcC6vSM%2BB3Ts%3D",
-      "entrants": 8,
-      "start_time": 1668895200
     },
     {
       "slug": "tournament/pacific-northwest-online/event/melee-singles",
