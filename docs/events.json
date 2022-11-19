@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668889113,
+  "fetched_at": 1668890371,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-16/event/melee-singles",
@@ -46,7 +46,7 @@
       "tournament_name": "Legs' Le Tournament #57",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499345/image-721d4f19f3d05f6483c7ca4593a485d1.png?ehk=1fVFRQlvSj6jgAde4sZ4%2FlWeNfqL0SX6pQFxb9zGIl4%3D&ehkOptimized=r5xj%2FHRvSXhuc47zS9BsNZLJhZmHyqNNTwnBH8Buy%2B8%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1668895200
     },
     {
@@ -58,11 +58,19 @@
       "start_time": 1668898800
     },
     {
+      "slug": "tournament/sober-saturday-118/event/melee-singles",
+      "tournament_name": "Sober Saturday #118",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/499399/image-fade8bf98614547a48db9a4503bfc1dd.jpg?ehk=%2FF9bis3ftBxd6x%2BIjON2tsmI91clU2xeNInmVjm5Ui0%3D&ehkOptimized=VsHWaEIMuAGAY95rU6JKF7FkNdBcaX20vJ%2B0831qSJA%3D",
+      "entrants": 3,
+      "start_time": 1668906000
+    },
+    {
       "slug": "tournament/nonoptimal-swiss-bracket/event/why-press-buttons",
       "tournament_name": "NonOptimal Swiss Bracket",
       "event_name": "Why Press Buttons?",
       "image": "",
-      "entrants": 5,
+      "entrants": 1,
       "start_time": 1668909600
     },
     {
@@ -286,7 +294,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "EU Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1669550400
     },
     {
