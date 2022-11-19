@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668865887,
+  "fetched_at": 1668867330,
   "data": [
     {
       "slug": "tournament/51-ms-acte-5/event/bracket",
       "tournament_name": "51 ms - Acte 5",
       "event_name": "Bracket",
       "image": "https://images.start.gg/images/tournament/499336/image-c1b1f923bbbf36f395a22422e9a6dff4.jpg?ehk=h%2BDFaYjyhhP9CbOiMe5yDJ%2BGfJBZG%2B%2B6o2YGX9vqCZY%3D&ehkOptimized=degeqXp9NxM743AOssUmnJbGQy6pXNDN2C7Edq7r3zQ%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1668870000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "KOMET VII",
       "event_name": "KOMET Pro League",
       "image": "https://images.start.gg/images/tournament/497355/image-5c60f021a809055fb17116749cdebf24.png?ehk=gVJuIiqeXrrA0uIDxhlvfSNon%2B9yoKmcplfn6KTnqL4%3D&ehkOptimized=%2FJAsqPwWR3PgdzTta%2BaPDV3XbkBI6By%2BZMa6pHVS8a4%3D",
-      "entrants": 26,
+      "entrants": 27,
       "start_time": 1668880800
     },
     {
@@ -71,6 +71,14 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498715/image-7ee4397b7bee93ecdd39ee23d500e6a1.png?ehk=41ppt0fugDYn2Dv2yZDDpvukFmaJSUn9ztzT0bPPvfM%3D&ehkOptimized=PKtL8it6ygPvuRP11no4Lp8jjg5gKQx7RKiakzB6O5A%3D",
       "entrants": 4,
+      "start_time": 1668895200
+    },
+    {
+      "slug": "tournament/legs-le-tournament-57/event/melee-singles",
+      "tournament_name": "Legs' Le Tournament #57",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/499345/image-721d4f19f3d05f6483c7ca4593a485d1.png?ehk=1fVFRQlvSj6jgAde4sZ4%2FlWeNfqL0SX6pQFxb9zGIl4%3D&ehkOptimized=r5xj%2FHRvSXhuc47zS9BsNZLJhZmHyqNNTwnBH8Buy%2B8%3D",
+      "entrants": 1,
       "start_time": 1668895200
     },
     {
@@ -286,7 +294,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "EU Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1669550400
     },
     {
