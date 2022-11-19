@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668871087,
+  "fetched_at": 1668872416,
   "data": [
     {
       "slug": "tournament/komet-vii/event/komet-pro-league",
@@ -104,6 +104,14 @@
       "image": "https://images.start.gg/images/tournament/498796/image-30152bc186270af3af730b46a99064f8.png?ehk=yAQPHChzPaVjpAaM%2BCQZYptqL0SEc1cN%2B8C%2F2U5Rdi4%3D&ehkOptimized=ZofsF8mv5OYNOW7aVkkGaDKDJ1aDcfpnrm%2FsKsdyzP4%3D",
       "entrants": 0,
       "start_time": 1668990600
+    },
+    {
+      "slug": "tournament/stellar-showdown-17-solar-circuit-qualifier/event/melee-singles",
+      "tournament_name": "Stellar Showdown #17 (Solar Circuit Qualifier)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/499352/image-1ac8b43f23b1cf3396db5847380b1a61.png?ehk=TJb2XOfxgxZj01xWmSYc%2BJJR1io3Ry1kF98GsAK8OH0%3D&ehkOptimized=Aj8REg7SalLNK%2BFXMolnIrDFzLymVRRpatIyPKpbMWY%3D",
+      "entrants": 0,
+      "start_time": 1668992400
     },
     {
       "slug": "tournament/sb-slippi-based-melee-1/event/melee-singles",
