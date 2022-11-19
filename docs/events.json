@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668892537,
+  "fetched_at": 1668893852,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-16/event/melee-singles",
@@ -10,27 +10,11 @@
       "start_time": 1668879000
     },
     {
-      "slug": "tournament/after-dark-melee-5/event/after-dark-singles",
-      "tournament_name": "After Dark Melee # 5",
-      "event_name": "After Dark Singles",
-      "image": "https://images.start.gg/images/tournament/498874/image-825b16dc567920da201de46f33e1c302.png?ehk=yu0ktQByw39k5cAbKDqjsFI7AnBa9Z4z47IHfmpVXRQ%3D&ehkOptimized=%2FgvNavd4R0%2F8SiyTprVNYC7BAwgfEFpOjJ5Z8xi34Vs%3D",
-      "entrants": 13,
-      "start_time": 1668888900
-    },
-    {
-      "slug": "tournament/after-dark-melee-5/event/after-dark-doubles",
-      "tournament_name": "After Dark Melee # 5",
-      "event_name": "After Dark Doubles",
-      "image": "https://images.start.gg/images/tournament/498874/image-825b16dc567920da201de46f33e1c302.png?ehk=yu0ktQByw39k5cAbKDqjsFI7AnBa9Z4z47IHfmpVXRQ%3D&ehkOptimized=%2FgvNavd4R0%2F8SiyTprVNYC7BAwgfEFpOjJ5Z8xi34Vs%3D",
-      "entrants": 5,
-      "start_time": 1668893400
-    },
-    {
       "slug": "tournament/explosion-series-2-fox-this-game/event/melee-singles",
       "tournament_name": "Explosion Series 2: Fox This Game",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497427/image-086d8784feceb5b0b0071f66e40d27ce.png?ehk=%2BuDl9a8M6pveNS%2FWUmKEYVZ8IAQ23uV2j%2F%2F0sEScZ5c%3D&ehkOptimized=I9zntUVt2rnoieVtXY3HV8kYMZigjnMVcC6vSM%2BB3Ts%3D",
-      "entrants": 6,
+      "entrants": 8,
       "start_time": 1668895200
     },
     {
@@ -42,19 +26,11 @@
       "start_time": 1668895200
     },
     {
-      "slug": "tournament/legs-le-tournament-57/event/melee-singles",
-      "tournament_name": "Legs' Le Tournament #57",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/499345/image-721d4f19f3d05f6483c7ca4593a485d1.png?ehk=1fVFRQlvSj6jgAde4sZ4%2FlWeNfqL0SX6pQFxb9zGIl4%3D&ehkOptimized=r5xj%2FHRvSXhuc47zS9BsNZLJhZmHyqNNTwnBH8Buy%2B8%3D",
-      "entrants": 19,
-      "start_time": 1668895200
-    },
-    {
       "slug": "tournament/andrenaleague-16/event/melee-singles",
       "tournament_name": "Andrenaleague 16",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495842/image-0584c4f0bbf442e2d6c023bbe491ece1.png?ehk=2y0xTXaOg0XvL2FDN%2FF6ES9FO17tAgYvsrOK8enunZA%3D&ehkOptimized=164LekSI5GU5fRVH1Nj5jRmoQ1hJCpoQtkKtuS185vo%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1668898800
     },
     {
@@ -62,7 +38,7 @@
       "tournament_name": "Sober Saturday #118",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499399/image-fade8bf98614547a48db9a4503bfc1dd.jpg?ehk=%2FF9bis3ftBxd6x%2BIjON2tsmI91clU2xeNInmVjm5Ui0%3D&ehkOptimized=VsHWaEIMuAGAY95rU6JKF7FkNdBcaX20vJ%2B0831qSJA%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1668906000
     },
     {
@@ -216,6 +192,14 @@
       "image": "https://images.start.gg/images/tournament/498913/image-9e4f58504a4ce8e5e13445b1932f3d7a.png?ehk=J6ZE%2BtpeBndGPDrHweZbvJu7ylXx47nxljquMo9gD1E%3D&ehkOptimized=0y5%2BSFnk0THOeEfEJ2cns3DnFpwDZc8aBIgmgODz4Rc%3D",
       "entrants": 0,
       "start_time": 1669168800
+    },
+    {
+      "slug": "tournament/waddle-wednesday-46/event/melee-singles",
+      "tournament_name": "Waddle Wednesday 46",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/499404/image-1cab3940798aecd41695cd15f3abfbfb.png?ehk=1N%2BPfqtYOrT496IsQMuGWQz4AEUCbButXTheRajPq30%3D&ehkOptimized=CwQqpuecFJ1vd%2BcsFDCcuuU2CDzCMYmn7d%2FCsMj%2BXrE%3D",
+      "entrants": 0,
+      "start_time": 1669251600
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-40-eu-event/event/melee-singles",
