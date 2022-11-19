@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668878145,
+  "fetched_at": 1668879497,
   "data": [
     {
       "slug": "tournament/komet-vii/event/komet-pro-league",
       "tournament_name": "KOMET VII",
       "event_name": "KOMET Pro League",
       "image": "https://images.start.gg/images/tournament/497355/image-5c60f021a809055fb17116749cdebf24.png?ehk=gVJuIiqeXrrA0uIDxhlvfSNon%2B9yoKmcplfn6KTnqL4%3D&ehkOptimized=%2FJAsqPwWR3PgdzTta%2BaPDV3XbkBI6By%2BZMa6pHVS8a4%3D",
-      "entrants": 30,
+      "entrants": 33,
       "start_time": 1668880800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Multi Melee Masters #2 - €50 Pot Bonus!",
       "event_name": "Multi Melee Singles",
       "image": "https://images.start.gg/images/tournament/490451/image-7f80cc12fd5555cebe7111dd7a0eb2e2.png?ehk=Vayg6F3aJyDSuHqkT0bEpKhT2tEj7dD4rJgiGjh68AI%3D&ehkOptimized=2qf7%2F%2Bhb5jlM8r02%2BQlQRohn7aeHs14Fc%2FQntraIEYE%3D",
-      "entrants": 20,
+      "entrants": 24,
       "start_time": 1668880800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "After Dark Melee # 5",
       "event_name": "After Dark Doubles",
       "image": "https://images.start.gg/images/tournament/498874/image-825b16dc567920da201de46f33e1c302.png?ehk=yu0ktQByw39k5cAbKDqjsFI7AnBa9Z4z47IHfmpVXRQ%3D&ehkOptimized=%2FgvNavd4R0%2F8SiyTprVNYC7BAwgfEFpOjJ5Z8xi34Vs%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668893400
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Legs' Le Tournament #57",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499345/image-721d4f19f3d05f6483c7ca4593a485d1.png?ehk=1fVFRQlvSj6jgAde4sZ4%2FlWeNfqL0SX6pQFxb9zGIl4%3D&ehkOptimized=r5xj%2FHRvSXhuc47zS9BsNZLJhZmHyqNNTwnBH8Buy%2B8%3D",
-      "entrants": 3,
+      "entrants": 6,
       "start_time": 1668895200
     },
     {
