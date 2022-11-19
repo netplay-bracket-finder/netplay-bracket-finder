@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668897584,
+  "fetched_at": 1668898278,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-16/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/499335/image-92c275ff436593b2839e56361303395d.png?ehk=P5uv1foLdY7RfZbOMFjf7guL2RGrkEN8MO1kbqgnUgc%3D&ehkOptimized=fLzyPJTDmOYqklXuObBSn%2BkWZLMngJvssRF4kSXkjWY%3D",
       "entrants": 6,
       "start_time": 1668879000
-    },
-    {
-      "slug": "tournament/andrenaleague-16/event/melee-singles",
-      "tournament_name": "Andrenaleague 16",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/495842/image-0584c4f0bbf442e2d6c023bbe491ece1.png?ehk=2y0xTXaOg0XvL2FDN%2FF6ES9FO17tAgYvsrOK8enunZA%3D&ehkOptimized=164LekSI5GU5fRVH1Nj5jRmoQ1hJCpoQtkKtuS185vo%3D",
-      "entrants": 8,
-      "start_time": 1668898800
     },
     {
       "slug": "tournament/sober-saturday-118/event/melee-singles",
