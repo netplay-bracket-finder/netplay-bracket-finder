@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668822148,
+  "fetched_at": 1668826956,
   "data": [
     {
       "slug": "tournament/the-legends-tournament-83/event/wavedash-21",
@@ -8,30 +8,6 @@
       "image": "https://images.start.gg/images/tournament/497953/image-c53e346ddac09b618b48d3356516cbb2.png?ehk=BptEN%2B1GuD8wkUyMcg7jPNxKt0Kmsj17jJCegqLvt2o%3D&ehkOptimized=LDNgxIQOXNOFjYxROHCNOn8Hr0vbOVOFKtwJ0izoTjQ%3D",
       "entrants": 20,
       "start_time": 1668795000
-    },
-    {
-      "slug": "tournament/kb-classic-43-online/event/kb-ladder",
-      "tournament_name": "KB Classic 43 *online*",
-      "event_name": "KB Ladder!",
-      "image": "https://images.start.gg/images/tournament/499147/image-7722fdab11213d80b0cb5fbf6475545a.png?ehk=O6H74435apEh6A8fyYuNTwwLcuzSgFc1U%2BO%2FxABXzeg%3D&ehkOptimized=mRZF09AFvRcF6a8onEMSCwNTF2mWs5MLilOKe5BRkoM%3D",
-      "entrants": 4,
-      "start_time": 1668814200
-    },
-    {
-      "slug": "tournament/kb-classic-43-online/event/melee-singles",
-      "tournament_name": "KB Classic 43 *online*",
-      "event_name": "Melee singles",
-      "image": "https://images.start.gg/images/tournament/499147/image-7722fdab11213d80b0cb5fbf6475545a.png?ehk=O6H74435apEh6A8fyYuNTwwLcuzSgFc1U%2BO%2FxABXzeg%3D&ehkOptimized=mRZF09AFvRcF6a8onEMSCwNTF2mWs5MLilOKe5BRkoM%3D",
-      "entrants": 0,
-      "start_time": 1668814200
-    },
-    {
-      "slug": "tournament/kb-classic-43-online/event/ammy",
-      "tournament_name": "KB Classic 43 *online*",
-      "event_name": "Ammy",
-      "image": "https://images.start.gg/images/tournament/499147/image-7722fdab11213d80b0cb5fbf6475545a.png?ehk=O6H74435apEh6A8fyYuNTwwLcuzSgFc1U%2BO%2FxABXzeg%3D&ehkOptimized=mRZF09AFvRcF6a8onEMSCwNTF2mWs5MLilOKe5BRkoM%3D",
-      "entrants": 2,
-      "start_time": 1668826800
     },
     {
       "slug": "tournament/kanon-shibuya-s-showdown-love-live-x-smash-bros-3rd/event/melee-singles",
