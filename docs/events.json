@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668815483,
+  "fetched_at": 1668822148,
   "data": [
     {
       "slug": "tournament/the-legends-tournament-83/event/wavedash-21",
@@ -14,7 +14,7 @@
       "tournament_name": "KB Classic 43 *online*",
       "event_name": "KB Ladder!",
       "image": "https://images.start.gg/images/tournament/499147/image-7722fdab11213d80b0cb5fbf6475545a.png?ehk=O6H74435apEh6A8fyYuNTwwLcuzSgFc1U%2BO%2FxABXzeg%3D&ehkOptimized=mRZF09AFvRcF6a8onEMSCwNTF2mWs5MLilOKe5BRkoM%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1668814200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "KB Classic 43 *online*",
       "event_name": "Ammy",
       "image": "https://images.start.gg/images/tournament/499147/image-7722fdab11213d80b0cb5fbf6475545a.png?ehk=O6H74435apEh6A8fyYuNTwwLcuzSgFc1U%2BO%2FxABXzeg%3D&ehkOptimized=mRZF09AFvRcF6a8onEMSCwNTF2mWs5MLilOKe5BRkoM%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668826800
     },
     {
@@ -46,15 +46,7 @@
       "tournament_name": "East Coast Fridays #230",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499066/image-a46ff4a8e17a93d520f07b32ea902f74.png?ehk=AOecnshw%2Bn9CiBAJWifK8k%2Bf3X8dJeQ4HsSn5%2Bnxtgc%3D&ehkOptimized=NybHCL7mx4hnczoHM2IgI%2BXTlFg1iui1S5o3HTRfSEY%3D",
-      "entrants": 66,
-      "start_time": 1668819600
-    },
-    {
-      "slug": "tournament/fgc-friday-17-solar-circuit-qualifier/event/melee-singles",
-      "tournament_name": "FGC Friday #17 (Solar Circuit Qualifier)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/498939/image-b04b94a9d52fc90d8d106ae425b8c3db.png?ehk=xOJISGR9JUl1h20OYowyKqOyZduseLXobYDIUMpx1DM%3D&ehkOptimized=2n0FVjEqKD9hvp9R0aVYVCV0vmzBVDqQYvD7AMNVeA8%3D",
-      "entrants": 0,
+      "entrants": 80,
       "start_time": 1668819600
     },
     {
@@ -70,7 +62,7 @@
       "tournament_name": "KOMET VII",
       "event_name": "KOMET Pro League",
       "image": "https://images.start.gg/images/tournament/497355/image-5c60f021a809055fb17116749cdebf24.png?ehk=gVJuIiqeXrrA0uIDxhlvfSNon%2B9yoKmcplfn6KTnqL4%3D&ehkOptimized=%2FJAsqPwWR3PgdzTta%2BaPDV3XbkBI6By%2BZMa6pHVS8a4%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1668880800
     },
     {
@@ -78,7 +70,7 @@
       "tournament_name": "Multi Melee Masters #2 - €50 Pot Bonus!",
       "event_name": "Multi Melee Singles",
       "image": "https://images.start.gg/images/tournament/490451/image-7f80cc12fd5555cebe7111dd7a0eb2e2.png?ehk=Vayg6F3aJyDSuHqkT0bEpKhT2tEj7dD4rJgiGjh68AI%3D&ehkOptimized=2qf7%2F%2Bhb5jlM8r02%2BQlQRohn7aeHs14Fc%2FQntraIEYE%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1668880800
     },
     {
@@ -126,7 +118,7 @@
       "tournament_name": "NonOptimal Swiss Bracket",
       "event_name": "Why Press Buttons?",
       "image": "",
-      "entrants": 1,
+      "entrants": 5,
       "start_time": 1668909600
     },
     {
@@ -294,7 +286,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 47,
+      "entrants": 48,
       "start_time": 1669482000
     },
     {
