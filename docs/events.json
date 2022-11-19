@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668894678,
+  "fetched_at": 1668896233,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-16/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/499335/image-92c275ff436593b2839e56361303395d.png?ehk=P5uv1foLdY7RfZbOMFjf7guL2RGrkEN8MO1kbqgnUgc%3D&ehkOptimized=fLzyPJTDmOYqklXuObBSn%2BkWZLMngJvssRF4kSXkjWY%3D",
       "entrants": 6,
       "start_time": 1668879000
-    },
-    {
-      "slug": "tournament/pacific-northwest-online/event/melee-singles",
-      "tournament_name": "Pacific Northwest Online",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/498715/image-7ee4397b7bee93ecdd39ee23d500e6a1.png?ehk=41ppt0fugDYn2Dv2yZDDpvukFmaJSUn9ztzT0bPPvfM%3D&ehkOptimized=PKtL8it6ygPvuRP11no4Lp8jjg5gKQx7RKiakzB6O5A%3D",
-      "entrants": 5,
-      "start_time": 1668895200
     },
     {
       "slug": "tournament/andrenaleague-16/event/melee-singles",
