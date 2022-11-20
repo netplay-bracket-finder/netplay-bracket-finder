@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668981086,
+  "fetched_at": 1668982607,
   "data": [
     {
       "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
@@ -10,19 +10,11 @@
       "start_time": 1668988800
     },
     {
-      "slug": "tournament/the-dojo-32/event/melee-singles",
-      "tournament_name": "The Dojo #32",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/499498/image-1db69f9c370371773445c980789bfb64.png?ehk=SUoqA99CeGdlqY9Ipj8VHohbvFjk%2B6X6WBk0JUfASzM%3D&ehkOptimized=RY5RZJPpZBbKg2QnF2aKwHDA5NiACPMNhxPiTnpillk%3D",
-      "entrants": 2,
-      "start_time": 1668981600
-    },
-    {
       "slug": "tournament/scss-east-coast-95/event/melee-singles",
       "tournament_name": "SCSS East Coast #95",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499374/image-6f8cc0517a1493c394a25adf70fd00f4.png?ehk=72qXp5pP%2BMvSQ3SSuUAX0ChVsU4aY24HXpWnK4dTEAo%3D&ehkOptimized=pz8KWnC%2FMhBbw36Fwgqx5BoFzobfJMtmtufsSlw0Ebc%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1668990600
     },
     {
@@ -30,7 +22,7 @@
       "tournament_name": "NEW Sizzling Sundays #4",
       "event_name": "BONUS STAGES melee singles",
       "image": "https://images.start.gg/images/tournament/498796/image-30152bc186270af3af730b46a99064f8.png?ehk=yAQPHChzPaVjpAaM%2BCQZYptqL0SEc1cN%2B8C%2F2U5Rdi4%3D&ehkOptimized=ZofsF8mv5OYNOW7aVkkGaDKDJ1aDcfpnrm%2FsKsdyzP4%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668990600
     },
     {
@@ -120,6 +112,14 @@
       "image": "https://images.start.gg/images/tournament/498483/image-7879570d63239849ecaae8d4fbf0666b.png?ehk=khu0TXv%2FDt72x%2FEuU6tNZuOxWmOKGSgJcBsyTO2Sotc%3D&ehkOptimized=Ox9MR9jRWqNZMfzmbtC4fgZKgzH4hTxxVY0XY5QalKI%3D",
       "entrants": 6,
       "start_time": 1669107600
+    },
+    {
+      "slug": "tournament/tuesday-night-fever-7/event/melee-singles",
+      "tournament_name": "Tuesday Night Fever #7",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/499616/image-2a1fe7c2705a0557cfc75e9fe85da4ff.png?ehk=Xz%2BqGszKEQAr1TsjKQpYsW5ypIaPtRvmBTgqXWNkcUs%3D&ehkOptimized=jx8FZOorbj1WADXrWoN8liePoGhBzETtdBrCMh5hcP8%3D",
+      "entrants": 0,
+      "start_time": 1669143600
     },
     {
       "slug": "tournament/melee-delaware-smash-2/event/melee-ds-1v1",
