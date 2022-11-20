@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668982607,
+  "fetched_at": 1668983977,
   "data": [
     {
       "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
@@ -14,7 +14,7 @@
       "tournament_name": "SCSS East Coast #95",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499374/image-6f8cc0517a1493c394a25adf70fd00f4.png?ehk=72qXp5pP%2BMvSQ3SSuUAX0ChVsU4aY24HXpWnK4dTEAo%3D&ehkOptimized=pz8KWnC%2FMhBbw36Fwgqx5BoFzobfJMtmtufsSlw0Ebc%3D",
-      "entrants": 13,
+      "entrants": 17,
       "start_time": 1668990600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "No Melee on Sundays 18",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499591/image-b8bb9827817a94e48675b6ad03fd5819.png?ehk=N6sxgCr6RKsu%2BPcV9C9HLZgMbpIX0GFBEJcUEQijee8%3D&ehkOptimized=XCdu8I0MXsfK3%2FILptej4Eu%2FcBuid4RLA%2Fa%2BVWGiPQk%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1668992400
     },
     {
@@ -56,6 +56,14 @@
       "image": "https://images.start.gg/images/tournament/498775/image-69f7276a69bcce37baebb1cbd8451780.png?ehk=eoF%2BC4U0XmSrpDknK9UIvlTWeJnVvZSNe9wKL4OcDPg%3D&ehkOptimized=VtNNaSInLDNPIfwVdPV1XpfNvJ3Gux4MLLfNPQy%2Bcik%3D",
       "entrants": 3,
       "start_time": 1668999600
+    },
+    {
+      "slug": "tournament/monday-night-mixup-39/event/melee-singles",
+      "tournament_name": "Monday Night Mixup #39",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/499638/image-511d4ac1011a06f370106e68f3f7a7f6.png?ehk=EUPrncL4KIXrq68wjEERy9rP6aTGkjYKflVMrH7dCT4%3D&ehkOptimized=i47FkmsZdovCZZCZecwXKdjKU80DDoOkDsZB%2FeJRVK4%3D",
+      "entrants": 0,
+      "start_time": 1669057200
     },
     {
       "slug": "tournament/slippi-sauce-75/event/melee-singles",
