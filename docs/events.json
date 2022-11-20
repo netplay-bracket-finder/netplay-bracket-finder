@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668901873,
+  "fetched_at": 1668908899,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-16/event/melee-singles",
@@ -8,22 +8,6 @@
       "image": "https://images.start.gg/images/tournament/499335/image-92c275ff436593b2839e56361303395d.png?ehk=P5uv1foLdY7RfZbOMFjf7guL2RGrkEN8MO1kbqgnUgc%3D&ehkOptimized=fLzyPJTDmOYqklXuObBSn%2BkWZLMngJvssRF4kSXkjWY%3D",
       "entrants": 6,
       "start_time": 1668879000
-    },
-    {
-      "slug": "tournament/sober-saturday-118/event/melee-singles",
-      "tournament_name": "Sober Saturday #118",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/499399/image-fade8bf98614547a48db9a4503bfc1dd.jpg?ehk=%2FF9bis3ftBxd6x%2BIjON2tsmI91clU2xeNInmVjm5Ui0%3D&ehkOptimized=VsHWaEIMuAGAY95rU6JKF7FkNdBcaX20vJ%2B0831qSJA%3D",
-      "entrants": 8,
-      "start_time": 1668906000
-    },
-    {
-      "slug": "tournament/nonoptimal-swiss-bracket/event/why-press-buttons",
-      "tournament_name": "NonOptimal Swiss Bracket",
-      "event_name": "Why Press Buttons?",
-      "image": "",
-      "entrants": 1,
-      "start_time": 1668909600
     },
     {
       "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
@@ -70,7 +54,7 @@
       "tournament_name": "SCSS West Coast #84",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499375/image-05f2d14a4ba3f0c62bfd860fd3e8d276.png?ehk=1Lwuwozrmvstc6v7%2BHIJdc7LVsst2tRGWVh3z5GanQU%3D&ehkOptimized=VZE8j5sY%2Bjq5zQNw%2FwPQR5glMf75rwjokBgbLVKHYMU%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668994200
     },
     {
@@ -78,7 +62,7 @@
       "tournament_name": "SB (Slippi Based) Melee #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498775/image-69f7276a69bcce37baebb1cbd8451780.png?ehk=eoF%2BC4U0XmSrpDknK9UIvlTWeJnVvZSNe9wKL4OcDPg%3D&ehkOptimized=VtNNaSInLDNPIfwVdPV1XpfNvJ3Gux4MLLfNPQy%2Bcik%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1668999600
     },
     {
@@ -222,7 +206,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 49,
+      "entrants": 51,
       "start_time": 1669482000
     },
     {
