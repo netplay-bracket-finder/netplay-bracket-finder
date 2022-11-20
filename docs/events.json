@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1668986351,
+  "fetched_at": 1668987620,
   "data": [
     {
       "slug": "tournament/amsa-celebration-bracket-2/event/melee-singles",
       "tournament_name": "aMSa Celebration Bracket 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499409/image-32f8154550b2967ee3df842a48fb311c.png?ehk=56cf5%2FxQTfKmvwMJLfB6nDIhANYShklwWkZZxX%2FC%2Buw%3D&ehkOptimized=ig2gvmJ18SfbfRlZAPMifdtkRqsba2DrYouud9zYVHo%3D",
-      "entrants": 9,
+      "entrants": 14,
       "start_time": 1668988800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "SCSS East Coast #95",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499374/image-6f8cc0517a1493c394a25adf70fd00f4.png?ehk=72qXp5pP%2BMvSQ3SSuUAX0ChVsU4aY24HXpWnK4dTEAo%3D&ehkOptimized=pz8KWnC%2FMhBbw36Fwgqx5BoFzobfJMtmtufsSlw0Ebc%3D",
-      "entrants": 23,
+      "entrants": 28,
       "start_time": 1668990600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Stellar Showdown #17 (Solar Circuit Qualifier)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499352/image-1ac8b43f23b1cf3396db5847380b1a61.png?ehk=TJb2XOfxgxZj01xWmSYc%2BJJR1io3Ry1kF98GsAK8OH0%3D&ehkOptimized=Aj8REg7SalLNK%2BFXMolnIrDFzLymVRRpatIyPKpbMWY%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668992400
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "SCSS West Coast #84",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499375/image-05f2d14a4ba3f0c62bfd860fd3e8d276.png?ehk=1Lwuwozrmvstc6v7%2BHIJdc7LVsst2tRGWVh3z5GanQU%3D&ehkOptimized=VZE8j5sY%2Bjq5zQNw%2FwPQR5glMf75rwjokBgbLVKHYMU%3D",
-      "entrants": 6,
+      "entrants": 8,
       "start_time": 1668994200
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Monday Night Mixup #39",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499638/image-511d4ac1011a06f370106e68f3f7a7f6.png?ehk=EUPrncL4KIXrq68wjEERy9rP6aTGkjYKflVMrH7dCT4%3D&ehkOptimized=i47FkmsZdovCZZCZecwXKdjKU80DDoOkDsZB%2FeJRVK4%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669057200
     },
     {
