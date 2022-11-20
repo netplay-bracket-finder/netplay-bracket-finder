@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668983977,
+  "fetched_at": 1668984676,
   "data": [
     {
       "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
@@ -10,11 +10,19 @@
       "start_time": 1668988800
     },
     {
+      "slug": "tournament/amsa-celebration-bracket-2/event/melee-singles",
+      "tournament_name": "aMSa Celebration Bracket 2",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/499409/image-32f8154550b2967ee3df842a48fb311c.png?ehk=56cf5%2FxQTfKmvwMJLfB6nDIhANYShklwWkZZxX%2FC%2Buw%3D&ehkOptimized=ig2gvmJ18SfbfRlZAPMifdtkRqsba2DrYouud9zYVHo%3D",
+      "entrants": 7,
+      "start_time": 1668988800
+    },
+    {
       "slug": "tournament/scss-east-coast-95/event/melee-singles",
       "tournament_name": "SCSS East Coast #95",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499374/image-6f8cc0517a1493c394a25adf70fd00f4.png?ehk=72qXp5pP%2BMvSQ3SSuUAX0ChVsU4aY24HXpWnK4dTEAo%3D&ehkOptimized=pz8KWnC%2FMhBbw36Fwgqx5BoFzobfJMtmtufsSlw0Ebc%3D",
-      "entrants": 17,
+      "entrants": 20,
       "start_time": 1668990600
     },
     {
@@ -78,7 +86,7 @@
       "tournament_name": "Pino's Tired of 0-2 #99!!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/499600/image-c9ffe392753b07286b6c15f3bb7d99d6.jpg?ehk=fKi%2BrKNw%2FoF5MQVwwrqijH7esHgP6CLKCpHykHpPLwo%3D&ehkOptimized=wKtFIq2CjDseQp%2FYEdVkvt5zrXnGEgQK6UDKW1fsFJ8%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1669071600
     },
     {
