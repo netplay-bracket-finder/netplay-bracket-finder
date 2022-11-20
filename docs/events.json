@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668966687,
+  "fetched_at": 1668968489,
   "data": [
     {
       "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/495394/image-fd79d4ec163b4739409eef0d5d2b5135.png?ehk=6BLadgbRonHOuUmMdFfCzNSPoPY%2FMM6V4ubBafWNqKU%3D&ehkOptimized=Fs10UPrCu%2B0qQTR8BDaDcFr7KdgRiDU29rP7WCCUY%2F4%3D",
       "entrants": 3,
       "start_time": 1668988800
-    },
-    {
-      "slug": "tournament/fight-of-the-fearless-28/event/fight-of-the-fearless-single",
-      "tournament_name": "Fight of the Fearless 28",
-      "event_name": "Fight Of The Fearless single",
-      "image": "https://images.start.gg/images/tournament/498817/image-ccb29776d8e015c08c9a8a4dd6c9e1ef.png?ehk=0ymoCmI6RGAOl3qX0kOkWlyBc7HYUxd0xMlfMpgRi3g%3D&ehkOptimized=5cdgDFxsm%2FoUfzt6Ln3%2F%2F5vUWyqao6PTldgGtfuTafE%3D",
-      "entrants": 23,
-      "start_time": 1668967200
     },
     {
       "slug": "tournament/the-dojo-32/event/melee-singles",
@@ -190,7 +182,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #40 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498935/image-2d1dc91f092fd33c86084b1ee5391f80.png?ehk=BVllJgNGjyBtq4vzUxbdP7pZHXzVfBosytlzjhKOHfc%3D&ehkOptimized=2JbRyqDpuYp891ruTLGg%2FBFczDoRzc29UkPGpCdJfLI%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669312800
     },
     {
