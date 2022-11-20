@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668973875,
+  "fetched_at": 1668975510,
   "data": [
     {
       "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
@@ -22,7 +22,7 @@
       "tournament_name": "SCSS East Coast #95",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499374/image-6f8cc0517a1493c394a25adf70fd00f4.png?ehk=72qXp5pP%2BMvSQ3SSuUAX0ChVsU4aY24HXpWnK4dTEAo%3D&ehkOptimized=pz8KWnC%2FMhBbw36Fwgqx5BoFzobfJMtmtufsSlw0Ebc%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1668990600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "NEW Sizzling Sundays #4",
       "event_name": "BONUS STAGES melee singles",
       "image": "https://images.start.gg/images/tournament/498796/image-30152bc186270af3af730b46a99064f8.png?ehk=yAQPHChzPaVjpAaM%2BCQZYptqL0SEc1cN%2B8C%2F2U5Rdi4%3D&ehkOptimized=ZofsF8mv5OYNOW7aVkkGaDKDJ1aDcfpnrm%2FsKsdyzP4%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1668990600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "No Melee on Sundays 18",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499591/image-b8bb9827817a94e48675b6ad03fd5819.png?ehk=N6sxgCr6RKsu%2BPcV9C9HLZgMbpIX0GFBEJcUEQijee8%3D&ehkOptimized=XCdu8I0MXsfK3%2FILptej4Eu%2FcBuid4RLA%2Fa%2BVWGiPQk%3D",
-      "entrants": 0,
+      "entrants": 2,
       "start_time": 1668992400
     },
     {
@@ -166,7 +166,7 @@
       "tournament_name": "Level One Melee #53 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/498913/image-9e4f58504a4ce8e5e13445b1932f3d7a.png?ehk=J6ZE%2BtpeBndGPDrHweZbvJu7ylXx47nxljquMo9gD1E%3D&ehkOptimized=0y5%2BSFnk0THOeEfEJ2cns3DnFpwDZc8aBIgmgODz4Rc%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669168800
     },
     {
