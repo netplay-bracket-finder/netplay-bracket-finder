@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668918631,
+  "fetched_at": 1668920049,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-16/event/melee-singles",
@@ -62,7 +62,7 @@
       "tournament_name": "SB (Slippi Based) Melee #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498775/image-69f7276a69bcce37baebb1cbd8451780.png?ehk=eoF%2BC4U0XmSrpDknK9UIvlTWeJnVvZSNe9wKL4OcDPg%3D&ehkOptimized=VtNNaSInLDNPIfwVdPV1XpfNvJ3Gux4MLLfNPQy%2Bcik%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668999600
     },
     {
@@ -270,7 +270,7 @@
       "tournament_name": "The Distribution",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497056/image-83854e21ab91c8d31c6168c57a0b70ec.png?ehk=lHe1BSTrtbOVIt2vFjfSL00smP3XX8Py%2Fv5CjB8jpBM%3D&ehkOptimized=8m4TLqYp7OQSSuMrnFanqyjXBTNTVqPj2dMPEy7WUOo%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669939200
     },
     {
