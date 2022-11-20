@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1668984676,
+  "fetched_at": 1668986351,
   "data": [
-    {
-      "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
-      "tournament_name": "The Wolf's Den #2",
-      "event_name": "The Wolf's Den #2",
-      "image": "https://images.start.gg/images/tournament/495394/image-fd79d4ec163b4739409eef0d5d2b5135.png?ehk=6BLadgbRonHOuUmMdFfCzNSPoPY%2FMM6V4ubBafWNqKU%3D&ehkOptimized=Fs10UPrCu%2B0qQTR8BDaDcFr7KdgRiDU29rP7WCCUY%2F4%3D",
-      "entrants": 3,
-      "start_time": 1668988800
-    },
     {
       "slug": "tournament/amsa-celebration-bracket-2/event/melee-singles",
       "tournament_name": "aMSa Celebration Bracket 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499409/image-32f8154550b2967ee3df842a48fb311c.png?ehk=56cf5%2FxQTfKmvwMJLfB6nDIhANYShklwWkZZxX%2FC%2Buw%3D&ehkOptimized=ig2gvmJ18SfbfRlZAPMifdtkRqsba2DrYouud9zYVHo%3D",
-      "entrants": 7,
+      "entrants": 9,
       "start_time": 1668988800
     },
     {
@@ -22,7 +14,7 @@
       "tournament_name": "SCSS East Coast #95",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499374/image-6f8cc0517a1493c394a25adf70fd00f4.png?ehk=72qXp5pP%2BMvSQ3SSuUAX0ChVsU4aY24HXpWnK4dTEAo%3D&ehkOptimized=pz8KWnC%2FMhBbw36Fwgqx5BoFzobfJMtmtufsSlw0Ebc%3D",
-      "entrants": 20,
+      "entrants": 23,
       "start_time": 1668990600
     },
     {
@@ -38,7 +30,7 @@
       "tournament_name": "No Melee on Sundays 18",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499591/image-b8bb9827817a94e48675b6ad03fd5819.png?ehk=N6sxgCr6RKsu%2BPcV9C9HLZgMbpIX0GFBEJcUEQijee8%3D&ehkOptimized=XCdu8I0MXsfK3%2FILptej4Eu%2FcBuid4RLA%2Fa%2BVWGiPQk%3D",
-      "entrants": 9,
+      "entrants": 11,
       "start_time": 1668992400
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "SCSS West Coast #84",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499375/image-05f2d14a4ba3f0c62bfd860fd3e8d276.png?ehk=1Lwuwozrmvstc6v7%2BHIJdc7LVsst2tRGWVh3z5GanQU%3D&ehkOptimized=VZE8j5sY%2Bjq5zQNw%2FwPQR5glMf75rwjokBgbLVKHYMU%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1668994200
     },
     {
@@ -78,7 +70,7 @@
       "tournament_name": "Slippi Sauce #75 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499537/image-5c399f3617ded8c0c070ab14d57d5873.png?ehk=snzJwoUK2QNJOIur7vefDAXS%2FlvVm%2F4HdXJk%2F96bnes%3D&ehkOptimized=wxq9M98t9clPc8t6VdoOOHICq40h9w8Og7%2BwGZ4atXk%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669071600
     },
     {
