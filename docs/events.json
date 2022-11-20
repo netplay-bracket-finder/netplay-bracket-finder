@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1668930685,
+  "fetched_at": 1668932550,
   "data": [
-    {
-      "slug": "tournament/asl-s-weekly-weekend-melee-16/event/melee-singles",
-      "tournament_name": "ASL’s Weekly Weekend Melee #16",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/499335/image-92c275ff436593b2839e56361303395d.png?ehk=P5uv1foLdY7RfZbOMFjf7guL2RGrkEN8MO1kbqgnUgc%3D&ehkOptimized=fLzyPJTDmOYqklXuObBSn%2BkWZLMngJvssRF4kSXkjWY%3D",
-      "entrants": 6,
-      "start_time": 1668879000
-    },
     {
       "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
       "tournament_name": "The Wolf's Den #2",
@@ -22,7 +14,7 @@
       "tournament_name": "Fight of the Fearless 28",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/498817/image-ccb29776d8e015c08c9a8a4dd6c9e1ef.png?ehk=0ymoCmI6RGAOl3qX0kOkWlyBc7HYUxd0xMlfMpgRi3g%3D&ehkOptimized=5cdgDFxsm%2FoUfzt6Ln3%2F%2F5vUWyqao6PTldgGtfuTafE%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1668967200
     },
     {
