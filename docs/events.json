@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668926678,
+  "fetched_at": 1668927336,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-16/event/melee-singles",
@@ -208,6 +208,14 @@
       "image": "https://images.start.gg/images/tournament/497896/image-f200f5b04bf94cc3075fec62b23a6fe4.jpg?ehk=xi%2Fyo1A4xWL0qPcwOjSIlsnXriF29SUHkFfXk2i%2FyDE%3D&ehkOptimized=N4eslqck2qK%2BuX5uYAnCipCxlCG%2FlHKNcTDJ7wkxiO8%3D",
       "entrants": 0,
       "start_time": 1669334400
+    },
+    {
+      "slug": "tournament/the-shallow-end-12-a-wc-newbie-bracket-1/event/melee-singles",
+      "tournament_name": "The Shallow End #12 - a WC newbie bracket",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/499309/image-6fd38bfe9afc89d004a6ad536d67a740.jpg?ehk=%2BmHZ99vsWKdET3aCMbkBfxg1rseENdy3yvG5GeG02%2F8%3D&ehkOptimized=k8a8zlBmow6RZjlJ1zGlIc9yZqaXrerpv9hThT1xTko%3D",
+      "entrants": 0,
+      "start_time": 1669427100
     },
     {
       "slug": "tournament/ssbm-ru-monthly-november-2022/event/melee-singles",
