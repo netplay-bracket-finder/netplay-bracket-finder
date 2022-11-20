@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668980241,
+  "fetched_at": 1668981086,
   "data": [
     {
       "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
@@ -22,7 +22,7 @@
       "tournament_name": "SCSS East Coast #95",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499374/image-6f8cc0517a1493c394a25adf70fd00f4.png?ehk=72qXp5pP%2BMvSQ3SSuUAX0ChVsU4aY24HXpWnK4dTEAo%3D&ehkOptimized=pz8KWnC%2FMhBbw36Fwgqx5BoFzobfJMtmtufsSlw0Ebc%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1668990600
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Pino's Tired of 0-2 #99!!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/499600/image-c9ffe392753b07286b6c15f3bb7d99d6.jpg?ehk=fKi%2BrKNw%2FoF5MQVwwrqijH7esHgP6CLKCpHykHpPLwo%3D&ehkOptimized=wKtFIq2CjDseQp%2FYEdVkvt5zrXnGEgQK6UDKW1fsFJ8%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1669071600
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Woop Melee! #53",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498049/image-109b31d53258a595c4b63cf3cdb601bd.png?ehk=TtzNpw1tO8Sndn%2FQ78TzlDFyPBanCfVTOxnhkyygr9Q%3D&ehkOptimized=KnXz04REwY0tS%2BcBLjonJaTZoShowG%2B0wE2oxQpCmAg%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669075200
     },
     {
@@ -262,7 +262,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 55,
+      "entrants": 56,
       "start_time": 1669482000
     },
     {
