@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669066795,
+  "fetched_at": 1669067478,
   "data": [
     {
       "slug": "tournament/super-smash-bong-73/event/melee-singles",
       "tournament_name": "Super Smash Bong #73",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/499784/image-ad86bb4e4de7f4d45accca56d9e3e1da.jpg?ehk=TVcLNNFMaKg2F9H0fVn5sgfZBldef3H%2FmvKieYg4HMY%3D&ehkOptimized=gVLqct8ClQ1T1JY1ZIRe1ekSw8KSCIZOO2Gwsr77INw%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1669069800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Pino's Tired of 0-2 #99!!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/499600/image-c9ffe392753b07286b6c15f3bb7d99d6.jpg?ehk=fKi%2BrKNw%2FoF5MQVwwrqijH7esHgP6CLKCpHykHpPLwo%3D&ehkOptimized=wKtFIq2CjDseQp%2FYEdVkvt5zrXnGEgQK6UDKW1fsFJ8%3D",
-      "entrants": 35,
+      "entrants": 37,
       "start_time": 1669071600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Woop Melee! #53",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498049/image-109b31d53258a595c4b63cf3cdb601bd.png?ehk=TtzNpw1tO8Sndn%2FQ78TzlDFyPBanCfVTOxnhkyygr9Q%3D&ehkOptimized=KnXz04REwY0tS%2BcBLjonJaTZoShowG%2B0wE2oxQpCmAg%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1669075200
     },
     {
@@ -430,7 +430,7 @@
       "tournament_name": "Level Two Melee Playoff (LOM Season 5)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497701/image-0fe0c43ccd269e31aff5d2d7a880c288.png?ehk=dnLsLnlUo3jXl5nRID3tmELgn4nw7zQu6L1F2ernwVE%3D&ehkOptimized=QQIzl0BIw%2BpM35kgoLK3S%2Fpiu%2F6EBfV%2B6l2pkmRE2lA%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1671390000
     },
     {
