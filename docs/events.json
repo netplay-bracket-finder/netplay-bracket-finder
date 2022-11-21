@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1669000144,
+  "fetched_at": 1669002975,
   "data": [
-    {
-      "slug": "tournament/stellar-showdown-17-solar-circuit-qualifier/event/melee-singles",
-      "tournament_name": "Stellar Showdown #17 (Solar Circuit Qualifier)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/499352/image-1ac8b43f23b1cf3396db5847380b1a61.png?ehk=TJb2XOfxgxZj01xWmSYc%2BJJR1io3Ry1kF98GsAK8OH0%3D&ehkOptimized=Aj8REg7SalLNK%2BFXMolnIrDFzLymVRRpatIyPKpbMWY%3D",
-      "entrants": 1,
-      "start_time": 1668992400
-    },
     {
       "slug": "tournament/monday-night-mixup-39/event/melee-singles",
       "tournament_name": "Monday Night Mixup #39",
@@ -46,7 +38,7 @@
       "tournament_name": "Coast to Coast Doubles # 8",
       "event_name": "WC Doubles",
       "image": "https://images.start.gg/images/tournament/498083/image-a25705776bb4f53fc2d4d16baca2ba06.png?ehk=I%2BxY1%2FQM8W3v3Sj508EU97YETE7DccZmqJGc%2B6kJlsk%3D&ehkOptimized=vwkJsXu05don738A9gXhsxm%2B4DFRWEvgFBUfc4lukQE%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1669075200
     },
     {
@@ -246,7 +238,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1669496400
     },
     {
