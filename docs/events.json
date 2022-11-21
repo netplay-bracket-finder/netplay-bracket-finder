@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669046008,
+  "fetched_at": 1669047980,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-39/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Super Smash Bong #73",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/499784/image-ad86bb4e4de7f4d45accca56d9e3e1da.jpg?ehk=TVcLNNFMaKg2F9H0fVn5sgfZBldef3H%2FmvKieYg4HMY%3D&ehkOptimized=gVLqct8ClQ1T1JY1ZIRe1ekSw8KSCIZOO2Gwsr77INw%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1669069800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Woop Melee! #53",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498049/image-109b31d53258a595c4b63cf3cdb601bd.png?ehk=TtzNpw1tO8Sndn%2FQ78TzlDFyPBanCfVTOxnhkyygr9Q%3D&ehkOptimized=KnXz04REwY0tS%2BcBLjonJaTZoShowG%2B0wE2oxQpCmAg%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669075200
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Tuesday Night Fever #7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499616/image-2a1fe7c2705a0557cfc75e9fe85da4ff.png?ehk=Xz%2BqGszKEQAr1TsjKQpYsW5ypIaPtRvmBTgqXWNkcUs%3D&ehkOptimized=jx8FZOorbj1WADXrWoN8liePoGhBzETtdBrCMh5hcP8%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669143600
     },
     {
