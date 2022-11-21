@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669060280,
+  "fetched_at": 1669061923,
   "data": [
     {
       "slug": "tournament/super-smash-bong-73/event/melee-singles",
       "tournament_name": "Super Smash Bong #73",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/499784/image-ad86bb4e4de7f4d45accca56d9e3e1da.jpg?ehk=TVcLNNFMaKg2F9H0fVn5sgfZBldef3H%2FmvKieYg4HMY%3D&ehkOptimized=gVLqct8ClQ1T1JY1ZIRe1ekSw8KSCIZOO2Gwsr77INw%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1669069800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Pino's Tired of 0-2 #99!!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/499600/image-c9ffe392753b07286b6c15f3bb7d99d6.jpg?ehk=fKi%2BrKNw%2FoF5MQVwwrqijH7esHgP6CLKCpHykHpPLwo%3D&ehkOptimized=wKtFIq2CjDseQp%2FYEdVkvt5zrXnGEgQK6UDKW1fsFJ8%3D",
-      "entrants": 22,
+      "entrants": 25,
       "start_time": 1669071600
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Coast to Coast Doubles # 8",
       "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/498083/image-a25705776bb4f53fc2d4d16baca2ba06.png?ehk=I%2BxY1%2FQM8W3v3Sj508EU97YETE7DccZmqJGc%2B6kJlsk%3D&ehkOptimized=vwkJsXu05don738A9gXhsxm%2B4DFRWEvgFBUfc4lukQE%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669075200
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "CASINO ROYALE 2 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/498993/image-2dc995aaabed4be5ad76bef7d8b9b159.png?ehk=Kk2h5DfwYbG3Z%2FIlxiayiNR5aN1iFao0d55k%2BJDALtI%3D&ehkOptimized=%2BjzuAzd7zR247g8hnqA6BP82ODpWBIoT49ArjgIx1YU%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1669091400
     },
     {
