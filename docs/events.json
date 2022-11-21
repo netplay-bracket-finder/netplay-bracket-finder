@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669043992,
+  "fetched_at": 1669045336,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-39/event/melee-singles",
       "tournament_name": "Monday Night Mixup #39",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499638/image-511d4ac1011a06f370106e68f3f7a7f6.png?ehk=EUPrncL4KIXrq68wjEERy9rP6aTGkjYKflVMrH7dCT4%3D&ehkOptimized=i47FkmsZdovCZZCZecwXKdjKU80DDoOkDsZB%2FeJRVK4%3D",
-      "entrants": 9,
+      "entrants": 11,
       "start_time": 1669057200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Super Smash Bong #73",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/499784/image-ad86bb4e4de7f4d45accca56d9e3e1da.jpg?ehk=TVcLNNFMaKg2F9H0fVn5sgfZBldef3H%2FmvKieYg4HMY%3D&ehkOptimized=gVLqct8ClQ1T1JY1ZIRe1ekSw8KSCIZOO2Gwsr77INw%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669069800
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499771/image-1b42318fa2bf792b2bb8bc06f3e8f016.jpg?ehk=gPTgbvJfI8y2OfsqiKU2PtR1GjF66sGVEk0JdafZklc%3D&ehkOptimized=S5KF1CIH0Cuis%2Bgdnet7CwHxAcZNCUHFyzU5%2FroYZeY%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669079700
     },
     {
@@ -230,7 +230,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 60,
+      "entrants": 61,
       "start_time": 1669482000
     },
     {
