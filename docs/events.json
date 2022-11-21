@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1668995071,
+  "fetched_at": 1669000144,
   "data": [
     {
       "slug": "tournament/stellar-showdown-17-solar-circuit-qualifier/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/499352/image-1ac8b43f23b1cf3396db5847380b1a61.png?ehk=TJb2XOfxgxZj01xWmSYc%2BJJR1io3Ry1kF98GsAK8OH0%3D&ehkOptimized=Aj8REg7SalLNK%2BFXMolnIrDFzLymVRRpatIyPKpbMWY%3D",
       "entrants": 1,
       "start_time": 1668992400
-    },
-    {
-      "slug": "tournament/sb-slippi-based-melee-1/event/melee-singles",
-      "tournament_name": "SB (Slippi Based) Melee #1",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/498775/image-69f7276a69bcce37baebb1cbd8451780.png?ehk=eoF%2BC4U0XmSrpDknK9UIvlTWeJnVvZSNe9wKL4OcDPg%3D&ehkOptimized=VtNNaSInLDNPIfwVdPV1XpfNvJ3Gux4MLLfNPQy%2Bcik%3D",
-      "entrants": 6,
-      "start_time": 1668999600
     },
     {
       "slug": "tournament/monday-night-mixup-39/event/melee-singles",
@@ -38,7 +30,7 @@
       "tournament_name": "Pino's Tired of 0-2 #99!!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/499600/image-c9ffe392753b07286b6c15f3bb7d99d6.jpg?ehk=fKi%2BrKNw%2FoF5MQVwwrqijH7esHgP6CLKCpHykHpPLwo%3D&ehkOptimized=wKtFIq2CjDseQp%2FYEdVkvt5zrXnGEgQK6UDKW1fsFJ8%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1669071600
     },
     {
@@ -118,7 +110,7 @@
       "tournament_name": "Sketchy Series 7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499069/image-44b6014a9ae15e513113e30981a7e1dd.png?ehk=3JSFetTShOK9UwASsO5b%2B1CaRKLX3%2FuFpk0IqsnxYPU%3D&ehkOptimized=0WRETchTBHCmcLLEWacFtjz6FCPO%2B%2FkMVpHDkXV%2BqoA%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669161600
     },
     {
@@ -190,7 +182,7 @@
       "tournament_name": "Only Noobs 94",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499535/image-fd3e3fb8bd8b92e1b4c0172ac578c14b.jpg?ehk=Fpzdk2GzpNGizNY2JXNNDvWAMdCGZXKO6yaINJ%2B49no%3D&ehkOptimized=4QprYgvSspe%2FffKAr2QQJJMjCNXILrxWMaa54k1HVss%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669334400
     },
     {
