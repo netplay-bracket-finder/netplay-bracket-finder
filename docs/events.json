@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1669070449,
+  "fetched_at": 1669071133,
   "data": [
-    {
-      "slug": "tournament/slippi-sauce-75/event/melee-singles",
-      "tournament_name": "Slippi Sauce #75 🐸",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/499537/image-5c399f3617ded8c0c070ab14d57d5873.png?ehk=snzJwoUK2QNJOIur7vefDAXS%2FlvVm%2F4HdXJk%2F96bnes%3D&ehkOptimized=wxq9M98t9clPc8t6VdoOOHICq40h9w8Og7%2BwGZ4atXk%3D",
-      "entrants": 19,
-      "start_time": 1669071600
-    },
     {
       "slug": "tournament/woop-melee-53/event/melee-singles",
       "tournament_name": "Woop Melee! #53",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498049/image-109b31d53258a595c4b63cf3cdb601bd.png?ehk=TtzNpw1tO8Sndn%2FQ78TzlDFyPBanCfVTOxnhkyygr9Q%3D&ehkOptimized=KnXz04REwY0tS%2BcBLjonJaTZoShowG%2B0wE2oxQpCmAg%3D",
-      "entrants": 18,
+      "entrants": 20,
       "start_time": 1669075200
     },
     {
@@ -30,7 +22,7 @@
       "tournament_name": "Coast to Coast Doubles # 8",
       "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/498083/image-a25705776bb4f53fc2d4d16baca2ba06.png?ehk=I%2BxY1%2FQM8W3v3Sj508EU97YETE7DccZmqJGc%2B6kJlsk%3D&ehkOptimized=vwkJsXu05don738A9gXhsxm%2B4DFRWEvgFBUfc4lukQE%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669075200
     },
     {
@@ -78,7 +70,7 @@
       "tournament_name": "Tuesday Night Fever #7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499616/image-2a1fe7c2705a0557cfc75e9fe85da4ff.png?ehk=Xz%2BqGszKEQAr1TsjKQpYsW5ypIaPtRvmBTgqXWNkcUs%3D&ehkOptimized=jx8FZOorbj1WADXrWoN8liePoGhBzETtdBrCMh5hcP8%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669143600
     },
     {
