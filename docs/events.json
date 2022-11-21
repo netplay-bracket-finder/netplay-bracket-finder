@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669049740,
+  "fetched_at": 1669051189,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-39/event/melee-singles",
       "tournament_name": "Monday Night Mixup #39",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499638/image-511d4ac1011a06f370106e68f3f7a7f6.png?ehk=EUPrncL4KIXrq68wjEERy9rP6aTGkjYKflVMrH7dCT4%3D&ehkOptimized=i47FkmsZdovCZZCZecwXKdjKU80DDoOkDsZB%2FeJRVK4%3D",
-      "entrants": 15,
+      "entrants": 19,
       "start_time": 1669057200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Pino's Tired of 0-2 #99!!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/499600/image-c9ffe392753b07286b6c15f3bb7d99d6.jpg?ehk=fKi%2BrKNw%2FoF5MQVwwrqijH7esHgP6CLKCpHykHpPLwo%3D&ehkOptimized=wKtFIq2CjDseQp%2FYEdVkvt5zrXnGEgQK6UDKW1fsFJ8%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1669071600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Woop Melee! #53",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498049/image-109b31d53258a595c4b63cf3cdb601bd.png?ehk=TtzNpw1tO8Sndn%2FQ78TzlDFyPBanCfVTOxnhkyygr9Q%3D&ehkOptimized=KnXz04REwY0tS%2BcBLjonJaTZoShowG%2B0wE2oxQpCmAg%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1669075200
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499771/image-1b42318fa2bf792b2bb8bc06f3e8f016.jpg?ehk=gPTgbvJfI8y2OfsqiKU2PtR1GjF66sGVEk0JdafZklc%3D&ehkOptimized=S5KF1CIH0Cuis%2Bgdnet7CwHxAcZNCUHFyzU5%2FroYZeY%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669079700
     },
     {
@@ -158,7 +158,7 @@
       "tournament_name": "Waddle Wednesday 46",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499404/image-1cab3940798aecd41695cd15f3abfbfb.png?ehk=1N%2BPfqtYOrT496IsQMuGWQz4AEUCbButXTheRajPq30%3D&ehkOptimized=CwQqpuecFJ1vd%2BcsFDCcuuU2CDzCMYmn7d%2FCsMj%2BXrE%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669251600
     },
     {
