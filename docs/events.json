@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1669056321,
+  "fetched_at": 1669058098,
   "data": [
-    {
-      "slug": "tournament/monday-night-mixup-39/event/melee-singles",
-      "tournament_name": "Monday Night Mixup #39",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/499638/image-511d4ac1011a06f370106e68f3f7a7f6.png?ehk=EUPrncL4KIXrq68wjEERy9rP6aTGkjYKflVMrH7dCT4%3D&ehkOptimized=i47FkmsZdovCZZCZecwXKdjKU80DDoOkDsZB%2FeJRVK4%3D",
-      "entrants": 37,
-      "start_time": 1669057200
-    },
     {
       "slug": "tournament/super-smash-bong-73/event/melee-singles",
       "tournament_name": "Super Smash Bong #73",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/499784/image-ad86bb4e4de7f4d45accca56d9e3e1da.jpg?ehk=TVcLNNFMaKg2F9H0fVn5sgfZBldef3H%2FmvKieYg4HMY%3D&ehkOptimized=gVLqct8ClQ1T1JY1ZIRe1ekSw8KSCIZOO2Gwsr77INw%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1669069800
     },
     {
@@ -22,7 +14,7 @@
       "tournament_name": "Slippi Sauce #75 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499537/image-5c399f3617ded8c0c070ab14d57d5873.png?ehk=snzJwoUK2QNJOIur7vefDAXS%2FlvVm%2F4HdXJk%2F96bnes%3D&ehkOptimized=wxq9M98t9clPc8t6VdoOOHICq40h9w8Og7%2BwGZ4atXk%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1669071600
     },
     {
@@ -30,7 +22,7 @@
       "tournament_name": "Pino's Tired of 0-2 #99!!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/499600/image-c9ffe392753b07286b6c15f3bb7d99d6.jpg?ehk=fKi%2BrKNw%2FoF5MQVwwrqijH7esHgP6CLKCpHykHpPLwo%3D&ehkOptimized=wKtFIq2CjDseQp%2FYEdVkvt5zrXnGEgQK6UDKW1fsFJ8%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1669071600
     },
     {
@@ -38,7 +30,7 @@
       "tournament_name": "Woop Melee! #53",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498049/image-109b31d53258a595c4b63cf3cdb601bd.png?ehk=TtzNpw1tO8Sndn%2FQ78TzlDFyPBanCfVTOxnhkyygr9Q%3D&ehkOptimized=KnXz04REwY0tS%2BcBLjonJaTZoShowG%2B0wE2oxQpCmAg%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1669075200
     },
     {
@@ -86,7 +78,7 @@
       "tournament_name": "CASINO ROYALE 2 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/498993/image-2dc995aaabed4be5ad76bef7d8b9b159.png?ehk=Kk2h5DfwYbG3Z%2FIlxiayiNR5aN1iFao0d55k%2BJDALtI%3D&ehkOptimized=%2BjzuAzd7zR247g8hnqA6BP82ODpWBIoT49ArjgIx1YU%3D",
-      "entrants": 5,
+      "entrants": 8,
       "start_time": 1669091400
     },
     {
@@ -254,7 +246,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 61,
+      "entrants": 62,
       "start_time": 1669482000
     },
     {
