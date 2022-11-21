@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669038941,
+  "fetched_at": 1669040255,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-39/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "Woop Melee! #53",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498049/image-109b31d53258a595c4b63cf3cdb601bd.png?ehk=TtzNpw1tO8Sndn%2FQ78TzlDFyPBanCfVTOxnhkyygr9Q%3D&ehkOptimized=KnXz04REwY0tS%2BcBLjonJaTZoShowG%2B0wE2oxQpCmAg%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669075200
     },
     {
@@ -48,6 +48,14 @@
       "image": "https://images.start.gg/images/tournament/498083/image-a25705776bb4f53fc2d4d16baca2ba06.png?ehk=I%2BxY1%2FQM8W3v3Sj508EU97YETE7DccZmqJGc%2B6kJlsk%3D&ehkOptimized=vwkJsXu05don738A9gXhsxm%2B4DFRWEvgFBUfc4lukQE%3D",
       "entrants": 0,
       "start_time": 1669075200
+    },
+    {
+      "slug": "tournament/have-you-dreamed-this-cardboard-bear-4/event/melee-singles",
+      "tournament_name": "Have You Dreamed This Cardboard Bear? #4",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/499771/image-1b42318fa2bf792b2bb8bc06f3e8f016.jpg?ehk=gPTgbvJfI8y2OfsqiKU2PtR1GjF66sGVEk0JdafZklc%3D&ehkOptimized=S5KF1CIH0Cuis%2Bgdnet7CwHxAcZNCUHFyzU5%2FroYZeY%3D",
+      "entrants": 1,
+      "start_time": 1669079700
     },
     {
       "slug": "tournament/casino-royale-2-ssbm-online-weekly/event/casino",
