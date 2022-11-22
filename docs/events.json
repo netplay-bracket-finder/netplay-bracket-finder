@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669159055,
+  "fetched_at": 1669160312,
   "data": [
     {
       "slug": "tournament/super-smash-bronol-melee-10/event/melee-1vs1",
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
-      "entrants": 72,
+      "entrants": 75,
       "start_time": 1669147200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
-      "entrants": 27,
+      "entrants": 32,
       "start_time": 1669147200
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
       "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1669147200
     },
     {
@@ -74,19 +74,11 @@
       "start_time": 1669159740
     },
     {
-      "slug": "tournament/sketchy-series-7-happy-sketchsgiving/event/melee-singles",
-      "tournament_name": "Sketchy Series 7: Happy Sketchsgiving",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/499069/image-44b6014a9ae15e513113e30981a7e1dd.png?ehk=3JSFetTShOK9UwASsO5b%2B1CaRKLX3%2FuFpk0IqsnxYPU%3D&ehkOptimized=0WRETchTBHCmcLLEWacFtjz6FCPO%2B%2FkMVpHDkXV%2BqoA%3D",
-      "entrants": 33,
-      "start_time": 1669161600
-    },
-    {
       "slug": "tournament/dad-s-house-online-2/event/melee-singles",
       "tournament_name": "Dad's House: Online #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498569/image-736c9ce4316048ce0f89143cf79c19f8.png?ehk=CufXWKz9Ca%2F6Bfw8ScEUUO7WfRPX49xrKxnJpY1OqhE%3D&ehkOptimized=jRikZVE%2BlFTndWgYdVcDi1E8a7p2COhR3EBqeSo6iFE%3D",
-      "entrants": 6,
+      "entrants": 9,
       "start_time": 1669163400
     },
     {
@@ -102,7 +94,7 @@
       "tournament_name": "Level One Melee #53 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/498913/image-9e4f58504a4ce8e5e13445b1932f3d7a.png?ehk=J6ZE%2BtpeBndGPDrHweZbvJu7ylXx47nxljquMo9gD1E%3D&ehkOptimized=0y5%2BSFnk0THOeEfEJ2cns3DnFpwDZc8aBIgmgODz4Rc%3D",
-      "entrants": 13,
+      "entrants": 16,
       "start_time": 1669168800
     },
     {
@@ -110,7 +102,7 @@
       "tournament_name": "Level One Melee #53 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/498913/image-9e4f58504a4ce8e5e13445b1932f3d7a.png?ehk=J6ZE%2BtpeBndGPDrHweZbvJu7ylXx47nxljquMo9gD1E%3D&ehkOptimized=0y5%2BSFnk0THOeEfEJ2cns3DnFpwDZc8aBIgmgODz4Rc%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1669168800
     },
     {
