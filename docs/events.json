@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669127995,
+  "fetched_at": 1669128680,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-7/event/melee-singles",
@@ -26,17 +26,17 @@
       "start_time": 1669147200
     },
     {
-      "slug": "tournament/training-mode-tuesdays-104-lite-edition/event/ladder-melee-west-coast",
-      "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
-      "event_name": "Ladder Melee West Coast",
-      "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
-      "entrants": 1,
-      "start_time": 1669147200
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-104-lite-edition/event/side-event-ec-melee-redemption-bracket",
       "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
+      "entrants": 2,
+      "start_time": 1669147200
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-104-lite-edition/event/ladder-melee-west-coast",
+      "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
+      "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
       "entrants": 1,
       "start_time": 1669147200
@@ -176,6 +176,22 @@
       "image": "https://images.start.gg/images/tournament/499535/image-fd3e3fb8bd8b92e1b4c0172ac578c14b.jpg?ehk=Fpzdk2GzpNGizNY2JXNNDvWAMdCGZXKO6yaINJ%2B49no%3D&ehkOptimized=4QprYgvSspe%2FffKAr2QQJJMjCNXILrxWMaa54k1HVss%3D",
       "entrants": 5,
       "start_time": 1669334400
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-13/event/results-data",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #13",
+      "event_name": "Results Data",
+      "image": "https://images.start.gg/images/tournament/500060/image-462b9c80d64e2b40d9dd0e3bb9b005a6.png?ehk=puwzPMg6yKgoRrZTzW7FKKjO0hNzGYwh5BdX3rlDtRA%3D&ehkOptimized=VbBFgK9kBBVAlJnql573ggAUC%2BR5ZAjb8t%2B6Y1TXJHk%3D",
+      "entrants": 0,
+      "start_time": 1669420800
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-13/event/ssbmr-singles",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #13",
+      "event_name": "SSBMr Singles",
+      "image": "https://images.start.gg/images/tournament/500060/image-462b9c80d64e2b40d9dd0e3bb9b005a6.png?ehk=puwzPMg6yKgoRrZTzW7FKKjO0hNzGYwh5BdX3rlDtRA%3D&ehkOptimized=VbBFgK9kBBVAlJnql573ggAUC%2BR5ZAjb8t%2B6Y1TXJHk%3D",
+      "entrants": 0,
+      "start_time": 1669420800
     },
     {
       "slug": "tournament/the-shallow-end-12-a-wc-newbie-bracket-1/event/melee-singles",
