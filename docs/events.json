@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669144500,
+  "fetched_at": 1669145220,
   "data": [
     {
       "slug": "tournament/super-smash-bronol-melee-10/event/melee-1vs1",
@@ -22,7 +22,7 @@
       "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
-      "entrants": 12,
+      "entrants": 15,
       "start_time": 1669147200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1669147200
     },
     {
@@ -176,6 +176,14 @@
       "image": "https://images.start.gg/images/tournament/499535/image-fd3e3fb8bd8b92e1b4c0172ac578c14b.jpg?ehk=Fpzdk2GzpNGizNY2JXNNDvWAMdCGZXKO6yaINJ%2B49no%3D&ehkOptimized=4QprYgvSspe%2FffKAr2QQJJMjCNXILrxWMaa54k1HVss%3D",
       "entrants": 5,
       "start_time": 1669334400
+    },
+    {
+      "slug": "tournament/side-b-rebate-1/event/side-b-rebate-melee-1",
+      "tournament_name": "Side-B Rebate 1",
+      "event_name": "Side-B Rebate Melee 1",
+      "image": "",
+      "entrants": 0,
+      "start_time": 1669410000
     },
     {
       "slug": "tournament/ssbm-randomizer-seed-of-the-week-13/event/results-data",
@@ -446,7 +454,7 @@
       "tournament_name": "Level Two Melee Playoff (LOM Season 5)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497701/image-0fe0c43ccd269e31aff5d2d7a880c288.png?ehk=dnLsLnlUo3jXl5nRID3tmELgn4nw7zQu6L1F2ernwVE%3D&ehkOptimized=QQIzl0BIw%2BpM35kgoLK3S%2Fpiu%2F6EBfV%2B6l2pkmRE2lA%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1671390000
     },
     {
