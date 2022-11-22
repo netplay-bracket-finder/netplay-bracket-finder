@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669120656,
+  "fetched_at": 1669123106,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-7/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499616/image-2a1fe7c2705a0557cfc75e9fe85da4ff.png?ehk=Xz%2BqGszKEQAr1TsjKQpYsW5ypIaPtRvmBTgqXWNkcUs%3D&ehkOptimized=jx8FZOorbj1WADXrWoN8liePoGhBzETtdBrCMh5hcP8%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1669143600
     },
     {
@@ -198,7 +198,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 63,
+      "entrants": 64,
       "start_time": 1669482000
     },
     {
@@ -272,6 +272,14 @@
       "image": "https://images.start.gg/images/tournament/500007/image-cde309926d617ee8a85bb844dcaa800f.png?ehk=tewW7O0zFm%2F63m1AMY5RETkqwL%2BF%2BkzNTtGZPs7dGrE%3D&ehkOptimized=n3Jbr2XOUjgqkczqobapdIJQRKZ%2F45g%2F2eE4SIY7xzs%3D",
       "entrants": 0,
       "start_time": 1669680000
+    },
+    {
+      "slug": "tournament/have-you-dreamed-this-cardboard-bear-5/event/melee-singles",
+      "tournament_name": "Have You Dreamed This Cardboard Bear? #5",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/500048/image-1c95d3c0544fd4614375f0d402546e6a.jpg?ehk=gm1dpLtAypFzdonSZpVDsZQFSsJ0FKnqvsGs8iJilHw%3D&ehkOptimized=0inspzxLqSwltSjwlhB7wu9yXa7AzMrn8qTbfrLGJtw%3D",
+      "entrants": 1,
+      "start_time": 1669684500
     },
     {
       "slug": "tournament/casino-royale-3-ssbm-online-weekly/event/casino",
