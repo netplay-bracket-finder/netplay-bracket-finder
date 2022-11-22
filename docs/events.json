@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669096276,
+  "fetched_at": 1669098247,
   "data": [
     {
       "slug": "tournament/doubles-troubles-1/event/melee-doubles",
@@ -271,6 +271,22 @@
       "event_name": "SCRUB QUOTES 5: WEST COAST",
       "image": "",
       "entrants": 1,
+      "start_time": 1669680000
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-9/event/wc-doubles",
+      "tournament_name": "Coast to Coast Doubles # 9",
+      "event_name": "WC Doubles",
+      "image": "https://images.start.gg/images/tournament/500007/image-cde309926d617ee8a85bb844dcaa800f.png?ehk=tewW7O0zFm%2F63m1AMY5RETkqwL%2BF%2BkzNTtGZPs7dGrE%3D&ehkOptimized=n3Jbr2XOUjgqkczqobapdIJQRKZ%2F45g%2F2eE4SIY7xzs%3D",
+      "entrants": 1,
+      "start_time": 1669680000
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-9/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 9",
+      "event_name": "EC Doubles",
+      "image": "https://images.start.gg/images/tournament/500007/image-cde309926d617ee8a85bb844dcaa800f.png?ehk=tewW7O0zFm%2F63m1AMY5RETkqwL%2BF%2BkzNTtGZPs7dGrE%3D&ehkOptimized=n3Jbr2XOUjgqkczqobapdIJQRKZ%2F45g%2F2eE4SIY7xzs%3D",
+      "entrants": 0,
       "start_time": 1669680000
     },
     {
