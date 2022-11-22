@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669099578,
+  "fetched_at": 1669101482,
   "data": [
     {
       "slug": "tournament/doubles-troubles-1/event/melee-doubles",
       "tournament_name": "DOUBLES TROUBLES #1",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/498483/image-7879570d63239849ecaae8d4fbf0666b.png?ehk=khu0TXv%2FDt72x%2FEuU6tNZuOxWmOKGSgJcBsyTO2Sotc%3D&ehkOptimized=Ox9MR9jRWqNZMfzmbtC4fgZKgzH4hTxxVY0XY5QalKI%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1669107600
     },
     {
@@ -90,8 +90,8 @@
       "start_time": 1669159740
     },
     {
-      "slug": "tournament/sketchy-series-7/event/melee-singles",
-      "tournament_name": "Sketchy Series 7",
+      "slug": "tournament/sketchy-series-7-happy-sketchsgiving/event/melee-singles",
+      "tournament_name": "Sketchy Series 7: Happy Sketchsgiving",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499069/image-44b6014a9ae15e513113e30981a7e1dd.png?ehk=3JSFetTShOK9UwASsO5b%2B1CaRKLX3%2FuFpk0IqsnxYPU%3D&ehkOptimized=0WRETchTBHCmcLLEWacFtjz6FCPO%2B%2FkMVpHDkXV%2BqoA%3D",
       "entrants": 1,
@@ -126,7 +126,7 @@
       "tournament_name": "Level One Melee #53 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/498913/image-9e4f58504a4ce8e5e13445b1932f3d7a.png?ehk=J6ZE%2BtpeBndGPDrHweZbvJu7ylXx47nxljquMo9gD1E%3D&ehkOptimized=0y5%2BSFnk0THOeEfEJ2cns3DnFpwDZc8aBIgmgODz4Rc%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1669168800
     },
     {
@@ -288,6 +288,14 @@
       "image": "https://images.start.gg/images/tournament/500007/image-cde309926d617ee8a85bb844dcaa800f.png?ehk=tewW7O0zFm%2F63m1AMY5RETkqwL%2BF%2BkzNTtGZPs7dGrE%3D&ehkOptimized=n3Jbr2XOUjgqkczqobapdIJQRKZ%2F45g%2F2eE4SIY7xzs%3D",
       "entrants": 0,
       "start_time": 1669680000
+    },
+    {
+      "slug": "tournament/casino-royale-3-ssbm-online-weekly/event/casino",
+      "tournament_name": "CASINO ROYALE 3 ~ SSBM Online Weekly",
+      "event_name": "CASINO",
+      "image": "https://images.start.gg/images/tournament/500012/image-dd2d25d27c62667e345ad8747a3a11c0.png?ehk=5KDrXRePJnMY2fiSPXvylHWdc%2F2jq7%2Blaa6vPHB7acs%3D&ehkOptimized=oWroiCduupqmyfHhTsdLmhIxV8WRKsbKYnI%2FbW6tFVs%3D",
+      "entrants": 0,
+      "start_time": 1669689000
     },
     {
       "slug": "tournament/the-distribution/event/melee-singles",
