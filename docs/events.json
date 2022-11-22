@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669074751,
+  "fetched_at": 1669081541,
   "data": [
     {
       "slug": "tournament/coast-to-coast-doubles-8/event/ec-doubles",
@@ -14,7 +14,7 @@
       "tournament_name": "Coast to Coast Doubles # 8",
       "event_name": "WC Doubles",
       "image": "https://images.start.gg/images/tournament/498083/image-a25705776bb4f53fc2d4d16baca2ba06.png?ehk=I%2BxY1%2FQM8W3v3Sj508EU97YETE7DccZmqJGc%2B6kJlsk%3D&ehkOptimized=vwkJsXu05don738A9gXhsxm%2B4DFRWEvgFBUfc4lukQE%3D",
-      "entrants": 7,
+      "entrants": 10,
       "start_time": 1669075200
     },
     {
@@ -26,27 +26,11 @@
       "start_time": 1669078800
     },
     {
-      "slug": "tournament/the-playlist-20-a-city-dressed-in-dynamite/event/melee-singles",
-      "tournament_name": "The Playlist #20: A City Dressed in Dynamite",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/499836/image-6e15e8f5e8d2e5240f4c6145c2cfe33f.png?ehk=%2Faw4brL5Im3XqN8h9vqDSZHYLxMKZPKLy8VZazRIDZs%3D&ehkOptimized=D%2FgqNhVVTPkz9%2FzJWaVCcjrYJe1IHfkI1EfBTrtvRro%3D",
-      "entrants": 1,
-      "start_time": 1669078800
-    },
-    {
-      "slug": "tournament/have-you-dreamed-this-cardboard-bear-4/event/melee-singles",
-      "tournament_name": "Have You Dreamed This Cardboard Bear? #4",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/499771/image-1b42318fa2bf792b2bb8bc06f3e8f016.jpg?ehk=gPTgbvJfI8y2OfsqiKU2PtR1GjF66sGVEk0JdafZklc%3D&ehkOptimized=S5KF1CIH0Cuis%2Bgdnet7CwHxAcZNCUHFyzU5%2FroYZeY%3D",
-      "entrants": 9,
-      "start_time": 1669079700
-    },
-    {
       "slug": "tournament/casino-royale-2-ssbm-online-weekly/event/casino",
       "tournament_name": "CASINO ROYALE 2 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/498993/image-2dc995aaabed4be5ad76bef7d8b9b159.png?ehk=Kk2h5DfwYbG3Z%2FIlxiayiNR5aN1iFao0d55k%2BJDALtI%3D&ehkOptimized=%2BjzuAzd7zR247g8hnqA6BP82ODpWBIoT49ArjgIx1YU%3D",
-      "entrants": 22,
+      "entrants": 34,
       "start_time": 1669091400
     },
     {
@@ -54,7 +38,7 @@
       "tournament_name": "DOUBLES TROUBLES #1",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/498483/image-7879570d63239849ecaae8d4fbf0666b.png?ehk=khu0TXv%2FDt72x%2FEuU6tNZuOxWmOKGSgJcBsyTO2Sotc%3D&ehkOptimized=Ox9MR9jRWqNZMfzmbtC4fgZKgzH4hTxxVY0XY5QalKI%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1669107600
     },
     {
@@ -118,7 +102,7 @@
       "tournament_name": "Level One Melee #53 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/498913/image-9e4f58504a4ce8e5e13445b1932f3d7a.png?ehk=J6ZE%2BtpeBndGPDrHweZbvJu7ylXx47nxljquMo9gD1E%3D&ehkOptimized=0y5%2BSFnk0THOeEfEJ2cns3DnFpwDZc8aBIgmgODz4Rc%3D",
-      "entrants": 3,
+      "entrants": 6,
       "start_time": 1669168800
     },
     {
@@ -126,7 +110,7 @@
       "tournament_name": "Level One Melee #53 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/498913/image-9e4f58504a4ce8e5e13445b1932f3d7a.png?ehk=J6ZE%2BtpeBndGPDrHweZbvJu7ylXx47nxljquMo9gD1E%3D&ehkOptimized=0y5%2BSFnk0THOeEfEJ2cns3DnFpwDZc8aBIgmgODz4Rc%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1669168800
     },
     {
@@ -222,7 +206,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA Coast-To-Coast Items-On",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1669482000
     },
     {
@@ -238,7 +222,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1669496400
     },
     {
@@ -398,7 +382,7 @@
       "tournament_name": "Level Two Melee Playoff (LOM Season 5)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497701/image-0fe0c43ccd269e31aff5d2d7a880c288.png?ehk=dnLsLnlUo3jXl5nRID3tmELgn4nw7zQu6L1F2ernwVE%3D&ehkOptimized=QQIzl0BIw%2BpM35kgoLK3S%2Fpiu%2F6EBfV%2B6l2pkmRE2lA%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1671390000
     },
     {
