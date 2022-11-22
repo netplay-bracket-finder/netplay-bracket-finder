@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669149509,
+  "fetched_at": 1669150286,
   "data": [
     {
       "slug": "tournament/super-smash-bronol-melee-10/event/melee-1vs1",
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
-      "entrants": 26,
+      "entrants": 29,
       "start_time": 1669147200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1669147200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1669147200
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1669147200
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Sketchy Series 7: Happy Sketchsgiving",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499069/image-44b6014a9ae15e513113e30981a7e1dd.png?ehk=3JSFetTShOK9UwASsO5b%2B1CaRKLX3%2FuFpk0IqsnxYPU%3D&ehkOptimized=0WRETchTBHCmcLLEWacFtjz6FCPO%2B%2FkMVpHDkXV%2BqoA%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1669161600
     },
     {
