@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669132418,
+  "fetched_at": 1669134408,
   "data": [
     {
       "slug": "tournament/super-smash-bronol-melee-10/event/melee-1vs1",
@@ -14,7 +14,7 @@
       "tournament_name": "Tuesday Night Fever #7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499616/image-2a1fe7c2705a0557cfc75e9fe85da4ff.png?ehk=Xz%2BqGszKEQAr1TsjKQpYsW5ypIaPtRvmBTgqXWNkcUs%3D&ehkOptimized=jx8FZOorbj1WADXrWoN8liePoGhBzETtdBrCMh5hcP8%3D",
-      "entrants": 9,
+      "entrants": 12,
       "start_time": 1669143600
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "SBY Melee Netplay #138",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500024/image-df95dc4cf1421031d4e8a6d57cd14d54.jpg?ehk=qIRMK8lnXPaVSTehBoLdr%2FqfuBvKx8O%2B4V3ja4TZu9k%3D&ehkOptimized=HmlFtV1dx7Vp6X3HLQR321BcZDiT5CBotVPVzIJtDmI%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669158000
     },
     {
@@ -302,7 +302,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500048/image-1c95d3c0544fd4614375f0d402546e6a.jpg?ehk=gm1dpLtAypFzdonSZpVDsZQFSsJ0FKnqvsGs8iJilHw%3D&ehkOptimized=0inspzxLqSwltSjwlhB7wu9yXa7AzMrn8qTbfrLGJtw%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669684500
     },
     {
