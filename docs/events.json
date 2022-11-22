@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669151704,
+  "fetched_at": 1669152507,
   "data": [
     {
       "slug": "tournament/super-smash-bronol-melee-10/event/melee-1vs1",
@@ -14,7 +14,15 @@
       "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
-      "entrants": 36,
+      "entrants": 40,
+      "start_time": 1669147200
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-104-lite-edition/event/ladder-melee-west-coast",
+      "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
+      "event_name": "Ladder Melee West Coast",
+      "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
+      "entrants": 12,
       "start_time": 1669147200
     },
     {
@@ -23,14 +31,6 @@
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
       "entrants": 11,
-      "start_time": 1669147200
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-104-lite-edition/event/ladder-melee-west-coast",
-      "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
-      "event_name": "Ladder Melee West Coast",
-      "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
-      "entrants": 10,
       "start_time": 1669147200
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Sketchy Series 7: Happy Sketchsgiving",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499069/image-44b6014a9ae15e513113e30981a7e1dd.png?ehk=3JSFetTShOK9UwASsO5b%2B1CaRKLX3%2FuFpk0IqsnxYPU%3D&ehkOptimized=0WRETchTBHCmcLLEWacFtjz6FCPO%2B%2FkMVpHDkXV%2BqoA%3D",
-      "entrants": 15,
+      "entrants": 17,
       "start_time": 1669161600
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Cataquackdown 17: I am Neo",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498768/image-a729a7eebf91d26dc40dd9e931558933.png?ehk=%2Fw%2BlGOrXdWHCHxozPJ4TYRNjT6a%2FcarJ2zgMqiNgZP4%3D&ehkOptimized=hqQcI%2BDKxHcyB3B%2Bkw1HstY%2FOZ0c64oL6hFwrPu0eJA%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669165200
     },
     {
