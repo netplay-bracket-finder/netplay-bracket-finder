@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669141396,
+  "fetched_at": 1669142736,
   "data": [
     {
       "slug": "tournament/super-smash-bronol-melee-10/event/melee-1vs1",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/500064/image-07e49cb752d770ee1b2f10b2a868ce42.jpg?ehk=PrS6pNzpYjxwCS7LGrBOqGp1EZBA5T57rt%2F6GaQM4ow%3D&ehkOptimized=UIApt7Yl8qZ3W1cs8eq8D2KiYPmRI2lEn%2Fy6Z2HF6DY%3D",
       "entrants": 0,
       "start_time": 1669129200
-    },
-    {
-      "slug": "tournament/tuesday-night-fever-7/event/melee-singles",
-      "tournament_name": "Tuesday Night Fever #7",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/499616/image-2a1fe7c2705a0557cfc75e9fe85da4ff.png?ehk=Xz%2BqGszKEQAr1TsjKQpYsW5ypIaPtRvmBTgqXWNkcUs%3D&ehkOptimized=jx8FZOorbj1WADXrWoN8liePoGhBzETtdBrCMh5hcP8%3D",
-      "entrants": 27,
-      "start_time": 1669143600
     },
     {
       "slug": "tournament/melee-delaware-smash-2/event/melee-ds-1v1",
@@ -102,7 +94,7 @@
       "tournament_name": "Sketchy Series 7: Happy Sketchsgiving",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499069/image-44b6014a9ae15e513113e30981a7e1dd.png?ehk=3JSFetTShOK9UwASsO5b%2B1CaRKLX3%2FuFpk0IqsnxYPU%3D&ehkOptimized=0WRETchTBHCmcLLEWacFtjz6FCPO%2B%2FkMVpHDkXV%2BqoA%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1669161600
     },
     {
@@ -134,7 +126,7 @@
       "tournament_name": "Level One Melee #53 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/498913/image-9e4f58504a4ce8e5e13445b1932f3d7a.png?ehk=J6ZE%2BtpeBndGPDrHweZbvJu7ylXx47nxljquMo9gD1E%3D&ehkOptimized=0y5%2BSFnk0THOeEfEJ2cns3DnFpwDZc8aBIgmgODz4Rc%3D",
-      "entrants": 6,
+      "entrants": 8,
       "start_time": 1669168800
     },
     {
@@ -222,7 +214,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 64,
+      "entrants": 65,
       "start_time": 1669482000
     },
     {
