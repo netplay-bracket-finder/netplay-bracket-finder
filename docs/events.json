@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669186457,
+  "fetched_at": 1669187733,
   "data": [
     {
       "slug": "tournament/super-smash-bronol-melee-10/event/melee-1vs1",
@@ -117,7 +117,7 @@
       "slug": "tournament/bb-80/event/melee-singles",
       "tournament_name": "BB 80",
       "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/500277/image-08d4845a5bb52777e298cff1775c98d8.png?ehk=4R5lgU2I65VDhSUiwYNybiPTWJyAabZ35NcWEDtE7Eo%3D&ehkOptimized=Iv8QYGPhWNxi3TSHEc5t9Y8H5234qRslBueNeMCiob0%3D",
+      "image": "https://images.start.gg/images/tournament/500277/image-73695edf55d4255994d6ec9fa480ef89.png?ehk=5SEaZp0MZyVMCFVJJJyXZIPU%2Fl8NgCbpKaIdJaAwkOw%3D&ehkOptimized=ZdtDMr%2FsnfTJYtzArIpdvZGbrysQ9TCDV%2Fa41mNyhyA%3D",
       "entrants": 2,
       "start_time": 1669359600
     },
@@ -154,28 +154,12 @@
       "start_time": 1669427100
     },
     {
-      "slug": "tournament/quest-for-best-noob-eu-47-a-qfbn-all-star/event/newbie-singles",
-      "tournament_name": "Quest for Best Noob EU #47 A QFBN All Star Summit Qualifier Event",
-      "event_name": "Newbie Singles",
-      "image": "https://images.start.gg/images/tournament/500187/image-3cc2fa4263d3c66bdb3f18885d46925d.jpg?ehk=mUtXnBLN%2FfX3LzhZQ1en7qKJUEwlmZbYP3kajY5fpaQ%3D&ehkOptimized=bbt19iG%2FIGufvZoX31%2BGh96upGaKbqFjiDL%2FxU0YNxo%3D",
-      "entrants": 1,
-      "start_time": 1669476600
-    },
-    {
-      "slug": "tournament/ssbm-ru-monthly-november-2022/event/melee-singles",
-      "tournament_name": "SSBM RU Monthly (November 2022)",
-      "event_name": "Melee singles",
-      "image": "https://images.start.gg/images/tournament/486648/image-1a007bd96e2c3e8139041fb6b3642531.png?ehk=NUaYhMrnmnlnMoI2P9M9sU%2FTzrHUIUEdl3tQMPdU48c%3D&ehkOptimized=WQ55KwsxkzqTwShXZ4Ou0cVZuwfFaMgvnmxXhBlVa9E%3D",
-      "entrants": 6,
-      "start_time": 1669478400
-    },
-    {
-      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-east-melee-singles",
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/eu-melee-singles",
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
-      "event_name": "NA East Melee Singles",
+      "event_name": "EU Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 68,
-      "start_time": 1669482000
+      "entrants": 30,
+      "start_time": 1669471200
     },
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-coast-to-coast-items-on",
@@ -194,6 +178,14 @@
       "start_time": 1669482000
     },
     {
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-east-melee-singles",
+      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
+      "event_name": "NA East Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
+      "entrants": 68,
+      "start_time": 1669485600
+    },
+    {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-west-melee-singles",
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Melee Singles",
@@ -202,12 +194,20 @@
       "start_time": 1669496400
     },
     {
-      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/eu-melee-singles",
-      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
-      "event_name": "EU Melee Singles",
-      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 30,
-      "start_time": 1669550400
+      "slug": "tournament/quest-for-best-noob-eu-47-a-qfbn-all-star/event/newbie-singles",
+      "tournament_name": "Quest for Best Noob EU #47 A QFBN All Star Summit Qualifier Event",
+      "event_name": "Newbie Singles",
+      "image": "https://images.start.gg/images/tournament/500187/image-3cc2fa4263d3c66bdb3f18885d46925d.jpg?ehk=mUtXnBLN%2FfX3LzhZQ1en7qKJUEwlmZbYP3kajY5fpaQ%3D&ehkOptimized=bbt19iG%2FIGufvZoX31%2BGh96upGaKbqFjiDL%2FxU0YNxo%3D",
+      "entrants": 1,
+      "start_time": 1669476600
+    },
+    {
+      "slug": "tournament/ssbm-ru-monthly-november-2022/event/melee-singles",
+      "tournament_name": "SSBM RU Monthly (November 2022)",
+      "event_name": "Melee singles",
+      "image": "https://images.start.gg/images/tournament/486648/image-1a007bd96e2c3e8139041fb6b3642531.png?ehk=NUaYhMrnmnlnMoI2P9M9sU%2FTzrHUIUEdl3tQMPdU48c%3D&ehkOptimized=WQ55KwsxkzqTwShXZ4Ou0cVZuwfFaMgvnmxXhBlVa9E%3D",
+      "entrants": 6,
+      "start_time": 1669478400
     },
     {
       "slug": "tournament/the-battlefields-series-60/event/melee-singles",
@@ -430,7 +430,7 @@
       "tournament_name": "Level Two Melee Playoff (LOM Season 5)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497701/image-0fe0c43ccd269e31aff5d2d7a880c288.png?ehk=dnLsLnlUo3jXl5nRID3tmELgn4nw7zQu6L1F2ernwVE%3D&ehkOptimized=QQIzl0BIw%2BpM35kgoLK3S%2Fpiu%2F6EBfV%2B6l2pkmRE2lA%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1671390000
     },
     {
