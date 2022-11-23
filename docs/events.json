@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669227666,
+  "fetched_at": 1669228937,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-46/event/melee-singles",
       "tournament_name": "Waddle Wednesday 46",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499404/image-1cab3940798aecd41695cd15f3abfbfb.png?ehk=1N%2BPfqtYOrT496IsQMuGWQz4AEUCbButXTheRajPq30%3D&ehkOptimized=CwQqpuecFJ1vd%2BcsFDCcuuU2CDzCMYmn7d%2FCsMj%2BXrE%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1669251600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "TN Netplay Thanksgiving Edition",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500291/image-b829f2695d61cfa9bb2cbadf7c456b25.jpg?ehk=Ku4hpmTkcPjkYUfu%2BSE0HpMeINB7nuNpA4v577ifn%2BU%3D&ehkOptimized=UNWGqxbOxz%2BIuMS7cZUP1jd3AT7H2ki7W3JId91Q2Lg%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1669253340
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Silver Slippi League #32",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/500160/image-1c7e654fcbb8f3b6416200674d17e7ae.png?ehk=7dPPQ9sbAcV%2Fnbxcta%2Bzj5E8VNwo%2Bl5ql5F6C3XVUUU%3D&ehkOptimized=f5gfy5N%2FEa0lDhYIfNHYvpyaNVcmRiAJKIpMpYPwpVI%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1669255200
     },
     {
@@ -160,6 +160,22 @@
       "image": "https://images.start.gg/images/tournament/497591/image-fcbe255b8102184fd0005767940d961b.png?ehk=hayYxI3oRFmlcgjGNVuaT34dvckvoYDulIuwiEphiTo%3D&ehkOptimized=adaM8MTG722cm4HISkARmZFbrvUC5QJF9DYxJf%2FJgTY%3D",
       "entrants": 0,
       "start_time": 1669590000
+    },
+    {
+      "slug": "tournament/after-dark-melee-6/event/after-dark-singles",
+      "tournament_name": "After Dark Melee - #6",
+      "event_name": "After Dark Singles",
+      "image": "https://images.start.gg/images/tournament/500367/image-1e1a532533dcb3628954401292ed4ccb.png?ehk=4HfrXvypZqqTxHXjzf%2Byyl%2FoOdvFuf2jBxz7QlQNTjg%3D&ehkOptimized=EIYJYKyzotZ%2FCS%2FLyIQD856w%2FMsRa57c0XoPSAFMHPQ%3D",
+      "entrants": 0,
+      "start_time": 1669493700
+    },
+    {
+      "slug": "tournament/after-dark-melee-6/event/after-dark-doubles",
+      "tournament_name": "After Dark Melee - #6",
+      "event_name": "After Dark Doubles",
+      "image": "https://images.start.gg/images/tournament/500367/image-1e1a532533dcb3628954401292ed4ccb.png?ehk=4HfrXvypZqqTxHXjzf%2Byyl%2FoOdvFuf2jBxz7QlQNTjg%3D&ehkOptimized=EIYJYKyzotZ%2FCS%2FLyIQD856w%2FMsRa57c0XoPSAFMHPQ%3D",
+      "entrants": 0,
+      "start_time": 1669498200
     },
     {
       "slug": "tournament/porq-adobo-5-road-to-ryan-major/event/melee-singles",
