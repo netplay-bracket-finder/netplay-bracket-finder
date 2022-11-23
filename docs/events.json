@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669234675,
+  "fetched_at": 1669235910,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-46/event/melee-singles",
       "tournament_name": "Waddle Wednesday 46",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499404/image-1cab3940798aecd41695cd15f3abfbfb.png?ehk=1N%2BPfqtYOrT496IsQMuGWQz4AEUCbButXTheRajPq30%3D&ehkOptimized=CwQqpuecFJ1vd%2BcsFDCcuuU2CDzCMYmn7d%2FCsMj%2BXrE%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1669251600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "TN Netplay Thanksgiving Edition",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500291/image-b829f2695d61cfa9bb2cbadf7c456b25.jpg?ehk=Ku4hpmTkcPjkYUfu%2BSE0HpMeINB7nuNpA4v577ifn%2BU%3D&ehkOptimized=UNWGqxbOxz%2BIuMS7cZUP1jd3AT7H2ki7W3JId91Q2Lg%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1669253340
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "EU Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 34,
+      "entrants": 37,
       "start_time": 1669471200
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 72,
+      "entrants": 73,
       "start_time": 1669485600
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 33,
+      "entrants": 34,
       "start_time": 1669496400
     },
     {
@@ -142,7 +142,7 @@
       "tournament_name": "Quest for Best Noob EU #47 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/500187/image-3cc2fa4263d3c66bdb3f18885d46925d.jpg?ehk=mUtXnBLN%2FfX3LzhZQ1en7qKJUEwlmZbYP3kajY5fpaQ%3D&ehkOptimized=bbt19iG%2FIGufvZoX31%2BGh96upGaKbqFjiDL%2FxU0YNxo%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669476600
     },
     {
