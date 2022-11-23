@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669191756,
+  "fetched_at": 1669192946,
   "data": [
     {
       "slug": "tournament/the-dairy-farm-9/event/melee-singles",
       "tournament_name": "The Dairy Farm #9",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499834/image-d5a2cd60884b5b5e7207c083da548be6.png?ehk=G5Fz4%2FhquVZg6Rpb8pxVLWjImG0Qi322qSjnoSEwu5E%3D&ehkOptimized=z2qNs0TD2fx%2Fotk0jzfgzB0XQY7iFzoGu4XJiFGpdKY%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669228200
     },
     {
@@ -16,6 +16,14 @@
       "image": "https://images.start.gg/images/tournament/499404/image-1cab3940798aecd41695cd15f3abfbfb.png?ehk=1N%2BPfqtYOrT496IsQMuGWQz4AEUCbButXTheRajPq30%3D&ehkOptimized=CwQqpuecFJ1vd%2BcsFDCcuuU2CDzCMYmn7d%2FCsMj%2BXrE%3D",
       "entrants": 5,
       "start_time": 1669251600
+    },
+    {
+      "slug": "tournament/tn-netplay-thanksgiving-edition/event/melee-singles",
+      "tournament_name": "TN Netplay Thanksgiving Edition",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/500291/image-b829f2695d61cfa9bb2cbadf7c456b25.jpg?ehk=Ku4hpmTkcPjkYUfu%2BSE0HpMeINB7nuNpA4v577ifn%2BU%3D&ehkOptimized=UNWGqxbOxz%2BIuMS7cZUP1jd3AT7H2ki7W3JId91Q2Lg%3D",
+      "entrants": 0,
+      "start_time": 1669253340
     },
     {
       "slug": "tournament/silver-slippi-league-32/event/melee-ranked-ladder",
@@ -30,7 +38,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #40 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498935/image-2d1dc91f092fd33c86084b1ee5391f80.png?ehk=BVllJgNGjyBtq4vzUxbdP7pZHXzVfBosytlzjhKOHfc%3D&ehkOptimized=2JbRyqDpuYp891ruTLGg%2FBFczDoRzc29UkPGpCdJfLI%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1669312800
     },
     {
