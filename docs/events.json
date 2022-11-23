@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669181832,
+  "fetched_at": 1669182690,
   "data": [
     {
       "slug": "tournament/super-smash-bronol-melee-10/event/melee-1vs1",
@@ -34,14 +34,6 @@
       "start_time": 1669174200
     },
     {
-      "slug": "tournament/training-mode-tuesdays-104-lite-edition/event/main-bracket-wc-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
-      "event_name": "Main Bracket: WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
-      "entrants": 19,
-      "start_time": 1669174200
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-104-lite-edition/event/main-bracket-ec-melee-singles",
       "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
@@ -56,6 +48,14 @@
       "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
       "entrants": 17,
       "start_time": 1669163400
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-104-lite-edition/event/main-bracket-wc-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
+      "event_name": "Main Bracket: WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
+      "entrants": 19,
+      "start_time": 1669174200
     },
     {
       "slug": "tournament/the-dairy-farm-9/event/melee-singles",
@@ -112,6 +112,14 @@
       "image": "https://images.start.gg/images/tournament/499535/image-fd3e3fb8bd8b92e1b4c0172ac578c14b.jpg?ehk=Fpzdk2GzpNGizNY2JXNNDvWAMdCGZXKO6yaINJ%2B49no%3D&ehkOptimized=4QprYgvSspe%2FffKAr2QQJJMjCNXILrxWMaa54k1HVss%3D",
       "entrants": 11,
       "start_time": 1669334400
+    },
+    {
+      "slug": "tournament/bb-80/event/melee-singles",
+      "tournament_name": "BB 80",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/500277/image-08d4845a5bb52777e298cff1775c98d8.png?ehk=4R5lgU2I65VDhSUiwYNybiPTWJyAabZ35NcWEDtE7Eo%3D&ehkOptimized=Iv8QYGPhWNxi3TSHEc5t9Y8H5234qRslBueNeMCiob0%3D",
+      "entrants": 0,
+      "start_time": 1669359600
     },
     {
       "slug": "tournament/side-b-rebate-1/event/side-b-rebate-melee-1",
