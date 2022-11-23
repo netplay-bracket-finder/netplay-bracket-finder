@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669174403,
+  "fetched_at": 1669175629,
   "data": [
     {
       "slug": "tournament/super-smash-bronol-melee-10/event/melee-1vs1",
@@ -26,14 +26,6 @@
       "start_time": 1669147200
     },
     {
-      "slug": "tournament/training-mode-tuesdays-104-lite-edition/event/main-bracket-ec-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
-      "event_name": "Main Bracket: EC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
-      "entrants": 25,
-      "start_time": 1669163400
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-104-lite-edition/event/side-event-ec-melee-redemption-bracket",
       "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
@@ -58,6 +50,14 @@
       "start_time": 1669174200
     },
     {
+      "slug": "tournament/training-mode-tuesdays-104-lite-edition/event/main-bracket-ec-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
+      "event_name": "Main Bracket: EC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
+      "entrants": 25,
+      "start_time": 1669163400
+    },
+    {
       "slug": "tournament/the-dairy-farm-9/event/melee-singles",
       "tournament_name": "The Dairy Farm #9",
       "event_name": "Melee Singles",
@@ -70,7 +70,7 @@
       "tournament_name": "Waddle Wednesday 46",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499404/image-1cab3940798aecd41695cd15f3abfbfb.png?ehk=1N%2BPfqtYOrT496IsQMuGWQz4AEUCbButXTheRajPq30%3D&ehkOptimized=CwQqpuecFJ1vd%2BcsFDCcuuU2CDzCMYmn7d%2FCsMj%2BXrE%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669251600
     },
     {
