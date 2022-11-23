@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669204282,
+  "fetched_at": 1669206891,
   "data": [
     {
       "slug": "tournament/the-dairy-farm-9/event/melee-singles",
       "tournament_name": "The Dairy Farm #9",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499834/image-d5a2cd60884b5b5e7207c083da548be6.png?ehk=G5Fz4%2FhquVZg6Rpb8pxVLWjImG0Qi322qSjnoSEwu5E%3D&ehkOptimized=z2qNs0TD2fx%2Fotk0jzfgzB0XQY7iFzoGu4XJiFGpdKY%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1669228200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 46",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499404/image-1cab3940798aecd41695cd15f3abfbfb.png?ehk=1N%2BPfqtYOrT496IsQMuGWQz4AEUCbButXTheRajPq30%3D&ehkOptimized=CwQqpuecFJ1vd%2BcsFDCcuuU2CDzCMYmn7d%2FCsMj%2BXrE%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1669251600
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 68,
+      "entrants": 69,
       "start_time": 1669485600
     },
     {
