@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669184515,
+  "fetched_at": 1669185798,
   "data": [
     {
       "slug": "tournament/super-smash-bronol-melee-10/event/melee-1vs1",
@@ -26,14 +26,6 @@
       "start_time": 1669147200
     },
     {
-      "slug": "tournament/training-mode-tuesdays-104-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
-      "entrants": 25,
-      "start_time": 1669174200
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-104-lite-edition/event/main-bracket-ec-melee-singles",
       "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
@@ -48,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
       "entrants": 17,
       "start_time": 1669163400
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-104-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #104 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/499972/image-819fed104ad36781d7267cc4652c94b0.png?ehk=pi3cPY0I5fcw3Zo9poGKFxgCmf5wnQ1UuFlLW7c4whE%3D&ehkOptimized=dS1n0%2FTLvUkt2iCTF%2Ft36HoWBRnllYhuOG%2FyBYbvEQk%3D",
+      "entrants": 25,
+      "start_time": 1669174200
     },
     {
       "slug": "tournament/training-mode-tuesdays-104-lite-edition/event/main-bracket-wc-melee-singles",
@@ -118,7 +118,7 @@
       "tournament_name": "BB 80",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500277/image-08d4845a5bb52777e298cff1775c98d8.png?ehk=4R5lgU2I65VDhSUiwYNybiPTWJyAabZ35NcWEDtE7Eo%3D&ehkOptimized=Iv8QYGPhWNxi3TSHEc5t9Y8H5234qRslBueNeMCiob0%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669359600
     },
     {
@@ -296,6 +296,22 @@
       "image": "https://images.start.gg/images/tournament/497896/image-f200f5b04bf94cc3075fec62b23a6fe4.jpg?ehk=xi%2Fyo1A4xWL0qPcwOjSIlsnXriF29SUHkFfXk2i%2FyDE%3D&ehkOptimized=N4eslqck2qK%2BuX5uYAnCipCxlCG%2FlHKNcTDJ7wkxiO8%3D",
       "entrants": 0,
       "start_time": 1669939200
+    },
+    {
+      "slug": "tournament/firaga-game-night/event/melee-doubles",
+      "tournament_name": "Firaga Game Night",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/500116/image-1f44fbea3ec36a369c881ec43ca63d9a.png?ehk=Zpw0%2Brj5D7gOxIa35x10JQqMspSudtkcYGqfgsqzXh8%3D&ehkOptimized=N%2Be0ghyPKs8E3r8FE%2FJKPuv%2FiyemgNTwSC%2BhJ3PtAxg%3D",
+      "entrants": 0,
+      "start_time": 1670101200
+    },
+    {
+      "slug": "tournament/firaga-game-night/event/melee-ladder",
+      "tournament_name": "Firaga Game Night",
+      "event_name": "Melee Ladder",
+      "image": "https://images.start.gg/images/tournament/500116/image-1f44fbea3ec36a369c881ec43ca63d9a.png?ehk=Zpw0%2Brj5D7gOxIa35x10JQqMspSudtkcYGqfgsqzXh8%3D&ehkOptimized=N%2Be0ghyPKs8E3r8FE%2FJKPuv%2FiyemgNTwSC%2BhJ3PtAxg%3D",
+      "entrants": 0,
+      "start_time": 1670101200
     },
     {
       "slug": "tournament/krampus-s-online-smashfest-1/event/melee-singles",
