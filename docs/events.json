@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669241785,
+  "fetched_at": 1669243102,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-46/event/melee-singles",
       "tournament_name": "Waddle Wednesday 46",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499404/image-1cab3940798aecd41695cd15f3abfbfb.png?ehk=1N%2BPfqtYOrT496IsQMuGWQz4AEUCbButXTheRajPq30%3D&ehkOptimized=CwQqpuecFJ1vd%2BcsFDCcuuU2CDzCMYmn7d%2FCsMj%2BXrE%3D",
-      "entrants": 25,
+      "entrants": 31,
       "start_time": 1669251600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "TN Netplay Thanksgiving Edition",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500291/image-b829f2695d61cfa9bb2cbadf7c456b25.jpg?ehk=Ku4hpmTkcPjkYUfu%2BSE0HpMeINB7nuNpA4v577ifn%2BU%3D&ehkOptimized=UNWGqxbOxz%2BIuMS7cZUP1jd3AT7H2ki7W3JId91Q2Lg%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1669253340
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "EU Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 40,
+      "entrants": 41,
       "start_time": 1669471200
     },
     {
