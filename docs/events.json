@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669182690,
+  "fetched_at": 1669184515,
   "data": [
     {
       "slug": "tournament/super-smash-bronol-melee-10/event/melee-1vs1",
@@ -118,7 +118,7 @@
       "tournament_name": "BB 80",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500277/image-08d4845a5bb52777e298cff1775c98d8.png?ehk=4R5lgU2I65VDhSUiwYNybiPTWJyAabZ35NcWEDtE7Eo%3D&ehkOptimized=Iv8QYGPhWNxi3TSHEc5t9Y8H5234qRslBueNeMCiob0%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669359600
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "Side-B Rebate 1",
       "event_name": "Side-B Rebate Melee 1",
       "image": "",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669410000
     },
     {
@@ -174,7 +174,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 67,
+      "entrants": 68,
       "start_time": 1669482000
     },
     {
