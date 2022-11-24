@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669333135,
+  "fetched_at": 1669333894,
   "data": [
     {
       "slug": "tournament/the-salad-online-50/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/499601/image-18aa954e5f5a4144b516b87749dca322.png?ehk=XzX8njqHNnRHPUnJFT9FGumlMmKvZl1VkUvatFnZZDI%3D&ehkOptimized=ewNa98b3P8U12tgqAELsGC%2FVYjwqDvZmyTSIL3gJUhY%3D",
       "entrants": 2,
       "start_time": 1669413600
-    },
-    {
-      "slug": "tournament/only-noobs-94/event/melee-singles",
-      "tournament_name": "Only Noobs 94",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/499535/image-fd3e3fb8bd8b92e1b4c0172ac578c14b.jpg?ehk=Fpzdk2GzpNGizNY2JXNNDvWAMdCGZXKO6yaINJ%2B49no%3D&ehkOptimized=4QprYgvSspe%2FffKAr2QQJJMjCNXILrxWMaa54k1HVss%3D",
-      "entrants": 79,
-      "start_time": 1669334400
     },
     {
       "slug": "tournament/bb-80/event/melee-singles",
