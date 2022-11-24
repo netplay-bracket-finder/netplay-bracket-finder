@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669253933,
+  "fetched_at": 1669257962,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-32/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #32",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/500160/image-1c7e654fcbb8f3b6416200674d17e7ae.png?ehk=7dPPQ9sbAcV%2Fnbxcta%2Bzj5E8VNwo%2Bl5ql5F6C3XVUUU%3D&ehkOptimized=f5gfy5N%2FEa0lDhYIfNHYvpyaNVcmRiAJKIpMpYPwpVI%3D",
-      "entrants": 24,
+      "entrants": 31,
       "start_time": 1669255200
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA Coast-To-Coast Items-On",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1669482000
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 78,
+      "entrants": 82,
       "start_time": 1669485600
     },
     {
@@ -118,7 +118,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 36,
+      "entrants": 37,
       "start_time": 1669496400
     },
     {
