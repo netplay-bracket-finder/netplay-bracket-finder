@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669293346,
+  "fetched_at": 1669295620,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-40-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #40 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498935/image-2d1dc91f092fd33c86084b1ee5391f80.png?ehk=BVllJgNGjyBtq4vzUxbdP7pZHXzVfBosytlzjhKOHfc%3D&ehkOptimized=2JbRyqDpuYp891ruTLGg%2FBFczDoRzc29UkPGpCdJfLI%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1669312800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "BB 80",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500277/image-73695edf55d4255994d6ec9fa480ef89.png?ehk=5SEaZp0MZyVMCFVJJJyXZIPU%2Fl8NgCbpKaIdJaAwkOw%3D&ehkOptimized=ZdtDMr%2FsnfTJYtzArIpdvZGbrysQ9TCDV%2Fa41mNyhyA%3D",
-      "entrants": 11,
+      "entrants": 16,
       "start_time": 1669359600
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "EU Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 44,
+      "entrants": 45,
       "start_time": 1669471200
     },
     {
