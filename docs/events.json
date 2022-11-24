@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669299329,
+  "fetched_at": 1669300643,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-40-eu-event/event/melee-singles",
@@ -16,6 +16,14 @@
       "image": "https://images.start.gg/images/tournament/498935/image-2d1dc91f092fd33c86084b1ee5391f80.png?ehk=BVllJgNGjyBtq4vzUxbdP7pZHXzVfBosytlzjhKOHfc%3D&ehkOptimized=2JbRyqDpuYp891ruTLGg%2FBFczDoRzc29UkPGpCdJfLI%3D",
       "entrants": 0,
       "start_time": 1669312800
+    },
+    {
+      "slug": "tournament/troppo-italiano-75/event/singles",
+      "tournament_name": "Troppo Italiano #75",
+      "event_name": "Singles",
+      "image": "https://images.start.gg/images/tournament/500556/image-c7c78038639340a3975acdbde587ba49.jpg?ehk=mO17zmHZbEgSObpphwf40vdbiRuOv%2BJfetxCnBQQiTE%3D&ehkOptimized=CzmXv89R48FX46Pg4U%2FNeNMKr2Mxrt7dtZbfmii5zBQ%3D",
+      "entrants": 3,
+      "start_time": 1669320000
     },
     {
       "slug": "tournament/the-salad-online-50/event/melee-singles",
