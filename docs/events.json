@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669307054,
+  "fetched_at": 1669308546,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-40-eu-event/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #40 (EU Event)",
       "event_name": "Toblerone waitlist",
       "image": "https://images.start.gg/images/tournament/498935/image-2d1dc91f092fd33c86084b1ee5391f80.png?ehk=BVllJgNGjyBtq4vzUxbdP7pZHXzVfBosytlzjhKOHfc%3D&ehkOptimized=2JbRyqDpuYp891ruTLGg%2FBFczDoRzc29UkPGpCdJfLI%3D",
-      "entrants": 3,
+      "entrants": 1,
       "start_time": 1669312800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Troppo Italiano #75",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/500556/image-c7c78038639340a3975acdbde587ba49.jpg?ehk=mO17zmHZbEgSObpphwf40vdbiRuOv%2BJfetxCnBQQiTE%3D&ehkOptimized=CzmXv89R48FX46Pg4U%2FNeNMKr2Mxrt7dtZbfmii5zBQ%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1669320000
     },
     {
@@ -150,7 +150,7 @@
       "tournament_name": "After Dark Melee - #6",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/500367/image-1e1a532533dcb3628954401292ed4ccb.png?ehk=4HfrXvypZqqTxHXjzf%2Byyl%2FoOdvFuf2jBxz7QlQNTjg%3D&ehkOptimized=EIYJYKyzotZ%2FCS%2FLyIQD856w%2FMsRa57c0XoPSAFMHPQ%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669493700
     },
     {
@@ -158,7 +158,7 @@
       "tournament_name": "After Dark Melee - #6",
       "event_name": "After Dark Doubles",
       "image": "https://images.start.gg/images/tournament/500367/image-1e1a532533dcb3628954401292ed4ccb.png?ehk=4HfrXvypZqqTxHXjzf%2Byyl%2FoOdvFuf2jBxz7QlQNTjg%3D&ehkOptimized=EIYJYKyzotZ%2FCS%2FLyIQD856w%2FMsRa57c0XoPSAFMHPQ%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669498200
     },
     {
