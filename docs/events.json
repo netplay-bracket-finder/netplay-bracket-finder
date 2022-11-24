@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669316030,
+  "fetched_at": 1669317231,
   "data": [
     {
       "slug": "tournament/troppo-italiano-75/event/singles",
       "tournament_name": "Troppo Italiano #75",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/500556/image-c7c78038639340a3975acdbde587ba49.jpg?ehk=mO17zmHZbEgSObpphwf40vdbiRuOv%2BJfetxCnBQQiTE%3D&ehkOptimized=CzmXv89R48FX46Pg4U%2FNeNMKr2Mxrt7dtZbfmii5zBQ%3D",
-      "entrants": 9,
+      "entrants": 11,
       "start_time": 1669320000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Only Noobs 94",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499535/image-fd3e3fb8bd8b92e1b4c0172ac578c14b.jpg?ehk=Fpzdk2GzpNGizNY2JXNNDvWAMdCGZXKO6yaINJ%2B49no%3D&ehkOptimized=4QprYgvSspe%2FffKAr2QQJJMjCNXILrxWMaa54k1HVss%3D",
-      "entrants": 29,
+      "entrants": 31,
       "start_time": 1669334400
     },
     {
