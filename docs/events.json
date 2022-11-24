@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669290689,
+  "fetched_at": 1669293346,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-40-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #40 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498935/image-2d1dc91f092fd33c86084b1ee5391f80.png?ehk=BVllJgNGjyBtq4vzUxbdP7pZHXzVfBosytlzjhKOHfc%3D&ehkOptimized=2JbRyqDpuYp891ruTLGg%2FBFczDoRzc29UkPGpCdJfLI%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1669312800
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 88,
+      "entrants": 89,
       "start_time": 1669485600
     },
     {
@@ -352,6 +352,14 @@
       "image": "https://images.start.gg/images/tournament/498261/image-542ac2ee11e8497bebc0259c10cb8d85.png?ehk=plB0BejFZMXsr36WuG8hFFarDq%2FBol80VC84NA4BVzo%3D&ehkOptimized=CgdCyc5nTJmQ2GfCCfwXr2v7PZE7va2PEGFYoiJVHDU%3D",
       "entrants": 0,
       "start_time": 1671505200
+    },
+    {
+      "slug": "tournament/deter-melee-low-tier-reborn/event/deter-melee-low-tier-reborn",
+      "tournament_name": "Deter-Melee Low Tier Reborn",
+      "event_name": "Deter-Melee Low Tier Reborn",
+      "image": "https://images.start.gg/images/tournament/482549/image-df29c1008b4492f36c3e4ac3613ab8f2.png?ehk=u5XdmF06c5YIhs9dISb7UNXBN76TjEu6ygQhMUbzod4%3D&ehkOptimized=j0qWbo1G6mxURU5xHyxRkPlw%2FuUn%2BOhkTc%2BFVGai%2FpU%3D",
+      "entrants": 0,
+      "start_time": 1671219000
     },
     {
       "slug": "tournament/finnish-melee-league-2022-finals/event/fml2022-top-8-final-bracket",
