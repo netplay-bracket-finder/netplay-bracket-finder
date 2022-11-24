@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669257962,
+  "fetched_at": 1669260408,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-32/event/melee-ranked-ladder",
@@ -110,7 +110,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 82,
+      "entrants": 83,
       "start_time": 1669485600
     },
     {
@@ -174,7 +174,7 @@
       "tournament_name": "Scrub Quotes 5",
       "event_name": "SCRUB QUOTES 5: EAST COAST",
       "image": "",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669669200
     },
     {
@@ -304,22 +304,6 @@
       "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
       "entrants": 1,
       "start_time": 1670713200
-    },
-    {
-      "slug": "tournament/the-big-pink/event/melee-doubles",
-      "tournament_name": "The BIG Pink",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/492672/image-e59cad14eec8a33939c7d3b7dbf1f8ad.jpg?ehk=Ug%2FzytecnblTpI7NCFssNEth%2BnbO36iP%2BnWZ%2B6NBsUc%3D&ehkOptimized=2AJYP8G0yTIXMxUR%2F%2FcBZ4BDHvxGORbrUxLHiVKrTgY%3D",
-      "entrants": 3,
-      "start_time": 1670716800
-    },
-    {
-      "slug": "tournament/the-big-pink/event/melee-singles",
-      "tournament_name": "The BIG Pink",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/492672/image-e59cad14eec8a33939c7d3b7dbf1f8ad.jpg?ehk=Ug%2FzytecnblTpI7NCFssNEth%2BnbO36iP%2BnWZ%2B6NBsUc%3D&ehkOptimized=2AJYP8G0yTIXMxUR%2F%2FcBZ4BDHvxGORbrUxLHiVKrTgY%3D",
-      "entrants": 17,
-      "start_time": 1670731200
     },
     {
       "slug": "tournament/house-call-2-flow-s-bday-edition-1/event/melee-singles",
