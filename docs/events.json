@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669266947,
+  "fetched_at": 1669268221,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-32/event/melee-ranked-ladder",
@@ -224,6 +224,14 @@
       "image": "https://images.start.gg/images/tournament/500012/image-dd2d25d27c62667e345ad8747a3a11c0.png?ehk=5KDrXRePJnMY2fiSPXvylHWdc%2F2jq7%2Blaa6vPHB7acs%3D&ehkOptimized=oWroiCduupqmyfHhTsdLmhIxV8WRKsbKYnI%2FbW6tFVs%3D",
       "entrants": 1,
       "start_time": 1669689000
+    },
+    {
+      "slug": "tournament/waddle-wednesday-47/event/melee-singles",
+      "tournament_name": "Waddle Wednesday 47",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/500512/image-adcef7fe1ce740550a3fe020f903cda0.png?ehk=FGha5nDMcHYmBSsv70ed%2FJNpfhlYoVFtHTlAcmtBTCw%3D&ehkOptimized=d6UEl35AYCCrID5OPEo25B91haAp9BhD6IwulCIHxlY%3D",
+      "entrants": 0,
+      "start_time": 1669856400
     },
     {
       "slug": "tournament/the-distribution/event/melee-singles",
