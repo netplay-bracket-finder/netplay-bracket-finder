@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669265012,
+  "fetched_at": 1669265683,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-32/event/melee-ranked-ladder",
@@ -166,7 +166,7 @@
       "tournament_name": "Porq Adobo #5: Road To Ryan Major",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500307/image-3616ec2250a8d931c1bde01907a1b0b4.png?ehk=LmRtPk7QrBDWSHBLtAWSaXQfM4oLNrHpZv5DJBNSXwI%3D&ehkOptimized=aV0WkwSvr1qaGgUYFAEHX5eHb6rgJHHsK6CZzzJen4g%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669528800
     },
     {
@@ -376,6 +376,14 @@
       "image": "https://images.start.gg/images/tournament/497902/image-d4a4ad55c6d3f427365089239afc51e0.png?ehk=c7m3EkEj1F7EWLm%2BxOeXmCiOUcw2OhOt3A4FI8Zz8eg%3D&ehkOptimized=HULTs1MXhHY5McbFWyLKZ%2F%2BtiG%2Fm4vsKGgfSY8Bycz4%3D",
       "entrants": 0,
       "start_time": 1671490800
+    },
+    {
+      "slug": "tournament/welcome-to-the-new-year-2023-pink-tournament/event/melee-singles",
+      "tournament_name": "Welcome to the New Year 2023 (Pink Tournament)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/500501/image-7411ff231c94a7c7d2c4450032d349b9.png?ehk=TrrtCTwLhq5k1XM1zjTiLk9HmFC9ziz0pCXFsLiqjTQ%3D&ehkOptimized=CY%2FaIHTMouaz81%2FKVTaBjrxq%2Ff13aOH4%2B%2B4MOGIxr60%3D",
+      "entrants": 0,
+      "start_time": 1672628400
     },
     {
       "slug": "tournament/sizzling-sundays-beef-wellington-edition/event/melee-singles",
