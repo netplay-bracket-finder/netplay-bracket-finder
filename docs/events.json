@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669310136,
+  "fetched_at": 1669311442,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-40-eu-event/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #40 (EU Event)",
       "event_name": "Toblerone waitlist",
       "image": "https://images.start.gg/images/tournament/498935/image-2d1dc91f092fd33c86084b1ee5391f80.png?ehk=BVllJgNGjyBtq4vzUxbdP7pZHXzVfBosytlzjhKOHfc%3D&ehkOptimized=2JbRyqDpuYp891ruTLGg%2FBFczDoRzc29UkPGpCdJfLI%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669312800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Only Noobs 94",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499535/image-fd3e3fb8bd8b92e1b4c0172ac578c14b.jpg?ehk=Fpzdk2GzpNGizNY2JXNNDvWAMdCGZXKO6yaINJ%2B49no%3D&ehkOptimized=4QprYgvSspe%2FffKAr2QQJJMjCNXILrxWMaa54k1HVss%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1669334400
     },
     {
@@ -54,8 +54,8 @@
       "tournament_name": "ASL's Weekly Weekend Melee #17",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500584/image-83e2bdaae4b4b8775f379db35d59e8ac.png?ehk=BA1TjjrXF%2FO1bka6LNyzWABvohpj8ibTt8Q16CyJDZo%3D&ehkOptimized=eBznSHzb7JCABNDf615DOuZvieL7sCD%2Fk5wnZXQi6Bc%3D",
-      "entrants": 0,
-      "start_time": 1669393800
+      "entrants": 3,
+      "start_time": 1669397400
     },
     {
       "slug": "tournament/side-b-rebate-1/event/side-b-rebate-melee-1",
