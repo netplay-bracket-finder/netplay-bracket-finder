@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669295620,
+  "fetched_at": 1669297139,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-40-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #40 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498935/image-2d1dc91f092fd33c86084b1ee5391f80.png?ehk=BVllJgNGjyBtq4vzUxbdP7pZHXzVfBosytlzjhKOHfc%3D&ehkOptimized=2JbRyqDpuYp891ruTLGg%2FBFczDoRzc29UkPGpCdJfLI%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1669312800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "The Salad Online 50",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499601/image-18aa954e5f5a4144b516b87749dca322.png?ehk=XzX8njqHNnRHPUnJFT9FGumlMmKvZl1VkUvatFnZZDI%3D&ehkOptimized=ewNa98b3P8U12tgqAELsGC%2FVYjwqDvZmyTSIL3gJUhY%3D",
-      "entrants": 2,
+      "entrants": 1,
       "start_time": 1669413600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Only Noobs 94",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499535/image-fd3e3fb8bd8b92e1b4c0172ac578c14b.jpg?ehk=Fpzdk2GzpNGizNY2JXNNDvWAMdCGZXKO6yaINJ%2B49no%3D&ehkOptimized=4QprYgvSspe%2FffKAr2QQJJMjCNXILrxWMaa54k1HVss%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1669334400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "BB 80",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500277/image-73695edf55d4255994d6ec9fa480ef89.png?ehk=5SEaZp0MZyVMCFVJJJyXZIPU%2Fl8NgCbpKaIdJaAwkOw%3D&ehkOptimized=ZdtDMr%2FsnfTJYtzArIpdvZGbrysQ9TCDV%2Fa41mNyhyA%3D",
-      "entrants": 16,
+      "entrants": 18,
       "start_time": 1669359600
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 89,
+      "entrants": 90,
       "start_time": 1669485600
     },
     {
