@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669303081,
+  "fetched_at": 1669304426,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-40-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #40 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/498935/image-2d1dc91f092fd33c86084b1ee5391f80.png?ehk=BVllJgNGjyBtq4vzUxbdP7pZHXzVfBosytlzjhKOHfc%3D&ehkOptimized=2JbRyqDpuYp891ruTLGg%2FBFczDoRzc29UkPGpCdJfLI%3D",
-      "entrants": 11,
+      "entrants": 15,
       "start_time": 1669312800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #40 (EU Event)",
       "event_name": "Toblerone waitlist",
       "image": "https://images.start.gg/images/tournament/498935/image-2d1dc91f092fd33c86084b1ee5391f80.png?ehk=BVllJgNGjyBtq4vzUxbdP7pZHXzVfBosytlzjhKOHfc%3D&ehkOptimized=2JbRyqDpuYp891ruTLGg%2FBFczDoRzc29UkPGpCdJfLI%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669312800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Only Noobs 94",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/499535/image-fd3e3fb8bd8b92e1b4c0172ac578c14b.jpg?ehk=Fpzdk2GzpNGizNY2JXNNDvWAMdCGZXKO6yaINJ%2B49no%3D&ehkOptimized=4QprYgvSspe%2FffKAr2QQJJMjCNXILrxWMaa54k1HVss%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1669334400
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "BB 80",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500277/image-73695edf55d4255994d6ec9fa480ef89.png?ehk=5SEaZp0MZyVMCFVJJJyXZIPU%2Fl8NgCbpKaIdJaAwkOw%3D&ehkOptimized=ZdtDMr%2FsnfTJYtzArIpdvZGbrysQ9TCDV%2Fa41mNyhyA%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1669359600
     },
     {
