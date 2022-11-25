@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669400505,
+  "fetched_at": 1669401745,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-17/event/melee-singles",
@@ -10,19 +10,11 @@
       "start_time": 1669398000
     },
     {
-      "slug": "tournament/raccoon-rumble-5-pre-gmo-edition/event/melee-singles",
-      "tournament_name": "Raccoon Rumble #5 ! Pre GMO edition",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/500729/image-82377f9341abf123e9c9b5197fba7839.jpg?ehk=Ia%2F5744Z2TxtD0hV%2B3XTlFRgEWrXClvFqj4fJJ2EdBw%3D&ehkOptimized=kFx%2B3YiUq1rH7pcGMt5Wv7o0fcntZppOcz2z8gy4D%2FI%3D",
-      "entrants": 10,
-      "start_time": 1669401000
-    },
-    {
       "slug": "tournament/online-melee-bracket/event/slippi-singles",
       "tournament_name": "Online Melee Bracket",
       "event_name": "Slippi Singles",
       "image": "https://images.start.gg/images/tournament/500733/image-1847e7a8ba2bb0a01c62b79d397e7f17.png?ehk=PEzegpVOYC%2FpIvGWi8K7Usirn4bxq%2FRDP15wxZXKV8M%3D&ehkOptimized=d%2BhmVeU95NBV3IRC5sFaVzVE9oETPBid%2BJLDF%2BRSERA%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1669406400
     },
     {
