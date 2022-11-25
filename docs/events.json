@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669394973,
+  "fetched_at": 1669396521,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-17/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Online Melee Bracket",
       "event_name": "Slippi Singles",
       "image": "https://images.start.gg/images/tournament/500733/image-1847e7a8ba2bb0a01c62b79d397e7f17.png?ehk=PEzegpVOYC%2FpIvGWi8K7Usirn4bxq%2FRDP15wxZXKV8M%3D&ehkOptimized=d%2BhmVeU95NBV3IRC5sFaVzVE9oETPBid%2BJLDF%2BRSERA%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669406400
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #13",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/500060/image-462b9c80d64e2b40d9dd0e3bb9b005a6.png?ehk=puwzPMg6yKgoRrZTzW7FKKjO0hNzGYwh5BdX3rlDtRA%3D&ehkOptimized=VbBFgK9kBBVAlJnql573ggAUC%2BR5ZAjb8t%2B6Y1TXJHk%3D",
-      "entrants": 3,
+      "entrants": 7,
       "start_time": 1669420800
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 115,
+      "entrants": 116,
       "start_time": 1669485600
     },
     {
@@ -198,7 +198,7 @@
       "tournament_name": "CASINO ROYALE 3 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/500012/image-dd2d25d27c62667e345ad8747a3a11c0.png?ehk=5KDrXRePJnMY2fiSPXvylHWdc%2F2jq7%2Blaa6vPHB7acs%3D&ehkOptimized=oWroiCduupqmyfHhTsdLmhIxV8WRKsbKYnI%2FbW6tFVs%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669689000
     },
     {
@@ -255,6 +255,14 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497056/image-83854e21ab91c8d31c6168c57a0b70ec.png?ehk=lHe1BSTrtbOVIt2vFjfSL00smP3XX8Py%2Fv5CjB8jpBM%3D&ehkOptimized=8m4TLqYp7OQSSuMrnFanqyjXBTNTVqPj2dMPEy7WUOo%3D",
       "entrants": 2,
+      "start_time": 1669939200
+    },
+    {
+      "slug": "tournament/only-noobs-95/event/melee-singles",
+      "tournament_name": "Only Noobs 95",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/500765/image-65021135e9060b27ee0b5229edaa6e10.jpg?ehk=W7yrzTbBPnWbz9m0sTHIDQ3zmFyCmNrTThedIDsPk%2FA%3D&ehkOptimized=MYDuutz9Xoedc%2BhziZ3ah5xt7OMKmFZuwTPmuMAUA1c%3D",
+      "entrants": 0,
       "start_time": 1669939200
     },
     {
