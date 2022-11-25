@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669393453,
+  "fetched_at": 1669394973,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-17/event/melee-singles",
@@ -86,7 +86,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 46,
+      "entrants": 47,
       "start_time": 1669496400
     },
     {
@@ -328,6 +328,22 @@
       "image": "https://images.start.gg/images/tournament/498056/image-1e40a77911fbe85ae04fe7b93510b98f.png?ehk=tPFKbZRs9Bim72Jcs6UcR0UPvOl3EA3WPqXINfGcPSs%3D&ehkOptimized=UZwrBU7rFc0esecSQ7cmBDuPJnZtnYWfD0Alh0q%2BQlk%3D",
       "entrants": 1,
       "start_time": 1670724000
+    },
+    {
+      "slug": "tournament/blumflip-presents-frozen-destination/event/melee-doubles",
+      "tournament_name": "blumflip presents: Frozen Destination",
+      "event_name": "melee doubles",
+      "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
+      "entrants": 0,
+      "start_time": 1670792400
+    },
+    {
+      "slug": "tournament/blumflip-presents-frozen-destination/event/melee-singles",
+      "tournament_name": "blumflip presents: Frozen Destination",
+      "event_name": "melee singles",
+      "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
+      "entrants": 0,
+      "start_time": 1670803200
     },
     {
       "slug": "tournament/cg-gold-invitational-last-chance-qualifier/event/ssbm-randomizer-singles",
