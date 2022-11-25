@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669409473,
+  "fetched_at": 1669410910,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-17/event/melee-singles",
@@ -42,6 +42,14 @@
       "start_time": 1669427100
     },
     {
+      "slug": "tournament/ggs-too-sleepy-30-art-prize/event/sleepy-singles",
+      "tournament_name": "ggs too sleepy #30 - Art Prize!",
+      "event_name": "sleepy singles",
+      "image": "https://images.start.gg/images/tournament/500814/image-e55b9f1bc98d20cb6735c677486e427a.png?ehk=B5s014a3KoE%2BA3HXriS4%2FNaRwTA9Egrr%2B2GG6U3OxAs%3D&ehkOptimized=7dPcDm8pSHpaukMqEfScUJmGVTMBoAuFt0%2FgLKfDU3w%3D",
+      "entrants": 0,
+      "start_time": 1669437000
+    },
+    {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/eu-melee-singles",
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "EU Melee Singles",
@@ -62,7 +70,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West & East Melee Doubles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1669482000
     },
     {
@@ -70,7 +78,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 126,
+      "entrants": 129,
       "start_time": 1669485600
     },
     {
@@ -262,7 +270,7 @@
       "tournament_name": "Only Noobs 95",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500765/image-65021135e9060b27ee0b5229edaa6e10.jpg?ehk=W7yrzTbBPnWbz9m0sTHIDQ3zmFyCmNrTThedIDsPk%2FA%3D&ehkOptimized=MYDuutz9Xoedc%2BhziZ3ah5xt7OMKmFZuwTPmuMAUA1c%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669939200
     },
     {
