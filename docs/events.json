@@ -1,20 +1,20 @@
 {
-  "fetched_at": 1669391479,
+  "fetched_at": 1669393453,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-17/event/melee-singles",
       "tournament_name": "ASL's Weekly Weekend Melee #17",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500584/image-83e2bdaae4b4b8775f379db35d59e8ac.png?ehk=BA1TjjrXF%2FO1bka6LNyzWABvohpj8ibTt8Q16CyJDZo%3D&ehkOptimized=eBznSHzb7JCABNDf615DOuZvieL7sCD%2Fk5wnZXQi6Bc%3D",
-      "entrants": 3,
-      "start_time": 1669397400
+      "entrants": 4,
+      "start_time": 1669398000
     },
     {
       "slug": "tournament/raccoon-rumble-5-pre-gmo-edition/event/melee-singles",
       "tournament_name": "Raccoon Rumble #5 ! Pre GMO edition",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500729/image-82377f9341abf123e9c9b5197fba7839.jpg?ehk=Ia%2F5744Z2TxtD0hV%2B3XTlFRgEWrXClvFqj4fJJ2EdBw%3D&ehkOptimized=kFx%2B3YiUq1rH7pcGMt5Wv7o0fcntZppOcz2z8gy4D%2FI%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669401000
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "EU Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 56,
+      "entrants": 57,
       "start_time": 1669471200
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 113,
+      "entrants": 115,
       "start_time": 1669485600
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 45,
+      "entrants": 46,
       "start_time": 1669496400
     },
     {
@@ -262,7 +262,7 @@
       "tournament_name": "Melee Legends 5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500679/image-b5937a096c9018d5288526b275cd88b6.png?ehk=BOjAUkEg5Q%2Fdk%2FfYn3UoVcTqam8mn6XyxPiI3SleJoU%3D&ehkOptimized=7XRrfGXp%2BS2Yafkngbd5Hn0yKNzfGVOrj4JggxztJD8%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670029200
     },
     {
