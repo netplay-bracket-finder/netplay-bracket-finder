@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669384283,
+  "fetched_at": 1669385726,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-17/event/melee-singles",
@@ -102,7 +102,7 @@
       "tournament_name": "After Dark Melee - #6",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/500367/image-1e1a532533dcb3628954401292ed4ccb.png?ehk=4HfrXvypZqqTxHXjzf%2Byyl%2FoOdvFuf2jBxz7QlQNTjg%3D&ehkOptimized=EIYJYKyzotZ%2FCS%2FLyIQD856w%2FMsRa57c0XoPSAFMHPQ%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669493700
     },
     {
@@ -120,6 +120,14 @@
       "image": "https://images.start.gg/images/tournament/500307/image-3616ec2250a8d931c1bde01907a1b0b4.png?ehk=LmRtPk7QrBDWSHBLtAWSaXQfM4oLNrHpZv5DJBNSXwI%3D&ehkOptimized=aV0WkwSvr1qaGgUYFAEHX5eHb6rgJHHsK6CZzzJen4g%3D",
       "entrants": 4,
       "start_time": 1669528800
+    },
+    {
+      "slug": "tournament/fight-of-the-fearless-29/event/fight-of-the-fearless-single",
+      "tournament_name": "Fight of the Fearless 29",
+      "event_name": "Fight Of The Fearless single",
+      "image": "https://images.start.gg/images/tournament/500716/image-0f1c2a2dd5d7070ead6d37cecb45d89e.png?ehk=7XI11R5JBaUkTeq8vXRhg6UIEiO0OHGzI61c%2BBS3MCI%3D&ehkOptimized=ZJWb7cyMt18IxGVFEaMma4yHLu%2Fzim12CsklNpqwHIc%3D",
+      "entrants": 0,
+      "start_time": 1669572000
     },
     {
       "slug": "tournament/scrub-quotes-5/event/scrub-quotes-5-east-coast",
