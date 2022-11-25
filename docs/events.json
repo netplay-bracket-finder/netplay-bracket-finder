@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669333894,
+  "fetched_at": 1669339615,
   "data": [
     {
       "slug": "tournament/the-salad-online-50/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "BB 80",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500277/image-73695edf55d4255994d6ec9fa480ef89.png?ehk=5SEaZp0MZyVMCFVJJJyXZIPU%2Fl8NgCbpKaIdJaAwkOw%3D&ehkOptimized=ZdtDMr%2FsnfTJYtzArIpdvZGbrysQ9TCDV%2Fa41mNyhyA%3D",
-      "entrants": 22,
+      "entrants": 26,
       "start_time": 1669359600
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 96,
+      "entrants": 98,
       "start_time": 1669485600
     },
     {
@@ -254,7 +254,7 @@
       "tournament_name": "Firaga Game Night",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/500116/image-1f44fbea3ec36a369c881ec43ca63d9a.png?ehk=Zpw0%2Brj5D7gOxIa35x10JQqMspSudtkcYGqfgsqzXh8%3D&ehkOptimized=N%2Be0ghyPKs8E3r8FE%2FJKPuv%2FiyemgNTwSC%2BhJ3PtAxg%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670101200
     },
     {
