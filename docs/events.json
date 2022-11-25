@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669347324,
+  "fetched_at": 1669348493,
   "data": [
     {
       "slug": "tournament/the-salad-online-50/event/melee-singles",
@@ -86,7 +86,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 100,
+      "entrants": 101,
       "start_time": 1669485600
     },
     {
@@ -200,6 +200,22 @@
       "image": "https://images.start.gg/images/tournament/500012/image-dd2d25d27c62667e345ad8747a3a11c0.png?ehk=5KDrXRePJnMY2fiSPXvylHWdc%2F2jq7%2Blaa6vPHB7acs%3D&ehkOptimized=oWroiCduupqmyfHhTsdLmhIxV8WRKsbKYnI%2FbW6tFVs%3D",
       "entrants": 1,
       "start_time": 1669689000
+    },
+    {
+      "slug": "tournament/netmoal-3/event/melee-doubles",
+      "tournament_name": "NetMoaL 3",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/500674/image-92616e06cc6a6a93f3249e1bcdac792d.png?ehk=u5peOTVAvHex3qoRO%2Fmk9C1VZjgKXaKEBRC3eZRb23g%3D&ehkOptimized=EWyJWqnkiL%2FJQumaVrpayuGIWjl1gkgGvs3ymkNy7oQ%3D",
+      "entrants": 0,
+      "start_time": 1669766400
+    },
+    {
+      "slug": "tournament/netmoal-3/event/melee-singles",
+      "tournament_name": "NetMoaL 3",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/500674/image-92616e06cc6a6a93f3249e1bcdac792d.png?ehk=u5peOTVAvHex3qoRO%2Fmk9C1VZjgKXaKEBRC3eZRb23g%3D&ehkOptimized=EWyJWqnkiL%2FJQumaVrpayuGIWjl1gkgGvs3ymkNy7oQ%3D",
+      "entrants": 0,
+      "start_time": 1669766400
     },
     {
       "slug": "tournament/waddle-wednesday-47/event/melee-singles",
