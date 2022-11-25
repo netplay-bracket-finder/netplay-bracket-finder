@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669396521,
+  "fetched_at": 1669397843,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-17/event/melee-singles",
       "tournament_name": "ASL's Weekly Weekend Melee #17",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500584/image-83e2bdaae4b4b8775f379db35d59e8ac.png?ehk=BA1TjjrXF%2FO1bka6LNyzWABvohpj8ibTt8Q16CyJDZo%3D&ehkOptimized=eBznSHzb7JCABNDf615DOuZvieL7sCD%2Fk5wnZXQi6Bc%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1669398000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Online Melee Bracket",
       "event_name": "Slippi Singles",
       "image": "https://images.start.gg/images/tournament/500733/image-1847e7a8ba2bb0a01c62b79d397e7f17.png?ehk=PEzegpVOYC%2FpIvGWi8K7Usirn4bxq%2FRDP15wxZXKV8M%3D&ehkOptimized=d%2BhmVeU95NBV3IRC5sFaVzVE9oETPBid%2BJLDF%2BRSERA%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669406400
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA Coast-To-Coast Items-On",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1669482000
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 47,
+      "entrants": 48,
       "start_time": 1669496400
     },
     {
@@ -142,7 +142,7 @@
       "tournament_name": "Fight of the Fearless 29",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/500716/image-0f1c2a2dd5d7070ead6d37cecb45d89e.png?ehk=7XI11R5JBaUkTeq8vXRhg6UIEiO0OHGzI61c%2BBS3MCI%3D&ehkOptimized=ZJWb7cyMt18IxGVFEaMma4yHLu%2Fzim12CsklNpqwHIc%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669572000
     },
     {
@@ -192,6 +192,14 @@
       "image": "https://images.start.gg/images/tournament/500048/image-1c95d3c0544fd4614375f0d402546e6a.jpg?ehk=gm1dpLtAypFzdonSZpVDsZQFSsJ0FKnqvsGs8iJilHw%3D&ehkOptimized=0inspzxLqSwltSjwlhB7wu9yXa7AzMrn8qTbfrLGJtw%3D",
       "entrants": 2,
       "start_time": 1669684500
+    },
+    {
+      "slug": "tournament/spudfest-43/event/melee-singles",
+      "tournament_name": "Spudfest 43",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/500766/image-10a3832d0578e2a5c9812e2a3aad893e.jpg?ehk=zTjQ4y2%2BXqeDkS5ERgLdV5A87VM5zjX52W3RanHnsIE%3D&ehkOptimized=al3YbOAKYarOL0RfCTljw7R78enIIRTUQ4aNGBhaeRs%3D",
+      "entrants": 1,
+      "start_time": 1669687200
     },
     {
       "slug": "tournament/casino-royale-3-ssbm-online-weekly/event/casino",
@@ -270,7 +278,7 @@
       "tournament_name": "Melee Legends 5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500679/image-b5937a096c9018d5288526b275cd88b6.png?ehk=BOjAUkEg5Q%2Fdk%2FfYn3UoVcTqam8mn6XyxPiI3SleJoU%3D&ehkOptimized=7XRrfGXp%2BS2Yafkngbd5Hn0yKNzfGVOrj4JggxztJD8%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670029200
     },
     {
@@ -432,6 +440,14 @@
       "image": "https://images.start.gg/images/tournament/500501/image-7411ff231c94a7c7d2c4450032d349b9.png?ehk=TrrtCTwLhq5k1XM1zjTiLk9HmFC9ziz0pCXFsLiqjTQ%3D&ehkOptimized=CY%2FaIHTMouaz81%2FKVTaBjrxq%2Ff13aOH4%2B%2B4MOGIxr60%3D",
       "entrants": 2,
       "start_time": 1672628400
+    },
+    {
+      "slug": "tournament/only-noobs-100/event/melee-singles",
+      "tournament_name": "Only Noobs 100",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/500769/image-c1f51b67ac96325382364b23438cef9b.jpg?ehk=waiKt5ppfiPvV9MkhpebvcqGHOB6%2FTFZb1QsmX3J%2Big%3D&ehkOptimized=JUTlCBjw0cMGCGpQN5P9BvR%2BbYjxkV196rK0OwNKjJg%3D",
+      "entrants": 0,
+      "start_time": 1672963200
     },
     {
       "slug": "tournament/sizzling-sundays-beef-wellington-edition/event/melee-singles",
