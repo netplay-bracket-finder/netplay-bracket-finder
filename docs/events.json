@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669415910,
+  "fetched_at": 1669416685,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-17/event/melee-singles",
@@ -16,6 +16,14 @@
       "image": "https://images.start.gg/images/tournament/500733/image-1847e7a8ba2bb0a01c62b79d397e7f17.png?ehk=PEzegpVOYC%2FpIvGWi8K7Usirn4bxq%2FRDP15wxZXKV8M%3D&ehkOptimized=d%2BhmVeU95NBV3IRC5sFaVzVE9oETPBid%2BJLDF%2BRSERA%3D",
       "entrants": 11,
       "start_time": 1669406400
+    },
+    {
+      "slug": "tournament/side-b-rebate-1/event/side-b-rebate-melee-1",
+      "tournament_name": "Side-B Rebate 1",
+      "event_name": "Side-B Rebate Melee 1",
+      "image": "",
+      "entrants": 3,
+      "start_time": 1669410000
     },
     {
       "slug": "tournament/ssbm-randomizer-seed-of-the-week-13/event/ssbmr-singles",
@@ -46,7 +54,7 @@
       "tournament_name": "ggs too sleepy #30 - Art Prize!",
       "event_name": "sleepy singles",
       "image": "https://images.start.gg/images/tournament/500814/image-e55b9f1bc98d20cb6735c677486e427a.png?ehk=B5s014a3KoE%2BA3HXriS4%2FNaRwTA9Egrr%2B2GG6U3OxAs%3D&ehkOptimized=7dPcDm8pSHpaukMqEfScUJmGVTMBoAuFt0%2FgLKfDU3w%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1669437000
     },
     {
@@ -70,7 +78,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West & East Melee Doubles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1669482000
     },
     {
@@ -78,7 +86,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 133,
+      "entrants": 135,
       "start_time": 1669485600
     },
     {
@@ -166,7 +174,7 @@
       "tournament_name": "Woop Melee! #54",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500222/image-af56caadfcd1d8c60b0285d75e256bb0.png?ehk=DaC2sjLx6ABzt6qAs7VyIU043XcfePETa%2Fx7ph0zIMU%3D&ehkOptimized=DwIRi2a%2BGFafycb3qltPkiu%2FjsMt0zG4ueW7pgGY5UY%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669680000
     },
     {
@@ -230,7 +238,7 @@
       "tournament_name": "Waddle Wednesday 47",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500512/image-adcef7fe1ce740550a3fe020f903cda0.png?ehk=FGha5nDMcHYmBSsv70ed%2FJNpfhlYoVFtHTlAcmtBTCw%3D&ehkOptimized=d6UEl35AYCCrID5OPEo25B91haAp9BhD6IwulCIHxlY%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669856400
     },
     {
@@ -358,7 +366,7 @@
       "tournament_name": "blumflip presents: Frozen Destination",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1670803200
     },
     {
