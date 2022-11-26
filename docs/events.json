@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669499474,
+  "fetched_at": 1669500959,
   "data": [
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-west-east-melee-doubles",
@@ -66,19 +66,11 @@
       "start_time": 1669590000
     },
     {
-      "slug": "tournament/sby-melee-netplay-139/event/melee-singles",
-      "tournament_name": "SBY Melee Netplay #139",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/500907/image-0d00c9c379deccf730140f92419304b8.jpg?ehk=2G5iHtHsBVWJTSYAuVK15r%2Bh6piUiMIHW%2BUIhLHNWlQ%3D&ehkOptimized=N8%2FXKBCVrBLHRcQ2%2BeQXRjAwTamVYDgLBFFqgn%2Fk0Ew%3D",
-      "entrants": 13,
-      "start_time": 1669501800
-    },
-    {
       "slug": "tournament/sober-saturday-119/event/melee-singles",
       "tournament_name": "Sober Saturday #119",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501035/image-d480fffe619cf559aa9bbabd39fe5629.jpg?ehk=BuUiQX2yqC%2FYitLfvSFnIShFci4zwix3%2BR2qCCH5Y9c%3D&ehkOptimized=iJzOzOveqkEujQ45CMbc30reiIeZQeVhpBb7Y13LauY%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1669510800
     },
     {
@@ -86,7 +78,7 @@
       "tournament_name": "Porq Adobo #5: Road To Ryan Major",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500307/image-3616ec2250a8d931c1bde01907a1b0b4.png?ehk=LmRtPk7QrBDWSHBLtAWSaXQfM4oLNrHpZv5DJBNSXwI%3D&ehkOptimized=aV0WkwSvr1qaGgUYFAEHX5eHb6rgJHHsK6CZzzJen4g%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1669528800
     },
     {
@@ -118,7 +110,7 @@
       "tournament_name": "Fight of the Fearless 29",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/500716/image-0f1c2a2dd5d7070ead6d37cecb45d89e.png?ehk=7XI11R5JBaUkTeq8vXRhg6UIEiO0OHGzI61c%2BBS3MCI%3D&ehkOptimized=ZJWb7cyMt18IxGVFEaMma4yHLu%2Fzim12CsklNpqwHIc%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1669572000
     },
     {
@@ -126,7 +118,7 @@
       "tournament_name": "LGBT S3E15: Retweet If You Love Lasagna",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/500865/image-21da2bb400fe2caec679e12c3ab249bc.png?ehk=ZWOMIsQweXD34QzSVPUJfF7UFIBStuj89IY4i3Hu3tg%3D&ehkOptimized=Troyhy%2BgspJWQQ0rSfAxnz7tIYjzk%2BqpWOYYb%2FxEBYs%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669579200
     },
     {
@@ -134,7 +126,7 @@
       "tournament_name": "LGBT S3E15: Retweet If You Love Lasagna",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500865/image-21da2bb400fe2caec679e12c3ab249bc.png?ehk=ZWOMIsQweXD34QzSVPUJfF7UFIBStuj89IY4i3Hu3tg%3D&ehkOptimized=Troyhy%2BgspJWQQ0rSfAxnz7tIYjzk%2BqpWOYYb%2FxEBYs%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669597200
     },
     {
