@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669483735,
+  "fetched_at": 1669484400,
   "data": [
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/eu-melee-singles",
@@ -8,6 +8,14 @@
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
       "entrants": 56,
       "start_time": 1669471200
+    },
+    {
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-east-ladder",
+      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
+      "event_name": "NA East Ladder",
+      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
+      "entrants": 11,
+      "start_time": 1669482000
     },
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-coast-to-coast-items-on",
@@ -23,14 +31,6 @@
       "event_name": "NA West & East Melee Doubles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
       "entrants": 16,
-      "start_time": 1669482000
-    },
-    {
-      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-east-ladder",
-      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
-      "event_name": "NA East Ladder",
-      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 11,
       "start_time": 1669482000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "After Dark Melee - #6",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/500367/image-1e1a532533dcb3628954401292ed4ccb.png?ehk=4HfrXvypZqqTxHXjzf%2Byyl%2FoOdvFuf2jBxz7QlQNTjg%3D&ehkOptimized=EIYJYKyzotZ%2FCS%2FLyIQD856w%2FMsRa57c0XoPSAFMHPQ%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1669493700
     },
     {
@@ -306,9 +306,9 @@
       "start_time": 1670029200
     },
     {
-      "slug": "tournament/komet-viii-super-week/event/komet-pro-league",
+      "slug": "tournament/komet-viii-super-week/event/komet-pro-league-super-week",
       "tournament_name": "KOMET VIII | SUPER WEEK",
-      "event_name": "KOMET Pro League",
+      "event_name": "KOMET Pro League | SUPER WEEK",
       "image": "https://images.start.gg/images/tournament/500993/image-ccbdda13ec619b629627d3607c37379b.png?ehk=2JIge6ON4yAFec4h8qwfNjRLVm81eoWgMsjgutbFMxQ%3D&ehkOptimized=ISeJGwfX6DmIeMpSJGQ2LWJfEhQ9STlErbO0gFn1Z1c%3D",
       "entrants": 0,
       "start_time": 1670090400
