@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669420282,
+  "fetched_at": 1669425804,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-17/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/500584/image-83e2bdaae4b4b8775f379db35d59e8ac.png?ehk=BA1TjjrXF%2FO1bka6LNyzWABvohpj8ibTt8Q16CyJDZo%3D&ehkOptimized=eBznSHzb7JCABNDf615DOuZvieL7sCD%2Fk5wnZXQi6Bc%3D",
       "entrants": 6,
       "start_time": 1669398000
-    },
-    {
-      "slug": "tournament/online-melee-bracket/event/slippi-singles",
-      "tournament_name": "Online Melee Bracket",
-      "event_name": "Slippi Singles",
-      "image": "https://images.start.gg/images/tournament/500733/image-1847e7a8ba2bb0a01c62b79d397e7f17.png?ehk=PEzegpVOYC%2FpIvGWi8K7Usirn4bxq%2FRDP15wxZXKV8M%3D&ehkOptimized=d%2BhmVeU95NBV3IRC5sFaVzVE9oETPBid%2BJLDF%2BRSERA%3D",
-      "entrants": 11,
-      "start_time": 1669406400
     },
     {
       "slug": "tournament/ssbm-randomizer-seed-of-the-week-13/event/ssbmr-singles",
@@ -34,27 +26,11 @@
       "start_time": 1669420800
     },
     {
-      "slug": "tournament/side-b-rebate-1/event/side-b-rebate-melee-1",
-      "tournament_name": "Side-B Rebate 1",
-      "event_name": "Side-B Rebate Melee 1",
-      "image": "",
-      "entrants": 4,
-      "start_time": 1669410000
-    },
-    {
-      "slug": "tournament/the-shallow-end-12-a-wc-newbie-bracket-1/event/melee-singles",
-      "tournament_name": "The Shallow End #12 - a WC newbie bracket",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/499309/image-6fd38bfe9afc89d004a6ad536d67a740.jpg?ehk=%2BmHZ99vsWKdET3aCMbkBfxg1rseENdy3yvG5GeG02%2F8%3D&ehkOptimized=k8a8zlBmow6RZjlJ1zGlIc9yZqaXrerpv9hThT1xTko%3D",
-      "entrants": 5,
-      "start_time": 1669427100
-    },
-    {
       "slug": "tournament/ggs-too-sleepy-30-art-prize/event/sleepy-singles",
       "tournament_name": "ggs too sleepy #30 - Art Prize!",
       "event_name": "sleepy singles",
       "image": "https://images.start.gg/images/tournament/500814/image-e55b9f1bc98d20cb6735c677486e427a.png?ehk=B5s014a3KoE%2BA3HXriS4%2FNaRwTA9Egrr%2B2GG6U3OxAs%3D&ehkOptimized=7dPcDm8pSHpaukMqEfScUJmGVTMBoAuFt0%2FgLKfDU3w%3D",
-      "entrants": 18,
+      "entrants": 28,
       "start_time": 1669437000
     },
     {
@@ -70,7 +46,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA Coast-To-Coast Items-On",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1669482000
     },
     {
@@ -78,7 +54,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West & East Melee Doubles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1669482000
     },
     {
@@ -86,7 +62,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 138,
+      "entrants": 145,
       "start_time": 1669485600
     },
     {
@@ -94,7 +70,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 53,
+      "entrants": 56,
       "start_time": 1669496400
     },
     {
@@ -152,6 +128,30 @@
       "image": "https://images.start.gg/images/tournament/500716/image-0f1c2a2dd5d7070ead6d37cecb45d89e.png?ehk=7XI11R5JBaUkTeq8vXRhg6UIEiO0OHGzI61c%2BBS3MCI%3D&ehkOptimized=ZJWb7cyMt18IxGVFEaMma4yHLu%2Fzim12CsklNpqwHIc%3D",
       "entrants": 1,
       "start_time": 1669572000
+    },
+    {
+      "slug": "tournament/the-dojo-33-season-finale/event/melee-singles",
+      "tournament_name": "The Dojo #33 (Season Finale)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/500869/image-ae97b7b10544f9e5f8471003604a23b2.png?ehk=wDacma1B5JopuC%2BP3nQvSg0VMVPrl2U9cqMzLbXn9c8%3D&ehkOptimized=A6WWz4dpOJSO%2B4z2xJf%2Ff9nggaEEcQhs%2Fd6s%2BdDVJyc%3D",
+      "entrants": 0,
+      "start_time": 1669586400
+    },
+    {
+      "slug": "tournament/scss-east-coast-96/event/melee-singles",
+      "tournament_name": "SCSS East Coast #96",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/500856/image-4bb354d81dc5f720aeaa6144a1331a8b.png?ehk=FDAzHEJLzzAIxZfpXJksn85hyqIL1LdbVb9A2PsYzfY%3D&ehkOptimized=JS6JiK%2BJl5WK752%2B7rN%2BpEfRm9dHcfColg7V%2BOIvQns%3D",
+      "entrants": 2,
+      "start_time": 1669595400
+    },
+    {
+      "slug": "tournament/scss-west-coast-85/event/melee-singles",
+      "tournament_name": "SCSS West Coast #85",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/500858/image-aead7be19025b2597a5036ca6685e853.png?ehk=f8wvySw8PFFMtipuZzwwXvkjkzA6RVdcdWS7svhrUZ4%3D&ehkOptimized=UeXT66xjdj2rylw7YIaIkQ3tZ4yBT6N9MF46MDVxPSU%3D",
+      "entrants": 0,
+      "start_time": 1669599000
     },
     {
       "slug": "tournament/scrub-quotes-5/event/scrub-quotes-5-east-coast",
