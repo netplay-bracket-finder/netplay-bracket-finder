@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669474280,
+  "fetched_at": 1669475786,
   "data": [
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/eu-melee-singles",
@@ -58,14 +58,6 @@
       "start_time": 1669496400
     },
     {
-      "slug": "tournament/quest-for-best-noob-eu-47-a-qfbn-all-star/event/newbie-singles",
-      "tournament_name": "Quest for Best Noob EU #47 A QFBN All Star Summit Qualifier Event",
-      "event_name": "Newbie Singles",
-      "image": "https://images.start.gg/images/tournament/500187/image-3cc2fa4263d3c66bdb3f18885d46925d.jpg?ehk=mUtXnBLN%2FfX3LzhZQ1en7qKJUEwlmZbYP3kajY5fpaQ%3D&ehkOptimized=bbt19iG%2FIGufvZoX31%2BGh96upGaKbqFjiDL%2FxU0YNxo%3D",
-      "entrants": 11,
-      "start_time": 1669476600
-    },
-    {
       "slug": "tournament/ssbm-ru-monthly-november-2022/event/melee-singles",
       "tournament_name": "SSBM RU Monthly (November 2022)",
       "event_name": "Melee singles",
@@ -86,7 +78,7 @@
       "tournament_name": "After Dark Melee - #6",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/500367/image-1e1a532533dcb3628954401292ed4ccb.png?ehk=4HfrXvypZqqTxHXjzf%2Byyl%2FoOdvFuf2jBxz7QlQNTjg%3D&ehkOptimized=EIYJYKyzotZ%2FCS%2FLyIQD856w%2FMsRa57c0XoPSAFMHPQ%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1669493700
     },
     {
@@ -126,7 +118,7 @@
       "tournament_name": "Fight of the Fearless 29",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/500716/image-0f1c2a2dd5d7070ead6d37cecb45d89e.png?ehk=7XI11R5JBaUkTeq8vXRhg6UIEiO0OHGzI61c%2BBS3MCI%3D&ehkOptimized=ZJWb7cyMt18IxGVFEaMma4yHLu%2Fzim12CsklNpqwHIc%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669572000
     },
     {
