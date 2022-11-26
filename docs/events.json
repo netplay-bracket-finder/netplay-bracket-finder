@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669481259,
+  "fetched_at": 1669482871,
   "data": [
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/eu-melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Ladder",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1669482000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "After Dark Melee - #6",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/500367/image-1e1a532533dcb3628954401292ed4ccb.png?ehk=4HfrXvypZqqTxHXjzf%2Byyl%2FoOdvFuf2jBxz7QlQNTjg%3D&ehkOptimized=EIYJYKyzotZ%2FCS%2FLyIQD856w%2FMsRa57c0XoPSAFMHPQ%3D",
-      "entrants": 8,
+      "entrants": 12,
       "start_time": 1669493700
     },
     {
@@ -104,6 +104,22 @@
       "image": "https://images.start.gg/images/tournament/500307/image-3616ec2250a8d931c1bde01907a1b0b4.png?ehk=LmRtPk7QrBDWSHBLtAWSaXQfM4oLNrHpZv5DJBNSXwI%3D&ehkOptimized=aV0WkwSvr1qaGgUYFAEHX5eHb6rgJHHsK6CZzzJen4g%3D",
       "entrants": 7,
       "start_time": 1669528800
+    },
+    {
+      "slug": "tournament/eli-s-weekly-low-tier-spanking-32/event/eli-s-weekly-low-tier-spanking-15",
+      "tournament_name": "Eli's Weekly Low Tier Spanking 32",
+      "event_name": "Eli's Weekly Low Tier Spanking 15",
+      "image": "https://images.start.gg/images/tournament/500990/image-f1c1301c6724f2ba4995b2fe0fa88752.png?ehk=RJKPM2qncsS1J%2Fp54eyfSV5QX3DOE29QkiCUsvskfQg%3D&ehkOptimized=JniNS40eQPJJJKwQgXn4JZV7tuqY9uHU4y1ErQ65V3E%3D",
+      "entrants": 0,
+      "start_time": 1669557600
+    },
+    {
+      "slug": "tournament/eli-s-weekly-low-tier-spanking-32/event/eli-s-weekly-low-tier-spanking-15-double-team-battle",
+      "tournament_name": "Eli's Weekly Low Tier Spanking 32",
+      "event_name": "Eli's Weekly Low Tier Spanking 15 Double Team Battle Special Event",
+      "image": "https://images.start.gg/images/tournament/500990/image-f1c1301c6724f2ba4995b2fe0fa88752.png?ehk=RJKPM2qncsS1J%2Fp54eyfSV5QX3DOE29QkiCUsvskfQg%3D&ehkOptimized=JniNS40eQPJJJKwQgXn4JZV7tuqY9uHU4y1ErQ65V3E%3D",
+      "entrants": 0,
+      "start_time": 1669557600
     },
     {
       "slug": "tournament/fight-of-the-fearless-29/event/fight-of-the-fearless-single",
@@ -270,7 +286,7 @@
       "tournament_name": "Only Noobs 95",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500765/image-65021135e9060b27ee0b5229edaa6e10.jpg?ehk=W7yrzTbBPnWbz9m0sTHIDQ3zmFyCmNrTThedIDsPk%2FA%3D&ehkOptimized=MYDuutz9Xoedc%2BhziZ3ah5xt7OMKmFZuwTPmuMAUA1c%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1669939200
     },
     {
