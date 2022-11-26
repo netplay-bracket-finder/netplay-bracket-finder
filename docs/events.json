@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669498742,
+  "fetched_at": 1669499474,
   "data": [
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-west-east-melee-doubles",
@@ -126,7 +126,7 @@
       "tournament_name": "LGBT S3E15: Retweet If You Love Lasagna",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/500865/image-21da2bb400fe2caec679e12c3ab249bc.png?ehk=ZWOMIsQweXD34QzSVPUJfF7UFIBStuj89IY4i3Hu3tg%3D&ehkOptimized=Troyhy%2BgspJWQQ0rSfAxnz7tIYjzk%2BqpWOYYb%2FxEBYs%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669579200
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "LGBT S3E15: Retweet If You Love Lasagna",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500865/image-21da2bb400fe2caec679e12c3ab249bc.png?ehk=ZWOMIsQweXD34QzSVPUJfF7UFIBStuj89IY4i3Hu3tg%3D&ehkOptimized=Troyhy%2BgspJWQQ0rSfAxnz7tIYjzk%2BqpWOYYb%2FxEBYs%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669597200
     },
     {
@@ -270,7 +270,7 @@
       "tournament_name": "Silver Slippi League #33",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/500665/image-18b2f3538525b9cb13b7a8555ac5a608.png?ehk=Vy4NiE2uJ4mUJ3RdeesWtqbd0N2f6LPMkUKnvWRvU0c%3D&ehkOptimized=FrnARgvfMG4jbsSl4gEENnXJFdZEeoqKBfXDNtwr640%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669860000
     },
     {
@@ -534,7 +534,7 @@
       "tournament_name": "POLYPUFF.",
       "event_name": "MELEE SINGLES.",
       "image": "https://images.start.gg/images/tournament/500504/image-cbb396b8b534bdd41041e657b6e18cfc.jpg?ehk=u6Q6lmVuGQInUd7%2F0LahR%2FingKtzU1JHOMML76nFo7M%3D&ehkOptimized=X8z%2BUq9%2FN29u7AQ7gat8fbIKk%2F9wuq0xsHcFHci%2BeKE%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1673827200
     },
     {
