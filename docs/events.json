@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669465840,
+  "fetched_at": 1669467873,
   "data": [
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/eu-melee-singles",
@@ -26,19 +26,19 @@
       "start_time": 1669482000
     },
     {
-      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-west-ladder",
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-east-ladder",
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
-      "event_name": "NA West Ladder",
+      "event_name": "NA East Ladder",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
       "entrants": 1,
       "start_time": 1669482000
     },
     {
-      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-east-ladder",
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-west-ladder",
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
-      "event_name": "NA East Ladder",
+      "event_name": "NA West Ladder",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669482000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "SSBM RU Monthly (November 2022)",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/486648/image-1a007bd96e2c3e8139041fb6b3642531.png?ehk=NUaYhMrnmnlnMoI2P9M9sU%2FTzrHUIUEdl3tQMPdU48c%3D&ehkOptimized=WQ55KwsxkzqTwShXZ4Ou0cVZuwfFaMgvnmxXhBlVa9E%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1669478400
     },
     {
@@ -238,7 +238,7 @@
       "tournament_name": "Road 2 Glory : Revival",
       "event_name": "Single Div",
       "image": "https://images.start.gg/images/tournament/500948/image-d70fd612ee29f7338a9855db1486a1c8.png?ehk=Ut5HPI2E8wKFkcrAEDgZoxiNTJlFwGXaOirqmZGO%2F2w%3D&ehkOptimized=BO8i55EAePjegHCIMUe3kWPu0XXRPlAXZDOiLECZOn8%3D",
-      "entrants": 0,
+      "entrants": 2,
       "start_time": 1669824000
     },
     {
