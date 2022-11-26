@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669486812,
+  "fetched_at": 1669488059,
   "data": [
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-east-ladder",
@@ -62,7 +62,7 @@
       "tournament_name": "The Battlefields Series #60",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497591/image-fcbe255b8102184fd0005767940d961b.png?ehk=hayYxI3oRFmlcgjGNVuaT34dvckvoYDulIuwiEphiTo%3D&ehkOptimized=adaM8MTG722cm4HISkARmZFbrvUC5QJF9DYxJf%2FJgTY%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669590000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "After Dark Melee - #6",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/500367/image-1e1a532533dcb3628954401292ed4ccb.png?ehk=4HfrXvypZqqTxHXjzf%2Byyl%2FoOdvFuf2jBxz7QlQNTjg%3D&ehkOptimized=EIYJYKyzotZ%2FCS%2FLyIQD856w%2FMsRa57c0XoPSAFMHPQ%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1669493700
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "SBY Melee Netplay #139",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500907/image-0d00c9c379deccf730140f92419304b8.jpg?ehk=2G5iHtHsBVWJTSYAuVK15r%2Bh6piUiMIHW%2BUIhLHNWlQ%3D&ehkOptimized=N8%2FXKBCVrBLHRcQ2%2BeQXRjAwTamVYDgLBFFqgn%2Fk0Ew%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1669501800
     },
     {
@@ -152,6 +152,14 @@
       "image": "https://images.start.gg/images/tournament/500856/image-4bb354d81dc5f720aeaa6144a1331a8b.png?ehk=FDAzHEJLzzAIxZfpXJksn85hyqIL1LdbVb9A2PsYzfY%3D&ehkOptimized=JS6JiK%2BJl5WK752%2B7rN%2BpEfRm9dHcfColg7V%2BOIvQns%3D",
       "entrants": 3,
       "start_time": 1669595400
+    },
+    {
+      "slug": "tournament/stellar-showdown-18-solar-circuit-qualifier-1/event/melee-singles",
+      "tournament_name": "Stellar Showdown #18 (Solar Circuit Qualifier)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/501008/image-f7965e95bd48caefb60fdf2435e4d0c6.png?ehk=dA2m5NWCMXKekbxJo9oNy7Ur67xoIJWKVZpl3UaEr10%3D&ehkOptimized=b3Z2Y%2B3kVtFR5mGOFdwkgiWb6EXpCBtDYMbUeEReW7c%3D",
+      "entrants": 0,
+      "start_time": 1669597200
     },
     {
       "slug": "tournament/scss-west-coast-85/event/melee-singles",
@@ -310,7 +318,7 @@
       "tournament_name": "Melee Legends 5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500679/image-b5937a096c9018d5288526b275cd88b6.png?ehk=BOjAUkEg5Q%2Fdk%2FfYn3UoVcTqam8mn6XyxPiI3SleJoU%3D&ehkOptimized=7XRrfGXp%2BS2Yafkngbd5Hn0yKNzfGVOrj4JggxztJD8%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1670029200
     },
     {
