@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1669449076,
+  "fetched_at": 1669450868,
   "data": [
-    {
-      "slug": "tournament/asl-s-weekly-weekend-melee-17/event/melee-singles",
-      "tournament_name": "ASL's Weekly Weekend Melee #17",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/500584/image-83e2bdaae4b4b8775f379db35d59e8ac.png?ehk=BA1TjjrXF%2FO1bka6LNyzWABvohpj8ibTt8Q16CyJDZo%3D&ehkOptimized=eBznSHzb7JCABNDf615DOuZvieL7sCD%2Fk5wnZXQi6Bc%3D",
-      "entrants": 6,
-      "start_time": 1669398000
-    },
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/eu-melee-singles",
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
