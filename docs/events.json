@@ -1,6 +1,14 @@
 {
-  "fetched_at": 1669495882,
+  "fetched_at": 1669497277,
   "data": [
+    {
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-west-east-melee-doubles",
+      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
+      "event_name": "NA West & East Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
+      "entrants": 17,
+      "start_time": 1669482000
+    },
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-east-ladder",
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
@@ -18,19 +26,19 @@
       "start_time": 1669485600
     },
     {
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-west-melee-singles",
+      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
+      "event_name": "NA West Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
+      "entrants": 59,
+      "start_time": 1669496400
+    },
+    {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-coast-to-coast-items-on",
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA Coast-To-Coast Items-On",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
       "entrants": 21,
-      "start_time": 1669482000
-    },
-    {
-      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-west-east-melee-doubles",
-      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
-      "event_name": "NA West & East Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 17,
       "start_time": 1669482000
     },
     {
@@ -40,14 +48,6 @@
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
       "entrants": 5,
       "start_time": 1669482000
-    },
-    {
-      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-west-melee-singles",
-      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
-      "event_name": "NA West Melee Singles",
-      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 59,
-      "start_time": 1669496400
     },
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/eu-melee-singles",
@@ -78,7 +78,7 @@
       "tournament_name": "After Dark Melee - #6",
       "event_name": "After Dark Doubles",
       "image": "https://images.start.gg/images/tournament/500367/image-1e1a532533dcb3628954401292ed4ccb.png?ehk=4HfrXvypZqqTxHXjzf%2Byyl%2FoOdvFuf2jBxz7QlQNTjg%3D&ehkOptimized=EIYJYKyzotZ%2FCS%2FLyIQD856w%2FMsRa57c0XoPSAFMHPQ%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1669498200
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Legs' Le Tournament #58",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501005/image-64e727babfa0b53a3319174bdc0334b9.png?ehk=vCylTzla2goD2gXNZBXF5wLRVAwdNqJEESCFWIxeCQo%3D&ehkOptimized=GOJZ5Xbc66sQCpR2EWgGmKAfIph5Bne1WwSR5gAPhHo%3D",
-      "entrants": 16,
+      "entrants": 25,
       "start_time": 1669500000
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "SBY Melee Netplay #139",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500907/image-0d00c9c379deccf730140f92419304b8.jpg?ehk=2G5iHtHsBVWJTSYAuVK15r%2Bh6piUiMIHW%2BUIhLHNWlQ%3D&ehkOptimized=N8%2FXKBCVrBLHRcQ2%2BeQXRjAwTamVYDgLBFFqgn%2Fk0Ew%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1669501800
     },
     {
@@ -542,7 +542,7 @@
       "tournament_name": "POLYPUFF.",
       "event_name": "MELEE SINGLES.",
       "image": "https://images.start.gg/images/tournament/500504/image-cbb396b8b534bdd41041e657b6e18cfc.jpg?ehk=u6Q6lmVuGQInUd7%2F0LahR%2FingKtzU1JHOMML76nFo7M%3D&ehkOptimized=X8z%2BUq9%2FN29u7AQ7gat8fbIKk%2F9wuq0xsHcFHci%2BeKE%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1673827200
     },
     {
