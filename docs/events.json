@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669490648,
+  "fetched_at": 1669491387,
   "data": [
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-east-ladder",
@@ -38,7 +38,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Ladder",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1669482000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "After Dark Melee - #6",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/500367/image-1e1a532533dcb3628954401292ed4ccb.png?ehk=4HfrXvypZqqTxHXjzf%2Byyl%2FoOdvFuf2jBxz7QlQNTjg%3D&ehkOptimized=EIYJYKyzotZ%2FCS%2FLyIQD856w%2FMsRa57c0XoPSAFMHPQ%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1669493700
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Legs' Le Tournament #58",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501005/image-64e727babfa0b53a3319174bdc0334b9.png?ehk=vCylTzla2goD2gXNZBXF5wLRVAwdNqJEESCFWIxeCQo%3D&ehkOptimized=GOJZ5Xbc66sQCpR2EWgGmKAfIph5Bne1WwSR5gAPhHo%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1669500000
     },
     {
@@ -128,6 +128,14 @@
       "image": "https://images.start.gg/images/tournament/500990/image-f1c1301c6724f2ba4995b2fe0fa88752.png?ehk=RJKPM2qncsS1J%2Fp54eyfSV5QX3DOE29QkiCUsvskfQg%3D&ehkOptimized=JniNS40eQPJJJKwQgXn4JZV7tuqY9uHU4y1ErQ65V3E%3D",
       "entrants": 0,
       "start_time": 1669557600
+    },
+    {
+      "slug": "tournament/dorime-s-dojo-9/event/melee-singles",
+      "tournament_name": "Dorime's Dojo #9",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/501026/image-69ed1a461d1e2533a5b186beef2c43fb.png?ehk=S%2BfPtPWAnA9jpwFUSjfM5oXtR4Ieo0spKI0fczeu6B0%3D&ehkOptimized=8mW7NMhDyKsZk55YlsDM05VZvuvi%2B3rbsBi%2FMhBfHSg%3D",
+      "entrants": 0,
+      "start_time": 1669568400
     },
     {
       "slug": "tournament/fight-of-the-fearless-29/event/fight-of-the-fearless-single",
