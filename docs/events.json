@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669482871,
+  "fetched_at": 1669483735,
   "data": [
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/eu-melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West & East Melee Doubles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1669482000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Ladder",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 8,
+      "entrants": 11,
       "start_time": 1669482000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Ladder",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669482000
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "SBY Melee Netplay #139",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500907/image-0d00c9c379deccf730140f92419304b8.jpg?ehk=2G5iHtHsBVWJTSYAuVK15r%2Bh6piUiMIHW%2BUIhLHNWlQ%3D&ehkOptimized=N8%2FXKBCVrBLHRcQ2%2BeQXRjAwTamVYDgLBFFqgn%2Fk0Ew%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1669501800
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "Spudfest 43",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500766/image-10a3832d0578e2a5c9812e2a3aad893e.jpg?ehk=zTjQ4y2%2BXqeDkS5ERgLdV5A87VM5zjX52W3RanHnsIE%3D&ehkOptimized=al3YbOAKYarOL0RfCTljw7R78enIIRTUQ4aNGBhaeRs%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669687200
     },
     {
@@ -274,6 +274,14 @@
       "start_time": 1669917600
     },
     {
+      "slug": "tournament/the-salad-online-51/event/melee-singles",
+      "tournament_name": "The Salad Online 51",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/500996/image-d1467cdc7c4328d28589c3beb5d15986.png?ehk=34E5to%2FjJMG4o7%2BvShS3Y54xj4jZBUkQ1EjTbTgGkOc%3D&ehkOptimized=8QfNZ2incH0lhxbAmSs%2Fz%2F8ybb9PPeM%2Bv75QYb6Mfsk%3D",
+      "entrants": 0,
+      "start_time": 1670018400
+    },
+    {
       "slug": "tournament/the-distribution/event/melee-singles",
       "tournament_name": "The Distribution",
       "event_name": "Melee Singles",
@@ -296,6 +304,14 @@
       "image": "https://images.start.gg/images/tournament/500679/image-b5937a096c9018d5288526b275cd88b6.png?ehk=BOjAUkEg5Q%2Fdk%2FfYn3UoVcTqam8mn6XyxPiI3SleJoU%3D&ehkOptimized=7XRrfGXp%2BS2Yafkngbd5Hn0yKNzfGVOrj4JggxztJD8%3D",
       "entrants": 5,
       "start_time": 1670029200
+    },
+    {
+      "slug": "tournament/komet-viii-super-week/event/komet-pro-league",
+      "tournament_name": "KOMET VIII | SUPER WEEK",
+      "event_name": "KOMET Pro League",
+      "image": "https://images.start.gg/images/tournament/500993/image-ccbdda13ec619b629627d3607c37379b.png?ehk=2JIge6ON4yAFec4h8qwfNjRLVm81eoWgMsjgutbFMxQ%3D&ehkOptimized=ISeJGwfX6DmIeMpSJGQ2LWJfEhQ9STlErbO0gFn1Z1c%3D",
+      "entrants": 0,
+      "start_time": 1670090400
     },
     {
       "slug": "tournament/firaga-game-night/event/melee-ladder",
