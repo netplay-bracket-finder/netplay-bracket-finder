@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669479777,
+  "fetched_at": 1669481259,
   "data": [
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/eu-melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Ladder",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 3,
+      "entrants": 7,
       "start_time": 1669482000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West Ladder",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669482000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "After Dark Melee - #6",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/500367/image-1e1a532533dcb3628954401292ed4ccb.png?ehk=4HfrXvypZqqTxHXjzf%2Byyl%2FoOdvFuf2jBxz7QlQNTjg%3D&ehkOptimized=EIYJYKyzotZ%2FCS%2FLyIQD856w%2FMsRa57c0XoPSAFMHPQ%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1669493700
     },
     {
@@ -358,7 +358,7 @@
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1670803200
     },
     {
@@ -480,6 +480,14 @@
       "image": "https://images.start.gg/images/tournament/480976/image-97c003ab9f53742b7bda638f252b4aa7.png?ehk=yZZeMCBgIFmmed7MEVR536DbzkvthGqwI0FLWM4YiUg%3D&ehkOptimized=Ay3nN1fPdJHC%2BFaG7N8UCR5cHhS6gutXVs3Ozv33VKQ%3D",
       "entrants": null,
       "start_time": 1673744400
+    },
+    {
+      "slug": "tournament/polypuff/event/melee-singles",
+      "tournament_name": "POLYPUFF.",
+      "event_name": "MELEE SINGLES.",
+      "image": "https://images.start.gg/images/tournament/500504/image-cbb396b8b534bdd41041e657b6e18cfc.jpg?ehk=u6Q6lmVuGQInUd7%2F0LahR%2FingKtzU1JHOMML76nFo7M%3D&ehkOptimized=X8z%2BUq9%2FN29u7AQ7gat8fbIKk%2F9wuq0xsHcFHci%2BeKE%3D",
+      "entrants": 0,
+      "start_time": 1673827200
     },
     {
       "slug": "tournament/whispy-woods-superstar-circuit-qualifier-1/event/melee-singles",
