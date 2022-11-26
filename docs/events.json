@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669436457,
+  "fetched_at": 1669437758,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-17/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA West & East Melee Doubles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1669482000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 150,
+      "entrants": 151,
       "start_time": 1669485600
     },
     {
@@ -88,6 +88,14 @@
       "image": "https://images.start.gg/images/tournament/500367/image-1e1a532533dcb3628954401292ed4ccb.png?ehk=4HfrXvypZqqTxHXjzf%2Byyl%2FoOdvFuf2jBxz7QlQNTjg%3D&ehkOptimized=EIYJYKyzotZ%2FCS%2FLyIQD856w%2FMsRa57c0XoPSAFMHPQ%3D",
       "entrants": 1,
       "start_time": 1669498200
+    },
+    {
+      "slug": "tournament/sby-melee-netplay-139/event/melee-singles",
+      "tournament_name": "SBY Melee Netplay #139",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/500907/image-0d00c9c379deccf730140f92419304b8.jpg?ehk=2G5iHtHsBVWJTSYAuVK15r%2Bh6piUiMIHW%2BUIhLHNWlQ%3D&ehkOptimized=N8%2FXKBCVrBLHRcQ2%2BeQXRjAwTamVYDgLBFFqgn%2Fk0Ew%3D",
+      "entrants": 1,
+      "start_time": 1669501800
     },
     {
       "slug": "tournament/porq-adobo-5-road-to-ryan-major/event/melee-singles",
@@ -190,7 +198,7 @@
       "tournament_name": "CASINO ROYALE 3 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/500012/image-dd2d25d27c62667e345ad8747a3a11c0.png?ehk=5KDrXRePJnMY2fiSPXvylHWdc%2F2jq7%2Blaa6vPHB7acs%3D&ehkOptimized=oWroiCduupqmyfHhTsdLmhIxV8WRKsbKYnI%2FbW6tFVs%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1669689000
     },
     {
