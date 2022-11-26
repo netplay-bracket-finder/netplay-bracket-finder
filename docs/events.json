@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669463481,
+  "fetched_at": 1669465840,
   "data": [
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/eu-melee-singles",
@@ -62,7 +62,7 @@
       "tournament_name": "Quest for Best Noob EU #47 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/500187/image-3cc2fa4263d3c66bdb3f18885d46925d.jpg?ehk=mUtXnBLN%2FfX3LzhZQ1en7qKJUEwlmZbYP3kajY5fpaQ%3D&ehkOptimized=bbt19iG%2FIGufvZoX31%2BGh96upGaKbqFjiDL%2FxU0YNxo%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1669476600
     },
     {
@@ -232,6 +232,14 @@
       "image": "https://images.start.gg/images/tournament/500674/image-92616e06cc6a6a93f3249e1bcdac792d.png?ehk=u5peOTVAvHex3qoRO%2Fmk9C1VZjgKXaKEBRC3eZRb23g%3D&ehkOptimized=EWyJWqnkiL%2FJQumaVrpayuGIWjl1gkgGvs3ymkNy7oQ%3D",
       "entrants": 0,
       "start_time": 1669766400
+    },
+    {
+      "slug": "tournament/road-2-glory-revival/event/single-div",
+      "tournament_name": "Road 2 Glory : Revival",
+      "event_name": "Single Div",
+      "image": "https://images.start.gg/images/tournament/500948/image-d70fd612ee29f7338a9855db1486a1c8.png?ehk=Ut5HPI2E8wKFkcrAEDgZoxiNTJlFwGXaOirqmZGO%2F2w%3D&ehkOptimized=BO8i55EAePjegHCIMUe3kWPu0XXRPlAXZDOiLECZOn8%3D",
+      "entrants": 0,
+      "start_time": 1669824000
     },
     {
       "slug": "tournament/waddle-wednesday-47/event/melee-singles",
