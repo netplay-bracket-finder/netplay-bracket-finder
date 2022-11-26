@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669430427,
+  "fetched_at": 1669432298,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-17/event/melee-singles",
@@ -10,27 +10,11 @@
       "start_time": 1669398000
     },
     {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-13/event/ssbmr-singles",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #13",
-      "event_name": "SSBMr Singles",
-      "image": "https://images.start.gg/images/tournament/500060/image-462b9c80d64e2b40d9dd0e3bb9b005a6.png?ehk=puwzPMg6yKgoRrZTzW7FKKjO0hNzGYwh5BdX3rlDtRA%3D&ehkOptimized=VbBFgK9kBBVAlJnql573ggAUC%2BR5ZAjb8t%2B6Y1TXJHk%3D",
-      "entrants": 10,
-      "start_time": 1669420800
-    },
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-13/event/results-data",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #13",
-      "event_name": "Results Data",
-      "image": "https://images.start.gg/images/tournament/500060/image-462b9c80d64e2b40d9dd0e3bb9b005a6.png?ehk=puwzPMg6yKgoRrZTzW7FKKjO0hNzGYwh5BdX3rlDtRA%3D&ehkOptimized=VbBFgK9kBBVAlJnql573ggAUC%2BR5ZAjb8t%2B6Y1TXJHk%3D",
-      "entrants": 0,
-      "start_time": 1669420800
-    },
-    {
       "slug": "tournament/ggs-too-sleepy-30-art-prize/event/sleepy-singles",
       "tournament_name": "ggs too sleepy #30 - Art Prize!",
       "event_name": "sleepy singles",
       "image": "https://images.start.gg/images/tournament/500814/image-e55b9f1bc98d20cb6735c677486e427a.png?ehk=B5s014a3KoE%2BA3HXriS4%2FNaRwTA9Egrr%2B2GG6U3OxAs%3D&ehkOptimized=7dPcDm8pSHpaukMqEfScUJmGVTMBoAuFt0%2FgLKfDU3w%3D",
-      "entrants": 36,
+      "entrants": 40,
       "start_time": 1669437000
     },
     {
@@ -214,7 +198,7 @@
       "tournament_name": "CASINO ROYALE 3 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/500012/image-dd2d25d27c62667e345ad8747a3a11c0.png?ehk=5KDrXRePJnMY2fiSPXvylHWdc%2F2jq7%2Blaa6vPHB7acs%3D&ehkOptimized=oWroiCduupqmyfHhTsdLmhIxV8WRKsbKYnI%2FbW6tFVs%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1669689000
     },
     {
