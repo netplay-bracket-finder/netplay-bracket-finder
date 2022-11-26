@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1669484400,
+  "fetched_at": 1669485083,
   "data": [
-    {
-      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/eu-melee-singles",
-      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
-      "event_name": "EU Melee Singles",
-      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
-      "entrants": 56,
-      "start_time": 1669471200
-    },
     {
       "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/na-east-ladder",
       "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
@@ -56,6 +48,14 @@
       "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
       "entrants": 59,
       "start_time": 1669496400
+    },
+    {
+      "slug": "tournament/galint-melee-open-fall-edition-2022-ft-na-eu-melee/event/eu-melee-singles",
+      "tournament_name": "Galint Melee Open: Fall Edition 2022 (ft. NA & EU Melee, Strive Ladder)",
+      "event_name": "EU Melee Singles",
+      "image": "https://images.start.gg/images/tournament/490312/image-2f898d756084463b8cc53e99a1a0b60f.png?ehk=EEVN6XwDdyL%2FXh8geg7hQSfbIcPAbAud8AhTd69I6iw%3D&ehkOptimized=%2Bm9%2B8QqoJbpO%2FVL%2BS8ZJsULoyr3BrJ0o2mVZtQxPlCU%3D",
+      "entrants": 56,
+      "start_time": 1669471200
     },
     {
       "slug": "tournament/the-battlefields-series-60/event/melee-singles",
