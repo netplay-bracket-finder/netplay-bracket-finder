@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669584449,
+  "fetched_at": 1669585139,
   "data": [
     {
       "slug": "tournament/lgbt-s3e15-retweet-if-you-love-lasagna/event/ladder",
@@ -38,7 +38,7 @@
       "tournament_name": "SCSS East Coast #96",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500856/image-4bb354d81dc5f720aeaa6144a1331a8b.png?ehk=FDAzHEJLzzAIxZfpXJksn85hyqIL1LdbVb9A2PsYzfY%3D&ehkOptimized=JS6JiK%2BJl5WK752%2B7rN%2BpEfRm9dHcfColg7V%2BOIvQns%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1669595400
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "No Melee on Sundays 19",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501200/image-9433ee630f88e5bea03c59e187990502.png?ehk=KsXRGQjhjx8BUg0lymPf2AXBnJmlXNDo5qFtpUHoGpE%3D&ehkOptimized=V5tTsU%2BkTZ%2FJfTfWnERmwHXjxi69cIDGOnDFxgTxIk8%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1669597200
     },
     {
@@ -154,8 +154,8 @@
       "start_time": 1669824000
     },
     {
-      "slug": "tournament/the-dairy-farm-10-the-hootenanny-hoe-down/event/melee-singles",
-      "tournament_name": "The Dairy Farm #10: The Hootenanny Hoe Down",
+      "slug": "tournament/the-dairy-farm-10-the-hootenanny-hoe-down-100-euro/event/melee-singles",
+      "tournament_name": "The Dairy Farm #10: The Hootenanny Hoe Down   (100 Euro Prize Pool)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501275/image-603956f16e81484ef9113909ed28a5c3.png?ehk=64ICRkpqoDMjkj0Zt2rJ85q70qIo%2Bu0B07vyPHS%2FKO0%3D&ehkOptimized=cBliU8uU3o7o1nslje%2F42ERMh6CczFAWmMDb39wCYXE%3D",
       "entrants": 0,
@@ -214,7 +214,7 @@
       "tournament_name": "Only Noobs 95",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500765/image-65021135e9060b27ee0b5229edaa6e10.jpg?ehk=W7yrzTbBPnWbz9m0sTHIDQ3zmFyCmNrTThedIDsPk%2FA%3D&ehkOptimized=MYDuutz9Xoedc%2BhziZ3ah5xt7OMKmFZuwTPmuMAUA1c%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1669939200
     },
     {
