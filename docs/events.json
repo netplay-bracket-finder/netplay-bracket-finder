@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669580232,
+  "fetched_at": 1669581451,
   "data": [
     {
       "slug": "tournament/lgbt-s3e15-retweet-if-you-love-lasagna/event/ladder",
@@ -30,7 +30,7 @@
       "tournament_name": "Kalvar Cup #70",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501238/image-61189b8cfe989d5e94af8fce81f67bae.png?ehk=NV94EhyMEdozhmxTy70zkkvPyA%2BBJ%2B9l7Dz%2BIQ8%2FSrA%3D&ehkOptimized=o6B9HKksVr%2BJkfItwH8zqqNgOdoOw0NVLLBNxizfXXc%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669591800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "SCSS East Coast #96",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500856/image-4bb354d81dc5f720aeaa6144a1331a8b.png?ehk=FDAzHEJLzzAIxZfpXJksn85hyqIL1LdbVb9A2PsYzfY%3D&ehkOptimized=JS6JiK%2BJl5WK752%2B7rN%2BpEfRm9dHcfColg7V%2BOIvQns%3D",
-      "entrants": 16,
+      "entrants": 19,
       "start_time": 1669595400
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "No Melee on Sundays 19",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501200/image-9433ee630f88e5bea03c59e187990502.png?ehk=KsXRGQjhjx8BUg0lymPf2AXBnJmlXNDo5qFtpUHoGpE%3D&ehkOptimized=V5tTsU%2BkTZ%2FJfTfWnERmwHXjxi69cIDGOnDFxgTxIk8%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1669597200
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "SCSS West Coast #85",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500858/image-aead7be19025b2597a5036ca6685e853.png?ehk=f8wvySw8PFFMtipuZzwwXvkjkzA6RVdcdWS7svhrUZ4%3D&ehkOptimized=UeXT66xjdj2rylw7YIaIkQ3tZ4yBT6N9MF46MDVxPSU%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1669599000
     },
     {
@@ -166,7 +166,7 @@
       "tournament_name": "Silver Slippi League #33",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/500665/image-18b2f3538525b9cb13b7a8555ac5a608.png?ehk=Vy4NiE2uJ4mUJ3RdeesWtqbd0N2f6LPMkUKnvWRvU0c%3D&ehkOptimized=FrnARgvfMG4jbsSl4gEENnXJFdZEeoqKBfXDNtwr640%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1669860000
     },
     {
