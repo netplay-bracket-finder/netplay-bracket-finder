@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669569288,
+  "fetched_at": 1669570142,
   "data": [
     {
       "slug": "tournament/fight-of-the-fearless-29/event/fight-of-the-fearless-single",
       "tournament_name": "Fight of the Fearless 29",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/500716/image-0f1c2a2dd5d7070ead6d37cecb45d89e.png?ehk=7XI11R5JBaUkTeq8vXRhg6UIEiO0OHGzI61c%2BBS3MCI%3D&ehkOptimized=ZJWb7cyMt18IxGVFEaMma4yHLu%2Fzim12CsklNpqwHIc%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1669572000
     },
     {
@@ -40,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/500856/image-4bb354d81dc5f720aeaa6144a1331a8b.png?ehk=FDAzHEJLzzAIxZfpXJksn85hyqIL1LdbVb9A2PsYzfY%3D&ehkOptimized=JS6JiK%2BJl5WK752%2B7rN%2BpEfRm9dHcfColg7V%2BOIvQns%3D",
       "entrants": 11,
       "start_time": 1669595400
+    },
+    {
+      "slug": "tournament/no-melee-on-sundays-19/event/melee-singles",
+      "tournament_name": "No Melee on Sundays 19",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/501200/image-9433ee630f88e5bea03c59e187990502.png?ehk=KsXRGQjhjx8BUg0lymPf2AXBnJmlXNDo5qFtpUHoGpE%3D&ehkOptimized=V5tTsU%2BkTZ%2FJfTfWnERmwHXjxi69cIDGOnDFxgTxIk8%3D",
+      "entrants": 0,
+      "start_time": 1669597200
     },
     {
       "slug": "tournament/stellar-showdown-18-solar-circuit-qualifier-1/event/melee-singles",
