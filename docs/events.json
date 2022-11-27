@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669557073,
+  "fetched_at": 1669558470,
   "data": [
     {
       "slug": "tournament/dorime-s-dojo-9/event/melee-singles",
       "tournament_name": "Dorime's Dojo #9",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501026/image-69ed1a461d1e2533a5b186beef2c43fb.png?ehk=S%2BfPtPWAnA9jpwFUSjfM5oXtR4Ieo0spKI0fczeu6B0%3D&ehkOptimized=8mW7NMhDyKsZk55YlsDM05VZvuvi%2B3rbsBi%2FMhBfHSg%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1669568400
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "SCSS East Coast #96",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500856/image-4bb354d81dc5f720aeaa6144a1331a8b.png?ehk=FDAzHEJLzzAIxZfpXJksn85hyqIL1LdbVb9A2PsYzfY%3D&ehkOptimized=JS6JiK%2BJl5WK752%2B7rN%2BpEfRm9dHcfColg7V%2BOIvQns%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1669595400
     },
     {
