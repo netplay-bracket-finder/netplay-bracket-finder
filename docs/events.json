@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669585139,
+  "fetched_at": 1669585880,
   "data": [
     {
       "slug": "tournament/lgbt-s3e15-retweet-if-you-love-lasagna/event/ladder",
@@ -38,7 +38,7 @@
       "tournament_name": "SCSS East Coast #96",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500856/image-4bb354d81dc5f720aeaa6144a1331a8b.png?ehk=FDAzHEJLzzAIxZfpXJksn85hyqIL1LdbVb9A2PsYzfY%3D&ehkOptimized=JS6JiK%2BJl5WK752%2B7rN%2BpEfRm9dHcfColg7V%2BOIvQns%3D",
-      "entrants": 23,
+      "entrants": 24,
       "start_time": 1669595400
     },
     {
@@ -64,6 +64,14 @@
       "image": "https://images.start.gg/images/tournament/500858/image-aead7be19025b2597a5036ca6685e853.png?ehk=f8wvySw8PFFMtipuZzwwXvkjkzA6RVdcdWS7svhrUZ4%3D&ehkOptimized=UeXT66xjdj2rylw7YIaIkQ3tZ4yBT6N9MF46MDVxPSU%3D",
       "entrants": 4,
       "start_time": 1669599000
+    },
+    {
+      "slug": "tournament/monday-night-mixup-40/event/melee-singles",
+      "tournament_name": "Monday Night Mixup #40",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/501293/image-dbfa106f806bcaaea62bdb0383529bc3.png?ehk=v3rTI31pfuIy7Grvo3xAXHOivL7mz6l2CFMy2gHFJHA%3D&ehkOptimized=bO5v2DG5FY8Lttz6dIwQWwEQp8hcKSRSE7Gr6O9kBlw%3D",
+      "entrants": 0,
+      "start_time": 1669662000
     },
     {
       "slug": "tournament/scrub-quotes-5/event/scrub-quotes-5-east-coast",
