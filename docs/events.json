@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1669571473,
+  "fetched_at": 1669573197,
   "data": [
-    {
-      "slug": "tournament/fight-of-the-fearless-29/event/fight-of-the-fearless-single",
-      "tournament_name": "Fight of the Fearless 29",
-      "event_name": "Fight Of The Fearless single",
-      "image": "https://images.start.gg/images/tournament/500716/image-0f1c2a2dd5d7070ead6d37cecb45d89e.png?ehk=7XI11R5JBaUkTeq8vXRhg6UIEiO0OHGzI61c%2BBS3MCI%3D&ehkOptimized=ZJWb7cyMt18IxGVFEaMma4yHLu%2Fzim12CsklNpqwHIc%3D",
-      "entrants": 20,
-      "start_time": 1669572000
-    },
     {
       "slug": "tournament/lgbt-s3e15-retweet-if-you-love-lasagna/event/ladder",
       "tournament_name": "LGBT S3E15: Retweet If You Love Lasagna",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/500865/image-21da2bb400fe2caec679e12c3ab249bc.png?ehk=ZWOMIsQweXD34QzSVPUJfF7UFIBStuj89IY4i3Hu3tg%3D&ehkOptimized=Troyhy%2BgspJWQQ0rSfAxnz7tIYjzk%2BqpWOYYb%2FxEBYs%3D",
-      "entrants": 6,
+      "entrants": 8,
       "start_time": 1669579200
     },
     {
@@ -22,7 +14,7 @@
       "tournament_name": "LGBT S3E15: Retweet If You Love Lasagna",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500865/image-21da2bb400fe2caec679e12c3ab249bc.png?ehk=ZWOMIsQweXD34QzSVPUJfF7UFIBStuj89IY4i3Hu3tg%3D&ehkOptimized=Troyhy%2BgspJWQQ0rSfAxnz7tIYjzk%2BqpWOYYb%2FxEBYs%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1669597200
     },
     {
@@ -294,7 +286,7 @@
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1670803200
     },
     {
