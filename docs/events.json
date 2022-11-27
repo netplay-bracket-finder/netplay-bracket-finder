@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669567668,
+  "fetched_at": 1669569288,
   "data": [
     {
       "slug": "tournament/fight-of-the-fearless-29/event/fight-of-the-fearless-single",
       "tournament_name": "Fight of the Fearless 29",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/500716/image-0f1c2a2dd5d7070ead6d37cecb45d89e.png?ehk=7XI11R5JBaUkTeq8vXRhg6UIEiO0OHGzI61c%2BBS3MCI%3D&ehkOptimized=ZJWb7cyMt18IxGVFEaMma4yHLu%2Fzim12CsklNpqwHIc%3D",
-      "entrants": 16,
+      "entrants": 18,
       "start_time": 1669572000
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "LGBT S3E15: Retweet If You Love Lasagna",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/500865/image-21da2bb400fe2caec679e12c3ab249bc.png?ehk=ZWOMIsQweXD34QzSVPUJfF7UFIBStuj89IY4i3Hu3tg%3D&ehkOptimized=Troyhy%2BgspJWQQ0rSfAxnz7tIYjzk%2BqpWOYYb%2FxEBYs%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1669579200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "LGBT S3E15: Retweet If You Love Lasagna",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500865/image-21da2bb400fe2caec679e12c3ab249bc.png?ehk=ZWOMIsQweXD34QzSVPUJfF7UFIBStuj89IY4i3Hu3tg%3D&ehkOptimized=Troyhy%2BgspJWQQ0rSfAxnz7tIYjzk%2BqpWOYYb%2FxEBYs%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1669597200
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "SCSS East Coast #96",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500856/image-4bb354d81dc5f720aeaa6144a1331a8b.png?ehk=FDAzHEJLzzAIxZfpXJksn85hyqIL1LdbVb9A2PsYzfY%3D&ehkOptimized=JS6JiK%2BJl5WK752%2B7rN%2BpEfRm9dHcfColg7V%2BOIvQns%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1669595400
     },
     {
@@ -234,14 +234,6 @@
       "start_time": 1670101200
     },
     {
-      "slug": "tournament/krampus-s-online-smashfest-1/event/melee-singles",
-      "tournament_name": "Krampus's Online Smashfest",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/476152/image-234d2054e4a3f236cef89ec647415612.png?ehk=wf1mjz3Tp4uLN20IDYJKsblD5i0I3zMnPbjLg2%2FoQjU%3D&ehkOptimized=SQtysk8eHHf2qW2Ma0KNL3Y0aE3aTokwevnlZ6VDYT4%3D",
-      "entrants": 5,
-      "start_time": 1670608800
-    },
-    {
       "slug": "tournament/gfalt-2-festive-again-1/event/melee-singles",
       "tournament_name": "GFALT 2 (Festive Again!)",
       "event_name": "Melee Singles",
@@ -432,6 +424,14 @@
       "image": "https://images.start.gg/images/tournament/492841/image-25503525b7a477b0d3cf79d8edd231b5.png?ehk=imi1GXSK2RRhQ6P2wLkYKi0L%2BFufyHQQoKRu46xUBxw%3D&ehkOptimized=PGAXVHlTmkwd5NsRpetUcGIGJxqQQE7r82nqo0%2Fx1cA%3D",
       "entrants": 13,
       "start_time": 1674946800
+    },
+    {
+      "slug": "tournament/krampus-s-online-smashfest-1/event/melee-singles",
+      "tournament_name": "Krampus's Online Smashfest",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/476152/image-234d2054e4a3f236cef89ec647415612.png?ehk=wf1mjz3Tp4uLN20IDYJKsblD5i0I3zMnPbjLg2%2FoQjU%3D&ehkOptimized=SQtysk8eHHf2qW2Ma0KNL3Y0aE3aTokwevnlZ6VDYT4%3D",
+      "entrants": 5,
+      "start_time": 1670608800
     },
     {
       "slug": "tournament/meteor-massacre-1/event/melee-singles",
