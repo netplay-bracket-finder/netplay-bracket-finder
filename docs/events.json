@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1669661666,
+  "fetched_at": 1669662821,
   "data": [
-    {
-      "slug": "tournament/monday-night-mixup-40/event/melee-singles",
-      "tournament_name": "Monday Night Mixup #40",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/501293/image-dbfa106f806bcaaea62bdb0383529bc3.png?ehk=v3rTI31pfuIy7Grvo3xAXHOivL7mz6l2CFMy2gHFJHA%3D&ehkOptimized=bO5v2DG5FY8Lttz6dIwQWwEQp8hcKSRSE7Gr6O9kBlw%3D",
-      "entrants": 38,
-      "start_time": 1669662000
-    },
     {
       "slug": "tournament/scrub-quotes-5/event/scrub-quotes-5-east-coast",
       "tournament_name": "Scrub Quotes 5",
@@ -46,7 +38,7 @@
       "tournament_name": "Slippi Sauce #76 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501387/image-a6e9756f3df6e198363bfe5c6e5c60a7.png?ehk=Wke1h3Tc1lVzTayRHRpDRhOaJ6E%2FFIo%2Fjt29C64xuEc%3D&ehkOptimized=8FnI%2Brpj1%2Fkb27%2BUpCumOHft99nllZmdsQYCgsQjTU8%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1669676400
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "Woop Melee! #54",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500222/image-af56caadfcd1d8c60b0285d75e256bb0.png?ehk=DaC2sjLx6ABzt6qAs7VyIU043XcfePETa%2Fx7ph0zIMU%3D&ehkOptimized=DwIRi2a%2BGFafycb3qltPkiu%2FjsMt0zG4ueW7pgGY5UY%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1669680000
     },
     {
@@ -86,7 +78,7 @@
       "tournament_name": "Spudfest 43",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500766/image-10a3832d0578e2a5c9812e2a3aad893e.jpg?ehk=zTjQ4y2%2BXqeDkS5ERgLdV5A87VM5zjX52W3RanHnsIE%3D&ehkOptimized=al3YbOAKYarOL0RfCTljw7R78enIIRTUQ4aNGBhaeRs%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1669687200
     },
     {
@@ -94,7 +86,7 @@
       "tournament_name": "CASINO ROYALE 3 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/500012/image-dd2d25d27c62667e345ad8747a3a11c0.png?ehk=5KDrXRePJnMY2fiSPXvylHWdc%2F2jq7%2Blaa6vPHB7acs%3D&ehkOptimized=oWroiCduupqmyfHhTsdLmhIxV8WRKsbKYnI%2FbW6tFVs%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1669689000
     },
     {
@@ -158,7 +150,7 @@
       "tournament_name": "Garbage Connection: LITE - Mainstage Warmup",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/501587/image-215a8417de09ddfeea83d3601865d9c4.jpg?ehk=O2ybX6TAzb%2BM4pdphQvY1Nc026W2NY3edrtqhmmwoZg%3D&ehkOptimized=hOUWg8cKKJyGx%2FD35guL7ebKnEgeO6PmkT3nn1tZTtU%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669863600
     },
     {
