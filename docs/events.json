@@ -1,61 +1,13 @@
 {
-  "fetched_at": 1669593077,
+  "fetched_at": 1669598678,
   "data": [
-    {
-      "slug": "tournament/lgbt-s3e15-retweet-if-you-love-lasagna/event/ladder",
-      "tournament_name": "LGBT S3E15: Retweet If You Love Lasagna",
-      "event_name": "Ladder",
-      "image": "https://images.start.gg/images/tournament/500865/image-21da2bb400fe2caec679e12c3ab249bc.png?ehk=ZWOMIsQweXD34QzSVPUJfF7UFIBStuj89IY4i3Hu3tg%3D&ehkOptimized=Troyhy%2BgspJWQQ0rSfAxnz7tIYjzk%2BqpWOYYb%2FxEBYs%3D",
-      "entrants": 14,
-      "start_time": 1669579200
-    },
-    {
-      "slug": "tournament/lgbt-s3e15-retweet-if-you-love-lasagna/event/melee-singles",
-      "tournament_name": "LGBT S3E15: Retweet If You Love Lasagna",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/500865/image-21da2bb400fe2caec679e12c3ab249bc.png?ehk=ZWOMIsQweXD34QzSVPUJfF7UFIBStuj89IY4i3Hu3tg%3D&ehkOptimized=Troyhy%2BgspJWQQ0rSfAxnz7tIYjzk%2BqpWOYYb%2FxEBYs%3D",
-      "entrants": 15,
-      "start_time": 1669597200
-    },
     {
       "slug": "tournament/kalvar-cup-70-1/event/melee-singles",
       "tournament_name": "Kalvar Cup #70",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501238/image-61189b8cfe989d5e94af8fce81f67bae.png?ehk=NV94EhyMEdozhmxTy70zkkvPyA%2BBJ%2B9l7Dz%2BIQ8%2FSrA%3D&ehkOptimized=o6B9HKksVr%2BJkfItwH8zqqNgOdoOw0NVLLBNxizfXXc%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1669591800
-    },
-    {
-      "slug": "tournament/scss-east-coast-96/event/melee-singles",
-      "tournament_name": "SCSS East Coast #96",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/500856/image-4bb354d81dc5f720aeaa6144a1331a8b.png?ehk=FDAzHEJLzzAIxZfpXJksn85hyqIL1LdbVb9A2PsYzfY%3D&ehkOptimized=JS6JiK%2BJl5WK752%2B7rN%2BpEfRm9dHcfColg7V%2BOIvQns%3D",
-      "entrants": 38,
-      "start_time": 1669595400
-    },
-    {
-      "slug": "tournament/no-melee-on-sundays-19/event/melee-singles",
-      "tournament_name": "No Melee on Sundays 19",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/501200/image-9433ee630f88e5bea03c59e187990502.png?ehk=KsXRGQjhjx8BUg0lymPf2AXBnJmlXNDo5qFtpUHoGpE%3D&ehkOptimized=V5tTsU%2BkTZ%2FJfTfWnERmwHXjxi69cIDGOnDFxgTxIk8%3D",
-      "entrants": 21,
-      "start_time": 1669597200
-    },
-    {
-      "slug": "tournament/stellar-showdown-18-solar-circuit-qualifier-1/event/melee-singles",
-      "tournament_name": "Stellar Showdown #18 (Solar Circuit Qualifier)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/501008/image-f7965e95bd48caefb60fdf2435e4d0c6.png?ehk=dA2m5NWCMXKekbxJo9oNy7Ur67xoIJWKVZpl3UaEr10%3D&ehkOptimized=b3Z2Y%2B3kVtFR5mGOFdwkgiWb6EXpCBtDYMbUeEReW7c%3D",
-      "entrants": 3,
-      "start_time": 1669597200
-    },
-    {
-      "slug": "tournament/scss-west-coast-85/event/melee-singles",
-      "tournament_name": "SCSS West Coast #85",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/500858/image-aead7be19025b2597a5036ca6685e853.png?ehk=f8wvySw8PFFMtipuZzwwXvkjkzA6RVdcdWS7svhrUZ4%3D&ehkOptimized=UeXT66xjdj2rylw7YIaIkQ3tZ4yBT6N9MF46MDVxPSU%3D",
-      "entrants": 8,
-      "start_time": 1669599000
     },
     {
       "slug": "tournament/monday-night-mixup-40/event/melee-singles",
@@ -80,6 +32,14 @@
       "image": "",
       "entrants": 1,
       "start_time": 1669680000
+    },
+    {
+      "slug": "tournament/pino-s-tired-of-0-2-100/event/tired-of-0-2",
+      "tournament_name": "Pino's Tired of 0-2! #100!",
+      "event_name": "Tired of 0-2?",
+      "image": "https://images.start.gg/images/tournament/501350/image-1dab1d308e91dad74d0d38e688ef19b8.jpg?ehk=wTOPGPbP5zygLBOQy4GlryjHJ15BWdbcvJxyvVJcO1c%3D&ehkOptimized=c43DcC1t%2F1Xb9xv%2Fp78Qbe429FFGgy1JXsJj%2BRpRoC4%3D",
+      "entrants": 2,
+      "start_time": 1669676400
     },
     {
       "slug": "tournament/woop-melee-54/event/melee-singles",
@@ -110,7 +70,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500048/image-1c95d3c0544fd4614375f0d402546e6a.jpg?ehk=gm1dpLtAypFzdonSZpVDsZQFSsJ0FKnqvsGs8iJilHw%3D&ehkOptimized=0inspzxLqSwltSjwlhB7wu9yXa7AzMrn8qTbfrLGJtw%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1669684500
     },
     {
@@ -126,7 +86,7 @@
       "tournament_name": "CASINO ROYALE 3 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/500012/image-dd2d25d27c62667e345ad8747a3a11c0.png?ehk=5KDrXRePJnMY2fiSPXvylHWdc%2F2jq7%2Blaa6vPHB7acs%3D&ehkOptimized=oWroiCduupqmyfHhTsdLmhIxV8WRKsbKYnI%2FbW6tFVs%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1669689000
     },
     {
