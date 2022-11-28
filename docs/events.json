@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669643478,
+  "fetched_at": 1669644967,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-40/event/melee-singles",
@@ -46,7 +46,7 @@
       "tournament_name": "Woop Melee! #54",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500222/image-af56caadfcd1d8c60b0285d75e256bb0.png?ehk=DaC2sjLx6ABzt6qAs7VyIU043XcfePETa%2Fx7ph0zIMU%3D&ehkOptimized=DwIRi2a%2BGFafycb3qltPkiu%2FjsMt0zG4ueW7pgGY5UY%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669680000
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "Sketchy Series 8: Pencils Down",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501419/image-8cd1994b5eab31e06f20ba623c27ecf7.png?ehk=o5PkeKTmn6HU5n42qzu9Ac45TwlQRzIqdDA2pRHu654%3D&ehkOptimized=QkIaBmQ4WrWUnnUkD%2BcOClzSJj%2B%2BDxnjgQqs9uLlrlw%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669766400
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "Waddle Wednesday 47",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500512/image-adcef7fe1ce740550a3fe020f903cda0.png?ehk=FGha5nDMcHYmBSsv70ed%2FJNpfhlYoVFtHTlAcmtBTCw%3D&ehkOptimized=d6UEl35AYCCrID5OPEo25B91haAp9BhD6IwulCIHxlY%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1669856400
     },
     {
