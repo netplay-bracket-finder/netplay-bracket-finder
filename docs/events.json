@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669647081,
+  "fetched_at": 1669648566,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-40/event/melee-singles",
       "tournament_name": "Monday Night Mixup #40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501293/image-dbfa106f806bcaaea62bdb0383529bc3.png?ehk=v3rTI31pfuIy7Grvo3xAXHOivL7mz6l2CFMy2gHFJHA%3D&ehkOptimized=bO5v2DG5FY8Lttz6dIwQWwEQp8hcKSRSE7Gr6O9kBlw%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1669662000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Super Smash Bong #74",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/501490/image-88c0f4d30b5a5484b6b731257e55f653.jpg?ehk=VxHf65pP%2FWT3VIxE5jVBLhJ%2B6jqias5NJXkOq8Tr980%3D&ehkOptimized=nisE4Lkv6MMBqiiSXVdWq3oTyyo2sJJIuc8HUpSBKBE%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669674600
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500048/image-1c95d3c0544fd4614375f0d402546e6a.jpg?ehk=gm1dpLtAypFzdonSZpVDsZQFSsJ0FKnqvsGs8iJilHw%3D&ehkOptimized=0inspzxLqSwltSjwlhB7wu9yXa7AzMrn8qTbfrLGJtw%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1669684500
     },
     {
