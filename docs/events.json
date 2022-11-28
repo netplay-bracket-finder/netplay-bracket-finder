@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669644967,
+  "fetched_at": 1669646200,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-40/event/melee-singles",
@@ -26,11 +26,19 @@
       "start_time": 1669680000
     },
     {
+      "slug": "tournament/super-smash-bong-74/event/melee-singles",
+      "tournament_name": "Super Smash Bong #74",
+      "event_name": "Melee singles",
+      "image": "https://images.start.gg/images/tournament/501490/image-88c0f4d30b5a5484b6b731257e55f653.jpg?ehk=VxHf65pP%2FWT3VIxE5jVBLhJ%2B6jqias5NJXkOq8Tr980%3D&ehkOptimized=nisE4Lkv6MMBqiiSXVdWq3oTyyo2sJJIuc8HUpSBKBE%3D",
+      "entrants": 1,
+      "start_time": 1669674600
+    },
+    {
       "slug": "tournament/pino-s-tired-of-0-2-100/event/tired-of-0-2",
       "tournament_name": "Pino's Tired of 0-2! #100!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/501350/image-1dab1d308e91dad74d0d38e688ef19b8.jpg?ehk=wTOPGPbP5zygLBOQy4GlryjHJ15BWdbcvJxyvVJcO1c%3D&ehkOptimized=c43DcC1t%2F1Xb9xv%2Fp78Qbe429FFGgy1JXsJj%2BRpRoC4%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1669676400
     },
     {
