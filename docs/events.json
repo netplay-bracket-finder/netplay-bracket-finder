@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669653765,
+  "fetched_at": 1669654445,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-40/event/melee-singles",
       "tournament_name": "Monday Night Mixup #40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501293/image-dbfa106f806bcaaea62bdb0383529bc3.png?ehk=v3rTI31pfuIy7Grvo3xAXHOivL7mz6l2CFMy2gHFJHA%3D&ehkOptimized=bO5v2DG5FY8Lttz6dIwQWwEQp8hcKSRSE7Gr6O9kBlw%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1669662000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Super Smash Bong #74",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/501490/image-88c0f4d30b5a5484b6b731257e55f653.jpg?ehk=VxHf65pP%2FWT3VIxE5jVBLhJ%2B6jqias5NJXkOq8Tr980%3D&ehkOptimized=nisE4Lkv6MMBqiiSXVdWq3oTyyo2sJJIuc8HUpSBKBE%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669674600
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "The Dairy Farm #10: The Hootenanny Hoe Down   (100 Euro Prize Pool)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501275/image-603956f16e81484ef9113909ed28a5c3.png?ehk=64ICRkpqoDMjkj0Zt2rJ85q70qIo%2Bu0B07vyPHS%2FKO0%3D&ehkOptimized=cBliU8uU3o7o1nslje%2F42ERMh6CczFAWmMDb39wCYXE%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669833000
     },
     {
@@ -158,7 +158,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #41 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500634/image-852f011128353b129956ced8a73e64fc.png?ehk=HLiOtak2n98BL4%2F1xaCsB2CI756J1lihTpNYzK0Q4mc%3D&ehkOptimized=swHaumJG%2Fgz9IVL7PaaM1ELa8Uef8TUNJ6dSdREJeT8%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669917600
     },
     {
