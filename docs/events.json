@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669650685,
+  "fetched_at": 1669652435,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-40/event/melee-singles",
       "tournament_name": "Monday Night Mixup #40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501293/image-dbfa106f806bcaaea62bdb0383529bc3.png?ehk=v3rTI31pfuIy7Grvo3xAXHOivL7mz6l2CFMy2gHFJHA%3D&ehkOptimized=bO5v2DG5FY8Lttz6dIwQWwEQp8hcKSRSE7Gr6O9kBlw%3D",
-      "entrants": 12,
+      "entrants": 14,
       "start_time": 1669662000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Pino's Tired of 0-2! #100!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/501350/image-1dab1d308e91dad74d0d38e688ef19b8.jpg?ehk=wTOPGPbP5zygLBOQy4GlryjHJ15BWdbcvJxyvVJcO1c%3D&ehkOptimized=c43DcC1t%2F1Xb9xv%2Fp78Qbe429FFGgy1JXsJj%2BRpRoC4%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1669676400
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "CASINO ROYALE 3 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/500012/image-dd2d25d27c62667e345ad8747a3a11c0.png?ehk=5KDrXRePJnMY2fiSPXvylHWdc%2F2jq7%2Blaa6vPHB7acs%3D&ehkOptimized=oWroiCduupqmyfHhTsdLmhIxV8WRKsbKYnI%2FbW6tFVs%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1669689000
     },
     {
