@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669661001,
+  "fetched_at": 1669661666,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-40/event/melee-singles",
       "tournament_name": "Monday Night Mixup #40",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501293/image-dbfa106f806bcaaea62bdb0383529bc3.png?ehk=v3rTI31pfuIy7Grvo3xAXHOivL7mz6l2CFMy2gHFJHA%3D&ehkOptimized=bO5v2DG5FY8Lttz6dIwQWwEQp8hcKSRSE7Gr6O9kBlw%3D",
-      "entrants": 34,
+      "entrants": 38,
       "start_time": 1669662000
     },
     {
@@ -152,6 +152,14 @@
       "image": "https://images.start.gg/images/tournament/500665/image-18b2f3538525b9cb13b7a8555ac5a608.png?ehk=Vy4NiE2uJ4mUJ3RdeesWtqbd0N2f6LPMkUKnvWRvU0c%3D&ehkOptimized=FrnARgvfMG4jbsSl4gEENnXJFdZEeoqKBfXDNtwr640%3D",
       "entrants": 5,
       "start_time": 1669860000
+    },
+    {
+      "slug": "tournament/garbage-connection-lite-mainstage-warmup/event/melee-singles-west-coast",
+      "tournament_name": "Garbage Connection: LITE - Mainstage Warmup",
+      "event_name": "Melee Singles: West-Coast",
+      "image": "https://images.start.gg/images/tournament/501587/image-215a8417de09ddfeea83d3601865d9c4.jpg?ehk=O2ybX6TAzb%2BM4pdphQvY1Nc026W2NY3edrtqhmmwoZg%3D&ehkOptimized=hOUWg8cKKJyGx%2FD35guL7ebKnEgeO6PmkT3nn1tZTtU%3D",
+      "entrants": 0,
+      "start_time": 1669863600
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-41-eu-event/event/melee-singles",
