@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669613842,
+  "fetched_at": 1669614692,
   "data": [
     {
       "slug": "tournament/kalvar-cup-70-1/event/melee-singles",
@@ -38,7 +38,7 @@
       "tournament_name": "Pino's Tired of 0-2! #100!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/501350/image-1dab1d308e91dad74d0d38e688ef19b8.jpg?ehk=wTOPGPbP5zygLBOQy4GlryjHJ15BWdbcvJxyvVJcO1c%3D&ehkOptimized=c43DcC1t%2F1Xb9xv%2Fp78Qbe429FFGgy1JXsJj%2BRpRoC4%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1669676400
     },
     {
@@ -110,6 +110,14 @@
       "tournament_name": "NetMoaL 3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500674/image-92616e06cc6a6a93f3249e1bcdac792d.png?ehk=u5peOTVAvHex3qoRO%2Fmk9C1VZjgKXaKEBRC3eZRb23g%3D&ehkOptimized=EWyJWqnkiL%2FJQumaVrpayuGIWjl1gkgGvs3ymkNy7oQ%3D",
+      "entrants": 0,
+      "start_time": 1669766400
+    },
+    {
+      "slug": "tournament/sketchy-series-8-pencils-down/event/melee-singles",
+      "tournament_name": "Sketchy Series 8: Pencils Down",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/501419/image-8cd1994b5eab31e06f20ba623c27ecf7.png?ehk=o5PkeKTmn6HU5n42qzu9Ac45TwlQRzIqdDA2pRHu654%3D&ehkOptimized=QkIaBmQ4WrWUnnUkD%2BcOClzSJj%2B%2BDxnjgQqs9uLlrlw%3D",
       "entrants": 0,
       "start_time": 1669766400
     },
