@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669731370,
+  "fetched_at": 1669732706,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/ladder-melee-west-coast",
@@ -166,6 +166,14 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #14",
       "event_name": "Results Data",
       "image": "https://images.start.gg/images/tournament/501601/image-92a33ab963836cb547d6e50bd4941e29.png?ehk=uNCD5ko%2BpcrgaOt3Wkf4ugJSUO3muwtjCYxHgMnWGvg%3D&ehkOptimized=OczsDnzC4Wb6xKO1GLnH0xRNkj2Lie3H3yIBN7EGnao%3D",
+      "entrants": 0,
+      "start_time": 1669939200
+    },
+    {
+      "slug": "tournament/the-salt-mine-50/event/the-salt-mine",
+      "tournament_name": "The Salt Mine #50!",
+      "event_name": "The Salt Mine!",
+      "image": "https://images.start.gg/images/tournament/501858/image-0e53385253581197801ba8cafe1185e1.png?ehk=OiW36L8SxRcRKWuIJ%2FNywQlxg89%2Bg5ulUFRGsPjKHrU%3D&ehkOptimized=6B8hoKCX%2Fv0Daz6DEJvu7sfpU%2BoyDKXzZPG%2FIg1Jaco%3D",
       "entrants": 0,
       "start_time": 1669939200
     },
