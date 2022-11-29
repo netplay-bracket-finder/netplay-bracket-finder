@@ -1,26 +1,34 @@
 {
-  "fetched_at": 1669742984,
+  "fetched_at": 1669743645,
   "data": [
-    {
-      "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/ladder-melee-west-coast",
-      "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
-      "event_name": "Ladder Melee West Coast",
-      "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
-      "entrants": 3,
-      "start_time": 1669752000
-    },
     {
       "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
-      "entrants": 2,
+      "entrants": 4,
+      "start_time": 1669752000
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/ladder-melee-west-coast",
+      "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
+      "event_name": "Ladder Melee West Coast",
+      "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
+      "entrants": 4,
       "start_time": 1669752000
     },
     {
       "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/side-event-ec-melee-redemption-bracket",
       "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
+      "entrants": 2,
+      "start_time": 1669752000
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
       "entrants": 1,
       "start_time": 1669752000
@@ -37,14 +45,6 @@
       "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/main-bracket-wc-melee-singles",
       "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
       "event_name": "Main Bracket: WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
-      "entrants": 0,
-      "start_time": 1669752000
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
       "entrants": 0,
       "start_time": 1669752000
