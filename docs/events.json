@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1669691789,
+  "fetched_at": 1669693522,
   "data": [
-    {
-      "slug": "tournament/mnn-34/event/melee-singles",
-      "tournament_name": "MNN#34",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/501618/image-633ac56c7fb1934c3df9a8a3c9ed91eb.png?ehk=8%2BZLuCmEi%2FIqdJOu4%2FlE2m6tpjXdC1ULmMHmNHWi7FI%3D&ehkOptimized=2yjN8gBpqVnuHlx5ka7Vzc1MeeqF0wpFlWBZEtL5yQs%3D",
-      "entrants": 38,
-      "start_time": 1669694400
-    },
     {
       "slug": "tournament/netmoal-3/event/melee-doubles",
       "tournament_name": "NetMoaL 3",
@@ -56,6 +48,14 @@
       "image": "https://images.start.gg/images/tournament/501275/image-603956f16e81484ef9113909ed28a5c3.png?ehk=64ICRkpqoDMjkj0Zt2rJ85q70qIo%2Bu0B07vyPHS%2FKO0%3D&ehkOptimized=cBliU8uU3o7o1nslje%2F42ERMh6CczFAWmMDb39wCYXE%3D",
       "entrants": 4,
       "start_time": 1669833000
+    },
+    {
+      "slug": "tournament/galaxy-gladiators-22-solar-circuit-qualifier/event/melee-singles",
+      "tournament_name": "Galaxy Gladiators #22 (Solar Circuit Qualifier)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/501765/image-e03ae3df404f2ba4ee1a629a9ef82f01.png?ehk=QSayiI8qIlJoxWHCtusVgOANm947JkJ2CqJH484uZ3Y%3D&ehkOptimized=Jhe2Weh10ZX39DziNCRtL8RwfQ5kl3XCQelTDSH4OnE%3D",
+      "entrants": 0,
+      "start_time": 1669856400
     },
     {
       "slug": "tournament/waddle-wednesday-47/event/melee-singles",
