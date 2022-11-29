@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669744308,
+  "fetched_at": 1669746015,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/ladder-melee-east-coast",
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1669752000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1669752000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669752000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Sketchy Series 8: Pencils Down",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501419/image-8cd1994b5eab31e06f20ba623c27ecf7.png?ehk=o5PkeKTmn6HU5n42qzu9Ac45TwlQRzIqdDA2pRHu654%3D&ehkOptimized=QkIaBmQ4WrWUnnUkD%2BcOClzSJj%2B%2BDxnjgQqs9uLlrlw%3D",
-      "entrants": 5,
+      "entrants": 8,
       "start_time": 1669766400
     },
     {
@@ -194,11 +194,27 @@
       "start_time": 1669939200
     },
     {
+      "slug": "tournament/moonwalk-tournament-series-26/event/melee-ladder",
+      "tournament_name": "Moonwalk Tournament Series 26",
+      "event_name": "Melee Ladder",
+      "image": "https://images.start.gg/images/tournament/497896/image-f200f5b04bf94cc3075fec62b23a6fe4.jpg?ehk=xi%2Fyo1A4xWL0qPcwOjSIlsnXriF29SUHkFfXk2i%2FyDE%3D&ehkOptimized=N4eslqck2qK%2BuX5uYAnCipCxlCG%2FlHKNcTDJ7wkxiO8%3D",
+      "entrants": 0,
+      "start_time": 1669939200
+    },
+    {
+      "slug": "tournament/moonwalk-tournament-series-26/event/melee-top-12",
+      "tournament_name": "Moonwalk Tournament Series 26",
+      "event_name": "Melee Top 12",
+      "image": "https://images.start.gg/images/tournament/497896/image-f200f5b04bf94cc3075fec62b23a6fe4.jpg?ehk=xi%2Fyo1A4xWL0qPcwOjSIlsnXriF29SUHkFfXk2i%2FyDE%3D&ehkOptimized=N4eslqck2qK%2BuX5uYAnCipCxlCG%2FlHKNcTDJ7wkxiO8%3D",
+      "entrants": 0,
+      "start_time": 1669939200
+    },
+    {
       "slug": "tournament/only-noobs-95/event/melee-singles",
       "tournament_name": "Only Noobs 95",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500765/image-65021135e9060b27ee0b5229edaa6e10.jpg?ehk=W7yrzTbBPnWbz9m0sTHIDQ3zmFyCmNrTThedIDsPk%2FA%3D&ehkOptimized=MYDuutz9Xoedc%2BhziZ3ah5xt7OMKmFZuwTPmuMAUA1c%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1669939200
     },
     {
