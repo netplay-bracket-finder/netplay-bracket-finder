@@ -1,6 +1,14 @@
 {
-  "fetched_at": 1669685232,
+  "fetched_at": 1669689868,
   "data": [
+    {
+      "slug": "tournament/coast-to-coast-doubles-9/event/wc-doubles",
+      "tournament_name": "Coast to Coast Doubles # 9",
+      "event_name": "WC Doubles",
+      "image": "https://images.start.gg/images/tournament/500007/image-cde309926d617ee8a85bb844dcaa800f.png?ehk=tewW7O0zFm%2F63m1AMY5RETkqwL%2BF%2BkzNTtGZPs7dGrE%3D&ehkOptimized=n3Jbr2XOUjgqkczqobapdIJQRKZ%2F45g%2F2eE4SIY7xzs%3D",
+      "entrants": 6,
+      "start_time": 1669680000
+    },
     {
       "slug": "tournament/coast-to-coast-doubles-9/event/ec-doubles",
       "tournament_name": "Coast to Coast Doubles # 9",
@@ -10,35 +18,11 @@
       "start_time": 1669680000
     },
     {
-      "slug": "tournament/coast-to-coast-doubles-9/event/wc-doubles",
-      "tournament_name": "Coast to Coast Doubles # 9",
-      "event_name": "WC Doubles",
-      "image": "https://images.start.gg/images/tournament/500007/image-cde309926d617ee8a85bb844dcaa800f.png?ehk=tewW7O0zFm%2F63m1AMY5RETkqwL%2BF%2BkzNTtGZPs7dGrE%3D&ehkOptimized=n3Jbr2XOUjgqkczqobapdIJQRKZ%2F45g%2F2eE4SIY7xzs%3D",
-      "entrants": 5,
-      "start_time": 1669680000
-    },
-    {
-      "slug": "tournament/spudfest-43/event/melee-singles",
-      "tournament_name": "Spudfest 43",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/500766/image-10a3832d0578e2a5c9812e2a3aad893e.jpg?ehk=zTjQ4y2%2BXqeDkS5ERgLdV5A87VM5zjX52W3RanHnsIE%3D&ehkOptimized=al3YbOAKYarOL0RfCTljw7R78enIIRTUQ4aNGBhaeRs%3D",
-      "entrants": 43,
-      "start_time": 1669687200
-    },
-    {
-      "slug": "tournament/casino-royale-3-ssbm-online-weekly/event/casino",
-      "tournament_name": "CASINO ROYALE 3 ~ SSBM Online Weekly",
-      "event_name": "CASINO",
-      "image": "https://images.start.gg/images/tournament/500012/image-dd2d25d27c62667e345ad8747a3a11c0.png?ehk=5KDrXRePJnMY2fiSPXvylHWdc%2F2jq7%2Blaa6vPHB7acs%3D&ehkOptimized=oWroiCduupqmyfHhTsdLmhIxV8WRKsbKYnI%2FbW6tFVs%3D",
-      "entrants": 35,
-      "start_time": 1669689000
-    },
-    {
       "slug": "tournament/mnn-34/event/melee-singles",
       "tournament_name": "MNN#34",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501618/image-633ac56c7fb1934c3df9a8a3c9ed91eb.png?ehk=8%2BZLuCmEi%2FIqdJOu4%2FlE2m6tpjXdC1ULmMHmNHWi7FI%3D&ehkOptimized=2yjN8gBpqVnuHlx5ka7Vzc1MeeqF0wpFlWBZEtL5yQs%3D",
-      "entrants": 21,
+      "entrants": 34,
       "start_time": 1669694400
     },
     {
