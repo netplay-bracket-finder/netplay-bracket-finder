@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669732706,
+  "fetched_at": 1669733491,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/ladder-melee-west-coast",
       "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669752000
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "Garbage Connection: LITE - Mainstage Warmup",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/501587/image-215a8417de09ddfeea83d3601865d9c4.jpg?ehk=O2ybX6TAzb%2BM4pdphQvY1Nc026W2NY3edrtqhmmwoZg%3D&ehkOptimized=hOUWg8cKKJyGx%2FD35guL7ebKnEgeO6PmkT3nn1tZTtU%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1669863600
     },
     {
@@ -298,22 +298,6 @@
       "start_time": 1670776200
     },
     {
-      "slug": "tournament/blumflip-presents-frozen-destination-100-prize-pool/event/melee-doubles",
-      "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
-      "event_name": "melee doubles",
-      "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 0,
-      "start_time": 1670792400
-    },
-    {
-      "slug": "tournament/blumflip-presents-frozen-destination-100-prize-pool/event/melee-singles",
-      "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
-      "event_name": "melee singles",
-      "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 8,
-      "start_time": 1670803200
-    },
-    {
       "slug": "tournament/cg-gold-invitational-last-chance-qualifier/event/ssbm-randomizer-singles",
       "tournament_name": "CG Gold Invitational Last Chance Qualifier",
       "event_name": "SSBM Randomizer Singles",
@@ -360,6 +344,22 @@
       "image": "https://images.start.gg/images/tournament/482549/image-df29c1008b4492f36c3e4ac3613ab8f2.png?ehk=u5XdmF06c5YIhs9dISb7UNXBN76TjEu6ygQhMUbzod4%3D&ehkOptimized=j0qWbo1G6mxURU5xHyxRkPlw%2FuUn%2BOhkTc%2BFVGai%2FpU%3D",
       "entrants": 0,
       "start_time": 1671219000
+    },
+    {
+      "slug": "tournament/blumflip-presents-frozen-destination-100-prize-pool/event/melee-singles",
+      "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
+      "event_name": "melee singles",
+      "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
+      "entrants": 8,
+      "start_time": 1670803200
+    },
+    {
+      "slug": "tournament/blumflip-presents-frozen-destination-100-prize-pool/event/melee-doubles",
+      "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
+      "event_name": "melee doubles",
+      "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
+      "entrants": 0,
+      "start_time": 1671310800
     },
     {
       "slug": "tournament/finnish-melee-league-2022-finals/event/fml2022-top-8-final-bracket",
