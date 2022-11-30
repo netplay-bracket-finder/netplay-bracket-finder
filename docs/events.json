@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669786652,
+  "fetched_at": 1669787485,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/ladder-melee-east-coast",
@@ -26,14 +26,6 @@
       "start_time": 1669779000
     },
     {
-      "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
-      "entrants": 13,
-      "start_time": 1669779000
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/main-bracket-ec-melee-singles",
       "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
@@ -48,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
       "entrants": 22,
       "start_time": 1669768200
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
+      "entrants": 13,
+      "start_time": 1669779000
     },
     {
       "slug": "tournament/road-2-glory-revival/event/single-div",
@@ -166,7 +166,7 @@
       "tournament_name": "The Distribution",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497056/image-83854e21ab91c8d31c6168c57a0b70ec.png?ehk=lHe1BSTrtbOVIt2vFjfSL00smP3XX8Py%2Fv5CjB8jpBM%3D&ehkOptimized=8m4TLqYp7OQSSuMrnFanqyjXBTNTVqPj2dMPEy7WUOo%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1669939200
     },
     {
@@ -184,6 +184,14 @@
       "image": "https://images.start.gg/images/tournament/502003/image-36be5f4751b389724d18d52560246c86.jpg?ehk=WjEM4WhyHAKIycsVWgQCk0ghQLYekcPJXmziBHA0zrI%3D&ehkOptimized=qV%2FkkZD%2FDo%2BBCBmXq%2BI9oEcpcxmtQR2ATqOvTo20OFI%3D",
       "entrants": 0,
       "start_time": 1670011200
+    },
+    {
+      "slug": "tournament/mfgc-falco-friday-online-2/event/melee-singles",
+      "tournament_name": "MFGC Falco Friday Online #2",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/502123/image-50584bca352d894956a086eff8155ef1.jpg?ehk=KtM0CJJsitZ2wZ9dgGrMO3PxiAQlCisGaK9D%2BVY2eVM%3D&ehkOptimized=W2YLMOTIntcQmxFGsIGPB2GBeVyPXgySgWI4%2Bm40LOo%3D",
+      "entrants": 0,
+      "start_time": 1670025600
     },
     {
       "slug": "tournament/melee-legends-5/event/melee-singles",
