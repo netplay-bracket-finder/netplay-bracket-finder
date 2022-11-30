@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669778010,
+  "fetched_at": 1669779474,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/ladder-melee-east-coast",
@@ -18,28 +18,28 @@
       "start_time": 1669752000
     },
     {
-      "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/main-bracket-ec-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
-      "event_name": "Main Bracket: EC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
-      "entrants": 26,
-      "start_time": 1669768200
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/main-bracket-wc-melee-singles",
       "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
       "event_name": "Main Bracket: WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
       "entrants": 16,
-      "start_time": 1669752000
+      "start_time": 1669779000
     },
     {
       "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/side-event-wc-melee-redemption-bracket",
       "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
-      "entrants": 12,
-      "start_time": 1669752000
+      "entrants": 13,
+      "start_time": 1669779000
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/main-bracket-ec-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #105 - Lite Edition",
+      "event_name": "Main Bracket: EC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/501781/image-7d1b15a1bd13a6b8582c71b5a2b71ded.png?ehk=WfWPhhM2qkIMto64tY02dblcfw8KV7pJjL5EIOfQ5pY%3D&ehkOptimized=yZT3FoYUMirBtU1LE2BWeA4%2FExCatOUWLHvGCWivKLo%3D",
+      "entrants": 26,
+      "start_time": 1669768200
     },
     {
       "slug": "tournament/training-mode-tuesdays-105-lite-edition/event/side-event-ec-melee-redemption-bracket",
@@ -54,7 +54,7 @@
       "tournament_name": "Fuck Panda Popup",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502047/image-d0d5576071ad8b51e06a474d25938048.png?ehk=HuenqvwvAwln%2FqO0xEIj8wb6h37S5LnX3fuI6yAC1TM%3D&ehkOptimized=CvrFL5zGNRGmlsM2WKO6mifMzxFBglpulwPE%2Feib%2FLo%3D",
-      "entrants": 19,
+      "entrants": 23,
       "start_time": 1669780800
     },
     {
