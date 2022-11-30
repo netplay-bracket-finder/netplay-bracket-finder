@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669819120,
+  "fetched_at": 1669819891,
   "data": [
     {
       "slug": "tournament/road-2-glory-revival/event/single-div",
@@ -184,6 +184,14 @@
       "image": "https://images.start.gg/images/tournament/500116/image-1f44fbea3ec36a369c881ec43ca63d9a.png?ehk=Zpw0%2Brj5D7gOxIa35x10JQqMspSudtkcYGqfgsqzXh8%3D&ehkOptimized=N%2Be0ghyPKs8E3r8FE%2FJKPuv%2FiyemgNTwSC%2BhJ3PtAxg%3D",
       "entrants": 0,
       "start_time": 1670101200
+    },
+    {
+      "slug": "tournament/melee-weekly-br-6-fuck-nintendo/event/melee-singles",
+      "tournament_name": "Melee Weekly BR #6 - Fuck Nintendo",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/502168/image-69b81c9fc447b604d9b1ac34e485ad90.png?ehk=2bUwPnNQJQutqjcs0Ksv5aAGlJFoiCbtWVmSyyeYIkE%3D&ehkOptimized=EXYjhMSx73Fy9YvaW0i9te0hoQQuBKpze8Sa0NUoENM%3D",
+      "entrants": 1,
+      "start_time": 1670185800
     },
     {
       "slug": "tournament/coast-to-coast-doubles-10/event/wc-doubles",
