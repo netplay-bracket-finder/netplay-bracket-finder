@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669850289,
+  "fetched_at": 1669851541,
   "data": [
     {
       "slug": "tournament/galaxy-gladiators-22-solar-circuit-qualifier/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 47",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500512/image-adcef7fe1ce740550a3fe020f903cda0.png?ehk=FGha5nDMcHYmBSsv70ed%2FJNpfhlYoVFtHTlAcmtBTCw%3D&ehkOptimized=d6UEl35AYCCrID5OPEo25B91haAp9BhD6IwulCIHxlY%3D",
-      "entrants": 49,
+      "entrants": 57,
       "start_time": 1669856400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Silver Slippi League #33",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/500665/image-18b2f3538525b9cb13b7a8555ac5a608.png?ehk=Vy4NiE2uJ4mUJ3RdeesWtqbd0N2f6LPMkUKnvWRvU0c%3D&ehkOptimized=FrnARgvfMG4jbsSl4gEENnXJFdZEeoqKBfXDNtwr640%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1669860000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Take The L #12 - ONLINE EDITION",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501127/image-8718a2489331e62b7ce2b9b4f26bef71.jpg?ehk=ew2QXz%2FrqaZfTVMNGh%2FYNdcqbFYCduoAf73h%2F0aDI90%3D&ehkOptimized=2t4FxbZIVM2H3PT6qTnDlo0pzJK9wWsTXZw9rIjcI54%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1669863600
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #14",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/501601/image-92a33ab963836cb547d6e50bd4941e29.png?ehk=uNCD5ko%2BpcrgaOt3Wkf4ugJSUO3muwtjCYxHgMnWGvg%3D&ehkOptimized=OczsDnzC4Wb6xKO1GLnH0xRNkj2Lie3H3yIBN7EGnao%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1669939200
     },
     {
@@ -360,6 +360,14 @@
       "image": "https://images.start.gg/images/tournament/497902/image-d4a4ad55c6d3f427365089239afc51e0.png?ehk=c7m3EkEj1F7EWLm%2BxOeXmCiOUcw2OhOt3A4FI8Zz8eg%3D&ehkOptimized=HULTs1MXhHY5McbFWyLKZ%2F%2BtiG%2Fm4vsKGgfSY8Bycz4%3D",
       "entrants": 0,
       "start_time": 1671490800
+    },
+    {
+      "slug": "tournament/ren-serber-melee-tourney-number-1-the-red-house/event/red-house-melee-singles",
+      "tournament_name": "REN SERBER MELEE TOURNEY NUMBER 1 (THE RED HOUSE)",
+      "event_name": "RED HOUSE MELEE SINGLES",
+      "image": "https://images.start.gg/images/tournament/502175/image-4581d33c4dbac32bfd517fe687673e87.jpg?ehk=mQP6qIrhn9qcXFnzrFELG61Q4r43xl0EzPqp%2FzuESeU%3D&ehkOptimized=B1nsDdQMmKtbGOw3m9RK4QvCMY4Wr6qX3mbC7woqbek%3D",
+      "entrants": 0,
+      "start_time": 1671832800
     },
     {
       "slug": "tournament/welcome-to-the-new-year-2023-pink-tournament/event/melee-singles",
