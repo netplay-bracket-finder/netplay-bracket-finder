@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669844241,
+  "fetched_at": 1669845085,
   "data": [
     {
       "slug": "tournament/galaxy-gladiators-22-solar-circuit-qualifier/event/melee-singles",
       "tournament_name": "Galaxy Gladiators #22 (Solar Circuit Qualifier)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501765/image-e03ae3df404f2ba4ee1a629a9ef82f01.png?ehk=QSayiI8qIlJoxWHCtusVgOANm947JkJ2CqJH484uZ3Y%3D&ehkOptimized=Jhe2Weh10ZX39DziNCRtL8RwfQ5kl3XCQelTDSH4OnE%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1669856400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 47",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500512/image-adcef7fe1ce740550a3fe020f903cda0.png?ehk=FGha5nDMcHYmBSsv70ed%2FJNpfhlYoVFtHTlAcmtBTCw%3D&ehkOptimized=d6UEl35AYCCrID5OPEo25B91haAp9BhD6IwulCIHxlY%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1669856400
     },
     {
@@ -150,7 +150,7 @@
       "tournament_name": "KOMET VIII | SUPER WEEK",
       "event_name": "KOMET Pro League | SUPER WEEK",
       "image": "https://images.start.gg/images/tournament/500993/image-ccbdda13ec619b629627d3607c37379b.png?ehk=2JIge6ON4yAFec4h8qwfNjRLVm81eoWgMsjgutbFMxQ%3D&ehkOptimized=ISeJGwfX6DmIeMpSJGQ2LWJfEhQ9STlErbO0gFn1Z1c%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1670090400
     },
     {
