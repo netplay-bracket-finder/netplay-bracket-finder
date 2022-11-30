@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669837012,
+  "fetched_at": 1669837890,
   "data": [
     {
       "slug": "tournament/galaxy-gladiators-22-solar-circuit-qualifier/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 47",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500512/image-adcef7fe1ce740550a3fe020f903cda0.png?ehk=FGha5nDMcHYmBSsv70ed%2FJNpfhlYoVFtHTlAcmtBTCw%3D&ehkOptimized=d6UEl35AYCCrID5OPEo25B91haAp9BhD6IwulCIHxlY%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1669856400
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Garbage Connection: LITE - Mainstage Warmup",
       "event_name": "Melee Singles: West-Coast",
       "image": "https://images.start.gg/images/tournament/501587/image-215a8417de09ddfeea83d3601865d9c4.jpg?ehk=O2ybX6TAzb%2BM4pdphQvY1Nc026W2NY3edrtqhmmwoZg%3D&ehkOptimized=hOUWg8cKKJyGx%2FD35guL7ebKnEgeO6PmkT3nn1tZTtU%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1669863600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #41 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500634/image-852f011128353b129956ced8a73e64fc.png?ehk=HLiOtak2n98BL4%2F1xaCsB2CI756J1lihTpNYzK0Q4mc%3D&ehkOptimized=swHaumJG%2Fgz9IVL7PaaM1ELa8Uef8TUNJ6dSdREJeT8%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1669917600
     },
     {
