@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669851541,
+  "fetched_at": 1669852287,
   "data": [
     {
       "slug": "tournament/galaxy-gladiators-22-solar-circuit-qualifier/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 47",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500512/image-adcef7fe1ce740550a3fe020f903cda0.png?ehk=FGha5nDMcHYmBSsv70ed%2FJNpfhlYoVFtHTlAcmtBTCw%3D&ehkOptimized=d6UEl35AYCCrID5OPEo25B91haAp9BhD6IwulCIHxlY%3D",
-      "entrants": 57,
+      "entrants": 62,
       "start_time": 1669856400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Silver Slippi League #33",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/500665/image-18b2f3538525b9cb13b7a8555ac5a608.png?ehk=Vy4NiE2uJ4mUJ3RdeesWtqbd0N2f6LPMkUKnvWRvU0c%3D&ehkOptimized=FrnARgvfMG4jbsSl4gEENnXJFdZEeoqKBfXDNtwr640%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1669860000
     },
     {
@@ -37,8 +37,8 @@
       "slug": "tournament/take-the-l-12-online-edition/event/melee-singles",
       "tournament_name": "Take The L #12 - ONLINE EDITION",
       "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/501127/image-8718a2489331e62b7ce2b9b4f26bef71.jpg?ehk=ew2QXz%2FrqaZfTVMNGh%2FYNdcqbFYCduoAf73h%2F0aDI90%3D&ehkOptimized=2t4FxbZIVM2H3PT6qTnDlo0pzJK9wWsTXZw9rIjcI54%3D",
-      "entrants": 8,
+      "image": "https://images.start.gg/images/tournament/501127/image-45f3e0b30e2e2eb1dc5ff4c84cce812a.png?ehk=JlopP%2Byqe3kzAii25wOJMmvI0apBKPBF1xVDnviRHss%3D&ehkOptimized=OXF%2Bs7A3%2FZD7o4GVmJCLR3JyiaYyFzADquvF2YUMa2A%3D",
+      "entrants": 9,
       "start_time": 1669863600
     },
     {
