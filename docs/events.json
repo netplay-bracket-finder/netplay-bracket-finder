@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1669823521,
+  "fetched_at": 1669825514,
   "data": [
-    {
-      "slug": "tournament/road-2-glory-revival/event/single-div",
-      "tournament_name": "Road 2 Glory : Revival",
-      "event_name": "Single Div",
-      "image": "https://images.start.gg/images/tournament/500948/image-d70fd612ee29f7338a9855db1486a1c8.png?ehk=Ut5HPI2E8wKFkcrAEDgZoxiNTJlFwGXaOirqmZGO%2F2w%3D&ehkOptimized=BO8i55EAePjegHCIMUe3kWPu0XXRPlAXZDOiLECZOn8%3D",
-      "entrants": 5,
-      "start_time": 1669824000
-    },
     {
       "slug": "tournament/the-dairy-farm-10-the-hootenanny-hoe-down/event/melee-singles",
       "tournament_name": "The Dairy Farm #10: The Hootenanny Hoe Down",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501275/image-603956f16e81484ef9113909ed28a5c3.png?ehk=64ICRkpqoDMjkj0Zt2rJ85q70qIo%2Bu0B07vyPHS%2FKO0%3D&ehkOptimized=cBliU8uU3o7o1nslje%2F42ERMh6CczFAWmMDb39wCYXE%3D",
-      "entrants": 21,
+      "entrants": 27,
       "start_time": 1669833000
     },
     {
@@ -22,7 +14,7 @@
       "tournament_name": "Galaxy Gladiators #22 (Solar Circuit Qualifier)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501765/image-e03ae3df404f2ba4ee1a629a9ef82f01.png?ehk=QSayiI8qIlJoxWHCtusVgOANm947JkJ2CqJH484uZ3Y%3D&ehkOptimized=Jhe2Weh10ZX39DziNCRtL8RwfQ5kl3XCQelTDSH4OnE%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669856400
     },
     {
@@ -30,7 +22,7 @@
       "tournament_name": "Waddle Wednesday 47",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500512/image-adcef7fe1ce740550a3fe020f903cda0.png?ehk=FGha5nDMcHYmBSsv70ed%2FJNpfhlYoVFtHTlAcmtBTCw%3D&ehkOptimized=d6UEl35AYCCrID5OPEo25B91haAp9BhD6IwulCIHxlY%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1669856400
     },
     {
@@ -38,7 +30,7 @@
       "tournament_name": "Silver Slippi League #33",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/500665/image-18b2f3538525b9cb13b7a8555ac5a608.png?ehk=Vy4NiE2uJ4mUJ3RdeesWtqbd0N2f6LPMkUKnvWRvU0c%3D&ehkOptimized=FrnARgvfMG4jbsSl4gEENnXJFdZEeoqKBfXDNtwr640%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1669860000
     },
     {
@@ -126,7 +118,7 @@
       "tournament_name": "Only Noobs 95",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500765/image-65021135e9060b27ee0b5229edaa6e10.jpg?ehk=W7yrzTbBPnWbz9m0sTHIDQ3zmFyCmNrTThedIDsPk%2FA%3D&ehkOptimized=MYDuutz9Xoedc%2BhziZ3ah5xt7OMKmFZuwTPmuMAUA1c%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1669939200
     },
     {
@@ -190,7 +182,7 @@
       "tournament_name": "Melee Weekly BR #6 - Fuck Nintendo",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502168/image-69b81c9fc447b604d9b1ac34e485ad90.png?ehk=2bUwPnNQJQutqjcs0Ksv5aAGlJFoiCbtWVmSyyeYIkE%3D&ehkOptimized=EXYjhMSx73Fy9YvaW0i9te0hoQQuBKpze8Sa0NUoENM%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670185800
     },
     {
