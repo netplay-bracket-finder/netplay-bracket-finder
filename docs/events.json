@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1669873883,
+  "fetched_at": 1669875779,
   "data": [
-    {
-      "slug": "tournament/silver-slippi-league-33/event/melee-ranked-ladder",
-      "tournament_name": "Silver Slippi League #33",
-      "event_name": "Melee Ranked Ladder",
-      "image": "https://images.start.gg/images/tournament/500665/image-18b2f3538525b9cb13b7a8555ac5a608.png?ehk=Vy4NiE2uJ4mUJ3RdeesWtqbd0N2f6LPMkUKnvWRvU0c%3D&ehkOptimized=FrnARgvfMG4jbsSl4gEENnXJFdZEeoqKBfXDNtwr640%3D",
-      "entrants": 33,
-      "start_time": 1669860000
-    },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-41-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #41 (EU Event)",
