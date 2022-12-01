@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669922054,
+  "fetched_at": 1669922749,
   "data": [
     {
       "slug": "tournament/the-salad-online-51/event/melee-singles",
@@ -10,19 +10,11 @@
       "start_time": 1670018400
     },
     {
-      "slug": "tournament/the-salt-mine-50/event/the-salt-mine",
-      "tournament_name": "The Salt Mine #50!",
-      "event_name": "The Salt Mine!",
-      "image": "https://images.start.gg/images/tournament/501858/image-0e53385253581197801ba8cafe1185e1.png?ehk=OiW36L8SxRcRKWuIJ%2FNywQlxg89%2Bg5ulUFRGsPjKHrU%3D&ehkOptimized=6B8hoKCX%2Fv0Daz6DEJvu7sfpU%2BoyDKXzZPG%2FIg1Jaco%3D",
-      "entrants": 5,
-      "start_time": 1669939200
-    },
-    {
       "slug": "tournament/ssbm-randomizer-seed-of-the-week-14/event/ssbmr-singles",
       "tournament_name": "SSBM Randomizer: Seed of the Week #14",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/501601/image-92a33ab963836cb547d6e50bd4941e29.png?ehk=uNCD5ko%2BpcrgaOt3Wkf4ugJSUO3muwtjCYxHgMnWGvg%3D&ehkOptimized=OczsDnzC4Wb6xKO1GLnH0xRNkj2Lie3H3yIBN7EGnao%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1669939200
     },
     {
@@ -31,6 +23,14 @@
       "event_name": "Results Data",
       "image": "https://images.start.gg/images/tournament/501601/image-92a33ab963836cb547d6e50bd4941e29.png?ehk=uNCD5ko%2BpcrgaOt3Wkf4ugJSUO3muwtjCYxHgMnWGvg%3D&ehkOptimized=OczsDnzC4Wb6xKO1GLnH0xRNkj2Lie3H3yIBN7EGnao%3D",
       "entrants": 0,
+      "start_time": 1669939200
+    },
+    {
+      "slug": "tournament/the-salt-mine-50/event/the-salt-mine",
+      "tournament_name": "The Salt Mine #50!",
+      "event_name": "The Salt Mine!",
+      "image": "https://images.start.gg/images/tournament/501858/image-0e53385253581197801ba8cafe1185e1.png?ehk=OiW36L8SxRcRKWuIJ%2FNywQlxg89%2Bg5ulUFRGsPjKHrU%3D&ehkOptimized=6B8hoKCX%2Fv0Daz6DEJvu7sfpU%2BoyDKXzZPG%2FIg1Jaco%3D",
+      "entrants": 6,
       "start_time": 1669939200
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Thursday Thmackdown #11",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502487/image-0dad0249854e2e345fc95cf4606a7294.png?ehk=AjnysKxK2lgVWNx5WGKivZOnGyryYho82QyuZHVnxMA%3D&ehkOptimized=KNcc7rk2XvO0nCRvIQZprr5hKTK5oj8T74K47Kx64rE%3D",
-      "entrants": 0,
+      "entrants": 2,
       "start_time": 1669946400
     },
     {
@@ -150,7 +150,7 @@
       "tournament_name": "Dorime's Dojo #10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502489/image-dadda0198c4f2c87588b89c4ad2eac96.png?ehk=CvVUKGkf%2FLBXxdOTpr296GYHRzJKTZr%2Bk7xHeHyRJ3c%3D&ehkOptimized=24jJUUM6ViiUufQ%2F5iYgUd6PjHaH5qrkvj7ZJj1BDiw%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1670173200
     },
     {
@@ -222,7 +222,7 @@
       "tournament_name": "[$200] CG Melee Monthly - December 2022",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670702400
     },
     {
