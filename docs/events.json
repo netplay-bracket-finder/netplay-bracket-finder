@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669937870,
+  "fetched_at": 1669938677,
   "data": [
     {
       "slug": "tournament/the-salad-online-51/event/melee-singles",
@@ -26,14 +26,6 @@
       "start_time": 1669939200
     },
     {
-      "slug": "tournament/the-salt-mine-50/event/the-salt-mine",
-      "tournament_name": "The Salt Mine #50!",
-      "event_name": "The Salt Mine!",
-      "image": "https://images.start.gg/images/tournament/501858/image-0e53385253581197801ba8cafe1185e1.png?ehk=OiW36L8SxRcRKWuIJ%2FNywQlxg89%2Bg5ulUFRGsPjKHrU%3D&ehkOptimized=6B8hoKCX%2Fv0Daz6DEJvu7sfpU%2BoyDKXzZPG%2FIg1Jaco%3D",
-      "entrants": 26,
-      "start_time": 1669939200
-    },
-    {
       "slug": "tournament/moonwalk-tournament-series-26/event/melee-ladder",
       "tournament_name": "Moonwalk Tournament Series 26",
       "event_name": "Melee Ladder",
@@ -50,19 +42,11 @@
       "start_time": 1669939200
     },
     {
-      "slug": "tournament/only-noobs-95/event/melee-singles",
-      "tournament_name": "Only Noobs 95",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/500765/image-65021135e9060b27ee0b5229edaa6e10.jpg?ehk=W7yrzTbBPnWbz9m0sTHIDQ3zmFyCmNrTThedIDsPk%2FA%3D&ehkOptimized=MYDuutz9Xoedc%2BhziZ3ah5xt7OMKmFZuwTPmuMAUA1c%3D",
-      "entrants": 127,
-      "start_time": 1669939200
-    },
-    {
       "slug": "tournament/the-return-of-nfc-11-presented-by-slyfox-esports/event/melee-singles",
       "tournament_name": "The Return of NFC #11 | Presented by Slyfox Esports",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502491/image-9b1597dbda56db06a50a85047ac06ad4.png?ehk=O8BmaUpJ75MyRGPCQAE6PqAOPXZ9v%2BakGmADURqeHjg%3D&ehkOptimized=ZVNP9s8wcc5X1BXeokk8DMo%2FJJMBfZ9xSDQ2MUDc7bU%3D",
-      "entrants": 8,
+      "entrants": 11,
       "start_time": 1669939200
     },
     {
