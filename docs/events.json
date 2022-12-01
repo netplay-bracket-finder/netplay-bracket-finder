@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669916304,
+  "fetched_at": 1669917082,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-41-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #41 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500634/image-852f011128353b129956ced8a73e64fc.png?ehk=HLiOtak2n98BL4%2F1xaCsB2CI756J1lihTpNYzK0Q4mc%3D&ehkOptimized=swHaumJG%2Fgz9IVL7PaaM1ELa8Uef8TUNJ6dSdREJeT8%3D",
-      "entrants": 16,
+      "entrants": 18,
       "start_time": 1669917600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #41 (EU Event)",
       "event_name": "Toblerone waitlist",
       "image": "https://images.start.gg/images/tournament/500634/image-852f011128353b129956ced8a73e64fc.png?ehk=HLiOtak2n98BL4%2F1xaCsB2CI756J1lihTpNYzK0Q4mc%3D&ehkOptimized=swHaumJG%2Fgz9IVL7PaaM1ELa8Uef8TUNJ6dSdREJeT8%3D",
-      "entrants": 5,
+      "entrants": 4,
       "start_time": 1669917600
     },
     {
@@ -24,14 +24,6 @@
       "image": "https://images.start.gg/images/tournament/500996/image-d1467cdc7c4328d28589c3beb5d15986.png?ehk=34E5to%2FjJMG4o7%2BvShS3Y54xj4jZBUkQ1EjTbTgGkOc%3D&ehkOptimized=8QfNZ2incH0lhxbAmSs%2Fz%2F8ybb9PPeM%2Bv75QYb6Mfsk%3D",
       "entrants": 0,
       "start_time": 1670018400
-    },
-    {
-      "slug": "tournament/the-salt-mine-50/event/the-salt-mine",
-      "tournament_name": "The Salt Mine #50!",
-      "event_name": "The Salt Mine!",
-      "image": "https://images.start.gg/images/tournament/501858/image-0e53385253581197801ba8cafe1185e1.png?ehk=OiW36L8SxRcRKWuIJ%2FNywQlxg89%2Bg5ulUFRGsPjKHrU%3D&ehkOptimized=6B8hoKCX%2Fv0Daz6DEJvu7sfpU%2BoyDKXzZPG%2FIg1Jaco%3D",
-      "entrants": 4,
-      "start_time": 1669939200
     },
     {
       "slug": "tournament/ssbm-randomizer-seed-of-the-week-14/event/ssbmr-singles",
@@ -50,12 +42,12 @@
       "start_time": 1669939200
     },
     {
-      "slug": "tournament/the-distribution/event/melee-singles",
-      "tournament_name": "The Distribution",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/497056/image-83854e21ab91c8d31c6168c57a0b70ec.png?ehk=lHe1BSTrtbOVIt2vFjfSL00smP3XX8Py%2Fv5CjB8jpBM%3D&ehkOptimized=8m4TLqYp7OQSSuMrnFanqyjXBTNTVqPj2dMPEy7WUOo%3D",
-      "entrants": 26,
-      "start_time": 1669939500
+      "slug": "tournament/the-salt-mine-50/event/the-salt-mine",
+      "tournament_name": "The Salt Mine #50!",
+      "event_name": "The Salt Mine!",
+      "image": "https://images.start.gg/images/tournament/501858/image-0e53385253581197801ba8cafe1185e1.png?ehk=OiW36L8SxRcRKWuIJ%2FNywQlxg89%2Bg5ulUFRGsPjKHrU%3D&ehkOptimized=6B8hoKCX%2Fv0Daz6DEJvu7sfpU%2BoyDKXzZPG%2FIg1Jaco%3D",
+      "entrants": 5,
+      "start_time": 1669939200
     },
     {
       "slug": "tournament/moonwalk-tournament-series-26/event/melee-ladder",
@@ -72,6 +64,14 @@
       "image": "https://images.start.gg/images/tournament/497896/image-f200f5b04bf94cc3075fec62b23a6fe4.jpg?ehk=xi%2Fyo1A4xWL0qPcwOjSIlsnXriF29SUHkFfXk2i%2FyDE%3D&ehkOptimized=N4eslqck2qK%2BuX5uYAnCipCxlCG%2FlHKNcTDJ7wkxiO8%3D",
       "entrants": 0,
       "start_time": 1669939200
+    },
+    {
+      "slug": "tournament/the-distribution/event/melee-singles",
+      "tournament_name": "The Distribution",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/497056/image-83854e21ab91c8d31c6168c57a0b70ec.png?ehk=lHe1BSTrtbOVIt2vFjfSL00smP3XX8Py%2Fv5CjB8jpBM%3D&ehkOptimized=8m4TLqYp7OQSSuMrnFanqyjXBTNTVqPj2dMPEy7WUOo%3D",
+      "entrants": 27,
+      "start_time": 1669939500
     },
     {
       "slug": "tournament/only-noobs-95/event/melee-singles",
