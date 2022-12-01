@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1669917082,
+  "fetched_at": 1669918919,
   "data": [
-    {
-      "slug": "tournament/toblerone-tangerine-thursdays-41-eu-event/event/melee-singles",
-      "tournament_name": "Toblerone Tangerine Thursdays #41 (EU Event)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/500634/image-852f011128353b129956ced8a73e64fc.png?ehk=HLiOtak2n98BL4%2F1xaCsB2CI756J1lihTpNYzK0Q4mc%3D&ehkOptimized=swHaumJG%2Fgz9IVL7PaaM1ELa8Uef8TUNJ6dSdREJeT8%3D",
-      "entrants": 18,
-      "start_time": 1669917600
-    },
-    {
-      "slug": "tournament/toblerone-tangerine-thursdays-41-eu-event/event/toblerone-waitlist",
-      "tournament_name": "Toblerone Tangerine Thursdays #41 (EU Event)",
-      "event_name": "Toblerone waitlist",
-      "image": "https://images.start.gg/images/tournament/500634/image-852f011128353b129956ced8a73e64fc.png?ehk=HLiOtak2n98BL4%2F1xaCsB2CI756J1lihTpNYzK0Q4mc%3D&ehkOptimized=swHaumJG%2Fgz9IVL7PaaM1ELa8Uef8TUNJ6dSdREJeT8%3D",
-      "entrants": 4,
-      "start_time": 1669917600
-    },
     {
       "slug": "tournament/the-salad-online-51/event/melee-singles",
       "tournament_name": "The Salad Online 51",
@@ -26,11 +10,19 @@
       "start_time": 1670018400
     },
     {
+      "slug": "tournament/the-salt-mine-50/event/the-salt-mine",
+      "tournament_name": "The Salt Mine #50!",
+      "event_name": "The Salt Mine!",
+      "image": "https://images.start.gg/images/tournament/501858/image-0e53385253581197801ba8cafe1185e1.png?ehk=OiW36L8SxRcRKWuIJ%2FNywQlxg89%2Bg5ulUFRGsPjKHrU%3D&ehkOptimized=6B8hoKCX%2Fv0Daz6DEJvu7sfpU%2BoyDKXzZPG%2FIg1Jaco%3D",
+      "entrants": 5,
+      "start_time": 1669939200
+    },
+    {
       "slug": "tournament/ssbm-randomizer-seed-of-the-week-14/event/ssbmr-singles",
       "tournament_name": "SSBM Randomizer: Seed of the Week #14",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/501601/image-92a33ab963836cb547d6e50bd4941e29.png?ehk=uNCD5ko%2BpcrgaOt3Wkf4ugJSUO3muwtjCYxHgMnWGvg%3D&ehkOptimized=OczsDnzC4Wb6xKO1GLnH0xRNkj2Lie3H3yIBN7EGnao%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1669939200
     },
     {
@@ -39,14 +31,6 @@
       "event_name": "Results Data",
       "image": "https://images.start.gg/images/tournament/501601/image-92a33ab963836cb547d6e50bd4941e29.png?ehk=uNCD5ko%2BpcrgaOt3Wkf4ugJSUO3muwtjCYxHgMnWGvg%3D&ehkOptimized=OczsDnzC4Wb6xKO1GLnH0xRNkj2Lie3H3yIBN7EGnao%3D",
       "entrants": 0,
-      "start_time": 1669939200
-    },
-    {
-      "slug": "tournament/the-salt-mine-50/event/the-salt-mine",
-      "tournament_name": "The Salt Mine #50!",
-      "event_name": "The Salt Mine!",
-      "image": "https://images.start.gg/images/tournament/501858/image-0e53385253581197801ba8cafe1185e1.png?ehk=OiW36L8SxRcRKWuIJ%2FNywQlxg89%2Bg5ulUFRGsPjKHrU%3D&ehkOptimized=6B8hoKCX%2Fv0Daz6DEJvu7sfpU%2BoyDKXzZPG%2FIg1Jaco%3D",
-      "entrants": 5,
       "start_time": 1669939200
     },
     {
@@ -70,7 +54,7 @@
       "tournament_name": "The Distribution",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497056/image-83854e21ab91c8d31c6168c57a0b70ec.png?ehk=lHe1BSTrtbOVIt2vFjfSL00smP3XX8Py%2Fv5CjB8jpBM%3D&ehkOptimized=8m4TLqYp7OQSSuMrnFanqyjXBTNTVqPj2dMPEy7WUOo%3D",
-      "entrants": 27,
+      "entrants": 28,
       "start_time": 1669939500
     },
     {
@@ -78,7 +62,7 @@
       "tournament_name": "Only Noobs 95",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500765/image-65021135e9060b27ee0b5229edaa6e10.jpg?ehk=W7yrzTbBPnWbz9m0sTHIDQ3zmFyCmNrTThedIDsPk%2FA%3D&ehkOptimized=MYDuutz9Xoedc%2BhziZ3ah5xt7OMKmFZuwTPmuMAUA1c%3D",
-      "entrants": 40,
+      "entrants": 44,
       "start_time": 1669939200
     },
     {
@@ -334,7 +318,7 @@
       "tournament_name": "REN SERBER MELEE TOURNEY NUMBER 1 (THE RED HOUSE)",
       "event_name": "RED HOUSE MELEE SINGLES",
       "image": "https://images.start.gg/images/tournament/502175/image-4581d33c4dbac32bfd517fe687673e87.jpg?ehk=mQP6qIrhn9qcXFnzrFELG61Q4r43xl0EzPqp%2FzuESeU%3D&ehkOptimized=B1nsDdQMmKtbGOw3m9RK4QvCMY4Wr6qX3mbC7woqbek%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1671832800
     },
     {
