@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669904182,
+  "fetched_at": 1669905518,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-41-eu-event/event/melee-singles",
@@ -80,6 +80,14 @@
       "image": "https://images.start.gg/images/tournament/500765/image-65021135e9060b27ee0b5229edaa6e10.jpg?ehk=W7yrzTbBPnWbz9m0sTHIDQ3zmFyCmNrTThedIDsPk%2FA%3D&ehkOptimized=MYDuutz9Xoedc%2BhziZ3ah5xt7OMKmFZuwTPmuMAUA1c%3D",
       "entrants": 28,
       "start_time": 1669939200
+    },
+    {
+      "slug": "tournament/goats-only-thursdaez-31/event/melee-singles",
+      "tournament_name": "GOATs Only - Thursdaez #31",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/502425/image-c6b85548f2a60b16bd9f77ae8e8ee0d2.png?ehk=8O6GHEbdD2jcUZIygqMUtxZ5fMQunMaKv%2F0I7jawusE%3D&ehkOptimized=bYstaR2I1UEtJm1bUjNXyt3XeyTcRbBXL%2BS5sCo1NYM%3D",
+      "entrants": 1,
+      "start_time": 1669942800
     },
     {
       "slug": "tournament/troppo-italiano-76/event/singles",
