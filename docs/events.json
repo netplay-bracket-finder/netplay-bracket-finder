@@ -1,21 +1,13 @@
 {
-  "fetched_at": 1669863765,
+  "fetched_at": 1669866318,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-33/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #33",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/500665/image-18b2f3538525b9cb13b7a8555ac5a608.png?ehk=Vy4NiE2uJ4mUJ3RdeesWtqbd0N2f6LPMkUKnvWRvU0c%3D&ehkOptimized=FrnARgvfMG4jbsSl4gEENnXJFdZEeoqKBfXDNtwr640%3D",
-      "entrants": 32,
+      "entrants": 33,
       "start_time": 1669860000
-    },
-    {
-      "slug": "tournament/garbage-connection-lite-mainstage-warmup/event/melee-singles-west-coast",
-      "tournament_name": "Garbage Connection: LITE - Mainstage Warmup",
-      "event_name": "Melee Singles: West-Coast",
-      "image": "https://images.start.gg/images/tournament/501587/image-215a8417de09ddfeea83d3601865d9c4.jpg?ehk=O2ybX6TAzb%2BM4pdphQvY1Nc026W2NY3edrtqhmmwoZg%3D&ehkOptimized=hOUWg8cKKJyGx%2FD35guL7ebKnEgeO6PmkT3nn1tZTtU%3D",
-      "entrants": 16,
-      "start_time": 1669865400
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-41-eu-event/event/melee-singles",
@@ -62,7 +54,7 @@
       "tournament_name": "The Salt Mine #50!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/501858/image-0e53385253581197801ba8cafe1185e1.png?ehk=OiW36L8SxRcRKWuIJ%2FNywQlxg89%2Bg5ulUFRGsPjKHrU%3D&ehkOptimized=6B8hoKCX%2Fv0Daz6DEJvu7sfpU%2BoyDKXzZPG%2FIg1Jaco%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1669939200
     },
     {
@@ -94,7 +86,7 @@
       "tournament_name": "Only Noobs 95",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500765/image-65021135e9060b27ee0b5229edaa6e10.jpg?ehk=W7yrzTbBPnWbz9m0sTHIDQ3zmFyCmNrTThedIDsPk%2FA%3D&ehkOptimized=MYDuutz9Xoedc%2BhziZ3ah5xt7OMKmFZuwTPmuMAUA1c%3D",
-      "entrants": 22,
+      "entrants": 24,
       "start_time": 1669939200
     },
     {
