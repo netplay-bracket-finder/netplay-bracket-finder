@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669944074,
+  "fetched_at": 1669948567,
   "data": [
     {
       "slug": "tournament/the-salad-online-51/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "Moonwalk Tournament Series 26",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/497896/image-f200f5b04bf94cc3075fec62b23a6fe4.jpg?ehk=xi%2Fyo1A4xWL0qPcwOjSIlsnXriF29SUHkFfXk2i%2FyDE%3D&ehkOptimized=N4eslqck2qK%2BuX5uYAnCipCxlCG%2FlHKNcTDJ7wkxiO8%3D",
-      "entrants": 15,
+      "entrants": 14,
       "start_time": 1669939200
     },
     {
@@ -38,16 +38,8 @@
       "tournament_name": "Moonwalk Tournament Series 26",
       "event_name": "Melee Top 12",
       "image": "https://images.start.gg/images/tournament/497896/image-f200f5b04bf94cc3075fec62b23a6fe4.jpg?ehk=xi%2Fyo1A4xWL0qPcwOjSIlsnXriF29SUHkFfXk2i%2FyDE%3D&ehkOptimized=N4eslqck2qK%2BuX5uYAnCipCxlCG%2FlHKNcTDJ7wkxiO8%3D",
-      "entrants": 0,
+      "entrants": 13,
       "start_time": 1669939200
-    },
-    {
-      "slug": "tournament/thursday-thmackdown-11/event/melee-singles",
-      "tournament_name": "Thursday Thmackdown #11",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/502487/image-0dad0249854e2e345fc95cf4606a7294.png?ehk=AjnysKxK2lgVWNx5WGKivZOnGyryYho82QyuZHVnxMA%3D&ehkOptimized=KNcc7rk2XvO0nCRvIQZprr5hKTK5oj8T74K47Kx64rE%3D",
-      "entrants": 14,
-      "start_time": 1669946400
     },
     {
       "slug": "tournament/troppo-italiano-76/event/singles",
@@ -70,7 +62,7 @@
       "tournament_name": "Melee Legends 5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500679/image-b5937a096c9018d5288526b275cd88b6.png?ehk=BOjAUkEg5Q%2Fdk%2FfYn3UoVcTqam8mn6XyxPiI3SleJoU%3D&ehkOptimized=7XRrfGXp%2BS2Yafkngbd5Hn0yKNzfGVOrj4JggxztJD8%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1670029200
     },
     {
