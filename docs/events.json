@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669963297,
+  "fetched_at": 1669963969,
   "data": [
     {
       "slug": "tournament/the-salad-online-51/event/melee-singles",
@@ -24,6 +24,22 @@
       "image": "https://images.start.gg/images/tournament/502123/image-50584bca352d894956a086eff8155ef1.jpg?ehk=KtM0CJJsitZ2wZ9dgGrMO3PxiAQlCisGaK9D%2BVY2eVM%3D&ehkOptimized=W2YLMOTIntcQmxFGsIGPB2GBeVyPXgySgWI4%2Bm40LOo%3D",
       "entrants": 6,
       "start_time": 1670025600
+    },
+    {
+      "slug": "tournament/just-the-beginning-1/event/melee-singles",
+      "tournament_name": "Just The Beginning #1",
+      "event_name": "Melee Singles",
+      "image": "",
+      "entrants": 0,
+      "start_time": 1670025600
+    },
+    {
+      "slug": "tournament/just-the-beginning-1/event/redemption-melee-singles",
+      "tournament_name": "Just The Beginning #1",
+      "event_name": "Redemption Melee Singles",
+      "image": "",
+      "entrants": 0,
+      "start_time": 1670032800
     },
     {
       "slug": "tournament/melee-legends-5/event/melee-singles",
