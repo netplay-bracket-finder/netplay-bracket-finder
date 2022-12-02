@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669990480,
+  "fetched_at": 1669991308,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-18/event/melee-singles",
@@ -16,14 +16,6 @@
       "image": "https://images.start.gg/images/tournament/502003/image-36be5f4751b389724d18d52560246c86.jpg?ehk=WjEM4WhyHAKIycsVWgQCk0ghQLYekcPJXmziBHA0zrI%3D&ehkOptimized=qV%2FkkZD%2FDo%2BBCBmXq%2BI9oEcpcxmtQR2ATqOvTo20OFI%3D",
       "entrants": 1,
       "start_time": 1670011200
-    },
-    {
-      "slug": "tournament/mfgc-falco-friday-online-2/event/melee-singles",
-      "tournament_name": "MFGC Falco Friday Online #2",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/502123/image-50584bca352d894956a086eff8155ef1.jpg?ehk=KtM0CJJsitZ2wZ9dgGrMO3PxiAQlCisGaK9D%2BVY2eVM%3D&ehkOptimized=W2YLMOTIntcQmxFGsIGPB2GBeVyPXgySgWI4%2Bm40LOo%3D",
-      "entrants": 6,
-      "start_time": 1670025600
     },
     {
       "slug": "tournament/just-the-beginning-1/event/melee-singles",
