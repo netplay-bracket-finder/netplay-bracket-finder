@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669956754,
+  "fetched_at": 1669958096,
   "data": [
     {
       "slug": "tournament/the-salad-online-51/event/melee-singles",
@@ -31,6 +31,14 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500679/image-b5937a096c9018d5288526b275cd88b6.png?ehk=BOjAUkEg5Q%2Fdk%2FfYn3UoVcTqam8mn6XyxPiI3SleJoU%3D&ehkOptimized=7XRrfGXp%2BS2Yafkngbd5Hn0yKNzfGVOrj4JggxztJD8%3D",
       "entrants": 8,
+      "start_time": 1670029200
+    },
+    {
+      "slug": "tournament/east-coast-fridays-231/event/melee-singles",
+      "tournament_name": "East Coast Fridays #231",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/502649/image-f8a87a3faaa1f6e41a52ae38206c2c2b.png?ehk=TB7kzVeKl0TN5RxHYuFTlKMdMdqTrnQx6nSU43tB2Ec%3D&ehkOptimized=O9HDt8Tj4uUpvz40IqQSP3xAyVsaEsHu%2Fb48pME4T18%3D",
+      "entrants": 0,
       "start_time": 1670029200
     },
     {
