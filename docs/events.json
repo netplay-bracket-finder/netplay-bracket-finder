@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669948567,
+  "fetched_at": 1669950287,
   "data": [
     {
       "slug": "tournament/the-salad-online-51/event/melee-singles",
@@ -8,38 +8,6 @@
       "image": "https://images.start.gg/images/tournament/500996/image-d1467cdc7c4328d28589c3beb5d15986.png?ehk=34E5to%2FjJMG4o7%2BvShS3Y54xj4jZBUkQ1EjTbTgGkOc%3D&ehkOptimized=8QfNZ2incH0lhxbAmSs%2Fz%2F8ybb9PPeM%2Bv75QYb6Mfsk%3D",
       "entrants": 0,
       "start_time": 1670018400
-    },
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-14/event/ssbmr-singles",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #14",
-      "event_name": "SSBMr Singles",
-      "image": "https://images.start.gg/images/tournament/501601/image-92a33ab963836cb547d6e50bd4941e29.png?ehk=uNCD5ko%2BpcrgaOt3Wkf4ugJSUO3muwtjCYxHgMnWGvg%3D&ehkOptimized=OczsDnzC4Wb6xKO1GLnH0xRNkj2Lie3H3yIBN7EGnao%3D",
-      "entrants": 9,
-      "start_time": 1669939200
-    },
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-14/event/results-data",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #14",
-      "event_name": "Results Data",
-      "image": "https://images.start.gg/images/tournament/501601/image-92a33ab963836cb547d6e50bd4941e29.png?ehk=uNCD5ko%2BpcrgaOt3Wkf4ugJSUO3muwtjCYxHgMnWGvg%3D&ehkOptimized=OczsDnzC4Wb6xKO1GLnH0xRNkj2Lie3H3yIBN7EGnao%3D",
-      "entrants": 1,
-      "start_time": 1669939200
-    },
-    {
-      "slug": "tournament/moonwalk-tournament-series-26/event/melee-ladder",
-      "tournament_name": "Moonwalk Tournament Series 26",
-      "event_name": "Melee Ladder",
-      "image": "https://images.start.gg/images/tournament/497896/image-f200f5b04bf94cc3075fec62b23a6fe4.jpg?ehk=xi%2Fyo1A4xWL0qPcwOjSIlsnXriF29SUHkFfXk2i%2FyDE%3D&ehkOptimized=N4eslqck2qK%2BuX5uYAnCipCxlCG%2FlHKNcTDJ7wkxiO8%3D",
-      "entrants": 14,
-      "start_time": 1669939200
-    },
-    {
-      "slug": "tournament/moonwalk-tournament-series-26/event/melee-top-12",
-      "tournament_name": "Moonwalk Tournament Series 26",
-      "event_name": "Melee Top 12",
-      "image": "https://images.start.gg/images/tournament/497896/image-f200f5b04bf94cc3075fec62b23a6fe4.jpg?ehk=xi%2Fyo1A4xWL0qPcwOjSIlsnXriF29SUHkFfXk2i%2FyDE%3D&ehkOptimized=N4eslqck2qK%2BuX5uYAnCipCxlCG%2FlHKNcTDJ7wkxiO8%3D",
-      "entrants": 13,
-      "start_time": 1669939200
     },
     {
       "slug": "tournament/troppo-italiano-76/event/singles",
