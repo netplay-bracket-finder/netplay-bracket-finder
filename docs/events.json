@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670002079,
+  "fetched_at": 1670002741,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-18/event/melee-singles",
@@ -318,7 +318,7 @@
       "tournament_name": "Bye Bye, OG Kid!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501759/image-a09dde37b601e797f301dbe0cd397401.png?ehk=mC5V2jWHiP%2B8eioKyums76p6bg2YdeP6q6SCLlicvGE%3D&ehkOptimized=%2Bl0MAuOcVzS5E1m6FG38xyQe1%2FPl9gk2PCJ3lM2OI4Q%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1671316200
     },
     {
@@ -344,6 +344,22 @@
       "image": "https://images.start.gg/images/tournament/497902/image-d4a4ad55c6d3f427365089239afc51e0.png?ehk=c7m3EkEj1F7EWLm%2BxOeXmCiOUcw2OhOt3A4FI8Zz8eg%3D&ehkOptimized=HULTs1MXhHY5McbFWyLKZ%2F%2BtiG%2Fm4vsKGgfSY8Bycz4%3D",
       "entrants": 0,
       "start_time": 1671490800
+    },
+    {
+      "slug": "tournament/limesurge-s-new-year-beatdown/event/melee-singles-east-coast",
+      "tournament_name": "LimeSurge's New Year Beatdown",
+      "event_name": "Melee Singles (East Coast)",
+      "image": "https://images.start.gg/images/tournament/477354/image-304bd30e39f2f6f297f66d51821108ec.png?ehk=YOe6%2FHZYfxYcJbiUV4zvCEZ778uV%2BBUnD0ndmoPisOE%3D&ehkOptimized=XMOxKpagtSj0Ott25aCM9w4U4XxnYjqPi%2BlyiWQzBuo%3D",
+      "entrants": 0,
+      "start_time": 1672513200
+    },
+    {
+      "slug": "tournament/limesurge-s-new-year-beatdown/event/melee-singles-west-coast",
+      "tournament_name": "LimeSurge's New Year Beatdown",
+      "event_name": "Melee Singles (West Coast)",
+      "image": "https://images.start.gg/images/tournament/477354/image-304bd30e39f2f6f297f66d51821108ec.png?ehk=YOe6%2FHZYfxYcJbiUV4zvCEZ778uV%2BBUnD0ndmoPisOE%3D&ehkOptimized=XMOxKpagtSj0Ott25aCM9w4U4XxnYjqPi%2BlyiWQzBuo%3D",
+      "entrants": 0,
+      "start_time": 1672513200
     },
     {
       "slug": "tournament/welcome-to-the-new-year-2023-pink-tournament/event/melee-singles",
