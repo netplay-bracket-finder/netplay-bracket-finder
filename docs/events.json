@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670006401,
+  "fetched_at": 1670007094,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-18/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Raccoon Rumble #6 !!!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502702/image-d444b5515ae53b60063434d5a3bc61da.jpg?ehk=dj2GfoJrIa3JumJRlkQ51cr8YF%2BF6ycaZPK32ncpqb8%3D&ehkOptimized=FNRI5c6XoW0FQQ%2BqiiVthvVmk41ZsYzeTCY60a9WhoM%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1670007600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Troppo Italiano #76",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/502003/image-36be5f4751b389724d18d52560246c86.jpg?ehk=WjEM4WhyHAKIycsVWgQCk0ghQLYekcPJXmziBHA0zrI%3D&ehkOptimized=qV%2FkkZD%2FDo%2BBCBmXq%2BI9oEcpcxmtQR2ATqOvTo20OFI%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670011200
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "KOMET VIII | SUPER WEEK",
       "event_name": "KOMET Pro League | SUPER WEEK",
       "image": "https://images.start.gg/images/tournament/500993/image-ccbdda13ec619b629627d3607c37379b.png?ehk=2JIge6ON4yAFec4h8qwfNjRLVm81eoWgMsjgutbFMxQ%3D&ehkOptimized=ISeJGwfX6DmIeMpSJGQ2LWJfEhQ9STlErbO0gFn1Z1c%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1670090400
     },
     {
