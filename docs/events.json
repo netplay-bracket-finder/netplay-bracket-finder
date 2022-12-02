@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670019344,
+  "fetched_at": 1670020644,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-18/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "East Coast Fridays #231",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502649/image-f8a87a3faaa1f6e41a52ae38206c2c2b.png?ehk=TB7kzVeKl0TN5RxHYuFTlKMdMdqTrnQx6nSU43tB2Ec%3D&ehkOptimized=O9HDt8Tj4uUpvz40IqQSP3xAyVsaEsHu%2Fb48pME4T18%3D",
-      "entrants": 37,
+      "entrants": 42,
       "start_time": 1670029200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Just The Beginning #1",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1670025600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Just The Beginning #1",
       "event_name": "Redemption Melee Singles",
       "image": "",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1670032800
     },
     {
@@ -310,7 +310,7 @@
       "tournament_name": "Bye Bye, OG Kid!",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/501759/image-a09dde37b601e797f301dbe0cd397401.png?ehk=mC5V2jWHiP%2B8eioKyums76p6bg2YdeP6q6SCLlicvGE%3D&ehkOptimized=%2Bl0MAuOcVzS5E1m6FG38xyQe1%2FPl9gk2PCJ3lM2OI4Q%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1671229800
     },
     {
@@ -318,7 +318,7 @@
       "tournament_name": "Bye Bye, OG Kid!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501759/image-a09dde37b601e797f301dbe0cd397401.png?ehk=mC5V2jWHiP%2B8eioKyums76p6bg2YdeP6q6SCLlicvGE%3D&ehkOptimized=%2Bl0MAuOcVzS5E1m6FG38xyQe1%2FPl9gk2PCJ3lM2OI4Q%3D",
-      "entrants": 16,
+      "entrants": 18,
       "start_time": 1671316200
     },
     {
