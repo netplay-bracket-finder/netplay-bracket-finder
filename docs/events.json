@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670010679,
+  "fetched_at": 1670012223,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-18/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/502677/image-2930bd70cc37b882216cf1eb664c844d.png?ehk=AUEtghsnzPhWfdPj93RYHNL2N51s3UJ5zQ4QRlTszz8%3D&ehkOptimized=q%2BFqIGIQCuEbl7WT0RvUZjXAbgr2teMTB%2BztzSkPfIU%3D",
       "entrants": 8,
       "start_time": 1670002200
-    },
-    {
-      "slug": "tournament/troppo-italiano-76/event/singles",
-      "tournament_name": "Troppo Italiano #76",
-      "event_name": "Singles",
-      "image": "https://images.start.gg/images/tournament/502003/image-36be5f4751b389724d18d52560246c86.jpg?ehk=WjEM4WhyHAKIycsVWgQCk0ghQLYekcPJXmziBHA0zrI%3D&ehkOptimized=qV%2FkkZD%2FDo%2BBCBmXq%2BI9oEcpcxmtQR2ATqOvTo20OFI%3D",
-      "entrants": 12,
-      "start_time": 1670011200
     },
     {
       "slug": "tournament/just-the-beginning-1/event/melee-singles",
@@ -46,7 +38,7 @@
       "tournament_name": "East Coast Fridays #231",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502649/image-f8a87a3faaa1f6e41a52ae38206c2c2b.png?ehk=TB7kzVeKl0TN5RxHYuFTlKMdMdqTrnQx6nSU43tB2Ec%3D&ehkOptimized=O9HDt8Tj4uUpvz40IqQSP3xAyVsaEsHu%2Fb48pME4T18%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1670029200
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "Quest for Best Noob EU #48 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/501649/image-32ba1577debdcb75851e57e583f9157d.jpg?ehk=HiIOHROAlX5d1pZL%2FZ1eQQjNjr7TmJph90tycZt4YX8%3D&ehkOptimized=TwEUcCuSasIEdtLCgjr21bnPbWjQsCbHpSZdwWPuwHA%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670081400
     },
     {
@@ -310,7 +302,7 @@
       "tournament_name": "Bye Bye, OG Kid!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501759/image-a09dde37b601e797f301dbe0cd397401.png?ehk=mC5V2jWHiP%2B8eioKyums76p6bg2YdeP6q6SCLlicvGE%3D&ehkOptimized=%2Bl0MAuOcVzS5E1m6FG38xyQe1%2FPl9gk2PCJ3lM2OI4Q%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1671316200
     },
     {
@@ -318,7 +310,7 @@
       "tournament_name": "Andrenaleague 17",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502746/image-d8e4c6ed74eb1079cdb4f2c5bbc4bc92.png?ehk=wixOU1SB6eqLkrKnem%2F%2Bm7lTBBAeogOiyJZiEGqlONk%3D&ehkOptimized=6%2FzSeF%2BhYAecYWM9o5YjYQ2vJLaTNIQ3y5sN4cT8sLM%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1671318000
     },
     {
