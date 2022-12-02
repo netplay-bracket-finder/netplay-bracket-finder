@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1669999610,
+  "fetched_at": 1670001288,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-18/event/melee-singles",
       "tournament_name": "ASL’s Weekly Weekend Melee #18",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502677/image-2930bd70cc37b882216cf1eb664c844d.png?ehk=AUEtghsnzPhWfdPj93RYHNL2N51s3UJ5zQ4QRlTszz8%3D&ehkOptimized=q%2BFqIGIQCuEbl7WT0RvUZjXAbgr2teMTB%2BztzSkPfIU%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1670002200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Raccoon Rumble #6 !!!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502702/image-d444b5515ae53b60063434d5a3bc61da.jpg?ehk=dj2GfoJrIa3JumJRlkQ51cr8YF%2BF6ycaZPK32ncpqb8%3D&ehkOptimized=FNRI5c6XoW0FQQ%2BqiiVthvVmk41ZsYzeTCY60a9WhoM%3D",
-      "entrants": 3,
+      "entrants": 6,
       "start_time": 1670007600
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "East Coast Fridays #231",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502649/image-f8a87a3faaa1f6e41a52ae38206c2c2b.png?ehk=TB7kzVeKl0TN5RxHYuFTlKMdMdqTrnQx6nSU43tB2Ec%3D&ehkOptimized=O9HDt8Tj4uUpvz40IqQSP3xAyVsaEsHu%2Fb48pME4T18%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670029200
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "KOMET VIII | SUPER WEEK",
       "event_name": "KOMET Pro League | SUPER WEEK",
       "image": "https://images.start.gg/images/tournament/500993/image-ccbdda13ec619b629627d3607c37379b.png?ehk=2JIge6ON4yAFec4h8qwfNjRLVm81eoWgMsjgutbFMxQ%3D&ehkOptimized=ISeJGwfX6DmIeMpSJGQ2LWJfEhQ9STlErbO0gFn1Z1c%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1670090400
     },
     {
