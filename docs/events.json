@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669976315,
+  "fetched_at": 1669977552,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-18/event/melee-singles",
@@ -88,6 +88,14 @@
       "image": "https://images.start.gg/images/tournament/500116/image-1f44fbea3ec36a369c881ec43ca63d9a.png?ehk=Zpw0%2Brj5D7gOxIa35x10JQqMspSudtkcYGqfgsqzXh8%3D&ehkOptimized=N%2Be0ghyPKs8E3r8FE%2FJKPuv%2FiyemgNTwSC%2BhJ3PtAxg%3D",
       "entrants": 0,
       "start_time": 1670101200
+    },
+    {
+      "slug": "tournament/bb-81-2/event/melee-singles",
+      "tournament_name": "BB-81",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/502679/image-ea16204aaa7d95e38782a0239c086a38.png?ehk=9mcJS%2BL2Wtbzy5%2FgyUuwOve6759Ask13EbKmnhF789c%3D&ehkOptimized=8kkQeB5hjyx1se0c%2BbujBa1v5CaakyAradn2EXJPGp4%3D",
+      "entrants": 0,
+      "start_time": 1670122800
     },
     {
       "slug": "tournament/dorime-s-dojo-10/event/melee-singles",
