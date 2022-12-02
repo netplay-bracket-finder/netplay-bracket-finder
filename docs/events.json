@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669963969,
+  "fetched_at": 1669965298,
   "data": [
     {
       "slug": "tournament/the-salad-online-51/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "Just The Beginning #1",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670025600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Just The Beginning #1",
       "event_name": "Redemption Melee Singles",
       "image": "",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670032800
     },
     {
