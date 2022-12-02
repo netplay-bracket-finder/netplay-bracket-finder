@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1669967488,
+  "fetched_at": 1669969294,
   "data": [
-    {
-      "slug": "tournament/the-salad-online-51/event/melee-singles",
-      "tournament_name": "The Salad Online 51",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/500996/image-d1467cdc7c4328d28589c3beb5d15986.png?ehk=34E5to%2FjJMG4o7%2BvShS3Y54xj4jZBUkQ1EjTbTgGkOc%3D&ehkOptimized=8QfNZ2incH0lhxbAmSs%2Fz%2F8ybb9PPeM%2Bv75QYb6Mfsk%3D",
-      "entrants": 1,
-      "start_time": 1670018400
-    },
     {
       "slug": "tournament/troppo-italiano-76/event/singles",
       "tournament_name": "Troppo Italiano #76",
