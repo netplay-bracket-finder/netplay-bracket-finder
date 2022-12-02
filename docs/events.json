@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1669938677,
+  "fetched_at": 1669944074,
   "data": [
     {
       "slug": "tournament/the-salad-online-51/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #14",
       "event_name": "Results Data",
       "image": "https://images.start.gg/images/tournament/501601/image-92a33ab963836cb547d6e50bd4941e29.png?ehk=uNCD5ko%2BpcrgaOt3Wkf4ugJSUO3muwtjCYxHgMnWGvg%3D&ehkOptimized=OczsDnzC4Wb6xKO1GLnH0xRNkj2Lie3H3yIBN7EGnao%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1669939200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Moonwalk Tournament Series 26",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/497896/image-f200f5b04bf94cc3075fec62b23a6fe4.jpg?ehk=xi%2Fyo1A4xWL0qPcwOjSIlsnXriF29SUHkFfXk2i%2FyDE%3D&ehkOptimized=N4eslqck2qK%2BuX5uYAnCipCxlCG%2FlHKNcTDJ7wkxiO8%3D",
-      "entrants": 4,
+      "entrants": 15,
       "start_time": 1669939200
     },
     {
@@ -42,27 +42,11 @@
       "start_time": 1669939200
     },
     {
-      "slug": "tournament/the-return-of-nfc-11-presented-by-slyfox-esports/event/melee-singles",
-      "tournament_name": "The Return of NFC #11 | Presented by Slyfox Esports",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/502491/image-9b1597dbda56db06a50a85047ac06ad4.png?ehk=O8BmaUpJ75MyRGPCQAE6PqAOPXZ9v%2BakGmADURqeHjg%3D&ehkOptimized=ZVNP9s8wcc5X1BXeokk8DMo%2FJJMBfZ9xSDQ2MUDc7bU%3D",
-      "entrants": 11,
-      "start_time": 1669939200
-    },
-    {
-      "slug": "tournament/goats-only-thursdaez-31/event/melee-singles",
-      "tournament_name": "GOATs Only - Thursdaez #31",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/502425/image-c6b85548f2a60b16bd9f77ae8e8ee0d2.png?ehk=8O6GHEbdD2jcUZIygqMUtxZ5fMQunMaKv%2F0I7jawusE%3D&ehkOptimized=bYstaR2I1UEtJm1bUjNXyt3XeyTcRbBXL%2BS5sCo1NYM%3D",
-      "entrants": 12,
-      "start_time": 1669942800
-    },
-    {
       "slug": "tournament/thursday-thmackdown-11/event/melee-singles",
       "tournament_name": "Thursday Thmackdown #11",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502487/image-0dad0249854e2e345fc95cf4606a7294.png?ehk=AjnysKxK2lgVWNx5WGKivZOnGyryYho82QyuZHVnxMA%3D&ehkOptimized=KNcc7rk2XvO0nCRvIQZprr5hKTK5oj8T74K47Kx64rE%3D",
-      "entrants": 9,
+      "entrants": 14,
       "start_time": 1669946400
     },
     {
@@ -334,7 +318,7 @@
       "tournament_name": "Bye Bye, OG Kid!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501759/image-a09dde37b601e797f301dbe0cd397401.png?ehk=mC5V2jWHiP%2B8eioKyums76p6bg2YdeP6q6SCLlicvGE%3D&ehkOptimized=%2Bl0MAuOcVzS5E1m6FG38xyQe1%2FPl9gk2PCJ3lM2OI4Q%3D",
-      "entrants": 7,
+      "entrants": 9,
       "start_time": 1671316200
     },
     {
@@ -414,7 +398,7 @@
       "tournament_name": "POLYPUFF.",
       "event_name": "MELEE SINGLES.",
       "image": "https://images.start.gg/images/tournament/500504/image-cbb396b8b534bdd41041e657b6e18cfc.jpg?ehk=u6Q6lmVuGQInUd7%2F0LahR%2FingKtzU1JHOMML76nFo7M%3D&ehkOptimized=X8z%2BUq9%2FN29u7AQ7gat8fbIKk%2F9wuq0xsHcFHci%2BeKE%3D",
-      "entrants": 9,
+      "entrants": 12,
       "start_time": 1673827200
     },
     {
