@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670003481,
+  "fetched_at": 1670005157,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-18/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Raccoon Rumble #6 !!!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502702/image-d444b5515ae53b60063434d5a3bc61da.jpg?ehk=dj2GfoJrIa3JumJRlkQ51cr8YF%2BF6ycaZPK32ncpqb8%3D&ehkOptimized=FNRI5c6XoW0FQQ%2BqiiVthvVmk41ZsYzeTCY60a9WhoM%3D",
-      "entrants": 9,
+      "entrants": 11,
       "start_time": 1670007600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Just The Beginning #1",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670025600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Just The Beginning #1",
       "event_name": "Redemption Melee Singles",
       "image": "",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670032800
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "East Coast Fridays #231",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502649/image-f8a87a3faaa1f6e41a52ae38206c2c2b.png?ehk=TB7kzVeKl0TN5RxHYuFTlKMdMdqTrnQx6nSU43tB2Ec%3D&ehkOptimized=O9HDt8Tj4uUpvz40IqQSP3xAyVsaEsHu%2Fb48pME4T18%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1670029200
     },
     {
@@ -302,7 +302,7 @@
       "tournament_name": "Deter-Melee Low Tier Reborn",
       "event_name": "Deter-Melee Low Tier Reborn",
       "image": "https://images.start.gg/images/tournament/482549/image-df29c1008b4492f36c3e4ac3613ab8f2.png?ehk=u5XdmF06c5YIhs9dISb7UNXBN76TjEu6ygQhMUbzod4%3D&ehkOptimized=j0qWbo1G6mxURU5xHyxRkPlw%2FuUn%2BOhkTc%2BFVGai%2FpU%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1671219000
     },
     {
