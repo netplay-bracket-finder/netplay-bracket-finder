@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670094720,
+  "fetched_at": 1670095414,
   "data": [
     {
       "slug": "tournament/scrub-summit-12/event/singles-pools",
       "tournament_name": "Scrub Summit 12",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/502901/image-0d37a2085af1d72310517e1349291206.png?ehk=TCHA3TC8Z%2FKr3hCAXPfJnxuTbICOJLcyVeYag5ObfUM%3D&ehkOptimized=jSWXFHKD220%2BUlCcXqioodjQCV%2FjinIbtOR5Cn%2BUOYw%3D",
-      "entrants": 17,
+      "entrants": 19,
       "start_time": 1670101200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Scrub Summit 12",
       "event_name": "Doubles Ladder",
       "image": "https://images.start.gg/images/tournament/502901/image-0d37a2085af1d72310517e1349291206.png?ehk=TCHA3TC8Z%2FKr3hCAXPfJnxuTbICOJLcyVeYag5ObfUM%3D&ehkOptimized=jSWXFHKD220%2BUlCcXqioodjQCV%2FjinIbtOR5Cn%2BUOYw%3D",
-      "entrants": 0,
+      "entrants": 2,
       "start_time": 1670101200
     },
     {
