@@ -1,30 +1,6 @@
 {
-  "fetched_at": 1670053874,
+  "fetched_at": 1670055603,
   "data": [
-    {
-      "slug": "tournament/asl-s-weekly-weekend-melee-18/event/melee-singles",
-      "tournament_name": "ASL’s Weekly Weekend Melee #18",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/502677/image-2930bd70cc37b882216cf1eb664c844d.png?ehk=AUEtghsnzPhWfdPj93RYHNL2N51s3UJ5zQ4QRlTszz8%3D&ehkOptimized=q%2BFqIGIQCuEbl7WT0RvUZjXAbgr2teMTB%2BztzSkPfIU%3D",
-      "entrants": 8,
-      "start_time": 1670002200
-    },
-    {
-      "slug": "tournament/melee-legends-5/event/melee-singles",
-      "tournament_name": "Melee Legends 5",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/500679/image-b5937a096c9018d5288526b275cd88b6.png?ehk=BOjAUkEg5Q%2Fdk%2FfYn3UoVcTqam8mn6XyxPiI3SleJoU%3D&ehkOptimized=7XRrfGXp%2BS2Yafkngbd5Hn0yKNzfGVOrj4JggxztJD8%3D",
-      "entrants": 10,
-      "start_time": 1670030100
-    },
-    {
-      "slug": "tournament/east-coast-fridays-231/event/melee-singles",
-      "tournament_name": "East Coast Fridays #231",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/502649/image-f8a87a3faaa1f6e41a52ae38206c2c2b.png?ehk=TB7kzVeKl0TN5RxHYuFTlKMdMdqTrnQx6nSU43tB2Ec%3D&ehkOptimized=O9HDt8Tj4uUpvz40IqQSP3xAyVsaEsHu%2Fb48pME4T18%3D",
-      "entrants": 105,
-      "start_time": 1670029200
-    },
     {
       "slug": "tournament/quest-for-best-noob-eu-48-a-qfbn-all-star/event/newbie-singles",
       "tournament_name": "Quest for Best Noob EU #48 A QFBN All Star Summit Qualifier Event",
