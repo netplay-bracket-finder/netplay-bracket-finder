@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670102723,
+  "fetched_at": 1670103418,
   "data": [
     {
       "slug": "tournament/scrub-summit-12/event/doubles-ladder",
@@ -22,7 +22,7 @@
       "tournament_name": "Scrub Summit 12",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/502901/image-0d37a2085af1d72310517e1349291206.png?ehk=TCHA3TC8Z%2FKr3hCAXPfJnxuTbICOJLcyVeYag5ObfUM%3D&ehkOptimized=jSWXFHKD220%2BUlCcXqioodjQCV%2FjinIbtOR5Cn%2BUOYw%3D",
-      "entrants": 40,
+      "entrants": 41,
       "start_time": 1670108400
     },
     {
@@ -40,14 +40,6 @@
       "image": "https://images.start.gg/images/tournament/500116/image-1f44fbea3ec36a369c881ec43ca63d9a.png?ehk=Zpw0%2Brj5D7gOxIa35x10JQqMspSudtkcYGqfgsqzXh8%3D&ehkOptimized=N%2Be0ghyPKs8E3r8FE%2FJKPuv%2FiyemgNTwSC%2BhJ3PtAxg%3D",
       "entrants": 0,
       "start_time": 1670101200
-    },
-    {
-      "slug": "tournament/legs-le-tournament-59/event/melee-singles",
-      "tournament_name": "Legs' Le Tournament #59",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/502946/image-e1b3ff7105b92188a80df7d7cf721639.png?ehk=PbZmAB6ECBwtLAOyX%2BqubvjX5tTpyuFDOTkB5TRL6ek%3D&ehkOptimized=F94EtS%2FGGTIEpnYP%2BXw7jBP%2B2GpNfp5%2Fvq2thLDDGkE%3D",
-      "entrants": 22,
-      "start_time": 1670104800
     },
     {
       "slug": "tournament/bb-81-2/event/melee-singles",
