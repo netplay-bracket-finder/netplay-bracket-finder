@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670025095,
+  "fetched_at": 1670030257,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-18/event/melee-singles",
@@ -15,38 +15,22 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500679/image-b5937a096c9018d5288526b275cd88b6.png?ehk=BOjAUkEg5Q%2Fdk%2FfYn3UoVcTqam8mn6XyxPiI3SleJoU%3D&ehkOptimized=7XRrfGXp%2BS2Yafkngbd5Hn0yKNzfGVOrj4JggxztJD8%3D",
       "entrants": 10,
-      "start_time": 1670029200
+      "start_time": 1670030100
     },
     {
       "slug": "tournament/east-coast-fridays-231/event/melee-singles",
       "tournament_name": "East Coast Fridays #231",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502649/image-f8a87a3faaa1f6e41a52ae38206c2c2b.png?ehk=TB7kzVeKl0TN5RxHYuFTlKMdMdqTrnQx6nSU43tB2Ec%3D&ehkOptimized=O9HDt8Tj4uUpvz40IqQSP3xAyVsaEsHu%2Fb48pME4T18%3D",
-      "entrants": 73,
+      "entrants": 105,
       "start_time": 1670029200
-    },
-    {
-      "slug": "tournament/just-the-beginning-1/event/melee-singles",
-      "tournament_name": "Just The Beginning #1",
-      "event_name": "Melee Singles",
-      "image": "",
-      "entrants": 6,
-      "start_time": 1670025600
-    },
-    {
-      "slug": "tournament/just-the-beginning-1/event/redemption-melee-singles",
-      "tournament_name": "Just The Beginning #1",
-      "event_name": "Redemption Melee Singles",
-      "image": "",
-      "entrants": 4,
-      "start_time": 1670032800
     },
     {
       "slug": "tournament/quest-for-best-noob-eu-48-a-qfbn-all-star/event/newbie-singles",
       "tournament_name": "Quest for Best Noob EU #48 A QFBN All Star Summit Qualifier Event",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/501649/image-32ba1577debdcb75851e57e583f9157d.jpg?ehk=HiIOHROAlX5d1pZL%2FZ1eQQjNjr7TmJph90tycZt4YX8%3D&ehkOptimized=TwEUcCuSasIEdtLCgjr21bnPbWjQsCbHpSZdwWPuwHA%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670081400
     },
     {
@@ -78,7 +62,7 @@
       "tournament_name": "BB-81",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502679/image-ea16204aaa7d95e38782a0239c086a38.png?ehk=9mcJS%2BL2Wtbzy5%2FgyUuwOve6759Ask13EbKmnhF789c%3D&ehkOptimized=8kkQeB5hjyx1se0c%2BbujBa1v5CaakyAradn2EXJPGp4%3D",
-      "entrants": 3,
+      "entrants": 6,
       "start_time": 1670122800
     },
     {
