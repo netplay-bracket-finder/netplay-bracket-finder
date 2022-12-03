@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670084482,
+  "fetched_at": 1670085919,
   "data": [
     {
       "slug": "tournament/komet-viii-super-week/event/komet-pro-league-super-week",
@@ -14,7 +14,7 @@
       "tournament_name": "Scrub Summit 12",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/502901/image-0d37a2085af1d72310517e1349291206.png?ehk=TCHA3TC8Z%2FKr3hCAXPfJnxuTbICOJLcyVeYag5ObfUM%3D&ehkOptimized=jSWXFHKD220%2BUlCcXqioodjQCV%2FjinIbtOR5Cn%2BUOYw%3D",
-      "entrants": 4,
+      "entrants": 7,
       "start_time": 1670101200
     },
     {
@@ -64,6 +64,30 @@
       "image": "https://images.start.gg/images/tournament/502679/image-ea16204aaa7d95e38782a0239c086a38.png?ehk=9mcJS%2BL2Wtbzy5%2FgyUuwOve6759Ask13EbKmnhF789c%3D&ehkOptimized=8kkQeB5hjyx1se0c%2BbujBa1v5CaakyAradn2EXJPGp4%3D",
       "entrants": 12,
       "start_time": 1670122800
+    },
+    {
+      "slug": "tournament/eli-s-weekly-low-tier-spanking-33/event/eli-s-weekly-low-tier-spanking-15",
+      "tournament_name": "Eli's Weekly Low Tier Spanking 33",
+      "event_name": "Eli's Weekly Low Tier Spanking 15",
+      "image": "https://images.start.gg/images/tournament/502951/image-3da192d3c496fee29a6026952b648c6d.png?ehk=vkHYti4Y55iN0h2jn%2FZW2EfGZdt6RxAlbAeYsaR%2FQFw%3D&ehkOptimized=k7KHorJfSg7XUbL5haci6lBM6yxgCPPFjM%2BMUPMzo1U%3D",
+      "entrants": 0,
+      "start_time": 1670162400
+    },
+    {
+      "slug": "tournament/eli-s-weekly-low-tier-spanking-33/event/eli-s-weekly-low-tier-spanking-15-double-team-battle",
+      "tournament_name": "Eli's Weekly Low Tier Spanking 33",
+      "event_name": "Eli's Weekly Low Tier Spanking 15 Double Team Battle Special Event",
+      "image": "https://images.start.gg/images/tournament/502951/image-3da192d3c496fee29a6026952b648c6d.png?ehk=vkHYti4Y55iN0h2jn%2FZW2EfGZdt6RxAlbAeYsaR%2FQFw%3D&ehkOptimized=k7KHorJfSg7XUbL5haci6lBM6yxgCPPFjM%2BMUPMzo1U%3D",
+      "entrants": 0,
+      "start_time": 1670162400
+    },
+    {
+      "slug": "tournament/eli-s-weekly-low-tier-spanking-33/event/singles-2-revenge-of-ness",
+      "tournament_name": "Eli's Weekly Low Tier Spanking 33",
+      "event_name": "Singles 2: Revenge of Ness",
+      "image": "https://images.start.gg/images/tournament/502951/image-3da192d3c496fee29a6026952b648c6d.png?ehk=vkHYti4Y55iN0h2jn%2FZW2EfGZdt6RxAlbAeYsaR%2FQFw%3D&ehkOptimized=k7KHorJfSg7XUbL5haci6lBM6yxgCPPFjM%2BMUPMzo1U%3D",
+      "entrants": 0,
+      "start_time": 1670162400
     },
     {
       "slug": "tournament/dorime-s-dojo-10/event/melee-singles",
