@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670097075,
+  "fetched_at": 1670098565,
   "data": [
     {
       "slug": "tournament/scrub-summit-12/event/doubles-ladder",
@@ -22,7 +22,7 @@
       "tournament_name": "Scrub Summit 12",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/502901/image-0d37a2085af1d72310517e1349291206.png?ehk=TCHA3TC8Z%2FKr3hCAXPfJnxuTbICOJLcyVeYag5ObfUM%3D&ehkOptimized=jSWXFHKD220%2BUlCcXqioodjQCV%2FjinIbtOR5Cn%2BUOYw%3D",
-      "entrants": 22,
+      "entrants": 26,
       "start_time": 1670108400
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Legs' Le Tournament #59",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502946/image-e1b3ff7105b92188a80df7d7cf721639.png?ehk=PbZmAB6ECBwtLAOyX%2BqubvjX5tTpyuFDOTkB5TRL6ek%3D&ehkOptimized=F94EtS%2FGGTIEpnYP%2BXw7jBP%2B2GpNfp5%2Fvq2thLDDGkE%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1670104800
     },
     {
@@ -246,7 +246,7 @@
       "tournament_name": "La Granja de Nabos de Mäjoras #21",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501569/image-7b9dc9a8276fb9655b4378c1631e4fc8.png?ehk=dSNzj1eqeMek9MLkT9ybEZEigw2Gk3o7PwjOlodHMgM%3D&ehkOptimized=fcRKX1SEP1E9vzFQBI6seoG4%2FfIhXojhZrhDDE%2Fme%2FU%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1670776200
     },
     {
@@ -326,7 +326,7 @@
       "tournament_name": "Bye Bye, OG Kid!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501759/image-a09dde37b601e797f301dbe0cd397401.png?ehk=mC5V2jWHiP%2B8eioKyums76p6bg2YdeP6q6SCLlicvGE%3D&ehkOptimized=%2Bl0MAuOcVzS5E1m6FG38xyQe1%2FPl9gk2PCJ3lM2OI4Q%3D",
-      "entrants": 19,
+      "entrants": 20,
       "start_time": 1671316200
     },
     {
