@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1670079076,
+  "fetched_at": 1670080530,
   "data": [
-    {
-      "slug": "tournament/quest-for-best-noob-eu-48-a-qfbn-all-star/event/newbie-singles",
-      "tournament_name": "Quest for Best Noob EU #48 A QFBN All Star Summit Qualifier Event",
-      "event_name": "Newbie Singles",
-      "image": "https://images.start.gg/images/tournament/501649/image-32ba1577debdcb75851e57e583f9157d.jpg?ehk=HiIOHROAlX5d1pZL%2FZ1eQQjNjr7TmJph90tycZt4YX8%3D&ehkOptimized=TwEUcCuSasIEdtLCgjr21bnPbWjQsCbHpSZdwWPuwHA%3D",
-      "entrants": 11,
-      "start_time": 1670081400
-    },
     {
       "slug": "tournament/komet-viii-super-week/event/komet-pro-league-super-week",
       "tournament_name": "KOMET VIII | SUPER WEEK",
@@ -16,6 +8,14 @@
       "image": "https://images.start.gg/images/tournament/500993/image-ccbdda13ec619b629627d3607c37379b.png?ehk=2JIge6ON4yAFec4h8qwfNjRLVm81eoWgMsjgutbFMxQ%3D&ehkOptimized=ISeJGwfX6DmIeMpSJGQ2LWJfEhQ9STlErbO0gFn1Z1c%3D",
       "entrants": 21,
       "start_time": 1670090400
+    },
+    {
+      "slug": "tournament/scrub-summit-12/event/singles-pools",
+      "tournament_name": "Scrub Summit 12",
+      "event_name": "Singles Pools",
+      "image": "https://images.start.gg/images/tournament/502901/image-0d37a2085af1d72310517e1349291206.png?ehk=TCHA3TC8Z%2FKr3hCAXPfJnxuTbICOJLcyVeYag5ObfUM%3D&ehkOptimized=jSWXFHKD220%2BUlCcXqioodjQCV%2FjinIbtOR5Cn%2BUOYw%3D",
+      "entrants": 1,
+      "start_time": 1670101200
     },
     {
       "slug": "tournament/scrub-summit-12/event/doubles-ladder",
@@ -29,14 +29,6 @@
       "slug": "tournament/scrub-summit-12/event/singles-brackets",
       "tournament_name": "Scrub Summit 12",
       "event_name": "Singles Brackets",
-      "image": "https://images.start.gg/images/tournament/502901/image-0d37a2085af1d72310517e1349291206.png?ehk=TCHA3TC8Z%2FKr3hCAXPfJnxuTbICOJLcyVeYag5ObfUM%3D&ehkOptimized=jSWXFHKD220%2BUlCcXqioodjQCV%2FjinIbtOR5Cn%2BUOYw%3D",
-      "entrants": 0,
-      "start_time": 1670101200
-    },
-    {
-      "slug": "tournament/scrub-summit-12/event/singles-pools",
-      "tournament_name": "Scrub Summit 12",
-      "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/502901/image-0d37a2085af1d72310517e1349291206.png?ehk=TCHA3TC8Z%2FKr3hCAXPfJnxuTbICOJLcyVeYag5ObfUM%3D&ehkOptimized=jSWXFHKD220%2BUlCcXqioodjQCV%2FjinIbtOR5Cn%2BUOYw%3D",
       "entrants": 0,
       "start_time": 1670101200
