@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1670095414,
+  "fetched_at": 1670096175,
   "data": [
-    {
-      "slug": "tournament/scrub-summit-12/event/singles-pools",
-      "tournament_name": "Scrub Summit 12",
-      "event_name": "Singles Pools",
-      "image": "https://images.start.gg/images/tournament/502901/image-0d37a2085af1d72310517e1349291206.png?ehk=TCHA3TC8Z%2FKr3hCAXPfJnxuTbICOJLcyVeYag5ObfUM%3D&ehkOptimized=jSWXFHKD220%2BUlCcXqioodjQCV%2FjinIbtOR5Cn%2BUOYw%3D",
-      "entrants": 19,
-      "start_time": 1670101200
-    },
     {
       "slug": "tournament/scrub-summit-12/event/doubles-ladder",
       "tournament_name": "Scrub Summit 12",
@@ -24,6 +16,14 @@
       "image": "https://images.start.gg/images/tournament/502901/image-0d37a2085af1d72310517e1349291206.png?ehk=TCHA3TC8Z%2FKr3hCAXPfJnxuTbICOJLcyVeYag5ObfUM%3D&ehkOptimized=jSWXFHKD220%2BUlCcXqioodjQCV%2FjinIbtOR5Cn%2BUOYw%3D",
       "entrants": 0,
       "start_time": 1670101200
+    },
+    {
+      "slug": "tournament/scrub-summit-12/event/singles-pools",
+      "tournament_name": "Scrub Summit 12",
+      "event_name": "Singles Pools",
+      "image": "https://images.start.gg/images/tournament/502901/image-0d37a2085af1d72310517e1349291206.png?ehk=TCHA3TC8Z%2FKr3hCAXPfJnxuTbICOJLcyVeYag5ObfUM%3D&ehkOptimized=jSWXFHKD220%2BUlCcXqioodjQCV%2FjinIbtOR5Cn%2BUOYw%3D",
+      "entrants": 20,
+      "start_time": 1670108400
     },
     {
       "slug": "tournament/firaga-game-night/event/melee-ladder",
@@ -46,7 +46,7 @@
       "tournament_name": "Legs' Le Tournament #59",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502946/image-e1b3ff7105b92188a80df7d7cf721639.png?ehk=PbZmAB6ECBwtLAOyX%2BqubvjX5tTpyuFDOTkB5TRL6ek%3D&ehkOptimized=F94EtS%2FGGTIEpnYP%2BXw7jBP%2B2GpNfp5%2Fvq2thLDDGkE%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1670104800
     },
     {
