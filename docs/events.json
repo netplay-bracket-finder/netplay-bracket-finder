@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670107877,
+  "fetched_at": 1670109346,
   "data": [
     {
       "slug": "tournament/firaga-game-night/event/melee-ladder",
@@ -18,6 +18,14 @@
       "start_time": 1670101200
     },
     {
+      "slug": "tournament/cute-little-bracket-9/event/melee-singles",
+      "tournament_name": "Cute Little Bracket 9",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/503015/image-4a5eeafd9ee4a1db433aa682c1f6177e.png?ehk=HCLObkbK4leovSS39wztQMobkP0rCZz7tNISCNi%2Ff%2BE%3D&ehkOptimized=MH8pl%2BgCeNFvJ1kHMPGdVYTrDgG6VUUfFtUVg8n5gDU%3D",
+      "entrants": 5,
+      "start_time": 1670115600
+    },
+    {
       "slug": "tournament/bb-81-2/event/melee-singles",
       "tournament_name": "BB-81",
       "event_name": "Melee Singles",
@@ -30,7 +38,7 @@
       "tournament_name": "Eli's Weekly Low Tier Spanking 33",
       "event_name": "Eli's Weekly Low Tier Spanking 15",
       "image": "https://images.start.gg/images/tournament/502951/image-3da192d3c496fee29a6026952b648c6d.png?ehk=vkHYti4Y55iN0h2jn%2FZW2EfGZdt6RxAlbAeYsaR%2FQFw%3D&ehkOptimized=k7KHorJfSg7XUbL5haci6lBM6yxgCPPFjM%2BMUPMzo1U%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670162400
     },
     {
@@ -38,7 +46,7 @@
       "tournament_name": "Eli's Weekly Low Tier Spanking 33",
       "event_name": "Singles 2: Revenge of Ness",
       "image": "https://images.start.gg/images/tournament/502951/image-3da192d3c496fee29a6026952b648c6d.png?ehk=vkHYti4Y55iN0h2jn%2FZW2EfGZdt6RxAlbAeYsaR%2FQFw%3D&ehkOptimized=k7KHorJfSg7XUbL5haci6lBM6yxgCPPFjM%2BMUPMzo1U%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670162400
     },
     {
