@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670105698,
+  "fetched_at": 1670106547,
   "data": [
     {
       "slug": "tournament/scrub-summit-12/event/singles-brackets",
@@ -14,7 +14,7 @@
       "tournament_name": "Scrub Summit 12",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/502901/image-0d37a2085af1d72310517e1349291206.png?ehk=TCHA3TC8Z%2FKr3hCAXPfJnxuTbICOJLcyVeYag5ObfUM%3D&ehkOptimized=jSWXFHKD220%2BUlCcXqioodjQCV%2FjinIbtOR5Cn%2BUOYw%3D",
-      "entrants": 48,
+      "entrants": 53,
       "start_time": 1670108400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Firaga Game Night",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/500116/image-1f44fbea3ec36a369c881ec43ca63d9a.png?ehk=Zpw0%2Brj5D7gOxIa35x10JQqMspSudtkcYGqfgsqzXh8%3D&ehkOptimized=N%2Be0ghyPKs8E3r8FE%2FJKPuv%2FiyemgNTwSC%2BhJ3PtAxg%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670101200
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "BB-81",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502679/image-ea16204aaa7d95e38782a0239c086a38.png?ehk=9mcJS%2BL2Wtbzy5%2FgyUuwOve6759Ask13EbKmnhF789c%3D&ehkOptimized=8kkQeB5hjyx1se0c%2BbujBa1v5CaakyAradn2EXJPGp4%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1670122800
     },
     {
