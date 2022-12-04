@@ -1,37 +1,21 @@
 {
-  "fetched_at": 1670111478,
+  "fetched_at": 1670116989,
   "data": [
     {
-      "slug": "tournament/firaga-game-night/event/melee-ladder",
-      "tournament_name": "Firaga Game Night",
-      "event_name": "Melee Ladder",
-      "image": "https://images.start.gg/images/tournament/500116/image-1f44fbea3ec36a369c881ec43ca63d9a.png?ehk=Zpw0%2Brj5D7gOxIa35x10JQqMspSudtkcYGqfgsqzXh8%3D&ehkOptimized=N%2Be0ghyPKs8E3r8FE%2FJKPuv%2FiyemgNTwSC%2BhJ3PtAxg%3D",
-      "entrants": 11,
-      "start_time": 1670101200
-    },
-    {
-      "slug": "tournament/firaga-game-night/event/melee-doubles",
-      "tournament_name": "Firaga Game Night",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/500116/image-1f44fbea3ec36a369c881ec43ca63d9a.png?ehk=Zpw0%2Brj5D7gOxIa35x10JQqMspSudtkcYGqfgsqzXh8%3D&ehkOptimized=N%2Be0ghyPKs8E3r8FE%2FJKPuv%2FiyemgNTwSC%2BhJ3PtAxg%3D",
-      "entrants": 4,
-      "start_time": 1670101200
-    },
-    {
-      "slug": "tournament/cute-little-bracket-9/event/melee-singles",
-      "tournament_name": "Cute Little Bracket 9",
+      "slug": "tournament/snn-3/event/melee-singles",
+      "tournament_name": "SNN#3",
       "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503015/image-4a5eeafd9ee4a1db433aa682c1f6177e.png?ehk=HCLObkbK4leovSS39wztQMobkP0rCZz7tNISCNi%2Ff%2BE%3D&ehkOptimized=MH8pl%2BgCeNFvJ1kHMPGdVYTrDgG6VUUfFtUVg8n5gDU%3D",
-      "entrants": 13,
-      "start_time": 1670115600
+      "image": "https://images.start.gg/images/tournament/503032/image-0e44b5d450ce6753485e3acd1f683a9c.png?ehk=FsM0LMS%2FEo3DmLDlclCAuu7ciyDhi3YrObN7PGYKQn8%3D&ehkOptimized=tZWuHbKn%2BPSyot%2BaLQ29E2uckhG9RJ05ng7JsUIwY3E%3D",
+      "entrants": 6,
+      "start_time": 1670126400
     },
     {
       "slug": "tournament/bb-81-2/event/melee-singles",
       "tournament_name": "BB-81",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502679/image-ea16204aaa7d95e38782a0239c086a38.png?ehk=9mcJS%2BL2Wtbzy5%2FgyUuwOve6759Ask13EbKmnhF789c%3D&ehkOptimized=8kkQeB5hjyx1se0c%2BbujBa1v5CaakyAradn2EXJPGp4%3D",
-      "entrants": 13,
-      "start_time": 1670122800
+      "entrants": 17,
+      "start_time": 1670137200
     },
     {
       "slug": "tournament/eli-s-weekly-low-tier-spanking-33/event/eli-s-weekly-low-tier-spanking-15",
@@ -86,7 +70,7 @@
       "tournament_name": "salty.net/jas/2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502475/image-39ce4c52194bd64a78a47d3db18fa54d.jpg?ehk=FhO33BWIcQH7Ssg%2FkAHLkDxU9ny6NiWz8lDE6v%2B1SXg%3D&ehkOptimized=2CbGjm%2F4mJalgula8aiuGcgeEMkGoWABkPnUAC8emZE%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1670187600
     },
     {
@@ -158,7 +142,7 @@
       "tournament_name": "Only Noobs 96",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502654/image-c80325701ad14a06d100e5c3baf7eff1.jpg?ehk=lgYzYbMcEEZU2NMG19C3uMEmevQ7C7ICIC%2BH927qKDY%3D&ehkOptimized=ZrYoyVQDxu%2FTLKwUZlL%2Fs4wB8LH%2FqlCRNj72q3e%2Fd%2BA%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670544000
     },
     {
