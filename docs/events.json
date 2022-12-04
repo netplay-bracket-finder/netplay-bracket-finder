@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670129519,
+  "fetched_at": 1670130859,
   "data": [
     {
       "slug": "tournament/bb-81-2/event/melee-singles",
       "tournament_name": "BB-81",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502679/image-ea16204aaa7d95e38782a0239c086a38.png?ehk=9mcJS%2BL2Wtbzy5%2FgyUuwOve6759Ask13EbKmnhF789c%3D&ehkOptimized=8kkQeB5hjyx1se0c%2BbujBa1v5CaakyAradn2EXJPGp4%3D",
-      "entrants": 22,
+      "entrants": 24,
       "start_time": 1670137200
     },
     {
@@ -112,6 +112,22 @@
       "image": "https://images.start.gg/images/tournament/502063/image-1ceca12b94e466556fb896fbc2530f7a.png?ehk=upbGx8jwH%2F3ZPw9xrXRS5PgVG2tg1e7JZRqsl3XsUV4%3D&ehkOptimized=ON29df8fIqPIaxTug6Qv26l8isgmNBWIR7nh5zd5tk8%3D",
       "entrants": 0,
       "start_time": 1670284800
+    },
+    {
+      "slug": "tournament/waddle-wednesday-48/event/melee-singles",
+      "tournament_name": "Waddle Wednesday 48",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/503075/image-ed19e3877af6c552ab29f65715a48468.png?ehk=KObfeqonw3acrw6OkZA%2FVl8c5Ptcl%2BJmyZ5QN%2F%2FVmhY%3D&ehkOptimized=HQul%2FB5LSEpBYbp3bwtOgrZxtc7%2BB7%2B%2BQZmN65NPp3Y%3D",
+      "entrants": 0,
+      "start_time": 1670461200
+    },
+    {
+      "slug": "tournament/full-moon-melee-12/event/melee-singles",
+      "tournament_name": "Full Moon Melee 12",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/503073/image-6f140c8da4416db596e9bfa05d8b686a.png?ehk=QeNQFQgWUxKq4ARFpl9Ympy0qDm5XSWgEAJOLv8r2Ew%3D&ehkOptimized=VRYl7pI74AFpC0ir%2B%2BIvfNYAjwBQp1%2F7IBtZ3QStCY0%3D",
+      "entrants": 0,
+      "start_time": 1670472000
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-42-eu-event/event/melee-singles",
