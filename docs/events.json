@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670127589,
+  "fetched_at": 1670128856,
   "data": [
     {
       "slug": "tournament/bb-81-2/event/melee-singles",
@@ -141,7 +141,7 @@
       "slug": "tournament/doublecross/event/melee-doubles",
       "tournament_name": "DoubleCross",
       "event_name": "Melee Doubles",
-      "image": "",
+      "image": "https://images.start.gg/images/tournament/490572/image-749e352ab67dbe3f14b882bc3361e4a4.png?ehk=JCNdwfI8NUlDMzqnSSONXdEf2n5Lwq6GCW5dRXJoFYI%3D&ehkOptimized=fd3bOkPpi6zcVJO7EQjUY4nO1aFg05O%2FIQsITgA65Bg%3D",
       "entrants": 0,
       "start_time": 1670662800
     },
