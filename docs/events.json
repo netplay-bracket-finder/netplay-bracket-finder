@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670121217,
+  "fetched_at": 1670122827,
   "data": [
     {
       "slug": "tournament/snn-3/event/melee-singles",
       "tournament_name": "SNN#3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503032/image-0e44b5d450ce6753485e3acd1f683a9c.png?ehk=FsM0LMS%2FEo3DmLDlclCAuu7ciyDhi3YrObN7PGYKQn8%3D&ehkOptimized=tZWuHbKn%2BPSyot%2BaLQ29E2uckhG9RJ05ng7JsUIwY3E%3D",
-      "entrants": 13,
+      "entrants": 16,
       "start_time": 1670126400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "BB-81",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502679/image-ea16204aaa7d95e38782a0239c086a38.png?ehk=9mcJS%2BL2Wtbzy5%2FgyUuwOve6759Ask13EbKmnhF789c%3D&ehkOptimized=8kkQeB5hjyx1se0c%2BbujBa1v5CaakyAradn2EXJPGp4%3D",
-      "entrants": 21,
+      "entrants": 23,
       "start_time": 1670137200
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "SCSS West Coast #86",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502775/image-4793e1f2c7470e392500724c80ee8f38.png?ehk=fteOv8xj%2FDId8fynlqsvT%2Bxqd2ysN3yhOcPvpnwDbXg%3D&ehkOptimized=5DmKb8cUbu%2BqvAzR63u7TYoZP4zm4quaDqJBmgYWdSs%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670203800
     },
     {
@@ -278,7 +278,7 @@
       "tournament_name": "Deter-Melee Low Tier Reborn",
       "event_name": "Deter-Melee Low Tier Reborn",
       "image": "https://images.start.gg/images/tournament/482549/image-df29c1008b4492f36c3e4ac3613ab8f2.png?ehk=u5XdmF06c5YIhs9dISb7UNXBN76TjEu6ygQhMUbzod4%3D&ehkOptimized=j0qWbo1G6mxURU5xHyxRkPlw%2FuUn%2BOhkTc%2BFVGai%2FpU%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1671219000
     },
     {
