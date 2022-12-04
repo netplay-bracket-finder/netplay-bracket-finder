@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670193611,
+  "fetched_at": 1670194274,
   "data": [
     {
       "slug": "tournament/scss-east-coast-97/event/melee-singles",
       "tournament_name": "SCSS East Coast #97",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502778/image-a73b912769d9d2214acc7382a8c2b7af.png?ehk=4nJRRbtll6dh7hGX%2FfG6HWJYG1VDzenynWxaTX0Xfw0%3D&ehkOptimized=ltkEiIKM2Frzg1466BWuWofqzwkANBzSQo75HXPtrPA%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1670200200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "SCSS West Coast #86",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502775/image-4793e1f2c7470e392500724c80ee8f38.png?ehk=fteOv8xj%2FDId8fynlqsvT%2Bxqd2ysN3yhOcPvpnwDbXg%3D&ehkOptimized=5DmKb8cUbu%2BqvAzR63u7TYoZP4zm4quaDqJBmgYWdSs%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670203800
     },
     {
