@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670177925,
+  "fetched_at": 1670179152,
   "data": [
     {
       "slug": "tournament/melee-weekly-br-6-fuck-nintendo/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "salty.net/jas/2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502475/image-39ce4c52194bd64a78a47d3db18fa54d.jpg?ehk=FhO33BWIcQH7Ssg%2FkAHLkDxU9ny6NiWz8lDE6v%2B1SXg%3D&ehkOptimized=2CbGjm%2F4mJalgula8aiuGcgeEMkGoWABkPnUAC8emZE%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1670187600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "SCSS East Coast #97",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502778/image-a73b912769d9d2214acc7382a8c2b7af.png?ehk=4nJRRbtll6dh7hGX%2FfG6HWJYG1VDzenynWxaTX0Xfw0%3D&ehkOptimized=ltkEiIKM2Frzg1466BWuWofqzwkANBzSQo75HXPtrPA%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1670200200
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "No Melee on Sundays 20",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503139/image-7e2ca7b56924d28f5bbd9e4de62ef9fa.png?ehk=LlaIKsRVVRHf9OZTMxVlC6vKJRqLp937Qaxp94KGb3w%3D&ehkOptimized=nTkxqGqYQGHlnVvFzOWCyEKnlCutCdhdCKiBAbnUOZs%3D",
-      "entrants": 1,
+      "entrants": 4,
       "start_time": 1670202000
     },
     {
