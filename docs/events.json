@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670183473,
+  "fetched_at": 1670184985,
   "data": [
     {
       "slug": "tournament/melee-weekly-br-6-fuck-nintendo/event/melee-singles",
@@ -10,27 +10,11 @@
       "start_time": 1670185800
     },
     {
-      "slug": "tournament/salty-net-jas-2/event/melee-singles",
-      "tournament_name": "salty.net/jas/2",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/502475/image-39ce4c52194bd64a78a47d3db18fa54d.jpg?ehk=FhO33BWIcQH7Ssg%2FkAHLkDxU9ny6NiWz8lDE6v%2B1SXg%3D&ehkOptimized=2CbGjm%2F4mJalgula8aiuGcgeEMkGoWABkPnUAC8emZE%3D",
-      "entrants": 19,
-      "start_time": 1670187600
-    },
-    {
-      "slug": "tournament/salty-net-jas-2/event/amateur-bracket",
-      "tournament_name": "salty.net/jas/2",
-      "event_name": "Amateur Bracket",
-      "image": "https://images.start.gg/images/tournament/502475/image-39ce4c52194bd64a78a47d3db18fa54d.jpg?ehk=FhO33BWIcQH7Ssg%2FkAHLkDxU9ny6NiWz8lDE6v%2B1SXg%3D&ehkOptimized=2CbGjm%2F4mJalgula8aiuGcgeEMkGoWABkPnUAC8emZE%3D",
-      "entrants": 0,
-      "start_time": 1670187600
-    },
-    {
       "slug": "tournament/scss-east-coast-97/event/melee-singles",
       "tournament_name": "SCSS East Coast #97",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502778/image-a73b912769d9d2214acc7382a8c2b7af.png?ehk=4nJRRbtll6dh7hGX%2FfG6HWJYG1VDzenynWxaTX0Xfw0%3D&ehkOptimized=ltkEiIKM2Frzg1466BWuWofqzwkANBzSQo75HXPtrPA%3D",
-      "entrants": 7,
+      "entrants": 9,
       "start_time": 1670200200
     },
     {
@@ -72,6 +56,14 @@
       "image": "https://images.start.gg/images/tournament/502063/image-1ceca12b94e466556fb896fbc2530f7a.png?ehk=upbGx8jwH%2F3ZPw9xrXRS5PgVG2tg1e7JZRqsl3XsUV4%3D&ehkOptimized=ON29df8fIqPIaxTug6Qv26l8isgmNBWIR7nh5zd5tk8%3D",
       "entrants": 0,
       "start_time": 1670284800
+    },
+    {
+      "slug": "tournament/the-cc-lincorperation-3/event/melee-singles-ditto-s",
+      "tournament_name": "The CC.Lincorperation 3",
+      "event_name": "MELEE SINGLES DITTO'S",
+      "image": "https://images.start.gg/images/tournament/503172/image-19c320ec6737f17a03cc4fce4d06421c.png?ehk=zqyThORox1sLNMSSNaXZpxFH6cAZ5YXY5sdtD%2FP1tWI%3D&ehkOptimized=BYzGr8VEsdIrNkUCoN6IhWfrb7egUeu2qcL8Wqk4Ed0%3D",
+      "entrants": 0,
+      "start_time": 1670292000
     },
     {
       "slug": "tournament/sketchy-series-9-the-homesketch/event/melee-singles",
