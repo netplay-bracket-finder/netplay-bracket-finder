@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670140274,
+  "fetched_at": 1670141995,
   "data": [
     {
       "slug": "tournament/eli-s-weekly-low-tier-spanking-33/event/eli-s-weekly-low-tier-spanking-15",
@@ -54,7 +54,7 @@
       "tournament_name": "salty.net/jas/2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502475/image-39ce4c52194bd64a78a47d3db18fa54d.jpg?ehk=FhO33BWIcQH7Ssg%2FkAHLkDxU9ny6NiWz8lDE6v%2B1SXg%3D&ehkOptimized=2CbGjm%2F4mJalgula8aiuGcgeEMkGoWABkPnUAC8emZE%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1670187600
     },
     {
@@ -104,6 +104,14 @@
       "image": "https://images.start.gg/images/tournament/502063/image-1ceca12b94e466556fb896fbc2530f7a.png?ehk=upbGx8jwH%2F3ZPw9xrXRS5PgVG2tg1e7JZRqsl3XsUV4%3D&ehkOptimized=ON29df8fIqPIaxTug6Qv26l8isgmNBWIR7nh5zd5tk8%3D",
       "entrants": 0,
       "start_time": 1670284800
+    },
+    {
+      "slug": "tournament/sketchy-series-9-the-homesketch/event/melee-singles",
+      "tournament_name": "Sketchy Series 9: The HomeSketch",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/503093/image-e5075a62d478672e547d051e4d07da3e.png?ehk=sj7nqlffn7bbJcLH9NWrxZSAYZ8rXcbut4PpCJfoCpQ%3D&ehkOptimized=F5PvfpTRP%2BDmXgzuy9rtavt6f%2Bbey2HW0ot9pn5spfg%3D",
+      "entrants": 0,
+      "start_time": 1670371200
     },
     {
       "slug": "tournament/waddle-wednesday-48/event/melee-singles",
