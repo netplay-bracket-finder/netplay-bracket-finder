@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670169111,
+  "fetched_at": 1670170896,
   "data": [
     {
       "slug": "tournament/dorime-s-dojo-10/event/melee-singles",
       "tournament_name": "Dorime's Dojo #10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502489/image-dadda0198c4f2c87588b89c4ad2eac96.png?ehk=CvVUKGkf%2FLBXxdOTpr296GYHRzJKTZr%2Bk7xHeHyRJ3c%3D&ehkOptimized=24jJUUM6ViiUufQ%2F5iYgUd6PjHaH5qrkvj7ZJj1BDiw%3D",
-      "entrants": 9,
+      "entrants": 13,
       "start_time": 1670173200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Fight of the Fearless 30",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/502921/image-a196ee8413f45a5de6c1eb7abbac111b.png?ehk=sCYhTX%2FLL0WdG4hZruDSdhFLI2iht%2BQFvfbFXqeQTnA%3D&ehkOptimized=y%2Bn6o1cN7p%2B8HyEEZKFPVa8jDM8%2BPkrRfvHZ6Fm6O68%3D",
-      "entrants": 4,
+      "entrants": 9,
       "start_time": 1670176800
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "SCSS East Coast #97",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502778/image-a73b912769d9d2214acc7382a8c2b7af.png?ehk=4nJRRbtll6dh7hGX%2FfG6HWJYG1VDzenynWxaTX0Xfw0%3D&ehkOptimized=ltkEiIKM2Frzg1466BWuWofqzwkANBzSQo75HXPtrPA%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670200200
     },
     {
