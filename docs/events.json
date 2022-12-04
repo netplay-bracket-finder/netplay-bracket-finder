@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670189834,
+  "fetched_at": 1670190685,
   "data": [
     {
       "slug": "tournament/scss-east-coast-97/event/melee-singles",
       "tournament_name": "SCSS East Coast #97",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502778/image-a73b912769d9d2214acc7382a8c2b7af.png?ehk=4nJRRbtll6dh7hGX%2FfG6HWJYG1VDzenynWxaTX0Xfw0%3D&ehkOptimized=ltkEiIKM2Frzg1466BWuWofqzwkANBzSQo75HXPtrPA%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1670200200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "No Melee on Sundays 20",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503139/image-7e2ca7b56924d28f5bbd9e4de62ef9fa.png?ehk=LlaIKsRVVRHf9OZTMxVlC6vKJRqLp937Qaxp94KGb3w%3D&ehkOptimized=nTkxqGqYQGHlnVvFzOWCyEKnlCutCdhdCKiBAbnUOZs%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1670202000
     },
     {
