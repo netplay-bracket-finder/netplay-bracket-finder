@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670116989,
+  "fetched_at": 1670121217,
   "data": [
     {
       "slug": "tournament/snn-3/event/melee-singles",
       "tournament_name": "SNN#3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503032/image-0e44b5d450ce6753485e3acd1f683a9c.png?ehk=FsM0LMS%2FEo3DmLDlclCAuu7ciyDhi3YrObN7PGYKQn8%3D&ehkOptimized=tZWuHbKn%2BPSyot%2BaLQ29E2uckhG9RJ05ng7JsUIwY3E%3D",
-      "entrants": 6,
+      "entrants": 13,
       "start_time": 1670126400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "BB-81",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502679/image-ea16204aaa7d95e38782a0239c086a38.png?ehk=9mcJS%2BL2Wtbzy5%2FgyUuwOve6759Ask13EbKmnhF789c%3D&ehkOptimized=8kkQeB5hjyx1se0c%2BbujBa1v5CaakyAradn2EXJPGp4%3D",
-      "entrants": 17,
+      "entrants": 21,
       "start_time": 1670137200
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Melee Weekly BR #6 - Fuck Nintendo",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502168/image-69b81c9fc447b604d9b1ac34e485ad90.png?ehk=2bUwPnNQJQutqjcs0Ksv5aAGlJFoiCbtWVmSyyeYIkE%3D&ehkOptimized=EXYjhMSx73Fy9YvaW0i9te0hoQQuBKpze8Sa0NUoENM%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1670185800
     },
     {
@@ -144,6 +144,14 @@
       "image": "https://images.start.gg/images/tournament/502654/image-c80325701ad14a06d100e5c3baf7eff1.jpg?ehk=lgYzYbMcEEZU2NMG19C3uMEmevQ7C7ICIC%2BH927qKDY%3D&ehkOptimized=ZrYoyVQDxu%2FTLKwUZlL%2Fs4wB8LH%2FqlCRNj72q3e%2Fd%2BA%3D",
       "entrants": 3,
       "start_time": 1670544000
+    },
+    {
+      "slug": "tournament/doublecross/event/melee-doubles",
+      "tournament_name": "DoubleCross",
+      "event_name": "Melee Doubles",
+      "image": "",
+      "entrants": 0,
+      "start_time": 1670662800
     },
     {
       "slug": "tournament/gfalt-2-festive-again-1/event/melee-singles",
@@ -398,7 +406,7 @@
       "tournament_name": "Whispy Woods Superstar Circuit- Qualifier 1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492841/image-25503525b7a477b0d3cf79d8edd231b5.png?ehk=imi1GXSK2RRhQ6P2wLkYKi0L%2BFufyHQQoKRu46xUBxw%3D&ehkOptimized=PGAXVHlTmkwd5NsRpetUcGIGJxqQQE7r82nqo0%2Fx1cA%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1674946800
     },
     {
