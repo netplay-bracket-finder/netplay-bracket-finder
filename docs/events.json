@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670186192,
+  "fetched_at": 1670187077,
   "data": [
     {
       "slug": "tournament/scss-east-coast-97/event/melee-singles",
@@ -24,6 +24,14 @@
       "image": "https://images.start.gg/images/tournament/502775/image-4793e1f2c7470e392500724c80ee8f38.png?ehk=fteOv8xj%2FDId8fynlqsvT%2Bxqd2ysN3yhOcPvpnwDbXg%3D&ehkOptimized=5DmKb8cUbu%2BqvAzR63u7TYoZP4zm4quaDqJBmgYWdSs%3D",
       "entrants": 1,
       "start_time": 1670203800
+    },
+    {
+      "slug": "tournament/pino-s-tired-of-0-2-101/event/tired-of-0-2",
+      "tournament_name": "Pino's Tired of 0-2 #101!",
+      "event_name": "Tired of 0-2?",
+      "image": "https://images.start.gg/images/tournament/503196/image-de16322f189e60a5b6a6bb23e32e997b.jpg?ehk=DfRJfbrGdGRP6kQ2oLu4BQS7401LcV5UHBOPrOS2QU4%3D&ehkOptimized=rEx62kiXFdcwXgRVj62uoJKGLT3SvINf7l01pkoiOg0%3D",
+      "entrants": 0,
+      "start_time": 1670281200
     },
     {
       "slug": "tournament/coast-to-coast-doubles-10/event/wc-doubles",
@@ -54,7 +62,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503189/image-5a09ff2068c683a9291968ca777bf53e.jpg?ehk=HBzqoVrLkfxgtxnPqf1SwwLk9GxuSbRRSNcdcfiZcss%3D&ehkOptimized=EUJPZ%2BUgCa2v%2BD5UEJgAEY%2B5armv%2F0nu7rdRgBdD6o0%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1670288400
     },
     {
