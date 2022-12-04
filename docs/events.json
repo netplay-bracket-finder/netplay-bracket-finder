@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670194274,
+  "fetched_at": 1670195768,
   "data": [
     {
       "slug": "tournament/scss-east-coast-97/event/melee-singles",
       "tournament_name": "SCSS East Coast #97",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502778/image-a73b912769d9d2214acc7382a8c2b7af.png?ehk=4nJRRbtll6dh7hGX%2FfG6HWJYG1VDzenynWxaTX0Xfw0%3D&ehkOptimized=ltkEiIKM2Frzg1466BWuWofqzwkANBzSQo75HXPtrPA%3D",
-      "entrants": 19,
+      "entrants": 21,
       "start_time": 1670200200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "No Melee on Sundays 20",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503139/image-7e2ca7b56924d28f5bbd9e4de62ef9fa.png?ehk=LlaIKsRVVRHf9OZTMxVlC6vKJRqLp937Qaxp94KGb3w%3D&ehkOptimized=nTkxqGqYQGHlnVvFzOWCyEKnlCutCdhdCKiBAbnUOZs%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1670202000
     },
     {
@@ -128,6 +128,14 @@
       "image": "https://images.start.gg/images/tournament/502654/image-c80325701ad14a06d100e5c3baf7eff1.jpg?ehk=lgYzYbMcEEZU2NMG19C3uMEmevQ7C7ICIC%2BH927qKDY%3D&ehkOptimized=ZrYoyVQDxu%2FTLKwUZlL%2Fs4wB8LH%2FqlCRNj72q3e%2Fd%2BA%3D",
       "entrants": 3,
       "start_time": 1670544000
+    },
+    {
+      "slug": "tournament/the-salt-mine-51/event/the-salt-mine",
+      "tournament_name": "The Salt Mine #51!",
+      "event_name": "The Salt Mine!",
+      "image": "https://images.start.gg/images/tournament/503238/image-2bdf3f27e00d30afd76fca63dbd49618.png?ehk=aC0%2FwfODM2ddYmrtO6n6QAoU5hjGzAMkeH7iRAVnH4A%3D&ehkOptimized=UfMepezTbb80FvoytHgPExhkVgSvTsIM1DBf1mSDruQ%3D",
+      "entrants": 0,
+      "start_time": 1670544060
     },
     {
       "slug": "tournament/doublecross/event/melee-doubles",
