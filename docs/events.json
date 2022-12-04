@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1670163237,
+  "fetched_at": 1670164030,
   "data": [
-    {
-      "slug": "tournament/eli-s-weekly-low-tier-spanking-33/event/eli-s-weekly-low-tier-spanking-15",
-      "tournament_name": "Eli's Weekly Low Tier Spanking 33",
-      "event_name": "Eli's Weekly Low Tier Spanking 15",
-      "image": "https://images.start.gg/images/tournament/502951/image-3da192d3c496fee29a6026952b648c6d.png?ehk=vkHYti4Y55iN0h2jn%2FZW2EfGZdt6RxAlbAeYsaR%2FQFw%3D&ehkOptimized=k7KHorJfSg7XUbL5haci6lBM6yxgCPPFjM%2BMUPMzo1U%3D",
-      "entrants": 4,
-      "start_time": 1670158800
-    },
     {
       "slug": "tournament/eli-s-weekly-low-tier-spanking-33/event/eli-s-weekly-low-tier-spanking-15-double-team-battle",
       "tournament_name": "Eli's Weekly Low Tier Spanking 33",
@@ -26,6 +18,14 @@
       "start_time": 1670160600
     },
     {
+      "slug": "tournament/eli-s-weekly-low-tier-spanking-33/event/eli-s-weekly-low-tier-spanking-15",
+      "tournament_name": "Eli's Weekly Low Tier Spanking 33",
+      "event_name": "Eli's Weekly Low Tier Spanking 15",
+      "image": "https://images.start.gg/images/tournament/502951/image-3da192d3c496fee29a6026952b648c6d.png?ehk=vkHYti4Y55iN0h2jn%2FZW2EfGZdt6RxAlbAeYsaR%2FQFw%3D&ehkOptimized=k7KHorJfSg7XUbL5haci6lBM6yxgCPPFjM%2BMUPMzo1U%3D",
+      "entrants": 4,
+      "start_time": 1670158800
+    },
+    {
       "slug": "tournament/dorime-s-dojo-10/event/melee-singles",
       "tournament_name": "Dorime's Dojo #10",
       "event_name": "Melee Singles",
@@ -38,7 +38,7 @@
       "tournament_name": "Fight of the Fearless 30",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/502921/image-a196ee8413f45a5de6c1eb7abbac111b.png?ehk=sCYhTX%2FLL0WdG4hZruDSdhFLI2iht%2BQFvfbFXqeQTnA%3D&ehkOptimized=y%2Bn6o1cN7p%2B8HyEEZKFPVa8jDM8%2BPkrRfvHZ6Fm6O68%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670176800
     },
     {
