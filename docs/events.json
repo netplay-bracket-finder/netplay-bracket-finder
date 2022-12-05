@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670203225,
+  "fetched_at": 1670207520,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-41/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Pino's Tired of 0-2 #101!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/503196/image-de16322f189e60a5b6a6bb23e32e997b.jpg?ehk=DfRJfbrGdGRP6kQ2oLu4BQS7401LcV5UHBOPrOS2QU4%3D&ehkOptimized=rEx62kiXFdcwXgRVj62uoJKGLT3SvINf7l01pkoiOg0%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670281200
     },
     {
@@ -58,11 +58,11 @@
       "start_time": 1670288400
     },
     {
-      "slug": "tournament/the-cc-lincorperation-3/event/melee-singles-ditto-s",
+      "slug": "tournament/the-cc-lincorperation-3/event/melee-singles-fox-falco-falcon",
       "tournament_name": "The CC.Lincorperation 3",
-      "event_name": "MELEE SINGLES DITTO'S",
+      "event_name": "MELEE SINGLES FOX, FALCO, FALCON",
       "image": "https://images.start.gg/images/tournament/503172/image-19c320ec6737f17a03cc4fce4d06421c.png?ehk=zqyThORox1sLNMSSNaXZpxFH6cAZ5YXY5sdtD%2FP1tWI%3D&ehkOptimized=BYzGr8VEsdIrNkUCoN6IhWfrb7egUeu2qcL8Wqk4Ed0%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1670292000
     },
     {
