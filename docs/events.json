@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670276320,
+  "fetched_at": 1670277088,
   "data": [
     {
       "slug": "tournament/super-smash-bong-75/event/melee-singles",
       "tournament_name": "Super Smash Bong #75",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/503399/image-0ca6ed3cc8943ff572098163d08b67e5.jpg?ehk=PIf8zMNI2cwAm09I%2BOCEogZtZiyyKEKy6q%2B9A9I33%2BA%3D&ehkOptimized=54vebdJRUw2%2BfJDRj5WDmxk8wej3Cc%2FpALe0u59wypo%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1670279400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Pino's Tired of 0-2 #101!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/503196/image-de16322f189e60a5b6a6bb23e32e997b.jpg?ehk=DfRJfbrGdGRP6kQ2oLu4BQS7401LcV5UHBOPrOS2QU4%3D&ehkOptimized=rEx62kiXFdcwXgRVj62uoJKGLT3SvINf7l01pkoiOg0%3D",
-      "entrants": 25,
+      "entrants": 27,
       "start_time": 1670281200
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503189/image-5a09ff2068c683a9291968ca777bf53e.jpg?ehk=HBzqoVrLkfxgtxnPqf1SwwLk9GxuSbRRSNcdcfiZcss%3D&ehkOptimized=EUJPZ%2BUgCa2v%2BD5UEJgAEY%2B5armv%2F0nu7rdRgBdD6o0%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1670288400
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Sketchy Series 9: The HomeSketch",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503093/image-e5075a62d478672e547d051e4d07da3e.png?ehk=sj7nqlffn7bbJcLH9NWrxZSAYZ8rXcbut4PpCJfoCpQ%3D&ehkOptimized=F5PvfpTRP%2BDmXgzuy9rtavt6f%2Bbey2HW0ot9pn5spfg%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670371200
     },
     {
@@ -318,7 +318,7 @@
       "tournament_name": "Level Two Melee Playoff (LOM Season 5)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497701/image-0fe0c43ccd269e31aff5d2d7a880c288.png?ehk=dnLsLnlUo3jXl5nRID3tmELgn4nw7zQu6L1F2ernwVE%3D&ehkOptimized=QQIzl0BIw%2BpM35kgoLK3S%2Fpiu%2F6EBfV%2B6l2pkmRE2lA%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1671390000
     },
     {
