@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1670279851,
+  "fetched_at": 1670280683,
   "data": [
-    {
-      "slug": "tournament/slippi-sauce-77/event/melee-singles",
-      "tournament_name": "Slippi Sauce #77 🐸",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503267/image-3c737ac82c3402efb389a28a7691a962.png?ehk=SNfdGmxF1TSwI273r2Zrh4TJ%2BJihp%2BePiXuwHGxfGV4%3D&ehkOptimized=ljI%2BMJ711kUYvXz384NsVYbmYoeQSsFFatksfajJB5A%3D",
-      "entrants": 21,
-      "start_time": 1670281200
-    },
     {
       "slug": "tournament/coast-to-coast-doubles-10/event/ec-doubles",
       "tournament_name": "Coast to Coast Doubles # 10",
@@ -30,7 +22,7 @@
       "tournament_name": "Woop Melee! #55",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502063/image-1ceca12b94e466556fb896fbc2530f7a.png?ehk=upbGx8jwH%2F3ZPw9xrXRS5PgVG2tg1e7JZRqsl3XsUV4%3D&ehkOptimized=ON29df8fIqPIaxTug6Qv26l8isgmNBWIR7nh5zd5tk8%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1670284800
     },
     {
@@ -38,7 +30,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503189/image-5a09ff2068c683a9291968ca777bf53e.jpg?ehk=HBzqoVrLkfxgtxnPqf1SwwLk9GxuSbRRSNcdcfiZcss%3D&ehkOptimized=EUJPZ%2BUgCa2v%2BD5UEJgAEY%2B5armv%2F0nu7rdRgBdD6o0%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1670288400
     },
     {
@@ -136,6 +128,22 @@
       "image": "https://images.start.gg/images/tournament/490572/image-749e352ab67dbe3f14b882bc3361e4a4.png?ehk=JCNdwfI8NUlDMzqnSSONXdEf2n5Lwq6GCW5dRXJoFYI%3D&ehkOptimized=fd3bOkPpi6zcVJO7EQjUY4nO1aFg05O%2FIQsITgA65Bg%3D",
       "entrants": 0,
       "start_time": 1670662800
+    },
+    {
+      "slug": "tournament/quest-for-best-noob-summit-2/event/main-event",
+      "tournament_name": "Quest For Best Noob Summit 2",
+      "event_name": "Main Event",
+      "image": "https://images.start.gg/images/tournament/503570/image-7f2f248507832e8a51bbe17008a8e6c9.png?ehk=9WPt2uBkwFccEcrT6oCpwQ4L1k2dtkiuPGo6Sc0AEoY%3D&ehkOptimized=7HnMqThFcWEUGPU7h5xG1lPr%2BBzc7ooTIdHHD324QGY%3D",
+      "entrants": 0,
+      "start_time": 1670671800
+    },
+    {
+      "slug": "tournament/quest-for-best-noob-summit-2/event/salty-suite-devin-vs-waphles",
+      "tournament_name": "Quest For Best Noob Summit 2",
+      "event_name": "Salty Suite Devin VS Waphles",
+      "image": "https://images.start.gg/images/tournament/503570/image-7f2f248507832e8a51bbe17008a8e6c9.png?ehk=9WPt2uBkwFccEcrT6oCpwQ4L1k2dtkiuPGo6Sc0AEoY%3D&ehkOptimized=7HnMqThFcWEUGPU7h5xG1lPr%2BBzc7ooTIdHHD324QGY%3D",
+      "entrants": 0,
+      "start_time": 1670675400
     },
     {
       "slug": "tournament/gfalt-2-festive-again-1/event/melee-singles",
