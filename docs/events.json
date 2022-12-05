@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1670225790,
+  "fetched_at": 1670226682,
   "data": [
-    {
-      "slug": "tournament/mang0-celebration-bracket-4/event/melee-singles",
-      "tournament_name": "Mang0 Celebration Bracket 4",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503337/image-bd5e9275284e7c05b990b558d1b9ecd8.png?ehk=Q0tb6Eb0QrRcD4CXk1OgSASfAmPW03iIPBRFPWg7x8Y%3D&ehkOptimized=0sr7XhGLRu%2FdyHBx9ZZnMABjJsd%2BvUQDNF%2FrmkiTEmA%3D",
-      "entrants": 3,
-      "start_time": 1670227200
-    },
     {
       "slug": "tournament/monday-night-mixup-41/event/melee-singles",
       "tournament_name": "Monday Night Mixup #41",
@@ -34,19 +26,19 @@
       "start_time": 1670281200
     },
     {
-      "slug": "tournament/coast-to-coast-doubles-10/event/wc-doubles",
+      "slug": "tournament/coast-to-coast-doubles-10/event/ec-doubles",
       "tournament_name": "Coast to Coast Doubles # 10",
-      "event_name": "WC Doubles",
+      "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/501800/image-9c08454f4cbc58387961b781ec3af78a.png?ehk=EGGkK%2BZnMUgYnLpxoFeYGJuG91102rXw1%2F3cKnno7TA%3D&ehkOptimized=WIjxILqPxBjc035tnXgf3q7tascJK8LzI5J92bvta28%3D",
       "entrants": 1,
       "start_time": 1670284800
     },
     {
-      "slug": "tournament/coast-to-coast-doubles-10/event/ec-doubles",
+      "slug": "tournament/coast-to-coast-doubles-10/event/wc-doubles",
       "tournament_name": "Coast to Coast Doubles # 10",
-      "event_name": "EC Doubles",
+      "event_name": "WC Doubles",
       "image": "https://images.start.gg/images/tournament/501800/image-9c08454f4cbc58387961b781ec3af78a.png?ehk=EGGkK%2BZnMUgYnLpxoFeYGJuG91102rXw1%2F3cKnno7TA%3D&ehkOptimized=WIjxILqPxBjc035tnXgf3q7tascJK8LzI5J92bvta28%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670284800
     },
     {
