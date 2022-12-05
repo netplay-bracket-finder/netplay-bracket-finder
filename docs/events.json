@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670271442,
+  "fetched_at": 1670272638,
   "data": [
     {
       "slug": "tournament/super-smash-bong-75/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Pino's Tired of 0-2 #101!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/503196/image-de16322f189e60a5b6a6bb23e32e997b.jpg?ehk=DfRJfbrGdGRP6kQ2oLu4BQS7401LcV5UHBOPrOS2QU4%3D&ehkOptimized=rEx62kiXFdcwXgRVj62uoJKGLT3SvINf7l01pkoiOg0%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1670281200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Coast to Coast Doubles # 10",
       "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/501800/image-9c08454f4cbc58387961b781ec3af78a.png?ehk=EGGkK%2BZnMUgYnLpxoFeYGJuG91102rXw1%2F3cKnno7TA%3D&ehkOptimized=WIjxILqPxBjc035tnXgf3q7tascJK8LzI5J92bvta28%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670284800
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Woop Melee! #55",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502063/image-1ceca12b94e466556fb896fbc2530f7a.png?ehk=upbGx8jwH%2F3ZPw9xrXRS5PgVG2tg1e7JZRqsl3XsUV4%3D&ehkOptimized=ON29df8fIqPIaxTug6Qv26l8isgmNBWIR7nh5zd5tk8%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670284800
     },
     {
