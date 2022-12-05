@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670265664,
+  "fetched_at": 1670266324,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-41/event/melee-singles",
       "tournament_name": "Monday Night Mixup #41",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503202/image-a6e39007806832795918f713d687a873.png?ehk=xwf9CUZo0C8MSSCapBBq8t%2FACh9thXkbFyyCtRntzl8%3D&ehkOptimized=BA8kzGOBkMToiKHSqmviiTzWM0QkbgecmtwHivH6uEM%3D",
-      "entrants": 19,
+      "entrants": 22,
       "start_time": 1670266800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Coast to Coast Doubles # 10",
       "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/501800/image-9c08454f4cbc58387961b781ec3af78a.png?ehk=EGGkK%2BZnMUgYnLpxoFeYGJuG91102rXw1%2F3cKnno7TA%3D&ehkOptimized=WIjxILqPxBjc035tnXgf3q7tascJK8LzI5J92bvta28%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670284800
     },
     {
@@ -214,7 +214,7 @@
       "tournament_name": "La Granja de Nabos de Mäjoras #21",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501569/image-7b9dc9a8276fb9655b4378c1631e4fc8.png?ehk=dSNzj1eqeMek9MLkT9ybEZEigw2Gk3o7PwjOlodHMgM%3D&ehkOptimized=fcRKX1SEP1E9vzFQBI6seoG4%2FfIhXojhZrhDDE%2Fme%2FU%3D",
-      "entrants": 29,
+      "entrants": 30,
       "start_time": 1670776200
     },
     {
@@ -302,7 +302,7 @@
       "tournament_name": "Bye Bye, OG Kid!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501759/image-a09dde37b601e797f301dbe0cd397401.png?ehk=mC5V2jWHiP%2B8eioKyums76p6bg2YdeP6q6SCLlicvGE%3D&ehkOptimized=%2Bl0MAuOcVzS5E1m6FG38xyQe1%2FPl9gk2PCJ3lM2OI4Q%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1671316200
     },
     {
