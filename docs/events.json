@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670226682,
+  "fetched_at": 1670228522,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-41/event/melee-singles",
@@ -208,6 +208,14 @@
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
       "entrants": 12,
       "start_time": 1670803200
+    },
+    {
+      "slug": "tournament/casino-royale-4-ssbm-online-weekly/event/casino",
+      "tournament_name": "CASINO ROYALE 4 ~ SSBM Online Weekly",
+      "event_name": "CASINO",
+      "image": "https://images.start.gg/images/tournament/503345/image-0c735cc893af888583e462fc80465c16.png?ehk=MrJ1u3ab3noMMDPCDJTiFzmgnRTaHPZX%2FnSjJMi6qfE%3D&ehkOptimized=%2FjgmNWVqc%2BAoK8AnascqWAcHKLGOzJ%2BxoFDXVlNS%2BNw%3D",
+      "entrants": 0,
+      "start_time": 1670898600
     },
     {
       "slug": "tournament/cg-gold-invitational-last-chance-qualifier/event/ssbm-randomizer-singles",
