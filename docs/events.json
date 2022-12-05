@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1670266324,
+  "fetched_at": 1670267581,
   "data": [
-    {
-      "slug": "tournament/monday-night-mixup-41/event/melee-singles",
-      "tournament_name": "Monday Night Mixup #41",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503202/image-a6e39007806832795918f713d687a873.png?ehk=xwf9CUZo0C8MSSCapBBq8t%2FACh9thXkbFyyCtRntzl8%3D&ehkOptimized=BA8kzGOBkMToiKHSqmviiTzWM0QkbgecmtwHivH6uEM%3D",
-      "entrants": 22,
-      "start_time": 1670266800
-    },
     {
       "slug": "tournament/super-smash-bong-75/event/melee-singles",
       "tournament_name": "Super Smash Bong #75",
@@ -30,7 +22,7 @@
       "tournament_name": "Pino's Tired of 0-2 #101!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/503196/image-de16322f189e60a5b6a6bb23e32e997b.jpg?ehk=DfRJfbrGdGRP6kQ2oLu4BQS7401LcV5UHBOPrOS2QU4%3D&ehkOptimized=rEx62kiXFdcwXgRVj62uoJKGLT3SvINf7l01pkoiOg0%3D",
-      "entrants": 5,
+      "entrants": 9,
       "start_time": 1670281200
     },
     {
@@ -62,7 +54,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503189/image-5a09ff2068c683a9291968ca777bf53e.jpg?ehk=HBzqoVrLkfxgtxnPqf1SwwLk9GxuSbRRSNcdcfiZcss%3D&ehkOptimized=EUJPZ%2BUgCa2v%2BD5UEJgAEY%2B5armv%2F0nu7rdRgBdD6o0%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1670288400
     },
     {
@@ -70,7 +62,7 @@
       "tournament_name": "The CC.Lincorperation 3",
       "event_name": "MELEE SINGLES FOX, FALCO, FALCON",
       "image": "https://images.start.gg/images/tournament/503172/image-19c320ec6737f17a03cc4fce4d06421c.png?ehk=zqyThORox1sLNMSSNaXZpxFH6cAZ5YXY5sdtD%2FP1tWI%3D&ehkOptimized=BYzGr8VEsdIrNkUCoN6IhWfrb7egUeu2qcL8Wqk4Ed0%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1670292000
     },
     {
@@ -126,7 +118,7 @@
       "tournament_name": "Only Noobs 96",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502654/image-c80325701ad14a06d100e5c3baf7eff1.jpg?ehk=lgYzYbMcEEZU2NMG19C3uMEmevQ7C7ICIC%2BH927qKDY%3D&ehkOptimized=ZrYoyVQDxu%2FTLKwUZlL%2Fs4wB8LH%2FqlCRNj72q3e%2Fd%2BA%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1670544000
     },
     {
@@ -286,7 +278,7 @@
       "tournament_name": "Deter-Melee Low Tier Reborn",
       "event_name": "Deter-Melee Low Tier Reborn",
       "image": "https://images.start.gg/images/tournament/482549/image-df29c1008b4492f36c3e4ac3613ab8f2.png?ehk=u5XdmF06c5YIhs9dISb7UNXBN76TjEu6ygQhMUbzod4%3D&ehkOptimized=j0qWbo1G6mxURU5xHyxRkPlw%2FuUn%2BOhkTc%2BFVGai%2FpU%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1671219000
     },
     {
