@@ -1,30 +1,6 @@
 {
-  "fetched_at": 1670197887,
+  "fetched_at": 1670203225,
   "data": [
-    {
-      "slug": "tournament/scss-east-coast-97/event/melee-singles",
-      "tournament_name": "SCSS East Coast #97",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/502778/image-a73b912769d9d2214acc7382a8c2b7af.png?ehk=4nJRRbtll6dh7hGX%2FfG6HWJYG1VDzenynWxaTX0Xfw0%3D&ehkOptimized=ltkEiIKM2Frzg1466BWuWofqzwkANBzSQo75HXPtrPA%3D",
-      "entrants": 25,
-      "start_time": 1670200200
-    },
-    {
-      "slug": "tournament/no-melee-on-sundays-20/event/melee-singles",
-      "tournament_name": "No Melee on Sundays 20",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503139/image-7e2ca7b56924d28f5bbd9e4de62ef9fa.png?ehk=LlaIKsRVVRHf9OZTMxVlC6vKJRqLp937Qaxp94KGb3w%3D&ehkOptimized=nTkxqGqYQGHlnVvFzOWCyEKnlCutCdhdCKiBAbnUOZs%3D",
-      "entrants": 13,
-      "start_time": 1670202000
-    },
-    {
-      "slug": "tournament/scss-west-coast-86/event/melee-singles",
-      "tournament_name": "SCSS West Coast #86",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/502775/image-4793e1f2c7470e392500724c80ee8f38.png?ehk=fteOv8xj%2FDId8fynlqsvT%2Bxqd2ysN3yhOcPvpnwDbXg%3D&ehkOptimized=5DmKb8cUbu%2BqvAzR63u7TYoZP4zm4quaDqJBmgYWdSs%3D",
-      "entrants": 2,
-      "start_time": 1670203800
-    },
     {
       "slug": "tournament/monday-night-mixup-41/event/melee-singles",
       "tournament_name": "Monday Night Mixup #41",
@@ -32,6 +8,14 @@
       "image": "https://images.start.gg/images/tournament/503202/image-a6e39007806832795918f713d687a873.png?ehk=xwf9CUZo0C8MSSCapBBq8t%2FACh9thXkbFyyCtRntzl8%3D&ehkOptimized=BA8kzGOBkMToiKHSqmviiTzWM0QkbgecmtwHivH6uEM%3D",
       "entrants": 0,
       "start_time": 1670266800
+    },
+    {
+      "slug": "tournament/slippi-sauce-77/event/melee-singles",
+      "tournament_name": "Slippi Sauce #77 🐸",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/503267/image-3c737ac82c3402efb389a28a7691a962.png?ehk=SNfdGmxF1TSwI273r2Zrh4TJ%2BJihp%2BePiXuwHGxfGV4%3D&ehkOptimized=ljI%2BMJ711kUYvXz384NsVYbmYoeQSsFFatksfajJB5A%3D",
+      "entrants": 4,
+      "start_time": 1670281200
     },
     {
       "slug": "tournament/pino-s-tired-of-0-2-101/event/tired-of-0-2",
@@ -78,7 +62,7 @@
       "tournament_name": "The CC.Lincorperation 3",
       "event_name": "MELEE SINGLES DITTO'S",
       "image": "https://images.start.gg/images/tournament/503172/image-19c320ec6737f17a03cc4fce4d06421c.png?ehk=zqyThORox1sLNMSSNaXZpxFH6cAZ5YXY5sdtD%2FP1tWI%3D&ehkOptimized=BYzGr8VEsdIrNkUCoN6IhWfrb7egUeu2qcL8Wqk4Ed0%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1670292000
     },
     {
@@ -406,7 +390,7 @@
       "tournament_name": "Whispy Woods Superstar Circuit- Qualifier 1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492841/image-25503525b7a477b0d3cf79d8edd231b5.png?ehk=imi1GXSK2RRhQ6P2wLkYKi0L%2BFufyHQQoKRu46xUBxw%3D&ehkOptimized=PGAXVHlTmkwd5NsRpetUcGIGJxqQQE7r82nqo0%2Fx1cA%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1674946800
     },
     {
