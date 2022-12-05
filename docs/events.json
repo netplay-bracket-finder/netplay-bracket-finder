@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670275622,
+  "fetched_at": 1670276320,
   "data": [
     {
       "slug": "tournament/super-smash-bong-75/event/melee-singles",
       "tournament_name": "Super Smash Bong #75",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/503399/image-0ca6ed3cc8943ff572098163d08b67e5.jpg?ehk=PIf8zMNI2cwAm09I%2BOCEogZtZiyyKEKy6q%2B9A9I33%2BA%3D&ehkOptimized=54vebdJRUw2%2BfJDRj5WDmxk8wej3Cc%2FpALe0u59wypo%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1670279400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Slippi Sauce #77 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503267/image-3c737ac82c3402efb389a28a7691a962.png?ehk=SNfdGmxF1TSwI273r2Zrh4TJ%2BJihp%2BePiXuwHGxfGV4%3D&ehkOptimized=ljI%2BMJ711kUYvXz384NsVYbmYoeQSsFFatksfajJB5A%3D",
-      "entrants": 11,
+      "entrants": 14,
       "start_time": 1670281200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Pino's Tired of 0-2 #101!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/503196/image-de16322f189e60a5b6a6bb23e32e997b.jpg?ehk=DfRJfbrGdGRP6kQ2oLu4BQS7401LcV5UHBOPrOS2QU4%3D&ehkOptimized=rEx62kiXFdcwXgRVj62uoJKGLT3SvINf7l01pkoiOg0%3D",
-      "entrants": 24,
+      "entrants": 25,
       "start_time": 1670281200
     },
     {
