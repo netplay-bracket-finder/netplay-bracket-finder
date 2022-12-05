@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670268980,
+  "fetched_at": 1670269879,
   "data": [
     {
       "slug": "tournament/super-smash-bong-75/event/melee-singles",
       "tournament_name": "Super Smash Bong #75",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/503399/image-0ca6ed3cc8943ff572098163d08b67e5.jpg?ehk=PIf8zMNI2cwAm09I%2BOCEogZtZiyyKEKy6q%2B9A9I33%2BA%3D&ehkOptimized=54vebdJRUw2%2BfJDRj5WDmxk8wej3Cc%2FpALe0u59wypo%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670279400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Pino's Tired of 0-2 #101!",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/503196/image-de16322f189e60a5b6a6bb23e32e997b.jpg?ehk=DfRJfbrGdGRP6kQ2oLu4BQS7401LcV5UHBOPrOS2QU4%3D&ehkOptimized=rEx62kiXFdcwXgRVj62uoJKGLT3SvINf7l01pkoiOg0%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1670281200
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Woop Melee! #55",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502063/image-1ceca12b94e466556fb896fbc2530f7a.png?ehk=upbGx8jwH%2F3ZPw9xrXRS5PgVG2tg1e7JZRqsl3XsUV4%3D&ehkOptimized=ON29df8fIqPIaxTug6Qv26l8isgmNBWIR7nh5zd5tk8%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1670284800
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503189/image-5a09ff2068c683a9291968ca777bf53e.jpg?ehk=HBzqoVrLkfxgtxnPqf1SwwLk9GxuSbRRSNcdcfiZcss%3D&ehkOptimized=EUJPZ%2BUgCa2v%2BD5UEJgAEY%2B5armv%2F0nu7rdRgBdD6o0%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1670288400
     },
     {
