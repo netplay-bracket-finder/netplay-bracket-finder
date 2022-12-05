@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670280683,
+  "fetched_at": 1670282220,
   "data": [
     {
       "slug": "tournament/coast-to-coast-doubles-10/event/ec-doubles",
       "tournament_name": "Coast to Coast Doubles # 10",
       "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/501800/image-9c08454f4cbc58387961b781ec3af78a.png?ehk=EGGkK%2BZnMUgYnLpxoFeYGJuG91102rXw1%2F3cKnno7TA%3D&ehkOptimized=WIjxILqPxBjc035tnXgf3q7tascJK8LzI5J92bvta28%3D",
-      "entrants": 6,
+      "entrants": 8,
       "start_time": 1670284800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Woop Melee! #55",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502063/image-1ceca12b94e466556fb896fbc2530f7a.png?ehk=upbGx8jwH%2F3ZPw9xrXRS5PgVG2tg1e7JZRqsl3XsUV4%3D&ehkOptimized=ON29df8fIqPIaxTug6Qv26l8isgmNBWIR7nh5zd5tk8%3D",
-      "entrants": 8,
+      "entrants": 16,
       "start_time": 1670284800
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503189/image-5a09ff2068c683a9291968ca777bf53e.jpg?ehk=HBzqoVrLkfxgtxnPqf1SwwLk9GxuSbRRSNcdcfiZcss%3D&ehkOptimized=EUJPZ%2BUgCa2v%2BD5UEJgAEY%2B5armv%2F0nu7rdRgBdD6o0%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1670288400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "The CC.Lincorperation 3",
       "event_name": "MELEE SINGLES FOX, FALCO, FALCON",
       "image": "https://images.start.gg/images/tournament/503172/image-19c320ec6737f17a03cc4fce4d06421c.png?ehk=zqyThORox1sLNMSSNaXZpxFH6cAZ5YXY5sdtD%2FP1tWI%3D&ehkOptimized=BYzGr8VEsdIrNkUCoN6IhWfrb7egUeu2qcL8Wqk4Ed0%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1670292000
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "MNN#35",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503462/image-6a31dd84c8473edfce8b840805fc29f2.png?ehk=iAx0AFV1YUchaXHiaUcJ480gzXsRixQEE23APpvT%2BgA%3D&ehkOptimized=joRxvhcBJhPAslwqjXiwI3LYKUDOAjVrwB2avqFNl6w%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670299200
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "Quest For Best Noob Summit 2",
       "event_name": "Main Event",
       "image": "https://images.start.gg/images/tournament/503570/image-7f2f248507832e8a51bbe17008a8e6c9.png?ehk=9WPt2uBkwFccEcrT6oCpwQ4L1k2dtkiuPGo6Sc0AEoY%3D&ehkOptimized=7HnMqThFcWEUGPU7h5xG1lPr%2BBzc7ooTIdHHD324QGY%3D",
-      "entrants": 0,
+      "entrants": 2,
       "start_time": 1670671800
     },
     {
@@ -142,7 +142,7 @@
       "tournament_name": "Quest For Best Noob Summit 2",
       "event_name": "Salty Suite Devin VS Waphles",
       "image": "https://images.start.gg/images/tournament/503570/image-7f2f248507832e8a51bbe17008a8e6c9.png?ehk=9WPt2uBkwFccEcrT6oCpwQ4L1k2dtkiuPGo6Sc0AEoY%3D&ehkOptimized=7HnMqThFcWEUGPU7h5xG1lPr%2BBzc7ooTIdHHD324QGY%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670675400
     },
     {
