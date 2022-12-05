@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670248280,
+  "fetched_at": 1670249718,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-41/event/melee-singles",
@@ -8,6 +8,14 @@
       "image": "https://images.start.gg/images/tournament/503202/image-a6e39007806832795918f713d687a873.png?ehk=xwf9CUZo0C8MSSCapBBq8t%2FACh9thXkbFyyCtRntzl8%3D&ehkOptimized=BA8kzGOBkMToiKHSqmviiTzWM0QkbgecmtwHivH6uEM%3D",
       "entrants": 3,
       "start_time": 1670266800
+    },
+    {
+      "slug": "tournament/super-smash-bong-75/event/melee-singles",
+      "tournament_name": "Super Smash Bong #75",
+      "event_name": "Melee singles",
+      "image": "https://images.start.gg/images/tournament/503399/image-0ca6ed3cc8943ff572098163d08b67e5.jpg?ehk=PIf8zMNI2cwAm09I%2BOCEogZtZiyyKEKy6q%2B9A9I33%2BA%3D&ehkOptimized=54vebdJRUw2%2BfJDRj5WDmxk8wej3Cc%2FpALe0u59wypo%3D",
+      "entrants": 1,
+      "start_time": 1670279400
     },
     {
       "slug": "tournament/slippi-sauce-77/event/melee-singles",
