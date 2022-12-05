@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670241076,
+  "fetched_at": 1670243543,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-41/event/melee-singles",
@@ -122,6 +122,14 @@
       "start_time": 1670544060
     },
     {
+      "slug": "tournament/bb-82/event/melee-singles",
+      "tournament_name": "BB-82",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/503371/image-3e0f682b844b38b9500a87ee5ed2104f.png?ehk=q368Om069ajgyHLRYy4NFVTs05BUojgCQhWFGEl87fQ%3D&ehkOptimized=VeRkYTZRCXMfyMDFGStbfp%2BsmQUV3CgQiktjxkbWn1c%3D",
+      "entrants": 2,
+      "start_time": 1670569200
+    },
+    {
       "slug": "tournament/doublecross/event/melee-doubles",
       "tournament_name": "DoubleCross",
       "event_name": "Melee Doubles",
@@ -190,7 +198,7 @@
       "tournament_name": "La Granja de Nabos de Mäjoras #21",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501569/image-7b9dc9a8276fb9655b4378c1631e4fc8.png?ehk=dSNzj1eqeMek9MLkT9ybEZEigw2Gk3o7PwjOlodHMgM%3D&ehkOptimized=fcRKX1SEP1E9vzFQBI6seoG4%2FfIhXojhZrhDDE%2Fme%2FU%3D",
-      "entrants": 26,
+      "entrants": 27,
       "start_time": 1670776200
     },
     {
