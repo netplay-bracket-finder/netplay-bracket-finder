@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670298681,
+  "fetched_at": 1670300371,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-8/event/melee-singles",
@@ -256,6 +256,14 @@
       "image": "https://images.start.gg/images/tournament/502746/image-d8e4c6ed74eb1079cdb4f2c5bbc4bc92.png?ehk=wixOU1SB6eqLkrKnem%2F%2Bm7lTBBAeogOiyJZiEGqlONk%3D&ehkOptimized=6%2FzSeF%2BhYAecYWM9o5YjYQ2vJLaTNIQ3y5sN4cT8sLM%3D",
       "entrants": 4,
       "start_time": 1671318000
+    },
+    {
+      "slug": "tournament/tech-skill-50-pot-bonus/event/melee-singles",
+      "tournament_name": "Tech Skill - $50 Pot Bonus!",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/503350/image-38de86a19c319c476b9911153c2f011a.png?ehk=jrY4LkZtfpi3vq%2Bjpm48Fwb2nPEXqcTA%2BDiQHQKF76w%3D&ehkOptimized=L4IDxUIhnzXszhsOodt3qdMSStdkleb7GfwhonPL9Ks%3D",
+      "entrants": 4,
+      "start_time": 1671321600
     },
     {
       "slug": "tournament/finnish-melee-league-2022-finals/event/fml2022-top-8-final-bracket",
