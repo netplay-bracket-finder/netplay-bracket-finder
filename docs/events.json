@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670367084,
+  "fetched_at": 1670368634,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 67,
+      "entrants": 73,
       "start_time": 1670356800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 23,
+      "entrants": 32,
       "start_time": 1670356800
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1670356800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670356800
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Sketchy Series 9: The HomeSketch",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503093/image-e5075a62d478672e547d051e4d07da3e.png?ehk=sj7nqlffn7bbJcLH9NWrxZSAYZ8rXcbut4PpCJfoCpQ%3D&ehkOptimized=F5PvfpTRP%2BDmXgzuy9rtavt6f%2Bbey2HW0ot9pn5spfg%3D",
-      "entrants": 19,
+      "entrants": 28,
       "start_time": 1670371200
     },
     {
@@ -78,15 +78,23 @@
       "tournament_name": "Dad's House: Online #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503678/image-8f2d896cbe05335fcefa26a49ce61e3b.png?ehk=whHcfSxFVPwBNTGOgpzLTdQALuEl9p1WuZAnf%2BJ8YKc%3D&ehkOptimized=F6A3wHnsnLi11ay1ViTh4aAWLmhHEXt49kxVs5htl1U%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1670373000
+    },
+    {
+      "slug": "tournament/cataquackdown-18-back-at-it-again-again/event/melee-singles",
+      "tournament_name": "Cataquackdown 18: Back at it again (again)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/503904/image-a2bec4fb2daed1b4268bf126cb78f121.png?ehk=AIgZY5v6ptWQDTx5LfWLz5WVKmJpyHv%2BdtRcG0RVnAo%3D&ehkOptimized=NH3vCqQnng5UPKSncoXHG46YH7HsHgWnIdqCKCjZBhE%3D",
+      "entrants": 2,
+      "start_time": 1670374800
     },
     {
       "slug": "tournament/level-one-melee-55-a-noob-only-tournament/event/main-melee-singles",
       "tournament_name": "Level One Melee #55 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/503828/image-8f19a9fdd05609f9dd321d6934ff3a07.png?ehk=Pb7Vjf8exV7wp71QiWqItFzdv3aVr0N5pVrD3ZSGDmk%3D&ehkOptimized=9X61NxBFwCZVF8r1HMkBE3gsNEOCNDWmQHT0hdpOYY0%3D",
-      "entrants": 13,
+      "entrants": 16,
       "start_time": 1670378400
     },
     {
@@ -94,7 +102,7 @@
       "tournament_name": "Level One Melee #55 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/503828/image-8f19a9fdd05609f9dd321d6934ff3a07.png?ehk=Pb7Vjf8exV7wp71QiWqItFzdv3aVr0N5pVrD3ZSGDmk%3D&ehkOptimized=9X61NxBFwCZVF8r1HMkBE3gsNEOCNDWmQHT0hdpOYY0%3D",
-      "entrants": 10,
+      "entrants": 14,
       "start_time": 1670378400
     },
     {
@@ -150,7 +158,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #15",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/502476/image-31d4f45da2a1d590e748e3c8a78b2c2f.png?ehk=bAWHeh%2Ff4wnk6t7WFj6HWKqwvuO6NgJg%2BghyiRpqZiw%3D&ehkOptimized=8tJM0jowSeNCaQtiD7tIiBp%2BqMuArOUYcIiWZ8iZX8I%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670544000
     },
     {
@@ -254,7 +262,7 @@
       "tournament_name": "After Dark Melee #7",
       "event_name": "After Dark Doubles",
       "image": "https://images.start.gg/images/tournament/503472/image-20dd1d6f4c428fb612f7cc888e31dd65.png?ehk=%2FdDK3DKIu%2BbxjwfhXHe2ilJYqR8l%2BaFDpZ9VvLMcRIM%3D&ehkOptimized=xG7ciWLMHCDHD%2FTxaR8NJAkpvEqLzDXEJv8SuTEW1pc%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670703300
     },
     {
@@ -382,7 +390,7 @@
       "tournament_name": "Deter-Melee Low Tier Reborn",
       "event_name": "Deter-Melee Low Tier Reborn",
       "image": "https://images.start.gg/images/tournament/482549/image-df29c1008b4492f36c3e4ac3613ab8f2.png?ehk=u5XdmF06c5YIhs9dISb7UNXBN76TjEu6ygQhMUbzod4%3D&ehkOptimized=j0qWbo1G6mxURU5xHyxRkPlw%2FuUn%2BOhkTc%2BFVGai%2FpU%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1671219000
     },
     {
