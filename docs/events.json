@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670345312,
+  "fetched_at": 1670346891,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-8/event/melee-singles",
@@ -62,7 +62,7 @@
       "tournament_name": "SBY Melee Netplay #140",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503768/image-0eb0fe5d9b46e7a5ac6ded5d4c5f437e.jpg?ehk=sX6tAJw1leKDyk3uKDVz1KevTNZSvgxjQxYhDaESB1Y%3D&ehkOptimized=6oXwHRqs2Z13EXiemjRI0f3nECnlRxBLKuBJ0PPjx3U%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670367600
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Sketchy Series 9: The HomeSketch",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503093/image-e5075a62d478672e547d051e4d07da3e.png?ehk=sj7nqlffn7bbJcLH9NWrxZSAYZ8rXcbut4PpCJfoCpQ%3D&ehkOptimized=F5PvfpTRP%2BDmXgzuy9rtavt6f%2Bbey2HW0ot9pn5spfg%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1670371200
     },
     {
@@ -122,17 +122,17 @@
       "start_time": 1670544000
     },
     {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-15/event/results-data",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #15",
-      "event_name": "Results Data",
-      "image": "https://images.start.gg/images/tournament/502476/image-31d4f45da2a1d590e748e3c8a78b2c2f.png?ehk=bAWHeh%2Ff4wnk6t7WFj6HWKqwvuO6NgJg%2BghyiRpqZiw%3D&ehkOptimized=8tJM0jowSeNCaQtiD7tIiBp%2BqMuArOUYcIiWZ8iZX8I%3D",
-      "entrants": 0,
-      "start_time": 1670544000
-    },
-    {
       "slug": "tournament/ssbm-randomizer-seed-of-the-week-15/event/ssbmr-singles",
       "tournament_name": "SSBM Randomizer: Seed of the Week #15",
       "event_name": "SSBMr Singles",
+      "image": "https://images.start.gg/images/tournament/502476/image-31d4f45da2a1d590e748e3c8a78b2c2f.png?ehk=bAWHeh%2Ff4wnk6t7WFj6HWKqwvuO6NgJg%2BghyiRpqZiw%3D&ehkOptimized=8tJM0jowSeNCaQtiD7tIiBp%2BqMuArOUYcIiWZ8iZX8I%3D",
+      "entrants": 1,
+      "start_time": 1670544000
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-seed-of-the-week-15/event/results-data",
+      "tournament_name": "SSBM Randomizer: Seed of the Week #15",
+      "event_name": "Results Data",
       "image": "https://images.start.gg/images/tournament/502476/image-31d4f45da2a1d590e748e3c8a78b2c2f.png?ehk=bAWHeh%2Ff4wnk6t7WFj6HWKqwvuO6NgJg%2BghyiRpqZiw%3D&ehkOptimized=8tJM0jowSeNCaQtiD7tIiBp%2BqMuArOUYcIiWZ8iZX8I%3D",
       "entrants": 0,
       "start_time": 1670544000
