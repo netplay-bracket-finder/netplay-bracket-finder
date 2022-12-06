@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670350839,
+  "fetched_at": 1670352036,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-8/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #8",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500954/image-53eaff7603eb1cb19fc2b5e7714867ee.png?ehk=5tVlDFhPEI%2FoyEiDsPeiYLphlQY1a9nUzUyQUw3gu%2BU%3D&ehkOptimized=38rWGaekJV%2F0SX3nUfqYEVlnhislSHXMkqYi5%2BRn2Ek%3D",
-      "entrants": 6,
+      "entrants": 13,
       "start_time": 1670353200
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "SBY Melee Netplay #140",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503768/image-0eb0fe5d9b46e7a5ac6ded5d4c5f437e.jpg?ehk=sX6tAJw1leKDyk3uKDVz1KevTNZSvgxjQxYhDaESB1Y%3D&ehkOptimized=6oXwHRqs2Z13EXiemjRI0f3nECnlRxBLKuBJ0PPjx3U%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670367600
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Sketchy Series 9: The HomeSketch",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503093/image-e5075a62d478672e547d051e4d07da3e.png?ehk=sj7nqlffn7bbJcLH9NWrxZSAYZ8rXcbut4PpCJfoCpQ%3D&ehkOptimized=F5PvfpTRP%2BDmXgzuy9rtavt6f%2Bbey2HW0ot9pn5spfg%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1670371200
     },
     {
