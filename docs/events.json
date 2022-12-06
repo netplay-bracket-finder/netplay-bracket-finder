@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670302331,
+  "fetched_at": 1670303683,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-8/event/melee-singles",
@@ -184,6 +184,22 @@
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
       "entrants": 11,
       "start_time": 1670803200
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-11/event/wc-doubles",
+      "tournament_name": "Coast to Coast Doubles # 11",
+      "event_name": "WC Doubles",
+      "image": "https://images.start.gg/images/tournament/503696/image-c6eb1f8fbc4719bf0dced3b6fcdf031a.png?ehk=mf38gs3w6RWtmkkbmcNFBCe%2FihRJNKGezwbhzLLI4%2Bg%3D&ehkOptimized=B2lqU0JYMCKZKYJ4N8zHJbV814oySC1EbAsdnoTOVRE%3D",
+      "entrants": 1,
+      "start_time": 1670889600
+    },
+    {
+      "slug": "tournament/coast-to-coast-doubles-11/event/ec-doubles",
+      "tournament_name": "Coast to Coast Doubles # 11",
+      "event_name": "EC Doubles",
+      "image": "https://images.start.gg/images/tournament/503696/image-c6eb1f8fbc4719bf0dced3b6fcdf031a.png?ehk=mf38gs3w6RWtmkkbmcNFBCe%2FihRJNKGezwbhzLLI4%2Bg%3D&ehkOptimized=B2lqU0JYMCKZKYJ4N8zHJbV814oySC1EbAsdnoTOVRE%3D",
+      "entrants": 0,
+      "start_time": 1670889600
     },
     {
       "slug": "tournament/casino-royale-4-ssbm-online-weekly/event/casino",
