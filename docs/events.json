@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670366256,
+  "fetched_at": 1670367084,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 64,
+      "entrants": 67,
       "start_time": 1670356800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1670356800
     },
     {
@@ -66,19 +66,11 @@
       "start_time": 1670367600
     },
     {
-      "slug": "tournament/sby-melee-netplay-140/event/melee-singles",
-      "tournament_name": "SBY Melee Netplay #140",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503768/image-0eb0fe5d9b46e7a5ac6ded5d4c5f437e.jpg?ehk=sX6tAJw1leKDyk3uKDVz1KevTNZSvgxjQxYhDaESB1Y%3D&ehkOptimized=6oXwHRqs2Z13EXiemjRI0f3nECnlRxBLKuBJ0PPjx3U%3D",
-      "entrants": 4,
-      "start_time": 1670367600
-    },
-    {
       "slug": "tournament/sketchy-series-9-the-homesketch/event/melee-singles",
       "tournament_name": "Sketchy Series 9: The HomeSketch",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503093/image-e5075a62d478672e547d051e4d07da3e.png?ehk=sj7nqlffn7bbJcLH9NWrxZSAYZ8rXcbut4PpCJfoCpQ%3D&ehkOptimized=F5PvfpTRP%2BDmXgzuy9rtavt6f%2Bbey2HW0ot9pn5spfg%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1670371200
     },
     {
@@ -110,7 +102,7 @@
       "tournament_name": "Epic Wednesday Doubles! #1",
       "event_name": "Melee Doubles",
       "image": "",
-      "entrants": null,
+      "entrants": 0,
       "start_time": 1670396400
     },
     {
