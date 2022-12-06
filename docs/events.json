@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670332238,
+  "fetched_at": 1670333608,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-8/event/melee-singles",
@@ -62,7 +62,7 @@
       "tournament_name": "Sketchy Series 9: The HomeSketch",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503093/image-e5075a62d478672e547d051e4d07da3e.png?ehk=sj7nqlffn7bbJcLH9NWrxZSAYZ8rXcbut4PpCJfoCpQ%3D&ehkOptimized=F5PvfpTRP%2BDmXgzuy9rtavt6f%2Bbey2HW0ot9pn5spfg%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670371200
     },
     {
@@ -248,6 +248,14 @@
       "image": "https://images.start.gg/images/tournament/503696/image-c6eb1f8fbc4719bf0dced3b6fcdf031a.png?ehk=mf38gs3w6RWtmkkbmcNFBCe%2FihRJNKGezwbhzLLI4%2Bg%3D&ehkOptimized=B2lqU0JYMCKZKYJ4N8zHJbV814oySC1EbAsdnoTOVRE%3D",
       "entrants": 0,
       "start_time": 1670889600
+    },
+    {
+      "slug": "tournament/have-you-dreamed-this-cardboard-bear-7/event/melee-singles",
+      "tournament_name": "Have You Dreamed This Cardboard Bear? #7",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/503739/image-c31699b4962f2d525909c6bb2c53587c.jpg?ehk=u7p%2BteiQmfA0t3A5SIGsYa73vMnxXLW7TuzGsqmG%2B3s%3D&ehkOptimized=myVUcrSo5Bnk0%2Fxfb1xxXO%2BHyPBvQhbIxQLKy6McisI%3D",
+      "entrants": 1,
+      "start_time": 1670894100
     },
     {
       "slug": "tournament/casino-royale-4-ssbm-online-weekly/event/casino",
