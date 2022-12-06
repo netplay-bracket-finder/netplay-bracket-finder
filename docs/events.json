@@ -1,28 +1,12 @@
 {
-  "fetched_at": 1670293952,
+  "fetched_at": 1670295572,
   "data": [
-    {
-      "slug": "tournament/coast-to-coast-doubles-10/event/ec-doubles",
-      "tournament_name": "Coast to Coast Doubles # 10",
-      "event_name": "EC Doubles",
-      "image": "https://images.start.gg/images/tournament/501800/image-9c08454f4cbc58387961b781ec3af78a.png?ehk=EGGkK%2BZnMUgYnLpxoFeYGJuG91102rXw1%2F3cKnno7TA%3D&ehkOptimized=WIjxILqPxBjc035tnXgf3q7tascJK8LzI5J92bvta28%3D",
-      "entrants": 11,
-      "start_time": 1670284800
-    },
-    {
-      "slug": "tournament/coast-to-coast-doubles-10/event/wc-doubles",
-      "tournament_name": "Coast to Coast Doubles # 10",
-      "event_name": "WC Doubles",
-      "image": "https://images.start.gg/images/tournament/501800/image-9c08454f4cbc58387961b781ec3af78a.png?ehk=EGGkK%2BZnMUgYnLpxoFeYGJuG91102rXw1%2F3cKnno7TA%3D&ehkOptimized=WIjxILqPxBjc035tnXgf3q7tascJK8LzI5J92bvta28%3D",
-      "entrants": 6,
-      "start_time": 1670284800
-    },
     {
       "slug": "tournament/mnn-35/event/melee-singles",
       "tournament_name": "MNN#35",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503462/image-6a31dd84c8473edfce8b840805fc29f2.png?ehk=iAx0AFV1YUchaXHiaUcJ480gzXsRixQEE23APpvT%2BgA%3D&ehkOptimized=joRxvhcBJhPAslwqjXiwI3LYKUDOAjVrwB2avqFNl6w%3D",
-      "entrants": 15,
+      "entrants": 18,
       "start_time": 1670299200
     },
     {
@@ -30,7 +14,7 @@
       "tournament_name": "Tuesday Night Fever #8",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500954/image-53eaff7603eb1cb19fc2b5e7714867ee.png?ehk=5tVlDFhPEI%2FoyEiDsPeiYLphlQY1a9nUzUyQUw3gu%2BU%3D&ehkOptimized=38rWGaekJV%2F0SX3nUfqYEVlnhislSHXMkqYi5%2BRn2Ek%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670353200
     },
     {
