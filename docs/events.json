@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670354656,
+  "fetched_at": 1670355386,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/ladder-melee-west-coast",
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1670356800
     },
     {
@@ -70,23 +70,23 @@
       "tournament_name": "Dad's House: Online #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503678/image-8f2d896cbe05335fcefa26a49ce61e3b.png?ehk=whHcfSxFVPwBNTGOgpzLTdQALuEl9p1WuZAnf%2BJ8YKc%3D&ehkOptimized=F6A3wHnsnLi11ay1ViTh4aAWLmhHEXt49kxVs5htl1U%3D",
-      "entrants": 2,
-      "start_time": 1670373000
-    },
-    {
-      "slug": "tournament/level-one-melee-55-a-noob-only-tournament/event/amateur-melee-singles",
-      "tournament_name": "Level One Melee #55 - a noob-only tournament",
-      "event_name": "Amateur Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503828/image-8f19a9fdd05609f9dd321d6934ff3a07.png?ehk=Pb7Vjf8exV7wp71QiWqItFzdv3aVr0N5pVrD3ZSGDmk%3D&ehkOptimized=9X61NxBFwCZVF8r1HMkBE3gsNEOCNDWmQHT0hdpOYY0%3D",
       "entrants": 3,
-      "start_time": 1670378400
+      "start_time": 1670373000
     },
     {
       "slug": "tournament/level-one-melee-55-a-noob-only-tournament/event/main-melee-singles",
       "tournament_name": "Level One Melee #55 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/503828/image-8f19a9fdd05609f9dd321d6934ff3a07.png?ehk=Pb7Vjf8exV7wp71QiWqItFzdv3aVr0N5pVrD3ZSGDmk%3D&ehkOptimized=9X61NxBFwCZVF8r1HMkBE3gsNEOCNDWmQHT0hdpOYY0%3D",
-      "entrants": 3,
+      "entrants": 5,
+      "start_time": 1670378400
+    },
+    {
+      "slug": "tournament/level-one-melee-55-a-noob-only-tournament/event/amateur-melee-singles",
+      "tournament_name": "Level One Melee #55 - a noob-only tournament",
+      "event_name": "Amateur Melee Singles",
+      "image": "https://images.start.gg/images/tournament/503828/image-8f19a9fdd05609f9dd321d6934ff3a07.png?ehk=Pb7Vjf8exV7wp71QiWqItFzdv3aVr0N5pVrD3ZSGDmk%3D&ehkOptimized=9X61NxBFwCZVF8r1HMkBE3gsNEOCNDWmQHT0hdpOYY0%3D",
+      "entrants": 4,
       "start_time": 1670378400
     },
     {
@@ -166,7 +166,7 @@
       "tournament_name": "SSBMr - EU Seed of the Week #1",
       "event_name": "SSBMr EU Singles",
       "image": "https://images.start.gg/images/tournament/503585/image-3386eef8db7f1d4b07fe44cbd4d3205b.png?ehk=wDtP1v%2B%2FhP6aNcJSNj8ZL0mMFvF4mCCoZUn4vtEz2yM%3D&ehkOptimized=TxRYWgG9jqLKzDzmjXwSqe3K8n0OCX6ILzj1ls5wmTQ%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670611800
     },
     {
