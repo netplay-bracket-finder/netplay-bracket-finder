@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670454948,
+  "fetched_at": 1670456228,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-48/event/melee-singles",
       "tournament_name": "Waddle Wednesday 48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503075/image-ed19e3877af6c552ab29f65715a48468.png?ehk=KObfeqonw3acrw6OkZA%2FVl8c5Ptcl%2BJmyZ5QN%2F%2FVmhY%3D&ehkOptimized=HQul%2FB5LSEpBYbp3bwtOgrZxtc7%2BB7%2B%2BQZmN65NPp3Y%3D",
-      "entrants": 60,
+      "entrants": 63,
       "start_time": 1670461200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Silver Slippi League #34",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/504044/image-48ae9eea6c3465cd4586582fdb8fb5ce.png?ehk=CHK6pGjVTgbqrzFHloXDZ1%2FIa3cqZQNR3OcoSJK0kZ8%3D&ehkOptimized=66JuusXNbHkjkKCa4Jw27vyiZpm4XfOMMyb7Y9CaZk0%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1670464800
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Only Noobs 96",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502654/image-c80325701ad14a06d100e5c3baf7eff1.jpg?ehk=lgYzYbMcEEZU2NMG19C3uMEmevQ7C7ICIC%2BH927qKDY%3D&ehkOptimized=ZrYoyVQDxu%2FTLKwUZlL%2Fs4wB8LH%2FqlCRNj72q3e%2Fd%2BA%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1670544000
     },
     {
