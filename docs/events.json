@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670449873,
+  "fetched_at": 1670451364,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-48/event/melee-singles",
       "tournament_name": "Waddle Wednesday 48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503075/image-ed19e3877af6c552ab29f65715a48468.png?ehk=KObfeqonw3acrw6OkZA%2FVl8c5Ptcl%2BJmyZ5QN%2F%2FVmhY%3D&ehkOptimized=HQul%2FB5LSEpBYbp3bwtOgrZxtc7%2BB7%2B%2BQZmN65NPp3Y%3D",
-      "entrants": 40,
+      "entrants": 47,
       "start_time": 1670461200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Silver Slippi League #34",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/504044/image-48ae9eea6c3465cd4586582fdb8fb5ce.png?ehk=CHK6pGjVTgbqrzFHloXDZ1%2FIa3cqZQNR3OcoSJK0kZ8%3D&ehkOptimized=66JuusXNbHkjkKCa4Jw27vyiZpm4XfOMMyb7Y9CaZk0%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1670464800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Full Moon Melee 12",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503073/image-6f140c8da4416db596e9bfa05d8b686a.png?ehk=QeNQFQgWUxKq4ARFpl9Ympy0qDm5XSWgEAJOLv8r2Ew%3D&ehkOptimized=VRYl7pI74AFpC0ir%2B%2BIvfNYAjwBQp1%2F7IBtZ3QStCY0%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670472000
     },
     {
@@ -302,7 +302,7 @@
       "tournament_name": "Bye Bye, OG Kid!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501759/image-a09dde37b601e797f301dbe0cd397401.png?ehk=mC5V2jWHiP%2B8eioKyums76p6bg2YdeP6q6SCLlicvGE%3D&ehkOptimized=%2Bl0MAuOcVzS5E1m6FG38xyQe1%2FPl9gk2PCJ3lM2OI4Q%3D",
-      "entrants": 23,
+      "entrants": 24,
       "start_time": 1671316200
     },
     {
