@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670392288,
+  "fetched_at": 1670394100,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/ladder-melee-east-coast",
@@ -16,14 +16,6 @@
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
       "entrants": 68,
       "start_time": 1670356800
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 26,
-      "start_time": 1670383800
     },
     {
       "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/main-bracket-wc-melee-singles",
@@ -48,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
       "entrants": 20,
       "start_time": 1670373000
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
+      "entrants": 26,
+      "start_time": 1670383800
     },
     {
       "slug": "tournament/epic-wednesday-doubles-1/event/melee-doubles",
@@ -94,7 +94,7 @@
       "tournament_name": "Only Noobs 96",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502654/image-c80325701ad14a06d100e5c3baf7eff1.jpg?ehk=lgYzYbMcEEZU2NMG19C3uMEmevQ7C7ICIC%2BH927qKDY%3D&ehkOptimized=ZrYoyVQDxu%2FTLKwUZlL%2Fs4wB8LH%2FqlCRNj72q3e%2Fd%2BA%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1670544000
     },
     {
@@ -366,7 +366,7 @@
       "tournament_name": "Tech Skill - $50 Pot Bonus!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503350/image-38de86a19c319c476b9911153c2f011a.png?ehk=jrY4LkZtfpi3vq%2Bjpm48Fwb2nPEXqcTA%2BDiQHQKF76w%3D&ehkOptimized=L4IDxUIhnzXszhsOodt3qdMSStdkleb7GfwhonPL9Ks%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1671321600
     },
     {
@@ -382,7 +382,7 @@
       "tournament_name": "Level Two Melee Playoff (LOM Season 5)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497701/image-0fe0c43ccd269e31aff5d2d7a880c288.png?ehk=dnLsLnlUo3jXl5nRID3tmELgn4nw7zQu6L1F2ernwVE%3D&ehkOptimized=QQIzl0BIw%2BpM35kgoLK3S%2Fpiu%2F6EBfV%2B6l2pkmRE2lA%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1671390000
     },
     {
