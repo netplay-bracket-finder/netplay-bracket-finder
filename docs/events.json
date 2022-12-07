@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670370676,
+  "fetched_at": 1670376218,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/ladder-melee-east-coast",
@@ -14,23 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 43,
-      "start_time": 1670356800
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/side-event-ec-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
-      "event_name": "Side Event: EC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 19,
-      "start_time": 1670356800
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/side-event-wc-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
-      "event_name": "Side Event: WC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 15,
+      "entrants": 61,
       "start_time": 1670356800
     },
     {
@@ -38,7 +22,23 @@
       "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 4,
+      "entrants": 25,
+      "start_time": 1670373000
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/side-event-ec-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
+      "event_name": "Side Event: EC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
+      "entrants": 20,
+      "start_time": 1670373000
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/side-event-wc-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
+      "event_name": "Side Event: WC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
+      "entrants": 19,
       "start_time": 1670356800
     },
     {
@@ -46,47 +46,15 @@
       "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
       "event_name": "Main Bracket: WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 0,
+      "entrants": 2,
       "start_time": 1670356800
-    },
-    {
-      "slug": "tournament/man-on-a-line-4/event/melee-singles",
-      "tournament_name": "Man on a Line #4",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503853/image-ec0b2f8d2a6a9dfd25943e1a0d7e41b8.png?ehk=I%2B7mj6DDgTZYgsmSzpgmPPKAiydmujYxM62hVuZE%2F8U%3D&ehkOptimized=PLbjR5YYu3SIyjfkzoRBi8JRG3BafZI0bn%2FcypEdE7A%3D",
-      "entrants": 3,
-      "start_time": 1670367600
-    },
-    {
-      "slug": "tournament/man-on-a-line-4/event/melee-doubles",
-      "tournament_name": "Man on a Line #4",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/503853/image-ec0b2f8d2a6a9dfd25943e1a0d7e41b8.png?ehk=I%2B7mj6DDgTZYgsmSzpgmPPKAiydmujYxM62hVuZE%2F8U%3D&ehkOptimized=PLbjR5YYu3SIyjfkzoRBi8JRG3BafZI0bn%2FcypEdE7A%3D",
-      "entrants": 0,
-      "start_time": 1670367600
-    },
-    {
-      "slug": "tournament/dad-s-house-online-4/event/melee-singles",
-      "tournament_name": "Dad's House: Online #4",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503678/image-8f2d896cbe05335fcefa26a49ce61e3b.png?ehk=whHcfSxFVPwBNTGOgpzLTdQALuEl9p1WuZAnf%2BJ8YKc%3D&ehkOptimized=F6A3wHnsnLi11ay1ViTh4aAWLmhHEXt49kxVs5htl1U%3D",
-      "entrants": 12,
-      "start_time": 1670373000
-    },
-    {
-      "slug": "tournament/cataquackdown-18-back-at-it-again-again/event/melee-singles",
-      "tournament_name": "Cataquackdown 18: Back at it again (again)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503904/image-a2bec4fb2daed1b4268bf126cb78f121.png?ehk=AIgZY5v6ptWQDTx5LfWLz5WVKmJpyHv%2BdtRcG0RVnAo%3D&ehkOptimized=NH3vCqQnng5UPKSncoXHG46YH7HsHgWnIdqCKCjZBhE%3D",
-      "entrants": 3,
-      "start_time": 1670374800
     },
     {
       "slug": "tournament/level-one-melee-55-a-noob-only-tournament/event/main-melee-singles",
       "tournament_name": "Level One Melee #55 - a noob-only tournament",
       "event_name": "Main Melee Singles",
       "image": "https://images.start.gg/images/tournament/503828/image-8f19a9fdd05609f9dd321d6934ff3a07.png?ehk=Pb7Vjf8exV7wp71QiWqItFzdv3aVr0N5pVrD3ZSGDmk%3D&ehkOptimized=9X61NxBFwCZVF8r1HMkBE3gsNEOCNDWmQHT0hdpOYY0%3D",
-      "entrants": 17,
+      "entrants": 28,
       "start_time": 1670378400
     },
     {
@@ -94,7 +62,7 @@
       "tournament_name": "Level One Melee #55 - a noob-only tournament",
       "event_name": "Amateur Melee Singles",
       "image": "https://images.start.gg/images/tournament/503828/image-8f19a9fdd05609f9dd321d6934ff3a07.png?ehk=Pb7Vjf8exV7wp71QiWqItFzdv3aVr0N5pVrD3ZSGDmk%3D&ehkOptimized=9X61NxBFwCZVF8r1HMkBE3gsNEOCNDWmQHT0hdpOYY0%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1670378400
     },
     {
@@ -110,7 +78,7 @@
       "tournament_name": "Waddle Wednesday 48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503075/image-ed19e3877af6c552ab29f65715a48468.png?ehk=KObfeqonw3acrw6OkZA%2FVl8c5Ptcl%2BJmyZ5QN%2F%2FVmhY%3D&ehkOptimized=HQul%2FB5LSEpBYbp3bwtOgrZxtc7%2BB7%2B%2BQZmN65NPp3Y%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670461200
     },
     {
@@ -286,7 +254,7 @@
       "tournament_name": "La Granja de Nabos de Mäjoras #21",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501569/image-7b9dc9a8276fb9655b4378c1631e4fc8.png?ehk=dSNzj1eqeMek9MLkT9ybEZEigw2Gk3o7PwjOlodHMgM%3D&ehkOptimized=fcRKX1SEP1E9vzFQBI6seoG4%2FfIhXojhZrhDDE%2Fme%2FU%3D",
-      "entrants": 35,
+      "entrants": 36,
       "start_time": 1670776200
     },
     {
