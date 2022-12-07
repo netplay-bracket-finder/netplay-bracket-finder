@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670433312,
+  "fetched_at": 1670434183,
   "data": [
     {
       "slug": "tournament/we-hate-the-french-1/event/ssbm-singles",
       "tournament_name": "We Hate The French #1",
       "event_name": "SSBM Singles",
       "image": "https://images.start.gg/images/tournament/504046/image-8b83d35c694717998bae620f25e8f2d2.jpg?ehk=sRs3tbbUkIWugia7ESdXUD3zLrlrkEMxqlMBM9EB%2Bmk%3D&ehkOptimized=Jy81F4soWBJGVK8RRgj4rVhgQk%2FBbXP2gb%2BcI0%2Br8Xg%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670446800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503075/image-ed19e3877af6c552ab29f65715a48468.png?ehk=KObfeqonw3acrw6OkZA%2FVl8c5Ptcl%2BJmyZ5QN%2F%2FVmhY%3D&ehkOptimized=HQul%2FB5LSEpBYbp3bwtOgrZxtc7%2BB7%2B%2BQZmN65NPp3Y%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1670461200
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Only Noobs 96",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502654/image-c80325701ad14a06d100e5c3baf7eff1.jpg?ehk=lgYzYbMcEEZU2NMG19C3uMEmevQ7C7ICIC%2BH927qKDY%3D&ehkOptimized=ZrYoyVQDxu%2FTLKwUZlL%2Fs4wB8LH%2FqlCRNj72q3e%2Fd%2BA%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1670544000
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "SSBMr - EU Seed of the Week #1",
       "event_name": "SSBMr EU Singles",
       "image": "https://images.start.gg/images/tournament/503585/image-3386eef8db7f1d4b07fe44cbd4d3205b.png?ehk=wDtP1v%2B%2FhP6aNcJSNj8ZL0mMFvF4mCCoZUn4vtEz2yM%3D&ehkOptimized=TxRYWgG9jqLKzDzmjXwSqe3K8n0OCX6ILzj1ls5wmTQ%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1670611800
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "Quest For Best Noob Summit 2",
       "event_name": "Main Event",
       "image": "https://images.start.gg/images/tournament/503570/image-7f2f248507832e8a51bbe17008a8e6c9.png?ehk=9WPt2uBkwFccEcrT6oCpwQ4L1k2dtkiuPGo6Sc0AEoY%3D&ehkOptimized=7HnMqThFcWEUGPU7h5xG1lPr%2BBzc7ooTIdHHD324QGY%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1670671800
     },
     {
