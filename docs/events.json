@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670426216,
+  "fetched_at": 1670427512,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-48/event/melee-singles",
@@ -8,6 +8,14 @@
       "image": "https://images.start.gg/images/tournament/503075/image-ed19e3877af6c552ab29f65715a48468.png?ehk=KObfeqonw3acrw6OkZA%2FVl8c5Ptcl%2BJmyZ5QN%2F%2FVmhY%3D&ehkOptimized=HQul%2FB5LSEpBYbp3bwtOgrZxtc7%2BB7%2B%2BQZmN65NPp3Y%3D",
       "entrants": 8,
       "start_time": 1670461200
+    },
+    {
+      "slug": "tournament/silver-slippi-league-34/event/melee-ranked-ladder",
+      "tournament_name": "Silver Slippi League #34",
+      "event_name": "Melee Ranked Ladder",
+      "image": "https://images.start.gg/images/tournament/504044/image-48ae9eea6c3465cd4586582fdb8fb5ce.png?ehk=CHK6pGjVTgbqrzFHloXDZ1%2FIa3cqZQNR3OcoSJK0kZ8%3D&ehkOptimized=66JuusXNbHkjkKCa4Jw27vyiZpm4XfOMMyb7Y9CaZk0%3D",
+      "entrants": 0,
+      "start_time": 1670464800
     },
     {
       "slug": "tournament/full-moon-melee-12/event/melee-singles",
