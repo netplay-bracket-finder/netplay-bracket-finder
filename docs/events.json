@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670446282,
+  "fetched_at": 1670447693,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-48/event/melee-singles",
       "tournament_name": "Waddle Wednesday 48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503075/image-ed19e3877af6c552ab29f65715a48468.png?ehk=KObfeqonw3acrw6OkZA%2FVl8c5Ptcl%2BJmyZ5QN%2F%2FVmhY%3D&ehkOptimized=HQul%2FB5LSEpBYbp3bwtOgrZxtc7%2BB7%2B%2BQZmN65NPp3Y%3D",
-      "entrants": 32,
+      "entrants": 37,
       "start_time": 1670461200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Full Moon Melee 12",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503073/image-6f140c8da4416db596e9bfa05d8b686a.png?ehk=QeNQFQgWUxKq4ARFpl9Ympy0qDm5XSWgEAJOLv8r2Ew%3D&ehkOptimized=VRYl7pI74AFpC0ir%2B%2BIvfNYAjwBQp1%2F7IBtZ3QStCY0%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670472000
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "BB-82",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503371/image-3e0f682b844b38b9500a87ee5ed2104f.png?ehk=q368Om069ajgyHLRYy4NFVTs05BUojgCQhWFGEl87fQ%3D&ehkOptimized=VeRkYTZRCXMfyMDFGStbfp%2BsmQUV3CgQiktjxkbWn1c%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1670569200
     },
     {
