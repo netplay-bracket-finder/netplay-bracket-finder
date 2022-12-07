@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670380806,
+  "fetched_at": 1670383949,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/ladder-melee-east-coast",
@@ -30,16 +30,16 @@
       "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 22,
-      "start_time": 1670356800
+      "entrants": 26,
+      "start_time": 1670383800
     },
     {
       "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/main-bracket-wc-melee-singles",
       "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
       "event_name": "Main Bracket: WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 2,
-      "start_time": 1670356800
+      "entrants": 20,
+      "start_time": 1670383800
     },
     {
       "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/side-event-ec-melee-redemption-bracket",
@@ -62,7 +62,7 @@
       "tournament_name": "Waddle Wednesday 48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503075/image-ed19e3877af6c552ab29f65715a48468.png?ehk=KObfeqonw3acrw6OkZA%2FVl8c5Ptcl%2BJmyZ5QN%2F%2FVmhY%3D&ehkOptimized=HQul%2FB5LSEpBYbp3bwtOgrZxtc7%2BB7%2B%2BQZmN65NPp3Y%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1670461200
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #15",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/502476/image-31d4f45da2a1d590e748e3c8a78b2c2f.png?ehk=bAWHeh%2Ff4wnk6t7WFj6HWKqwvuO6NgJg%2BghyiRpqZiw%3D&ehkOptimized=8tJM0jowSeNCaQtiD7tIiBp%2BqMuArOUYcIiWZ8iZX8I%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670544000
     },
     {
