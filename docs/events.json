@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1670445380,
+  "fetched_at": 1670446282,
   "data": [
-    {
-      "slug": "tournament/we-hate-the-french-1/event/ssbm-singles",
-      "tournament_name": "We Hate The French #1",
-      "event_name": "SSBM Singles",
-      "image": "https://images.start.gg/images/tournament/504046/image-8b83d35c694717998bae620f25e8f2d2.jpg?ehk=sRs3tbbUkIWugia7ESdXUD3zLrlrkEMxqlMBM9EB%2Bmk%3D&ehkOptimized=Jy81F4soWBJGVK8RRgj4rVhgQk%2FBbXP2gb%2BcI0%2Br8Xg%3D",
-      "entrants": 8,
-      "start_time": 1670446800
-    },
     {
       "slug": "tournament/waddle-wednesday-48/event/melee-singles",
       "tournament_name": "Waddle Wednesday 48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503075/image-ed19e3877af6c552ab29f65715a48468.png?ehk=KObfeqonw3acrw6OkZA%2FVl8c5Ptcl%2BJmyZ5QN%2F%2FVmhY%3D&ehkOptimized=HQul%2FB5LSEpBYbp3bwtOgrZxtc7%2BB7%2B%2BQZmN65NPp3Y%3D",
-      "entrants": 31,
+      "entrants": 32,
       "start_time": 1670461200
     },
     {
@@ -22,7 +14,7 @@
       "tournament_name": "Silver Slippi League #34",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/504044/image-48ae9eea6c3465cd4586582fdb8fb5ce.png?ehk=CHK6pGjVTgbqrzFHloXDZ1%2FIa3cqZQNR3OcoSJK0kZ8%3D&ehkOptimized=66JuusXNbHkjkKCa4Jw27vyiZpm4XfOMMyb7Y9CaZk0%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1670464800
     },
     {
@@ -94,7 +86,7 @@
       "tournament_name": "SSBMr - EU Seed of the Week #1",
       "event_name": "SSBMr EU Singles",
       "image": "https://images.start.gg/images/tournament/503585/image-3386eef8db7f1d4b07fe44cbd4d3205b.png?ehk=wDtP1v%2B%2FhP6aNcJSNj8ZL0mMFvF4mCCoZUn4vtEz2yM%3D&ehkOptimized=TxRYWgG9jqLKzDzmjXwSqe3K8n0OCX6ILzj1ls5wmTQ%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1670611800
     },
     {
