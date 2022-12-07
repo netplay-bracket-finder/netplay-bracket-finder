@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670376218,
+  "fetched_at": 1670380806,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/ladder-melee-east-coast",
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 61,
+      "entrants": 68,
       "start_time": 1670356800
     },
     {
@@ -26,19 +26,11 @@
       "start_time": 1670373000
     },
     {
-      "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/side-event-ec-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
-      "event_name": "Side Event: EC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 20,
-      "start_time": 1670373000
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/side-event-wc-melee-redemption-bracket",
       "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 19,
+      "entrants": 22,
       "start_time": 1670356800
     },
     {
@@ -50,20 +42,12 @@
       "start_time": 1670356800
     },
     {
-      "slug": "tournament/level-one-melee-55-a-noob-only-tournament/event/main-melee-singles",
-      "tournament_name": "Level One Melee #55 - a noob-only tournament",
-      "event_name": "Main Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503828/image-8f19a9fdd05609f9dd321d6934ff3a07.png?ehk=Pb7Vjf8exV7wp71QiWqItFzdv3aVr0N5pVrD3ZSGDmk%3D&ehkOptimized=9X61NxBFwCZVF8r1HMkBE3gsNEOCNDWmQHT0hdpOYY0%3D",
-      "entrants": 28,
-      "start_time": 1670378400
-    },
-    {
-      "slug": "tournament/level-one-melee-55-a-noob-only-tournament/event/amateur-melee-singles",
-      "tournament_name": "Level One Melee #55 - a noob-only tournament",
-      "event_name": "Amateur Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503828/image-8f19a9fdd05609f9dd321d6934ff3a07.png?ehk=Pb7Vjf8exV7wp71QiWqItFzdv3aVr0N5pVrD3ZSGDmk%3D&ehkOptimized=9X61NxBFwCZVF8r1HMkBE3gsNEOCNDWmQHT0hdpOYY0%3D",
-      "entrants": 17,
-      "start_time": 1670378400
+      "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/side-event-ec-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
+      "event_name": "Side Event: EC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
+      "entrants": 20,
+      "start_time": 1670373000
     },
     {
       "slug": "tournament/epic-wednesday-doubles-1/event/melee-doubles",
@@ -78,7 +62,7 @@
       "tournament_name": "Waddle Wednesday 48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503075/image-ed19e3877af6c552ab29f65715a48468.png?ehk=KObfeqonw3acrw6OkZA%2FVl8c5Ptcl%2BJmyZ5QN%2F%2FVmhY%3D&ehkOptimized=HQul%2FB5LSEpBYbp3bwtOgrZxtc7%2BB7%2B%2BQZmN65NPp3Y%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1670461200
     },
     {
@@ -110,7 +94,7 @@
       "tournament_name": "Only Noobs 96",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502654/image-c80325701ad14a06d100e5c3baf7eff1.jpg?ehk=lgYzYbMcEEZU2NMG19C3uMEmevQ7C7ICIC%2BH927qKDY%3D&ehkOptimized=ZrYoyVQDxu%2FTLKwUZlL%2Fs4wB8LH%2FqlCRNj72q3e%2Fd%2BA%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1670544000
     },
     {
