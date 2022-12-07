@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670394100,
+  "fetched_at": 1670395321,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/ladder-melee-east-coast",
@@ -16,14 +16,6 @@
       "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
       "entrants": 68,
       "start_time": 1670356800
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/main-bracket-wc-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
-      "event_name": "Main Bracket: WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
-      "entrants": 20,
-      "start_time": 1670383800
     },
     {
       "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/main-bracket-ec-melee-singles",
@@ -50,12 +42,12 @@
       "start_time": 1670383800
     },
     {
-      "slug": "tournament/epic-wednesday-doubles-1/event/melee-doubles",
-      "tournament_name": "Epic Wednesday Doubles! #1",
-      "event_name": "Melee Doubles",
-      "image": "",
-      "entrants": 0,
-      "start_time": 1670396400
+      "slug": "tournament/training-mode-tuesdays-106-lite-edition/event/main-bracket-wc-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #106 - Lite Edition",
+      "event_name": "Main Bracket: WC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/503710/image-55714c5e750d9e9cde7c37e046130a72.png?ehk=6ualB4nrETEUZ1QB9LL53%2FNwz4Pf7pgPyLnE0P8LYcs%3D&ehkOptimized=4moF%2Fur06b4Slz8V3XzEenzQkWMV%2F63HU2XMr33vOeU%3D",
+      "entrants": 20,
+      "start_time": 1670383800
     },
     {
       "slug": "tournament/waddle-wednesday-48/event/melee-singles",
@@ -118,7 +110,7 @@
       "tournament_name": "The Salt Mine #51!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/503238/image-2bdf3f27e00d30afd76fca63dbd49618.png?ehk=aC0%2FwfODM2ddYmrtO6n6QAoU5hjGzAMkeH7iRAVnH4A%3D&ehkOptimized=UfMepezTbb80FvoytHgPExhkVgSvTsIM1DBf1mSDruQ%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670544060
     },
     {
