@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670470213,
+  "fetched_at": 1670470943,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-34/event/melee-ranked-ladder",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/504044/image-48ae9eea6c3465cd4586582fdb8fb5ce.png?ehk=CHK6pGjVTgbqrzFHloXDZ1%2FIa3cqZQNR3OcoSJK0kZ8%3D&ehkOptimized=66JuusXNbHkjkKCa4Jw27vyiZpm4XfOMMyb7Y9CaZk0%3D",
       "entrants": 40,
       "start_time": 1670464800
-    },
-    {
-      "slug": "tournament/full-moon-melee-12/event/melee-singles",
-      "tournament_name": "Full Moon Melee 12",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503073/image-6f140c8da4416db596e9bfa05d8b686a.png?ehk=QeNQFQgWUxKq4ARFpl9Ympy0qDm5XSWgEAJOLv8r2Ew%3D&ehkOptimized=VRYl7pI74AFpC0ir%2B%2BIvfNYAjwBQp1%2F7IBtZ3QStCY0%3D",
-      "entrants": 30,
-      "start_time": 1670472000
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-42-eu-event/event/melee-singles",
@@ -238,7 +230,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA East Bracket (THURSDAY 12/15)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 41,
+      "entrants": 42,
       "start_time": 1671141600
     },
     {
@@ -246,7 +238,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA West Bracket (FRIDAY 12/16)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 34,
+      "entrants": 35,
       "start_time": 1671235200
     },
     {
