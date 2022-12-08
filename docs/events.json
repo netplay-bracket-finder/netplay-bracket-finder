@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670488850,
+  "fetched_at": 1670489517,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-42-eu-event/event/melee-singles",
@@ -304,6 +304,14 @@
       "image": "https://images.start.gg/images/tournament/501759/image-a09dde37b601e797f301dbe0cd397401.png?ehk=mC5V2jWHiP%2B8eioKyums76p6bg2YdeP6q6SCLlicvGE%3D&ehkOptimized=%2Bl0MAuOcVzS5E1m6FG38xyQe1%2FPl9gk2PCJ3lM2OI4Q%3D",
       "entrants": 24,
       "start_time": 1671316200
+    },
+    {
+      "slug": "tournament/festive-fight/event/melee-ladder-1",
+      "tournament_name": "Festive Fight",
+      "event_name": "Melee Ladder",
+      "image": "https://images.start.gg/images/tournament/503750/image-66b2a5ed50dbb7815e1a949c537b1bec.jpg?ehk=i8zIEoxx42JhYFxZoW0llJpC2E8WJOr3NWmStFbtwzM%3D&ehkOptimized=dqmFMkABc%2FkVmRPdxOcPdtgAG9tF4KlPuP83hIG0Xho%3D",
+      "entrants": 3,
+      "start_time": 1671310800
     },
     {
       "slug": "tournament/andrenaleague-17/event/melee-singles",
