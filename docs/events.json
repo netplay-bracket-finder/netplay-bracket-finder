@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670462460,
+  "fetched_at": 1670466892,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-34/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #34",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/504044/image-48ae9eea6c3465cd4586582fdb8fb5ce.png?ehk=CHK6pGjVTgbqrzFHloXDZ1%2FIa3cqZQNR3OcoSJK0kZ8%3D&ehkOptimized=66JuusXNbHkjkKCa4Jw27vyiZpm4XfOMMyb7Y9CaZk0%3D",
-      "entrants": 25,
+      "entrants": 38,
       "start_time": 1670464800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Full Moon Melee 12",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503073/image-6f140c8da4416db596e9bfa05d8b686a.png?ehk=QeNQFQgWUxKq4ARFpl9Ympy0qDm5XSWgEAJOLv8r2Ew%3D&ehkOptimized=VRYl7pI74AFpC0ir%2B%2BIvfNYAjwBQp1%2F7IBtZ3QStCY0%3D",
-      "entrants": 13,
+      "entrants": 28,
       "start_time": 1670472000
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #15",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/502476/image-31d4f45da2a1d590e748e3c8a78b2c2f.png?ehk=bAWHeh%2Ff4wnk6t7WFj6HWKqwvuO6NgJg%2BghyiRpqZiw%3D&ehkOptimized=8tJM0jowSeNCaQtiD7tIiBp%2BqMuArOUYcIiWZ8iZX8I%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1670544000
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "The Salt Mine #51!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/503238/image-2bdf3f27e00d30afd76fca63dbd49618.png?ehk=aC0%2FwfODM2ddYmrtO6n6QAoU5hjGzAMkeH7iRAVnH4A%3D&ehkOptimized=UfMepezTbb80FvoytHgPExhkVgSvTsIM1DBf1mSDruQ%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670544060
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "SSBMr - EU Seed of the Week #1",
       "event_name": "SSBMr EU Singles",
       "image": "https://images.start.gg/images/tournament/503585/image-3386eef8db7f1d4b07fe44cbd4d3205b.png?ehk=wDtP1v%2B%2FhP6aNcJSNj8ZL0mMFvF4mCCoZUn4vtEz2yM%3D&ehkOptimized=TxRYWgG9jqLKzDzmjXwSqe3K8n0OCX6ILzj1ls5wmTQ%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1670611800
     },
     {
@@ -238,7 +238,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA East Bracket (THURSDAY 12/15)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 30,
+      "entrants": 38,
       "start_time": 1671141600
     },
     {
@@ -246,7 +246,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA West Bracket (FRIDAY 12/16)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 23,
+      "entrants": 31,
       "start_time": 1671235200
     },
     {
@@ -398,7 +398,7 @@
       "tournament_name": "Conduit Gaming Annual Gold Invitational 2023",
       "event_name": "SSBM Randomizer Singles",
       "image": "https://images.start.gg/images/tournament/480976/image-97c003ab9f53742b7bda638f252b4aa7.png?ehk=yZZeMCBgIFmmed7MEVR536DbzkvthGqwI0FLWM4YiUg%3D&ehkOptimized=Ay3nN1fPdJHC%2BFaG7N8UCR5cHhS6gutXVs3Ozv33VKQ%3D",
-      "entrants": null,
+      "entrants": 5,
       "start_time": 1673568000
     },
     {
@@ -406,7 +406,7 @@
       "tournament_name": "Conduit Gaming Annual Gold Invitational 2023",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/480976/image-97c003ab9f53742b7bda638f252b4aa7.png?ehk=yZZeMCBgIFmmed7MEVR536DbzkvthGqwI0FLWM4YiUg%3D&ehkOptimized=Ay3nN1fPdJHC%2BFaG7N8UCR5cHhS6gutXVs3Ozv33VKQ%3D",
-      "entrants": null,
+      "entrants": 2,
       "start_time": 1673719200
     },
     {
@@ -414,7 +414,7 @@
       "tournament_name": "Conduit Gaming Annual Gold Invitational 2023",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/480976/image-97c003ab9f53742b7bda638f252b4aa7.png?ehk=yZZeMCBgIFmmed7MEVR536DbzkvthGqwI0FLWM4YiUg%3D&ehkOptimized=Ay3nN1fPdJHC%2BFaG7N8UCR5cHhS6gutXVs3Ozv33VKQ%3D",
-      "entrants": null,
+      "entrants": 6,
       "start_time": 1673744400
     },
     {
