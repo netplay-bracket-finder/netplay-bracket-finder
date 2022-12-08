@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670537758,
+  "fetched_at": 1670539000,
   "data": [
     {
       "slug": "tournament/the-return-of-nfc-12-presented-by-slyfox-esports/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 96",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502654/image-c80325701ad14a06d100e5c3baf7eff1.jpg?ehk=lgYzYbMcEEZU2NMG19C3uMEmevQ7C7ICIC%2BH927qKDY%3D&ehkOptimized=ZrYoyVQDxu%2FTLKwUZlL%2Fs4wB8LH%2FqlCRNj72q3e%2Fd%2BA%3D",
-      "entrants": 76,
+      "entrants": 84,
       "start_time": 1670544000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "The Salt Mine #51!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/503238/image-2bdf3f27e00d30afd76fca63dbd49618.png?ehk=aC0%2FwfODM2ddYmrtO6n6QAoU5hjGzAMkeH7iRAVnH4A%3D&ehkOptimized=UfMepezTbb80FvoytHgPExhkVgSvTsIM1DBf1mSDruQ%3D",
-      "entrants": 20,
+      "entrants": 26,
       "start_time": 1670544060
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "GOATs Only - Thursdaez #32",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504297/image-8b078ac558706711044233a7b583008a.png?ehk=QcoqCb4HPlseE0uInqVUjdq5oq3GQlbmGQ%2BUX36iths%3D&ehkOptimized=nWtUAorFmZZOIoM7oPv9VdU97iw8SqIk9MU5SGA9%2Fek%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1670547600
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Thursday Thmackdown #12",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504320/image-78c0af07c74f94f041b2dad7c945dfc1.png?ehk=FTrGXpfmxUERJHLpyuQlNROqF0UBSBxziyBB1iCEW98%3D&ehkOptimized=mnSXtD6uvqmXrgXIgj520%2FUzytk5x5SshGwBYpnrBvM%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1670551200
     },
     {
@@ -190,7 +190,7 @@
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee doubles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670792400
     },
     {
@@ -198,7 +198,7 @@
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1670803200
     },
     {
