@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670531823,
+  "fetched_at": 1670532681,
   "data": [
     {
       "slug": "tournament/the-return-of-nfc-12-presented-by-slyfox-esports/event/melee-singles",
       "tournament_name": "The Return of NFC #12 | Presented by Slyfox Esports",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504357/image-64c7894d69aeb4c16b62c48ae1cf9a7f.png?ehk=6HCWL%2ByEU2tIW2eixdmWWKC0I58%2FJQABAMrXc3SARfw%3D&ehkOptimized=aNGeka5IVk5%2BO17Epv%2BFeMqmqRA9%2BRAjuok7M3UAOt4%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670544000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "The Salt Mine #51!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/503238/image-2bdf3f27e00d30afd76fca63dbd49618.png?ehk=aC0%2FwfODM2ddYmrtO6n6QAoU5hjGzAMkeH7iRAVnH4A%3D&ehkOptimized=UfMepezTbb80FvoytHgPExhkVgSvTsIM1DBf1mSDruQ%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1670544060
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Thursday Thmackdown #12",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504320/image-78c0af07c74f94f041b2dad7c945dfc1.png?ehk=FTrGXpfmxUERJHLpyuQlNROqF0UBSBxziyBB1iCEW98%3D&ehkOptimized=mnSXtD6uvqmXrgXIgj520%2FUzytk5x5SshGwBYpnrBvM%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1670551200
     },
     {
