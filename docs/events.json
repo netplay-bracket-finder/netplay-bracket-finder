@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670519687,
+  "fetched_at": 1670520545,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-42-eu-event/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #42 (EU Event)",
       "event_name": "Toblerone waitlist",
       "image": "https://images.start.gg/images/tournament/502508/image-7802c51997c36c82bf3aa9c697b234ce.png?ehk=O3MhgKWuDkV%2FzkdofL%2Bt8LiMOUtkUwISrZGrOvU3P74%3D&ehkOptimized=VriwWtYAnulimQ4xkNIQ%2FVebrvtbIojycaaaEmnXyoE%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1670522400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #15",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/502476/image-31d4f45da2a1d590e748e3c8a78b2c2f.png?ehk=bAWHeh%2Ff4wnk6t7WFj6HWKqwvuO6NgJg%2BghyiRpqZiw%3D&ehkOptimized=8tJM0jowSeNCaQtiD7tIiBp%2BqMuArOUYcIiWZ8iZX8I%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1670544000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Thursday Thmackdown #12",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504320/image-78c0af07c74f94f041b2dad7c945dfc1.png?ehk=FTrGXpfmxUERJHLpyuQlNROqF0UBSBxziyBB1iCEW98%3D&ehkOptimized=mnSXtD6uvqmXrgXIgj520%2FUzytk5x5SshGwBYpnrBvM%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670551200
     },
     {
@@ -254,7 +254,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA East Bracket (THURSDAY 12/15)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 71,
+      "entrants": 72,
       "start_time": 1671141600
     },
     {
