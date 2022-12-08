@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670534850,
+  "fetched_at": 1670535540,
   "data": [
     {
       "slug": "tournament/the-return-of-nfc-12-presented-by-slyfox-esports/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 96",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502654/image-c80325701ad14a06d100e5c3baf7eff1.jpg?ehk=lgYzYbMcEEZU2NMG19C3uMEmevQ7C7ICIC%2BH927qKDY%3D&ehkOptimized=ZrYoyVQDxu%2FTLKwUZlL%2Fs4wB8LH%2FqlCRNj72q3e%2Fd%2BA%3D",
-      "entrants": 55,
+      "entrants": 57,
       "start_time": 1670544000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "The Salt Mine #51!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/503238/image-2bdf3f27e00d30afd76fca63dbd49618.png?ehk=aC0%2FwfODM2ddYmrtO6n6QAoU5hjGzAMkeH7iRAVnH4A%3D&ehkOptimized=UfMepezTbb80FvoytHgPExhkVgSvTsIM1DBf1mSDruQ%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1670544060
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Online oda nix",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504392/image-d92f0a91dd2bab18a8bde65978513dd4.jpg?ehk=5Gy4VD8VzCwVpAiKAX0brcgKH4bXOdM6EInX6UnQ2iU%3D&ehkOptimized=Vn%2FEnxPXA3Kd1XdXLdGJzQt0rcDeuZjnABax0l2TkSU%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670605200
     },
     {
@@ -127,14 +127,6 @@
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
       "entrants": 7,
-      "start_time": 1670702400
-    },
-    {
-      "slug": "tournament/200-cg-melee-monthly-december-2022/event/ec-vs-wc-exhibition",
-      "tournament_name": "[$200] CG Melee Monthly - December 2022",
-      "event_name": "EC vs WC Exhibition",
-      "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 0,
       "start_time": 1670702400
     },
     {
@@ -254,7 +246,7 @@
       "tournament_name": "Waddle Wednesday Anniversary",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495290/image-4810ae814d59a0b3cead6919bda003e0.png?ehk=9bYscSpuqNAIMu3S1hQomLaTQ7EOnpjpecm%2B7vKVQ9Q%3D&ehkOptimized=37JDf4HelDR3UbRmKFaQP%2BZWtvW3KaCBRfHIeyPiUW0%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1671066000
     },
     {
