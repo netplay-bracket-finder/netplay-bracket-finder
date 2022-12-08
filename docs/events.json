@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670525521,
+  "fetched_at": 1670526774,
   "data": [
     {
       "slug": "tournament/troppo-italiano-77/event/singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 96",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502654/image-c80325701ad14a06d100e5c3baf7eff1.jpg?ehk=lgYzYbMcEEZU2NMG19C3uMEmevQ7C7ICIC%2BH927qKDY%3D&ehkOptimized=ZrYoyVQDxu%2FTLKwUZlL%2Fs4wB8LH%2FqlCRNj72q3e%2Fd%2BA%3D",
-      "entrants": 39,
+      "entrants": 40,
       "start_time": 1670544000
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "GOATs Only - Thursdaez #32",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504297/image-8b078ac558706711044233a7b583008a.png?ehk=QcoqCb4HPlseE0uInqVUjdq5oq3GQlbmGQ%2BUX36iths%3D&ehkOptimized=nWtUAorFmZZOIoM7oPv9VdU97iw8SqIk9MU5SGA9%2Fek%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670547600
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Thursday Thmackdown #12",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504320/image-78c0af07c74f94f041b2dad7c945dfc1.png?ehk=FTrGXpfmxUERJHLpyuQlNROqF0UBSBxziyBB1iCEW98%3D&ehkOptimized=mnSXtD6uvqmXrgXIgj520%2FUzytk5x5SshGwBYpnrBvM%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670551200
     },
     {
@@ -158,7 +158,7 @@
       "tournament_name": "House Call #2 💊(Flow's Bday Edition 🥳🎉)",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/498056/image-1e40a77911fbe85ae04fe7b93510b98f.png?ehk=tPFKbZRs9Bim72Jcs6UcR0UPvOl3EA3WPqXINfGcPSs%3D&ehkOptimized=UZwrBU7rFc0esecSQ7cmBDuPJnZtnYWfD0Alh0q%2BQlk%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670724000
     },
     {
@@ -192,6 +192,14 @@
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
       "entrants": 18,
       "start_time": 1670803200
+    },
+    {
+      "slug": "tournament/woop-melee-56/event/melee-singles",
+      "tournament_name": "Woop Melee! #56",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/504341/image-8e8545b318b700c8c248ba1b7bd2a355.png?ehk=LNXxGt8MVyFLoJ7U4Gx5V12vLZKqgh%2FeLElVGIQRGLk%3D&ehkOptimized=znD2bXxN%2FRzyKfMHvsZm%2BAEotrEViQf6YLvGQKyD84Y%3D",
+      "entrants": 0,
+      "start_time": 1670889600
     },
     {
       "slug": "tournament/coast-to-coast-doubles-11/event/wc-doubles",
