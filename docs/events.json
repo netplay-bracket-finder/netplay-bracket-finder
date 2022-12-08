@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670526774,
+  "fetched_at": 1670527442,
   "data": [
     {
       "slug": "tournament/troppo-italiano-77/event/singles",
       "tournament_name": "Troppo Italiano #77",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/504269/image-d47d8c00428a3c899c862fa3a382ac98.jpg?ehk=iHdygbLB%2FGZYhZsDDk1J4UoTurzl3dEEEC89rEDbUmo%3D&ehkOptimized=CbrI6pM%2FJjoCIeph4MiB4Ks4XVlsuKTFj9Lyrj%2Fa9UI%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1670529600
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "GOATs Only - Thursdaez #32",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504297/image-8b078ac558706711044233a7b583008a.png?ehk=QcoqCb4HPlseE0uInqVUjdq5oq3GQlbmGQ%2BUX36iths%3D&ehkOptimized=nWtUAorFmZZOIoM7oPv9VdU97iw8SqIk9MU5SGA9%2Fek%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670547600
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "[$200] CG Melee Monthly - December 2022",
       "event_name": "West Coast",
       "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1670713200
     },
     {
