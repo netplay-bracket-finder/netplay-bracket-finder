@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1670457081,
+  "fetched_at": 1670462460,
   "data": [
-    {
-      "slug": "tournament/waddle-wednesday-48/event/melee-singles",
-      "tournament_name": "Waddle Wednesday 48",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503075/image-ed19e3877af6c552ab29f65715a48468.png?ehk=KObfeqonw3acrw6OkZA%2FVl8c5Ptcl%2BJmyZ5QN%2F%2FVmhY%3D&ehkOptimized=HQul%2FB5LSEpBYbp3bwtOgrZxtc7%2BB7%2B%2BQZmN65NPp3Y%3D",
-      "entrants": 67,
-      "start_time": 1670461200
-    },
     {
       "slug": "tournament/silver-slippi-league-34/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #34",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/504044/image-48ae9eea6c3465cd4586582fdb8fb5ce.png?ehk=CHK6pGjVTgbqrzFHloXDZ1%2FIa3cqZQNR3OcoSJK0kZ8%3D&ehkOptimized=66JuusXNbHkjkKCa4Jw27vyiZpm4XfOMMyb7Y9CaZk0%3D",
-      "entrants": 17,
+      "entrants": 25,
       "start_time": 1670464800
     },
     {
@@ -22,7 +14,7 @@
       "tournament_name": "Full Moon Melee 12",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503073/image-6f140c8da4416db596e9bfa05d8b686a.png?ehk=QeNQFQgWUxKq4ARFpl9Ympy0qDm5XSWgEAJOLv8r2Ew%3D&ehkOptimized=VRYl7pI74AFpC0ir%2B%2BIvfNYAjwBQp1%2F7IBtZ3QStCY0%3D",
-      "entrants": 7,
+      "entrants": 13,
       "start_time": 1670472000
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #15",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/502476/image-31d4f45da2a1d590e748e3c8a78b2c2f.png?ehk=bAWHeh%2Ff4wnk6t7WFj6HWKqwvuO6NgJg%2BghyiRpqZiw%3D&ehkOptimized=8tJM0jowSeNCaQtiD7tIiBp%2BqMuArOUYcIiWZ8iZX8I%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1670544000
     },
     {
@@ -70,7 +62,7 @@
       "tournament_name": "The Salt Mine #51!",
       "event_name": "The Salt Mine!",
       "image": "https://images.start.gg/images/tournament/503238/image-2bdf3f27e00d30afd76fca63dbd49618.png?ehk=aC0%2FwfODM2ddYmrtO6n6QAoU5hjGzAMkeH7iRAVnH4A%3D&ehkOptimized=UfMepezTbb80FvoytHgPExhkVgSvTsIM1DBf1mSDruQ%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670544060
     },
     {
@@ -240,6 +232,22 @@
       "image": "https://images.start.gg/images/tournament/503345/image-0c735cc893af888583e462fc80465c16.png?ehk=MrJ1u3ab3noMMDPCDJTiFzmgnRTaHPZX%2FnSjJMi6qfE%3D&ehkOptimized=%2FjgmNWVqc%2BAoK8AnascqWAcHKLGOzJ%2BxoFDXVlNS%2BNw%3D",
       "entrants": 3,
       "start_time": 1670898600
+    },
+    {
+      "slug": "tournament/redemption-rumble-online-lcq/event/na-east-bracket-thursday-12-15",
+      "tournament_name": "Redemption Rumble Online LCQ",
+      "event_name": "NA East Bracket (THURSDAY 12/15)",
+      "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
+      "entrants": 30,
+      "start_time": 1671141600
+    },
+    {
+      "slug": "tournament/redemption-rumble-online-lcq/event/na-west-bracket-friday-12-16",
+      "tournament_name": "Redemption Rumble Online LCQ",
+      "event_name": "NA West Bracket (FRIDAY 12/16)",
+      "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
+      "entrants": 23,
+      "start_time": 1671235200
     },
     {
       "slug": "tournament/cg-gold-invitational-last-chance-qualifier/event/ssbm-randomizer-singles",
