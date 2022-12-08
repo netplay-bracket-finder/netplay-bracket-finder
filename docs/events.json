@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670532681,
+  "fetched_at": 1670534098,
   "data": [
     {
       "slug": "tournament/the-return-of-nfc-12-presented-by-slyfox-esports/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 96",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502654/image-c80325701ad14a06d100e5c3baf7eff1.jpg?ehk=lgYzYbMcEEZU2NMG19C3uMEmevQ7C7ICIC%2BH927qKDY%3D&ehkOptimized=ZrYoyVQDxu%2FTLKwUZlL%2Fs4wB8LH%2FqlCRNj72q3e%2Fd%2BA%3D",
-      "entrants": 48,
+      "entrants": 54,
       "start_time": 1670544000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "SSBM Randomizer: Seed of the Week #15",
       "event_name": "SSBMr Singles",
       "image": "https://images.start.gg/images/tournament/502476/image-31d4f45da2a1d590e748e3c8a78b2c2f.png?ehk=bAWHeh%2Ff4wnk6t7WFj6HWKqwvuO6NgJg%2BghyiRpqZiw%3D&ehkOptimized=8tJM0jowSeNCaQtiD7tIiBp%2BqMuArOUYcIiWZ8iZX8I%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1670544000
     },
     {
@@ -64,6 +64,14 @@
       "image": "https://images.start.gg/images/tournament/503371/image-3e0f682b844b38b9500a87ee5ed2104f.png?ehk=q368Om069ajgyHLRYy4NFVTs05BUojgCQhWFGEl87fQ%3D&ehkOptimized=VeRkYTZRCXMfyMDFGStbfp%2BsmQUV3CgQiktjxkbWn1c%3D",
       "entrants": 7,
       "start_time": 1670569200
+    },
+    {
+      "slug": "tournament/online-oda-nix/event/melee-singles",
+      "tournament_name": "Online oda nix",
+      "event_name": "Melee Singles",
+      "image": "",
+      "entrants": 0,
+      "start_time": 1670605200
     },
     {
       "slug": "tournament/ssbmr-eu-seed-of-the-week-1/event/ssbmr-eu-singles",
