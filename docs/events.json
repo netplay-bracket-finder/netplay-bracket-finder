@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670514697,
+  "fetched_at": 1670516616,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-42-eu-event/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #42 (EU Event)",
       "event_name": "Toblerone waitlist",
       "image": "https://images.start.gg/images/tournament/502508/image-7802c51997c36c82bf3aa9c697b234ce.png?ehk=O3MhgKWuDkV%2FzkdofL%2Bt8LiMOUtkUwISrZGrOvU3P74%3D&ehkOptimized=VriwWtYAnulimQ4xkNIQ%2FVebrvtbIojycaaaEmnXyoE%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670522400
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "SSBMr - EU Seed of the Week #1",
       "event_name": "SSBMr EU Singles",
       "image": "https://images.start.gg/images/tournament/503585/image-3386eef8db7f1d4b07fe44cbd4d3205b.png?ehk=wDtP1v%2B%2FhP6aNcJSNj8ZL0mMFvF4mCCoZUn4vtEz2yM%3D&ehkOptimized=TxRYWgG9jqLKzDzmjXwSqe3K8n0OCX6ILzj1ls5wmTQ%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1670611800
     },
     {
@@ -326,7 +326,7 @@
       "tournament_name": "Festive Fight",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/503750/image-66b2a5ed50dbb7815e1a949c537b1bec.jpg?ehk=i8zIEoxx42JhYFxZoW0llJpC2E8WJOr3NWmStFbtwzM%3D&ehkOptimized=dqmFMkABc%2FkVmRPdxOcPdtgAG9tF4KlPuP83hIG0Xho%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1671310800
     },
     {
