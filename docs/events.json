@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670475182,
+  "fetched_at": 1670476532,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-34/event/melee-ranked-ladder",
@@ -14,7 +14,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #42 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502508/image-7802c51997c36c82bf3aa9c697b234ce.png?ehk=O3MhgKWuDkV%2FzkdofL%2Bt8LiMOUtkUwISrZGrOvU3P74%3D&ehkOptimized=VriwWtYAnulimQ4xkNIQ%2FVebrvtbIojycaaaEmnXyoE%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670522400
     },
     {
@@ -230,7 +230,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA East Bracket (THURSDAY 12/15)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 48,
+      "entrants": 49,
       "start_time": 1671141600
     },
     {
@@ -386,24 +386,24 @@
       "start_time": 1673224200
     },
     {
-      "slug": "tournament/conduit-gaming-annual-gold-invitational-2023/event/ssbm-randomizer-singles",
-      "tournament_name": "Conduit Gaming Annual Gold Invitational 2023",
+      "slug": "tournament/1000-conduit-gaming-annual-gold-invitational-2023/event/ssbm-randomizer-singles",
+      "tournament_name": "[$1000] Conduit Gaming Annual Gold Invitational 2023",
       "event_name": "SSBM Randomizer Singles",
       "image": "https://images.start.gg/images/tournament/480976/image-97c003ab9f53742b7bda638f252b4aa7.png?ehk=yZZeMCBgIFmmed7MEVR536DbzkvthGqwI0FLWM4YiUg%3D&ehkOptimized=Ay3nN1fPdJHC%2BFaG7N8UCR5cHhS6gutXVs3Ozv33VKQ%3D",
       "entrants": 5,
       "start_time": 1673568000
     },
     {
-      "slug": "tournament/conduit-gaming-annual-gold-invitational-2023/event/melee-doubles",
-      "tournament_name": "Conduit Gaming Annual Gold Invitational 2023",
+      "slug": "tournament/1000-conduit-gaming-annual-gold-invitational-2023/event/melee-doubles",
+      "tournament_name": "[$1000] Conduit Gaming Annual Gold Invitational 2023",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/480976/image-97c003ab9f53742b7bda638f252b4aa7.png?ehk=yZZeMCBgIFmmed7MEVR536DbzkvthGqwI0FLWM4YiUg%3D&ehkOptimized=Ay3nN1fPdJHC%2BFaG7N8UCR5cHhS6gutXVs3Ozv33VKQ%3D",
       "entrants": 2,
       "start_time": 1673719200
     },
     {
-      "slug": "tournament/conduit-gaming-annual-gold-invitational-2023/event/melee-singles",
-      "tournament_name": "Conduit Gaming Annual Gold Invitational 2023",
+      "slug": "tournament/1000-conduit-gaming-annual-gold-invitational-2023/event/melee-singles",
+      "tournament_name": "[$1000] Conduit Gaming Annual Gold Invitational 2023",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/480976/image-97c003ab9f53742b7bda638f252b4aa7.png?ehk=yZZeMCBgIFmmed7MEVR536DbzkvthGqwI0FLWM4YiUg%3D&ehkOptimized=Ay3nN1fPdJHC%2BFaG7N8UCR5cHhS6gutXVs3Ozv33VKQ%3D",
       "entrants": 6,
