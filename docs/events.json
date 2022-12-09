@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670561575,
+  "fetched_at": 1670562904,
   "data": [
     {
       "slug": "tournament/bb-82/event/melee-singles",
@@ -272,6 +272,14 @@
       "image": "https://images.start.gg/images/tournament/498261/image-542ac2ee11e8497bebc0259c10cb8d85.png?ehk=plB0BejFZMXsr36WuG8hFFarDq%2FBol80VC84NA4BVzo%3D&ehkOptimized=CgdCyc5nTJmQ2GfCCfwXr2v7PZE7va2PEGFYoiJVHDU%3D",
       "entrants": 0,
       "start_time": 1671505200
+    },
+    {
+      "slug": "tournament/only-noobs-97/event/melee-singles",
+      "tournament_name": "Only Noobs 97",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/504509/image-4724ea1a06b21f4c7b0efbc40f472825.jpg?ehk=ciCcNjsSKMiY9dOsFv%2Bk2J7oY8LqV%2B3FE5SHpy2cY9c%3D&ehkOptimized=M1UlXwmKVj3iV4SRB7Kn%2FIkYC9Q9%2F1ti4Age%2F0JksIQ%3D",
+      "entrants": 0,
+      "start_time": 1671148800
     },
     {
       "slug": "tournament/deter-melee-low-tier-reborn/event/deter-melee-low-tier-reborn",
