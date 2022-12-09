@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670614606,
+  "fetched_at": 1670615484,
   "data": [
     {
       "slug": "tournament/east-coast-fridays-232/event/melee-singles",
       "tournament_name": "East Coast Fridays #232",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504508/image-5a11984085fd91f0ffd793e5f06ed59e.png?ehk=Ou0YXNoM%2BsZRW8H1OcksvDvd%2BH%2BnyZ925nZknQXT1Mg%3D&ehkOptimized=RgEtC%2Ff%2BT9X03aceQK0TN3%2FDLOup3mBOrLW3yv3IZjE%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1670634000
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "[$200] CG Melee Monthly - December 2022",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1670702400
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "After Dark Melee #7",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/503472/image-20dd1d6f4c428fb612f7cc888e31dd65.png?ehk=%2FdDK3DKIu%2BbxjwfhXHe2ilJYqR8l%2BaFDpZ9VvLMcRIM%3D&ehkOptimized=xG7ciWLMHCDHD%2FTxaR8NJAkpvEqLzDXEJv8SuTEW1pc%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670703300
     },
     {
