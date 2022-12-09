@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670627831,
+  "fetched_at": 1670629035,
   "data": [
     {
       "slug": "tournament/east-coast-fridays-232/event/melee-singles",
       "tournament_name": "East Coast Fridays #232",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504508/image-5a11984085fd91f0ffd793e5f06ed59e.png?ehk=Ou0YXNoM%2BsZRW8H1OcksvDvd%2BH%2BnyZ925nZknQXT1Mg%3D&ehkOptimized=RgEtC%2Ff%2BT9X03aceQK0TN3%2FDLOup3mBOrLW3yv3IZjE%3D",
-      "entrants": 57,
+      "entrants": 69,
       "start_time": 1670634000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Quest For Best Noob Summit 2",
       "event_name": "Main Event",
       "image": "https://images.start.gg/images/tournament/503570/image-7f2f248507832e8a51bbe17008a8e6c9.png?ehk=9WPt2uBkwFccEcrT6oCpwQ4L1k2dtkiuPGo6Sc0AEoY%3D&ehkOptimized=7HnMqThFcWEUGPU7h5xG1lPr%2BBzc7ooTIdHHD324QGY%3D",
-      "entrants": 12,
+      "entrants": 16,
       "start_time": 1670671800
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "[$200] CG Melee Monthly - December 2022",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1670702400
     },
     {
@@ -318,7 +318,7 @@
       "tournament_name": "Only Noobs 97",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504509/image-4724ea1a06b21f4c7b0efbc40f472825.jpg?ehk=ciCcNjsSKMiY9dOsFv%2Bk2J7oY8LqV%2B3FE5SHpy2cY9c%3D&ehkOptimized=M1UlXwmKVj3iV4SRB7Kn%2FIkYC9Q9%2F1ti4Age%2F0JksIQ%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1671148800
     },
     {
