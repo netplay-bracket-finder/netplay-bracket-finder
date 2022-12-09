@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1670553313,
+  "fetched_at": 1670554928,
   "data": [
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-15/event/ssbmr-singles",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #15",
-      "event_name": "SSBMr Singles",
-      "image": "https://images.start.gg/images/tournament/502476/image-31d4f45da2a1d590e748e3c8a78b2c2f.png?ehk=bAWHeh%2Ff4wnk6t7WFj6HWKqwvuO6NgJg%2BghyiRpqZiw%3D&ehkOptimized=8tJM0jowSeNCaQtiD7tIiBp%2BqMuArOUYcIiWZ8iZX8I%3D",
-      "entrants": 9,
-      "start_time": 1670544000
-    },
-    {
-      "slug": "tournament/ssbm-randomizer-seed-of-the-week-15/event/results-data",
-      "tournament_name": "SSBM Randomizer: Seed of the Week #15",
-      "event_name": "Results Data",
-      "image": "https://images.start.gg/images/tournament/502476/image-31d4f45da2a1d590e748e3c8a78b2c2f.png?ehk=bAWHeh%2Ff4wnk6t7WFj6HWKqwvuO6NgJg%2BghyiRpqZiw%3D&ehkOptimized=8tJM0jowSeNCaQtiD7tIiBp%2BqMuArOUYcIiWZ8iZX8I%3D",
-      "entrants": 0,
-      "start_time": 1670544000
-    },
     {
       "slug": "tournament/bb-82/event/melee-singles",
       "tournament_name": "BB-82",
@@ -318,7 +302,7 @@
       "tournament_name": "Festive Fight",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/503750/image-bbfbd8609ff4be250d4be9cf04b06d13.jpg?ehk=tdhKFa9DFPLe3fsN9q9C9KmEn5f%2BqeM6TDkFPNPTaqM%3D&ehkOptimized=IN5wPcOmkpMVPjMc0WY4lhIFPSO0blgkleFaQY52r9I%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1671310800
     },
     {
