@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670564384,
+  "fetched_at": 1670565081,
   "data": [
     {
       "slug": "tournament/bb-82/event/melee-singles",
       "tournament_name": "BB-82",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503371/image-3e0f682b844b38b9500a87ee5ed2104f.png?ehk=q368Om069ajgyHLRYy4NFVTs05BUojgCQhWFGEl87fQ%3D&ehkOptimized=VeRkYTZRCXMfyMDFGStbfp%2BsmQUV3CgQiktjxkbWn1c%3D",
-      "entrants": 21,
+      "entrants": 23,
       "start_time": 1670569200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "East Coast Fridays #232",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504508/image-5a11984085fd91f0ffd793e5f06ed59e.png?ehk=Ou0YXNoM%2BsZRW8H1OcksvDvd%2BH%2BnyZ925nZknQXT1Mg%3D&ehkOptimized=RgEtC%2Ff%2BT9X03aceQK0TN3%2FDLOup3mBOrLW3yv3IZjE%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670634000
     },
     {
