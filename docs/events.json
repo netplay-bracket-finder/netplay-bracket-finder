@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670615484,
+  "fetched_at": 1670618356,
   "data": [
     {
       "slug": "tournament/east-coast-fridays-232/event/melee-singles",
       "tournament_name": "East Coast Fridays #232",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504508/image-5a11984085fd91f0ffd793e5f06ed59e.png?ehk=Ou0YXNoM%2BsZRW8H1OcksvDvd%2BH%2BnyZ925nZknQXT1Mg%3D&ehkOptimized=RgEtC%2Ff%2BT9X03aceQK0TN3%2FDLOup3mBOrLW3yv3IZjE%3D",
-      "entrants": 17,
+      "entrants": 21,
       "start_time": 1670634000
     },
     {
@@ -192,6 +192,14 @@
       "image": "https://images.start.gg/images/tournament/503345/image-0c735cc893af888583e462fc80465c16.png?ehk=MrJ1u3ab3noMMDPCDJTiFzmgnRTaHPZX%2FnSjJMi6qfE%3D&ehkOptimized=%2FjgmNWVqc%2BAoK8AnascqWAcHKLGOzJ%2BxoFDXVlNS%2BNw%3D",
       "entrants": 4,
       "start_time": 1670898600
+    },
+    {
+      "slug": "tournament/tuesday-night-fever-9/event/melee-singles",
+      "tournament_name": "Tuesday Night Fever #9",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/504645/image-5ea4e95e78c3a9c05b5b19e9c7404848.png?ehk=%2FeweQ3z6W2SJB5lTqrDSCQJkLnUeH3B2aBp%2F%2FbBaR7Y%3D&ehkOptimized=3DNDObqx1evFUmmevHeQpKluIkrwzdxwLTw%2Br4ayB1g%3D",
+      "entrants": 0,
+      "start_time": 1670914800
     },
     {
       "slug": "tournament/waddle-wednesday-anniversary/event/melee-singles",
