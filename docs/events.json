@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670621926,
+  "fetched_at": 1670622676,
   "data": [
     {
       "slug": "tournament/east-coast-fridays-232/event/melee-singles",
       "tournament_name": "East Coast Fridays #232",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504508/image-5a11984085fd91f0ffd793e5f06ed59e.png?ehk=Ou0YXNoM%2BsZRW8H1OcksvDvd%2BH%2BnyZ925nZknQXT1Mg%3D&ehkOptimized=RgEtC%2Ff%2BT9X03aceQK0TN3%2FDLOup3mBOrLW3yv3IZjE%3D",
-      "entrants": 28,
+      "entrants": 29,
       "start_time": 1670634000
     },
     {
@@ -82,6 +82,14 @@
       "start_time": 1670703300
     },
     {
+      "slug": "tournament/melee-poetry-society-2/event/melee-singles",
+      "tournament_name": "Melee Poetry Society 2",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/504658/image-b251dc3b18ef2605a64df015f35cfc03.png?ehk=VcGluIgzsHuc8NUc%2FwGYTEMko%2Fzuu0Rc0MvaktZ54oQ%3D&ehkOptimized=AH7XGOw3NK7VFDPdvAA2nYJscs6aLHvXcGfsbSmt%2FxU%3D",
+      "entrants": 0,
+      "start_time": 1670720400
+    },
+    {
       "slug": "tournament/house-call-2-flow-s-bday-edition-1/event/melee-singles",
       "tournament_name": "House Call #2 💊(Flow's Bday Edition 🥳🎉)",
       "event_name": "melee singles",
@@ -146,6 +154,14 @@
       "start_time": 1670808600
     },
     {
+      "slug": "tournament/it-s-like-jazz/event/melee-singles",
+      "tournament_name": "It's Like Jazz",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/504648/image-156aec021d1ac39a087742c128166798.png?ehk=5gjlwz7TfZrAU1K1ZXg16aai6OG3TEdkc8ydOl8Atwg%3D&ehkOptimized=PrCkfDnb5Yamw5jmREp721QQzUbPVoywBcWWCJzha40%3D",
+      "entrants": 0,
+      "start_time": 1670806800
+    },
+    {
       "slug": "tournament/woop-melee-56/event/melee-singles",
       "tournament_name": "Woop Melee! #56",
       "event_name": "Melee Singles",
@@ -200,6 +216,22 @@
       "image": "https://images.start.gg/images/tournament/504645/image-5ea4e95e78c3a9c05b5b19e9c7404848.png?ehk=%2FeweQ3z6W2SJB5lTqrDSCQJkLnUeH3B2aBp%2F%2FbBaR7Y%3D&ehkOptimized=3DNDObqx1evFUmmevHeQpKluIkrwzdxwLTw%2Br4ayB1g%3D",
       "entrants": 0,
       "start_time": 1670914800
+    },
+    {
+      "slug": "tournament/level-one-melee-doubles-6-a-noob-only-tournament/event/amateur-melee-doubles",
+      "tournament_name": "Level One Melee DOUBLES #6 - a noob-only tournament",
+      "event_name": "Amateur Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/504663/image-9f8a8e196307441de9bb8bf0ac248828.png?ehk=0FtgDAORnUfM7h0Tg0rV60YosPKY7R9k2V6V9nT5qDw%3D&ehkOptimized=dDiATnFGqdYazqEa9ya8ySvuwCT450HuvNpMsv9Ps5c%3D",
+      "entrants": 0,
+      "start_time": 1670983200
+    },
+    {
+      "slug": "tournament/level-one-melee-doubles-6-a-noob-only-tournament/event/main-melee-doubles",
+      "tournament_name": "Level One Melee DOUBLES #6 - a noob-only tournament",
+      "event_name": "Main Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/504663/image-9f8a8e196307441de9bb8bf0ac248828.png?ehk=0FtgDAORnUfM7h0Tg0rV60YosPKY7R9k2V6V9nT5qDw%3D&ehkOptimized=dDiATnFGqdYazqEa9ya8ySvuwCT450HuvNpMsv9Ps5c%3D",
+      "entrants": 0,
+      "start_time": 1670983200
     },
     {
       "slug": "tournament/waddle-wednesday-anniversary/event/melee-singles",
