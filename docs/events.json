@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670593875,
+  "fetched_at": 1670595285,
   "data": [
     {
       "slug": "tournament/online-oda-nix/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "East Coast Fridays #232",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504508/image-5a11984085fd91f0ffd793e5f06ed59e.png?ehk=Ou0YXNoM%2BsZRW8H1OcksvDvd%2BH%2BnyZ925nZknQXT1Mg%3D&ehkOptimized=RgEtC%2Ff%2BT9X03aceQK0TN3%2FDLOup3mBOrLW3yv3IZjE%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670634000
     },
     {
@@ -176,6 +176,14 @@
       "image": "https://images.start.gg/images/tournament/503739/image-c31699b4962f2d525909c6bb2c53587c.jpg?ehk=u7p%2BteiQmfA0t3A5SIGsYa73vMnxXLW7TuzGsqmG%2B3s%3D&ehkOptimized=myVUcrSo5Bnk0%2Fxfb1xxXO%2BHyPBvQhbIxQLKy6McisI%3D",
       "entrants": 1,
       "start_time": 1670894100
+    },
+    {
+      "slug": "tournament/spudfest-44/event/melee-singles",
+      "tournament_name": "Spudfest 44",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/504560/image-43baf47f884e83249978b9f62a03e11b.jpg?ehk=swTR7eJiNuNp%2FmpAp2oNIBzFp748CDeW7xFjHYIgj64%3D&ehkOptimized=32ptP4C6bpPSek0GtR8F92uTFF%2FYIzeHvRO8241It0o%3D",
+      "entrants": 0,
+      "start_time": 1670896800
     },
     {
       "slug": "tournament/casino-royale-4-ssbm-online-weekly/event/casino",
