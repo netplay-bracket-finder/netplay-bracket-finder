@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670586684,
+  "fetched_at": 1670589035,
   "data": [
     {
       "slug": "tournament/online-oda-nix/event/melee-singles",
       "tournament_name": "Online oda nix",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504392/image-d92f0a91dd2bab18a8bde65978513dd4.jpg?ehk=5Gy4VD8VzCwVpAiKAX0brcgKH4bXOdM6EInX6UnQ2iU%3D&ehkOptimized=Vn%2FEnxPXA3Kd1XdXLdGJzQt0rcDeuZjnABax0l2TkSU%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670605200
     },
     {
@@ -118,7 +118,7 @@
       "tournament_name": "La Granja de Nabos de Mäjoras #21",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501569/image-7b9dc9a8276fb9655b4378c1631e4fc8.png?ehk=dSNzj1eqeMek9MLkT9ybEZEigw2Gk3o7PwjOlodHMgM%3D&ehkOptimized=fcRKX1SEP1E9vzFQBI6seoG4%2FfIhXojhZrhDDE%2Fme%2FU%3D",
-      "entrants": 35,
+      "entrants": 36,
       "start_time": 1670776200
     },
     {
