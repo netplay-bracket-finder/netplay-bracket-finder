@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1670543501,
+  "fetched_at": 1670548992,
   "data": [
-    {
-      "slug": "tournament/the-return-of-nfc-12-presented-by-slyfox-esports/event/melee-singles",
-      "tournament_name": "The Return of NFC #12 | Presented by Slyfox Esports",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/504357/image-64c7894d69aeb4c16b62c48ae1cf9a7f.png?ehk=6HCWL%2ByEU2tIW2eixdmWWKC0I58%2FJQABAMrXc3SARfw%3D&ehkOptimized=aNGeka5IVk5%2BO17Epv%2BFeMqmqRA9%2BRAjuok7M3UAOt4%3D",
-      "entrants": 8,
-      "start_time": 1670544000
-    },
     {
       "slug": "tournament/ssbm-randomizer-seed-of-the-week-15/event/ssbmr-singles",
       "tournament_name": "SSBM Randomizer: Seed of the Week #15",
@@ -26,19 +18,11 @@
       "start_time": 1670544000
     },
     {
-      "slug": "tournament/goats-only-thursdaez-32/event/melee-singles",
-      "tournament_name": "GOATs Only - Thursdaez #32",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/504297/image-8b078ac558706711044233a7b583008a.png?ehk=QcoqCb4HPlseE0uInqVUjdq5oq3GQlbmGQ%2BUX36iths%3D&ehkOptimized=nWtUAorFmZZOIoM7oPv9VdU97iw8SqIk9MU5SGA9%2Fek%3D",
-      "entrants": 11,
-      "start_time": 1670547600
-    },
-    {
       "slug": "tournament/thursday-thmackdown-12/event/melee-singles",
       "tournament_name": "Thursday Thmackdown #12",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504320/image-78c0af07c74f94f041b2dad7c945dfc1.png?ehk=FTrGXpfmxUERJHLpyuQlNROqF0UBSBxziyBB1iCEW98%3D&ehkOptimized=mnSXtD6uvqmXrgXIgj520%2FUzytk5x5SshGwBYpnrBvM%3D",
-      "entrants": 11,
+      "entrants": 24,
       "start_time": 1670551200
     },
     {
@@ -46,7 +30,7 @@
       "tournament_name": "BB-82",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503371/image-3e0f682b844b38b9500a87ee5ed2104f.png?ehk=q368Om069ajgyHLRYy4NFVTs05BUojgCQhWFGEl87fQ%3D&ehkOptimized=VeRkYTZRCXMfyMDFGStbfp%2BsmQUV3CgQiktjxkbWn1c%3D",
-      "entrants": 7,
+      "entrants": 11,
       "start_time": 1670569200
     },
     {
@@ -54,7 +38,7 @@
       "tournament_name": "Online oda nix",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504392/image-d92f0a91dd2bab18a8bde65978513dd4.jpg?ehk=5Gy4VD8VzCwVpAiKAX0brcgKH4bXOdM6EInX6UnQ2iU%3D&ehkOptimized=Vn%2FEnxPXA3Kd1XdXLdGJzQt0rcDeuZjnABax0l2TkSU%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670605200
     },
     {
@@ -110,7 +94,7 @@
       "tournament_name": "[$200] CG Melee Monthly - December 2022",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1670702400
     },
     {
