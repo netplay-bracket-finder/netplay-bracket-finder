@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670601084,
+  "fetched_at": 1670602984,
   "data": [
     {
       "slug": "tournament/online-oda-nix/event/melee-singles",
       "tournament_name": "Online oda nix",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504392/image-d92f0a91dd2bab18a8bde65978513dd4.jpg?ehk=5Gy4VD8VzCwVpAiKAX0brcgKH4bXOdM6EInX6UnQ2iU%3D&ehkOptimized=Vn%2FEnxPXA3Kd1XdXLdGJzQt0rcDeuZjnABax0l2TkSU%3D",
-      "entrants": 9,
+      "entrants": 11,
       "start_time": 1670605200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "SSBMr - EU Seed of the Week #1",
       "event_name": "SSBMr EU Singles",
       "image": "https://images.start.gg/images/tournament/503585/image-3386eef8db7f1d4b07fe44cbd4d3205b.png?ehk=wDtP1v%2B%2FhP6aNcJSNj8ZL0mMFvF4mCCoZUn4vtEz2yM%3D&ehkOptimized=TxRYWgG9jqLKzDzmjXwSqe3K8n0OCX6ILzj1ls5wmTQ%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1670611800
     },
     {
@@ -182,7 +182,7 @@
       "tournament_name": "Spudfest 44",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504560/image-43baf47f884e83249978b9f62a03e11b.jpg?ehk=swTR7eJiNuNp%2FmpAp2oNIBzFp748CDeW7xFjHYIgj64%3D&ehkOptimized=32ptP4C6bpPSek0GtR8F92uTFF%2FYIzeHvRO8241It0o%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670896800
     },
     {
