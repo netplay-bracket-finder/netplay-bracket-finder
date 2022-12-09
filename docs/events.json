@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670629035,
+  "fetched_at": 1670629877,
   "data": [
     {
       "slug": "tournament/east-coast-fridays-232/event/melee-singles",
       "tournament_name": "East Coast Fridays #232",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504508/image-5a11984085fd91f0ffd793e5f06ed59e.png?ehk=Ou0YXNoM%2BsZRW8H1OcksvDvd%2BH%2BnyZ925nZknQXT1Mg%3D&ehkOptimized=RgEtC%2Ff%2BT9X03aceQK0TN3%2FDLOup3mBOrLW3yv3IZjE%3D",
-      "entrants": 69,
+      "entrants": 80,
       "start_time": 1670634000
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "[$200] CG Melee Monthly - December 2022",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 11,
+      "entrants": 10,
       "start_time": 1670702400
     },
     {
@@ -136,6 +136,22 @@
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
       "entrants": 21,
       "start_time": 1670803200
+    },
+    {
+      "slug": "tournament/lgbt-s3e16-dr-mario-manipulates-the-community-on-medium-com/event/east-coast-bracket",
+      "tournament_name": "LGBT S3E16: Dr Mario Manipulates the Community on medium.com",
+      "event_name": "East Coast Bracket",
+      "image": "https://images.start.gg/images/tournament/503993/image-b4d07a0f7a4cd69598fe62c930a66699.png?ehk=1ianzmPq1hm0ou8ZcGAgkxDgVad50TOkjQkltKcnzAU%3D&ehkOptimized=l2igCqQSQsY7grLyMjp0OjAYkWj0bD2oSxixUX0UpAc%3D",
+      "entrants": 0,
+      "start_time": 1670803200
+    },
+    {
+      "slug": "tournament/lgbt-s3e16-dr-mario-manipulates-the-community-on-medium-com/event/west-coast-bracket",
+      "tournament_name": "LGBT S3E16: Dr Mario Manipulates the Community on medium.com",
+      "event_name": "West Coast Bracket",
+      "image": "https://images.start.gg/images/tournament/503993/image-b4d07a0f7a4cd69598fe62c930a66699.png?ehk=1ianzmPq1hm0ou8ZcGAgkxDgVad50TOkjQkltKcnzAU%3D&ehkOptimized=l2igCqQSQsY7grLyMjp0OjAYkWj0bD2oSxixUX0UpAc%3D",
+      "entrants": 0,
+      "start_time": 1670814000
     },
     {
       "slug": "tournament/scss-east-coast-98/event/melee-singles",
