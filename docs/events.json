@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1670611264,
+  "fetched_at": 1670611929,
   "data": [
-    {
-      "slug": "tournament/ssbmr-eu-seed-of-the-week-1/event/ssbmr-eu-singles",
-      "tournament_name": "SSBMr - EU Seed of the Week #1",
-      "event_name": "SSBMr EU Singles",
-      "image": "https://images.start.gg/images/tournament/503585/image-3386eef8db7f1d4b07fe44cbd4d3205b.png?ehk=wDtP1v%2B%2FhP6aNcJSNj8ZL0mMFvF4mCCoZUn4vtEz2yM%3D&ehkOptimized=TxRYWgG9jqLKzDzmjXwSqe3K8n0OCX6ILzj1ls5wmTQ%3D",
-      "entrants": 16,
-      "start_time": 1670611800
-    },
     {
       "slug": "tournament/east-coast-fridays-232/event/melee-singles",
       "tournament_name": "East Coast Fridays #232",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504508/image-5a11984085fd91f0ffd793e5f06ed59e.png?ehk=Ou0YXNoM%2BsZRW8H1OcksvDvd%2BH%2BnyZ925nZknQXT1Mg%3D&ehkOptimized=RgEtC%2Ff%2BT9X03aceQK0TN3%2FDLOup3mBOrLW3yv3IZjE%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1670634000
     },
     {
@@ -136,6 +128,22 @@
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
       "entrants": 21,
       "start_time": 1670803200
+    },
+    {
+      "slug": "tournament/scss-east-coast-98/event/melee-singles",
+      "tournament_name": "SCSS East Coast #98",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/504617/image-618f0b621bee369ec06f585aaaca9190.png?ehk=EbYwezlfPAqambMO2pp4iTWQ%2FoA7wHk35OO5bT3N2eA%3D&ehkOptimized=F%2ByuvEyE5C2shUQkN5%2FTY2hmmqqb0xNCdWp7CgYP4%2Fc%3D",
+      "entrants": 0,
+      "start_time": 1670805000
+    },
+    {
+      "slug": "tournament/scss-west-coast-87/event/melee-singles",
+      "tournament_name": "SCSS West Coast #87",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/504620/image-cdb30cdde279c88361419c34bad88c41.png?ehk=RO2y52ZoiGhsWOcCVOCxWCvocGGTTqKlIQY004mOVI8%3D&ehkOptimized=fkgQV1IVgCp%2FJ%2BoMdHT8vvuyPgE9Zwhv3uz%2F1wOSU0Y%3D",
+      "entrants": 0,
+      "start_time": 1670808600
     },
     {
       "slug": "tournament/woop-melee-56/event/melee-singles",
