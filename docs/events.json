@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670707550,
+  "fetched_at": 1670708232,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-61/event/melee-singles",
@@ -8,30 +8,6 @@
       "image": "https://images.start.gg/images/tournament/501379/image-3aaf8d7e48fa3e421aef16a6481a93cb.png?ehk=3VTmpRbzbgRkfQTRjlJUtWXtmRQ%2FRM3K%2FGz0idznbpE%3D&ehkOptimized=otllzTAOo4akXg5sBBlLYQdL%2BJmwSXM8SLNSSBMSJbY%3D",
       "entrants": 1,
       "start_time": 1670799600
-    },
-    {
-      "slug": "tournament/after-dark-melee-7/event/after-dark-singles",
-      "tournament_name": "After Dark Melee #7",
-      "event_name": "After Dark Singles",
-      "image": "https://images.start.gg/images/tournament/503472/image-20dd1d6f4c428fb612f7cc888e31dd65.png?ehk=%2FdDK3DKIu%2BbxjwfhXHe2ilJYqR8l%2BaFDpZ9VvLMcRIM%3D&ehkOptimized=xG7ciWLMHCDHD%2FTxaR8NJAkpvEqLzDXEJv8SuTEW1pc%3D",
-      "entrants": 12,
-      "start_time": 1670703300
-    },
-    {
-      "slug": "tournament/after-dark-melee-7/event/after-dark-doubles",
-      "tournament_name": "After Dark Melee #7",
-      "event_name": "After Dark Doubles",
-      "image": "https://images.start.gg/images/tournament/503472/image-20dd1d6f4c428fb612f7cc888e31dd65.png?ehk=%2FdDK3DKIu%2BbxjwfhXHe2ilJYqR8l%2BaFDpZ9VvLMcRIM%3D&ehkOptimized=xG7ciWLMHCDHD%2FTxaR8NJAkpvEqLzDXEJv8SuTEW1pc%3D",
-      "entrants": 3,
-      "start_time": 1670703300
-    },
-    {
-      "slug": "tournament/legs-le-tournament-60/event/melee-singles",
-      "tournament_name": "Legs' Le Tournament #60",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/504787/image-71a894a3aba57763823c98439d91ad0a.png?ehk=XT5BgL%2B8qx%2FnPBpD2hsYyfGWHeKE1wDZ7DgUXqG1m14%3D&ehkOptimized=mYh7s1zQzRTEaei7G1SEp8N56NYJzL7BTyee1RNs8dA%3D",
-      "entrants": 11,
-      "start_time": 1670709600
     },
     {
       "slug": "tournament/melee-poetry-society-2/event/melee-singles",
