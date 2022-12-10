@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670703379,
+  "fetched_at": 1670704611,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-61/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "[$200] CG Melee Monthly - December 2022",
       "event_name": "West Coast",
       "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1670713200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "After Dark Melee #7",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/503472/image-20dd1d6f4c428fb612f7cc888e31dd65.png?ehk=%2FdDK3DKIu%2BbxjwfhXHe2ilJYqR8l%2BaFDpZ9VvLMcRIM%3D&ehkOptimized=xG7ciWLMHCDHD%2FTxaR8NJAkpvEqLzDXEJv8SuTEW1pc%3D",
-      "entrants": 9,
+      "entrants": 12,
       "start_time": 1670703300
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "After Dark Melee #7",
       "event_name": "After Dark Doubles",
       "image": "https://images.start.gg/images/tournament/503472/image-20dd1d6f4c428fb612f7cc888e31dd65.png?ehk=%2FdDK3DKIu%2BbxjwfhXHe2ilJYqR8l%2BaFDpZ9VvLMcRIM%3D&ehkOptimized=xG7ciWLMHCDHD%2FTxaR8NJAkpvEqLzDXEJv8SuTEW1pc%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670703300
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Melee Poetry Society 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504658/image-b251dc3b18ef2605a64df015f35cfc03.png?ehk=VcGluIgzsHuc8NUc%2FwGYTEMko%2Fzuu0Rc0MvaktZ54oQ%3D&ehkOptimized=AH7XGOw3NK7VFDPdvAA2nYJscs6aLHvXcGfsbSmt%2FxU%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1670720400
     },
     {
@@ -230,7 +230,7 @@
       "tournament_name": "Waddle Wednesday Anniversary",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495290/image-4810ae814d59a0b3cead6919bda003e0.png?ehk=9bYscSpuqNAIMu3S1hQomLaTQ7EOnpjpecm%2B7vKVQ9Q%3D&ehkOptimized=37JDf4HelDR3UbRmKFaQP%2BZWtvW3KaCBRfHIeyPiUW0%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1671066000
     },
     {
