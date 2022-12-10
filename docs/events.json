@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1670662280,
+  "fetched_at": 1670663679,
   "data": [
-    {
-      "slug": "tournament/doublecross/event/melee-doubles",
-      "tournament_name": "DoubleCross",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/490572/image-749e352ab67dbe3f14b882bc3361e4a4.png?ehk=JCNdwfI8NUlDMzqnSSONXdEf2n5Lwq6GCW5dRXJoFYI%3D&ehkOptimized=fd3bOkPpi6zcVJO7EQjUY4nO1aFg05O%2FIQsITgA65Bg%3D",
-      "entrants": 8,
-      "start_time": 1670662800
-    },
     {
       "slug": "tournament/quest-for-best-noob-summit-2/event/main-event",
       "tournament_name": "Quest For Best Noob Summit 2",
@@ -286,7 +278,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA East Bracket (THURSDAY 12/15)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 87,
+      "entrants": 88,
       "start_time": 1671141600
     },
     {
