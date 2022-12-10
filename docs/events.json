@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670710486,
+  "fetched_at": 1670711352,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-61/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "[$200] CG Melee Monthly - December 2022",
       "event_name": "West Coast",
       "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1670713200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Melee Poetry Society 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504658/image-b251dc3b18ef2605a64df015f35cfc03.png?ehk=VcGluIgzsHuc8NUc%2FwGYTEMko%2Fzuu0Rc0MvaktZ54oQ%3D&ehkOptimized=AH7XGOw3NK7VFDPdvAA2nYJscs6aLHvXcGfsbSmt%2FxU%3D",
-      "entrants": 12,
+      "entrants": 15,
       "start_time": 1670720400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Sober Saturday #120",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504801/image-df59c96de6a52a65c4ef14d28b052847.jpg?ehk=wmDJKpTY%2Br8w73BVnEapVmW%2FlHuZ9%2FHGnwOJsip9DS8%3D&ehkOptimized=fYOSdnOC3d%2FfjVcfZ7ATwZJ%2BfZiL3UvTdSh3fg%2Bz5SM%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1670720400
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "La Granja de Nabos de Mäjoras #21",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501569/image-7b9dc9a8276fb9655b4378c1631e4fc8.png?ehk=dSNzj1eqeMek9MLkT9ybEZEigw2Gk3o7PwjOlodHMgM%3D&ehkOptimized=fcRKX1SEP1E9vzFQBI6seoG4%2FfIhXojhZrhDDE%2Fme%2FU%3D",
-      "entrants": 43,
+      "entrants": 44,
       "start_time": 1670776200
     },
     {
@@ -366,7 +366,7 @@
       "tournament_name": "The HI Rise",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504557/image-6b3329d8661e3f31c9829510a9f5be60.png?ehk=mGibGrsZUZzlzFr3TFIwmN463mBh1%2FTmgZ3iI9v1gvI%3D&ehkOptimized=RW3fBXyQt4VaDT86I7Es7JIqR8SWJfNc7X4zlTdVtZU%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1671591600
     },
     {
