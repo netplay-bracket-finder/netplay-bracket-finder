@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670681629,
+  "fetched_at": 1670682445,
   "data": [
     {
       "slug": "tournament/gfalt-2-festive-again-1/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Shrike Melee 45",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504726/image-59a652d02f5410639007104b29288e5f.png?ehk=iW7j7NOabwN6byE9okmsYnt80c3%2FFDpZjR6LZcAex0A%3D&ehkOptimized=nwuYJu3tWQON6ZooXLOnFlhD6lZtDG0lQ3yascodRtg%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670698800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "[$200] CG Melee Monthly - December 2022",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1670702400
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "[$200] CG Melee Monthly - December 2022",
       "event_name": "West Coast",
       "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1670713200
     },
     {
