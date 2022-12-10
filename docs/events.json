@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670690747,
+  "fetched_at": 1670692433,
   "data": [
     {
       "slug": "tournament/gfalt-2-festive-again-1/event/melee-singles",
@@ -54,7 +54,7 @@
       "tournament_name": "After Dark Melee #7",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/503472/image-20dd1d6f4c428fb612f7cc888e31dd65.png?ehk=%2FdDK3DKIu%2BbxjwfhXHe2ilJYqR8l%2BaFDpZ9VvLMcRIM%3D&ehkOptimized=xG7ciWLMHCDHD%2FTxaR8NJAkpvEqLzDXEJv8SuTEW1pc%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1670703300
     },
     {
@@ -64,6 +64,14 @@
       "image": "https://images.start.gg/images/tournament/503472/image-20dd1d6f4c428fb612f7cc888e31dd65.png?ehk=%2FdDK3DKIu%2BbxjwfhXHe2ilJYqR8l%2BaFDpZ9VvLMcRIM%3D&ehkOptimized=xG7ciWLMHCDHD%2FTxaR8NJAkpvEqLzDXEJv8SuTEW1pc%3D",
       "entrants": 1,
       "start_time": 1670703300
+    },
+    {
+      "slug": "tournament/legs-le-tournament-60/event/melee-singles",
+      "tournament_name": "Legs' Le Tournament #60",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/504787/image-71a894a3aba57763823c98439d91ad0a.png?ehk=XT5BgL%2B8qx%2FnPBpD2hsYyfGWHeKE1wDZ7DgUXqG1m14%3D&ehkOptimized=mYh7s1zQzRTEaei7G1SEp8N56NYJzL7BTyee1RNs8dA%3D",
+      "entrants": 3,
+      "start_time": 1670709600
     },
     {
       "slug": "tournament/melee-poetry-society-2/event/melee-singles",
@@ -118,7 +126,7 @@
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 23,
+      "entrants": 25,
       "start_time": 1670803200
     },
     {
@@ -262,7 +270,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA East Bracket (THURSDAY 12/15)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 88,
+      "entrants": 89,
       "start_time": 1671141600
     },
     {
