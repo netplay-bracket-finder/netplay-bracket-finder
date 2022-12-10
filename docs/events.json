@@ -1,28 +1,20 @@
 {
-  "fetched_at": 1670696348,
+  "fetched_at": 1670697579,
   "data": [
-    {
-      "slug": "tournament/gfalt-2-festive-again-1/event/melee-singles",
-      "tournament_name": "GFALT 2 (Festive Again!)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/257231/image-e54e5657b8e4b31e4e7bd84910a4a71b.png?ehk=H1d29avxsBAZ5pCX4AgERqG5X4cNWBcRG3erWBAqSck%3D&ehkOptimized=4EUSsYe6grsPfICslg8evw%2BIOa%2F7W9C%2FFb%2BLOz42Yzg%3D",
-      "entrants": 0,
-      "start_time": 1670698800
-    },
     {
       "slug": "tournament/the-battlefields-series-61/event/melee-singles",
       "tournament_name": "The Battlefields Series #61",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501379/image-3aaf8d7e48fa3e421aef16a6481a93cb.png?ehk=3VTmpRbzbgRkfQTRjlJUtWXtmRQ%2FRM3K%2FGz0idznbpE%3D&ehkOptimized=otllzTAOo4akXg5sBBlLYQdL%2BJmwSXM8SLNSSBMSJbY%3D",
       "entrants": 1,
-      "start_time": 1670713200
+      "start_time": 1670799600
     },
     {
       "slug": "tournament/shrike-melee-45-2/event/melee-singles",
       "tournament_name": "Shrike Melee 45",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504726/image-59a652d02f5410639007104b29288e5f.png?ehk=iW7j7NOabwN6byE9okmsYnt80c3%2FFDpZjR6LZcAex0A%3D&ehkOptimized=nwuYJu3tWQON6ZooXLOnFlhD6lZtDG0lQ3yascodRtg%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1670698800
     },
     {
@@ -38,7 +30,7 @@
       "tournament_name": "[$200] CG Melee Monthly - December 2022",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1670702400
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "After Dark Melee #7",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/503472/image-20dd1d6f4c428fb612f7cc888e31dd65.png?ehk=%2FdDK3DKIu%2BbxjwfhXHe2ilJYqR8l%2BaFDpZ9VvLMcRIM%3D&ehkOptimized=xG7ciWLMHCDHD%2FTxaR8NJAkpvEqLzDXEJv8SuTEW1pc%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1670703300
     },
     {
@@ -70,7 +62,7 @@
       "tournament_name": "Legs' Le Tournament #60",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504787/image-71a894a3aba57763823c98439d91ad0a.png?ehk=XT5BgL%2B8qx%2FnPBpD2hsYyfGWHeKE1wDZ7DgUXqG1m14%3D&ehkOptimized=mYh7s1zQzRTEaei7G1SEp8N56NYJzL7BTyee1RNs8dA%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1670709600
     },
     {
@@ -126,7 +118,7 @@
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 27,
+      "entrants": 28,
       "start_time": 1670803200
     },
     {
