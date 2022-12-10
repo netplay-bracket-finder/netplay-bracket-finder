@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670700977,
+  "fetched_at": 1670701886,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-61/event/melee-singles",
@@ -8,22 +8,6 @@
       "image": "https://images.start.gg/images/tournament/501379/image-3aaf8d7e48fa3e421aef16a6481a93cb.png?ehk=3VTmpRbzbgRkfQTRjlJUtWXtmRQ%2FRM3K%2FGz0idznbpE%3D&ehkOptimized=otllzTAOo4akXg5sBBlLYQdL%2BJmwSXM8SLNSSBMSJbY%3D",
       "entrants": 1,
       "start_time": 1670799600
-    },
-    {
-      "slug": "tournament/shrike-melee-45-2/event/melee-doubles",
-      "tournament_name": "Shrike Melee 45",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/504726/image-59a652d02f5410639007104b29288e5f.png?ehk=iW7j7NOabwN6byE9okmsYnt80c3%2FFDpZjR6LZcAex0A%3D&ehkOptimized=nwuYJu3tWQON6ZooXLOnFlhD6lZtDG0lQ3yascodRtg%3D",
-      "entrants": 3,
-      "start_time": 1670698800
-    },
-    {
-      "slug": "tournament/shrike-melee-45-2/event/melee-singles",
-      "tournament_name": "Shrike Melee 45",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/504726/image-59a652d02f5410639007104b29288e5f.png?ehk=iW7j7NOabwN6byE9okmsYnt80c3%2FFDpZjR6LZcAex0A%3D&ehkOptimized=nwuYJu3tWQON6ZooXLOnFlhD6lZtDG0lQ3yascodRtg%3D",
-      "entrants": 8,
-      "start_time": 1670698800
     },
     {
       "slug": "tournament/200-cg-melee-monthly-december-2022/event/east-coast",
@@ -86,7 +70,7 @@
       "tournament_name": "House Call #2 💊(Flow's Bday Edition 🥳🎉)",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/498056/image-1e40a77911fbe85ae04fe7b93510b98f.png?ehk=tPFKbZRs9Bim72Jcs6UcR0UPvOl3EA3WPqXINfGcPSs%3D&ehkOptimized=UZwrBU7rFc0esecSQ7cmBDuPJnZtnYWfD0Alh0q%2BQlk%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1670724000
     },
     {
@@ -270,7 +254,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA East Bracket (THURSDAY 12/15)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 89,
+      "entrants": 90,
       "start_time": 1671141600
     },
     {
