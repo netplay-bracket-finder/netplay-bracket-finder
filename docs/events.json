@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670644276,
+  "fetched_at": 1670645997,
   "data": [
     {
       "slug": "tournament/east-coast-fridays-232/event/melee-singles",
@@ -142,7 +142,7 @@
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1670803200
     },
     {
@@ -397,7 +397,7 @@
       "slug": "tournament/tech-skill-50-pot-bonus/event/melee-singles",
       "tournament_name": "Tech Skill - $50 Pot Bonus!",
       "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503350/image-38de86a19c319c476b9911153c2f011a.png?ehk=jrY4LkZtfpi3vq%2Bjpm48Fwb2nPEXqcTA%2BDiQHQKF76w%3D&ehkOptimized=L4IDxUIhnzXszhsOodt3qdMSStdkleb7GfwhonPL9Ks%3D",
+      "image": "https://images.start.gg/images/tournament/503350/image-9dbe1934f20edc35a8696b0bd3f55f05.png?ehk=IgTzaqq%2Bt7%2FBqCpUkO8r5K69gPmsFq%2FJiqhy5POWt8o%3D&ehkOptimized=L1mEa1O7dHHfv%2FBgAJ6xw4rWOYSo4Jzu6On69%2FvWJ7c%3D",
       "entrants": 6,
       "start_time": 1671321600
     },
@@ -416,6 +416,14 @@
       "image": "https://images.start.gg/images/tournament/497902/image-d4a4ad55c6d3f427365089239afc51e0.png?ehk=c7m3EkEj1F7EWLm%2BxOeXmCiOUcw2OhOt3A4FI8Zz8eg%3D&ehkOptimized=HULTs1MXhHY5McbFWyLKZ%2F%2BtiG%2Fm4vsKGgfSY8Bycz4%3D",
       "entrants": 0,
       "start_time": 1671490800
+    },
+    {
+      "slug": "tournament/the-hi-rise-50-prize-pool/event/melee-singles",
+      "tournament_name": "The HI Rise ($50 Prize Pool)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/504557/image-6b3329d8661e3f31c9829510a9f5be60.png?ehk=mGibGrsZUZzlzFr3TFIwmN463mBh1%2FTmgZ3iI9v1gvI%3D&ehkOptimized=RW3fBXyQt4VaDT86I7Es7JIqR8SWJfNc7X4zlTdVtZU%3D",
+      "entrants": 0,
+      "start_time": 1671595200
     },
     {
       "slug": "tournament/troppo-italiano-christmas-edition/event/singles",
