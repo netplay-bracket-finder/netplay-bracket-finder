@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1670671440,
+  "fetched_at": 1670672188,
   "data": [
-    {
-      "slug": "tournament/quest-for-best-noob-summit-2/event/main-event",
-      "tournament_name": "Quest For Best Noob Summit 2",
-      "event_name": "Main Event",
-      "image": "https://images.start.gg/images/tournament/503570/image-7f2f248507832e8a51bbe17008a8e6c9.png?ehk=9WPt2uBkwFccEcrT6oCpwQ4L1k2dtkiuPGo6Sc0AEoY%3D&ehkOptimized=7HnMqThFcWEUGPU7h5xG1lPr%2BBzc7ooTIdHHD324QGY%3D",
-      "entrants": 16,
-      "start_time": 1670671800
-    },
-    {
-      "slug": "tournament/quest-for-best-noob-summit-2/event/salty-suite-devin-vs-waphles",
-      "tournament_name": "Quest For Best Noob Summit 2",
-      "event_name": "Salty Suite Devin VS Waphles",
-      "image": "https://images.start.gg/images/tournament/503570/image-7f2f248507832e8a51bbe17008a8e6c9.png?ehk=9WPt2uBkwFccEcrT6oCpwQ4L1k2dtkiuPGo6Sc0AEoY%3D&ehkOptimized=7HnMqThFcWEUGPU7h5xG1lPr%2BBzc7ooTIdHHD324QGY%3D",
-      "entrants": 2,
-      "start_time": 1670675400
-    },
     {
       "slug": "tournament/gfalt-2-festive-again-1/event/melee-singles",
       "tournament_name": "GFALT 2 (Festive Again!)",
@@ -102,7 +86,7 @@
       "tournament_name": "From The Ashes #10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501623/image-ce69878456b4740cb5c49c21ca0faa72.png?ehk=m3eBB90T5%2FdNhXfkLCfH3leWgJDxFKJ0AaN6t4kF2rY%3D&ehkOptimized=ZaKQUftJB2oqzmyQawBbMfVFFI39cXWvWDmAXu8wbVI%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1670767200
     },
     {
@@ -110,7 +94,7 @@
       "tournament_name": "La Granja de Nabos de Mäjoras #21",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501569/image-7b9dc9a8276fb9655b4378c1631e4fc8.png?ehk=dSNzj1eqeMek9MLkT9ybEZEigw2Gk3o7PwjOlodHMgM%3D&ehkOptimized=fcRKX1SEP1E9vzFQBI6seoG4%2FfIhXojhZrhDDE%2Fme%2FU%3D",
-      "entrants": 40,
+      "entrants": 41,
       "start_time": 1670776200
     },
     {
