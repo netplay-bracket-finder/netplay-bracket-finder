@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670685323,
+  "fetched_at": 1670686598,
   "data": [
     {
       "slug": "tournament/gfalt-2-festive-again-1/event/melee-singles",
@@ -38,7 +38,7 @@
       "tournament_name": "[$200] CG Melee Monthly - December 2022",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 14,
+      "entrants": 16,
       "start_time": 1670702400
     },
     {
@@ -118,7 +118,7 @@
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 24,
+      "entrants": 23,
       "start_time": 1670803200
     },
     {
@@ -350,7 +350,7 @@
       "tournament_name": "Festive Fight",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/503750/image-bbfbd8609ff4be250d4be9cf04b06d13.jpg?ehk=tdhKFa9DFPLe3fsN9q9C9KmEn5f%2BqeM6TDkFPNPTaqM%3D&ehkOptimized=IN5wPcOmkpMVPjMc0WY4lhIFPSO0blgkleFaQY52r9I%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1671307200
     },
     {
