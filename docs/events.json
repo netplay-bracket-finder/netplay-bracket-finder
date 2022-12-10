@@ -1,6 +1,14 @@
 {
-  "fetched_at": 1670661579,
+  "fetched_at": 1670662280,
   "data": [
+    {
+      "slug": "tournament/doublecross/event/melee-doubles",
+      "tournament_name": "DoubleCross",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/490572/image-749e352ab67dbe3f14b882bc3361e4a4.png?ehk=JCNdwfI8NUlDMzqnSSONXdEf2n5Lwq6GCW5dRXJoFYI%3D&ehkOptimized=fd3bOkPpi6zcVJO7EQjUY4nO1aFg05O%2FIQsITgA65Bg%3D",
+      "entrants": 8,
+      "start_time": 1670662800
+    },
     {
       "slug": "tournament/quest-for-best-noob-summit-2/event/main-event",
       "tournament_name": "Quest For Best Noob Summit 2",
@@ -110,7 +118,7 @@
       "tournament_name": "La Granja de Nabos de Mäjoras #21",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501569/image-7b9dc9a8276fb9655b4378c1631e4fc8.png?ehk=dSNzj1eqeMek9MLkT9ybEZEigw2Gk3o7PwjOlodHMgM%3D&ehkOptimized=fcRKX1SEP1E9vzFQBI6seoG4%2FfIhXojhZrhDDE%2Fme%2FU%3D",
-      "entrants": 39,
+      "entrants": 40,
       "start_time": 1670776200
     },
     {
