@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670642242,
+  "fetched_at": 1670643467,
   "data": [
     {
       "slug": "tournament/east-coast-fridays-232/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/504508/image-5a11984085fd91f0ffd793e5f06ed59e.png?ehk=Ou0YXNoM%2BsZRW8H1OcksvDvd%2BH%2BnyZ925nZknQXT1Mg%3D&ehkOptimized=RgEtC%2Ff%2BT9X03aceQK0TN3%2FDLOup3mBOrLW3yv3IZjE%3D",
       "entrants": 108,
       "start_time": 1670634000
-    },
-    {
-      "slug": "tournament/doublecross/event/melee-doubles",
-      "tournament_name": "DoubleCross",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/490572/image-749e352ab67dbe3f14b882bc3361e4a4.png?ehk=JCNdwfI8NUlDMzqnSSONXdEf2n5Lwq6GCW5dRXJoFYI%3D&ehkOptimized=fd3bOkPpi6zcVJO7EQjUY4nO1aFg05O%2FIQsITgA65Bg%3D",
-      "entrants": 2,
-      "start_time": 1670662800
     },
     {
       "slug": "tournament/quest-for-best-noob-summit-2/event/main-event",
@@ -48,6 +40,22 @@
       "image": "https://images.start.gg/images/tournament/501379/image-3aaf8d7e48fa3e421aef16a6481a93cb.png?ehk=3VTmpRbzbgRkfQTRjlJUtWXtmRQ%2FRM3K%2FGz0idznbpE%3D&ehkOptimized=otllzTAOo4akXg5sBBlLYQdL%2BJmwSXM8SLNSSBMSJbY%3D",
       "entrants": 0,
       "start_time": 1670713200
+    },
+    {
+      "slug": "tournament/shrike-melee-45-2/event/melee-singles",
+      "tournament_name": "Shrike Melee 45",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/504726/image-59a652d02f5410639007104b29288e5f.png?ehk=iW7j7NOabwN6byE9okmsYnt80c3%2FFDpZjR6LZcAex0A%3D&ehkOptimized=nwuYJu3tWQON6ZooXLOnFlhD6lZtDG0lQ3yascodRtg%3D",
+      "entrants": 1,
+      "start_time": 1670698800
+    },
+    {
+      "slug": "tournament/shrike-melee-45-2/event/melee-doubles",
+      "tournament_name": "Shrike Melee 45",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/504726/image-59a652d02f5410639007104b29288e5f.png?ehk=iW7j7NOabwN6byE9okmsYnt80c3%2FFDpZjR6LZcAex0A%3D&ehkOptimized=nwuYJu3tWQON6ZooXLOnFlhD6lZtDG0lQ3yascodRtg%3D",
+      "entrants": 0,
+      "start_time": 1670698800
     },
     {
       "slug": "tournament/200-cg-melee-monthly-december-2022/event/east-coast",
