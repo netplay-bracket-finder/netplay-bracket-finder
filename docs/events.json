@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670645997,
+  "fetched_at": 1670647292,
   "data": [
     {
       "slug": "tournament/east-coast-fridays-232/event/melee-singles",
@@ -397,7 +397,7 @@
       "slug": "tournament/tech-skill-50-pot-bonus/event/melee-singles",
       "tournament_name": "Tech Skill - $50 Pot Bonus!",
       "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/503350/image-9dbe1934f20edc35a8696b0bd3f55f05.png?ehk=IgTzaqq%2Bt7%2FBqCpUkO8r5K69gPmsFq%2FJiqhy5POWt8o%3D&ehkOptimized=L1mEa1O7dHHfv%2FBgAJ6xw4rWOYSo4Jzu6On69%2FvWJ7c%3D",
+      "image": "https://images.start.gg/images/tournament/503350/image-71753b875b75657c7d8b762bae81cbce.png?ehk=gDdCw8LwKsHsU2%2FpCAFHiG1ywnWVPBMlML6BgO0U9qQ%3D&ehkOptimized=gjNk1rBWNmiAM9pNiuLrG55qKUSkLFZLkJxMrkvtG1I%3D",
       "entrants": 6,
       "start_time": 1671321600
     },
@@ -418,12 +418,12 @@
       "start_time": 1671490800
     },
     {
-      "slug": "tournament/the-hi-rise-50-prize-pool/event/melee-singles",
-      "tournament_name": "The HI Rise ($50 Prize Pool)",
+      "slug": "tournament/the-hi-rise/event/melee-singles",
+      "tournament_name": "The HI Rise",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504557/image-6b3329d8661e3f31c9829510a9f5be60.png?ehk=mGibGrsZUZzlzFr3TFIwmN463mBh1%2FTmgZ3iI9v1gvI%3D&ehkOptimized=RW3fBXyQt4VaDT86I7Es7JIqR8SWJfNc7X4zlTdVtZU%3D",
-      "entrants": 0,
-      "start_time": 1671595200
+      "entrants": 2,
+      "start_time": 1671591600
     },
     {
       "slug": "tournament/troppo-italiano-christmas-edition/event/singles",
