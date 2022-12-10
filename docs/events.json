@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670704611,
+  "fetched_at": 1670705488,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-61/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "[$200] CG Melee Monthly - December 2022",
       "event_name": "West Coast",
       "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1670713200
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Legs' Le Tournament #60",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504787/image-71a894a3aba57763823c98439d91ad0a.png?ehk=XT5BgL%2B8qx%2FnPBpD2hsYyfGWHeKE1wDZ7DgUXqG1m14%3D&ehkOptimized=mYh7s1zQzRTEaei7G1SEp8N56NYJzL7BTyee1RNs8dA%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1670709600
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Melee Poetry Society 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504658/image-b251dc3b18ef2605a64df015f35cfc03.png?ehk=VcGluIgzsHuc8NUc%2FwGYTEMko%2Fzuu0Rc0MvaktZ54oQ%3D&ehkOptimized=AH7XGOw3NK7VFDPdvAA2nYJscs6aLHvXcGfsbSmt%2FxU%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1670720400
     },
     {
