@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670698278,
+  "fetched_at": 1670699533,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-61/event/melee-singles",
@@ -10,6 +10,14 @@
       "start_time": 1670799600
     },
     {
+      "slug": "tournament/shrike-melee-45-2/event/melee-doubles",
+      "tournament_name": "Shrike Melee 45",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/504726/image-59a652d02f5410639007104b29288e5f.png?ehk=iW7j7NOabwN6byE9okmsYnt80c3%2FFDpZjR6LZcAex0A%3D&ehkOptimized=nwuYJu3tWQON6ZooXLOnFlhD6lZtDG0lQ3yascodRtg%3D",
+      "entrants": 3,
+      "start_time": 1670698800
+    },
+    {
       "slug": "tournament/shrike-melee-45-2/event/melee-singles",
       "tournament_name": "Shrike Melee 45",
       "event_name": "Melee Singles",
@@ -18,19 +26,11 @@
       "start_time": 1670698800
     },
     {
-      "slug": "tournament/shrike-melee-45-2/event/melee-doubles",
-      "tournament_name": "Shrike Melee 45",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/504726/image-59a652d02f5410639007104b29288e5f.png?ehk=iW7j7NOabwN6byE9okmsYnt80c3%2FFDpZjR6LZcAex0A%3D&ehkOptimized=nwuYJu3tWQON6ZooXLOnFlhD6lZtDG0lQ3yascodRtg%3D",
-      "entrants": 1,
-      "start_time": 1670698800
-    },
-    {
       "slug": "tournament/200-cg-melee-monthly-december-2022/event/east-coast",
       "tournament_name": "[$200] CG Melee Monthly - December 2022",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 18,
+      "entrants": 20,
       "start_time": 1670702400
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Melee Poetry Society 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504658/image-b251dc3b18ef2605a64df015f35cfc03.png?ehk=VcGluIgzsHuc8NUc%2FwGYTEMko%2Fzuu0Rc0MvaktZ54oQ%3D&ehkOptimized=AH7XGOw3NK7VFDPdvAA2nYJscs6aLHvXcGfsbSmt%2FxU%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670720400
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Sober Saturday #120",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504801/image-df59c96de6a52a65c4ef14d28b052847.jpg?ehk=wmDJKpTY%2Br8w73BVnEapVmW%2FlHuZ9%2FHGnwOJsip9DS8%3D&ehkOptimized=fYOSdnOC3d%2FfjVcfZ7ATwZJ%2BfZiL3UvTdSh3fg%2Bz5SM%3D",
-      "entrants": 2,
+      "entrants": 6,
       "start_time": 1670720400
     },
     {
