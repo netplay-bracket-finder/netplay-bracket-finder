@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670711352,
+  "fetched_at": 1670712023,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-61/event/melee-singles",
@@ -10,27 +10,11 @@
       "start_time": 1670799600
     },
     {
-      "slug": "tournament/200-cg-melee-monthly-december-2022/event/east-coast",
-      "tournament_name": "[$200] CG Melee Monthly - December 2022",
-      "event_name": "East Coast",
-      "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 23,
-      "start_time": 1670702400
-    },
-    {
-      "slug": "tournament/200-cg-melee-monthly-december-2022/event/west-coast",
-      "tournament_name": "[$200] CG Melee Monthly - December 2022",
-      "event_name": "West Coast",
-      "image": "https://images.start.gg/images/tournament/496896/image-38fbec442ca19b2df1ad5fc70d4f72a1.jpg?ehk=Z%2BfhH%2F%2FWi5IkoGVevcoPImZh3mPZigvEWO9pVueUT1A%3D&ehkOptimized=WGMxuquOv1h6MuASOxCtzwbPYpNQc%2BzUOj6lMSnlEjI%3D",
-      "entrants": 15,
-      "start_time": 1670713200
-    },
-    {
       "slug": "tournament/melee-poetry-society-2/event/melee-singles",
       "tournament_name": "Melee Poetry Society 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504658/image-b251dc3b18ef2605a64df015f35cfc03.png?ehk=VcGluIgzsHuc8NUc%2FwGYTEMko%2Fzuu0Rc0MvaktZ54oQ%3D&ehkOptimized=AH7XGOw3NK7VFDPdvAA2nYJscs6aLHvXcGfsbSmt%2FxU%3D",
-      "entrants": 15,
+      "entrants": 17,
       "start_time": 1670720400
     },
     {
@@ -38,7 +22,7 @@
       "tournament_name": "Sober Saturday #120",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504801/image-df59c96de6a52a65c4ef14d28b052847.jpg?ehk=wmDJKpTY%2Br8w73BVnEapVmW%2FlHuZ9%2FHGnwOJsip9DS8%3D&ehkOptimized=fYOSdnOC3d%2FfjVcfZ7ATwZJ%2BfZiL3UvTdSh3fg%2Bz5SM%3D",
-      "entrants": 9,
+      "entrants": 8,
       "start_time": 1670720400
     },
     {
