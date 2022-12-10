@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670697579,
+  "fetched_at": 1670698278,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-61/event/melee-singles",
@@ -62,7 +62,7 @@
       "tournament_name": "Legs' Le Tournament #60",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504787/image-71a894a3aba57763823c98439d91ad0a.png?ehk=XT5BgL%2B8qx%2FnPBpD2hsYyfGWHeKE1wDZ7DgUXqG1m14%3D&ehkOptimized=mYh7s1zQzRTEaei7G1SEp8N56NYJzL7BTyee1RNs8dA%3D",
-      "entrants": 6,
+      "entrants": 8,
       "start_time": 1670709600
     },
     {
@@ -71,6 +71,14 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504658/image-b251dc3b18ef2605a64df015f35cfc03.png?ehk=VcGluIgzsHuc8NUc%2FwGYTEMko%2Fzuu0Rc0MvaktZ54oQ%3D&ehkOptimized=AH7XGOw3NK7VFDPdvAA2nYJscs6aLHvXcGfsbSmt%2FxU%3D",
       "entrants": 0,
+      "start_time": 1670720400
+    },
+    {
+      "slug": "tournament/sober-saturday-120/event/melee-singles",
+      "tournament_name": "Sober Saturday #120",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/504801/image-df59c96de6a52a65c4ef14d28b052847.jpg?ehk=wmDJKpTY%2Br8w73BVnEapVmW%2FlHuZ9%2FHGnwOJsip9DS8%3D&ehkOptimized=fYOSdnOC3d%2FfjVcfZ7ATwZJ%2BfZiL3UvTdSh3fg%2Bz5SM%3D",
+      "entrants": 2,
       "start_time": 1670720400
     },
     {
@@ -118,7 +126,7 @@
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 28,
+      "entrants": 29,
       "start_time": 1670803200
     },
     {
