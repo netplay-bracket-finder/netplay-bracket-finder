@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670712690,
+  "fetched_at": 1670714163,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-61/event/melee-singles",
       "tournament_name": "The Battlefields Series #61",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501379/image-3aaf8d7e48fa3e421aef16a6481a93cb.png?ehk=3VTmpRbzbgRkfQTRjlJUtWXtmRQ%2FRM3K%2FGz0idznbpE%3D&ehkOptimized=otllzTAOo4akXg5sBBlLYQdL%2BJmwSXM8SLNSSBMSJbY%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670799600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Melee Poetry Society 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504658/image-b251dc3b18ef2605a64df015f35cfc03.png?ehk=VcGluIgzsHuc8NUc%2FwGYTEMko%2Fzuu0Rc0MvaktZ54oQ%3D&ehkOptimized=AH7XGOw3NK7VFDPdvAA2nYJscs6aLHvXcGfsbSmt%2FxU%3D",
-      "entrants": 17,
+      "entrants": 19,
       "start_time": 1670720400
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 35,
+      "entrants": 36,
       "start_time": 1670803200
     },
     {
