@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670794633,
+  "fetched_at": 1670795480,
   "data": [
     {
       "slug": "tournament/blumflip-presents-frozen-destination-100-prize-pool/event/melee-doubles",
@@ -14,7 +14,7 @@
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 73,
+      "entrants": 74,
       "start_time": 1670803200
     },
     {
@@ -34,8 +34,8 @@
       "start_time": 1670814000
     },
     {
-      "slug": "tournament/kalvar-cup-71/event/melee-singles",
-      "tournament_name": "Kalvar Cup #71",
+      "slug": "tournament/kalvar-cup-71-j-balvar/event/melee-singles",
+      "tournament_name": "Kalvar Cup #71: J Balvar",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505012/image-921f60a001b4dd758e29f9f79e49eb0d.png?ehk=pEmluGQSA9YLZ6eNRdcs9LCefPt%2Fn6575vJwKC3oLc0%3D&ehkOptimized=hyoEHe1XJ25BaLG%2B%2F5eYF6EiCk68tX7TFq%2Bd0FXPRI4%3D",
       "entrants": 9,
@@ -54,7 +54,7 @@
       "tournament_name": "No Melee on Sundays 21",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505007/image-9893410284a529530ba356053eb8ad0c.png?ehk=U4gpYLNtt0jshKdnLDmZPqBmdjYeb7CUmnAaC%2FvRaaQ%3D&ehkOptimized=YMy9om1ejqs4H9powsxQbyYwIwBerJz7hNNj8WtEVD8%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670806800
     },
     {
@@ -182,7 +182,7 @@
       "tournament_name": "Femme Fatale #1",
       "event_name": "Femme Fatale",
       "image": "https://images.start.gg/images/tournament/504976/image-c1296df1b714ff0086d3ddfffe1385dc.png?ehk=cOAQsbgRlQcm3IzcB2BizbIIDl1DAgZzfmTWXt85ACc%3D&ehkOptimized=k7k4ilcWK2tNpK85C8ZHbsuin4pMV%2FO3tiIRWJWsKhY%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1671069600
     },
     {
