@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670775702,
+  "fetched_at": 1670777134,
   "data": [
     {
       "slug": "tournament/fight-of-the-fearless-31/event/fight-of-the-fearless-single",
       "tournament_name": "Fight of the Fearless 31",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/504366/image-6500f87ebaca70c9b2afabddb366104e.png?ehk=pHY9%2Bib2sBzo67I%2F1dLq1%2FkfhyP9Ex1f%2BhGB8S3T%2BjQ%3D&ehkOptimized=5FdrCmYwHjO7YpGojxqYh6MfuLZOVNfuDuO8RlqFLfY%3D",
-      "entrants": 9,
+      "entrants": 11,
       "start_time": 1670781600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 43,
+      "entrants": 45,
       "start_time": 1670803200
     },
     {
@@ -166,7 +166,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA East Bracket (THURSDAY 12/15)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 99,
+      "entrants": 100,
       "start_time": 1671141600
     },
     {
