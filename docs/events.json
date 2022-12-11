@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1670745092,
+  "fetched_at": 1670746803,
   "data": [
-    {
-      "slug": "tournament/the-battlefields-series-61/event/melee-singles",
-      "tournament_name": "The Battlefields Series #61",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/501379/image-3aaf8d7e48fa3e421aef16a6481a93cb.png?ehk=3VTmpRbzbgRkfQTRjlJUtWXtmRQ%2FRM3K%2FGz0idznbpE%3D&ehkOptimized=otllzTAOo4akXg5sBBlLYQdL%2BJmwSXM8SLNSSBMSJbY%3D",
-      "entrants": 2,
-      "start_time": 1670799600
-    },
     {
       "slug": "tournament/from-the-ashes-10/event/melee-singles",
       "tournament_name": "From The Ashes #10",
@@ -86,7 +78,7 @@
       "tournament_name": "It's Like Jazz",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504648/image-156aec021d1ac39a087742c128166798.png?ehk=5gjlwz7TfZrAU1K1ZXg16aai6OG3TEdkc8ydOl8Atwg%3D&ehkOptimized=PrCkfDnb5Yamw5jmREp721QQzUbPVoywBcWWCJzha40%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670806800
     },
     {
@@ -166,7 +158,7 @@
       "tournament_name": "Waddle Wednesday Anniversary",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495290/image-4810ae814d59a0b3cead6919bda003e0.png?ehk=9bYscSpuqNAIMu3S1hQomLaTQ7EOnpjpecm%2B7vKVQ9Q%3D&ehkOptimized=37JDf4HelDR3UbRmKFaQP%2BZWtvW3KaCBRfHIeyPiUW0%3D",
-      "entrants": 24,
+      "entrants": 25,
       "start_time": 1671066000
     },
     {
