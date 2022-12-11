@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670789788,
+  "fetched_at": 1670790991,
   "data": [
     {
       "slug": "tournament/blumflip-presents-frozen-destination-100-prize-pool/event/melee-doubles",
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee doubles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 21,
+      "entrants": 24,
       "start_time": 1670792400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 61,
+      "entrants": 63,
       "start_time": 1670803200
     },
     {
@@ -162,11 +162,11 @@
       "start_time": 1671066000
     },
     {
-      "slug": "tournament/women-only-1/event/femme-fatale",
-      "tournament_name": "Women Only #1",
+      "slug": "tournament/femme-fatale-1/event/femme-fatale",
+      "tournament_name": "Femme Fatale #1",
       "event_name": "Femme Fatale",
-      "image": "https://images.start.gg/images/tournament/504976/image-d19d62605e783ae4e2bc1e0e14d12f42.png?ehk=y9htnUeXOS2utJYBHL2wm3721Apg1Tp%2BWjx2u%2FV4hhU%3D&ehkOptimized=9wi%2B0GxKkR2b%2FrCmgGMCJFLq1DRRliVP4wd49pfzpZI%3D",
-      "entrants": 0,
+      "image": "https://images.start.gg/images/tournament/504976/image-c1296df1b714ff0086d3ddfffe1385dc.png?ehk=cOAQsbgRlQcm3IzcB2BizbIIDl1DAgZzfmTWXt85ACc%3D&ehkOptimized=k7k4ilcWK2tNpK85C8ZHbsuin4pMV%2FO3tiIRWJWsKhY%3D",
+      "entrants": 2,
       "start_time": 1671069600
     },
     {
