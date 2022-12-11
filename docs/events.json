@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1670797774,
+  "fetched_at": 1670798439,
   "data": [
-    {
-      "slug": "tournament/blumflip-presents-frozen-destination-100-prize-pool/event/melee-doubles",
-      "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
-      "event_name": "melee doubles",
-      "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 25,
-      "start_time": 1670792400
-    },
-    {
-      "slug": "tournament/blumflip-presents-frozen-destination-100-prize-pool/event/melee-singles",
-      "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
-      "event_name": "melee singles",
-      "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 75,
-      "start_time": 1670803200
-    },
     {
       "slug": "tournament/lgbt-s3e16-dr-mario-manipulates-the-community-on-medium-com/event/east-coast-bracket",
       "tournament_name": "LGBT S3E16: Dr Mario Manipulates the Community on medium.com",
@@ -38,7 +22,7 @@
       "tournament_name": "Kalvar Cup #71: J Balvar",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505012/image-921f60a001b4dd758e29f9f79e49eb0d.png?ehk=pEmluGQSA9YLZ6eNRdcs9LCefPt%2Fn6575vJwKC3oLc0%3D&ehkOptimized=hyoEHe1XJ25BaLG%2B%2F5eYF6EiCk68tX7TFq%2Bd0FXPRI4%3D",
-      "entrants": 12,
+      "entrants": 14,
       "start_time": 1670803200
     },
     {
@@ -62,7 +46,7 @@
       "tournament_name": "SCSS West Coast #87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504620/image-cdb30cdde279c88361419c34bad88c41.png?ehk=RO2y52ZoiGhsWOcCVOCxWCvocGGTTqKlIQY004mOVI8%3D&ehkOptimized=fkgQV1IVgCp%2FJ%2BoMdHT8vvuyPgE9Zwhv3uz%2F1wOSU0Y%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670808600
     },
     {
@@ -70,7 +54,7 @@
       "tournament_name": "It's Like Jazz",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504648/image-156aec021d1ac39a087742c128166798.png?ehk=5gjlwz7TfZrAU1K1ZXg16aai6OG3TEdkc8ydOl8Atwg%3D&ehkOptimized=PrCkfDnb5Yamw5jmREp721QQzUbPVoywBcWWCJzha40%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670806800
     },
     {
