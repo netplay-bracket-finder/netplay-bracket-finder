@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670784684,
+  "fetched_at": 1670785962,
   "data": [
     {
       "slug": "tournament/blumflip-presents-frozen-destination-100-prize-pool/event/melee-doubles",
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee doubles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1670792400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 51,
+      "entrants": 52,
       "start_time": 1670803200
     },
     {
@@ -40,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/504617/image-618f0b621bee369ec06f585aaaca9190.png?ehk=EbYwezlfPAqambMO2pp4iTWQ%2FoA7wHk35OO5bT3N2eA%3D&ehkOptimized=F%2ByuvEyE5C2shUQkN5%2FTY2hmmqqb0xNCdWp7CgYP4%2Fc%3D",
       "entrants": 2,
       "start_time": 1670805000
+    },
+    {
+      "slug": "tournament/no-melee-on-sundays-21/event/melee-singles",
+      "tournament_name": "No Melee on Sundays 21",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/505007/image-9893410284a529530ba356053eb8ad0c.png?ehk=U4gpYLNtt0jshKdnLDmZPqBmdjYeb7CUmnAaC%2FvRaaQ%3D&ehkOptimized=YMy9om1ejqs4H9powsxQbyYwIwBerJz7hNNj8WtEVD8%3D",
+      "entrants": 1,
+      "start_time": 1670806800
     },
     {
       "slug": "tournament/scss-west-coast-87/event/melee-singles",
