@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670722422,
+  "fetched_at": 1670726550,
   "data": [
     {
       "slug": "tournament/the-battlefields-series-61/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/501379/image-3aaf8d7e48fa3e421aef16a6481a93cb.png?ehk=3VTmpRbzbgRkfQTRjlJUtWXtmRQ%2FRM3K%2FGz0idznbpE%3D&ehkOptimized=otllzTAOo4akXg5sBBlLYQdL%2BJmwSXM8SLNSSBMSJbY%3D",
       "entrants": 2,
       "start_time": 1670799600
-    },
-    {
-      "slug": "tournament/house-call-2-flow-s-bday-edition-1/event/melee-singles",
-      "tournament_name": "House Call #2 💊(Flow's Bday Edition 🥳🎉)",
-      "event_name": "melee singles",
-      "image": "https://images.start.gg/images/tournament/498056/image-1e40a77911fbe85ae04fe7b93510b98f.png?ehk=tPFKbZRs9Bim72Jcs6UcR0UPvOl3EA3WPqXINfGcPSs%3D&ehkOptimized=UZwrBU7rFc0esecSQ7cmBDuPJnZtnYWfD0Alh0q%2BQlk%3D",
-      "entrants": 8,
-      "start_time": 1670724000
     },
     {
       "slug": "tournament/from-the-ashes-10/event/melee-singles",
@@ -54,7 +46,7 @@
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 39,
+      "entrants": 40,
       "start_time": 1670803200
     },
     {
