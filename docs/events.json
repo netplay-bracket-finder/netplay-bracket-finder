@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670785962,
+  "fetched_at": 1670786643,
   "data": [
     {
       "slug": "tournament/blumflip-presents-frozen-destination-100-prize-pool/event/melee-doubles",
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee doubles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1670792400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "blumflip presents: Frozen Destination - $100 prize pool!",
       "event_name": "melee singles",
       "image": "https://images.start.gg/images/tournament/499800/image-fb8a35cd143a7a676e6bc79428d2b8d8.png?ehk=QoNohpxJH3rxbAUvunhOmkv4nv40nzXBKGanO9EnMBQ%3D&ehkOptimized=btstcTHl6FXrxZi5Y4SwonMVR0IEP4xl1NtUyhpuLQg%3D",
-      "entrants": 52,
+      "entrants": 54,
       "start_time": 1670803200
     },
     {
@@ -32,6 +32,14 @@
       "image": "https://images.start.gg/images/tournament/503993/image-b4d07a0f7a4cd69598fe62c930a66699.png?ehk=1ianzmPq1hm0ou8ZcGAgkxDgVad50TOkjQkltKcnzAU%3D&ehkOptimized=l2igCqQSQsY7grLyMjp0OjAYkWj0bD2oSxixUX0UpAc%3D",
       "entrants": 5,
       "start_time": 1670814000
+    },
+    {
+      "slug": "tournament/kalvar-cup-71/event/melee-singles",
+      "tournament_name": "Kalvar Cup #71",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/505012/image-921f60a001b4dd758e29f9f79e49eb0d.png?ehk=pEmluGQSA9YLZ6eNRdcs9LCefPt%2Fn6575vJwKC3oLc0%3D&ehkOptimized=hyoEHe1XJ25BaLG%2B%2F5eYF6EiCk68tX7TFq%2Bd0FXPRI4%3D",
+      "entrants": 0,
+      "start_time": 1670803200
     },
     {
       "slug": "tournament/scss-east-coast-98/event/melee-singles",
