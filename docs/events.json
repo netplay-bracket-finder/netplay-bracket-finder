@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670753794,
+  "fetched_at": 1670755059,
   "data": [
     {
       "slug": "tournament/from-the-ashes-10/event/melee-singles",
       "tournament_name": "From The Ashes #10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501623/image-ce69878456b4740cb5c49c21ca0faa72.png?ehk=m3eBB90T5%2FdNhXfkLCfH3leWgJDxFKJ0AaN6t4kF2rY%3D&ehkOptimized=ZaKQUftJB2oqzmyQawBbMfVFFI39cXWvWDmAXu8wbVI%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1670767200
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "SCSS West Coast #87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504620/image-cdb30cdde279c88361419c34bad88c41.png?ehk=RO2y52ZoiGhsWOcCVOCxWCvocGGTTqKlIQY004mOVI8%3D&ehkOptimized=fkgQV1IVgCp%2FJ%2BoMdHT8vvuyPgE9Zwhv3uz%2F1wOSU0Y%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670808600
     },
     {
