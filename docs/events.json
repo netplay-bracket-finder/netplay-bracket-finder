@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670874676,
+  "fetched_at": 1670876182,
   "data": [
     {
       "slug": "tournament/super-smash-bong-76/event/melee-singles",
       "tournament_name": "Super Smash Bong #76",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/505266/image-a31e0eb7cc9346f8511c41d7135c6601.jpg?ehk=7sBP5g7fGpOPcGHGa9tClekjJkfofJp1NCRJzugYLcw%3D&ehkOptimized=JhiEqxxa9FMCRVAtbOdOaAAen5jfaM1%2BRrVS%2FRQ%2B4Fw%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670884200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Slippi Sauce #78 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505231/image-c1249e5f2bd9cb6d19190af3697e33d6.png?ehk=p81Nj%2BkvSa%2FNnTZkc6Q8O8%2BV30U39VOBstPvYzZ4Dqg%3D&ehkOptimized=6f0FxArA9yTBYraSc76XcutZrrVlSsDQafrh4SuRw%2FQ%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1670886000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "MNN#36",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505236/image-9452f143b8bcdf831c7824e6e54481ef.png?ehk=DedIrRIxxjq1Tf%2BE2xcXIT1b%2BJ5BFnyDkUjgbd7pPq4%3D&ehkOptimized=HdxCnKJcUvazMY08rkjFK45f%2Bh998qJpO54V%2BytyB0A%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670904000
     },
     {
@@ -358,7 +358,7 @@
       "tournament_name": "The Bong House",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504923/image-8d43eb675abf43b313d1c7bef67344a6.png?ehk=a%2Fb974aQG%2FM2MJ9XDxIFW841647c3cAlDXkY8aR%2FIGc%3D&ehkOptimized=sc7%2BxBp0hO8suMk0c1ObO4pRmhj7FenIErghTHm8MJA%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1673046000
     },
     {
