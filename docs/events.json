@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670802694,
+  "fetched_at": 1670808176,
   "data": [
     {
       "slug": "tournament/lgbt-s3e16-dr-mario-manipulates-the-community-on-medium-com/event/east-coast-bracket",
@@ -22,32 +22,8 @@
       "tournament_name": "Kalvar Cup #71: J Balvar",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505012/image-921f60a001b4dd758e29f9f79e49eb0d.png?ehk=pEmluGQSA9YLZ6eNRdcs9LCefPt%2Fn6575vJwKC3oLc0%3D&ehkOptimized=hyoEHe1XJ25BaLG%2B%2F5eYF6EiCk68tX7TFq%2Bd0FXPRI4%3D",
-      "entrants": 26,
+      "entrants": 27,
       "start_time": 1670803200
-    },
-    {
-      "slug": "tournament/scss-east-coast-98/event/melee-singles",
-      "tournament_name": "SCSS East Coast #98",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/504617/image-618f0b621bee369ec06f585aaaca9190.png?ehk=EbYwezlfPAqambMO2pp4iTWQ%2FoA7wHk35OO5bT3N2eA%3D&ehkOptimized=F%2ByuvEyE5C2shUQkN5%2FTY2hmmqqb0xNCdWp7CgYP4%2Fc%3D",
-      "entrants": 8,
-      "start_time": 1670805000
-    },
-    {
-      "slug": "tournament/no-melee-on-sundays-21/event/melee-singles",
-      "tournament_name": "No Melee on Sundays 21",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505007/image-9893410284a529530ba356053eb8ad0c.png?ehk=U4gpYLNtt0jshKdnLDmZPqBmdjYeb7CUmnAaC%2FvRaaQ%3D&ehkOptimized=YMy9om1ejqs4H9powsxQbyYwIwBerJz7hNNj8WtEVD8%3D",
-      "entrants": 5,
-      "start_time": 1670806800
-    },
-    {
-      "slug": "tournament/scss-west-coast-87/event/melee-singles",
-      "tournament_name": "SCSS West Coast #87",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/504620/image-cdb30cdde279c88361419c34bad88c41.png?ehk=RO2y52ZoiGhsWOcCVOCxWCvocGGTTqKlIQY004mOVI8%3D&ehkOptimized=fkgQV1IVgCp%2FJ%2BoMdHT8vvuyPgE9Zwhv3uz%2F1wOSU0Y%3D",
-      "entrants": 3,
-      "start_time": 1670808600
     },
     {
       "slug": "tournament/it-s-like-jazz/event/melee-singles",
@@ -102,7 +78,7 @@
       "tournament_name": "Spudfest 44",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504560/image-43baf47f884e83249978b9f62a03e11b.jpg?ehk=swTR7eJiNuNp%2FmpAp2oNIBzFp748CDeW7xFjHYIgj64%3D&ehkOptimized=32ptP4C6bpPSek0GtR8F92uTFF%2FYIzeHvRO8241It0o%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670896800
     },
     {
@@ -110,7 +86,7 @@
       "tournament_name": "CASINO ROYALE 4 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/503345/image-0c735cc893af888583e462fc80465c16.png?ehk=MrJ1u3ab3noMMDPCDJTiFzmgnRTaHPZX%2FnSjJMi6qfE%3D&ehkOptimized=%2FjgmNWVqc%2BAoK8AnascqWAcHKLGOzJ%2BxoFDXVlNS%2BNw%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1670898600
     },
     {
@@ -150,7 +126,7 @@
       "tournament_name": "Alarch's Promotional US Tournament",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505029/image-ce8b5cebda08aff63c91427d31517ec6.jpg?ehk=jyMvp5E%2FgbHyE2SJ9uPNqrRA%2BK5XbgxS4bQYzBFUhC8%3D&ehkOptimized=5EIwDDN6KWc9lUR1n7Td5Qvm7kYyKWMhWWobO3CWJFg%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1671048000
     },
     {
@@ -190,7 +166,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA East Bracket (THURSDAY 12/15)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 102,
+      "entrants": 103,
       "start_time": 1671141600
     },
     {
@@ -270,7 +246,7 @@
       "tournament_name": "Bye Bye, OG Kid!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501759/image-a09dde37b601e797f301dbe0cd397401.png?ehk=mC5V2jWHiP%2B8eioKyums76p6bg2YdeP6q6SCLlicvGE%3D&ehkOptimized=%2Bl0MAuOcVzS5E1m6FG38xyQe1%2FPl9gk2PCJ3lM2OI4Q%3D",
-      "entrants": 26,
+      "entrants": 27,
       "start_time": 1671316200
     },
     {
@@ -370,11 +346,19 @@
       "start_time": 1672963200
     },
     {
+      "slug": "tournament/the-bong-house/event/melee-singles",
+      "tournament_name": "The Bong House",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/504923/image-8d43eb675abf43b313d1c7bef67344a6.png?ehk=a%2Fb974aQG%2FM2MJ9XDxIFW841647c3cAlDXkY8aR%2FIGc%3D&ehkOptimized=sc7%2BxBp0hO8suMk0c1ObO4pRmhj7FenIErghTHm8MJA%3D",
+      "entrants": 6,
+      "start_time": 1673046000
+    },
+    {
       "slug": "tournament/the-bong-house/event/melee-crews",
       "tournament_name": "The Bong House",
       "event_name": "Melee Crews",
       "image": "https://images.start.gg/images/tournament/504923/image-8d43eb675abf43b313d1c7bef67344a6.png?ehk=a%2Fb974aQG%2FM2MJ9XDxIFW841647c3cAlDXkY8aR%2FIGc%3D&ehkOptimized=sc7%2BxBp0hO8suMk0c1ObO4pRmhj7FenIErghTHm8MJA%3D",
-      "entrants": null,
+      "entrants": 0,
       "start_time": 1673046000
     },
     {
@@ -424,14 +408,6 @@
       "image": "https://images.start.gg/images/tournament/492841/image-25503525b7a477b0d3cf79d8edd231b5.png?ehk=imi1GXSK2RRhQ6P2wLkYKi0L%2BFufyHQQoKRu46xUBxw%3D&ehkOptimized=PGAXVHlTmkwd5NsRpetUcGIGJxqQQE7r82nqo0%2Fx1cA%3D",
       "entrants": 17,
       "start_time": 1674946800
-    },
-    {
-      "slug": "tournament/krampus-s-online-smashfest-1/event/melee-singles",
-      "tournament_name": "Krampus's Online Smashfest",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/476152/image-234d2054e4a3f236cef89ec647415612.png?ehk=wf1mjz3Tp4uLN20IDYJKsblD5i0I3zMnPbjLg2%2FoQjU%3D&ehkOptimized=SQtysk8eHHf2qW2Ma0KNL3Y0aE3aTokwevnlZ6VDYT4%3D",
-      "entrants": 5,
-      "start_time": 1681491600
     },
     {
       "slug": "tournament/meteor-massacre-1/event/melee-singles",
