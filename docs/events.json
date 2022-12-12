@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1670888282,
+  "fetched_at": 1670889092,
   "data": [
-    {
-      "slug": "tournament/woop-melee-56/event/melee-singles",
-      "tournament_name": "Woop Melee! #56",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/504341/image-8e8545b318b700c8c248ba1b7bd2a355.png?ehk=LNXxGt8MVyFLoJ7U4Gx5V12vLZKqgh%2FeLElVGIQRGLk%3D&ehkOptimized=znD2bXxN%2FRzyKfMHvsZm%2BAEotrEViQf6YLvGQKyD84Y%3D",
-      "entrants": 8,
-      "start_time": 1670889600
-    },
     {
       "slug": "tournament/coast-to-coast-doubles-11/event/ec-doubles",
       "tournament_name": "Coast to Coast Doubles # 11",
@@ -30,7 +22,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #7",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503739/image-c31699b4962f2d525909c6bb2c53587c.jpg?ehk=u7p%2BteiQmfA0t3A5SIGsYa73vMnxXLW7TuzGsqmG%2B3s%3D&ehkOptimized=myVUcrSo5Bnk0%2Fxfb1xxXO%2BHyPBvQhbIxQLKy6McisI%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670894100
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "MNN#36",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505236/image-9452f143b8bcdf831c7824e6e54481ef.png?ehk=DedIrRIxxjq1Tf%2BE2xcXIT1b%2BJ5BFnyDkUjgbd7pPq4%3D&ehkOptimized=HdxCnKJcUvazMY08rkjFK45f%2Bh998qJpO54V%2BytyB0A%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1670904000
     },
     {
