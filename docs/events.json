@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670856679,
+  "fetched_at": 1670858268,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-42/event/melee-singles",
       "tournament_name": "Monday Night Mixup #42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505042/image-bacde8dba611c582e7e8e0677cbb3ad6.png?ehk=5jT2KAzYzkM6GO20ydSQkL2jZTXgmFmyQ%2FkShKWxRRw%3D&ehkOptimized=NWw9D9wrkZzqOiuTu7GLoZoZNKMQP2UO3Cn7%2Bd2SoQg%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1670871600
     },
     {
@@ -214,7 +214,7 @@
       "tournament_name": "Bye Bye, OG Kid!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501759/image-a09dde37b601e797f301dbe0cd397401.png?ehk=mC5V2jWHiP%2B8eioKyums76p6bg2YdeP6q6SCLlicvGE%3D&ehkOptimized=%2Bl0MAuOcVzS5E1m6FG38xyQe1%2FPl9gk2PCJ3lM2OI4Q%3D",
-      "entrants": 28,
+      "entrants": 29,
       "start_time": 1671316200
     },
     {
