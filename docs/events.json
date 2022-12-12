@@ -1,13 +1,21 @@
 {
-  "fetched_at": 1670866168,
+  "fetched_at": 1670866834,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-42/event/melee-singles",
       "tournament_name": "Monday Night Mixup #42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505042/image-bacde8dba611c582e7e8e0677cbb3ad6.png?ehk=5jT2KAzYzkM6GO20ydSQkL2jZTXgmFmyQ%2FkShKWxRRw%3D&ehkOptimized=NWw9D9wrkZzqOiuTu7GLoZoZNKMQP2UO3Cn7%2Bd2SoQg%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1670871600
+    },
+    {
+      "slug": "tournament/super-smash-bong-76/event/melee-singles",
+      "tournament_name": "Super Smash Bong #76",
+      "event_name": "Melee singles",
+      "image": "https://images.start.gg/images/tournament/505266/image-a31e0eb7cc9346f8511c41d7135c6601.jpg?ehk=7sBP5g7fGpOPcGHGa9tClekjJkfofJp1NCRJzugYLcw%3D&ehkOptimized=JhiEqxxa9FMCRVAtbOdOaAAen5jfaM1%2BRrVS%2FRQ%2B4Fw%3D",
+      "entrants": 0,
+      "start_time": 1670884200
     },
     {
       "slug": "tournament/slippi-sauce-78/event/melee-singles",
@@ -22,7 +30,7 @@
       "tournament_name": "Woop Melee! #56",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504341/image-8e8545b318b700c8c248ba1b7bd2a355.png?ehk=LNXxGt8MVyFLoJ7U4Gx5V12vLZKqgh%2FeLElVGIQRGLk%3D&ehkOptimized=znD2bXxN%2FRzyKfMHvsZm%2BAEotrEViQf6YLvGQKyD84Y%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670889600
     },
     {
