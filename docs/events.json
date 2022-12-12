@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670878287,
+  "fetched_at": 1670879693,
   "data": [
     {
       "slug": "tournament/super-smash-bong-76/event/melee-singles",
       "tournament_name": "Super Smash Bong #76",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/505266/image-a31e0eb7cc9346f8511c41d7135c6601.jpg?ehk=7sBP5g7fGpOPcGHGa9tClekjJkfofJp1NCRJzugYLcw%3D&ehkOptimized=JhiEqxxa9FMCRVAtbOdOaAAen5jfaM1%2BRrVS%2FRQ%2B4Fw%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1670884200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Slippi Sauce #78 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505231/image-c1249e5f2bd9cb6d19190af3697e33d6.png?ehk=p81Nj%2BkvSa%2FNnTZkc6Q8O8%2BV30U39VOBstPvYzZ4Dqg%3D&ehkOptimized=6f0FxArA9yTBYraSc76XcutZrrVlSsDQafrh4SuRw%2FQ%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1670886000
     },
     {
@@ -158,7 +158,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA East Bracket (THURSDAY 12/15)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 104,
+      "entrants": 105,
       "start_time": 1671141600
     },
     {
