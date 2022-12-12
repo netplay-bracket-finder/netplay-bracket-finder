@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670862249,
+  "fetched_at": 1670863808,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-42/event/melee-singles",
       "tournament_name": "Monday Night Mixup #42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505042/image-bacde8dba611c582e7e8e0677cbb3ad6.png?ehk=5jT2KAzYzkM6GO20ydSQkL2jZTXgmFmyQ%2FkShKWxRRw%3D&ehkOptimized=NWw9D9wrkZzqOiuTu7GLoZoZNKMQP2UO3Cn7%2Bd2SoQg%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1670871600
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Spudfest 44",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504560/image-43baf47f884e83249978b9f62a03e11b.jpg?ehk=swTR7eJiNuNp%2FmpAp2oNIBzFp748CDeW7xFjHYIgj64%3D&ehkOptimized=32ptP4C6bpPSek0GtR8F92uTFF%2FYIzeHvRO8241It0o%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1670896800
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "CASINO ROYALE 4 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/503345/image-0c735cc893af888583e462fc80465c16.png?ehk=MrJ1u3ab3noMMDPCDJTiFzmgnRTaHPZX%2FnSjJMi6qfE%3D&ehkOptimized=%2FjgmNWVqc%2BAoK8AnascqWAcHKLGOzJ%2BxoFDXVlNS%2BNw%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1670898600
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Epic Wednesday Doubles! #1",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/503763/image-9702143c4e7cfcadee6593f9d16805f4.png?ehk=QYrc8JRzM%2BR%2Fm4eGX%2F4VZQv5%2B52Tx0ZjSLaekuhUPHU%3D&ehkOptimized=woD9w5enHu2YBPissI7XzvuFx0EJ0yLEEpdM7PvGB1M%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670396400
     },
     {
