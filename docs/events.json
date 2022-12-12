@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1670826079,
+  "fetched_at": 1670827314,
   "data": [
-    {
-      "slug": "tournament/kalvar-cup-71-j-balvar/event/melee-singles",
-      "tournament_name": "Kalvar Cup #71: J Balvar",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505012/image-921f60a001b4dd758e29f9f79e49eb0d.png?ehk=pEmluGQSA9YLZ6eNRdcs9LCefPt%2Fn6575vJwKC3oLc0%3D&ehkOptimized=hyoEHe1XJ25BaLG%2B%2F5eYF6EiCk68tX7TFq%2Bd0FXPRI4%3D",
-      "entrants": 27,
-      "start_time": 1670803200
-    },
     {
       "slug": "tournament/monday-night-mixup-42/event/melee-singles",
       "tournament_name": "Monday Night Mixup #42",
