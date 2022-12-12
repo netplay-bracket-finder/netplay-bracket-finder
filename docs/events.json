@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670880447,
+  "fetched_at": 1670881145,
   "data": [
     {
       "slug": "tournament/super-smash-bong-76/event/melee-singles",
       "tournament_name": "Super Smash Bong #76",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/505266/image-a31e0eb7cc9346f8511c41d7135c6601.jpg?ehk=7sBP5g7fGpOPcGHGa9tClekjJkfofJp1NCRJzugYLcw%3D&ehkOptimized=JhiEqxxa9FMCRVAtbOdOaAAen5jfaM1%2BRrVS%2FRQ%2B4Fw%3D",
-      "entrants": 6,
+      "entrants": 8,
       "start_time": 1670884200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Slippi Sauce #78 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505231/image-c1249e5f2bd9cb6d19190af3697e33d6.png?ehk=p81Nj%2BkvSa%2FNnTZkc6Q8O8%2BV30U39VOBstPvYzZ4Dqg%3D&ehkOptimized=6f0FxArA9yTBYraSc76XcutZrrVlSsDQafrh4SuRw%2FQ%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1670886000
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Spudfest 44",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504560/image-43baf47f884e83249978b9f62a03e11b.jpg?ehk=swTR7eJiNuNp%2FmpAp2oNIBzFp748CDeW7xFjHYIgj64%3D&ehkOptimized=32ptP4C6bpPSek0GtR8F92uTFF%2FYIzeHvRO8241It0o%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1670896800
     },
     {
