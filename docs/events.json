@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670844330,
+  "fetched_at": 1670845023,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-42/event/melee-singles",
@@ -272,6 +272,14 @@
       "image": "https://images.start.gg/images/tournament/504557/image-6b3329d8661e3f31c9829510a9f5be60.png?ehk=mGibGrsZUZzlzFr3TFIwmN463mBh1%2FTmgZ3iI9v1gvI%3D&ehkOptimized=RW3fBXyQt4VaDT86I7Es7JIqR8SWJfNc7X4zlTdVtZU%3D",
       "entrants": 4,
       "start_time": 1671591600
+    },
+    {
+      "slug": "tournament/ssbm-ru-monthly-december-2022/event/melee-singles",
+      "tournament_name": "SSBM RU Monthly (December 2022)",
+      "event_name": "Melee singles",
+      "image": "https://images.start.gg/images/tournament/486651/image-cc75cca6201c8312e5128d190c559146.png?ehk=D0i0v8hDngT1dG8nq4VjW0qwSTTSfTQwTr9RH7%2FZ%2Bi4%3D&ehkOptimized=gwnbs1G69jmr7BfGYKRV6VXllxGexWI%2BH4bxaJOieqM%3D",
+      "entrants": 1,
+      "start_time": 1671897600
     },
     {
       "slug": "tournament/troppo-italiano-christmas-edition/event/singles",
