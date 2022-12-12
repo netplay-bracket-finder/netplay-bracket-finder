@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1670884690,
+  "fetched_at": 1670885490,
   "data": [
-    {
-      "slug": "tournament/slippi-sauce-78/event/melee-singles",
-      "tournament_name": "Slippi Sauce #78 🐸",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505231/image-c1249e5f2bd9cb6d19190af3697e33d6.png?ehk=p81Nj%2BkvSa%2FNnTZkc6Q8O8%2BV30U39VOBstPvYzZ4Dqg%3D&ehkOptimized=6f0FxArA9yTBYraSc76XcutZrrVlSsDQafrh4SuRw%2FQ%3D",
-      "entrants": 25,
-      "start_time": 1670886000
-    },
     {
       "slug": "tournament/woop-melee-56/event/melee-singles",
       "tournament_name": "Woop Melee! #56",
@@ -18,19 +10,19 @@
       "start_time": 1670889600
     },
     {
-      "slug": "tournament/coast-to-coast-doubles-11/event/wc-doubles",
+      "slug": "tournament/coast-to-coast-doubles-11/event/ec-doubles",
       "tournament_name": "Coast to Coast Doubles # 11",
-      "event_name": "WC Doubles",
+      "event_name": "EC Doubles",
       "image": "https://images.start.gg/images/tournament/503696/image-c6eb1f8fbc4719bf0dced3b6fcdf031a.png?ehk=mf38gs3w6RWtmkkbmcNFBCe%2FihRJNKGezwbhzLLI4%2Bg%3D&ehkOptimized=B2lqU0JYMCKZKYJ4N8zHJbV814oySC1EbAsdnoTOVRE%3D",
       "entrants": 2,
       "start_time": 1670889600
     },
     {
-      "slug": "tournament/coast-to-coast-doubles-11/event/ec-doubles",
+      "slug": "tournament/coast-to-coast-doubles-11/event/wc-doubles",
       "tournament_name": "Coast to Coast Doubles # 11",
-      "event_name": "EC Doubles",
+      "event_name": "WC Doubles",
       "image": "https://images.start.gg/images/tournament/503696/image-c6eb1f8fbc4719bf0dced3b6fcdf031a.png?ehk=mf38gs3w6RWtmkkbmcNFBCe%2FihRJNKGezwbhzLLI4%2Bg%3D&ehkOptimized=B2lqU0JYMCKZKYJ4N8zHJbV814oySC1EbAsdnoTOVRE%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670889600
     },
     {
@@ -78,7 +70,7 @@
       "tournament_name": "Sketchy Series 10: Drawn To Melee",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505358/image-baa5622c4e8aee8379af03149cced85f.png?ehk=sUxz7ZkKehoswhZWVf%2FUWIPc76Lj2%2Bs46b7Gp6oCjVs%3D&ehkOptimized=%2FoYeKSKn88gXy1BbfCmziLBCZanBk0G7%2F9ONnHaBm90%3D",
-      "entrants": 0,
+      "entrants": 2,
       "start_time": 1670976000
     },
     {
