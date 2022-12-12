@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670867505,
+  "fetched_at": 1670869256,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-42/event/melee-singles",
       "tournament_name": "Monday Night Mixup #42",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505042/image-bacde8dba611c582e7e8e0677cbb3ad6.png?ehk=5jT2KAzYzkM6GO20ydSQkL2jZTXgmFmyQ%2FkShKWxRRw%3D&ehkOptimized=NWw9D9wrkZzqOiuTu7GLoZoZNKMQP2UO3Cn7%2Bd2SoQg%3D",
-      "entrants": 26,
+      "entrants": 30,
       "start_time": 1670871600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Super Smash Bong #76",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/505266/image-a31e0eb7cc9346f8511c41d7135c6601.jpg?ehk=7sBP5g7fGpOPcGHGa9tClekjJkfofJp1NCRJzugYLcw%3D&ehkOptimized=JhiEqxxa9FMCRVAtbOdOaAAen5jfaM1%2BRrVS%2FRQ%2B4Fw%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670884200
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "Waddle Wednesday Anniversary",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495290/image-4810ae814d59a0b3cead6919bda003e0.png?ehk=9bYscSpuqNAIMu3S1hQomLaTQ7EOnpjpecm%2B7vKVQ9Q%3D&ehkOptimized=37JDf4HelDR3UbRmKFaQP%2BZWtvW3KaCBRfHIeyPiUW0%3D",
-      "entrants": 25,
+      "entrants": 26,
       "start_time": 1671066000
     },
     {
