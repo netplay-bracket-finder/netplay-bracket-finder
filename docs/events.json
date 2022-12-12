@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670872579,
+  "fetched_at": 1670873810,
   "data": [
     {
       "slug": "tournament/super-smash-bong-76/event/melee-singles",
@@ -62,7 +62,7 @@
       "tournament_name": "CASINO ROYALE 4 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/503345/image-0c735cc893af888583e462fc80465c16.png?ehk=MrJ1u3ab3noMMDPCDJTiFzmgnRTaHPZX%2FnSjJMi6qfE%3D&ehkOptimized=%2FjgmNWVqc%2BAoK8AnascqWAcHKLGOzJ%2BxoFDXVlNS%2BNw%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1670898600
     },
     {
@@ -216,6 +216,14 @@
       "image": "https://images.start.gg/images/tournament/504509/image-4724ea1a06b21f4c7b0efbc40f472825.jpg?ehk=ciCcNjsSKMiY9dOsFv%2Bk2J7oY8LqV%2B3FE5SHpy2cY9c%3D&ehkOptimized=M1UlXwmKVj3iV4SRB7Kn%2FIkYC9Q9%2F1ti4Age%2F0JksIQ%3D",
       "entrants": 2,
       "start_time": 1671148800
+    },
+    {
+      "slug": "tournament/bb-83/event/melee-singles",
+      "tournament_name": "BB-83",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/505305/image-4ee2544c50087e7175ed9a954358680d.png?ehk=F32FJakOS9UV2mCAVWvvV6kxT1iEtGL16SwM0kr2Biw%3D&ehkOptimized=7h1vRUrxss4qa9WEqhpolrbx6kwLP5KXRs50iJ7Ba04%3D",
+      "entrants": 1,
+      "start_time": 1671174000
     },
     {
       "slug": "tournament/deter-melee-low-tier-reborn/event/deter-melee-low-tier-reborn",
