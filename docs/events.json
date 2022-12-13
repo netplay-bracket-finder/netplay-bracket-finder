@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670966839,
+  "fetched_at": 1670967532,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/ladder-melee-east-coast",
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670961600
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Sketchy Series 10: Drawn To Melee",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505358/image-baa5622c4e8aee8379af03149cced85f.png?ehk=sUxz7ZkKehoswhZWVf%2FUWIPc76Lj2%2Bs46b7Gp6oCjVs%3D&ehkOptimized=%2FoYeKSKn88gXy1BbfCmziLBCZanBk0G7%2F9ONnHaBm90%3D",
-      "entrants": 12,
+      "entrants": 14,
       "start_time": 1670976000
     },
     {
@@ -272,6 +272,22 @@
       "image": "https://images.start.gg/images/tournament/501759/image-a09dde37b601e797f301dbe0cd397401.png?ehk=mC5V2jWHiP%2B8eioKyums76p6bg2YdeP6q6SCLlicvGE%3D&ehkOptimized=%2Bl0MAuOcVzS5E1m6FG38xyQe1%2FPl9gk2PCJ3lM2OI4Q%3D",
       "entrants": 37,
       "start_time": 1671316200
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-showcase/event/results-data",
+      "tournament_name": "SSBM Randomizer Showcase",
+      "event_name": "Results Data",
+      "image": "https://images.start.gg/images/tournament/505571/image-2e71764c02cfbd05fcd1aee2e2d6dc5f.png?ehk=J4ELVIjLM13MnVcQA5EcXb29m9m4rW%2FACLkRugdXj%2Bk%3D&ehkOptimized=jbg%2Fb2lWhZdwzSYGDfTvGup8gdITKNCx4WIoZp%2FvMWs%3D",
+      "entrants": null,
+      "start_time": 1671235200
+    },
+    {
+      "slug": "tournament/ssbm-randomizer-showcase/event/ssbmr-showcase",
+      "tournament_name": "SSBM Randomizer Showcase",
+      "event_name": "SSBMr Showcase",
+      "image": "https://images.start.gg/images/tournament/505571/image-2e71764c02cfbd05fcd1aee2e2d6dc5f.png?ehk=J4ELVIjLM13MnVcQA5EcXb29m9m4rW%2FACLkRugdXj%2Bk%3D&ehkOptimized=jbg%2Fb2lWhZdwzSYGDfTvGup8gdITKNCx4WIoZp%2FvMWs%3D",
+      "entrants": null,
+      "start_time": 1671235200
     },
     {
       "slug": "tournament/festive-fight/event/melee-doubles",
