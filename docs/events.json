@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670974645,
+  "fetched_at": 1670975485,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/ladder-melee-east-coast",
@@ -30,7 +30,7 @@
       "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
       "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670961600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
       "event_name": "Main Bracket: WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1670961600
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Cataquackdown 19: the trolling continues",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505386/image-885c81f04040652f33606935dd2f8d85.png?ehk=GyeTuYwdkEDj5Q2tg0RCiwt%2BpLCEPzJkQLTRshPcW3Q%3D&ehkOptimized=y4I0bM8vow%2B36kN2jzKtUZVkZdlnin9bXomF%2Fz%2FM4mk%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1670979600
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Level One Melee DOUBLES #6 - a noob-only tournament",
       "event_name": "Main Melee Doubles",
       "image": "https://images.start.gg/images/tournament/504663/image-9f8a8e196307441de9bb8bf0ac248828.png?ehk=0FtgDAORnUfM7h0Tg0rV60YosPKY7R9k2V6V9nT5qDw%3D&ehkOptimized=dDiATnFGqdYazqEa9ya8ySvuwCT450HuvNpMsv9Ps5c%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1670983200
     },
     {
