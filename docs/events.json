@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670902553,
+  "fetched_at": 1670903483,
   "data": [
     {
       "slug": "tournament/woop-melee-56/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/504341/image-8e8545b318b700c8c248ba1b7bd2a355.png?ehk=LNXxGt8MVyFLoJ7U4Gx5V12vLZKqgh%2FeLElVGIQRGLk%3D&ehkOptimized=znD2bXxN%2FRzyKfMHvsZm%2BAEotrEViQf6YLvGQKyD84Y%3D",
       "entrants": 1,
       "start_time": 1670889600
-    },
-    {
-      "slug": "tournament/mnn-36/event/melee-singles",
-      "tournament_name": "MNN#36",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505236/image-9452f143b8bcdf831c7824e6e54481ef.png?ehk=DedIrRIxxjq1Tf%2BE2xcXIT1b%2BJ5BFnyDkUjgbd7pPq4%3D&ehkOptimized=HdxCnKJcUvazMY08rkjFK45f%2Bh998qJpO54V%2BytyB0A%3D",
-      "entrants": 14,
-      "start_time": 1670904000
     },
     {
       "slug": "tournament/tuesday-night-fever-9/event/melee-singles",
