@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670966099,
+  "fetched_at": 1670966839,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/ladder-melee-east-coast",
@@ -58,14 +58,6 @@
       "start_time": 1670972400
     },
     {
-      "slug": "tournament/sketchy-series-10-drawn-to-melee/event/melee-singles",
-      "tournament_name": "Sketchy Series 10: Drawn To Melee",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505358/image-baa5622c4e8aee8379af03149cced85f.png?ehk=sUxz7ZkKehoswhZWVf%2FUWIPc76Lj2%2Bs46b7Gp6oCjVs%3D&ehkOptimized=%2FoYeKSKn88gXy1BbfCmziLBCZanBk0G7%2F9ONnHaBm90%3D",
-      "entrants": 11,
-      "start_time": 1670976000
-    },
-    {
       "slug": "tournament/man-on-a-line-5/event/melee-doubles",
       "tournament_name": "Man on a Line #5",
       "event_name": "Melee Doubles",
@@ -79,6 +71,14 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505569/image-18400fdde8c93c54abcb6ebbe7023a28.png?ehk=N13KXUta0pmQrDb3dvTHvn67cLfvNRwARqOahtXkRqY%3D&ehkOptimized=I3Lla0sTGFmozSkgJ%2F4%2BU6RvmR3wlZoRp%2F7W4g5nsvo%3D",
       "entrants": 0,
+      "start_time": 1670976000
+    },
+    {
+      "slug": "tournament/sketchy-series-10-drawn-to-melee/event/melee-singles",
+      "tournament_name": "Sketchy Series 10: Drawn To Melee",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/505358/image-baa5622c4e8aee8379af03149cced85f.png?ehk=sUxz7ZkKehoswhZWVf%2FUWIPc76Lj2%2Bs46b7Gp6oCjVs%3D&ehkOptimized=%2FoYeKSKn88gXy1BbfCmziLBCZanBk0G7%2F9ONnHaBm90%3D",
+      "entrants": 12,
       "start_time": 1670976000
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Level One Melee DOUBLES #6 - a noob-only tournament",
       "event_name": "Main Melee Doubles",
       "image": "https://images.start.gg/images/tournament/504663/image-9f8a8e196307441de9bb8bf0ac248828.png?ehk=0FtgDAORnUfM7h0Tg0rV60YosPKY7R9k2V6V9nT5qDw%3D&ehkOptimized=dDiATnFGqdYazqEa9ya8ySvuwCT450HuvNpMsv9Ps5c%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1670983200
     },
     {
@@ -318,7 +318,7 @@
       "tournament_name": "Melee Weekly BR #7 - Pague o Ranked",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505558/image-0c0061465192b1ec7f906a29e11fa793.png?ehk=morwxJQkonICEwvdQOcGKRXQYReIszh7pC1Ma68%2FATY%3D&ehkOptimized=%2BTNZExqqk5glIuujLJZhod%2FxQe9JrD3EwT6TCnzr7w8%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1671390000
     },
     {
