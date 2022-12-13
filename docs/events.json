@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670899363,
+  "fetched_at": 1670901204,
   "data": [
     {
       "slug": "tournament/woop-melee-56/event/melee-singles",
@@ -10,27 +10,11 @@
       "start_time": 1670889600
     },
     {
-      "slug": "tournament/coast-to-coast-doubles-11/event/wc-doubles",
-      "tournament_name": "Coast to Coast Doubles # 11",
-      "event_name": "WC Doubles",
-      "image": "https://images.start.gg/images/tournament/503696/image-c6eb1f8fbc4719bf0dced3b6fcdf031a.png?ehk=mf38gs3w6RWtmkkbmcNFBCe%2FihRJNKGezwbhzLLI4%2Bg%3D&ehkOptimized=B2lqU0JYMCKZKYJ4N8zHJbV814oySC1EbAsdnoTOVRE%3D",
-      "entrants": 4,
-      "start_time": 1670889600
-    },
-    {
-      "slug": "tournament/coast-to-coast-doubles-11/event/ec-doubles",
-      "tournament_name": "Coast to Coast Doubles # 11",
-      "event_name": "EC Doubles",
-      "image": "https://images.start.gg/images/tournament/503696/image-c6eb1f8fbc4719bf0dced3b6fcdf031a.png?ehk=mf38gs3w6RWtmkkbmcNFBCe%2FihRJNKGezwbhzLLI4%2Bg%3D&ehkOptimized=B2lqU0JYMCKZKYJ4N8zHJbV814oySC1EbAsdnoTOVRE%3D",
-      "entrants": 4,
-      "start_time": 1670889600
-    },
-    {
       "slug": "tournament/mnn-36/event/melee-singles",
       "tournament_name": "MNN#36",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505236/image-9452f143b8bcdf831c7824e6e54481ef.png?ehk=DedIrRIxxjq1Tf%2BE2xcXIT1b%2BJ5BFnyDkUjgbd7pPq4%3D&ehkOptimized=HdxCnKJcUvazMY08rkjFK45f%2Bh998qJpO54V%2BytyB0A%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1670904000
     },
     {
