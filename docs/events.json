@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670913724,
+  "fetched_at": 1670914385,
   "data": [
     {
       "slug": "tournament/woop-melee-56/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/504341/image-8e8545b318b700c8c248ba1b7bd2a355.png?ehk=LNXxGt8MVyFLoJ7U4Gx5V12vLZKqgh%2FeLElVGIQRGLk%3D&ehkOptimized=znD2bXxN%2FRzyKfMHvsZm%2BAEotrEViQf6YLvGQKyD84Y%3D",
       "entrants": 0,
       "start_time": 1670889600
-    },
-    {
-      "slug": "tournament/tuesday-night-fever-9/event/melee-singles",
-      "tournament_name": "Tuesday Night Fever #9",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/504645/image-35ddf60420e32556dc124874c2f55b11.png?ehk=U1WJOTVk8ke0Wo%2B3c7aOoEAfLFOzwJmvVTYWcNfSxJM%3D&ehkOptimized=0CGnaK3PZnRn2DrrN0b4q0R8BKOZdwZXtJMO4EF5Xpk%3D",
-      "entrants": 1,
-      "start_time": 1670914800
     },
     {
       "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/ladder-melee-east-coast",
@@ -70,7 +62,7 @@
       "tournament_name": "Sketchy Series 10: Drawn To Melee",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505358/image-baa5622c4e8aee8379af03149cced85f.png?ehk=sUxz7ZkKehoswhZWVf%2FUWIPc76Lj2%2Bs46b7Gp6oCjVs%3D&ehkOptimized=%2FoYeKSKn88gXy1BbfCmziLBCZanBk0G7%2F9ONnHaBm90%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1670976000
     },
     {
