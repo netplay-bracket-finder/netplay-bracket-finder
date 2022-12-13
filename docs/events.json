@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1670971881,
+  "fetched_at": 1670973423,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/ladder-melee-east-coast",
       "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
       "event_name": "Ladder Melee East Coast",
       "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1670961600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
-      "entrants": 5,
+      "entrants": 8,
       "start_time": 1670961600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1670961600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
       "event_name": "Main Bracket: WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670961600
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Sketchy Series 10: Drawn To Melee",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505358/image-baa5622c4e8aee8379af03149cced85f.png?ehk=sUxz7ZkKehoswhZWVf%2FUWIPc76Lj2%2Bs46b7Gp6oCjVs%3D&ehkOptimized=%2FoYeKSKn88gXy1BbfCmziLBCZanBk0G7%2F9ONnHaBm90%3D",
-      "entrants": 19,
+      "entrants": 22,
       "start_time": 1670976000
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Dad's House: Online #5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505401/image-02ba5e635b7f015198718c6507532805.png?ehk=%2BnP8SjFgUTy3O%2Bg3nyaKdtYFHRNpOe%2Fs2iGbRrXVdsI%3D&ehkOptimized=sa7FkkOzN8rEbpFC0miNY%2F0QzYNNGtPTw%2BlQvYzgp6s%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1670977800
     },
     {
