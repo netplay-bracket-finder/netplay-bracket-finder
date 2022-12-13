@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670964682,
+  "fetched_at": 1670966099,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/ladder-melee-east-coast",
@@ -18,6 +18,14 @@
       "start_time": 1670961600
     },
     {
+      "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/main-bracket-ec-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
+      "event_name": "Main Bracket: EC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
+      "entrants": 2,
+      "start_time": 1670961600
+    },
+    {
       "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/side-event-ec-melee-redemption-bracket",
       "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
       "event_name": "Side Event: EC Melee Redemption Bracket",
@@ -26,19 +34,11 @@
       "start_time": 1670961600
     },
     {
-      "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/main-bracket-ec-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
-      "event_name": "Main Bracket: EC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
-      "entrants": 1,
-      "start_time": 1670961600
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/main-bracket-wc-melee-singles",
       "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
       "event_name": "Main Bracket: WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1670961600
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "SBY Melee Netplay #141",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505451/image-d047246adeb412e3e2424ae9fba27998.jpg?ehk=PZyLLPlpu86lS12ieKW1KVMUCZm4%2BXh7byEGOzAFVoo%3D&ehkOptimized=Tl8KdWN5YsvfomLDkQuuFR%2BtpgMZDMQqi4PaHfLtWfo%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1670972400
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "Cataquackdown 19: the trolling continues",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505386/image-885c81f04040652f33606935dd2f8d85.png?ehk=GyeTuYwdkEDj5Q2tg0RCiwt%2BpLCEPzJkQLTRshPcW3Q%3D&ehkOptimized=y4I0bM8vow%2B36kN2jzKtUZVkZdlnin9bXomF%2Fz%2FM4mk%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1670979600
     },
     {
@@ -318,7 +318,7 @@
       "tournament_name": "Melee Weekly BR #7 - Pague o Ranked",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505558/image-0c0061465192b1ec7f906a29e11fa793.png?ehk=morwxJQkonICEwvdQOcGKRXQYReIszh7pC1Ma68%2FATY%3D&ehkOptimized=%2BTNZExqqk5glIuujLJZhod%2FxQe9JrD3EwT6TCnzr7w8%3D",
-      "entrants": 0,
+      "entrants": 2,
       "start_time": 1671390000
     },
     {
