@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671049050,
+  "fetched_at": 1671050261,
   "data": [
     {
       "slug": "tournament/the-bakery/event/melee",
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday Anniversary",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495290/image-4810ae814d59a0b3cead6919bda003e0.png?ehk=9bYscSpuqNAIMu3S1hQomLaTQ7EOnpjpecm%2B7vKVQ9Q%3D&ehkOptimized=37JDf4HelDR3UbRmKFaQP%2BZWtvW3KaCBRfHIeyPiUW0%3D",
-      "entrants": 44,
+      "entrants": 46,
       "start_time": 1671066000
     },
     {
@@ -166,7 +166,7 @@
       "tournament_name": "Raven Rumble #11 (The Return)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505682/image-53acead49c96154738b6d4efdeafe303.png?ehk=Vz73M%2FDIruA3fE541ajKOTPFMcT1Pm3fRO%2Fz2zeT57E%3D&ehkOptimized=6AwOPKGGMgnrcC5PCt%2FGEFGXg5C7G6ffankldAlEj%2F4%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1671235200
     },
     {
