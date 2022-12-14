@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671054681,
+  "fetched_at": 1671056132,
   "data": [
     {
       "slug": "tournament/the-bakery/event/melee",
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday Anniversary",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495290/image-4810ae814d59a0b3cead6919bda003e0.png?ehk=9bYscSpuqNAIMu3S1hQomLaTQ7EOnpjpecm%2B7vKVQ9Q%3D&ehkOptimized=37JDf4HelDR3UbRmKFaQP%2BZWtvW3KaCBRfHIeyPiUW0%3D",
-      "entrants": 54,
+      "entrants": 62,
       "start_time": 1671066000
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA East Bracket (THURSDAY 12/15)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 114,
+      "entrants": 116,
       "start_time": 1671141600
     },
     {
@@ -120,6 +120,14 @@
       "image": "https://images.start.gg/images/tournament/505305/image-4ee2544c50087e7175ed9a954358680d.png?ehk=F32FJakOS9UV2mCAVWvvV6kxT1iEtGL16SwM0kr2Biw%3D&ehkOptimized=7h1vRUrxss4qa9WEqhpolrbx6kwLP5KXRs50iJ7Ba04%3D",
       "entrants": 6,
       "start_time": 1671174000
+    },
+    {
+      "slug": "tournament/the-legends-tournament-87/event/wavedash-22",
+      "tournament_name": "The Legends Tournament #87",
+      "event_name": "WaveDash #22",
+      "image": "https://images.start.gg/images/tournament/505796/image-212dd106ff5e8e68439619eb2ddd8467.png?ehk=9c8fvSlnEZLoDD4QzvT5ZoyKVII5K8SHfM4F4VEli3s%3D&ehkOptimized=Jf01J4CLy0ywxaXVMGzFDhm1s94SA7dSTOdI0hl9uvw%3D",
+      "entrants": 1,
+      "start_time": 1671214200
     },
     {
       "slug": "tournament/deter-melee-low-tier-reborn/event/deter-melee-low-tier-reborn",
