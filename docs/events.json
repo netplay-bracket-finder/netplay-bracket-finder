@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671040296,
+  "fetched_at": 1671042037,
   "data": [
     {
       "slug": "tournament/epic-wednesday-doubles-1/event/melee-doubles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/503763/image-9702143c4e7cfcadee6593f9d16805f4.png?ehk=QYrc8JRzM%2BR%2Fm4eGX%2F4VZQv5%2B52Tx0ZjSLaekuhUPHU%3D&ehkOptimized=woD9w5enHu2YBPissI7XzvuFx0EJ0yLEEpdM7PvGB1M%3D",
       "entrants": 8,
       "start_time": 1670396400
-    },
-    {
-      "slug": "tournament/alarch-s-promotional-us-tournament/event/melee-singles",
-      "tournament_name": "Alarch's Promotional US Tournament",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505029/image-ce8b5cebda08aff63c91427d31517ec6.jpg?ehk=jyMvp5E%2FgbHyE2SJ9uPNqrRA%2BK5XbgxS4bQYzBFUhC8%3D&ehkOptimized=5EIwDDN6KWc9lUR1n7Td5Qvm7kYyKWMhWWobO3CWJFg%3D",
-      "entrants": 2,
-      "start_time": 1671048000
     },
     {
       "slug": "tournament/the-bakery/event/melee",
@@ -70,7 +62,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA East Bracket (THURSDAY 12/15)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 113,
+      "entrants": 114,
       "start_time": 1671141600
     },
     {
@@ -126,7 +118,7 @@
       "tournament_name": "Only Noobs 97",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504509/image-4724ea1a06b21f4c7b0efbc40f472825.jpg?ehk=ciCcNjsSKMiY9dOsFv%2Bk2J7oY8LqV%2B3FE5SHpy2cY9c%3D&ehkOptimized=M1UlXwmKVj3iV4SRB7Kn%2FIkYC9Q9%2F1ti4Age%2F0JksIQ%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1671148800
     },
     {
@@ -144,6 +136,14 @@
       "image": "https://images.start.gg/images/tournament/482549/image-df29c1008b4492f36c3e4ac3613ab8f2.png?ehk=u5XdmF06c5YIhs9dISb7UNXBN76TjEu6ygQhMUbzod4%3D&ehkOptimized=j0qWbo1G6mxURU5xHyxRkPlw%2FuUn%2BOhkTc%2BFVGai%2FpU%3D",
       "entrants": 11,
       "start_time": 1671219000
+    },
+    {
+      "slug": "tournament/alarch-s-promotional-us-tournament/event/melee-singles",
+      "tournament_name": "Alarch's Promotional US Tournament",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/505029/image-4ec467470ceb8d5e408e79967c9c31e4.png?ehk=eBwKF9drNmPEGPo6%2BJBKHzNaLdqfnpxKIPKoZLaQJvk%3D&ehkOptimized=QKRAySzUXGZi6Ho%2F%2FLEigRwYK585C2AevCuLI6aQDCI%3D",
+      "entrants": 2,
+      "start_time": 1671048000
     },
     {
       "slug": "tournament/bye-bye-og-kid-200-pot-bonus/event/melee-doubles",
@@ -200,6 +200,22 @@
       "image": "https://images.start.gg/images/tournament/503750/image-bbfbd8609ff4be250d4be9cf04b06d13.jpg?ehk=tdhKFa9DFPLe3fsN9q9C9KmEn5f%2BqeM6TDkFPNPTaqM%3D&ehkOptimized=IN5wPcOmkpMVPjMc0WY4lhIFPSO0blgkleFaQY52r9I%3D",
       "entrants": 8,
       "start_time": 1671310800
+    },
+    {
+      "slug": "tournament/after-dark-melee-8/event/after-dark-doubles",
+      "tournament_name": "After Dark Melee #8",
+      "event_name": "After Dark Doubles",
+      "image": "https://images.start.gg/images/tournament/505754/image-44a2310e1206fa9e41be524589b928ac.png?ehk=4xBzNHk5JnxgkRnEBMhUnR1bVcv4EQ89F%2F2bg2l1T9g%3D&ehkOptimized=YflFMcmkCkD3dnyYQ0af9aK03SOLlsTGojhr%2FUrbxnc%3D",
+      "entrants": 0,
+      "start_time": 1671308100
+    },
+    {
+      "slug": "tournament/after-dark-melee-8/event/after-dark-singles",
+      "tournament_name": "After Dark Melee #8",
+      "event_name": "After Dark Singles",
+      "image": "https://images.start.gg/images/tournament/505754/image-44a2310e1206fa9e41be524589b928ac.png?ehk=4xBzNHk5JnxgkRnEBMhUnR1bVcv4EQ89F%2F2bg2l1T9g%3D&ehkOptimized=YflFMcmkCkD3dnyYQ0af9aK03SOLlsTGojhr%2FUrbxnc%3D",
+      "entrants": 0,
+      "start_time": 1671308100
     },
     {
       "slug": "tournament/andrenaleague-17/event/melee-singles",
@@ -261,7 +277,7 @@
       "slug": "tournament/troppo-italiano-christmas-edition/event/doubles",
       "tournament_name": "Troppo Italiano Christmas Edition",
       "event_name": "Doubles",
-      "image": "https://images.start.gg/images/tournament/503138/image-1e3c969fd39583ec4b4bc325d917b47f.jpg?ehk=wQC%2BIb00sohJJAH0kYfvcExx%2FAI1dbE6hAcfFxvuL%2Fo%3D&ehkOptimized=gXlfgCmGnUlucYzis891FiXHZKiSryepSjd8mkk7uxU%3D",
+      "image": "https://images.start.gg/images/tournament/503138/image-6341781be6a3331a712dc78bdaf533c3.png?ehk=Q03UPRpzgCwGBttCygZ3VR%2FNbRruIFF%2Fp7ehiUt%2Fj5w%3D&ehkOptimized=BgPaePFMx%2FbgzNwE6czeOED909Z0eszyf%2BvSotSmDN4%3D",
       "entrants": 0,
       "start_time": 1672322400
     },
@@ -269,7 +285,7 @@
       "slug": "tournament/troppo-italiano-christmas-edition/event/pandoro-vs-panettone-crew-battle",
       "tournament_name": "Troppo Italiano Christmas Edition",
       "event_name": "Pandoro vs Panettone Crew Battle",
-      "image": "https://images.start.gg/images/tournament/503138/image-1e3c969fd39583ec4b4bc325d917b47f.jpg?ehk=wQC%2BIb00sohJJAH0kYfvcExx%2FAI1dbE6hAcfFxvuL%2Fo%3D&ehkOptimized=gXlfgCmGnUlucYzis891FiXHZKiSryepSjd8mkk7uxU%3D",
+      "image": "https://images.start.gg/images/tournament/503138/image-6341781be6a3331a712dc78bdaf533c3.png?ehk=Q03UPRpzgCwGBttCygZ3VR%2FNbRruIFF%2Fp7ehiUt%2Fj5w%3D&ehkOptimized=BgPaePFMx%2FbgzNwE6czeOED909Z0eszyf%2BvSotSmDN4%3D",
       "entrants": 0,
       "start_time": 1672408800
     },
