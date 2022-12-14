@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671007922,
+  "fetched_at": 1671009361,
   "data": [
     {
       "slug": "tournament/road-2-glory-revival-2/event/single-div",
@@ -8,6 +8,14 @@
       "image": "https://images.start.gg/images/tournament/505252/image-0b7e9b7b7d1da9980e33ac3c11c6222a.png?ehk=0kg6KbDQb8rzPNFx0u%2FlI9Jsgz4MVLxbMi2fYM6BYwQ%3D&ehkOptimized=6ivn0224hZ2zj7K8GLUycEtHGtckMQxGct9DoF9IKV8%3D",
       "entrants": 2,
       "start_time": 1671037200
+    },
+    {
+      "slug": "tournament/epic-wednesday-doubles-1/event/melee-doubles",
+      "tournament_name": "Epic Wednesday Doubles! #1",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/503763/image-9702143c4e7cfcadee6593f9d16805f4.png?ehk=QYrc8JRzM%2BR%2Fm4eGX%2F4VZQv5%2B52Tx0ZjSLaekuhUPHU%3D&ehkOptimized=woD9w5enHu2YBPissI7XzvuFx0EJ0yLEEpdM7PvGB1M%3D",
+      "entrants": 2,
+      "start_time": 1670396400
     },
     {
       "slug": "tournament/alarch-s-promotional-us-tournament/event/melee-singles",
