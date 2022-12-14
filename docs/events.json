@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671042037,
+  "fetched_at": 1671043239,
   "data": [
     {
       "slug": "tournament/epic-wednesday-doubles-1/event/melee-doubles",
       "tournament_name": "Epic Wednesday Doubles! #1",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/503763/image-9702143c4e7cfcadee6593f9d16805f4.png?ehk=QYrc8JRzM%2BR%2Fm4eGX%2F4VZQv5%2B52Tx0ZjSLaekuhUPHU%3D&ehkOptimized=woD9w5enHu2YBPissI7XzvuFx0EJ0yLEEpdM7PvGB1M%3D",
-      "entrants": 8,
+      "entrants": 7,
       "start_time": 1670396400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Waddle Wednesday Anniversary",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495290/image-4810ae814d59a0b3cead6919bda003e0.png?ehk=9bYscSpuqNAIMu3S1hQomLaTQ7EOnpjpecm%2B7vKVQ9Q%3D&ehkOptimized=37JDf4HelDR3UbRmKFaQP%2BZWtvW3KaCBRfHIeyPiUW0%3D",
-      "entrants": 41,
+      "entrants": 43,
       "start_time": 1671066000
     },
     {
@@ -246,7 +246,7 @@
       "tournament_name": "Melee Weekly BR #7 - Pague o Ranked",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505558/image-0c0061465192b1ec7f906a29e11fa793.png?ehk=morwxJQkonICEwvdQOcGKRXQYReIszh7pC1Ma68%2FATY%3D&ehkOptimized=%2BTNZExqqk5glIuujLJZhod%2FxQe9JrD3EwT6TCnzr7w8%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1671390000
     },
     {
