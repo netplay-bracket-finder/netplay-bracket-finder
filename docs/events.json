@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670985524,
+  "fetched_at": 1670987049,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/ladder-melee-east-coast",
@@ -18,19 +18,11 @@
       "start_time": 1670961600
     },
     {
-      "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/main-bracket-ec-melee-singles",
-      "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
-      "event_name": "Main Bracket: EC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
-      "entrants": 14,
-      "start_time": 1670977800
-    },
-    {
       "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/main-bracket-wc-melee-singles",
       "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
       "event_name": "Main Bracket: WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
-      "entrants": 5,
+      "entrants": 14,
       "start_time": 1670961600
     },
     {
@@ -40,6 +32,14 @@
       "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
       "entrants": 5,
       "start_time": 1670961600
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/main-bracket-ec-melee-singles",
+      "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
+      "event_name": "Main Bracket: EC Melee Singles",
+      "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
+      "entrants": 14,
+      "start_time": 1670977800
     },
     {
       "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/side-event-ec-melee-redemption-bracket",
