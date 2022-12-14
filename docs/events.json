@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1670975485,
+  "fetched_at": 1670980925,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/ladder-melee-east-coast",
@@ -14,15 +14,7 @@
       "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
       "event_name": "Ladder Melee West Coast",
       "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
-      "entrants": 9,
-      "start_time": 1670961600
-    },
-    {
-      "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/side-event-ec-melee-redemption-bracket",
-      "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
-      "event_name": "Side Event: EC Melee Redemption Bracket",
-      "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
-      "entrants": 5,
+      "entrants": 11,
       "start_time": 1670961600
     },
     {
@@ -30,15 +22,23 @@
       "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
       "event_name": "Main Bracket: EC Melee Singles",
       "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
-      "entrants": 3,
-      "start_time": 1670961600
+      "entrants": 14,
+      "start_time": 1670977800
+    },
+    {
+      "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/side-event-ec-melee-redemption-bracket",
+      "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
+      "event_name": "Side Event: EC Melee Redemption Bracket",
+      "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
+      "entrants": 5,
+      "start_time": 1670977800
     },
     {
       "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/main-bracket-wc-melee-singles",
       "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
       "event_name": "Main Bracket: WC Melee Singles",
       "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1670961600
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Training Mode Tuesdays #107 - Lite Edition",
       "event_name": "Side Event: WC Melee Redemption Bracket",
       "image": "https://images.start.gg/images/tournament/505422/image-e3dabe9baf111c950b468db0701a182e.png?ehk=MMr%2BYVMwGVyK0K34QXqIo%2BBql8xnfhaZd5G%2FL4ZcVrE%3D&ehkOptimized=H0av7Y3xpS%2BK0WWZ%2Bmg88qP3Bw9HNh%2F0GxQPya5IcYQ%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1670961600
     },
     {
@@ -66,35 +66,11 @@
       "start_time": 1670976000
     },
     {
-      "slug": "tournament/dad-s-house-online-5/event/melee-singles",
-      "tournament_name": "Dad's House: Online #5",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505401/image-02ba5e635b7f015198718c6507532805.png?ehk=%2BnP8SjFgUTy3O%2Bg3nyaKdtYFHRNpOe%2Fs2iGbRrXVdsI%3D&ehkOptimized=sa7FkkOzN8rEbpFC0miNY%2F0QzYNNGtPTw%2BlQvYzgp6s%3D",
-      "entrants": 8,
-      "start_time": 1670977800
-    },
-    {
-      "slug": "tournament/cataquackdown-19-the-trolling-continues/event/melee-singles",
-      "tournament_name": "Cataquackdown 19: the trolling continues",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505386/image-885c81f04040652f33606935dd2f8d85.png?ehk=GyeTuYwdkEDj5Q2tg0RCiwt%2BpLCEPzJkQLTRshPcW3Q%3D&ehkOptimized=y4I0bM8vow%2B36kN2jzKtUZVkZdlnin9bXomF%2Fz%2FM4mk%3D",
-      "entrants": 7,
-      "start_time": 1670979600
-    },
-    {
       "slug": "tournament/level-one-melee-doubles-6-a-noob-only-tournament/event/main-melee-doubles",
       "tournament_name": "Level One Melee DOUBLES #6 - a noob-only tournament",
       "event_name": "Main Melee Doubles",
       "image": "https://images.start.gg/images/tournament/504663/image-9f8a8e196307441de9bb8bf0ac248828.png?ehk=0FtgDAORnUfM7h0Tg0rV60YosPKY7R9k2V6V9nT5qDw%3D&ehkOptimized=dDiATnFGqdYazqEa9ya8ySvuwCT450HuvNpMsv9Ps5c%3D",
-      "entrants": 10,
-      "start_time": 1670983200
-    },
-    {
-      "slug": "tournament/level-one-melee-doubles-6-a-noob-only-tournament/event/amateur-melee-doubles",
-      "tournament_name": "Level One Melee DOUBLES #6 - a noob-only tournament",
-      "event_name": "Amateur Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/504663/image-9f8a8e196307441de9bb8bf0ac248828.png?ehk=0FtgDAORnUfM7h0Tg0rV60YosPKY7R9k2V6V9nT5qDw%3D&ehkOptimized=dDiATnFGqdYazqEa9ya8ySvuwCT450HuvNpMsv9Ps5c%3D",
-      "entrants": 1,
+      "entrants": 12,
       "start_time": 1670983200
     },
     {
@@ -126,7 +102,7 @@
       "tournament_name": "The Bakery",
       "event_name": "Melee",
       "image": "https://images.start.gg/images/tournament/432166/image-b64dd5f6555b3506be197f404dc0147f.png?ehk=eGq%2BK9TInmwfMaFRgMT2GMk0kXLTjCAVbM%2BRnZmoqP8%3D&ehkOptimized=KycC2DUj8wXJ455Y%2FTxdhnh8BS6mLm2RJMcGuD36piE%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1671062400
     },
     {
@@ -294,7 +270,7 @@
       "tournament_name": "Andrenaleague 17",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502746/image-d8e4c6ed74eb1079cdb4f2c5bbc4bc92.png?ehk=wixOU1SB6eqLkrKnem%2F%2Bm7lTBBAeogOiyJZiEGqlONk%3D&ehkOptimized=6%2FzSeF%2BhYAecYWM9o5YjYQ2vJLaTNIQ3y5sN4cT8sLM%3D",
-      "entrants": 4,
+      "entrants": 3,
       "start_time": 1671318000
     },
     {
