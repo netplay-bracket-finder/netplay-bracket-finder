@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671059824,
+  "fetched_at": 1671061041,
   "data": [
     {
       "slug": "tournament/the-bakery/event/melee",
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday Anniversary",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495290/image-4810ae814d59a0b3cead6919bda003e0.png?ehk=9bYscSpuqNAIMu3S1hQomLaTQ7EOnpjpecm%2B7vKVQ9Q%3D&ehkOptimized=37JDf4HelDR3UbRmKFaQP%2BZWtvW3KaCBRfHIeyPiUW0%3D",
-      "entrants": 73,
+      "entrants": 78,
       "start_time": 1671066000
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA East Bracket (THURSDAY 12/15)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 117,
+      "entrants": 118,
       "start_time": 1671141600
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA West Bracket (FRIDAY 12/16)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 56,
+      "entrants": 57,
       "start_time": 1671235200
     },
     {
@@ -136,6 +136,14 @@
       "image": "https://images.start.gg/images/tournament/482549/image-df29c1008b4492f36c3e4ac3613ab8f2.png?ehk=u5XdmF06c5YIhs9dISb7UNXBN76TjEu6ygQhMUbzod4%3D&ehkOptimized=j0qWbo1G6mxURU5xHyxRkPlw%2FuUn%2BOhkTc%2BFVGai%2FpU%3D",
       "entrants": 11,
       "start_time": 1671219000
+    },
+    {
+      "slug": "tournament/alarch-s-promotional-us-tournament/event/melee-singles",
+      "tournament_name": "Alarch's Promotional US Tournament",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/505029/image-4ec467470ceb8d5e408e79967c9c31e4.png?ehk=eBwKF9drNmPEGPo6%2BJBKHzNaLdqfnpxKIPKoZLaQJvk%3D&ehkOptimized=QKRAySzUXGZi6Ho%2F%2FLEigRwYK585C2AevCuLI6aQDCI%3D",
+      "entrants": 2,
+      "start_time": 1671048000
     },
     {
       "slug": "tournament/bye-bye-og-kid-200-pot-bonus/event/melee-doubles",
