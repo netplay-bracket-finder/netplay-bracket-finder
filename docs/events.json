@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671028829,
+  "fetched_at": 1671029500,
   "data": [
     {
       "slug": "tournament/road-2-glory-revival-2/event/single-div",
@@ -376,14 +376,6 @@
       "image": "https://images.start.gg/images/tournament/492841/image-25503525b7a477b0d3cf79d8edd231b5.png?ehk=imi1GXSK2RRhQ6P2wLkYKi0L%2BFufyHQQoKRu46xUBxw%3D&ehkOptimized=PGAXVHlTmkwd5NsRpetUcGIGJxqQQE7r82nqo0%2Fx1cA%3D",
       "entrants": 17,
       "start_time": 1674946800
-    },
-    {
-      "slug": "tournament/tomorrowlan-2023/event/super-smash-bros-melee-1v1-singles",
-      "tournament_name": "TomorrowLAN 2023",
-      "event_name": "Super Smash Bros. Melee 1v1/Singles",
-      "image": "https://images.start.gg/images/tournament/499795/image-41923bc3b21d5dc31dff03e42ccceec4.png?ehk=oR%2F6ZZHfs%2Fbox1synAhezz1zGvGJ5PB82QcokqUb6eU%3D&ehkOptimized=26BP00r75xq5buOo2CoO0NC6gutuVNCF54qMgPhd8OA%3D",
-      "entrants": 0,
-      "start_time": 1678046400
     },
     {
       "slug": "tournament/meteor-massacre-1/event/melee-singles",
