@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671000777,
+  "fetched_at": 1671002124,
   "data": [
     {
       "slug": "tournament/training-mode-tuesdays-107-lite-edition/event/ladder-melee-east-coast",
@@ -86,7 +86,7 @@
       "tournament_name": "Waddle Wednesday Anniversary",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495290/image-4810ae814d59a0b3cead6919bda003e0.png?ehk=9bYscSpuqNAIMu3S1hQomLaTQ7EOnpjpecm%2B7vKVQ9Q%3D&ehkOptimized=37JDf4HelDR3UbRmKFaQP%2BZWtvW3KaCBRfHIeyPiUW0%3D",
-      "entrants": 32,
+      "entrants": 33,
       "start_time": 1671066000
     },
     {
@@ -230,6 +230,14 @@
       "tournament_name": "SSBM Randomizer Showcase",
       "event_name": "Results Data",
       "image": "https://images.start.gg/images/tournament/505571/image-2e71764c02cfbd05fcd1aee2e2d6dc5f.png?ehk=J4ELVIjLM13MnVcQA5EcXb29m9m4rW%2FACLkRugdXj%2Bk%3D&ehkOptimized=jbg%2Fb2lWhZdwzSYGDfTvGup8gdITKNCx4WIoZp%2FvMWs%3D",
+      "entrants": 0,
+      "start_time": 1671235200
+    },
+    {
+      "slug": "tournament/raven-rumble-11-the-return/event/melee-singles",
+      "tournament_name": "Raven Rumble #11 (The Return)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/505682/image-53acead49c96154738b6d4efdeafe303.png?ehk=Vz73M%2FDIruA3fE541ajKOTPFMcT1Pm3fRO%2Fz2zeT57E%3D&ehkOptimized=6AwOPKGGMgnrcC5PCt%2FGEFGXg5C7G6ffankldAlEj%2F4%3D",
       "entrants": 0,
       "start_time": 1671235200
     },
