@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671047486,
+  "fetched_at": 1671049050,
   "data": [
     {
       "slug": "tournament/the-bakery/event/melee",
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday Anniversary",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495290/image-4810ae814d59a0b3cead6919bda003e0.png?ehk=9bYscSpuqNAIMu3S1hQomLaTQ7EOnpjpecm%2B7vKVQ9Q%3D&ehkOptimized=37JDf4HelDR3UbRmKFaQP%2BZWtvW3KaCBRfHIeyPiUW0%3D",
-      "entrants": 45,
+      "entrants": 44,
       "start_time": 1671066000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Silver Slippi League #35",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/505642/image-35c6fe2e6327f19f79fa14dc8f389a79.png?ehk=1IVQxpoFwfFwph%2FFXss3CvHTRnmvL783OCOV9OP0YSk%3D&ehkOptimized=7I1PGX8KGDslvEH59JkSIu0uxbAcguY7Xt9vnvx%2FZOg%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1671069600
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Redemption Rumble Online LCQ",
       "event_name": "NA East Bracket (THURSDAY 12/15)",
       "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
-      "entrants": 115,
+      "entrants": 116,
       "start_time": 1671141600
     },
     {
@@ -166,7 +166,7 @@
       "tournament_name": "Raven Rumble #11 (The Return)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505682/image-53acead49c96154738b6d4efdeafe303.png?ehk=Vz73M%2FDIruA3fE541ajKOTPFMcT1Pm3fRO%2Fz2zeT57E%3D&ehkOptimized=6AwOPKGGMgnrcC5PCt%2FGEFGXg5C7G6ffankldAlEj%2F4%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1671235200
     },
     {
@@ -190,7 +190,7 @@
       "tournament_name": "After Dark Melee #8",
       "event_name": "After Dark Doubles",
       "image": "https://images.start.gg/images/tournament/505754/image-44a2310e1206fa9e41be524589b928ac.png?ehk=4xBzNHk5JnxgkRnEBMhUnR1bVcv4EQ89F%2F2bg2l1T9g%3D&ehkOptimized=YflFMcmkCkD3dnyYQ0af9aK03SOLlsTGojhr%2FUrbxnc%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1671308100
     },
     {
