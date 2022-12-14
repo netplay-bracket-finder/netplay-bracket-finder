@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671025891,
+  "fetched_at": 1671027306,
   "data": [
     {
       "slug": "tournament/road-2-glory-revival-2/event/single-div",
@@ -14,7 +14,7 @@
       "tournament_name": "Epic Wednesday Doubles! #1",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/503763/image-9702143c4e7cfcadee6593f9d16805f4.png?ehk=QYrc8JRzM%2BR%2Fm4eGX%2F4VZQv5%2B52Tx0ZjSLaekuhUPHU%3D&ehkOptimized=woD9w5enHu2YBPissI7XzvuFx0EJ0yLEEpdM7PvGB1M%3D",
-      "entrants": 3,
+      "entrants": 6,
       "start_time": 1670396400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Waddle Wednesday Anniversary",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495290/image-4810ae814d59a0b3cead6919bda003e0.png?ehk=9bYscSpuqNAIMu3S1hQomLaTQ7EOnpjpecm%2B7vKVQ9Q%3D&ehkOptimized=37JDf4HelDR3UbRmKFaQP%2BZWtvW3KaCBRfHIeyPiUW0%3D",
-      "entrants": 34,
+      "entrants": 35,
       "start_time": 1671066000
     },
     {
@@ -264,14 +264,6 @@
       "image": "https://images.start.gg/images/tournament/486651/image-cc75cca6201c8312e5128d190c559146.png?ehk=D0i0v8hDngT1dG8nq4VjW0qwSTTSfTQwTr9RH7%2FZ%2Bi4%3D&ehkOptimized=gwnbs1G69jmr7BfGYKRV6VXllxGexWI%2BH4bxaJOieqM%3D",
       "entrants": 4,
       "start_time": 1671897600
-    },
-    {
-      "slug": "tournament/troppo-italiano-christmas-edition/event/singles",
-      "tournament_name": "Troppo Italiano Christmas Edition",
-      "event_name": "Singles",
-      "image": "https://images.start.gg/images/tournament/503138/image-1e3c969fd39583ec4b4bc325d917b47f.jpg?ehk=wQC%2BIb00sohJJAH0kYfvcExx%2FAI1dbE6hAcfFxvuL%2Fo%3D&ehkOptimized=gXlfgCmGnUlucYzis891FiXHZKiSryepSjd8mkk7uxU%3D",
-      "entrants": 0,
-      "start_time": 1672322400
     },
     {
       "slug": "tournament/limesurge-s-new-year-beatdown/event/melee-singles-east-coast",
