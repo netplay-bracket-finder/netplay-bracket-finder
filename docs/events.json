@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671101494,
+  "fetched_at": 1671102821,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-43-eu-event/event/melee-singles",
@@ -120,22 +120,6 @@
       "image": "https://images.start.gg/images/tournament/505029/image-4ec467470ceb8d5e408e79967c9c31e4.png?ehk=eBwKF9drNmPEGPo6%2BJBKHzNaLdqfnpxKIPKoZLaQJvk%3D&ehkOptimized=QKRAySzUXGZi6Ho%2F%2FLEigRwYK585C2AevCuLI6aQDCI%3D",
       "entrants": 2,
       "start_time": 1671048000
-    },
-    {
-      "slug": "tournament/bye-bye-og-kid-200-pot-bonus/event/melee-doubles",
-      "tournament_name": "Bye Bye, OG Kid! ($200 POT BONUS)",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/501759/image-a09dde37b601e797f301dbe0cd397401.png?ehk=mC5V2jWHiP%2B8eioKyums76p6bg2YdeP6q6SCLlicvGE%3D&ehkOptimized=%2Bl0MAuOcVzS5E1m6FG38xyQe1%2FPl9gk2PCJ3lM2OI4Q%3D",
-      "entrants": 5,
-      "start_time": 1671229800
-    },
-    {
-      "slug": "tournament/bye-bye-og-kid-200-pot-bonus/event/melee-singles",
-      "tournament_name": "Bye Bye, OG Kid! ($200 POT BONUS)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/501759/image-a09dde37b601e797f301dbe0cd397401.png?ehk=mC5V2jWHiP%2B8eioKyums76p6bg2YdeP6q6SCLlicvGE%3D&ehkOptimized=%2Bl0MAuOcVzS5E1m6FG38xyQe1%2FPl9gk2PCJ3lM2OI4Q%3D",
-      "entrants": 38,
-      "start_time": 1671316200
     },
     {
       "slug": "tournament/ssbm-randomizer-showcase/event/ssbmr-showcase",
