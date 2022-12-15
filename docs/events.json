@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671076276,
+  "fetched_at": 1671078051,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-35/event/melee-ranked-ladder",
@@ -88,6 +88,14 @@
       "image": "https://images.start.gg/images/tournament/504509/image-4724ea1a06b21f4c7b0efbc40f472825.jpg?ehk=ciCcNjsSKMiY9dOsFv%2Bk2J7oY8LqV%2B3FE5SHpy2cY9c%3D&ehkOptimized=M1UlXwmKVj3iV4SRB7Kn%2FIkYC9Q9%2F1ti4Age%2F0JksIQ%3D",
       "entrants": 11,
       "start_time": 1671148800
+    },
+    {
+      "slug": "tournament/the-dojo-34-season-3/event/melee-singles",
+      "tournament_name": "The Dojo #34 (SEASON 3!!!)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/505755/image-ba12583b838ce697adb93e1246ae8009.png?ehk=d9WB7LDHeLIVBJgoQzRKFs%2FVf4YZUxguKjudSTqdwO0%3D&ehkOptimized=cRA33LLTwyjAudx5BtfX93D1BAivgD5S8irlaWVmsU0%3D",
+      "entrants": 0,
+      "start_time": 1671150600
     },
     {
       "slug": "tournament/bb-83/event/melee-singles",
