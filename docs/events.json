@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671148285,
+  "fetched_at": 1671153422,
   "data": [
     {
       "slug": "tournament/redemption-rumble-online-lcq/event/na-east-bracket-thursday-12-15",
@@ -58,27 +58,11 @@
       "start_time": 1671505200
     },
     {
-      "slug": "tournament/al-in-spirit-online/event/melee-singles",
-      "tournament_name": "AL (in spirit online)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506015/image-021c1cd6c079b4485e087791080a091a.png?ehk=C0qDcO%2Bw67EXgmEy8%2BFZZjQAMDcn8pzS03f5kEoqEW4%3D&ehkOptimized=mkWXl4%2BFpPzlsG8iVzrfOHdgtmdNhzM9MOq7YnxwTv0%3D",
-      "entrants": 11,
-      "start_time": 1671148800
-    },
-    {
-      "slug": "tournament/the-dojo-34-season-3/event/melee-singles",
-      "tournament_name": "The Dojo #34 (SEASON 3!!!)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505755/image-ba12583b838ce697adb93e1246ae8009.png?ehk=d9WB7LDHeLIVBJgoQzRKFs%2FVf4YZUxguKjudSTqdwO0%3D&ehkOptimized=cRA33LLTwyjAudx5BtfX93D1BAivgD5S8irlaWVmsU0%3D",
-      "entrants": 0,
-      "start_time": 1671150600
-    },
-    {
       "slug": "tournament/bb-83/event/melee-singles",
       "tournament_name": "BB-83",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505305/image-4ee2544c50087e7175ed9a954358680d.png?ehk=F32FJakOS9UV2mCAVWvvV6kxT1iEtGL16SwM0kr2Biw%3D&ehkOptimized=7h1vRUrxss4qa9WEqhpolrbx6kwLP5KXRs50iJ7Ba04%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1671174000
     },
     {
@@ -118,7 +102,7 @@
       "tournament_name": "Bye Bye, OG Kid! ($200 POT BONUS)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/501759/image-a09dde37b601e797f301dbe0cd397401.png?ehk=mC5V2jWHiP%2B8eioKyums76p6bg2YdeP6q6SCLlicvGE%3D&ehkOptimized=%2Bl0MAuOcVzS5E1m6FG38xyQe1%2FPl9gk2PCJ3lM2OI4Q%3D",
-      "entrants": 55,
+      "entrants": 58,
       "start_time": 1671316200
     },
     {
@@ -240,6 +224,14 @@
       "image": "https://images.start.gg/images/tournament/504557/image-6b3329d8661e3f31c9829510a9f5be60.png?ehk=mGibGrsZUZzlzFr3TFIwmN463mBh1%2FTmgZ3iI9v1gvI%3D&ehkOptimized=RW3fBXyQt4VaDT86I7Es7JIqR8SWJfNc7X4zlTdVtZU%3D",
       "entrants": 6,
       "start_time": 1671591600
+    },
+    {
+      "slug": "tournament/femme-fatale-1/event/femme-fatale",
+      "tournament_name": "Femme Fatale #1",
+      "event_name": "Femme Fatale",
+      "image": "https://images.start.gg/images/tournament/504976/image-7705dda16176c7f87063f69e543a07ba.png?ehk=g1SkzMH7NXYnh8Xst2NET4rh9gKUV2pQfJQxFwRVh8g%3D&ehkOptimized=pfGpxHCzbutYVybFY2KfWteHFuy%2FlL%2B9F8P2%2FDgIR6M%3D",
+      "entrants": 3,
+      "start_time": 1671674400
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-44-eu-event/event/melee-singles",
