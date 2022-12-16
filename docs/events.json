@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671209765,
+  "fetched_at": 1671210888,
   "data": [
     {
       "slug": "tournament/the-legends-tournament-87/event/wavedash-22",
       "tournament_name": "The Legends Tournament #87",
       "event_name": "WaveDash #22",
       "image": "https://images.start.gg/images/tournament/505796/image-212dd106ff5e8e68439619eb2ddd8467.png?ehk=9c8fvSlnEZLoDD4QzvT5ZoyKVII5K8SHfM4F4VEli3s%3D&ehkOptimized=Jf01J4CLy0ywxaXVMGzFDhm1s94SA7dSTOdI0hl9uvw%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1671214200
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Amy's Angels 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506096/image-d057d335b17ee5bdcf36ba502c271b01.png?ehk=8Ykzy1EWbJaQl9duAq6vXWyOA0CTpKGiYaufyHRPzGk%3D&ehkOptimized=JP60%2BaPLhPFbAhadCkI8RdpJ%2B3koj67cIAHhVoGIE5w%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1671238800
     },
     {
