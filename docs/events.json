@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671233805,
+  "fetched_at": 1671234683,
   "data": [
     {
       "slug": "tournament/the-legends-tournament-87/event/wavedash-22",
@@ -22,15 +22,7 @@
       "tournament_name": "SSBM Randomizer Showcase",
       "event_name": "Results Data",
       "image": "https://images.start.gg/images/tournament/505571/image-2e71764c02cfbd05fcd1aee2e2d6dc5f.png?ehk=J4ELVIjLM13MnVcQA5EcXb29m9m4rW%2FACLkRugdXj%2Bk%3D&ehkOptimized=jbg%2Fb2lWhZdwzSYGDfTvGup8gdITKNCx4WIoZp%2FvMWs%3D",
-      "entrants": 0,
-      "start_time": 1671235200
-    },
-    {
-      "slug": "tournament/raven-rumble-11-the-return/event/melee-singles",
-      "tournament_name": "Raven Rumble #11 (The Return)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505682/image-53acead49c96154738b6d4efdeafe303.png?ehk=Vz73M%2FDIruA3fE541ajKOTPFMcT1Pm3fRO%2Fz2zeT57E%3D&ehkOptimized=6AwOPKGGMgnrcC5PCt%2FGEFGXg5C7G6ffankldAlEj%2F4%3D",
-      "entrants": 13,
+      "entrants": 1,
       "start_time": 1671235200
     },
     {
@@ -110,7 +102,7 @@
       "tournament_name": "Tech Skill - $50 Pot Bonus!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503350/image-71753b875b75657c7d8b762bae81cbce.png?ehk=gDdCw8LwKsHsU2%2FpCAFHiG1ywnWVPBMlML6BgO0U9qQ%3D&ehkOptimized=gjNk1rBWNmiAM9pNiuLrG55qKUSkLFZLkJxMrkvtG1I%3D",
-      "entrants": 14,
+      "entrants": 13,
       "start_time": 1671321600
     },
     {
@@ -142,7 +134,7 @@
       "tournament_name": "Spudfest 45",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505877/image-74ee657245ba9a232aa63e62b5fe6020.jpg?ehk=6LziFRH%2FnwSpsUGOQBfyFelL%2Fc3M%2BFgYwA5iA5ygQQc%3D&ehkOptimized=9sRbFQ%2BODokGjC21eook4LO3Zu%2FIW%2B5ZvNmzEzlGZLw%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1671501600
     },
     {
