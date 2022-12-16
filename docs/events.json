@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671212288,
+  "fetched_at": 1671213078,
   "data": [
     {
       "slug": "tournament/the-legends-tournament-87/event/wavedash-22",
       "tournament_name": "The Legends Tournament #87",
       "event_name": "WaveDash #22",
       "image": "https://images.start.gg/images/tournament/505796/image-212dd106ff5e8e68439619eb2ddd8467.png?ehk=9c8fvSlnEZLoDD4QzvT5ZoyKVII5K8SHfM4F4VEli3s%3D&ehkOptimized=Jf01J4CLy0ywxaXVMGzFDhm1s94SA7dSTOdI0hl9uvw%3D",
-      "entrants": 6,
+      "entrants": 5,
       "start_time": 1671214200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Deter-Melee Low Tier Reborn",
       "event_name": "Deter-Melee Low Tier Reborn",
       "image": "https://images.start.gg/images/tournament/482549/image-df29c1008b4492f36c3e4ac3613ab8f2.png?ehk=u5XdmF06c5YIhs9dISb7UNXBN76TjEu6ygQhMUbzod4%3D&ehkOptimized=j0qWbo1G6mxURU5xHyxRkPlw%2FuUn%2BOhkTc%2BFVGai%2FpU%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1671219000
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Amy's Angels 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506096/image-d057d335b17ee5bdcf36ba502c271b01.png?ehk=8Ykzy1EWbJaQl9duAq6vXWyOA0CTpKGiYaufyHRPzGk%3D&ehkOptimized=JP60%2BaPLhPFbAhadCkI8RdpJ%2B3koj67cIAHhVoGIE5w%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1671238800
     },
     {
@@ -72,6 +72,14 @@
       "image": "https://images.start.gg/images/tournament/506132/image-854d0548b2d3810f9eec3bcc36680681.png?ehk=p0%2FFz%2FWzB8KeZHcI%2FVB%2FdRmDcjiH8g1hJp%2BwSsc%2BVwg%3D&ehkOptimized=dXXbwELkaqpc8dDG2fBuSfqrNuSIlOqf%2BG7Y3kCAhWA%3D",
       "entrants": 0,
       "start_time": 1671285600
+    },
+    {
+      "slug": "tournament/asl-s-weekly-weekend-melee-19/event/melee-singles",
+      "tournament_name": "ASL’s Weekly Weekend Melee #19",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/506192/image-62710f3ddb03aeea560480aa76ace2bc.png?ehk=vMVZGHr08bFmkwH6I6Vo4xgL4V1lmIKI1EQ0mLkuWAY%3D&ehkOptimized=1Or4yKCDsfxUxTKL3m7VDfSvNU0P2CsmnMeIpSCyaag%3D",
+      "entrants": 1,
+      "start_time": 1671298200
     },
     {
       "slug": "tournament/festive-fight/event/melee-doubles",
