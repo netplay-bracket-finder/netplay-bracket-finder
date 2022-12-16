@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671202297,
+  "fetched_at": 1671203869,
   "data": [
     {
       "slug": "tournament/the-legends-tournament-87/event/wavedash-22",
@@ -14,7 +14,7 @@
       "tournament_name": "Deter-Melee Low Tier Reborn",
       "event_name": "Deter-Melee Low Tier Reborn",
       "image": "https://images.start.gg/images/tournament/482549/image-df29c1008b4492f36c3e4ac3613ab8f2.png?ehk=u5XdmF06c5YIhs9dISb7UNXBN76TjEu6ygQhMUbzod4%3D&ehkOptimized=j0qWbo1G6mxURU5xHyxRkPlw%2FuUn%2BOhkTc%2BFVGai%2FpU%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1671219000
     },
     {
@@ -64,6 +64,14 @@
       "image": "https://images.start.gg/images/tournament/506111/image-1a8a2198b37c5165ffeb6ad74e19a92c.png?ehk=gQusN%2BRhcpBz5tVB3%2BhJk%2FoTTXZACyGT2YbIDVmDm7s%3D&ehkOptimized=Yovw4upvweczvAFb079Ep%2BP1UqOZ5ZOQaZ8cRbXUIa0%3D",
       "entrants": 0,
       "start_time": 1671267600
+    },
+    {
+      "slug": "tournament/ranked-for-poor-europeans/event/ladder",
+      "tournament_name": "Ranked For Poor Europeans",
+      "event_name": "Ladder",
+      "image": "https://images.start.gg/images/tournament/506132/image-854d0548b2d3810f9eec3bcc36680681.png?ehk=p0%2FFz%2FWzB8KeZHcI%2FVB%2FdRmDcjiH8g1hJp%2BwSsc%2BVwg%3D&ehkOptimized=dXXbwELkaqpc8dDG2fBuSfqrNuSIlOqf%2BG7Y3kCAhWA%3D",
+      "entrants": 0,
+      "start_time": 1671285600
     },
     {
       "slug": "tournament/festive-fight/event/melee-doubles",
