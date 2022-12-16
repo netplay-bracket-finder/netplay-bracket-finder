@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671197784,
+  "fetched_at": 1671198681,
   "data": [
     {
       "slug": "tournament/the-legends-tournament-87/event/wavedash-22",
@@ -56,6 +56,14 @@
       "image": "https://images.start.gg/images/tournament/506096/image-d057d335b17ee5bdcf36ba502c271b01.png?ehk=8Ykzy1EWbJaQl9duAq6vXWyOA0CTpKGiYaufyHRPzGk%3D&ehkOptimized=JP60%2BaPLhPFbAhadCkI8RdpJ%2B3koj67cIAHhVoGIE5w%3D",
       "entrants": 0,
       "start_time": 1671238800
+    },
+    {
+      "slug": "tournament/doublecross-2-birdhouse-blight/event/melee-doubles",
+      "tournament_name": "DoubleCross 2: Birdhouse Blight",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/506111/image-1a8a2198b37c5165ffeb6ad74e19a92c.png?ehk=gQusN%2BRhcpBz5tVB3%2BhJk%2FoTTXZACyGT2YbIDVmDm7s%3D&ehkOptimized=Yovw4upvweczvAFb079Ep%2BP1UqOZ5ZOQaZ8cRbXUIa0%3D",
+      "entrants": 0,
+      "start_time": 1671267600
     },
     {
       "slug": "tournament/festive-fight/event/melee-doubles",
@@ -182,7 +190,7 @@
       "tournament_name": "Only Noobs 98",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506094/image-7ce30c13e698cb9b8f93d481d95e2add.jpg?ehk=ly%2FzbcOkFW5iqLQw2dWUeKjxGuROiIcNDKPr7Hs%2BHEk%3D&ehkOptimized=jP4X3McEURl8xxWf3bkoIiJnsmIU6eNQEvmGOQ%2FxYC8%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1671753600
     },
     {
