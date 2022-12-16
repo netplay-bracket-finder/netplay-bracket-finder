@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671172781,
+  "fetched_at": 1671173480,
   "data": [
     {
       "slug": "tournament/redemption-rumble-online-lcq/event/na-west-bracket-friday-12-16",
@@ -56,14 +56,6 @@
       "image": "https://images.start.gg/images/tournament/498261/image-542ac2ee11e8497bebc0259c10cb8d85.png?ehk=plB0BejFZMXsr36WuG8hFFarDq%2FBol80VC84NA4BVzo%3D&ehkOptimized=CgdCyc5nTJmQ2GfCCfwXr2v7PZE7va2PEGFYoiJVHDU%3D",
       "entrants": 0,
       "start_time": 1671505200
-    },
-    {
-      "slug": "tournament/bb-83/event/melee-singles",
-      "tournament_name": "BB-83",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505305/image-4ee2544c50087e7175ed9a954358680d.png?ehk=F32FJakOS9UV2mCAVWvvV6kxT1iEtGL16SwM0kr2Biw%3D&ehkOptimized=7h1vRUrxss4qa9WEqhpolrbx6kwLP5KXRs50iJ7Ba04%3D",
-      "entrants": 22,
-      "start_time": 1671174000
     },
     {
       "slug": "tournament/the-legends-tournament-87/event/wavedash-22",
