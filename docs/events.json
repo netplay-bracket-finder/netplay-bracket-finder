@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671310290,
+  "fetched_at": 1671311575,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-19/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Festive Fight",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/503750/image-bbfbd8609ff4be250d4be9cf04b06d13.jpg?ehk=tdhKFa9DFPLe3fsN9q9C9KmEn5f%2BqeM6TDkFPNPTaqM%3D&ehkOptimized=IN5wPcOmkpMVPjMc0WY4lhIFPSO0blgkleFaQY52r9I%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1671307200
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Legs' Le Tournament #61",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506369/image-e7dd08a7c20384fb40060356533eb1a6.png?ehk=01U7h4WCJ7BBAcBzNPvW8R2e9visJEqNNBqhe%2FrcXDI%3D&ehkOptimized=6WOYPRf%2BCLuyNKgoB6HCASfmPOZEZT07utWaHNiNXUs%3D",
-      "entrants": 7,
+      "entrants": 9,
       "start_time": 1671314400
     },
     {
@@ -64,6 +64,14 @@
       "image": "https://images.start.gg/images/tournament/502746/image-d8e4c6ed74eb1079cdb4f2c5bbc4bc92.png?ehk=wixOU1SB6eqLkrKnem%2F%2Bm7lTBBAeogOiyJZiEGqlONk%3D&ehkOptimized=6%2FzSeF%2BhYAecYWM9o5YjYQ2vJLaTNIQ3y5sN4cT8sLM%3D",
       "entrants": 7,
       "start_time": 1671318000
+    },
+    {
+      "slug": "tournament/tech-skill-50-pot-bonus/event/melee-singles",
+      "tournament_name": "Tech Skill - $50 Pot Bonus!",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/503350/image-71753b875b75657c7d8b762bae81cbce.png?ehk=gDdCw8LwKsHsU2%2FpCAFHiG1ywnWVPBMlML6BgO0U9qQ%3D&ehkOptimized=gjNk1rBWNmiAM9pNiuLrG55qKUSkLFZLkJxMrkvtG1I%3D",
+      "entrants": 18,
+      "start_time": 1671321600
     },
     {
       "slug": "tournament/sober-saturday-121/event/melee-singles",
@@ -86,7 +94,7 @@
       "tournament_name": "Level Two Melee Playoff (LOM Season 5)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497701/image-0fe0c43ccd269e31aff5d2d7a880c288.png?ehk=dnLsLnlUo3jXl5nRID3tmELgn4nw7zQu6L1F2ernwVE%3D&ehkOptimized=QQIzl0BIw%2BpM35kgoLK3S%2Fpiu%2F6EBfV%2B6l2pkmRE2lA%3D",
-      "entrants": 27,
+      "entrants": 25,
       "start_time": 1671390000
     },
     {
