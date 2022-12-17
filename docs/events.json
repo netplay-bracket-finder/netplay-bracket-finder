@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671311575,
+  "fetched_at": 1671312233,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-19/event/melee-singles",
@@ -86,16 +86,8 @@
       "tournament_name": "Fight of the Fearless 32",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/506356/image-a4a5c3062bd65839b75e8930546a94d4.png?ehk=p%2BedZnVVZU30Vl%2F8E1huk4rYU%2B0lguv2IFbyT5%2F0geo%3D&ehkOptimized=g5qJF2j2at1%2FIGqKTREasUPP%2Bca8fkfV4VrhMUxeYEA%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1671386400
-    },
-    {
-      "slug": "tournament/level-two-melee-playoff-lom-season-5/event/melee-singles-1",
-      "tournament_name": "Level Two Melee Playoff (LOM Season 5)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/497701/image-0fe0c43ccd269e31aff5d2d7a880c288.png?ehk=dnLsLnlUo3jXl5nRID3tmELgn4nw7zQu6L1F2ernwVE%3D&ehkOptimized=QQIzl0BIw%2BpM35kgoLK3S%2Fpiu%2F6EBfV%2B6l2pkmRE2lA%3D",
-      "entrants": 25,
-      "start_time": 1671390000
     },
     {
       "slug": "tournament/melee-weekly-br-7-pague-o-ranked/event/melee-singles",
