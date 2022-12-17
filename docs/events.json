@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671301071,
+  "fetched_at": 1671302259,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-19/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "After Dark Melee #8",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/505754/image-44a2310e1206fa9e41be524589b928ac.png?ehk=4xBzNHk5JnxgkRnEBMhUnR1bVcv4EQ89F%2F2bg2l1T9g%3D&ehkOptimized=YflFMcmkCkD3dnyYQ0af9aK03SOLlsTGojhr%2FUrbxnc%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1671308100
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Legs' Le Tournament #61",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506369/image-e7dd08a7c20384fb40060356533eb1a6.png?ehk=01U7h4WCJ7BBAcBzNPvW8R2e9visJEqNNBqhe%2FrcXDI%3D&ehkOptimized=6WOYPRf%2BCLuyNKgoB6HCASfmPOZEZT07utWaHNiNXUs%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1671314400
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Level Two Melee Playoff (LOM Season 5)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497701/image-0fe0c43ccd269e31aff5d2d7a880c288.png?ehk=dnLsLnlUo3jXl5nRID3tmELgn4nw7zQu6L1F2ernwVE%3D&ehkOptimized=QQIzl0BIw%2BpM35kgoLK3S%2Fpiu%2F6EBfV%2B6l2pkmRE2lA%3D",
-      "entrants": 24,
+      "entrants": 27,
       "start_time": 1671390000
     },
     {
