@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671315225,
+  "fetched_at": 1671316035,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-19/event/melee-singles",
@@ -26,19 +26,11 @@
       "start_time": 1671310800
     },
     {
-      "slug": "tournament/sby-melee-netplay-142/event/melee-singles",
-      "tournament_name": "SBY Melee Netplay #142",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506405/image-b776916ccb55194f8439dab559056e89.jpg?ehk=LpuOmC1cnD66zI0aKCXfZNeQlBvwP%2BUfGsJtFIZRjnY%3D&ehkOptimized=e3EE6134tq4J9NsWOXls72N4kxwzgV3beGAwUidV9ho%3D",
-      "entrants": 6,
-      "start_time": 1671316200
-    },
-    {
       "slug": "tournament/andrenaleague-17/event/melee-singles",
       "tournament_name": "Andrenaleague 17",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/502746/image-d8e4c6ed74eb1079cdb4f2c5bbc4bc92.png?ehk=wixOU1SB6eqLkrKnem%2F%2Bm7lTBBAeogOiyJZiEGqlONk%3D&ehkOptimized=6%2FzSeF%2BhYAecYWM9o5YjYQ2vJLaTNIQ3y5sN4cT8sLM%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1671318000
     },
     {
@@ -46,7 +38,7 @@
       "tournament_name": "Tech Skill - $50 Pot Bonus!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503350/image-71753b875b75657c7d8b762bae81cbce.png?ehk=gDdCw8LwKsHsU2%2FpCAFHiG1ywnWVPBMlML6BgO0U9qQ%3D&ehkOptimized=gjNk1rBWNmiAM9pNiuLrG55qKUSkLFZLkJxMrkvtG1I%3D",
-      "entrants": 19,
+      "entrants": 21,
       "start_time": 1671321600
     },
     {
@@ -62,7 +54,7 @@
       "tournament_name": "Fight of the Fearless 32",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/506356/image-a4a5c3062bd65839b75e8930546a94d4.png?ehk=p%2BedZnVVZU30Vl%2F8E1huk4rYU%2B0lguv2IFbyT5%2F0geo%3D&ehkOptimized=g5qJF2j2at1%2FIGqKTREasUPP%2Bca8fkfV4VrhMUxeYEA%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1671386400
     },
     {
