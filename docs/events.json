@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671319594,
+  "fetched_at": 1671320282,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-19/event/melee-singles",
@@ -10,20 +10,20 @@
       "start_time": 1671298200
     },
     {
-      "slug": "tournament/festive-fight/event/melee-doubles",
-      "tournament_name": "Festive Fight",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/503750/image-bbfbd8609ff4be250d4be9cf04b06d13.jpg?ehk=tdhKFa9DFPLe3fsN9q9C9KmEn5f%2BqeM6TDkFPNPTaqM%3D&ehkOptimized=IN5wPcOmkpMVPjMc0WY4lhIFPSO0blgkleFaQY52r9I%3D",
-      "entrants": 2,
-      "start_time": 1671307200
-    },
-    {
       "slug": "tournament/festive-fight/event/melee-ladder-1",
       "tournament_name": "Festive Fight",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/503750/image-bbfbd8609ff4be250d4be9cf04b06d13.jpg?ehk=tdhKFa9DFPLe3fsN9q9C9KmEn5f%2BqeM6TDkFPNPTaqM%3D&ehkOptimized=IN5wPcOmkpMVPjMc0WY4lhIFPSO0blgkleFaQY52r9I%3D",
       "entrants": 11,
       "start_time": 1671310800
+    },
+    {
+      "slug": "tournament/festive-fight/event/melee-doubles",
+      "tournament_name": "Festive Fight",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/503750/image-bbfbd8609ff4be250d4be9cf04b06d13.jpg?ehk=tdhKFa9DFPLe3fsN9q9C9KmEn5f%2BqeM6TDkFPNPTaqM%3D&ehkOptimized=IN5wPcOmkpMVPjMc0WY4lhIFPSO0blgkleFaQY52r9I%3D",
+      "entrants": 2,
+      "start_time": 1671307200
     },
     {
       "slug": "tournament/festive-fight/event/melee-finals",
@@ -38,7 +38,7 @@
       "tournament_name": "Tech Skill - $50 Pot Bonus!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503350/image-71753b875b75657c7d8b762bae81cbce.png?ehk=gDdCw8LwKsHsU2%2FpCAFHiG1ywnWVPBMlML6BgO0U9qQ%3D&ehkOptimized=gjNk1rBWNmiAM9pNiuLrG55qKUSkLFZLkJxMrkvtG1I%3D",
-      "entrants": 21,
+      "entrants": 19,
       "start_time": 1671321600
     },
     {
