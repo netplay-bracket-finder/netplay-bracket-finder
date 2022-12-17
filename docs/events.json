@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671294013,
+  "fetched_at": 1671295356,
   "data": [
     {
       "slug": "tournament/ranked-for-poor-europeans/event/ladder",
@@ -14,7 +14,7 @@
       "tournament_name": "ASL’s Weekly Weekend Melee #19",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506192/image-62710f3ddb03aeea560480aa76ace2bc.png?ehk=vMVZGHr08bFmkwH6I6Vo4xgL4V1lmIKI1EQ0mLkuWAY%3D&ehkOptimized=1Or4yKCDsfxUxTKL3m7VDfSvNU0P2CsmnMeIpSCyaag%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1671298200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Festive Fight",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/503750/image-bbfbd8609ff4be250d4be9cf04b06d13.jpg?ehk=tdhKFa9DFPLe3fsN9q9C9KmEn5f%2BqeM6TDkFPNPTaqM%3D&ehkOptimized=IN5wPcOmkpMVPjMc0WY4lhIFPSO0blgkleFaQY52r9I%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1671310800
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Tech Skill - $50 Pot Bonus!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503350/image-71753b875b75657c7d8b762bae81cbce.png?ehk=gDdCw8LwKsHsU2%2FpCAFHiG1ywnWVPBMlML6BgO0U9qQ%3D&ehkOptimized=gjNk1rBWNmiAM9pNiuLrG55qKUSkLFZLkJxMrkvtG1I%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1671321600
     },
     {
