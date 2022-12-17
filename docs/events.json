@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671317479,
+  "fetched_at": 1671318888,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-19/event/melee-singles",
@@ -24,6 +24,14 @@
       "image": "https://images.start.gg/images/tournament/503750/image-bbfbd8609ff4be250d4be9cf04b06d13.jpg?ehk=tdhKFa9DFPLe3fsN9q9C9KmEn5f%2BqeM6TDkFPNPTaqM%3D&ehkOptimized=IN5wPcOmkpMVPjMc0WY4lhIFPSO0blgkleFaQY52r9I%3D",
       "entrants": 11,
       "start_time": 1671310800
+    },
+    {
+      "slug": "tournament/festive-fight/event/melee-finals",
+      "tournament_name": "Festive Fight",
+      "event_name": "Melee Finals",
+      "image": "https://images.start.gg/images/tournament/503750/image-bbfbd8609ff4be250d4be9cf04b06d13.jpg?ehk=tdhKFa9DFPLe3fsN9q9C9KmEn5f%2BqeM6TDkFPNPTaqM%3D&ehkOptimized=IN5wPcOmkpMVPjMc0WY4lhIFPSO0blgkleFaQY52r9I%3D",
+      "entrants": 1,
+      "start_time": 1671328800
     },
     {
       "slug": "tournament/tech-skill-50-pot-bonus/event/melee-singles",
