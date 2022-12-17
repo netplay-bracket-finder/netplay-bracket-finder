@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671320282,
+  "fetched_at": 1671321084,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-19/event/melee-singles",
@@ -31,6 +31,22 @@
       "event_name": "Melee Finals",
       "image": "https://images.start.gg/images/tournament/503750/image-bbfbd8609ff4be250d4be9cf04b06d13.jpg?ehk=tdhKFa9DFPLe3fsN9q9C9KmEn5f%2BqeM6TDkFPNPTaqM%3D&ehkOptimized=IN5wPcOmkpMVPjMc0WY4lhIFPSO0blgkleFaQY52r9I%3D",
       "entrants": 1,
+      "start_time": 1671328800
+    },
+    {
+      "slug": "tournament/winter-byu-melee-classico/event/melee-doubles",
+      "tournament_name": "Winter BYU Melee Classico",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/496909/image-0f3535636abed0a76933f3f790f70161.jpg?ehk=kYvPLgkJ29w6W5C1%2FhC5gze9rt%2B67akyFOPyoLfGNxg%3D&ehkOptimized=ododt%2Fiuuu8eEsUoK3F2uMxacSS1MJKrB38uO7H23QM%3D",
+      "entrants": 5,
+      "start_time": 1671321600
+    },
+    {
+      "slug": "tournament/winter-byu-melee-classico/event/melee-singles",
+      "tournament_name": "Winter BYU Melee Classico",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/496909/image-0f3535636abed0a76933f3f790f70161.jpg?ehk=kYvPLgkJ29w6W5C1%2FhC5gze9rt%2B67akyFOPyoLfGNxg%3D&ehkOptimized=ododt%2Fiuuu8eEsUoK3F2uMxacSS1MJKrB38uO7H23QM%3D",
+      "entrants": 20,
       "start_time": 1671328800
     },
     {
