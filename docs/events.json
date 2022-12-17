@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671280048,
+  "fetched_at": 1671281573,
   "data": [
     {
       "slug": "tournament/ranked-for-poor-europeans/event/ladder",
       "tournament_name": "Ranked For Poor Europeans",
       "event_name": "Ladder",
       "image": "https://images.start.gg/images/tournament/506132/image-854d0548b2d3810f9eec3bcc36680681.png?ehk=p0%2FFz%2FWzB8KeZHcI%2FVB%2FdRmDcjiH8g1hJp%2BwSsc%2BVwg%3D&ehkOptimized=dXXbwELkaqpc8dDG2fBuSfqrNuSIlOqf%2BG7Y3kCAhWA%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1671285600
     },
     {
@@ -64,6 +64,14 @@
       "image": "https://images.start.gg/images/tournament/503350/image-71753b875b75657c7d8b762bae81cbce.png?ehk=gDdCw8LwKsHsU2%2FpCAFHiG1ywnWVPBMlML6BgO0U9qQ%3D&ehkOptimized=gjNk1rBWNmiAM9pNiuLrG55qKUSkLFZLkJxMrkvtG1I%3D",
       "entrants": 13,
       "start_time": 1671321600
+    },
+    {
+      "slug": "tournament/fight-of-the-fearless-32/event/fight-of-the-fearless-single",
+      "tournament_name": "Fight of the Fearless 32",
+      "event_name": "Fight Of The Fearless single",
+      "image": "https://images.start.gg/images/tournament/506356/image-a4a5c3062bd65839b75e8930546a94d4.png?ehk=p%2BedZnVVZU30Vl%2F8E1huk4rYU%2B0lguv2IFbyT5%2F0geo%3D&ehkOptimized=g5qJF2j2at1%2FIGqKTREasUPP%2Bca8fkfV4VrhMUxeYEA%3D",
+      "entrants": 0,
+      "start_time": 1671386400
     },
     {
       "slug": "tournament/level-two-melee-playoff-lom-season-5/event/melee-singles-1",
