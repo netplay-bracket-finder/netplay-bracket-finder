@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671292271,
+  "fetched_at": 1671294013,
   "data": [
     {
       "slug": "tournament/ranked-for-poor-europeans/event/ladder",
@@ -38,7 +38,7 @@
       "tournament_name": "After Dark Melee #8",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/505754/image-44a2310e1206fa9e41be524589b928ac.png?ehk=4xBzNHk5JnxgkRnEBMhUnR1bVcv4EQ89F%2F2bg2l1T9g%3D&ehkOptimized=YflFMcmkCkD3dnyYQ0af9aK03SOLlsTGojhr%2FUrbxnc%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1671308100
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Legs' Le Tournament #61",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506369/image-e7dd08a7c20384fb40060356533eb1a6.png?ehk=01U7h4WCJ7BBAcBzNPvW8R2e9visJEqNNBqhe%2FrcXDI%3D&ehkOptimized=6WOYPRf%2BCLuyNKgoB6HCASfmPOZEZT07utWaHNiNXUs%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1671314400
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Tech Skill - $50 Pot Bonus!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/503350/image-71753b875b75657c7d8b762bae81cbce.png?ehk=gDdCw8LwKsHsU2%2FpCAFHiG1ywnWVPBMlML6BgO0U9qQ%3D&ehkOptimized=gjNk1rBWNmiAM9pNiuLrG55qKUSkLFZLkJxMrkvtG1I%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1671321600
     },
     {
