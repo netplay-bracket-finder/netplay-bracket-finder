@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1671385901,
+  "fetched_at": 1671387459,
   "data": [
-    {
-      "slug": "tournament/fight-of-the-fearless-32/event/fight-of-the-fearless-single",
-      "tournament_name": "Fight of the Fearless 32",
-      "event_name": "Fight Of The Fearless single",
-      "image": "https://images.start.gg/images/tournament/506356/image-a4a5c3062bd65839b75e8930546a94d4.png?ehk=p%2BedZnVVZU30Vl%2F8E1huk4rYU%2B0lguv2IFbyT5%2F0geo%3D&ehkOptimized=g5qJF2j2at1%2FIGqKTREasUPP%2Bca8fkfV4VrhMUxeYEA%3D",
-      "entrants": 14,
-      "start_time": 1671386400
-    },
-    {
-      "slug": "tournament/melee-weekly-br-7-pague-o-ranked/event/melee-singles",
-      "tournament_name": "Melee Weekly BR #7 - Pague o Ranked",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505558/image-0c0061465192b1ec7f906a29e11fa793.png?ehk=morwxJQkonICEwvdQOcGKRXQYReIszh7pC1Ma68%2FATY%3D&ehkOptimized=%2BTNZExqqk5glIuujLJZhod%2FxQe9JrD3EwT6TCnzr7w8%3D",
-      "entrants": 10,
-      "start_time": 1671390000
-    },
     {
       "slug": "tournament/melee-legends-6/event/melee-singles",
       "tournament_name": "Melee Legends 6",
