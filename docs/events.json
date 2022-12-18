@@ -1,6 +1,14 @@
 {
-  "fetched_at": 1671387459,
+  "fetched_at": 1671388660,
   "data": [
+    {
+      "slug": "tournament/melee-weekly-br-7-pague-o-ranked/event/melee-singles",
+      "tournament_name": "Melee Weekly BR #7 - Pague o Ranked",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/505558/image-0c0061465192b1ec7f906a29e11fa793.png?ehk=morwxJQkonICEwvdQOcGKRXQYReIszh7pC1Ma68%2FATY%3D&ehkOptimized=%2BTNZExqqk5glIuujLJZhod%2FxQe9JrD3EwT6TCnzr7w8%3D",
+      "entrants": 13,
+      "start_time": 1671390000
+    },
     {
       "slug": "tournament/melee-legends-6/event/melee-singles",
       "tournament_name": "Melee Legends 6",
@@ -8,6 +16,14 @@
       "image": "https://images.start.gg/images/tournament/506413/image-43ac156148fcfc7d70d0dbf6b4a5341a.png?ehk=geWVnd1Gbb3uC1kHOp2T3wBEyZaTd7c7npFQuEhVV4E%3D&ehkOptimized=O1y6MtJDTMlwsIhmqaAO3i00AWlTmSo6462me9yszxA%3D",
       "entrants": 4,
       "start_time": 1671397200
+    },
+    {
+      "slug": "tournament/kalvar-cup-72-the-72nd-one/event/melee-singles",
+      "tournament_name": "Kalvar Cup #72 the 72nd one",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/506568/image-9f6f65ed38f76d4d0d561e8e0bf0a473.png?ehk=FADZtuzOLBZn1t7gBqlh5yf1xKXsAPGp6dfyrqRzY6k%3D&ehkOptimized=bpIA2tC2tTPYxz%2FCmcmkT%2FCBGf7p5NCgf0NAjxE4i1E%3D",
+      "entrants": 0,
+      "start_time": 1671408000
     },
     {
       "slug": "tournament/scss-east-coast-99/event/melee-singles",
