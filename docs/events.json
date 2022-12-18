@@ -1,6 +1,14 @@
 {
-  "fetched_at": 1671405321,
+  "fetched_at": 1671406600,
   "data": [
+    {
+      "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
+      "tournament_name": "The Wolf's Den #2",
+      "event_name": "The Wolf's Den #2",
+      "image": "https://images.start.gg/images/tournament/495394/image-fd79d4ec163b4739409eef0d5d2b5135.png?ehk=6BLadgbRonHOuUmMdFfCzNSPoPY%2FMM6V4ubBafWNqKU%3D&ehkOptimized=Fs10UPrCu%2B0qQTR8BDaDcFr7KdgRiDU29rP7WCCUY%2F4%3D",
+      "entrants": 3,
+      "start_time": 1671411600
+    },
     {
       "slug": "tournament/melee-legends-6/event/melee-singles",
       "tournament_name": "Melee Legends 6",
@@ -10,11 +18,11 @@
       "start_time": 1671397200
     },
     {
-      "slug": "tournament/kalvar-cup-72-the-72nd-one/event/melee-singles",
-      "tournament_name": "Kalvar Cup #72 the 72nd one",
+      "slug": "tournament/kalvar-cup-72-the-last-one-of-2022/event/melee-singles",
+      "tournament_name": "Kalvar Cup #72: The Last One... of 2022",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506568/image-9f6f65ed38f76d4d0d561e8e0bf0a473.png?ehk=FADZtuzOLBZn1t7gBqlh5yf1xKXsAPGp6dfyrqRzY6k%3D&ehkOptimized=bpIA2tC2tTPYxz%2FCmcmkT%2FCBGf7p5NCgf0NAjxE4i1E%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1671408000
     },
     {
@@ -22,7 +30,7 @@
       "tournament_name": "SCSS East Coast #99",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506360/image-97a2a83767fd8a59558f3cded12949f3.png?ehk=r8fjMssB58luFCD8%2FjPZGN8Ae7pk5upacnStrltsZTU%3D&ehkOptimized=oBaJEtj934yT9OJrUBbXjvZ9i068WEIhVD4r1ASpmI4%3D",
-      "entrants": 13,
+      "entrants": 16,
       "start_time": 1671409800
     },
     {
@@ -214,7 +222,7 @@
       "tournament_name": "[$1000] Conduit Gaming Annual Gold Invitational 2023",
       "event_name": "SSBM Randomizer Singles",
       "image": "https://images.start.gg/images/tournament/480976/image-97c003ab9f53742b7bda638f252b4aa7.png?ehk=yZZeMCBgIFmmed7MEVR536DbzkvthGqwI0FLWM4YiUg%3D&ehkOptimized=Ay3nN1fPdJHC%2BFaG7N8UCR5cHhS6gutXVs3Ozv33VKQ%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1673568000
     },
     {
