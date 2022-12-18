@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671321084,
+  "fetched_at": 1671326254,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-19/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Festive Fight",
       "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/503750/image-bbfbd8609ff4be250d4be9cf04b06d13.jpg?ehk=tdhKFa9DFPLe3fsN9q9C9KmEn5f%2BqeM6TDkFPNPTaqM%3D&ehkOptimized=IN5wPcOmkpMVPjMc0WY4lhIFPSO0blgkleFaQY52r9I%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1671310800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Festive Fight",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/503750/image-bbfbd8609ff4be250d4be9cf04b06d13.jpg?ehk=tdhKFa9DFPLe3fsN9q9C9KmEn5f%2BqeM6TDkFPNPTaqM%3D&ehkOptimized=IN5wPcOmkpMVPjMc0WY4lhIFPSO0blgkleFaQY52r9I%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1671307200
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Winter BYU Melee Classico",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/496909/image-0f3535636abed0a76933f3f790f70161.jpg?ehk=kYvPLgkJ29w6W5C1%2FhC5gze9rt%2B67akyFOPyoLfGNxg%3D&ehkOptimized=ododt%2Fiuuu8eEsUoK3F2uMxacSS1MJKrB38uO7H23QM%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1671328800
     },
     {
@@ -58,19 +58,11 @@
       "start_time": 1671321600
     },
     {
-      "slug": "tournament/sober-saturday-121/event/melee-singles",
-      "tournament_name": "Sober Saturday #121",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506358/image-3e3a5678898c2699c75dcda6f27cc5f1.jpg?ehk=SzQsBq4XnVqgz0%2BBpOfq0tt6gfX6aJXgR9CkpIqpcm4%3D&ehkOptimized=oWxskqBOdddxwu6udq0jnyWhsiHgCn%2B%2FYMNq7clyhoM%3D",
-      "entrants": 3,
-      "start_time": 1671325200
-    },
-    {
       "slug": "tournament/fight-of-the-fearless-32/event/fight-of-the-fearless-single",
       "tournament_name": "Fight of the Fearless 32",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/506356/image-a4a5c3062bd65839b75e8930546a94d4.png?ehk=p%2BedZnVVZU30Vl%2F8E1huk4rYU%2B0lguv2IFbyT5%2F0geo%3D&ehkOptimized=g5qJF2j2at1%2FIGqKTREasUPP%2Bca8fkfV4VrhMUxeYEA%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1671386400
     },
     {
@@ -86,7 +78,7 @@
       "tournament_name": "Melee Legends 6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506413/image-43ac156148fcfc7d70d0dbf6b4a5341a.png?ehk=geWVnd1Gbb3uC1kHOp2T3wBEyZaTd7c7npFQuEhVV4E%3D&ehkOptimized=O1y6MtJDTMlwsIhmqaAO3i00AWlTmSo6462me9yszxA%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1671397200
     },
     {
@@ -136,6 +128,14 @@
       "image": "https://images.start.gg/images/tournament/504557/image-6b3329d8661e3f31c9829510a9f5be60.png?ehk=mGibGrsZUZzlzFr3TFIwmN463mBh1%2FTmgZ3iI9v1gvI%3D&ehkOptimized=RW3fBXyQt4VaDT86I7Es7JIqR8SWJfNc7X4zlTdVtZU%3D",
       "entrants": 7,
       "start_time": 1671591600
+    },
+    {
+      "slug": "tournament/waddle-wednesday-49/event/melee-singles",
+      "tournament_name": "Waddle Wednesday 49",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/506452/image-5dcedf9a8a19e60ca6ff759434ed616d.png?ehk=ezqk4%2B44JMiKEpjP6vcnHn6c%2FOmmkZXlH%2FGNdUa4%2BME%3D&ehkOptimized=yFthzteiVPYmsFNIckhgYL0mEvFztJltOEVPmH39JbQ%3D",
+      "entrants": 0,
+      "start_time": 1671670800
     },
     {
       "slug": "tournament/femme-fatale-1/event/femme-fatale",
