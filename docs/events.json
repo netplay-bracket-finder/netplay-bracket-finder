@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671375081,
+  "fetched_at": 1671376463,
   "data": [
     {
       "slug": "tournament/fight-of-the-fearless-32/event/fight-of-the-fearless-single",
       "tournament_name": "Fight of the Fearless 32",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/506356/image-a4a5c3062bd65839b75e8930546a94d4.png?ehk=p%2BedZnVVZU30Vl%2F8E1huk4rYU%2B0lguv2IFbyT5%2F0geo%3D&ehkOptimized=g5qJF2j2at1%2FIGqKTREasUPP%2Bca8fkfV4VrhMUxeYEA%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1671386400
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "SCSS East Coast #99",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506360/image-97a2a83767fd8a59558f3cded12949f3.png?ehk=r8fjMssB58luFCD8%2FjPZGN8Ae7pk5upacnStrltsZTU%3D&ehkOptimized=oBaJEtj934yT9OJrUBbXjvZ9i068WEIhVD4r1ASpmI4%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1671409800
     },
     {
