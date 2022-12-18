@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671401640,
+  "fetched_at": 1671402439,
   "data": [
     {
       "slug": "tournament/melee-legends-6/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "SCSS East Coast #99",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506360/image-97a2a83767fd8a59558f3cded12949f3.png?ehk=r8fjMssB58luFCD8%2FjPZGN8Ae7pk5upacnStrltsZTU%3D&ehkOptimized=oBaJEtj934yT9OJrUBbXjvZ9i068WEIhVD4r1ASpmI4%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1671409800
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Spudfest 45",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505877/image-74ee657245ba9a232aa63e62b5fe6020.jpg?ehk=6LziFRH%2FnwSpsUGOQBfyFelL%2Fc3M%2BFgYwA5iA5ygQQc%3D&ehkOptimized=9sRbFQ%2BODokGjC21eook4LO3Zu%2FIW%2B5ZvNmzEzlGZLw%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1671501600
     },
     {
