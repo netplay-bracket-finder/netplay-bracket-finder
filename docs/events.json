@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671333397,
+  "fetched_at": 1671334593,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-19/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "Festive Fight",
       "event_name": "Melee Finals",
       "image": "https://images.start.gg/images/tournament/503750/image-bbfbd8609ff4be250d4be9cf04b06d13.jpg?ehk=tdhKFa9DFPLe3fsN9q9C9KmEn5f%2BqeM6TDkFPNPTaqM%3D&ehkOptimized=IN5wPcOmkpMVPjMc0WY4lhIFPSO0blgkleFaQY52r9I%3D",
-      "entrants": 1,
+      "entrants": 4,
       "start_time": 1671328800
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "SNN#4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506470/image-0067acc6f976c87598422dd2a83f098f.png?ehk=56VrXm5Vw%2Fu0ohuCe%2FE6%2BvQlRcmWh1NfXIsFAr1qFYs%3D&ehkOptimized=boCNE%2BQeit%2B6vN3Q2hq8D9yAJIcvHKN2sK%2Fr0v9zQFY%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1671336000
     },
     {
@@ -152,6 +152,14 @@
       "image": "https://images.start.gg/images/tournament/506011/image-9fb6307ae64784dca5314c98fcd2e86c.png?ehk=7sCIMQLEMP3PUQE1hzG5zz2WCiA4VJz3bha9mp1zozI%3D&ehkOptimized=m1HQ6PwBkU27MpvW3ExUkTcHsS4kJ5yzofdWX5hNZfU%3D",
       "entrants": 0,
       "start_time": 1671732000
+    },
+    {
+      "slug": "tournament/le-impressive-tournament-name/event/melee-singles-7h-19h",
+      "tournament_name": "Le impressive tournament name",
+      "event_name": "Melee singles (7h/19h)",
+      "image": "https://images.start.gg/images/tournament/506476/image-57ab233cadaede5238d6454ad1c036b2.png?ehk=G8gUXNj6gBXOuC%2FoDCjRUSjbAZLNfmvBqw60LV4Lh0M%3D&ehkOptimized=KEGGEZRtMkaRYdMvitooznHr63WxW%2F4DbnzgXH5Uh7Y%3D",
+      "entrants": 1,
+      "start_time": 1671746400
     },
     {
       "slug": "tournament/only-noobs-98/event/melee-singles",
