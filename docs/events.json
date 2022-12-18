@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671334593,
+  "fetched_at": 1671335482,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-19/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "Festive Fight",
       "event_name": "Melee Finals",
       "image": "https://images.start.gg/images/tournament/503750/image-bbfbd8609ff4be250d4be9cf04b06d13.jpg?ehk=tdhKFa9DFPLe3fsN9q9C9KmEn5f%2BqeM6TDkFPNPTaqM%3D&ehkOptimized=IN5wPcOmkpMVPjMc0WY4lhIFPSO0blgkleFaQY52r9I%3D",
-      "entrants": 4,
+      "entrants": 8,
       "start_time": 1671328800
     },
     {
@@ -40,14 +40,6 @@
       "image": "https://images.start.gg/images/tournament/503350/image-71753b875b75657c7d8b762bae81cbce.png?ehk=gDdCw8LwKsHsU2%2FpCAFHiG1ywnWVPBMlML6BgO0U9qQ%3D&ehkOptimized=gjNk1rBWNmiAM9pNiuLrG55qKUSkLFZLkJxMrkvtG1I%3D",
       "entrants": 19,
       "start_time": 1671321600
-    },
-    {
-      "slug": "tournament/snn-4/event/melee-singles",
-      "tournament_name": "SNN#4",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506470/image-0067acc6f976c87598422dd2a83f098f.png?ehk=56VrXm5Vw%2Fu0ohuCe%2FE6%2BvQlRcmWh1NfXIsFAr1qFYs%3D&ehkOptimized=boCNE%2BQeit%2B6vN3Q2hq8D9yAJIcvHKN2sK%2Fr0v9zQFY%3D",
-      "entrants": 7,
-      "start_time": 1671336000
     },
     {
       "slug": "tournament/fight-of-the-fearless-32/event/fight-of-the-fearless-single",
@@ -86,7 +78,7 @@
       "tournament_name": "SCSS West Coast #88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506361/image-b066c1786dee02efb1f6d5d68d282f66.png?ehk=bExANk%2F3QQQVW4MVt5TDFfHkjU7DvDE%2FjJU4ZRRZ6V4%3D&ehkOptimized=Jx1VYLGjnHyS0MAI5w25XkFqHlNykLlAIoRqc8Ts6xo%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1671413400
     },
     {
