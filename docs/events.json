@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671396674,
+  "fetched_at": 1671397961,
   "data": [
     {
       "slug": "tournament/melee-legends-6/event/melee-singles",
       "tournament_name": "Melee Legends 6",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506413/image-43ac156148fcfc7d70d0dbf6b4a5341a.png?ehk=geWVnd1Gbb3uC1kHOp2T3wBEyZaTd7c7npFQuEhVV4E%3D&ehkOptimized=O1y6MtJDTMlwsIhmqaAO3i00AWlTmSo6462me9yszxA%3D",
-      "entrants": 5,
+      "entrants": 3,
       "start_time": 1671397200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Kalvar Cup #72 the 72nd one",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506568/image-9f6f65ed38f76d4d0d561e8e0bf0a473.png?ehk=FADZtuzOLBZn1t7gBqlh5yf1xKXsAPGp6dfyrqRzY6k%3D&ehkOptimized=bpIA2tC2tTPYxz%2FCmcmkT%2FCBGf7p5NCgf0NAjxE4i1E%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1671408000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "SCSS East Coast #99",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506360/image-97a2a83767fd8a59558f3cded12949f3.png?ehk=r8fjMssB58luFCD8%2FjPZGN8Ae7pk5upacnStrltsZTU%3D&ehkOptimized=oBaJEtj934yT9OJrUBbXjvZ9i068WEIhVD4r1ASpmI4%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1671409800
     },
     {
@@ -32,6 +32,14 @@
       "image": "https://images.start.gg/images/tournament/506361/image-b066c1786dee02efb1f6d5d68d282f66.png?ehk=bExANk%2F3QQQVW4MVt5TDFfHkjU7DvDE%2FjJU4ZRRZ6V4%3D&ehkOptimized=Jx1VYLGjnHyS0MAI5w25XkFqHlNykLlAIoRqc8Ts6xo%3D",
       "entrants": 1,
       "start_time": 1671413400
+    },
+    {
+      "slug": "tournament/monday-night-mixup-43/event/melee-singles",
+      "tournament_name": "Monday Night Mixup #43",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/506605/image-7096034a98de4b5207a49dbf0572841d.png?ehk=EwFXkXRjdPfgpiZh61QDnx1qZJPr%2FGvZ9MAYJRmH6x0%3D&ehkOptimized=EUXrB32F%2BjUlPTPKnPgUUgxIBSz9%2FaqMM6Ozvx8DX8k%3D",
+      "entrants": 0,
+      "start_time": 1671476400
     },
     {
       "slug": "tournament/matrixmas/event/melee-singles",
