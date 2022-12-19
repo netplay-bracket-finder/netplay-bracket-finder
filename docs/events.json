@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671489613,
+  "fetched_at": 1671490290,
   "data": [
     {
       "slug": "tournament/matrixmas/event/melee-singles",
@@ -10,19 +10,11 @@
       "start_time": 1671490800
     },
     {
-      "slug": "tournament/slippi-sauce-79/event/melee-singles",
-      "tournament_name": "SLIPPI SAUCE #79 🐸",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506671/image-a824f07441bbb4d7160f6af1ce198a86.png?ehk=Qp82ciJbe46qQpL%2BBfdHJf91ZAAoQfjRTGJmpJx%2FIxI%3D&ehkOptimized=72muJmTKje9kkWc6hB1%2BcGNS6eLuaVhtz%2FqZhhUjv%2BE%3D",
-      "entrants": 16,
-      "start_time": 1671490800
-    },
-    {
       "slug": "tournament/woop-melee-56/event/melee-singles",
       "tournament_name": "Woop Melee! #56",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504341/image-8e8545b318b700c8c248ba1b7bd2a355.png?ehk=LNXxGt8MVyFLoJ7U4Gx5V12vLZKqgh%2FeLElVGIQRGLk%3D&ehkOptimized=znD2bXxN%2FRzyKfMHvsZm%2BAEotrEViQf6YLvGQKyD84Y%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1670889600
     },
     {
