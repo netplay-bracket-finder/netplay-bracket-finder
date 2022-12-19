@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671468479,
+  "fetched_at": 1671469998,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-43/event/melee-singles",
@@ -8,6 +8,14 @@
       "image": "https://images.start.gg/images/tournament/506605/image-7096034a98de4b5207a49dbf0572841d.png?ehk=EwFXkXRjdPfgpiZh61QDnx1qZJPr%2FGvZ9MAYJRmH6x0%3D&ehkOptimized=EUXrB32F%2BjUlPTPKnPgUUgxIBSz9%2FaqMM6Ozvx8DX8k%3D",
       "entrants": 8,
       "start_time": 1671476400
+    },
+    {
+      "slug": "tournament/super-smash-bong-77/event/melee-singles",
+      "tournament_name": "Super Smash Bong #77",
+      "event_name": "Melee singles",
+      "image": "https://images.start.gg/images/tournament/506764/image-885028523b374e3332649ca94b2c00f4.jpg?ehk=akp0%2FFfJ6d7H%2BC6BtFgHW2sNd9gHvDBzDUThrzp9r%2F4%3D&ehkOptimized=QAkz4wzvRwtFUknRKDULInAMa8lkuMt%2F53647MoS6aI%3D",
+      "entrants": 2,
+      "start_time": 1671489000
     },
     {
       "slug": "tournament/pino-s-tired-of-0-2-102/event/tired-of-0-2",
@@ -22,7 +30,7 @@
       "tournament_name": "Matrixmas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497902/image-d4a4ad55c6d3f427365089239afc51e0.png?ehk=c7m3EkEj1F7EWLm%2BxOeXmCiOUcw2OhOt3A4FI8Zz8eg%3D&ehkOptimized=HULTs1MXhHY5McbFWyLKZ%2F%2BtiG%2Fm4vsKGgfSY8Bycz4%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1671490800
     },
     {
@@ -30,7 +38,7 @@
       "tournament_name": "SLIPPI SAUCE #79 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506671/image-a824f07441bbb4d7160f6af1ce198a86.png?ehk=Qp82ciJbe46qQpL%2BBfdHJf91ZAAoQfjRTGJmpJx%2FIxI%3D&ehkOptimized=72muJmTKje9kkWc6hB1%2BcGNS6eLuaVhtz%2FqZhhUjv%2BE%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1671490800
     },
     {
@@ -46,7 +54,7 @@
       "tournament_name": "Spudfest 45",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505877/image-74ee657245ba9a232aa63e62b5fe6020.jpg?ehk=6LziFRH%2FnwSpsUGOQBfyFelL%2Fc3M%2BFgYwA5iA5ygQQc%3D&ehkOptimized=9sRbFQ%2BODokGjC21eook4LO3Zu%2FIW%2B5ZvNmzEzlGZLw%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1671501600
     },
     {
