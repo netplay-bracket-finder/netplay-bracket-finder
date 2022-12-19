@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1671407479,
+  "fetched_at": 1671412517,
   "data": [
-    {
-      "slug": "tournament/the-wolf-s-den-2/event/the-wolf-s-den-2",
-      "tournament_name": "The Wolf's Den #2",
-      "event_name": "The Wolf's Den #2",
-      "image": "https://images.start.gg/images/tournament/495394/image-fd79d4ec163b4739409eef0d5d2b5135.png?ehk=6BLadgbRonHOuUmMdFfCzNSPoPY%2FMM6V4ubBafWNqKU%3D&ehkOptimized=Fs10UPrCu%2B0qQTR8BDaDcFr7KdgRiDU29rP7WCCUY%2F4%3D",
-      "entrants": 4,
-      "start_time": 1671411600
-    },
     {
       "slug": "tournament/melee-legends-6/event/melee-singles",
       "tournament_name": "Melee Legends 6",
@@ -24,22 +16,6 @@
       "image": "https://images.start.gg/images/tournament/506568/image-9f6f65ed38f76d4d0d561e8e0bf0a473.png?ehk=FADZtuzOLBZn1t7gBqlh5yf1xKXsAPGp6dfyrqRzY6k%3D&ehkOptimized=bpIA2tC2tTPYxz%2FCmcmkT%2FCBGf7p5NCgf0NAjxE4i1E%3D",
       "entrants": 3,
       "start_time": 1671408000
-    },
-    {
-      "slug": "tournament/scss-east-coast-99/event/melee-singles",
-      "tournament_name": "SCSS East Coast #99",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506360/image-97a2a83767fd8a59558f3cded12949f3.png?ehk=r8fjMssB58luFCD8%2FjPZGN8Ae7pk5upacnStrltsZTU%3D&ehkOptimized=oBaJEtj934yT9OJrUBbXjvZ9i068WEIhVD4r1ASpmI4%3D",
-      "entrants": 18,
-      "start_time": 1671409800
-    },
-    {
-      "slug": "tournament/scss-west-coast-88/event/melee-singles",
-      "tournament_name": "SCSS West Coast #88",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506361/image-b066c1786dee02efb1f6d5d68d282f66.png?ehk=bExANk%2F3QQQVW4MVt5TDFfHkjU7DvDE%2FjJU4ZRRZ6V4%3D&ehkOptimized=Jx1VYLGjnHyS0MAI5w25XkFqHlNykLlAIoRqc8Ts6xo%3D",
-      "entrants": 1,
-      "start_time": 1671413400
     },
     {
       "slug": "tournament/monday-night-mixup-43/event/melee-singles",
@@ -88,6 +64,14 @@
       "image": "https://images.start.gg/images/tournament/504557/image-6b3329d8661e3f31c9829510a9f5be60.png?ehk=mGibGrsZUZzlzFr3TFIwmN463mBh1%2FTmgZ3iI9v1gvI%3D&ehkOptimized=RW3fBXyQt4VaDT86I7Es7JIqR8SWJfNc7X4zlTdVtZU%3D",
       "entrants": 7,
       "start_time": 1671591600
+    },
+    {
+      "slug": "tournament/epic-wednesday-doubles-2/event/melee-doubles",
+      "tournament_name": "Epic Wednesday Doubles! #2",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/506637/image-98e3be256e43fb617b904aa5aad3a6d4.png?ehk=fKlD47eBbyWBB3ACy4nkyTfXHab1mYpjeeBnN150b4U%3D&ehkOptimized=kweeP9YZVtQg%2Fs1hTmrv8DouDcIN6XCMO%2FmknEhlmdE%3D",
+      "entrants": 0,
+      "start_time": 1671649200
     },
     {
       "slug": "tournament/waddle-wednesday-49/event/melee-singles",
