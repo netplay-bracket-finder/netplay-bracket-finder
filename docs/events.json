@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1671488106,
+  "fetched_at": 1671488949,
   "data": [
-    {
-      "slug": "tournament/super-smash-bong-77/event/melee-singles",
-      "tournament_name": "Super Smash Bong #77",
-      "event_name": "Melee singles",
-      "image": "https://images.start.gg/images/tournament/506764/image-885028523b374e3332649ca94b2c00f4.jpg?ehk=akp0%2FFfJ6d7H%2BC6BtFgHW2sNd9gHvDBzDUThrzp9r%2F4%3D&ehkOptimized=QAkz4wzvRwtFUknRKDULInAMa8lkuMt%2F53647MoS6aI%3D",
-      "entrants": 16,
-      "start_time": 1671489000
-    },
     {
       "slug": "tournament/pino-s-tired-of-0-2-102/event/tired-of-0-2",
       "tournament_name": "Pino's Tired of 0-2 #102",
@@ -30,7 +22,7 @@
       "tournament_name": "SLIPPI SAUCE #79 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506671/image-a824f07441bbb4d7160f6af1ce198a86.png?ehk=Qp82ciJbe46qQpL%2BBfdHJf91ZAAoQfjRTGJmpJx%2FIxI%3D&ehkOptimized=72muJmTKje9kkWc6hB1%2BcGNS6eLuaVhtz%2FqZhhUjv%2BE%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1671490800
     },
     {
@@ -38,7 +30,7 @@
       "tournament_name": "Woop Melee! #56",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504341/image-8e8545b318b700c8c248ba1b7bd2a355.png?ehk=LNXxGt8MVyFLoJ7U4Gx5V12vLZKqgh%2FeLElVGIQRGLk%3D&ehkOptimized=znD2bXxN%2FRzyKfMHvsZm%2BAEotrEViQf6YLvGQKyD84Y%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1670889600
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #8",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506758/image-ce047dd0d46ae397b4ea6e94825c6737.jpg?ehk=ctFgf0HnMKyy7NUPOv4mfurFPP1uex9RM%2BV3pf38eE0%3D&ehkOptimized=n9r2tYwQoNlQTP1Uodo%2BZFRVwklLlxjW9eZz5Aohvnw%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1671498900
     },
     {
@@ -190,7 +182,7 @@
       "tournament_name": "Troppo Italiano Christmas Edition",
       "event_name": "Doubles",
       "image": "https://images.start.gg/images/tournament/503138/image-6341781be6a3331a712dc78bdaf533c3.png?ehk=Q03UPRpzgCwGBttCygZ3VR%2FNbRruIFF%2Fp7ehiUt%2Fj5w%3D&ehkOptimized=BgPaePFMx%2FbgzNwE6czeOED909Z0eszyf%2BvSotSmDN4%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1672322400
     },
     {
