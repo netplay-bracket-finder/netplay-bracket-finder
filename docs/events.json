@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671469998,
+  "fetched_at": 1671470828,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-43/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "Matrixmas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497902/image-d4a4ad55c6d3f427365089239afc51e0.png?ehk=c7m3EkEj1F7EWLm%2BxOeXmCiOUcw2OhOt3A4FI8Zz8eg%3D&ehkOptimized=HULTs1MXhHY5McbFWyLKZ%2F%2BtiG%2Fm4vsKGgfSY8Bycz4%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1671490800
     },
     {
@@ -56,6 +56,14 @@
       "image": "https://images.start.gg/images/tournament/505877/image-74ee657245ba9a232aa63e62b5fe6020.jpg?ehk=6LziFRH%2FnwSpsUGOQBfyFelL%2Fc3M%2BFgYwA5iA5ygQQc%3D&ehkOptimized=9sRbFQ%2BODokGjC21eook4LO3Zu%2FIW%2B5ZvNmzEzlGZLw%3D",
       "entrants": 4,
       "start_time": 1671501600
+    },
+    {
+      "slug": "tournament/tuesday-night-fever-10/event/melee-singles",
+      "tournament_name": "Tuesday Night Fever #10",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/506756/image-ed8a3a92e4d25f218c369b57d0118afd.png?ehk=eXyVrsi6ZQFTgZA42Ew3kynplk108BuXNpaH8rThbyk%3D&ehkOptimized=16Zw3VtyrkqbH51%2B0d0dFzWcc0znnCRhTddwvsqqNl8%3D",
+      "entrants": 0,
+      "start_time": 1671562800
     },
     {
       "slug": "tournament/sketchy-series-11-back-to-the-drawing-board/event/melee-singles",
