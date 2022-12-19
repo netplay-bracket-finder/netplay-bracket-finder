@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671474000,
+  "fetched_at": 1671475178,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-43/event/melee-singles",
       "tournament_name": "Monday Night Mixup #43",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506605/image-7096034a98de4b5207a49dbf0572841d.png?ehk=EwFXkXRjdPfgpiZh61QDnx1qZJPr%2FGvZ9MAYJRmH6x0%3D&ehkOptimized=EUXrB32F%2BjUlPTPKnPgUUgxIBSz9%2FaqMM6Ozvx8DX8k%3D",
-      "entrants": 15,
+      "entrants": 18,
       "start_time": 1671476400
     },
     {
@@ -42,11 +42,27 @@
       "start_time": 1671490800
     },
     {
+      "slug": "tournament/woop-melee-56/event/melee-singles",
+      "tournament_name": "Woop Melee! #56",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/504341/image-8e8545b318b700c8c248ba1b7bd2a355.png?ehk=LNXxGt8MVyFLoJ7U4Gx5V12vLZKqgh%2FeLElVGIQRGLk%3D&ehkOptimized=znD2bXxN%2FRzyKfMHvsZm%2BAEotrEViQf6YLvGQKyD84Y%3D",
+      "entrants": 2,
+      "start_time": 1670889600
+    },
+    {
+      "slug": "tournament/the-playlist-21-the-black-parade/event/free-bracket",
+      "tournament_name": "The Playlist #21: The Black Parade",
+      "event_name": "Free Bracket",
+      "image": "https://images.start.gg/images/tournament/506779/image-9698621a3bdbbf19712d73be59490b64.png?ehk=URuPtIzvfvEa0%2FZM101fJWmoxkQztBAhbPSylx8Jr%2Fw%3D&ehkOptimized=1t68Y%2F83%2F8CiaSLEMgesdJyRYgUSoHAtqqRIcpxcFNg%3D",
+      "entrants": 0,
+      "start_time": 1671498000
+    },
+    {
       "slug": "tournament/have-you-dreamed-this-cardboard-bear-8/event/melee-singles",
       "tournament_name": "Have You Dreamed This Cardboard Bear? #8",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506758/image-ce047dd0d46ae397b4ea6e94825c6737.jpg?ehk=ctFgf0HnMKyy7NUPOv4mfurFPP1uex9RM%2BV3pf38eE0%3D&ehkOptimized=n9r2tYwQoNlQTP1Uodo%2BZFRVwklLlxjW9eZz5Aohvnw%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1671498900
     },
     {
