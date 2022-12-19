@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671481079,
+  "fetched_at": 1671482209,
   "data": [
     {
       "slug": "tournament/super-smash-bong-77/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Matrixmas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497902/image-d4a4ad55c6d3f427365089239afc51e0.png?ehk=c7m3EkEj1F7EWLm%2BxOeXmCiOUcw2OhOt3A4FI8Zz8eg%3D&ehkOptimized=HULTs1MXhHY5McbFWyLKZ%2F%2BtiG%2Fm4vsKGgfSY8Bycz4%3D",
-      "entrants": 5,
+      "entrants": 4,
       "start_time": 1671490800
     },
     {
@@ -66,6 +66,14 @@
       "start_time": 1671501600
     },
     {
+      "slug": "tournament/casino-royale-5-ssbm-online-weekly/event/casino",
+      "tournament_name": "CASINO ROYALE 5 ~ SSBM Online Weekly",
+      "event_name": "CASINO",
+      "image": "https://images.start.gg/images/tournament/505904/image-4d0816481097e63857d7a1814d8d222a.png?ehk=8p7EXT92s7nE5lgPAMj3c7oMLq3xQHxxr4N9GYA0YGM%3D&ehkOptimized=vOnRS1Ri%2B1%2B6FxcIr7bCiNQylhHn3yM0ZOOD9D2yAGY%3D",
+      "entrants": 8,
+      "start_time": 1671503400
+    },
+    {
       "slug": "tournament/mnn-37/event/melee-singles",
       "tournament_name": "MNN#37",
       "event_name": "Melee Singles",
@@ -88,14 +96,6 @@
       "image": "https://images.start.gg/images/tournament/506510/image-bb1d3c1bf06036a0c73b6f72098d33ab.png?ehk=PNy8KifVbpOZycFM4EnCEMULGj60OAx6Cy9kD5ErH90%3D&ehkOptimized=uSFBjoMzCq6rhipjWNaYEkCsX3bLNs2TRIbXAyoOYN4%3D",
       "entrants": 0,
       "start_time": 1671580800
-    },
-    {
-      "slug": "tournament/casino-royale-5-ssbm-online-weekly/event/casino",
-      "tournament_name": "CASINO ROYALE 5 ~ SSBM Online Weekly",
-      "event_name": "CASINO",
-      "image": "https://images.start.gg/images/tournament/505904/image-4d0816481097e63857d7a1814d8d222a.png?ehk=8p7EXT92s7nE5lgPAMj3c7oMLq3xQHxxr4N9GYA0YGM%3D&ehkOptimized=vOnRS1Ri%2B1%2B6FxcIr7bCiNQylhHn3yM0ZOOD9D2yAGY%3D",
-      "entrants": 7,
-      "start_time": 1671589800
     },
     {
       "slug": "tournament/the-hi-rise/event/melee-singles",
