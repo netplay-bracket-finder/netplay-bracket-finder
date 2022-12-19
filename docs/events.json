@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1671488949,
+  "fetched_at": 1671489613,
   "data": [
-    {
-      "slug": "tournament/pino-s-tired-of-0-2-102/event/tired-of-0-2",
-      "tournament_name": "Pino's Tired of 0-2 #102",
-      "event_name": "Tired of 0-2?",
-      "image": "https://images.start.gg/images/tournament/506669/image-ede022ef0aee24d1c69772ca605a04da.jpg?ehk=DW9jwhC88ZRa%2F2yTD7WpgGu9XV800DPM3Pm07jTP1R8%3D&ehkOptimized=Sd%2FLDjZ7S1evL3YmHqQg55ntYpV7SXsloRxF%2BsxRMk0%3D",
-      "entrants": 24,
-      "start_time": 1671490800
-    },
     {
       "slug": "tournament/matrixmas/event/melee-singles",
       "tournament_name": "Matrixmas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497902/image-d4a4ad55c6d3f427365089239afc51e0.png?ehk=c7m3EkEj1F7EWLm%2BxOeXmCiOUcw2OhOt3A4FI8Zz8eg%3D&ehkOptimized=HULTs1MXhHY5McbFWyLKZ%2F%2BtiG%2Fm4vsKGgfSY8Bycz4%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1671490800
     },
     {
@@ -22,7 +14,7 @@
       "tournament_name": "SLIPPI SAUCE #79 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506671/image-a824f07441bbb4d7160f6af1ce198a86.png?ehk=Qp82ciJbe46qQpL%2BBfdHJf91ZAAoQfjRTGJmpJx%2FIxI%3D&ehkOptimized=72muJmTKje9kkWc6hB1%2BcGNS6eLuaVhtz%2FqZhhUjv%2BE%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1671490800
     },
     {
@@ -62,7 +54,7 @@
       "tournament_name": "CASINO ROYALE 5 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/505904/image-4d0816481097e63857d7a1814d8d222a.png?ehk=8p7EXT92s7nE5lgPAMj3c7oMLq3xQHxxr4N9GYA0YGM%3D&ehkOptimized=vOnRS1Ri%2B1%2B6FxcIr7bCiNQylhHn3yM0ZOOD9D2yAGY%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1671503400
     },
     {
