@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671485156,
+  "fetched_at": 1671485848,
   "data": [
     {
       "slug": "tournament/super-smash-bong-77/event/melee-singles",
       "tournament_name": "Super Smash Bong #77",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/506764/image-885028523b374e3332649ca94b2c00f4.jpg?ehk=akp0%2FFfJ6d7H%2BC6BtFgHW2sNd9gHvDBzDUThrzp9r%2F4%3D&ehkOptimized=QAkz4wzvRwtFUknRKDULInAMa8lkuMt%2F53647MoS6aI%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1671489000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "SLIPPI SAUCE #79 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506671/image-a824f07441bbb4d7160f6af1ce198a86.png?ehk=Qp82ciJbe46qQpL%2BBfdHJf91ZAAoQfjRTGJmpJx%2FIxI%3D&ehkOptimized=72muJmTKje9kkWc6hB1%2BcGNS6eLuaVhtz%2FqZhhUjv%2BE%3D",
-      "entrants": 8,
+      "entrants": 11,
       "start_time": 1671490800
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Spudfest 45",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/505877/image-74ee657245ba9a232aa63e62b5fe6020.jpg?ehk=6LziFRH%2FnwSpsUGOQBfyFelL%2Fc3M%2BFgYwA5iA5ygQQc%3D&ehkOptimized=9sRbFQ%2BODokGjC21eook4LO3Zu%2FIW%2B5ZvNmzEzlGZLw%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1671501600
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "Carlton's Dank Online Melee Bash! #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506781/image-b673a5e6b9153f64cb7951fcd98b7757.jpg?ehk=EN2wnRbWzVWK7Sj%2F1hpQR0CsRRWJmJ%2B266b4N3uBg54%3D&ehkOptimized=lLNK7q5l6jAD5kONlj7Cln6umhpTLh4kCCXfDHwxFU0%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1672347600
     },
     {
