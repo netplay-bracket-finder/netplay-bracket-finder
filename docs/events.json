@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1671436276,
+  "fetched_at": 1671438048,
   "data": [
-    {
-      "slug": "tournament/melee-legends-6/event/melee-singles",
-      "tournament_name": "Melee Legends 6",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506413/image-43ac156148fcfc7d70d0dbf6b4a5341a.png?ehk=geWVnd1Gbb3uC1kHOp2T3wBEyZaTd7c7npFQuEhVV4E%3D&ehkOptimized=O1y6MtJDTMlwsIhmqaAO3i00AWlTmSo6462me9yszxA%3D",
-      "entrants": 3,
-      "start_time": 1671397200
-    },
     {
       "slug": "tournament/monday-night-mixup-43/event/melee-singles",
       "tournament_name": "Monday Night Mixup #43",
@@ -30,7 +22,7 @@
       "tournament_name": "Matrixmas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497902/image-d4a4ad55c6d3f427365089239afc51e0.png?ehk=c7m3EkEj1F7EWLm%2BxOeXmCiOUcw2OhOt3A4FI8Zz8eg%3D&ehkOptimized=HULTs1MXhHY5McbFWyLKZ%2F%2BtiG%2Fm4vsKGgfSY8Bycz4%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1671490800
     },
     {
@@ -126,7 +118,7 @@
       "tournament_name": "Only Noobs 98",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506094/image-7ce30c13e698cb9b8f93d481d95e2add.jpg?ehk=ly%2FzbcOkFW5iqLQw2dWUeKjxGuROiIcNDKPr7Hs%2BHEk%3D&ehkOptimized=jP4X3McEURl8xxWf3bkoIiJnsmIU6eNQEvmGOQ%2FxYC8%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1671753600
     },
     {
