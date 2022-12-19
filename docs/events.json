@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671485848,
+  "fetched_at": 1671486702,
   "data": [
     {
       "slug": "tournament/super-smash-bong-77/event/melee-singles",
       "tournament_name": "Super Smash Bong #77",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/506764/image-885028523b374e3332649ca94b2c00f4.jpg?ehk=akp0%2FFfJ6d7H%2BC6BtFgHW2sNd9gHvDBzDUThrzp9r%2F4%3D&ehkOptimized=QAkz4wzvRwtFUknRKDULInAMa8lkuMt%2F53647MoS6aI%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1671489000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Matrixmas",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/497902/image-d4a4ad55c6d3f427365089239afc51e0.png?ehk=c7m3EkEj1F7EWLm%2BxOeXmCiOUcw2OhOt3A4FI8Zz8eg%3D&ehkOptimized=HULTs1MXhHY5McbFWyLKZ%2F%2BtiG%2Fm4vsKGgfSY8Bycz4%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1671490800
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "MNN#37",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506784/image-fd9bf04357c37d1d3bdc0cca2c1ad915.png?ehk=mcEuvxYFBjgEjtoqPrCSshB%2FbfKOL1ORAIdzDwbvp2U%3D&ehkOptimized=PaHrlgEh5gRLk3p1L1JhSYIijQnxYP%2BcYe1AQehicOQ%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1671508800
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "Carlton's Dank Online Melee Bash! #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506781/image-b673a5e6b9153f64cb7951fcd98b7757.jpg?ehk=EN2wnRbWzVWK7Sj%2F1hpQR0CsRRWJmJ%2B266b4N3uBg54%3D&ehkOptimized=lLNK7q5l6jAD5kONlj7Cln6umhpTLh4kCCXfDHwxFU0%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1672347600
     },
     {
