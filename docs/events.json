@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671578164,
+  "fetched_at": 1671579430,
   "data": [
     {
       "slug": "tournament/man-on-a-line-5/event/melee-doubles",
@@ -18,14 +18,6 @@
       "start_time": 1671580800
     },
     {
-      "slug": "tournament/sketchy-series-11-back-to-the-drawing-board/event/melee-singles",
-      "tournament_name": "Sketchy Series 11: Back To The Drawing Board",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506510/image-bb1d3c1bf06036a0c73b6f72098d33ab.png?ehk=PNy8KifVbpOZycFM4EnCEMULGj60OAx6Cy9kD5ErH90%3D&ehkOptimized=uSFBjoMzCq6rhipjWNaYEkCsX3bLNs2TRIbXAyoOYN4%3D",
-      "entrants": 16,
-      "start_time": 1671580800
-    },
-    {
       "slug": "tournament/dad-s-house-online-6/event/melee-singles",
       "tournament_name": "Dad's House: Online #6",
       "event_name": "Melee Singles",
@@ -38,7 +30,7 @@
       "tournament_name": "Cataquackdown 20: Ringworm Infection (very icky!)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506704/image-71357935b761fac84ab595ae505fa2ed.png?ehk=EayDkCz14GtXW4lp%2Fm76bXKGlmK2EB1BVAzPFEgemNg%3D&ehkOptimized=c6qTtYOfB0wOO%2Ft%2BI4Wcelp6QzRx8jUrqo9YvhB0ILk%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1671584400
     },
     {
@@ -122,8 +114,8 @@
       "start_time": 1671755400
     },
     {
-      "slug": "tournament/bb-a-christmas-special/event/melee-singles",
-      "tournament_name": "BB: A Christmas Special",
+      "slug": "tournament/bb-a-crocmas-special/event/melee-singles",
+      "tournament_name": "BB: A Crocmas Special",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507071/image-bc2d8ca1c35beabd0fbbb83a5a5939b6.png?ehk=s%2F6loVtBfR5ekS7FNwuQ1qddgohe0p6W1DNaiMG8O5k%3D&ehkOptimized=Pm48FHyVzR3te5oIlXdF1w90PLou5au%2Fmm8ur5Lz0CA%3D",
       "entrants": 1,
@@ -254,7 +246,7 @@
       "tournament_name": "[$1000] Conduit Gaming Annual Gold Invitational 2023",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/480976/image-97c003ab9f53742b7bda638f252b4aa7.png?ehk=yZZeMCBgIFmmed7MEVR536DbzkvthGqwI0FLWM4YiUg%3D&ehkOptimized=Ay3nN1fPdJHC%2BFaG7N8UCR5cHhS6gutXVs3Ozv33VKQ%3D",
-      "entrants": 5,
+      "entrants": 9,
       "start_time": 1673719200
     },
     {
