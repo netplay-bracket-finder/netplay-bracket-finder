@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1671507392,
+  "fetched_at": 1671508287,
   "data": [
-    {
-      "slug": "tournament/mnn-37/event/melee-singles",
-      "tournament_name": "MNN#37",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506784/image-fd9bf04357c37d1d3bdc0cca2c1ad915.png?ehk=mcEuvxYFBjgEjtoqPrCSshB%2FbfKOL1ORAIdzDwbvp2U%3D&ehkOptimized=PaHrlgEh5gRLk3p1L1JhSYIijQnxYP%2BcYe1AQehicOQ%3D",
-      "entrants": 14,
-      "start_time": 1671508800
-    },
     {
       "slug": "tournament/tuesday-night-fever-10/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #10",
@@ -142,7 +134,7 @@
       "tournament_name": "Carlton's Dank Online Melee Bash! #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506781/image-b673a5e6b9153f64cb7951fcd98b7757.jpg?ehk=EN2wnRbWzVWK7Sj%2F1hpQR0CsRRWJmJ%2B266b4N3uBg54%3D&ehkOptimized=lLNK7q5l6jAD5kONlj7Cln6umhpTLh4kCCXfDHwxFU0%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1672347600
     },
     {
