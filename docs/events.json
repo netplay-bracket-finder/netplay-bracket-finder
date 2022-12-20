@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671554807,
+  "fetched_at": 1671556445,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-10/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506756/image-ed8a3a92e4d25f218c369b57d0118afd.png?ehk=eXyVrsi6ZQFTgZA42Ew3kynplk108BuXNpaH8rThbyk%3D&ehkOptimized=16Zw3VtyrkqbH51%2B0d0dFzWcc0znnCRhTddwvsqqNl8%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1671562800
     },
     {
@@ -48,6 +48,14 @@
       "image": "https://images.start.gg/images/tournament/506637/image-dddb12fc8f0384a34126796fbd18303e.png?ehk=BgDtHb2ojS7dao0wGeNEmez1VtSlA51i9bCIWNA8PWU%3D&ehkOptimized=sefOK0GpfRRqRAeXwQPcOJ35gdUrKOBjKDRzKUr9GME%3D",
       "entrants": 0,
       "start_time": 1671649200
+    },
+    {
+      "slug": "tournament/galaxy-gladiators-s2-2/event/melee-singles",
+      "tournament_name": "Galaxy Gladiators (S2 #2)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/506985/image-ad2562969519deb90a78f71a27354728.png?ehk=D9elDka%2Fte8K8Too0nL0MxEapU7IeU76qoztnj%2F4JnE%3D&ehkOptimized=mPXbPMre0%2BfUhavirk%2FdqDuNDfJVg1Cm%2B8A9GCieAtU%3D",
+      "entrants": 0,
+      "start_time": 1671670800
     },
     {
       "slug": "tournament/waddle-wednesday-49/event/melee-singles",
