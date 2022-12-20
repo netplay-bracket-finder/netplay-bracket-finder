@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1671561583,
+  "fetched_at": 1671562289,
   "data": [
-    {
-      "slug": "tournament/tuesday-night-fever-10/event/melee-singles",
-      "tournament_name": "Tuesday Night Fever #10",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506756/image-ed8a3a92e4d25f218c369b57d0118afd.png?ehk=eXyVrsi6ZQFTgZA42Ew3kynplk108BuXNpaH8rThbyk%3D&ehkOptimized=16Zw3VtyrkqbH51%2B0d0dFzWcc0znnCRhTddwvsqqNl8%3D",
-      "entrants": 14,
-      "start_time": 1671562800
-    },
     {
       "slug": "tournament/man-on-a-line-5/event/melee-doubles",
       "tournament_name": "Man on a Line #5",
