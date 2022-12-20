@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671558678,
+  "fetched_at": 1671560342,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-10/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506756/image-ed8a3a92e4d25f218c369b57d0118afd.png?ehk=eXyVrsi6ZQFTgZA42Ew3kynplk108BuXNpaH8rThbyk%3D&ehkOptimized=16Zw3VtyrkqbH51%2B0d0dFzWcc0znnCRhTddwvsqqNl8%3D",
-      "entrants": 9,
+      "entrants": 12,
       "start_time": 1671562800
     },
     {
@@ -222,7 +222,7 @@
       "tournament_name": "The Bong House",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504923/image-8d43eb675abf43b313d1c7bef67344a6.png?ehk=a%2Fb974aQG%2FM2MJ9XDxIFW841647c3cAlDXkY8aR%2FIGc%3D&ehkOptimized=sc7%2BxBp0hO8suMk0c1ObO4pRmhj7FenIErghTHm8MJA%3D",
-      "entrants": 15,
+      "entrants": 17,
       "start_time": 1673046000
     },
     {
