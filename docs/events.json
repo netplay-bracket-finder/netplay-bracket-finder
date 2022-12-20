@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671575355,
+  "fetched_at": 1671576019,
   "data": [
     {
       "slug": "tournament/man-on-a-line-5/event/melee-doubles",
@@ -22,7 +22,7 @@
       "tournament_name": "Sketchy Series 11: Back To The Drawing Board",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506510/image-bb1d3c1bf06036a0c73b6f72098d33ab.png?ehk=PNy8KifVbpOZycFM4EnCEMULGj60OAx6Cy9kD5ErH90%3D&ehkOptimized=uSFBjoMzCq6rhipjWNaYEkCsX3bLNs2TRIbXAyoOYN4%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1671580800
     },
     {
@@ -120,6 +120,14 @@
       "image": "https://images.start.gg/images/tournament/506966/image-cbebb17a6bd566b8eeca0a2c964380df.png?ehk=hLfRYViXw0G6iwqWs94Av4dFz76o79W3qzkMaK1vQAI%3D&ehkOptimized=e49kzvo241t0af8R0jenciiYWD%2FnWi5YkteVdE0A9Vs%3D",
       "entrants": 0,
       "start_time": 1671755400
+    },
+    {
+      "slug": "tournament/bb-a-christmas-special/event/melee-singles",
+      "tournament_name": "BB: A Christmas Special",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/507071/image-0e3c62ca015ce0231249d3d23c512855.png?ehk=dVSn0pzgHmrw%2FnnmB9yu2GNpTXviyyENVOuSnv378Ws%3D&ehkOptimized=1WaJ4TXFr15vJ4N19phq52Bw9ekZD4Hy3eEneH%2BgPmk%3D",
+      "entrants": 1,
+      "start_time": 1671778800
     },
     {
       "slug": "tournament/adm-a-merry-melee-christmas/event/after-dark-singles",
