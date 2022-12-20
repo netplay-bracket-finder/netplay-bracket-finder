@@ -1,28 +1,12 @@
 {
-  "fetched_at": 1671499134,
+  "fetched_at": 1671503277,
   "data": [
-    {
-      "slug": "tournament/spudfest-45/event/melee-singles",
-      "tournament_name": "Spudfest 45",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505877/image-74ee657245ba9a232aa63e62b5fe6020.jpg?ehk=6LziFRH%2FnwSpsUGOQBfyFelL%2Fc3M%2BFgYwA5iA5ygQQc%3D&ehkOptimized=9sRbFQ%2BODokGjC21eook4LO3Zu%2FIW%2B5ZvNmzEzlGZLw%3D",
-      "entrants": 19,
-      "start_time": 1671501600
-    },
-    {
-      "slug": "tournament/casino-royale-5-ssbm-online-weekly/event/casino",
-      "tournament_name": "CASINO ROYALE 5 ~ SSBM Online Weekly",
-      "event_name": "CASINO",
-      "image": "https://images.start.gg/images/tournament/505904/image-4d0816481097e63857d7a1814d8d222a.png?ehk=8p7EXT92s7nE5lgPAMj3c7oMLq3xQHxxr4N9GYA0YGM%3D&ehkOptimized=vOnRS1Ri%2B1%2B6FxcIr7bCiNQylhHn3yM0ZOOD9D2yAGY%3D",
-      "entrants": 25,
-      "start_time": 1671503400
-    },
     {
       "slug": "tournament/mnn-37/event/melee-singles",
       "tournament_name": "MNN#37",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506784/image-fd9bf04357c37d1d3bdc0cca2c1ad915.png?ehk=mcEuvxYFBjgEjtoqPrCSshB%2FbfKOL1ORAIdzDwbvp2U%3D&ehkOptimized=PaHrlgEh5gRLk3p1L1JhSYIijQnxYP%2BcYe1AQehicOQ%3D",
-      "entrants": 2,
+      "entrants": 5,
       "start_time": 1671508800
     },
     {
@@ -38,7 +22,7 @@
       "tournament_name": "Sketchy Series 11: Back To The Drawing Board",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506510/image-bb1d3c1bf06036a0c73b6f72098d33ab.png?ehk=PNy8KifVbpOZycFM4EnCEMULGj60OAx6Cy9kD5ErH90%3D&ehkOptimized=uSFBjoMzCq6rhipjWNaYEkCsX3bLNs2TRIbXAyoOYN4%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1671580800
     },
     {
@@ -78,7 +62,7 @@
       "tournament_name": "Femme Fatale #1",
       "event_name": "Femme Fatale",
       "image": "https://images.start.gg/images/tournament/504976/image-7705dda16176c7f87063f69e543a07ba.png?ehk=g1SkzMH7NXYnh8Xst2NET4rh9gKUV2pQfJQxFwRVh8g%3D&ehkOptimized=pfGpxHCzbutYVybFY2KfWteHFuy%2FlL%2B9F8P2%2FDgIR6M%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1671674400
     },
     {
@@ -110,7 +94,7 @@
       "tournament_name": "Only Noobs 98",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506094/image-7ce30c13e698cb9b8f93d481d95e2add.jpg?ehk=ly%2FzbcOkFW5iqLQw2dWUeKjxGuROiIcNDKPr7Hs%2BHEk%3D&ehkOptimized=jP4X3McEURl8xxWf3bkoIiJnsmIU6eNQEvmGOQ%2FxYC8%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1671753600
     },
     {
