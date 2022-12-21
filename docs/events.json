@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671580288,
+  "fetched_at": 1671585307,
   "data": [
     {
       "slug": "tournament/man-on-a-line-5/event/melee-doubles",
@@ -16,22 +16,6 @@
       "image": "https://images.start.gg/images/tournament/505569/image-18400fdde8c93c54abcb6ebbe7023a28.png?ehk=N13KXUta0pmQrDb3dvTHvn67cLfvNRwARqOahtXkRqY%3D&ehkOptimized=I3Lla0sTGFmozSkgJ%2F4%2BU6RvmR3wlZoRp%2F7W4g5nsvo%3D",
       "entrants": 0,
       "start_time": 1671580800
-    },
-    {
-      "slug": "tournament/dad-s-house-online-6/event/melee-singles",
-      "tournament_name": "Dad's House: Online #6",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506964/image-f560eb284e9cdfc531ef848d8c2460d5.png?ehk=7wFJ70UPJVeCrPzGst0hVpqJ%2Bn3FfzZOHnKk2Wn7a0s%3D&ehkOptimized=TTBIeI5YOEDURwWqzJSCV2agI7PHfZa548z7T7ow%2F%2B8%3D",
-      "entrants": 7,
-      "start_time": 1671582600
-    },
-    {
-      "slug": "tournament/cataquackdown-20-ringworm-infection-very-icky/event/melee-singles",
-      "tournament_name": "Cataquackdown 20: Ringworm Infection (very icky!)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506704/image-71357935b761fac84ab595ae505fa2ed.png?ehk=EayDkCz14GtXW4lp%2Fm76bXKGlmK2EB1BVAzPFEgemNg%3D&ehkOptimized=c6qTtYOfB0wOO%2Ft%2BI4Wcelp6QzRx8jUrqo9YvhB0ILk%3D",
-      "entrants": 5,
-      "start_time": 1671584400
     },
     {
       "slug": "tournament/the-hi-rise/event/melee-singles",
@@ -54,7 +38,7 @@
       "tournament_name": "Galaxy Gladiators (S2 #2)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506985/image-ad2562969519deb90a78f71a27354728.png?ehk=D9elDka%2Fte8K8Too0nL0MxEapU7IeU76qoztnj%2F4JnE%3D&ehkOptimized=mPXbPMre0%2BfUhavirk%2FdqDuNDfJVg1Cm%2B8A9GCieAtU%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1671670800
     },
     {
@@ -78,7 +62,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #44 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506011/image-9fb6307ae64784dca5314c98fcd2e86c.png?ehk=7sCIMQLEMP3PUQE1hzG5zz2WCiA4VJz3bha9mp1zozI%3D&ehkOptimized=m1HQ6PwBkU27MpvW3ExUkTcHsS4kJ5yzofdWX5hNZfU%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1671732000
     },
     {
@@ -102,7 +86,7 @@
       "tournament_name": "Only Noobs 98",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506094/image-7ce30c13e698cb9b8f93d481d95e2add.jpg?ehk=ly%2FzbcOkFW5iqLQw2dWUeKjxGuROiIcNDKPr7Hs%2BHEk%3D&ehkOptimized=jP4X3McEURl8xxWf3bkoIiJnsmIU6eNQEvmGOQ%2FxYC8%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1671753600
     },
     {
@@ -117,7 +101,7 @@
       "slug": "tournament/bb-a-crocmas-special/event/melee-singles",
       "tournament_name": "BB: A Crocmas Special",
       "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/507071/image-bc2d8ca1c35beabd0fbbb83a5a5939b6.png?ehk=s%2F6loVtBfR5ekS7FNwuQ1qddgohe0p6W1DNaiMG8O5k%3D&ehkOptimized=Pm48FHyVzR3te5oIlXdF1w90PLou5au%2Fmm8ur5Lz0CA%3D",
+      "image": "https://images.start.gg/images/tournament/507071/image-d96e2ddf3d94ce4920122366d4c26564.png?ehk=fP21tjI2LMUJ2roKG4prWfLNAXeFIVfK6Z6crFMET4o%3D&ehkOptimized=2gtwR2YbWTR1ZKT5SF7xUwjc5ST%2F%2F%2BrTop9g2iSbkZI%3D",
       "entrants": 1,
       "start_time": 1671778800
     },
@@ -184,14 +168,6 @@
       "image": "https://images.start.gg/images/tournament/477354/image-304bd30e39f2f6f297f66d51821108ec.png?ehk=YOe6%2FHZYfxYcJbiUV4zvCEZ778uV%2BBUnD0ndmoPisOE%3D&ehkOptimized=XMOxKpagtSj0Ott25aCM9w4U4XxnYjqPi%2BlyiWQzBuo%3D",
       "entrants": 0,
       "start_time": 1672513200
-    },
-    {
-      "slug": "tournament/welcome-to-the-new-year-2023-pink-tournament/event/melee-singles",
-      "tournament_name": "Welcome to the New Year 2023 (Pink Tournament)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/500501/image-7411ff231c94a7c7d2c4450032d349b9.png?ehk=TrrtCTwLhq5k1XM1zjTiLk9HmFC9ziz0pCXFsLiqjTQ%3D&ehkOptimized=CY%2FaIHTMouaz81%2FKVTaBjrxq%2Ff13aOH4%2B%2B4MOGIxr60%3D",
-      "entrants": 2,
-      "start_time": 1672628400
     },
     {
       "slug": "tournament/pino-s-tired-of-0-2-103/event/tired-of-0-2",
