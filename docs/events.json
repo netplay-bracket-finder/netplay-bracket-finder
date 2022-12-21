@@ -1,28 +1,12 @@
 {
-  "fetched_at": 1671585307,
+  "fetched_at": 1671588993,
   "data": [
-    {
-      "slug": "tournament/man-on-a-line-5/event/melee-doubles",
-      "tournament_name": "Man on a Line #5",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/505569/image-18400fdde8c93c54abcb6ebbe7023a28.png?ehk=N13KXUta0pmQrDb3dvTHvn67cLfvNRwARqOahtXkRqY%3D&ehkOptimized=I3Lla0sTGFmozSkgJ%2F4%2BU6RvmR3wlZoRp%2F7W4g5nsvo%3D",
-      "entrants": 0,
-      "start_time": 1671580800
-    },
-    {
-      "slug": "tournament/man-on-a-line-5/event/melee-singles",
-      "tournament_name": "Man on a Line #5",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505569/image-18400fdde8c93c54abcb6ebbe7023a28.png?ehk=N13KXUta0pmQrDb3dvTHvn67cLfvNRwARqOahtXkRqY%3D&ehkOptimized=I3Lla0sTGFmozSkgJ%2F4%2BU6RvmR3wlZoRp%2F7W4g5nsvo%3D",
-      "entrants": 0,
-      "start_time": 1671580800
-    },
     {
       "slug": "tournament/the-hi-rise/event/melee-singles",
       "tournament_name": "The HI Rise",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504557/image-6b3329d8661e3f31c9829510a9f5be60.png?ehk=mGibGrsZUZzlzFr3TFIwmN463mBh1%2FTmgZ3iI9v1gvI%3D&ehkOptimized=RW3fBXyQt4VaDT86I7Es7JIqR8SWJfNc7X4zlTdVtZU%3D",
-      "entrants": 11,
+      "entrants": 14,
       "start_time": 1671591600
     },
     {
@@ -102,7 +86,7 @@
       "tournament_name": "BB: A Crocmas Special",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507071/image-d96e2ddf3d94ce4920122366d4c26564.png?ehk=fP21tjI2LMUJ2roKG4prWfLNAXeFIVfK6Z6crFMET4o%3D&ehkOptimized=2gtwR2YbWTR1ZKT5SF7xUwjc5ST%2F%2F%2BrTop9g2iSbkZI%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1671778800
     },
     {
