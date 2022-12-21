@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1671648692,
+  "fetched_at": 1671649954,
   "data": [
-    {
-      "slug": "tournament/epic-wednesday-doubles-2/event/melee-doubles",
-      "tournament_name": "Epic Wednesday Doubles! #2",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/506637/image-dddb12fc8f0384a34126796fbd18303e.png?ehk=BgDtHb2ojS7dao0wGeNEmez1VtSlA51i9bCIWNA8PWU%3D&ehkOptimized=sefOK0GpfRRqRAeXwQPcOJ35gdUrKOBjKDRzKUr9GME%3D",
-      "entrants": 7,
-      "start_time": 1671649200
-    },
     {
       "slug": "tournament/galaxy-gladiators-s2-2/event/melee-singles",
       "tournament_name": "Galaxy Gladiators (S2 #2)",
@@ -22,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 49",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506452/image-5dcedf9a8a19e60ca6ff759434ed616d.png?ehk=ezqk4%2B44JMiKEpjP6vcnHn6c%2FOmmkZXlH%2FGNdUa4%2BME%3D&ehkOptimized=yFthzteiVPYmsFNIckhgYL0mEvFztJltOEVPmH39JbQ%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1671670800
     },
     {
