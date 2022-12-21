@@ -1,20 +1,20 @@
 {
-  "fetched_at": 1671646751,
+  "fetched_at": 1671647966,
   "data": [
     {
       "slug": "tournament/epic-wednesday-doubles-2/event/melee-doubles",
       "tournament_name": "Epic Wednesday Doubles! #2",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/506637/image-dddb12fc8f0384a34126796fbd18303e.png?ehk=BgDtHb2ojS7dao0wGeNEmez1VtSlA51i9bCIWNA8PWU%3D&ehkOptimized=sefOK0GpfRRqRAeXwQPcOJ35gdUrKOBjKDRzKUr9GME%3D",
-      "entrants": 4,
-      "start_time": 1671651000
+      "entrants": 5,
+      "start_time": 1671649200
     },
     {
       "slug": "tournament/galaxy-gladiators-s2-2/event/melee-singles",
       "tournament_name": "Galaxy Gladiators (S2 #2)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506985/image-ad2562969519deb90a78f71a27354728.png?ehk=D9elDka%2Fte8K8Too0nL0MxEapU7IeU76qoztnj%2F4JnE%3D&ehkOptimized=mPXbPMre0%2BfUhavirk%2FdqDuNDfJVg1Cm%2B8A9GCieAtU%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1671670800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Waddle Wednesday 49",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506452/image-5dcedf9a8a19e60ca6ff759434ed616d.png?ehk=ezqk4%2B44JMiKEpjP6vcnHn6c%2FOmmkZXlH%2FGNdUa4%2BME%3D&ehkOptimized=yFthzteiVPYmsFNIckhgYL0mEvFztJltOEVPmH39JbQ%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1671670800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Silver Slippi League #36",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/507216/image-87201e84f4cb1e856d4b6d71376c050a.png?ehk=Yl%2F5rL8WUTt%2FA5rj7BLTpP%2FHsVqsE%2Bt8UXP75DqNzZU%3D&ehkOptimized=4PhmEw2DT15MvZ8qqdNdRgP5QMJ5lb5q2x4582fzihU%3D",
-      "entrants": 0,
+      "entrants": 3,
       "start_time": 1671674400
     },
     {
