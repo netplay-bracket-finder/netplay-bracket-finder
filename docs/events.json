@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1671588993,
+  "fetched_at": 1671590893,
   "data": [
-    {
-      "slug": "tournament/the-hi-rise/event/melee-singles",
-      "tournament_name": "The HI Rise",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/504557/image-6b3329d8661e3f31c9829510a9f5be60.png?ehk=mGibGrsZUZzlzFr3TFIwmN463mBh1%2FTmgZ3iI9v1gvI%3D&ehkOptimized=RW3fBXyQt4VaDT86I7Es7JIqR8SWJfNc7X4zlTdVtZU%3D",
-      "entrants": 14,
-      "start_time": 1671591600
-    },
     {
       "slug": "tournament/epic-wednesday-doubles-2/event/melee-doubles",
       "tournament_name": "Epic Wednesday Doubles! #2",
@@ -86,7 +78,7 @@
       "tournament_name": "BB: A Crocmas Special",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507071/image-d96e2ddf3d94ce4920122366d4c26564.png?ehk=fP21tjI2LMUJ2roKG4prWfLNAXeFIVfK6Z6crFMET4o%3D&ehkOptimized=2gtwR2YbWTR1ZKT5SF7xUwjc5ST%2F%2F%2BrTop9g2iSbkZI%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1671778800
     },
     {
