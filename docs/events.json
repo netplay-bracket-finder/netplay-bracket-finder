@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671634298,
+  "fetched_at": 1671635834,
   "data": [
     {
       "slug": "tournament/epic-wednesday-doubles-2/event/melee-doubles",
       "tournament_name": "Epic Wednesday Doubles! #2",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/506637/image-dddb12fc8f0384a34126796fbd18303e.png?ehk=BgDtHb2ojS7dao0wGeNEmez1VtSlA51i9bCIWNA8PWU%3D&ehkOptimized=sefOK0GpfRRqRAeXwQPcOJ35gdUrKOBjKDRzKUr9GME%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1671651000
     },
     {
@@ -48,6 +48,14 @@
       "image": "https://images.start.gg/images/tournament/506011/image-9fb6307ae64784dca5314c98fcd2e86c.png?ehk=7sCIMQLEMP3PUQE1hzG5zz2WCiA4VJz3bha9mp1zozI%3D&ehkOptimized=m1HQ6PwBkU27MpvW3ExUkTcHsS4kJ5yzofdWX5hNZfU%3D",
       "entrants": 0,
       "start_time": 1671732000
+    },
+    {
+      "slug": "tournament/troppo-italiano-79/event/singles",
+      "tournament_name": "Troppo Italiano #79",
+      "event_name": "Singles",
+      "image": "https://images.start.gg/images/tournament/507186/image-f066f85ef3b28f7328469508fa446607.jpg?ehk=QQOl20jmcb8D0VTQ%2FSXei3gpN7bDru5MI63LhRBwLWc%3D&ehkOptimized=PgPpmzHTnbsyiPDQ%2FRr0%2FfgqEP7xpJu4tNzY0UZAY4g%3D",
+      "entrants": 0,
+      "start_time": 1671739200
     },
     {
       "slug": "tournament/le-impressive-tournament-name/event/melee-singles-7h-19h",
