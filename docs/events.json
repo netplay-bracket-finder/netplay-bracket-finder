@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1671695480,
+  "fetched_at": 1671697193,
   "data": [
-    {
-      "slug": "tournament/slobroke-online-6/event/melee-singles",
-      "tournament_name": "SloBroke ONLINE! #6",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506321/image-428077de2a42995e1e59080ab793f39f.jpg?ehk=owcJjJ8HkzjShcTwnTZM%2FhfXNSYnGwrrbWDbDlGRKN4%3D&ehkOptimized=sKqDxxSUyqN1BNfxwo0nlpppI7Rxhho%2BAEG7PN%2FKqUI%3D",
-      "entrants": 5,
-      "start_time": 1671679800
-    },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-44-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #44 (EU Event)",
