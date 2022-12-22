@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1671671890,
+  "fetched_at": 1671676005,
   "data": [
-    {
-      "slug": "tournament/femme-fatale-1/event/femme-fatale",
-      "tournament_name": "Femme Fatale #1",
-      "event_name": "Femme Fatale",
-      "image": "https://images.start.gg/images/tournament/504976/image-7705dda16176c7f87063f69e543a07ba.png?ehk=g1SkzMH7NXYnh8Xst2NET4rh9gKUV2pQfJQxFwRVh8g%3D&ehkOptimized=pfGpxHCzbutYVybFY2KfWteHFuy%2FlL%2B9F8P2%2FDgIR6M%3D",
-      "entrants": 5,
-      "start_time": 1671674400
-    },
     {
       "slug": "tournament/silver-slippi-league-36/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #36",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/507216/image-87201e84f4cb1e856d4b6d71376c050a.png?ehk=Yl%2F5rL8WUTt%2FA5rj7BLTpP%2FHsVqsE%2Bt8UXP75DqNzZU%3D&ehkOptimized=4PhmEw2DT15MvZ8qqdNdRgP5QMJ5lb5q2x4582fzihU%3D",
-      "entrants": 14,
+      "entrants": 22,
       "start_time": 1671674400
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "Only Noobs 98",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506094/image-7ce30c13e698cb9b8f93d481d95e2add.jpg?ehk=ly%2FzbcOkFW5iqLQw2dWUeKjxGuROiIcNDKPr7Hs%2BHEk%3D&ehkOptimized=jP4X3McEURl8xxWf3bkoIiJnsmIU6eNQEvmGOQ%2FxYC8%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1671753600
     },
     {
@@ -70,8 +62,16 @@
       "tournament_name": "No Weekly? No Problem!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507274/image-df7ec2a61e53ad32a0e0d18bc1b28ba3.jpg?ehk=6Y9bN981ipV8mNE%2Bxq3RvXclrsGJbDELP7mpeVUcJMA%3D&ehkOptimized=DqHR44ORTwr2CDN5vEY2res5qkbOcS%2FRUcMmBtSXvJI%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1671757200
+    },
+    {
+      "slug": "tournament/cwa-slippi-slide-1/event/melee",
+      "tournament_name": "CWA Slippi-slide #1",
+      "event_name": "Melee",
+      "image": "",
+      "entrants": 1,
+      "start_time": 1671768900
     },
     {
       "slug": "tournament/bb-a-crocmas-special/event/melee-singles",
