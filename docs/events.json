@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1671666693,
+  "fetched_at": 1671671890,
   "data": [
-    {
-      "slug": "tournament/galaxy-gladiators-s2-2/event/melee-singles",
-      "tournament_name": "Galaxy Gladiators (S2 #2)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506985/image-ad2562969519deb90a78f71a27354728.png?ehk=D9elDka%2Fte8K8Too0nL0MxEapU7IeU76qoztnj%2F4JnE%3D&ehkOptimized=mPXbPMre0%2BfUhavirk%2FdqDuNDfJVg1Cm%2B8A9GCieAtU%3D",
-      "entrants": 5,
-      "start_time": 1671670800
-    },
-    {
-      "slug": "tournament/waddle-wednesday-49/event/melee-singles",
-      "tournament_name": "Waddle Wednesday 49",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506452/image-5dcedf9a8a19e60ca6ff759434ed616d.png?ehk=ezqk4%2B44JMiKEpjP6vcnHn6c%2FOmmkZXlH%2FGNdUa4%2BME%3D&ehkOptimized=yFthzteiVPYmsFNIckhgYL0mEvFztJltOEVPmH39JbQ%3D",
-      "entrants": 38,
-      "start_time": 1671670800
-    },
     {
       "slug": "tournament/femme-fatale-1/event/femme-fatale",
       "tournament_name": "Femme Fatale #1",
@@ -30,7 +14,7 @@
       "tournament_name": "Silver Slippi League #36",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/507216/image-87201e84f4cb1e856d4b6d71376c050a.png?ehk=Yl%2F5rL8WUTt%2FA5rj7BLTpP%2FHsVqsE%2Bt8UXP75DqNzZU%3D&ehkOptimized=4PhmEw2DT15MvZ8qqdNdRgP5QMJ5lb5q2x4582fzihU%3D",
-      "entrants": 9,
+      "entrants": 14,
       "start_time": 1671674400
     },
     {
@@ -86,7 +70,7 @@
       "tournament_name": "No Weekly? No Problem!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507274/image-df7ec2a61e53ad32a0e0d18bc1b28ba3.jpg?ehk=6Y9bN981ipV8mNE%2Bxq3RvXclrsGJbDELP7mpeVUcJMA%3D&ehkOptimized=DqHR44ORTwr2CDN5vEY2res5qkbOcS%2FRUcMmBtSXvJI%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1671757200
     },
     {
