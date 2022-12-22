@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671740198,
+  "fetched_at": 1671741411,
   "data": [
     {
       "slug": "tournament/le-impressive-tournament-name/event/melee-singles-7h-19h",
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 98",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506094/image-7ce30c13e698cb9b8f93d481d95e2add.jpg?ehk=ly%2FzbcOkFW5iqLQw2dWUeKjxGuROiIcNDKPr7Hs%2BHEk%3D&ehkOptimized=jP4X3McEURl8xxWf3bkoIiJnsmIU6eNQEvmGOQ%2FxYC8%3D",
-      "entrants": 53,
+      "entrants": 54,
       "start_time": 1671753600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Moonwalk Tournament Series... Online! (Melee Only, Free Entry, $50 Prize Pot)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507406/image-00a0605a3d193000794274c1ce9479b8.jpg?ehk=Ec1o9rvibBg2qGUyPv1NzhVMm2%2BrtMUK%2B4rQP2v2r3c%3D&ehkOptimized=oixqlqhGpZuFYKLqkxDyG6FdvFxC6S3Dd4nSJ%2Fz8gT4%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1671757200
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "No Weekly? No Problem!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507274/image-59dec1d14eddcb7dce00a1c1c96a1e37.jpg?ehk=d8ChqTah%2BzYDTGdCpJ2zUSQsNZHNH%2FxFf5Dnk2GjQeE%3D&ehkOptimized=Jwrn7rF9kzW%2ByJdtJie4exylIaKbf31cXOy7u9JNuao%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1671757200
     },
     {
@@ -120,6 +120,22 @@
       "image": "https://images.start.gg/images/tournament/503138/image-6341781be6a3331a712dc78bdaf533c3.png?ehk=Q03UPRpzgCwGBttCygZ3VR%2FNbRruIFF%2Fp7ehiUt%2Fj5w%3D&ehkOptimized=BgPaePFMx%2FbgzNwE6czeOED909Z0eszyf%2BvSotSmDN4%3D",
       "entrants": 0,
       "start_time": 1672408800
+    },
+    {
+      "slug": "tournament/toblerone-tangerine-thursdays-45-eu-event/event/melee-singles",
+      "tournament_name": "Toblerone Tangerine Thursdays #45 (EU Event)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/507434/image-f4390475d42c92934df4d707e96563f5.png?ehk=mkrpoi%2BxMz8mbTCJLfgBSElvxOF3SRO2z2jaXHgNP%2F8%3D&ehkOptimized=TVdnPiuSRyPdOdTMV23o%2Be01ElP%2BFMvfUU5puZowwIc%3D",
+      "entrants": 0,
+      "start_time": 1672336800
+    },
+    {
+      "slug": "tournament/toblerone-tangerine-thursdays-45-eu-event/event/toblerone-waitlist",
+      "tournament_name": "Toblerone Tangerine Thursdays #45 (EU Event)",
+      "event_name": "Toblerone waitlist",
+      "image": "https://images.start.gg/images/tournament/507434/image-f4390475d42c92934df4d707e96563f5.png?ehk=mkrpoi%2BxMz8mbTCJLfgBSElvxOF3SRO2z2jaXHgNP%2F8%3D&ehkOptimized=TVdnPiuSRyPdOdTMV23o%2Be01ElP%2BFMvfUU5puZowwIc%3D",
+      "entrants": 0,
+      "start_time": 1672336800
     },
     {
       "slug": "tournament/carlton-s-dank-online-melee-bash-1/event/melee-singles",
