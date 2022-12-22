@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671719319,
+  "fetched_at": 1671719994,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-44-eu-event/event/melee-singles",
@@ -56,6 +56,14 @@
       "image": "https://images.start.gg/images/tournament/507309/image-90dcee4127c11d69307b456815294d6a.png?ehk=NP7unyRX27SAQewmigeb1BNHdpIc5ZwOyrvIIVx9sA0%3D&ehkOptimized=7B14QmrP9Iql3HoPXs6%2FXPQ7noyye7a0aE1tbcQ1CjY%3D",
       "entrants": 2,
       "start_time": 1671757200
+    },
+    {
+      "slug": "tournament/thursday-thmackdown-13/event/melee-singles",
+      "tournament_name": "Thursday Thmackdown #13",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/507370/image-ea51be95f58e80f4777d1b990d12bd24.png?ehk=JU5JlPPIqEvX%2BNxNCdF4tRhbLb2O9MMhBtWOTWnGxYI%3D&ehkOptimized=2P9cuKNivG42W5FCabFowRQ4FW0cvepkWNx2Uy%2FDDto%3D",
+      "entrants": 0,
+      "start_time": 1671760800
     },
     {
       "slug": "tournament/cwa-slippi-slide-1/event/melee",
