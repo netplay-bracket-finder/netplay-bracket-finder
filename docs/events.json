@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671733181,
+  "fetched_at": 1671734379,
   "data": [
     {
       "slug": "tournament/troppo-italiano-79/event/singles",
       "tournament_name": "Troppo Italiano #79",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/507186/image-f066f85ef3b28f7328469508fa446607.jpg?ehk=QQOl20jmcb8D0VTQ%2FSXei3gpN7bDru5MI63LhRBwLWc%3D&ehkOptimized=PgPpmzHTnbsyiPDQ%2FRr0%2FfgqEP7xpJu4tNzY0UZAY4g%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1671739200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Only Noobs 98",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506094/image-7ce30c13e698cb9b8f93d481d95e2add.jpg?ehk=ly%2FzbcOkFW5iqLQw2dWUeKjxGuROiIcNDKPr7Hs%2BHEk%3D&ehkOptimized=jP4X3McEURl8xxWf3bkoIiJnsmIU6eNQEvmGOQ%2FxYC8%3D",
-      "entrants": 43,
+      "entrants": 45,
       "start_time": 1671753600
     },
     {
@@ -32,6 +32,14 @@
       "image": "https://images.start.gg/images/tournament/506966/image-cbebb17a6bd566b8eeca0a2c964380df.png?ehk=hLfRYViXw0G6iwqWs94Av4dFz76o79W3qzkMaK1vQAI%3D&ehkOptimized=e49kzvo241t0af8R0jenciiYWD%2FnWi5YkteVdE0A9Vs%3D",
       "entrants": 1,
       "start_time": 1671755400
+    },
+    {
+      "slug": "tournament/no-weekly-no-problem/event/melee-singles",
+      "tournament_name": "No Weekly? No Problem!",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/507274/image-59dec1d14eddcb7dce00a1c1c96a1e37.jpg?ehk=d8ChqTah%2BzYDTGdCpJ2zUSQsNZHNH%2FxFf5Dnk2GjQeE%3D&ehkOptimized=Jwrn7rF9kzW%2ByJdtJie4exylIaKbf31cXOy7u9JNuao%3D",
+      "entrants": 5,
+      "start_time": 1671757200
     },
     {
       "slug": "tournament/umass-off-season-slippi-series/event/melee-singles",
