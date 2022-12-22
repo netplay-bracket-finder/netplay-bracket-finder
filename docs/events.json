@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671712225,
+  "fetched_at": 1671714212,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-44-eu-event/event/melee-singles",
@@ -50,14 +50,6 @@
       "start_time": 1671755400
     },
     {
-      "slug": "tournament/no-weekly-no-problem/event/melee-singles",
-      "tournament_name": "No Weekly? No Problem!",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/507274/image-59dec1d14eddcb7dce00a1c1c96a1e37.jpg?ehk=d8ChqTah%2BzYDTGdCpJ2zUSQsNZHNH%2FxFf5Dnk2GjQeE%3D&ehkOptimized=Jwrn7rF9kzW%2ByJdtJie4exylIaKbf31cXOy7u9JNuao%3D",
-      "entrants": 5,
-      "start_time": 1671757200
-    },
-    {
       "slug": "tournament/umass-off-season-slippi-series/event/melee-singles",
       "tournament_name": "UMass Off-Season Slippi Series",
       "event_name": "Melee Singles",
@@ -78,7 +70,7 @@
       "tournament_name": "BB: A Crocmas Special",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507071/image-d96e2ddf3d94ce4920122366d4c26564.png?ehk=fP21tjI2LMUJ2roKG4prWfLNAXeFIVfK6Z6crFMET4o%3D&ehkOptimized=2gtwR2YbWTR1ZKT5SF7xUwjc5ST%2F%2F%2BrTop9g2iSbkZI%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1671778800
     },
     {
