@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1671681077,
+  "fetched_at": 1671682752,
   "data": [
-    {
-      "slug": "tournament/femme-fatale-1/event/femme-fatale",
-      "tournament_name": "Femme Fatale #1",
-      "event_name": "Femme Fatale",
-      "image": "https://images.start.gg/images/tournament/504976/image-7705dda16176c7f87063f69e543a07ba.png?ehk=g1SkzMH7NXYnh8Xst2NET4rh9gKUV2pQfJQxFwRVh8g%3D&ehkOptimized=pfGpxHCzbutYVybFY2KfWteHFuy%2FlL%2B9F8P2%2FDgIR6M%3D",
-      "entrants": 5,
-      "start_time": 1671677340
-    },
     {
       "slug": "tournament/silver-slippi-league-36/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #36",
@@ -70,7 +62,7 @@
       "tournament_name": "No Weekly? No Problem!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507274/image-59dec1d14eddcb7dce00a1c1c96a1e37.jpg?ehk=d8ChqTah%2BzYDTGdCpJ2zUSQsNZHNH%2FxFf5Dnk2GjQeE%3D&ehkOptimized=Jwrn7rF9kzW%2ByJdtJie4exylIaKbf31cXOy7u9JNuao%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1671757200
     },
     {
