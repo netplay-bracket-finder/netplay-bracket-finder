@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671737000,
+  "fetched_at": 1671737778,
   "data": [
     {
       "slug": "tournament/troppo-italiano-79/event/singles",
@@ -34,11 +34,19 @@
       "start_time": 1671755400
     },
     {
+      "slug": "tournament/moonwalk-tournament-series-online-melee-only-free-entry-50-prize/event/melee-singles",
+      "tournament_name": "Moonwalk Tournament Series... Online! (Melee Only, Free Entry, $50 Prize Pot)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/507406/image-00a0605a3d193000794274c1ce9479b8.jpg?ehk=Ec1o9rvibBg2qGUyPv1NzhVMm2%2BrtMUK%2B4rQP2v2r3c%3D&ehkOptimized=oixqlqhGpZuFYKLqkxDyG6FdvFxC6S3Dd4nSJ%2Fz8gT4%3D",
+      "entrants": 3,
+      "start_time": 1671757200
+    },
+    {
       "slug": "tournament/no-weekly-no-problem/event/melee-singles",
       "tournament_name": "No Weekly? No Problem!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507274/image-59dec1d14eddcb7dce00a1c1c96a1e37.jpg?ehk=d8ChqTah%2BzYDTGdCpJ2zUSQsNZHNH%2FxFf5Dnk2GjQeE%3D&ehkOptimized=Jwrn7rF9kzW%2ByJdtJie4exylIaKbf31cXOy7u9JNuao%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1671757200
     },
     {
