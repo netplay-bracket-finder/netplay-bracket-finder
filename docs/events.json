@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671727545,
+  "fetched_at": 1671729267,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-44-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #44 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506011/image-9fb6307ae64784dca5314c98fcd2e86c.png?ehk=7sCIMQLEMP3PUQE1hzG5zz2WCiA4VJz3bha9mp1zozI%3D&ehkOptimized=m1HQ6PwBkU27MpvW3ExUkTcHsS4kJ5yzofdWX5hNZfU%3D",
-      "entrants": 10,
+      "entrants": 16,
       "start_time": 1671732000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Only Noobs 98",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506094/image-7ce30c13e698cb9b8f93d481d95e2add.jpg?ehk=ly%2FzbcOkFW5iqLQw2dWUeKjxGuROiIcNDKPr7Hs%2BHEk%3D&ehkOptimized=jP4X3McEURl8xxWf3bkoIiJnsmIU6eNQEvmGOQ%2FxYC8%3D",
-      "entrants": 28,
+      "entrants": 32,
       "start_time": 1671753600
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "CWA Slippi-slide #1",
       "event_name": "Melee",
       "image": "",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1671768900
     },
     {
