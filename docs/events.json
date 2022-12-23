@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671823404,
+  "fetched_at": 1671824188,
   "data": [
     {
       "slug": "tournament/adm-a-merry-melee-christmas/event/after-dark-singles",
@@ -38,7 +38,7 @@
       "tournament_name": "East Coast Fridays #233",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507539/image-a22cca50894b59adcb4e8cde56d61af7.png?ehk=l3KOvcE449H%2F0bsxBu5fuCT6Fy2FvsxDDnAhbBWviGU%3D&ehkOptimized=9X2xRXfs7ikdyycw3BWTWxkSzhUn1WnIJo08wyQU6WY%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1671843600
     },
     {
@@ -130,6 +130,22 @@
       "start_time": 1672513200
     },
     {
+      "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/east-coast-bracket",
+      "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
+      "event_name": "East Coast Bracket",
+      "image": "https://images.start.gg/images/tournament/507586/image-1f9460b2a9d8a5d04c89b9e84d1ab688.png?ehk=QhMMwjjdJoxCeDNfdAbxdslZbtrEPZAMtiakLrTfLHg%3D&ehkOptimized=BgdF5lm2Jt%2Fr0UvZdE7lXIpqZ9IZpx0xJc76XI6GLxI%3D",
+      "entrants": 0,
+      "start_time": 1672617600
+    },
+    {
+      "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/west-coast-bracket",
+      "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
+      "event_name": "West Coast Bracket",
+      "image": "https://images.start.gg/images/tournament/507586/image-1f9460b2a9d8a5d04c89b9e84d1ab688.png?ehk=QhMMwjjdJoxCeDNfdAbxdslZbtrEPZAMtiakLrTfLHg%3D&ehkOptimized=BgdF5lm2Jt%2Fr0UvZdE7lXIpqZ9IZpx0xJc76XI6GLxI%3D",
+      "entrants": 0,
+      "start_time": 1672617600
+    },
+    {
       "slug": "tournament/pino-s-tired-of-0-2-103/event/tired-of-0-2",
       "tournament_name": "Pino's Tired of 0-2 #103",
       "event_name": "Tired of 0-2?",
@@ -150,7 +166,7 @@
       "tournament_name": "The Distribution #2",
       "event_name": "Phase 1 - Melee Singles",
       "image": "https://images.start.gg/images/tournament/505057/image-34001fe9b04a877556d8a70d1abae52b.png?ehk=iDC9R4tRKWXTK7Dal%2Bhuz4PnD4aUY0DNIFYbo6TB4TQ%3D&ehkOptimized=a63G3C1Y8ZiE4klU8O4WbuoicgYyVQfFMmZC3okswoc%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1672791000
     },
     {
