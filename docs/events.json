@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671833677,
+  "fetched_at": 1671834530,
   "data": [
     {
       "slug": "tournament/man-on-a-ledge-447-1/event/melee-singles",
       "tournament_name": "Man on a Ledge #447",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507580/image-e12afb427bba1f5e154403b85bc13862.png?ehk=vH6W7cysqD%2F2QOnnNLPtS%2BTd8Oew8iS9hQhxNcJWorw%3D&ehkOptimized=fdyYL2%2FNP1GA6pBDgWmv9i6qOROA48rIQpJyejHTEO0%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1671840000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "East Coast Fridays #233",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507539/image-a22cca50894b59adcb4e8cde56d61af7.png?ehk=l3KOvcE449H%2F0bsxBu5fuCT6Fy2FvsxDDnAhbBWviGU%3D&ehkOptimized=9X2xRXfs7ikdyycw3BWTWxkSzhUn1WnIJo08wyQU6WY%3D",
-      "entrants": 19,
+      "entrants": 22,
       "start_time": 1671843600
     },
     {
@@ -118,7 +118,7 @@
       "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
       "event_name": "East Coast Bracket",
       "image": "https://images.start.gg/images/tournament/507586/image-8a51a594973e70d4486e2d9736b55ea4.png?ehk=Sp5lzdtgTrNB0cJjXnAacToxQlSUPiMCop4CO3%2Fn06c%3D&ehkOptimized=2xDXE2C9VCzvgWBqGWajEyesI%2Baz7vgGr55HkOzvciA%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1672617600
     },
     {
