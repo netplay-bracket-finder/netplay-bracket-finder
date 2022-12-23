@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671780310,
+  "fetched_at": 1671780977,
   "data": [
     {
       "slug": "tournament/adm-a-merry-melee-christmas/event/after-dark-singles",
@@ -16,6 +16,14 @@
       "image": "https://images.start.gg/images/tournament/506710/image-7bb01281d930c54a64484037482aa67d.png?ehk=siOrxAOMnIxhg7dYk0xkVctlqWDkBccjOQXLUTGtzyo%3D&ehkOptimized=TIf%2FYtUHH30T%2FA2SLiZHeJMJvCJx4bvpnXsyqLicqsg%3D",
       "entrants": 0,
       "start_time": 1671831000
+    },
+    {
+      "slug": "tournament/east-coast-fridays-233/event/melee-singles",
+      "tournament_name": "East Coast Fridays #233",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/507539/image-a22cca50894b59adcb4e8cde56d61af7.png?ehk=l3KOvcE449H%2F0bsxBu5fuCT6Fy2FvsxDDnAhbBWviGU%3D&ehkOptimized=9X2xRXfs7ikdyycw3BWTWxkSzhUn1WnIJo08wyQU6WY%3D",
+      "entrants": 0,
+      "start_time": 1671843600
     },
     {
       "slug": "tournament/the-shallow-end-14-a-wc-newbie-bracket-1/event/melee-singles",
