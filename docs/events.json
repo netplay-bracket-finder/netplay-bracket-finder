@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1671827800,
+  "fetched_at": 1671828680,
   "data": [
-    {
-      "slug": "tournament/adm-a-merry-melee-christmas/event/after-dark-singles",
-      "tournament_name": "ADM - A Merry Melee Christmas",
-      "event_name": "After Dark Singles",
-      "image": "https://images.start.gg/images/tournament/506710/image-7bb01281d930c54a64484037482aa67d.png?ehk=siOrxAOMnIxhg7dYk0xkVctlqWDkBccjOQXLUTGtzyo%3D&ehkOptimized=TIf%2FYtUHH30T%2FA2SLiZHeJMJvCJx4bvpnXsyqLicqsg%3D",
-      "entrants": 10,
-      "start_time": 1671826500
-    },
-    {
-      "slug": "tournament/adm-a-merry-melee-christmas/event/after-dark-doubles",
-      "tournament_name": "ADM - A Merry Melee Christmas",
-      "event_name": "After Dark Doubles",
-      "image": "https://images.start.gg/images/tournament/506710/image-7bb01281d930c54a64484037482aa67d.png?ehk=siOrxAOMnIxhg7dYk0xkVctlqWDkBccjOQXLUTGtzyo%3D&ehkOptimized=TIf%2FYtUHH30T%2FA2SLiZHeJMJvCJx4bvpnXsyqLicqsg%3D",
-      "entrants": 4,
-      "start_time": 1671831000
-    },
     {
       "slug": "tournament/man-on-a-ledge-447-1/event/melee-doubles",
       "tournament_name": "Man on a Ledge #447",
@@ -214,7 +198,7 @@
       "tournament_name": "[$1000] Conduit Gaming Annual Gold Invitational 2023",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/480976/image-97c003ab9f53742b7bda638f252b4aa7.png?ehk=yZZeMCBgIFmmed7MEVR536DbzkvthGqwI0FLWM4YiUg%3D&ehkOptimized=Ay3nN1fPdJHC%2BFaG7N8UCR5cHhS6gutXVs3Ozv33VKQ%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1673719200
     },
     {
