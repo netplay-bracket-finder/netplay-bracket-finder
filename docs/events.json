@@ -1,45 +1,13 @@
 {
-  "fetched_at": 1671753098,
+  "fetched_at": 1671758167,
   "data": [
-    {
-      "slug": "tournament/the-dojo-35-1/event/melee-singles",
-      "tournament_name": "The Dojo #35",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/506966/image-cbebb17a6bd566b8eeca0a2c964380df.png?ehk=hLfRYViXw0G6iwqWs94Av4dFz76o79W3qzkMaK1vQAI%3D&ehkOptimized=e49kzvo241t0af8R0jenciiYWD%2FnWi5YkteVdE0A9Vs%3D",
-      "entrants": 2,
-      "start_time": 1671755400
-    },
     {
       "slug": "tournament/atlas-melee-online-dec-22/event/melee-singles",
       "tournament_name": "Atlas Melee Online - Dec 22",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 2,
+      "entrants": 9,
       "start_time": 1671755400
-    },
-    {
-      "slug": "tournament/moonwalk-tournament-series-online-melee-only-free-entry-50-prize/event/melee-singles",
-      "tournament_name": "Moonwalk Tournament Series... Online! (Melee Only, Free Entry, $50 Prize Pot)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/507406/image-00a0605a3d193000794274c1ce9479b8.jpg?ehk=Ec1o9rvibBg2qGUyPv1NzhVMm2%2BrtMUK%2B4rQP2v2r3c%3D&ehkOptimized=oixqlqhGpZuFYKLqkxDyG6FdvFxC6S3Dd4nSJ%2Fz8gT4%3D",
-      "entrants": 16,
-      "start_time": 1671757200
-    },
-    {
-      "slug": "tournament/no-weekly-no-problem/event/melee-singles",
-      "tournament_name": "No Weekly? No Problem!",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/507274/image-59dec1d14eddcb7dce00a1c1c96a1e37.jpg?ehk=d8ChqTah%2BzYDTGdCpJ2zUSQsNZHNH%2FxFf5Dnk2GjQeE%3D&ehkOptimized=Jwrn7rF9kzW%2ByJdtJie4exylIaKbf31cXOy7u9JNuao%3D",
-      "entrants": 8,
-      "start_time": 1671757200
-    },
-    {
-      "slug": "tournament/umass-off-season-slippi-series/event/melee-singles",
-      "tournament_name": "UMass Off-Season Slippi Series",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/507309/image-90dcee4127c11d69307b456815294d6a.png?ehk=NP7unyRX27SAQewmigeb1BNHdpIc5ZwOyrvIIVx9sA0%3D&ehkOptimized=7B14QmrP9Iql3HoPXs6%2FXPQ7noyye7a0aE1tbcQ1CjY%3D",
-      "entrants": 7,
-      "start_time": 1671757200
     },
     {
       "slug": "tournament/thursday-thmackdown-13/event/melee-singles",
@@ -54,8 +22,8 @@
       "tournament_name": "CWA Slippi-slide #1",
       "event_name": "Melee",
       "image": "",
-      "entrants": 9,
-      "start_time": 1671768900
+      "entrants": 13,
+      "start_time": 1671771900
     },
     {
       "slug": "tournament/bb-a-crocmas-special/event/melee-singles",
@@ -134,7 +102,7 @@
       "tournament_name": "Carlton's Dank Online Melee Bash! #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506781/image-b673a5e6b9153f64cb7951fcd98b7757.jpg?ehk=EN2wnRbWzVWK7Sj%2F1hpQR0CsRRWJmJ%2B266b4N3uBg54%3D&ehkOptimized=lLNK7q5l6jAD5kONlj7Cln6umhpTLh4kCCXfDHwxFU0%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1672347600
     },
     {
