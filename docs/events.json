@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671766620,
+  "fetched_at": 1671767484,
   "data": [
     {
       "slug": "tournament/cwa-slippi-slide-1/event/melee",
@@ -14,7 +14,7 @@
       "tournament_name": "BB: A Crocmas Special",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507071/image-d96e2ddf3d94ce4920122366d4c26564.png?ehk=fP21tjI2LMUJ2roKG4prWfLNAXeFIVfK6Z6crFMET4o%3D&ehkOptimized=2gtwR2YbWTR1ZKT5SF7xUwjc5ST%2F%2F%2BrTop9g2iSbkZI%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1671778800
     },
     {
@@ -32,6 +32,14 @@
       "image": "https://images.start.gg/images/tournament/506710/image-7bb01281d930c54a64484037482aa67d.png?ehk=siOrxAOMnIxhg7dYk0xkVctlqWDkBccjOQXLUTGtzyo%3D&ehkOptimized=TIf%2FYtUHH30T%2FA2SLiZHeJMJvCJx4bvpnXsyqLicqsg%3D",
       "entrants": 0,
       "start_time": 1671831000
+    },
+    {
+      "slug": "tournament/the-shallow-end-14-a-wc-newbie-bracket-1/event/melee-singles",
+      "tournament_name": "The Shallow End #14 - a WC newbie bracket",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/507491/image-360cbe3e2392f5f301c3268984493949.jpg?ehk=pP1ub9DV%2FVDcJzFrJ5YKelmsLoSATmclYYOsqFFLfYo%3D&ehkOptimized=4lUQcTae3GA3kBxC9qHjbo5m8Er5lfgI5XvMEaSL3Qo%3D",
+      "entrants": 2,
+      "start_time": 1671846300
     },
     {
       "slug": "tournament/ssbm-ru-monthly-december-2022/event/melee-singles",
