@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1671758167,
+  "fetched_at": 1671762407,
   "data": [
-    {
-      "slug": "tournament/atlas-melee-online-dec-22/event/melee-singles",
-      "tournament_name": "Atlas Melee Online - Dec 22",
-      "event_name": "Melee Singles",
-      "image": "",
-      "entrants": 9,
-      "start_time": 1671755400
-    },
-    {
-      "slug": "tournament/thursday-thmackdown-13/event/melee-singles",
-      "tournament_name": "Thursday Thmackdown #13",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/507370/image-ea51be95f58e80f4777d1b990d12bd24.png?ehk=JU5JlPPIqEvX%2BNxNCdF4tRhbLb2O9MMhBtWOTWnGxYI%3D&ehkOptimized=2P9cuKNivG42W5FCabFowRQ4FW0cvepkWNx2Uy%2FDDto%3D",
-      "entrants": 6,
-      "start_time": 1671760800
-    },
     {
       "slug": "tournament/cwa-slippi-slide-1/event/melee",
       "tournament_name": "CWA Slippi-slide #1",
@@ -30,7 +14,7 @@
       "tournament_name": "BB: A Crocmas Special",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507071/image-d96e2ddf3d94ce4920122366d4c26564.png?ehk=fP21tjI2LMUJ2roKG4prWfLNAXeFIVfK6Z6crFMET4o%3D&ehkOptimized=2gtwR2YbWTR1ZKT5SF7xUwjc5ST%2F%2F%2BrTop9g2iSbkZI%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1671778800
     },
     {
@@ -38,7 +22,7 @@
       "tournament_name": "ADM - A Merry Melee Christmas",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/506710/image-7bb01281d930c54a64484037482aa67d.png?ehk=siOrxAOMnIxhg7dYk0xkVctlqWDkBccjOQXLUTGtzyo%3D&ehkOptimized=TIf%2FYtUHH30T%2FA2SLiZHeJMJvCJx4bvpnXsyqLicqsg%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1671826500
     },
     {
@@ -200,6 +184,14 @@
       "image": "https://images.start.gg/images/tournament/480976/image-97c003ab9f53742b7bda638f252b4aa7.png?ehk=yZZeMCBgIFmmed7MEVR536DbzkvthGqwI0FLWM4YiUg%3D&ehkOptimized=Ay3nN1fPdJHC%2BFaG7N8UCR5cHhS6gutXVs3Ozv33VKQ%3D",
       "entrants": 7,
       "start_time": 1673744400
+    },
+    {
+      "slug": "tournament/the-hi-rise-2/event/melee-singles",
+      "tournament_name": "The HI Rise 2",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/507503/image-a84c1d82a582e7cc5ab58626f8742f03.png?ehk=GxQ8n9TnfubTxWO4WN%2B%2BoUhL2ExWdPSoHtb0XLJKw9M%3D&ehkOptimized=6Wb%2F2Asal5ulsfGhVMzsr2ASS8l6o7YuL%2F5LnXq1wvU%3D",
+      "entrants": 0,
+      "start_time": 1673665200
     },
     {
       "slug": "tournament/polypuff/event/melee-singles",
