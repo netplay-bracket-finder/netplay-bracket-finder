@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671770383,
+  "fetched_at": 1671771081,
   "data": [
     {
       "slug": "tournament/cwa-slippi-slide-1/event/melee",
@@ -14,7 +14,7 @@
       "tournament_name": "BB: A Crocmas Special",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507071/image-d96e2ddf3d94ce4920122366d4c26564.png?ehk=fP21tjI2LMUJ2roKG4prWfLNAXeFIVfK6Z6crFMET4o%3D&ehkOptimized=2gtwR2YbWTR1ZKT5SF7xUwjc5ST%2F%2F%2BrTop9g2iSbkZI%3D",
-      "entrants": 18,
+      "entrants": 21,
       "start_time": 1671778800
     },
     {
@@ -96,6 +96,14 @@
       "image": "https://images.start.gg/images/tournament/506781/image-b673a5e6b9153f64cb7951fcd98b7757.jpg?ehk=EN2wnRbWzVWK7Sj%2F1hpQR0CsRRWJmJ%2B266b4N3uBg54%3D&ehkOptimized=lLNK7q5l6jAD5kONlj7Cln6umhpTLh4kCCXfDHwxFU0%3D",
       "entrants": 14,
       "start_time": 1672347600
+    },
+    {
+      "slug": "tournament/only-noobs-99/event/melee-singles",
+      "tournament_name": "Only Noobs 99",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/507521/image-57b367004f4f332397a5e8e3759cc8ca.jpg?ehk=1%2Fm8TaUTdhAx%2Fh6LL1M6SrB8GcSSrLkX9j2%2FdTPeO3g%3D&ehkOptimized=VRycxRbVr7WNcf0bzrFFtdfzFx%2FLl110VVt9hUmtflY%3D",
+      "entrants": 1,
+      "start_time": 1672358400
     },
     {
       "slug": "tournament/the-distribution-2/event/the-waitlist",
