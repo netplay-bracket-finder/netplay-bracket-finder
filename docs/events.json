@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671822739,
+  "fetched_at": 1671823404,
   "data": [
     {
       "slug": "tournament/adm-a-merry-melee-christmas/event/after-dark-singles",
       "tournament_name": "ADM - A Merry Melee Christmas",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/506710/image-7bb01281d930c54a64484037482aa67d.png?ehk=siOrxAOMnIxhg7dYk0xkVctlqWDkBccjOQXLUTGtzyo%3D&ehkOptimized=TIf%2FYtUHH30T%2FA2SLiZHeJMJvCJx4bvpnXsyqLicqsg%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1671826500
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "ADM - A Merry Melee Christmas",
       "event_name": "After Dark Doubles",
       "image": "https://images.start.gg/images/tournament/506710/image-7bb01281d930c54a64484037482aa67d.png?ehk=siOrxAOMnIxhg7dYk0xkVctlqWDkBccjOQXLUTGtzyo%3D&ehkOptimized=TIf%2FYtUHH30T%2FA2SLiZHeJMJvCJx4bvpnXsyqLicqsg%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1671831000
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "ASL’s Weekly Weekend Melee #20",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507354/image-c0ad785ebb4116c91a4671e3b3b68d98.png?ehk=fP7Seq3XeGOr1ukmtMJ2Whkcb75P30Y3d%2B5ywJCLm38%3D&ehkOptimized=I1FJ%2FXKIrSBeagPnHFvbcRtGoZ6vICOFXhi3ZvOVI28%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1671899400
     },
     {
@@ -150,7 +150,7 @@
       "tournament_name": "The Distribution #2",
       "event_name": "Phase 1 - Melee Singles",
       "image": "https://images.start.gg/images/tournament/505057/image-34001fe9b04a877556d8a70d1abae52b.png?ehk=iDC9R4tRKWXTK7Dal%2Bhuz4PnD4aUY0DNIFYbo6TB4TQ%3D&ehkOptimized=a63G3C1Y8ZiE4klU8O4WbuoicgYyVQfFMmZC3okswoc%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1672791000
     },
     {
