@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671834530,
+  "fetched_at": 1671835196,
   "data": [
     {
       "slug": "tournament/man-on-a-ledge-447-1/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "East Coast Fridays #233",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507539/image-a22cca50894b59adcb4e8cde56d61af7.png?ehk=l3KOvcE449H%2F0bsxBu5fuCT6Fy2FvsxDDnAhbBWviGU%3D&ehkOptimized=9X2xRXfs7ikdyycw3BWTWxkSzhUn1WnIJo08wyQU6WY%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1671843600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "The Shallow End #14 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507491/image-360cbe3e2392f5f301c3268984493949.jpg?ehk=pP1ub9DV%2FVDcJzFrJ5YKelmsLoSATmclYYOsqFFLfYo%3D&ehkOptimized=4lUQcTae3GA3kBxC9qHjbo5m8Er5lfgI5XvMEaSL3Qo%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1671846300
     },
     {
@@ -150,7 +150,7 @@
       "tournament_name": "The Distribution #2",
       "event_name": "Phase 1 - Melee Singles",
       "image": "https://images.start.gg/images/tournament/505057/image-34001fe9b04a877556d8a70d1abae52b.png?ehk=iDC9R4tRKWXTK7Dal%2Bhuz4PnD4aUY0DNIFYbo6TB4TQ%3D&ehkOptimized=a63G3C1Y8ZiE4klU8O4WbuoicgYyVQfFMmZC3okswoc%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1672791000
     },
     {
