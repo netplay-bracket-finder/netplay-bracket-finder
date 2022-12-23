@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671826576,
+  "fetched_at": 1671827800,
   "data": [
     {
       "slug": "tournament/adm-a-merry-melee-christmas/event/after-dark-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "ADM - A Merry Melee Christmas",
       "event_name": "After Dark Doubles",
       "image": "https://images.start.gg/images/tournament/506710/image-7bb01281d930c54a64484037482aa67d.png?ehk=siOrxAOMnIxhg7dYk0xkVctlqWDkBccjOQXLUTGtzyo%3D&ehkOptimized=TIf%2FYtUHH30T%2FA2SLiZHeJMJvCJx4bvpnXsyqLicqsg%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1671831000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "East Coast Fridays #233",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507539/image-a22cca50894b59adcb4e8cde56d61af7.png?ehk=l3KOvcE449H%2F0bsxBu5fuCT6Fy2FvsxDDnAhbBWviGU%3D&ehkOptimized=9X2xRXfs7ikdyycw3BWTWxkSzhUn1WnIJo08wyQU6WY%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1671843600
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "The Shallow End #14 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507491/image-360cbe3e2392f5f301c3268984493949.jpg?ehk=pP1ub9DV%2FVDcJzFrJ5YKelmsLoSATmclYYOsqFFLfYo%3D&ehkOptimized=4lUQcTae3GA3kBxC9qHjbo5m8Er5lfgI5XvMEaSL3Qo%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1671846300
     },
     {
@@ -133,7 +133,7 @@
       "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/east-coast-bracket",
       "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
       "event_name": "East Coast Bracket",
-      "image": "https://images.start.gg/images/tournament/507586/image-1f9460b2a9d8a5d04c89b9e84d1ab688.png?ehk=QhMMwjjdJoxCeDNfdAbxdslZbtrEPZAMtiakLrTfLHg%3D&ehkOptimized=BgdF5lm2Jt%2Fr0UvZdE7lXIpqZ9IZpx0xJc76XI6GLxI%3D",
+      "image": "https://images.start.gg/images/tournament/507586/image-8a51a594973e70d4486e2d9736b55ea4.png?ehk=Sp5lzdtgTrNB0cJjXnAacToxQlSUPiMCop4CO3%2Fn06c%3D&ehkOptimized=2xDXE2C9VCzvgWBqGWajEyesI%2Baz7vgGr55HkOzvciA%3D",
       "entrants": 0,
       "start_time": 1672617600
     },
@@ -141,7 +141,7 @@
       "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/west-coast-bracket",
       "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
       "event_name": "West Coast Bracket",
-      "image": "https://images.start.gg/images/tournament/507586/image-1f9460b2a9d8a5d04c89b9e84d1ab688.png?ehk=QhMMwjjdJoxCeDNfdAbxdslZbtrEPZAMtiakLrTfLHg%3D&ehkOptimized=BgdF5lm2Jt%2Fr0UvZdE7lXIpqZ9IZpx0xJc76XI6GLxI%3D",
+      "image": "https://images.start.gg/images/tournament/507586/image-8a51a594973e70d4486e2d9736b55ea4.png?ehk=Sp5lzdtgTrNB0cJjXnAacToxQlSUPiMCop4CO3%2Fn06c%3D&ehkOptimized=2xDXE2C9VCzvgWBqGWajEyesI%2Baz7vgGr55HkOzvciA%3D",
       "entrants": 0,
       "start_time": 1672617600
     },
