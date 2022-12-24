@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671889871,
+  "fetched_at": 1671891166,
   "data": [
     {
       "slug": "tournament/ssbm-ru-monthly-december-2022/event/melee-singles",
       "tournament_name": "SSBM RU Monthly (December 2022)",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/486651/image-cc75cca6201c8312e5128d190c559146.png?ehk=D0i0v8hDngT1dG8nq4VjW0qwSTTSfTQwTr9RH7%2FZ%2Bi4%3D&ehkOptimized=gwnbs1G69jmr7BfGYKRV6VXllxGexWI%2BH4bxaJOieqM%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1671897600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "ASL’s Weekly Weekend Melee #20",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507354/image-c0ad785ebb4116c91a4671e3b3b68d98.png?ehk=fP7Seq3XeGOr1ukmtMJ2Whkcb75P30Y3d%2B5ywJCLm38%3D&ehkOptimized=I1FJ%2FXKIrSBeagPnHFvbcRtGoZ6vICOFXhi3ZvOVI28%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1671899400
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Waddle Wednesday 50",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507671/image-ca85e51ddf50979f73bd8ccb17087e8b.png?ehk=GZhPyNEvm%2FpzydKEajteDN7Ebfdx2PDXEW6qatN6zM0%3D&ehkOptimized=1%2FxP%2FlUJV9RavHkrOIVZpWEGOPzfQwa00iz1FgXwCHw%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1672275600
     },
     {
