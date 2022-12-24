@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671850280,
+  "fetched_at": 1671851793,
   "data": [
     {
       "slug": "tournament/east-coast-fridays-233/event/melee-singles",
@@ -160,6 +160,14 @@
       "image": "https://images.start.gg/images/tournament/494062/image-d49f5d852b020d5b51866dc344cb09d1.png?ehk=lmQcjP4hFmxZFVvZlbluJz3zJBPWCGDNxGRNOAmsiOk%3D&ehkOptimized=piYLetGX5IVNyK4fxCgbqyfRyJsHYb3vsfot6rxKAp8%3D",
       "entrants": 5,
       "start_time": 1673224200
+    },
+    {
+      "slug": "tournament/uva-melee-online-holiday-special/event/melee-singles",
+      "tournament_name": "UVA Melee Online - Holiday Special",
+      "event_name": "Melee Singles",
+      "image": "",
+      "entrants": 0,
+      "start_time": 1673222400
     },
     {
       "slug": "tournament/1000-conduit-gaming-annual-gold-invitational-2023/event/ssbm-randomizer-singles",
