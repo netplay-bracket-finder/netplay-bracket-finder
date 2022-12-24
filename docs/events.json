@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671852984,
+  "fetched_at": 1671853874,
   "data": [
     {
       "slug": "tournament/east-coast-fridays-233/event/melee-singles",
@@ -24,6 +24,14 @@
       "image": "https://images.start.gg/images/tournament/507354/image-c0ad785ebb4116c91a4671e3b3b68d98.png?ehk=fP7Seq3XeGOr1ukmtMJ2Whkcb75P30Y3d%2B5ywJCLm38%3D&ehkOptimized=I1FJ%2FXKIrSBeagPnHFvbcRtGoZ6vICOFXhi3ZvOVI28%3D",
       "entrants": 10,
       "start_time": 1671899400
+    },
+    {
+      "slug": "tournament/waddle-wednesday-50/event/melee-singles",
+      "tournament_name": "Waddle Wednesday 50",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/507671/image-ca85e51ddf50979f73bd8ccb17087e8b.png?ehk=GZhPyNEvm%2FpzydKEajteDN7Ebfdx2PDXEW6qatN6zM0%3D&ehkOptimized=1%2FxP%2FlUJV9RavHkrOIVZpWEGOPzfQwa00iz1FgXwCHw%3D",
+      "entrants": 0,
+      "start_time": 1672275600
     },
     {
       "slug": "tournament/troppo-italiano-christmas-edition/event/doubles",
