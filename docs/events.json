@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671844285,
+  "fetched_at": 1671847896,
   "data": [
     {
       "slug": "tournament/east-coast-fridays-233/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/507539/image-a22cca50894b59adcb4e8cde56d61af7.png?ehk=l3KOvcE449H%2F0bsxBu5fuCT6Fy2FvsxDDnAhbBWviGU%3D&ehkOptimized=9X2xRXfs7ikdyycw3BWTWxkSzhUn1WnIJo08wyQU6WY%3D",
       "entrants": 54,
       "start_time": 1671843600
-    },
-    {
-      "slug": "tournament/the-shallow-end-14-a-wc-newbie-bracket-1/event/melee-singles",
-      "tournament_name": "The Shallow End #14 - a WC newbie bracket",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/507491/image-360cbe3e2392f5f301c3268984493949.jpg?ehk=pP1ub9DV%2FVDcJzFrJ5YKelmsLoSATmclYYOsqFFLfYo%3D&ehkOptimized=4lUQcTae3GA3kBxC9qHjbo5m8Er5lfgI5XvMEaSL3Qo%3D",
-      "entrants": 14,
-      "start_time": 1671846300
     },
     {
       "slug": "tournament/ssbm-ru-monthly-december-2022/event/melee-singles",
@@ -110,7 +102,7 @@
       "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
       "event_name": "West Coast Bracket",
       "image": "https://images.start.gg/images/tournament/507586/image-8a51a594973e70d4486e2d9736b55ea4.png?ehk=Sp5lzdtgTrNB0cJjXnAacToxQlSUPiMCop4CO3%2Fn06c%3D&ehkOptimized=2xDXE2C9VCzvgWBqGWajEyesI%2Baz7vgGr55HkOzvciA%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1672617600
     },
     {
