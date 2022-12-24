@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671887893,
+  "fetched_at": 1671888982,
   "data": [
     {
       "slug": "tournament/ssbm-ru-monthly-december-2022/event/melee-singles",
@@ -16,6 +16,14 @@
       "image": "https://images.start.gg/images/tournament/507354/image-c0ad785ebb4116c91a4671e3b3b68d98.png?ehk=fP7Seq3XeGOr1ukmtMJ2Whkcb75P30Y3d%2B5ywJCLm38%3D&ehkOptimized=I1FJ%2FXKIrSBeagPnHFvbcRtGoZ6vICOFXhi3ZvOVI28%3D",
       "entrants": 10,
       "start_time": 1671899400
+    },
+    {
+      "slug": "tournament/sby-melee-netplay-143/event/melee-singles",
+      "tournament_name": "SBY Melee Netplay #143",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/507701/image-4c56a687dde89eee5b1203e7ed13813f.jpg?ehk=nVpOuPoIwEtmhWMojm7vzJ%2BizpTPzrIDfHSh2%2FRQPUE%3D&ehkOptimized=aqsNDldQ%2B4ES%2FeJ6MfQ2S0IgTzhy7R6t%2B4uzEM1UQ8Q%3D",
+      "entrants": 1,
+      "start_time": 1671921000
     },
     {
       "slug": "tournament/waddle-wednesday-50/event/melee-singles",
