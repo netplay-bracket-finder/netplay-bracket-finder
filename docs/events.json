@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671918676,
+  "fetched_at": 1671920045,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-20/event/melee-singles",
@@ -14,8 +14,24 @@
       "tournament_name": "SBY Melee Netplay #143",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507701/image-4c56a687dde89eee5b1203e7ed13813f.jpg?ehk=nVpOuPoIwEtmhWMojm7vzJ%2BizpTPzrIDfHSh2%2FRQPUE%3D&ehkOptimized=aqsNDldQ%2B4ES%2FeJ6MfQ2S0IgTzhy7R6t%2B4uzEM1UQ8Q%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1671921000
+    },
+    {
+      "slug": "tournament/fiu-online-ghost-of-jitmas-past/event/singles",
+      "tournament_name": "FIU Online: Ghost of Jitmas past",
+      "event_name": "Singles",
+      "image": "https://images.start.gg/images/tournament/507739/image-d8c57a561abc565cdd70033b97e4096b.jpg?ehk=BKOlykU%2BPlPuVgmkX8hxGp%2FvVUEvdqZ3eeSg%2F4gS9oI%3D&ehkOptimized=3boVnGaMnhfbvtIs5ojnhUdrhpAaCx42QXkY%2B7c7S4w%3D",
+      "entrants": 0,
+      "start_time": 1671931800
+    },
+    {
+      "slug": "tournament/fiu-online-ghost-of-jitmas-past/event/doubles",
+      "tournament_name": "FIU Online: Ghost of Jitmas past",
+      "event_name": "Doubles",
+      "image": "https://images.start.gg/images/tournament/507739/image-d8c57a561abc565cdd70033b97e4096b.jpg?ehk=BKOlykU%2BPlPuVgmkX8hxGp%2FvVUEvdqZ3eeSg%2F4gS9oI%3D&ehkOptimized=3boVnGaMnhfbvtIs5ojnhUdrhpAaCx42QXkY%2B7c7S4w%3D",
+      "entrants": 0,
+      "start_time": 1671933600
     },
     {
       "slug": "tournament/waddle-wednesday-50/event/melee-singles",
