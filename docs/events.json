@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1671954673,
+  "fetched_at": 1671956340,
   "data": [
-    {
-      "slug": "tournament/asl-s-weekly-weekend-melee-20/event/melee-singles",
-      "tournament_name": "ASL’s Weekly Weekend Melee #20",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/507354/image-c0ad785ebb4116c91a4671e3b3b68d98.png?ehk=fP7Seq3XeGOr1ukmtMJ2Whkcb75P30Y3d%2B5ywJCLm38%3D&ehkOptimized=I1FJ%2FXKIrSBeagPnHFvbcRtGoZ6vICOFXhi3ZvOVI28%3D",
-      "entrants": 12,
-      "start_time": 1671903000
-    },
     {
       "slug": "tournament/waddle-wednesday-50/event/melee-singles",
       "tournament_name": "Waddle Wednesday 50",
