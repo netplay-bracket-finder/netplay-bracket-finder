@@ -1,6 +1,14 @@
 {
-  "fetched_at": 1671990678,
+  "fetched_at": 1671992288,
   "data": [
+    {
+      "slug": "tournament/epic-wednesday-doubles-3/event/melee-doubles",
+      "tournament_name": "Epic Wednesday Doubles! #3",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/507802/image-c128dd6ad3ba02291512b4c05ef9fa4d.png?ehk=Bqu6uBjW%2FZqfoJGMhC1CeWFvd6b99%2BRkUfCnC7jn%2Fwg%3D&ehkOptimized=mBXZ0TvI78JeOf%2FiP9pmh%2FqKMaVcZUrXuSEiLW939PM%3D",
+      "entrants": 0,
+      "start_time": 1672254000
+    },
     {
       "slug": "tournament/waddle-wednesday-50/event/melee-singles",
       "tournament_name": "Waddle Wednesday 50",
@@ -54,7 +62,7 @@
       "tournament_name": "Only Noobs 99",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507521/image-57b367004f4f332397a5e8e3759cc8ca.jpg?ehk=1%2Fm8TaUTdhAx%2Fh6LL1M6SrB8GcSSrLkX9j2%2FdTPeO3g%3D&ehkOptimized=VRycxRbVr7WNcf0bzrFFtdfzFx%2FLl110VVt9hUmtflY%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1672358400
     },
     {
