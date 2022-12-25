@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1671977575,
+  "fetched_at": 1671978322,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-50/event/melee-singles",
@@ -72,6 +72,14 @@
       "image": "https://images.start.gg/images/tournament/477354/image-304bd30e39f2f6f297f66d51821108ec.png?ehk=YOe6%2FHZYfxYcJbiUV4zvCEZ778uV%2BBUnD0ndmoPisOE%3D&ehkOptimized=XMOxKpagtSj0Ott25aCM9w4U4XxnYjqPi%2BlyiWQzBuo%3D",
       "entrants": 0,
       "start_time": 1672513200
+    },
+    {
+      "slug": "tournament/super-scuffed-smash-saturday/event/melee-singles",
+      "tournament_name": "Super Scuffed Smash Saturday",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/507790/image-29042ef4eb9ce538b9a42c0c0d83854b.jpg?ehk=bJ%2F6ZE0cPVj%2FaTb3DJJrvXCQmNQYxBMtlzUMg4e8XUg%3D&ehkOptimized=oLT0F6CVtbOOj6hfgnoBCruFjhnVjKvlsHvyZWVO%2BAs%3D",
+      "entrants": 0,
+      "start_time": 1672520400
     },
     {
       "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/east-coast-bracket",
