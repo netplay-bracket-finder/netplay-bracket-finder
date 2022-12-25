@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1671999325,
+  "fetched_at": 1672000627,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-44/event/melee-singles",
       "tournament_name": "Monday Night Mixup #44",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507813/image-f99388823e525a5e08bb2d6dac5ccc61.png?ehk=OJjAYujkT6K8p%2B9p2PGC1brVIVSxvuLGVxUSFu26V%2Bs%3D&ehkOptimized=pgjvIA8bAW%2FXpSND8DlOa4aPxUfcj%2BfAa0T7hZCbRwA%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1672081200
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Waddle Wednesday 50",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507671/image-ca85e51ddf50979f73bd8ccb17087e8b.png?ehk=GZhPyNEvm%2FpzydKEajteDN7Ebfdx2PDXEW6qatN6zM0%3D&ehkOptimized=1%2FxP%2FlUJV9RavHkrOIVZpWEGOPzfQwa00iz1FgXwCHw%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1672275600
     },
     {
