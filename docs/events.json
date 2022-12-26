@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1672080693,
+  "fetched_at": 1672081912,
   "data": [
-    {
-      "slug": "tournament/monday-night-mixup-44/event/melee-singles",
-      "tournament_name": "Monday Night Mixup #44",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/507813/image-f99388823e525a5e08bb2d6dac5ccc61.png?ehk=OJjAYujkT6K8p%2B9p2PGC1brVIVSxvuLGVxUSFu26V%2Bs%3D&ehkOptimized=pgjvIA8bAW%2FXpSND8DlOa4aPxUfcj%2BfAa0T7hZCbRwA%3D",
-      "entrants": 12,
-      "start_time": 1672081200
-    },
     {
       "slug": "tournament/super-smash-bong-78/event/melee-singles",
       "tournament_name": "Super Smash Bong #78",
@@ -30,7 +22,7 @@
       "tournament_name": "Tuesday Night Fever #11",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507810/image-cb17b3c27cc0b0117b24c557df572e4e.png?ehk=EeIkkRr6BgFyx8kNoLX%2FuGQBW3FOiuzcDVmVY88BYbA%3D&ehkOptimized=iMoyVyUiwtTp%2Fh36xOiwD9lT%2FsUGjh%2BmFJLYO0xmg6o%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1672167600
     },
     {
