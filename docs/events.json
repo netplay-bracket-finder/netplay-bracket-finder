@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672095082,
+  "fetched_at": 1672096540,
   "data": [
     {
       "slug": "tournament/casino-royale-6-ssbm-online-weekly/event/casino",
@@ -14,7 +14,7 @@
       "tournament_name": "Tuesday Night Fever #11",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507810/image-cb17b3c27cc0b0117b24c557df572e4e.png?ehk=EeIkkRr6BgFyx8kNoLX%2FuGQBW3FOiuzcDVmVY88BYbA%3D&ehkOptimized=iMoyVyUiwtTp%2Fh36xOiwD9lT%2FsUGjh%2BmFJLYO0xmg6o%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1672167600
     },
     {
@@ -80,6 +80,30 @@
       "image": "https://images.start.gg/images/tournament/507521/image-57b367004f4f332397a5e8e3759cc8ca.jpg?ehk=1%2Fm8TaUTdhAx%2Fh6LL1M6SrB8GcSSrLkX9j2%2FdTPeO3g%3D&ehkOptimized=VRycxRbVr7WNcf0bzrFFtdfzFx%2FLl110VVt9hUmtflY%3D",
       "entrants": 9,
       "start_time": 1672358400
+    },
+    {
+      "slug": "tournament/redemption-rumble/event/main-event",
+      "tournament_name": "Redemption Rumble",
+      "event_name": "Main Event",
+      "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
+      "entrants": 16,
+      "start_time": 1672423200
+    },
+    {
+      "slug": "tournament/redemption-rumble/event/na-east-bracket-thursday-12-15",
+      "tournament_name": "Redemption Rumble",
+      "event_name": "NA East Bracket (THURSDAY 12/15)",
+      "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
+      "entrants": 136,
+      "start_time": 1671141600
+    },
+    {
+      "slug": "tournament/redemption-rumble/event/na-west-bracket-friday-12-16",
+      "tournament_name": "Redemption Rumble",
+      "event_name": "NA West Bracket (FRIDAY 12/16)",
+      "image": "https://images.start.gg/images/tournament/504096/image-e7abdbb35587ea7ea5286783d5b06180.png?ehk=4jNWYSDGWWHNig9c10nV9LIQN%2FMu%2FjCnt%2FGXniWG6AY%3D&ehkOptimized=RhWh%2FMSR2lhMS%2Bn72h6h4EVjhutH8AC2swoSqEoXlSk%3D",
+      "entrants": 70,
+      "start_time": 1671242400
     },
     {
       "slug": "tournament/falchion-fight-nights-xmas/event/melee-singles",
