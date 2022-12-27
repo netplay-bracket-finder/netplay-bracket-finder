@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672169775,
+  "fetched_at": 1672170680,
   "data": [
     {
       "slug": "tournament/5-tuesday-tournament/event/melee-singles",
       "tournament_name": "5$ Tuesday Tournament",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508150/image-18494cb773612d027f215bc05fb8cf9a.png?ehk=Hzm30HI3Fhxdt9RF4jRIzojvvfUIrk0sBPHAQrLN9Is%3D&ehkOptimized=G8SRoZmhcL5%2Bf10YXK8zOL9w9PnLeTJHCX6%2FjSX%2B2Do%3D",
-      "entrants": null,
+      "entrants": 0,
       "start_time": 1672196400
     },
     {
