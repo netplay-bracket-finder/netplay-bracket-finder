@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672098674,
+  "fetched_at": 1672103818,
   "data": [
     {
       "slug": "tournament/casino-royale-6-ssbm-online-weekly/event/casino",
       "tournament_name": "CASINO ROYALE 6 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/507814/image-c4b23d6bb4ef541febe36f3be32e3561.png?ehk=wr%2B1djqjcLMMnwWkVvfLdPxUNR3%2BvWZmuJv%2Fla2uqvw%3D&ehkOptimized=i0talb27OodOHRdb7XemxQG2C8un18PZfbluiuTjr5U%3D",
-      "entrants": 4,
+      "entrants": 7,
       "start_time": 1672108200
     },
     {
@@ -112,6 +112,14 @@
       "image": "https://images.start.gg/images/tournament/507868/image-9a6a9514cf63a449c94f971dfbf014a4.png?ehk=ef%2BpehCKXj%2FzlUbktrFn0sA3yDOdwj8L2lMMFQYGazQ%3D&ehkOptimized=s8Iw6WwxonHAzP2Q8fKY88dM7XNjl8ravjYxfg58Y4Y%3D",
       "entrants": null,
       "start_time": 1672431300
+    },
+    {
+      "slug": "tournament/melee-legends-7/event/melee-singles",
+      "tournament_name": "Melee Legends 7",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/507995/image-fcf2d5e46ba2f9ae64eee79cfd68c817.png?ehk=o%2FCR4c7klfjQEFpvek2ekSg6%2B7T2RVMsuHR4v10mQXc%3D&ehkOptimized=xAgZAgu%2FZMFlybBdUbRZCzvEBLiuR5bpwYuFmH%2BL7kQ%3D",
+      "entrants": 0,
+      "start_time": 1672448400
     },
     {
       "slug": "tournament/limesurge-s-new-year-beatdown/event/melee-singles-east-coast",
