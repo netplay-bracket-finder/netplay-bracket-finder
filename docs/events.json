@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672177005,
+  "fetched_at": 1672177874,
   "data": [
     {
       "slug": "tournament/5-tuesday-tournament/event/melee-singles",
       "tournament_name": "5$ Tuesday Tournament",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508150/image-18494cb773612d027f215bc05fb8cf9a.png?ehk=Hzm30HI3Fhxdt9RF4jRIzojvvfUIrk0sBPHAQrLN9Is%3D&ehkOptimized=G8SRoZmhcL5%2Bf10YXK8zOL9w9PnLeTJHCX6%2FjSX%2B2Do%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1672196400
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "Final Moon Melee",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508039/image-6683f536ec012d8b9acc662038421ef0.png?ehk=ZF0FUqpsiGWbYdMZ94MOKNLcOrg5P4x73OPwS%2BAjH%2FA%3D&ehkOptimized=Q2I%2Bog%2Bu5q22tj40ut%2BiATXIj6BhIFp64yFKEIbznco%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1672369200
     },
     {
