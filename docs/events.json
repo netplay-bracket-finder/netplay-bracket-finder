@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672182974,
+  "fetched_at": 1672184197,
   "data": [
     {
       "slug": "tournament/5-tuesday-tournament-7pm-pst/event/melee-singles",
       "tournament_name": "5$ Tuesday Tournament @7PM PST",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508150/image-03467672a61875139927d6527c063f45.png?ehk=C3vrMbsN0ZsJiNrxbxeSNgc1Cj6cLffSiELDzc2Zizg%3D&ehkOptimized=Slq8ddv4ZOze%2BjBv8RV4e0uWHY%2B7a5r3xevP%2BcEyZx0%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1672196400
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Carlton's Dank Online Melee Bash! #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506781/image-b673a5e6b9153f64cb7951fcd98b7757.jpg?ehk=EN2wnRbWzVWK7Sj%2F1hpQR0CsRRWJmJ%2B266b4N3uBg54%3D&ehkOptimized=lLNK7q5l6jAD5kONlj7Cln6umhpTLh4kCCXfDHwxFU0%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1672347600
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Only Noobs 99",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507521/image-57b367004f4f332397a5e8e3759cc8ca.jpg?ehk=1%2Fm8TaUTdhAx%2Fh6LL1M6SrB8GcSSrLkX9j2%2FdTPeO3g%3D&ehkOptimized=VRycxRbVr7WNcf0bzrFFtdfzFx%2FLl110VVt9hUmtflY%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1672358400
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "Final Moon Melee",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508039/image-6683f536ec012d8b9acc662038421ef0.png?ehk=ZF0FUqpsiGWbYdMZ94MOKNLcOrg5P4x73OPwS%2BAjH%2FA%3D&ehkOptimized=Q2I%2Bog%2Bu5q22tj40ut%2BiATXIj6BhIFp64yFKEIbznco%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1672369200
     },
     {
