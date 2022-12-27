@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672165136,
+  "fetched_at": 1672166330,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-11/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #11",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507810/image-cb17b3c27cc0b0117b24c557df572e4e.png?ehk=EeIkkRr6BgFyx8kNoLX%2FuGQBW3FOiuzcDVmVY88BYbA%3D&ehkOptimized=iMoyVyUiwtTp%2Fh36xOiwD9lT%2FsUGjh%2BmFJLYO0xmg6o%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1672167600
     },
     {
@@ -72,6 +72,14 @@
       "image": "https://images.start.gg/images/tournament/506781/image-b673a5e6b9153f64cb7951fcd98b7757.jpg?ehk=EN2wnRbWzVWK7Sj%2F1hpQR0CsRRWJmJ%2B266b4N3uBg54%3D&ehkOptimized=lLNK7q5l6jAD5kONlj7Cln6umhpTLh4kCCXfDHwxFU0%3D",
       "entrants": 17,
       "start_time": 1672347600
+    },
+    {
+      "slug": "tournament/wdumr-the-lobster-shortage/event/melee-singles",
+      "tournament_name": "WDUMR: The Lobster Shortage",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/508134/image-f2dac387ba3b274d031ade69963ebc82.png?ehk=IRGJ3xWzB4xiHWIwdd4Mj1f808KJTz8X%2BKCN0ISyp5w%3D&ehkOptimized=rIS6qm982%2BHT1%2BauLzbE3yR0ww9PEyApi7Ur%2BPiybp0%3D",
+      "entrants": 1,
+      "start_time": 1672358400
     },
     {
       "slug": "tournament/only-noobs-99/event/melee-singles",
