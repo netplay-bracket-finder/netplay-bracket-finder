@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672265690,
+  "fetched_at": 1672266525,
   "data": [
     {
       "slug": "tournament/femme-fatale-2/event/femme-fatale",
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 50",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507671/image-ca85e51ddf50979f73bd8ccb17087e8b.png?ehk=GZhPyNEvm%2FpzydKEajteDN7Ebfdx2PDXEW6qatN6zM0%3D&ehkOptimized=1%2FxP%2FlUJV9RavHkrOIVZpWEGOPzfQwa00iz1FgXwCHw%3D",
-      "entrants": 23,
+      "entrants": 25,
       "start_time": 1672275600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Silver Slippi League #37",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/508120/image-9ccb63b3490a2d7733ec0924055fab13.png?ehk=qjv0a7JcOoxMOlpcT5iIe4ftaLlh84zqBmJqPDJzaXo%3D&ehkOptimized=NAJH0V42tx6Kh%2F6GwtO7bVcgC82Fdc%2Bnq4dl4aqCB0w%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1672279200
     },
     {
@@ -150,7 +150,7 @@
       "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
       "event_name": "East Coast Bracket",
       "image": "https://images.start.gg/images/tournament/507586/image-8a51a594973e70d4486e2d9736b55ea4.png?ehk=Sp5lzdtgTrNB0cJjXnAacToxQlSUPiMCop4CO3%2Fn06c%3D&ehkOptimized=2xDXE2C9VCzvgWBqGWajEyesI%2Baz7vgGr55HkOzvciA%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1672617600
     },
     {
