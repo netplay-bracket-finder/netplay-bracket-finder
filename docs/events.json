@@ -1,12 +1,20 @@
 {
-  "fetched_at": 1672264288,
+  "fetched_at": 1672265690,
   "data": [
+    {
+      "slug": "tournament/femme-fatale-2/event/femme-fatale",
+      "tournament_name": "Femme Fatale #2",
+      "event_name": "Femme Fatale",
+      "image": "https://images.start.gg/images/tournament/508381/image-25831eb74862ee4b3f8942624a6eb795.png?ehk=QqpUfDw3v01um4bksoCD7FDSR%2BX7FJ4adJxiwE%2FRC2Y%3D&ehkOptimized=UpqUu8p8ZlUldWkmLno4lHY%2FENyy5%2B6MDkqPz9HhC1s%3D",
+      "entrants": 0,
+      "start_time": 1672264800
+    },
     {
       "slug": "tournament/waddle-wednesday-50/event/melee-singles",
       "tournament_name": "Waddle Wednesday 50",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507671/image-ca85e51ddf50979f73bd8ccb17087e8b.png?ehk=GZhPyNEvm%2FpzydKEajteDN7Ebfdx2PDXEW6qatN6zM0%3D&ehkOptimized=1%2FxP%2FlUJV9RavHkrOIVZpWEGOPzfQwa00iz1FgXwCHw%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1672275600
     },
     {
