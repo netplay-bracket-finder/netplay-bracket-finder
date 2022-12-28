@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672256175,
+  "fetched_at": 1672257079,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-50/event/melee-singles",
       "tournament_name": "Waddle Wednesday 50",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507671/image-ca85e51ddf50979f73bd8ccb17087e8b.png?ehk=GZhPyNEvm%2FpzydKEajteDN7Ebfdx2PDXEW6qatN6zM0%3D&ehkOptimized=1%2FxP%2FlUJV9RavHkrOIVZpWEGOPzfQwa00iz1FgXwCHw%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1672275600
     },
     {
@@ -96,6 +96,14 @@
       "image": "https://images.start.gg/images/tournament/507995/image-fcf2d5e46ba2f9ae64eee79cfd68c817.png?ehk=o%2FCR4c7klfjQEFpvek2ekSg6%2B7T2RVMsuHR4v10mQXc%3D&ehkOptimized=xAgZAgu%2FZMFlybBdUbRZCzvEBLiuR5bpwYuFmH%2BL7kQ%3D",
       "entrants": 3,
       "start_time": 1672448400
+    },
+    {
+      "slug": "tournament/east-coast-madness-1-50-pot-bonus-feat-reeve/event/east-coast-madness-1-50-pot-bonus-feat-reeve",
+      "tournament_name": "East Coast Madness #1($50 Pot Bonus) Feat. Reeve",
+      "event_name": "East Coast Madness #1($50 Pot Bonus) Feat. Reeve",
+      "image": "",
+      "entrants": 0,
+      "start_time": 1672449300
     },
     {
       "slug": "tournament/the-shallow-end-15-a-wc-newbie-bracket/event/melee-singles",
@@ -206,8 +214,8 @@
       "tournament_name": "UVA Melee Online - Holiday Special",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 0,
-      "start_time": 1673222400
+      "entrants": 1,
+      "start_time": 1673308800
     },
     {
       "slug": "tournament/1000-conduit-gaming-annual-gold-invitational-2023/event/ssbm-randomizer-singles",
