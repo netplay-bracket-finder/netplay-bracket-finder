@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672258564,
+  "fetched_at": 1672259804,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-50/event/melee-singles",
       "tournament_name": "Waddle Wednesday 50",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507671/image-ca85e51ddf50979f73bd8ccb17087e8b.png?ehk=GZhPyNEvm%2FpzydKEajteDN7Ebfdx2PDXEW6qatN6zM0%3D&ehkOptimized=1%2FxP%2FlUJV9RavHkrOIVZpWEGOPzfQwa00iz1FgXwCHw%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1672275600
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Only Noobs 99",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507521/image-57b367004f4f332397a5e8e3759cc8ca.jpg?ehk=1%2Fm8TaUTdhAx%2Fh6LL1M6SrB8GcSSrLkX9j2%2FdTPeO3g%3D&ehkOptimized=VRycxRbVr7WNcf0bzrFFtdfzFx%2FLl110VVt9hUmtflY%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1672358400
     },
     {
@@ -98,9 +98,9 @@
       "start_time": 1672448400
     },
     {
-      "slug": "tournament/east-coast-madness-1-50-pot-bonus-feat-reeve/event/east-coast-madness-1-50-pot-bonus-feat-reeve",
+      "slug": "tournament/east-coast-madness-1-50-pot-bonus-feat-reeve/event/east-coast-madness-1-50-pot-bonus",
       "tournament_name": "East Coast Madness #1($50 Pot Bonus) Feat. Reeve",
-      "event_name": "East Coast Madness #1($50 Pot Bonus) Feat. Reeve",
+      "event_name": "East Coast Madness #1 ($50 Pot Bonus)",
       "image": "https://images.start.gg/images/tournament/508357/image-d9c3dd3d24b5c4c60dadca3f4947db8c.jpg?ehk=xlOfuL3FMd5NkRU1yl9HUh4urMpWZuSyEG1FU6jt9og%3D&ehkOptimized=o8nmRJVTQ6dvsI%2FThlWlts1B5n0G2WSOppthTZiNCtQ%3D",
       "entrants": 2,
       "start_time": 1672449300
