@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672249881,
+  "fetched_at": 1672251538,
   "data": [
     {
       "slug": "tournament/epic-wednesday-doubles-3/event/melee-doubles",
       "tournament_name": "Epic Wednesday Doubles! #3",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/507802/image-c128dd6ad3ba02291512b4c05ef9fa4d.png?ehk=Bqu6uBjW%2FZqfoJGMhC1CeWFvd6b99%2BRkUfCnC7jn%2Fwg%3D&ehkOptimized=mBXZ0TvI78JeOf%2FiP9pmh%2FqKMaVcZUrXuSEiLW939PM%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1672254000
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #45 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507434/image-f4390475d42c92934df4d707e96563f5.png?ehk=mkrpoi%2BxMz8mbTCJLfgBSElvxOF3SRO2z2jaXHgNP%2F8%3D&ehkOptimized=TVdnPiuSRyPdOdTMV23o%2Be01ElP%2BFMvfUU5puZowwIc%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1672336800
     },
     {
@@ -104,6 +104,14 @@
       "image": "https://images.start.gg/images/tournament/507995/image-fcf2d5e46ba2f9ae64eee79cfd68c817.png?ehk=o%2FCR4c7klfjQEFpvek2ekSg6%2B7T2RVMsuHR4v10mQXc%3D&ehkOptimized=xAgZAgu%2FZMFlybBdUbRZCzvEBLiuR5bpwYuFmH%2BL7kQ%3D",
       "entrants": 3,
       "start_time": 1672448400
+    },
+    {
+      "slug": "tournament/the-shallow-end-15-a-wc-newbie-bracket/event/melee-singles",
+      "tournament_name": "The Shallow End #15 - a WC newbie bracket",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/507836/image-818362aebe08a3704dd873e110291ee4.jpg?ehk=NpH4GSDpfQ4vLWY7LB5xxg6uLkxe9YSiMTSDboR74Vw%3D&ehkOptimized=VfgpPJkxOJ8RiOfsgnaOQTcRFLUyuDEociVcfTwfGcI%3D",
+      "entrants": 0,
+      "start_time": 1672451100
     },
     {
       "slug": "tournament/limesurge-s-new-year-beatdown/event/melee-singles-east-coast",
