@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672270615,
+  "fetched_at": 1672271487,
   "data": [
     {
       "slug": "tournament/femme-fatale-2/event/femme-fatale",
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 50",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507671/image-ca85e51ddf50979f73bd8ccb17087e8b.png?ehk=GZhPyNEvm%2FpzydKEajteDN7Ebfdx2PDXEW6qatN6zM0%3D&ehkOptimized=1%2FxP%2FlUJV9RavHkrOIVZpWEGOPzfQwa00iz1FgXwCHw%3D",
-      "entrants": 37,
+      "entrants": 42,
       "start_time": 1672275600
     },
     {
@@ -106,8 +106,8 @@
       "start_time": 1672448400
     },
     {
-      "slug": "tournament/east-coast-madness-1-50-pot-bonus-feat-reeve/event/east-coast-madness-1",
-      "tournament_name": "East Coast Madness #1 ($50 Pot Bonus) Feat. Reeve",
+      "slug": "tournament/east-coast-madness-1-50-pot-bonus-feat-mekk-reeve/event/east-coast-madness-1",
+      "tournament_name": "East Coast Madness #1 ($50 Pot Bonus) Feat. Mekk & Reeve",
       "event_name": "East Coast Madness #1",
       "image": "https://images.start.gg/images/tournament/508357/image-00a229835ecdb00e11545adfc895c300.png?ehk=j5OLvvBbxUd152T3jXVYfN3ormIuIS5Cktd9cvOjiMQ%3D&ehkOptimized=P5Vf0W4yaaEVH9vIZtYZiLLnuOP6jDwl5y5DkScxAg4%3D",
       "entrants": 3,
@@ -118,7 +118,7 @@
       "tournament_name": "The Shallow End #15 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507836/image-818362aebe08a3704dd873e110291ee4.jpg?ehk=NpH4GSDpfQ4vLWY7LB5xxg6uLkxe9YSiMTSDboR74Vw%3D&ehkOptimized=VfgpPJkxOJ8RiOfsgnaOQTcRFLUyuDEociVcfTwfGcI%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1672451100
     },
     {
