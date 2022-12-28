@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672267886,
+  "fetched_at": 1672269331,
   "data": [
     {
       "slug": "tournament/femme-fatale-2/event/femme-fatale",
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 50",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507671/image-ca85e51ddf50979f73bd8ccb17087e8b.png?ehk=GZhPyNEvm%2FpzydKEajteDN7Ebfdx2PDXEW6qatN6zM0%3D&ehkOptimized=1%2FxP%2FlUJV9RavHkrOIVZpWEGOPzfQwa00iz1FgXwCHw%3D",
-      "entrants": 26,
+      "entrants": 32,
       "start_time": 1672275600
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Only Noobs 99",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507521/image-57b367004f4f332397a5e8e3759cc8ca.jpg?ehk=1%2Fm8TaUTdhAx%2Fh6LL1M6SrB8GcSSrLkX9j2%2FdTPeO3g%3D&ehkOptimized=VRycxRbVr7WNcf0bzrFFtdfzFx%2FLl110VVt9hUmtflY%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1672358400
     },
     {
@@ -222,7 +222,7 @@
       "tournament_name": "UVA Melee Online - Holiday Special",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1673308800
     },
     {
