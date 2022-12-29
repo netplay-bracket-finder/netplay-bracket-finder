@@ -1,28 +1,12 @@
 {
-  "fetched_at": 1672271487,
+  "fetched_at": 1672276748,
   "data": [
-    {
-      "slug": "tournament/femme-fatale-2/event/femme-fatale",
-      "tournament_name": "Femme Fatale #2",
-      "event_name": "Femme Fatale",
-      "image": "https://images.start.gg/images/tournament/508381/image-25831eb74862ee4b3f8942624a6eb795.png?ehk=QqpUfDw3v01um4bksoCD7FDSR%2BX7FJ4adJxiwE%2FRC2Y%3D&ehkOptimized=UpqUu8p8ZlUldWkmLno4lHY%2FENyy5%2B6MDkqPz9HhC1s%3D",
-      "entrants": 0,
-      "start_time": 1672264800
-    },
-    {
-      "slug": "tournament/waddle-wednesday-50/event/melee-singles",
-      "tournament_name": "Waddle Wednesday 50",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/507671/image-ca85e51ddf50979f73bd8ccb17087e8b.png?ehk=GZhPyNEvm%2FpzydKEajteDN7Ebfdx2PDXEW6qatN6zM0%3D&ehkOptimized=1%2FxP%2FlUJV9RavHkrOIVZpWEGOPzfQwa00iz1FgXwCHw%3D",
-      "entrants": 42,
-      "start_time": 1672275600
-    },
     {
       "slug": "tournament/silver-slippi-league-37/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #37",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/508120/image-9ccb63b3490a2d7733ec0924055fab13.png?ehk=qjv0a7JcOoxMOlpcT5iIe4ftaLlh84zqBmJqPDJzaXo%3D&ehkOptimized=NAJH0V42tx6Kh%2F6GwtO7bVcgC82Fdc%2Bnq4dl4aqCB0w%3D",
-      "entrants": 3,
+      "entrants": 6,
       "start_time": 1672279200
     },
     {
@@ -46,7 +30,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #45 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507434/image-f4390475d42c92934df4d707e96563f5.png?ehk=mkrpoi%2BxMz8mbTCJLfgBSElvxOF3SRO2z2jaXHgNP%2F8%3D&ehkOptimized=TVdnPiuSRyPdOdTMV23o%2Be01ElP%2BFMvfUU5puZowwIc%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1672336800
     },
     {
@@ -78,7 +62,7 @@
       "tournament_name": "Only Noobs 99",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507521/image-57b367004f4f332397a5e8e3759cc8ca.jpg?ehk=1%2Fm8TaUTdhAx%2Fh6LL1M6SrB8GcSSrLkX9j2%2FdTPeO3g%3D&ehkOptimized=VRycxRbVr7WNcf0bzrFFtdfzFx%2FLl110VVt9hUmtflY%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1672358400
     },
     {
