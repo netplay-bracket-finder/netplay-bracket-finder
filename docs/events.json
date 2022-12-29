@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672314693,
+  "fetched_at": 1672316959,
   "data": [
     {
       "slug": "tournament/troppo-italiano-christmas-edition/event/doubles",
@@ -22,7 +22,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #45 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507434/image-f4390475d42c92934df4d707e96563f5.png?ehk=mkrpoi%2BxMz8mbTCJLfgBSElvxOF3SRO2z2jaXHgNP%2F8%3D&ehkOptimized=TVdnPiuSRyPdOdTMV23o%2Be01ElP%2BFMvfUU5puZowwIc%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1672336800
     },
     {
@@ -120,6 +120,14 @@
       "image": "https://images.start.gg/images/tournament/507790/image-beba166888ba54583192caefb25765f5.jpg?ehk=%2FAtuJACnIss9wrDJkeO9XKTZxZz5x3YnB3%2FVo%2BuLErA%3D&ehkOptimized=G1OWGpFGvvMnr9fN42ck4z7xSZqxBDu%2FCeGKRVYD28s%3D",
       "entrants": 3,
       "start_time": 1672520400
+    },
+    {
+      "slug": "tournament/fight-of-the-fearless-33/event/fight-of-the-fearless-single",
+      "tournament_name": "Fight of the Fearless 33",
+      "event_name": "Fight Of The Fearless single",
+      "image": "https://images.start.gg/images/tournament/508497/image-dfe836e3a4883c5095202be14a9dc5c4.png?ehk=H98P6y2A%2FsJkezksjgE0FDjipnmjpaC2d1J74tS6q00%3D&ehkOptimized=uXGAmw4dzAtf8QoM0syaPhp2SztMqQsT%2FwWvNdNhOX0%3D",
+      "entrants": 0,
+      "start_time": 1672596000
     },
     {
       "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/east-coast-bracket",
