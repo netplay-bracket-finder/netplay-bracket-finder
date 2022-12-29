@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672343484,
+  "fetched_at": 1672344997,
   "data": [
     {
       "slug": "tournament/carlton-s-dank-online-melee-bash-1/event/melee-singles",
       "tournament_name": "Carlton's Dank Online Melee Bash! #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506781/image-b673a5e6b9153f64cb7951fcd98b7757.jpg?ehk=EN2wnRbWzVWK7Sj%2F1hpQR0CsRRWJmJ%2B266b4N3uBg54%3D&ehkOptimized=lLNK7q5l6jAD5kONlj7Cln6umhpTLh4kCCXfDHwxFU0%3D",
-      "entrants": 25,
+      "entrants": 26,
       "start_time": 1672347600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Only Noobs 99",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507521/image-57b367004f4f332397a5e8e3759cc8ca.jpg?ehk=1%2Fm8TaUTdhAx%2Fh6LL1M6SrB8GcSSrLkX9j2%2FdTPeO3g%3D&ehkOptimized=VRycxRbVr7WNcf0bzrFFtdfzFx%2FLl110VVt9hUmtflY%3D",
-      "entrants": 54,
+      "entrants": 57,
       "start_time": 1672358400
     },
     {
@@ -152,6 +152,22 @@
       "image": "https://images.start.gg/images/tournament/505057/image-34001fe9b04a877556d8a70d1abae52b.png?ehk=iDC9R4tRKWXTK7Dal%2Bhuz4PnD4aUY0DNIFYbo6TB4TQ%3D&ehkOptimized=a63G3C1Y8ZiE4klU8O4WbuoicgYyVQfFMmZC3okswoc%3D",
       "entrants": 16,
       "start_time": 1672791000
+    },
+    {
+      "slug": "tournament/toblerone-tangerine-thursdays-46-eu-event/event/melee-singles",
+      "tournament_name": "Toblerone Tangerine Thursdays #46 (EU Event)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/508564/image-6237187490226d4205691ba9a98747d9.png?ehk=uWtUHhjQD4s40paPeBNxLSuxFe4%2Fo2dNW8JKC8Nr7mI%3D&ehkOptimized=cMw5B5UrXi9GM4haePcEU4Lv7c4e4MT93a3pZJYm8Ow%3D",
+      "entrants": 0,
+      "start_time": 1672941600
+    },
+    {
+      "slug": "tournament/toblerone-tangerine-thursdays-46-eu-event/event/toblerone-waitlist",
+      "tournament_name": "Toblerone Tangerine Thursdays #46 (EU Event)",
+      "event_name": "Toblerone waitlist",
+      "image": "https://images.start.gg/images/tournament/508564/image-6237187490226d4205691ba9a98747d9.png?ehk=uWtUHhjQD4s40paPeBNxLSuxFe4%2Fo2dNW8JKC8Nr7mI%3D&ehkOptimized=cMw5B5UrXi9GM4haePcEU4Lv7c4e4MT93a3pZJYm8Ow%3D",
+      "entrants": 0,
+      "start_time": 1672941600
     },
     {
       "slug": "tournament/only-noobs-100/event/melee-singles",
