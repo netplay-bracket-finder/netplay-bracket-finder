@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1672293077,
+  "fetched_at": 1672294788,
   "data": [
-    {
-      "slug": "tournament/silver-slippi-league-37/event/melee-ranked-ladder",
-      "tournament_name": "Silver Slippi League #37",
-      "event_name": "Melee Ranked Ladder",
-      "image": "https://images.start.gg/images/tournament/508120/image-9ccb63b3490a2d7733ec0924055fab13.png?ehk=qjv0a7JcOoxMOlpcT5iIe4ftaLlh84zqBmJqPDJzaXo%3D&ehkOptimized=NAJH0V42tx6Kh%2F6GwtO7bVcgC82Fdc%2Bnq4dl4aqCB0w%3D",
-      "entrants": 17,
-      "start_time": 1672279200
-    },
     {
       "slug": "tournament/troppo-italiano-christmas-edition/event/doubles",
       "tournament_name": "Troppo Italiano Christmas Edition",
@@ -46,7 +38,7 @@
       "tournament_name": "Carlton's Dank Online Melee Bash! #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506781/image-b673a5e6b9153f64cb7951fcd98b7757.jpg?ehk=EN2wnRbWzVWK7Sj%2F1hpQR0CsRRWJmJ%2B266b4N3uBg54%3D&ehkOptimized=lLNK7q5l6jAD5kONlj7Cln6umhpTLh4kCCXfDHwxFU0%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1672347600
     },
     {
