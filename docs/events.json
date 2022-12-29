@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672276748,
+  "fetched_at": 1672280850,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-37/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #37",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/508120/image-9ccb63b3490a2d7733ec0924055fab13.png?ehk=qjv0a7JcOoxMOlpcT5iIe4ftaLlh84zqBmJqPDJzaXo%3D&ehkOptimized=NAJH0V42tx6Kh%2F6GwtO7bVcgC82Fdc%2Bnq4dl4aqCB0w%3D",
-      "entrants": 6,
+      "entrants": 15,
       "start_time": 1672279200
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Only Noobs 99",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507521/image-57b367004f4f332397a5e8e3759cc8ca.jpg?ehk=1%2Fm8TaUTdhAx%2Fh6LL1M6SrB8GcSSrLkX9j2%2FdTPeO3g%3D&ehkOptimized=VRycxRbVr7WNcf0bzrFFtdfzFx%2FLl110VVt9hUmtflY%3D",
-      "entrants": 22,
+      "entrants": 24,
       "start_time": 1672358400
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Final Moon Melee",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508039/image-6683f536ec012d8b9acc662038421ef0.png?ehk=ZF0FUqpsiGWbYdMZ94MOKNLcOrg5P4x73OPwS%2BAjH%2FA%3D&ehkOptimized=Q2I%2Bog%2Bu5q22tj40ut%2BiATXIj6BhIFp64yFKEIbznco%3D",
-      "entrants": 8,
+      "entrants": 7,
       "start_time": 1672369200
     },
     {
@@ -152,6 +152,14 @@
       "image": "https://images.start.gg/images/tournament/506908/image-5ec61820c3608cea522a8648a2d17e0b.jpg?ehk=Nll0910Kr08mGRZnhvc7%2BA115dClbUm%2Fb8rHam0rZ3s%3D&ehkOptimized=%2BkhsQAc7nZRNIE6WFD5oWLD9ICBpex8SpshoaCCgolM%3D",
       "entrants": 4,
       "start_time": 1672700400
+    },
+    {
+      "slug": "tournament/the-gamer-series-1/event/melee-singles",
+      "tournament_name": "The Gamer Series #1",
+      "event_name": "Melee Singles",
+      "image": "",
+      "entrants": 0,
+      "start_time": 1672786800
     },
     {
       "slug": "tournament/the-distribution-2/event/the-waitlist",
