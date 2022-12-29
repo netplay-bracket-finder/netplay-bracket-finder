@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672344997,
+  "fetched_at": 1672346222,
   "data": [
     {
       "slug": "tournament/carlton-s-dank-online-melee-bash-1/event/melee-singles",
       "tournament_name": "Carlton's Dank Online Melee Bash! #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/506781/image-b673a5e6b9153f64cb7951fcd98b7757.jpg?ehk=EN2wnRbWzVWK7Sj%2F1hpQR0CsRRWJmJ%2B266b4N3uBg54%3D&ehkOptimized=lLNK7q5l6jAD5kONlj7Cln6umhpTLh4kCCXfDHwxFU0%3D",
-      "entrants": 26,
+      "entrants": 28,
       "start_time": 1672347600
     },
     {
@@ -22,8 +22,16 @@
       "tournament_name": "Only Noobs 99",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507521/image-57b367004f4f332397a5e8e3759cc8ca.jpg?ehk=1%2Fm8TaUTdhAx%2Fh6LL1M6SrB8GcSSrLkX9j2%2FdTPeO3g%3D&ehkOptimized=VRycxRbVr7WNcf0bzrFFtdfzFx%2FLl110VVt9hUmtflY%3D",
-      "entrants": 57,
+      "entrants": 58,
       "start_time": 1672358400
+    },
+    {
+      "slug": "tournament/umass-off-season-slippi-series-2/event/melee-singles",
+      "tournament_name": "UMass Off-Season Slippi Series 2",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/508577/image-ad39aa039f85ef501239111803657e83.png?ehk=SAsFBkZ14RgOn3hVkDC0hj38w75iW6jx9EXsnZs%2BYmU%3D&ehkOptimized=RpzgMXeRKEH7dP7wCaSXkWwHSghzazU7sv63T6j7TEQ%3D",
+      "entrants": 0,
+      "start_time": 1672362000
     },
     {
       "slug": "tournament/thursday-thmackdown-14-1/event/melee-singles",
