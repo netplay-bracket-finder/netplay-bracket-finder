@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1672321885,
+  "fetched_at": 1672323236,
   "data": [
-    {
-      "slug": "tournament/troppo-italiano-christmas-edition/event/doubles",
-      "tournament_name": "Troppo Italiano Christmas Edition",
-      "event_name": "Doubles",
-      "image": "https://images.start.gg/images/tournament/503138/image-6341781be6a3331a712dc78bdaf533c3.png?ehk=Q03UPRpzgCwGBttCygZ3VR%2FNbRruIFF%2Fp7ehiUt%2Fj5w%3D&ehkOptimized=BgPaePFMx%2FbgzNwE6czeOED909Z0eszyf%2BvSotSmDN4%3D",
-      "entrants": 6,
-      "start_time": 1672322400
-    },
-    {
-      "slug": "tournament/troppo-italiano-christmas-edition/event/pandoro-vs-panettone-crew-battle",
-      "tournament_name": "Troppo Italiano Christmas Edition",
-      "event_name": "Pandoro vs Panettone Crew Battle",
-      "image": "https://images.start.gg/images/tournament/503138/image-6341781be6a3331a712dc78bdaf533c3.png?ehk=Q03UPRpzgCwGBttCygZ3VR%2FNbRruIFF%2Fp7ehiUt%2Fj5w%3D&ehkOptimized=BgPaePFMx%2FbgzNwE6czeOED909Z0eszyf%2BvSotSmDN4%3D",
-      "entrants": 0,
-      "start_time": 1672408800
-    },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-45-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #45 (EU Event)",
