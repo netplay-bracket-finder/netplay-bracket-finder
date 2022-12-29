@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672352926,
+  "fetched_at": 1672353593,
   "data": [
     {
       "slug": "tournament/wdumr-the-lobster-shortage/event/melee-singles",
       "tournament_name": "WDUMR: The Lobster Shortage",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508134/image-f2dac387ba3b274d031ade69963ebc82.png?ehk=IRGJ3xWzB4xiHWIwdd4Mj1f808KJTz8X%2BKCN0ISyp5w%3D&ehkOptimized=rIS6qm982%2BHT1%2BauLzbE3yR0ww9PEyApi7Ur%2BPiybp0%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1672358400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 99",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507521/image-57b367004f4f332397a5e8e3759cc8ca.jpg?ehk=1%2Fm8TaUTdhAx%2Fh6LL1M6SrB8GcSSrLkX9j2%2FdTPeO3g%3D&ehkOptimized=VRycxRbVr7WNcf0bzrFFtdfzFx%2FLl110VVt9hUmtflY%3D",
-      "entrants": 80,
+      "entrants": 83,
       "start_time": 1672358400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "UMass Off-Season Slippi Series 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508577/image-ad39aa039f85ef501239111803657e83.png?ehk=SAsFBkZ14RgOn3hVkDC0hj38w75iW6jx9EXsnZs%2BYmU%3D&ehkOptimized=RpzgMXeRKEH7dP7wCaSXkWwHSghzazU7sv63T6j7TEQ%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1672362000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Final Moon Melee",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508039/image-6683f536ec012d8b9acc662038421ef0.png?ehk=ZF0FUqpsiGWbYdMZ94MOKNLcOrg5P4x73OPwS%2BAjH%2FA%3D&ehkOptimized=Q2I%2Bog%2Bu5q22tj40ut%2BiATXIj6BhIFp64yFKEIbznco%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1672369200
     },
     {
