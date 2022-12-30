@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672426290,
+  "fetched_at": 1672427513,
   "data": [
     {
       "slug": "tournament/ssbmr-eu-seed-of-the-week-3/event/ssbmr-eu-singles",
@@ -46,7 +46,7 @@
       "tournament_name": "East Coast Madness #1 ($50 Pot Bonus) Feat. Mekk & Reeve",
       "event_name": "East Coast Madness #1",
       "image": "https://images.start.gg/images/tournament/508357/image-00a229835ecdb00e11545adfc895c300.png?ehk=j5OLvvBbxUd152T3jXVYfN3ormIuIS5Cktd9cvOjiMQ%3D&ehkOptimized=P5Vf0W4yaaEVH9vIZtYZiLLnuOP6jDwl5y5DkScxAg4%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1672449300
     },
     {
@@ -136,6 +136,14 @@
       "image": "https://images.start.gg/images/tournament/505057/image-34001fe9b04a877556d8a70d1abae52b.png?ehk=iDC9R4tRKWXTK7Dal%2Bhuz4PnD4aUY0DNIFYbo6TB4TQ%3D&ehkOptimized=a63G3C1Y8ZiE4klU8O4WbuoicgYyVQfFMmZC3okswoc%3D",
       "entrants": 17,
       "start_time": 1672791000
+    },
+    {
+      "slug": "tournament/waddle-wednesday-51/event/melee-singles",
+      "tournament_name": "Waddle Wednesday 51",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/508744/image-bd247c67132032c26c67d154a027e6a0.png?ehk=rpwofVFlAaC8%2FbPIrefulwCMzZ5V41aHeMKgBLulKvw%3D&ehkOptimized=SPqYz2F4QrWvPz2Lovg91kVfoIlemVzdG4YaUr4jk7U%3D",
+      "entrants": 0,
+      "start_time": 1672880400
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-46-eu-event/event/melee-singles",
