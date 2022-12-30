@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672357880,
+  "fetched_at": 1672363126,
   "data": [
     {
       "slug": "tournament/wdumr-the-lobster-shortage/event/melee-singles",
@@ -10,19 +10,11 @@
       "start_time": 1672358400
     },
     {
-      "slug": "tournament/umass-off-season-slippi-series-2/event/melee-singles",
-      "tournament_name": "UMass Off-Season Slippi Series 2",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/508577/image-ad39aa039f85ef501239111803657e83.png?ehk=SAsFBkZ14RgOn3hVkDC0hj38w75iW6jx9EXsnZs%2BYmU%3D&ehkOptimized=RpzgMXeRKEH7dP7wCaSXkWwHSghzazU7sv63T6j7TEQ%3D",
-      "entrants": 3,
-      "start_time": 1672362000
-    },
-    {
       "slug": "tournament/thursday-thmackdown-14-1/event/melee-singles",
       "tournament_name": "Thursday Thmackdown #14",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508531/image-05f1c593db2abb67916363a3fa749ec3.png?ehk=llYl1OeMGUpsBlP5gCcQJck6MTqjW0oSvHyreMdVyA0%3D&ehkOptimized=Fh4lGGiS%2BnLcGJNRb6QTr3SnkLVIBx%2FgsC4J1gTrqY0%3D",
-      "entrants": 2,
+      "entrants": 9,
       "start_time": 1672365600
     },
     {
@@ -30,7 +22,7 @@
       "tournament_name": "Final Moon Melee",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508039/image-6683f536ec012d8b9acc662038421ef0.png?ehk=ZF0FUqpsiGWbYdMZ94MOKNLcOrg5P4x73OPwS%2BAjH%2FA%3D&ehkOptimized=Q2I%2Bog%2Bu5q22tj40ut%2BiATXIj6BhIFp64yFKEIbznco%3D",
-      "entrants": 20,
+      "entrants": 28,
       "start_time": 1672369200
     },
     {
@@ -58,11 +50,19 @@
       "start_time": 1672448400
     },
     {
+      "slug": "tournament/east-coast-fridays-234/event/melee-singles",
+      "tournament_name": "East Coast Fridays #234",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/508618/image-613c1d6bcf7e0907e0bccb9d4fa71c87.png?ehk=Hkc4MXumuDmKO9%2BewjA1lbEbSBzSAp5Rpp8%2FwlmfgcI%3D&ehkOptimized=oxyJtzmzyqY6370hS24v9eIxwpdkPlr8a%2Bdv896gzPs%3D",
+      "entrants": 0,
+      "start_time": 1672448400
+    },
+    {
       "slug": "tournament/east-coast-madness-1-50-pot-bonus-feat-mekk-reeve/event/east-coast-madness-1",
       "tournament_name": "East Coast Madness #1 ($50 Pot Bonus) Feat. Mekk & Reeve",
       "event_name": "East Coast Madness #1",
       "image": "https://images.start.gg/images/tournament/508357/image-00a229835ecdb00e11545adfc895c300.png?ehk=j5OLvvBbxUd152T3jXVYfN3ormIuIS5Cktd9cvOjiMQ%3D&ehkOptimized=P5Vf0W4yaaEVH9vIZtYZiLLnuOP6jDwl5y5DkScxAg4%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1672449300
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "The Shallow End #15 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507836/image-818362aebe08a3704dd873e110291ee4.jpg?ehk=NpH4GSDpfQ4vLWY7LB5xxg6uLkxe9YSiMTSDboR74Vw%3D&ehkOptimized=VfgpPJkxOJ8RiOfsgnaOQTcRFLUyuDEociVcfTwfGcI%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1672451100
     },
     {
