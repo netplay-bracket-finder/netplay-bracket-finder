@@ -1,6 +1,14 @@
 {
-  "fetched_at": 1672411895,
+  "fetched_at": 1672413337,
   "data": [
+    {
+      "slug": "tournament/ssbmr-eu-seed-of-the-week-3/event/ssbmr-eu-singles",
+      "tournament_name": "SSBMr - EU Seed of the Week #3",
+      "event_name": "SSBMr EU Singles",
+      "image": "https://images.start.gg/images/tournament/508710/image-adc05395e452c0cd6391f9a3c360cdc9.png?ehk=s9mn9PzNXA1BD9aXEL02SI7d3gRN7PS1%2F1h7N6850t0%3D&ehkOptimized=FUBEhRkZeIU1UH7%2BKC7k5hMCxItCN46IpeWg%2FhQyreE%3D",
+      "entrants": 0,
+      "start_time": 1672428600
+    },
     {
       "slug": "tournament/falchion-fight-nights-xmas/event/melee-singles",
       "tournament_name": "Falchion Fight Nights XMAS",
