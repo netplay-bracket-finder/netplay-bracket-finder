@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672382403,
+  "fetched_at": 1672383084,
   "data": [
     {
       "slug": "tournament/wdumr-the-lobster-shortage/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/508134/image-f2dac387ba3b274d031ade69963ebc82.png?ehk=IRGJ3xWzB4xiHWIwdd4Mj1f808KJTz8X%2BKCN0ISyp5w%3D&ehkOptimized=rIS6qm982%2BHT1%2BauLzbE3yR0ww9PEyApi7Ur%2BPiybp0%3D",
       "entrants": 7,
       "start_time": 1672358400
-    },
-    {
-      "slug": "tournament/bb-end-of-2022/event/melee-singles",
-      "tournament_name": "BB: End of 2022",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/508646/image-2520e256628b71182ee3115617d0cb57.png?ehk=mc9KpaRl44SRK2%2F5LOadVworZ0gNXpAeyy%2FHVHXSdWE%3D&ehkOptimized=tIs2WzoazxasF7eKXeMNFwyHm%2Fc%2BimGkITFPAcpbrZM%3D",
-      "entrants": 30,
-      "start_time": 1672383600
     },
     {
       "slug": "tournament/falchion-fight-nights-xmas/event/melee-singles",
