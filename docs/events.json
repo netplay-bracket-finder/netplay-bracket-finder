@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1672440676,
+  "fetched_at": 1672442105,
   "data": [
-    {
-      "slug": "tournament/falchion-fight-nights-xmas/event/melee-singles",
-      "tournament_name": "Falchion Fight Nights XMAS",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/507868/image-9a6a9514cf63a449c94f971dfbf014a4.png?ehk=ef%2BpehCKXj%2FzlUbktrFn0sA3yDOdwj8L2lMMFQYGazQ%3D&ehkOptimized=s8Iw6WwxonHAzP2Q8fKY88dM7XNjl8ravjYxfg58Y4Y%3D",
-      "entrants": 9,
-      "start_time": 1672431300
-    },
     {
       "slug": "tournament/the-dojo-36-1/event/melee-singles",
       "tournament_name": "The Dojo #36",
@@ -30,7 +22,7 @@
       "tournament_name": "East Coast Fridays #234",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508618/image-613c1d6bcf7e0907e0bccb9d4fa71c87.png?ehk=Hkc4MXumuDmKO9%2BewjA1lbEbSBzSAp5Rpp8%2FwlmfgcI%3D&ehkOptimized=oxyJtzmzyqY6370hS24v9eIxwpdkPlr8a%2Bdv896gzPs%3D",
-      "entrants": 12,
+      "entrants": 14,
       "start_time": 1672448400
     },
     {
@@ -48,22 +40,6 @@
       "image": "https://images.start.gg/images/tournament/507836/image-818362aebe08a3704dd873e110291ee4.jpg?ehk=NpH4GSDpfQ4vLWY7LB5xxg6uLkxe9YSiMTSDboR74Vw%3D&ehkOptimized=VfgpPJkxOJ8RiOfsgnaOQTcRFLUyuDEociVcfTwfGcI%3D",
       "entrants": 5,
       "start_time": 1672451100
-    },
-    {
-      "slug": "tournament/limesurge-s-new-year-beatdown/event/melee-singles-east-coast",
-      "tournament_name": "LimeSurge's New Year Beatdown",
-      "event_name": "Melee Singles (East Coast)",
-      "image": "https://images.start.gg/images/tournament/477354/image-304bd30e39f2f6f297f66d51821108ec.png?ehk=YOe6%2FHZYfxYcJbiUV4zvCEZ778uV%2BBUnD0ndmoPisOE%3D&ehkOptimized=XMOxKpagtSj0Ott25aCM9w4U4XxnYjqPi%2BlyiWQzBuo%3D",
-      "entrants": 0,
-      "start_time": 1672513200
-    },
-    {
-      "slug": "tournament/limesurge-s-new-year-beatdown/event/melee-singles-west-coast",
-      "tournament_name": "LimeSurge's New Year Beatdown",
-      "event_name": "Melee Singles (West Coast)",
-      "image": "https://images.start.gg/images/tournament/477354/image-304bd30e39f2f6f297f66d51821108ec.png?ehk=YOe6%2FHZYfxYcJbiUV4zvCEZ778uV%2BBUnD0ndmoPisOE%3D&ehkOptimized=XMOxKpagtSj0Ott25aCM9w4U4XxnYjqPi%2BlyiWQzBuo%3D",
-      "entrants": 0,
-      "start_time": 1672513200
     },
     {
       "slug": "tournament/super-scuffed-smash-saturday/event/melee-singles",
@@ -158,7 +134,7 @@
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-c1f51b67ac96325382364b23438cef9b.jpg?ehk=waiKt5ppfiPvV9MkhpebvcqGHOB6%2FTFZb1QsmX3J%2Big%3D&ehkOptimized=JUTlCBjw0cMGCGpQN5P9BvR%2BbYjxkV196rK0OwNKjJg%3D",
-      "entrants": 17,
+      "entrants": 19,
       "start_time": 1672963200
     },
     {
