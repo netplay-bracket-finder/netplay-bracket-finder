@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672415475,
+  "fetched_at": 1672417246,
   "data": [
     {
       "slug": "tournament/ssbmr-eu-seed-of-the-week-3/event/ssbmr-eu-singles",
@@ -134,7 +134,7 @@
       "tournament_name": "The Distribution #2",
       "event_name": "Phase 1 - Melee Singles",
       "image": "https://images.start.gg/images/tournament/505057/image-34001fe9b04a877556d8a70d1abae52b.png?ehk=iDC9R4tRKWXTK7Dal%2Bhuz4PnD4aUY0DNIFYbo6TB4TQ%3D&ehkOptimized=a63G3C1Y8ZiE4klU8O4WbuoicgYyVQfFMmZC3okswoc%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1672791000
     },
     {
@@ -158,7 +158,7 @@
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-c1f51b67ac96325382364b23438cef9b.jpg?ehk=waiKt5ppfiPvV9MkhpebvcqGHOB6%2FTFZb1QsmX3J%2Big%3D&ehkOptimized=JUTlCBjw0cMGCGpQN5P9BvR%2BbYjxkV196rK0OwNKjJg%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1672963200
     },
     {
@@ -239,7 +239,7 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/492841/image-25503525b7a477b0d3cf79d8edd231b5.png?ehk=imi1GXSK2RRhQ6P2wLkYKi0L%2BFufyHQQoKRu46xUBxw%3D&ehkOptimized=PGAXVHlTmkwd5NsRpetUcGIGJxqQQE7r82nqo0%2Fx1cA%3D",
       "entrants": 18,
-      "start_time": 1674946800
+      "start_time": 1676156400
     },
     {
       "slug": "tournament/meteor-massacre-1/event/melee-singles",
