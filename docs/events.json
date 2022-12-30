@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672363126,
+  "fetched_at": 1672367256,
   "data": [
     {
       "slug": "tournament/wdumr-the-lobster-shortage/event/melee-singles",
@@ -10,20 +10,20 @@
       "start_time": 1672358400
     },
     {
-      "slug": "tournament/thursday-thmackdown-14-1/event/melee-singles",
-      "tournament_name": "Thursday Thmackdown #14",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/508531/image-05f1c593db2abb67916363a3fa749ec3.png?ehk=llYl1OeMGUpsBlP5gCcQJck6MTqjW0oSvHyreMdVyA0%3D&ehkOptimized=Fh4lGGiS%2BnLcGJNRb6QTr3SnkLVIBx%2FgsC4J1gTrqY0%3D",
-      "entrants": 9,
-      "start_time": 1672365600
-    },
-    {
       "slug": "tournament/final-moon-melee/event/melee-singles",
       "tournament_name": "Final Moon Melee",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508039/image-6683f536ec012d8b9acc662038421ef0.png?ehk=ZF0FUqpsiGWbYdMZ94MOKNLcOrg5P4x73OPwS%2BAjH%2FA%3D&ehkOptimized=Q2I%2Bog%2Bu5q22tj40ut%2BiATXIj6BhIFp64yFKEIbznco%3D",
-      "entrants": 28,
+      "entrants": 31,
       "start_time": 1672369200
+    },
+    {
+      "slug": "tournament/bb-end-of-2022/event/melee-singles",
+      "tournament_name": "BB: End of 2022",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/508646/image-2520e256628b71182ee3115617d0cb57.png?ehk=mc9KpaRl44SRK2%2F5LOadVworZ0gNXpAeyy%2FHVHXSdWE%3D&ehkOptimized=tIs2WzoazxasF7eKXeMNFwyHm%2Fc%2BimGkITFPAcpbrZM%3D",
+      "entrants": 1,
+      "start_time": 1672383600
     },
     {
       "slug": "tournament/falchion-fight-nights-xmas/event/melee-singles",
@@ -62,7 +62,7 @@
       "tournament_name": "East Coast Madness #1 ($50 Pot Bonus) Feat. Mekk & Reeve",
       "event_name": "East Coast Madness #1",
       "image": "https://images.start.gg/images/tournament/508357/image-00a229835ecdb00e11545adfc895c300.png?ehk=j5OLvvBbxUd152T3jXVYfN3ormIuIS5Cktd9cvOjiMQ%3D&ehkOptimized=P5Vf0W4yaaEVH9vIZtYZiLLnuOP6jDwl5y5DkScxAg4%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1672449300
     },
     {
@@ -174,7 +174,7 @@
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-c1f51b67ac96325382364b23438cef9b.jpg?ehk=waiKt5ppfiPvV9MkhpebvcqGHOB6%2FTFZb1QsmX3J%2Big%3D&ehkOptimized=JUTlCBjw0cMGCGpQN5P9BvR%2BbYjxkV196rK0OwNKjJg%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1672963200
     },
     {
