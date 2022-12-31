@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672467524,
+  "fetched_at": 1672468712,
   "data": [
     {
       "slug": "tournament/melee-legends-7/event/melee-singles",
@@ -176,6 +176,22 @@
       "image": "https://images.start.gg/images/tournament/507503/image-a84c1d82a582e7cc5ab58626f8742f03.png?ehk=GxQ8n9TnfubTxWO4WN%2B%2BoUhL2ExWdPSoHtb0XLJKw9M%3D&ehkOptimized=6Wb%2F2Asal5ulsfGhVMzsr2ASS8l6o7YuL%2F5LnXq1wvU%3D",
       "entrants": 0,
       "start_time": 1673665200
+    },
+    {
+      "slug": "tournament/fjord-frenzy-1000-prize-pool/event/na-east-melee-singles",
+      "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
+      "event_name": "NA East Melee Singles",
+      "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
+      "entrants": 0,
+      "start_time": 1673722800
+    },
+    {
+      "slug": "tournament/fjord-frenzy-1000-prize-pool/event/na-west-melee-singles",
+      "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
+      "event_name": "NA West Melee Singles",
+      "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
+      "entrants": 0,
+      "start_time": 1673730000
     },
     {
       "slug": "tournament/polypuff/event/melee-singles",
