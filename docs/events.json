@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672449396,
+  "fetched_at": 1672453420,
   "data": [
     {
       "slug": "tournament/melee-legends-7/event/melee-singles",
@@ -110,7 +110,7 @@
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-c1f51b67ac96325382364b23438cef9b.jpg?ehk=waiKt5ppfiPvV9MkhpebvcqGHOB6%2FTFZb1QsmX3J%2Big%3D&ehkOptimized=JUTlCBjw0cMGCGpQN5P9BvR%2BbYjxkV196rK0OwNKjJg%3D",
-      "entrants": 20,
+      "entrants": 22,
       "start_time": 1672963200
     },
     {
@@ -184,6 +184,22 @@
       "image": "https://images.start.gg/images/tournament/500504/image-cbb396b8b534bdd41041e657b6e18cfc.jpg?ehk=u6Q6lmVuGQInUd7%2F0LahR%2FingKtzU1JHOMML76nFo7M%3D&ehkOptimized=X8z%2BUq9%2FN29u7AQ7gat8fbIKk%2F9wuq0xsHcFHci%2BeKE%3D",
       "entrants": 15,
       "start_time": 1673827200
+    },
+    {
+      "slug": "tournament/raiser-mseries-final-1000-qualifier/event/melee-singles",
+      "tournament_name": "Raiser MSeries Final $1000 Qualifier",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/508820/image-2330a798b4efe44e3ed01249807549cb.png?ehk=2zXxvzgi0OODoLOWlmvB4ALpxSDqoZyFLVYD4v1ebX8%3D&ehkOptimized=FAnE%2BPEQuoCmRZ%2FhvUhuiJpcRyLexrXdK39mgOKrL9Q%3D",
+      "entrants": 0,
+      "start_time": 1675299600
+    },
+    {
+      "slug": "tournament/raiser-mseries-1000-invitational/event/melee-singles",
+      "tournament_name": "Raiser MSeries $1000 Invitational",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/508823/image-72e9da5084f90bb60cdb940caf0f9fe1.png?ehk=izz1amE0bDG4cGb0hm3D2EYBvSquPW7aix6iBSMHseI%3D&ehkOptimized=DvE%2FANTamBwvb1c1gYgnq%2Fq7KffDApdM%2B1RiIVk8LWo%3D",
+      "entrants": 12,
+      "start_time": 1675818000
     },
     {
       "slug": "tournament/whispy-woods-superstar-circuit-qualifier-1/event/melee-singles",
