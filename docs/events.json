@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1672473075,
+  "fetched_at": 1672474736,
   "data": [
-    {
-      "slug": "tournament/melee-legends-7/event/melee-singles",
-      "tournament_name": "Melee Legends 7",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/507995/image-fcf2d5e46ba2f9ae64eee79cfd68c817.png?ehk=o%2FCR4c7klfjQEFpvek2ekSg6%2B7T2RVMsuHR4v10mQXc%3D&ehkOptimized=xAgZAgu%2FZMFlybBdUbRZCzvEBLiuR5bpwYuFmH%2BL7kQ%3D",
-      "entrants": 8,
-      "start_time": 1672448400
-    },
-    {
-      "slug": "tournament/east-coast-fridays-234/event/melee-singles",
-      "tournament_name": "East Coast Fridays #234",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/508618/image-613c1d6bcf7e0907e0bccb9d4fa71c87.png?ehk=Hkc4MXumuDmKO9%2BewjA1lbEbSBzSAp5Rpp8%2FwlmfgcI%3D&ehkOptimized=oxyJtzmzyqY6370hS24v9eIxwpdkPlr8a%2Bdv896gzPs%3D",
-      "entrants": 30,
-      "start_time": 1672448400
-    },
     {
       "slug": "tournament/super-scuffed-smash-saturday/event/melee-singles",
       "tournament_name": "Super Scuffed Smash Saturday",
@@ -34,19 +18,19 @@
       "start_time": 1672596000
     },
     {
-      "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/west-coast-bracket",
+      "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/east-coast-bracket",
       "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
-      "event_name": "West Coast Bracket",
+      "event_name": "East Coast Bracket",
       "image": "https://images.start.gg/images/tournament/507586/image-8a51a594973e70d4486e2d9736b55ea4.png?ehk=Sp5lzdtgTrNB0cJjXnAacToxQlSUPiMCop4CO3%2Fn06c%3D&ehkOptimized=2xDXE2C9VCzvgWBqGWajEyesI%2Baz7vgGr55HkOzvciA%3D",
       "entrants": 5,
       "start_time": 1672617600
     },
     {
-      "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/east-coast-bracket",
+      "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/west-coast-bracket",
       "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
-      "event_name": "East Coast Bracket",
+      "event_name": "West Coast Bracket",
       "image": "https://images.start.gg/images/tournament/507586/image-8a51a594973e70d4486e2d9736b55ea4.png?ehk=Sp5lzdtgTrNB0cJjXnAacToxQlSUPiMCop4CO3%2Fn06c%3D&ehkOptimized=2xDXE2C9VCzvgWBqGWajEyesI%2Baz7vgGr55HkOzvciA%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1672617600
     },
     {
@@ -206,7 +190,7 @@
       "tournament_name": "Raiser MSeries Final $1000 Qualifier",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508820/image-2330a798b4efe44e3ed01249807549cb.png?ehk=2zXxvzgi0OODoLOWlmvB4ALpxSDqoZyFLVYD4v1ebX8%3D&ehkOptimized=FAnE%2BPEQuoCmRZ%2FhvUhuiJpcRyLexrXdK39mgOKrL9Q%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1675299600
     },
     {
