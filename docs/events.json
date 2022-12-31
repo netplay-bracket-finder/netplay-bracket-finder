@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672501879,
+  "fetched_at": 1672503620,
   "data": [
     {
       "slug": "tournament/super-scuffed-smash-saturday/event/melee-singles",
@@ -8,6 +8,14 @@
       "image": "https://images.start.gg/images/tournament/507790/image-beba166888ba54583192caefb25765f5.jpg?ehk=%2FAtuJACnIss9wrDJkeO9XKTZxZz5x3YnB3%2FVo%2BuLErA%3D&ehkOptimized=G1OWGpFGvvMnr9fN42ck4z7xSZqxBDu%2FCeGKRVYD28s%3D",
       "entrants": 5,
       "start_time": 1672520400
+    },
+    {
+      "slug": "tournament/legs-le-tournament-63/event/melee-singles",
+      "tournament_name": "Legs' Le Tournament #63",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/508862/image-291c42df4949cbdb37184efbbf4e567b.png?ehk=2qtbdw7KvLKS5ErnbfQbghGaS1P51GDDGJW8QE5lNXE%3D&ehkOptimized=jHTk4VYigGahNr2oUqCk7OEWfYsDGFpMv%2FD4xoqmarI%3D",
+      "entrants": 3,
+      "start_time": 1672524000
     },
     {
       "slug": "tournament/fight-of-the-fearless-33/event/fight-of-the-fearless-single",
