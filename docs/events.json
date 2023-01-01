@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672613478,
+  "fetched_at": 1672614932,
   "data": [
     {
       "slug": "tournament/kalvar-cup-73-new-year-new-cup/event/melee-singles",
       "tournament_name": "kalvar Cup #73 New year New Cup",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509039/image-fc41eca8bc9db5b553f530dc674627d8.png?ehk=af3Ryw8%2FO2Hsj0MUHkMhXabCrvgLtWgqttmTch3RYw0%3D&ehkOptimized=zi3Kg73BWljqKzOkv0BZH5Hnbj2Ux4IdCXqAAOja%2BH8%3D",
-      "entrants": 4,
+      "entrants": 7,
       "start_time": 1672617600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
       "event_name": "East Coast Bracket",
       "image": "https://images.start.gg/images/tournament/507586/image-8a51a594973e70d4486e2d9736b55ea4.png?ehk=Sp5lzdtgTrNB0cJjXnAacToxQlSUPiMCop4CO3%2Fn06c%3D&ehkOptimized=2xDXE2C9VCzvgWBqGWajEyesI%2Baz7vgGr55HkOzvciA%3D",
-      "entrants": 13,
+      "entrants": 16,
       "start_time": 1672617600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
       "event_name": "West Coast Bracket",
       "image": "https://images.start.gg/images/tournament/507586/image-8a51a594973e70d4486e2d9736b55ea4.png?ehk=Sp5lzdtgTrNB0cJjXnAacToxQlSUPiMCop4CO3%2Fn06c%3D&ehkOptimized=2xDXE2C9VCzvgWBqGWajEyesI%2Baz7vgGr55HkOzvciA%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1672617600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "SCSS East Coast #100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508920/image-5bfe50760ce8e4588e3c9e65aa4ef326.png?ehk=nTX2KiUZ2ralVLcKJojNJF5V0fBEuo2lmxmm0cdUATY%3D&ehkOptimized=c%2FJMEvx9fwBOb2rZ4WKa2h3UG%2FpIPBMDfOfRMBqjdRQ%3D",
-      "entrants": 13,
+      "entrants": 17,
       "start_time": 1672619400
     },
     {
