@@ -1,6 +1,14 @@
 {
-  "fetched_at": 1672602679,
+  "fetched_at": 1672604157,
   "data": [
+    {
+      "slug": "tournament/kalvar-cup-73-new-year-new-cup/event/melee-singles",
+      "tournament_name": "kalvar Cup #73 New year New Cup",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/509039/image-fc41eca8bc9db5b553f530dc674627d8.png?ehk=af3Ryw8%2FO2Hsj0MUHkMhXabCrvgLtWgqttmTch3RYw0%3D&ehkOptimized=zi3Kg73BWljqKzOkv0BZH5Hnbj2Ux4IdCXqAAOja%2BH8%3D",
+      "entrants": 1,
+      "start_time": 1672617600
+    },
     {
       "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/east-coast-bracket",
       "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
@@ -14,7 +22,7 @@
       "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
       "event_name": "West Coast Bracket",
       "image": "https://images.start.gg/images/tournament/507586/image-8a51a594973e70d4486e2d9736b55ea4.png?ehk=Sp5lzdtgTrNB0cJjXnAacToxQlSUPiMCop4CO3%2Fn06c%3D&ehkOptimized=2xDXE2C9VCzvgWBqGWajEyesI%2Baz7vgGr55HkOzvciA%3D",
-      "entrants": 6,
+      "entrants": 5,
       "start_time": 1672617600
     },
     {
