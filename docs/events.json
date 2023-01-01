@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672604157,
+  "fetched_at": 1672605406,
   "data": [
     {
       "slug": "tournament/kalvar-cup-73-new-year-new-cup/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "SCSS East Coast #100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508920/image-5bfe50760ce8e4588e3c9e65aa4ef326.png?ehk=nTX2KiUZ2ralVLcKJojNJF5V0fBEuo2lmxmm0cdUATY%3D&ehkOptimized=c%2FJMEvx9fwBOb2rZ4WKa2h3UG%2FpIPBMDfOfRMBqjdRQ%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1672619400
     },
     {
@@ -144,6 +144,14 @@
       "image": "https://images.start.gg/images/tournament/504923/image-8d43eb675abf43b313d1c7bef67344a6.png?ehk=a%2Fb974aQG%2FM2MJ9XDxIFW841647c3cAlDXkY8aR%2FIGc%3D&ehkOptimized=sc7%2BxBp0hO8suMk0c1ObO4pRmhj7FenIErghTHm8MJA%3D",
       "entrants": 0,
       "start_time": 1673046000
+    },
+    {
+      "slug": "tournament/super-scuffed-smash-saturday-2/event/melee-singles",
+      "tournament_name": "Super Scuffed Smash Saturday #2",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/509043/image-251ea6d24bd3e2b81af630b96c12ca7b.jpg?ehk=a3XpY4xtzVcpFCleMHj%2B2rXGOyX%2FKzg1D0WUpLaQJl0%3D&ehkOptimized=IrFQN2aniSJRu4EC%2FW817PQ5BvV6Rk2siYpUH4g6xUE%3D",
+      "entrants": 0,
+      "start_time": 1673114400
     },
     {
       "slug": "tournament/after-dark-melee-10/event/after-dark-singles",
