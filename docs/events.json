@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672548678,
+  "fetched_at": 1672550037,
   "data": [
     {
       "slug": "tournament/fight-of-the-fearless-33/event/fight-of-the-fearless-single",
@@ -144,30 +144,6 @@
       "image": "",
       "entrants": 4,
       "start_time": 1673308800
-    },
-    {
-      "slug": "tournament/1000-conduit-gaming-annual-gold-invitational-2023/event/ssbm-randomizer-singles",
-      "tournament_name": "[$1000] Conduit Gaming Annual Gold Invitational 2023",
-      "event_name": "SSBM Randomizer Singles",
-      "image": "https://images.start.gg/images/tournament/480976/image-97c003ab9f53742b7bda638f252b4aa7.png?ehk=yZZeMCBgIFmmed7MEVR536DbzkvthGqwI0FLWM4YiUg%3D&ehkOptimized=Ay3nN1fPdJHC%2BFaG7N8UCR5cHhS6gutXVs3Ozv33VKQ%3D",
-      "entrants": 12,
-      "start_time": 1673568000
-    },
-    {
-      "slug": "tournament/1000-conduit-gaming-annual-gold-invitational-2023/event/melee-doubles",
-      "tournament_name": "[$1000] Conduit Gaming Annual Gold Invitational 2023",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/480976/image-97c003ab9f53742b7bda638f252b4aa7.png?ehk=yZZeMCBgIFmmed7MEVR536DbzkvthGqwI0FLWM4YiUg%3D&ehkOptimized=Ay3nN1fPdJHC%2BFaG7N8UCR5cHhS6gutXVs3Ozv33VKQ%3D",
-      "entrants": 13,
-      "start_time": 1673719200
-    },
-    {
-      "slug": "tournament/1000-conduit-gaming-annual-gold-invitational-2023/event/melee-singles",
-      "tournament_name": "[$1000] Conduit Gaming Annual Gold Invitational 2023",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/480976/image-97c003ab9f53742b7bda638f252b4aa7.png?ehk=yZZeMCBgIFmmed7MEVR536DbzkvthGqwI0FLWM4YiUg%3D&ehkOptimized=Ay3nN1fPdJHC%2BFaG7N8UCR5cHhS6gutXVs3Ozv33VKQ%3D",
-      "entrants": 7,
-      "start_time": 1673809200
     },
     {
       "slug": "tournament/the-hi-rise-2/event/melee-singles",
