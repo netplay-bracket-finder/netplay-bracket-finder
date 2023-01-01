@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672530678,
+  "fetched_at": 1672537018,
   "data": [
     {
       "slug": "tournament/fight-of-the-fearless-33/event/fight-of-the-fearless-single",
       "tournament_name": "Fight of the Fearless 33",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/508497/image-dfe836e3a4883c5095202be14a9dc5c4.png?ehk=H98P6y2A%2FsJkezksjgE0FDjipnmjpaC2d1J74tS6q00%3D&ehkOptimized=uXGAmw4dzAtf8QoM0syaPhp2SztMqQsT%2FwWvNdNhOX0%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1672596000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "SCSS West Coast #89",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508916/image-bef7fa339068abc2ea7051c893b45f4d.png?ehk=vHn0RCoLQgFmEWTGcENJ41B%2Bllo6aNRB5CjTIbBCwTY%3D&ehkOptimized=kVA0YUjahnjQLq4TYJ9WSWyf5wl0MGY2Y%2F0WiC5NOrU%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1672623000
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Pino's Tired of 0-2 #103",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/506908/image-5ec61820c3608cea522a8648a2d17e0b.jpg?ehk=Nll0910Kr08mGRZnhvc7%2BA115dClbUm%2Fb8rHam0rZ3s%3D&ehkOptimized=%2BkhsQAc7nZRNIE6WFD5oWLD9ICBpex8SpshoaCCgolM%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1672700400
     },
     {
