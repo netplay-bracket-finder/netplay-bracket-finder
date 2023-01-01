@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672597080,
+  "fetched_at": 1672598276,
   "data": [
     {
       "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/east-coast-bracket",
@@ -80,6 +80,14 @@
       "image": "https://images.start.gg/images/tournament/508942/image-123a8b95b2fb895bc184db82cc87dad7.png?ehk=CtKsTtskqy%2Fo6WQ%2B4sF2cdlZMZQKGCy4inI%2Fk4Wjfro%3D&ehkOptimized=M4ER%2B469DhMgkOKvvKTNLPkPxi204DjcmTFziGfwipg%3D",
       "entrants": 0,
       "start_time": 1672794000
+    },
+    {
+      "slug": "tournament/epic-wednesday-doubles-4/event/melee-doubles",
+      "tournament_name": "Epic Wednesday Doubles! #4",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/509005/image-e121b41a2b4f936f840a6d4e75958294.png?ehk=8vVloqm8VvkA%2FdgcFBQVpoeI6R6uVKm8lV2XC8rCoUI%3D&ehkOptimized=yLAQlUowMy5bQ2%2F5QtuOI8i2nd0e7%2F0HRlvcd5xbUzw%3D",
+      "entrants": 0,
+      "start_time": 1672815600
     },
     {
       "slug": "tournament/waddle-wednesday-51/event/melee-singles",
