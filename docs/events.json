@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1672595476,
+  "fetched_at": 1672597080,
   "data": [
-    {
-      "slug": "tournament/fight-of-the-fearless-33/event/fight-of-the-fearless-single",
-      "tournament_name": "Fight of the Fearless 33",
-      "event_name": "Fight Of The Fearless single",
-      "image": "https://images.start.gg/images/tournament/508497/image-dfe836e3a4883c5095202be14a9dc5c4.png?ehk=H98P6y2A%2FsJkezksjgE0FDjipnmjpaC2d1J74tS6q00%3D&ehkOptimized=uXGAmw4dzAtf8QoM0syaPhp2SztMqQsT%2FwWvNdNhOX0%3D",
-      "entrants": 18,
-      "start_time": 1672596000
-    },
     {
       "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/east-coast-bracket",
       "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
@@ -30,7 +22,7 @@
       "tournament_name": "SCSS East Coast #100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508920/image-5bfe50760ce8e4588e3c9e65aa4ef326.png?ehk=nTX2KiUZ2ralVLcKJojNJF5V0fBEuo2lmxmm0cdUATY%3D&ehkOptimized=c%2FJMEvx9fwBOb2rZ4WKa2h3UG%2FpIPBMDfOfRMBqjdRQ%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1672619400
     },
     {
@@ -142,7 +134,7 @@
       "tournament_name": "After Dark Melee 10",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/509003/image-0099d4e3477f5bfdfc13b195f723f98e.png?ehk=sts0eDI%2Fbw5IiHKw5L%2FM01ksE2so32tmw18bXKoYu2A%3D&ehkOptimized=wiGiVsjhQNVirkYc4ZVvdKjqDpfEv8UZ6zg3a%2FrSqq8%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1673122500
     },
     {
