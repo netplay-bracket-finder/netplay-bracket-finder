@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672617081,
+  "fetched_at": 1672622285,
   "data": [
     {
       "slug": "tournament/kalvar-cup-73-new-year-new-cup/event/melee-singles",
       "tournament_name": "kalvar Cup #73 New year New Cup",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509039/image-fc41eca8bc9db5b553f530dc674627d8.png?ehk=af3Ryw8%2FO2Hsj0MUHkMhXabCrvgLtWgqttmTch3RYw0%3D&ehkOptimized=zi3Kg73BWljqKzOkv0BZH5Hnbj2Ux4IdCXqAAOja%2BH8%3D",
-      "entrants": 10,
+      "entrants": 14,
       "start_time": 1672617600
     },
     {
@@ -22,39 +22,15 @@
       "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
       "event_name": "West Coast Bracket",
       "image": "https://images.start.gg/images/tournament/507586/image-8a51a594973e70d4486e2d9736b55ea4.png?ehk=Sp5lzdtgTrNB0cJjXnAacToxQlSUPiMCop4CO3%2Fn06c%3D&ehkOptimized=2xDXE2C9VCzvgWBqGWajEyesI%2Baz7vgGr55HkOzvciA%3D",
-      "entrants": 7,
+      "entrants": 9,
       "start_time": 1672617600
-    },
-    {
-      "slug": "tournament/scss-east-coast-100/event/melee-singles",
-      "tournament_name": "SCSS East Coast #100",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/508920/image-5bfe50760ce8e4588e3c9e65aa4ef326.png?ehk=nTX2KiUZ2ralVLcKJojNJF5V0fBEuo2lmxmm0cdUATY%3D&ehkOptimized=c%2FJMEvx9fwBOb2rZ4WKa2h3UG%2FpIPBMDfOfRMBqjdRQ%3D",
-      "entrants": 22,
-      "start_time": 1672619400
-    },
-    {
-      "slug": "tournament/no-melee-on-sundays-22/event/melee-singles",
-      "tournament_name": "No Melee On Sundays 22",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/509056/image-79556da263a56b15e3a8b63882770a8b.png?ehk=v6%2Bdo17GDPS2LDHLVk0%2FWbK%2F%2BQYM%2BOjHMNN0O%2B6Opzg%3D&ehkOptimized=%2BYZrwMdrySQsLFrpKorS1vf2DxKVEgYCYGbpsGpBJq0%3D",
-      "entrants": 6,
-      "start_time": 1672621200
-    },
-    {
-      "slug": "tournament/scss-west-coast-89/event/melee-singles",
-      "tournament_name": "SCSS West Coast #89",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/508916/image-bef7fa339068abc2ea7051c893b45f4d.png?ehk=vHn0RCoLQgFmEWTGcENJ41B%2Bllo6aNRB5CjTIbBCwTY%3D&ehkOptimized=kVA0YUjahnjQLq4TYJ9WSWyf5wl0MGY2Y%2F0WiC5NOrU%3D",
-      "entrants": 3,
-      "start_time": 1672623000
     },
     {
       "slug": "tournament/monday-night-mixup-45/event/melee-singles",
       "tournament_name": "Monday Night Mixup #45",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509069/image-a24a4c5ea37fe36ddfe346e2ec54c051.png?ehk=bxUzfEY%2FaERKsHxlQxdeMUHAc2VxwWnu2HxM%2F%2BVvHjc%3D&ehkOptimized=ZLL0p13LDU%2BqMxubQvXFUAoLHuUpQMZcySN%2FEJ0gvOg%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1672686000
     },
     {
@@ -150,7 +126,7 @@
       "tournament_name": "The Bong House",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504923/image-8d43eb675abf43b313d1c7bef67344a6.png?ehk=a%2Fb974aQG%2FM2MJ9XDxIFW841647c3cAlDXkY8aR%2FIGc%3D&ehkOptimized=sc7%2BxBp0hO8suMk0c1ObO4pRmhj7FenIErghTHm8MJA%3D",
-      "entrants": 18,
+      "entrants": 20,
       "start_time": 1673046000
     },
     {
