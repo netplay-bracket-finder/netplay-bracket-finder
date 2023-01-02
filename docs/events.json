@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1672640394,
+  "fetched_at": 1672641600,
   "data": [
-    {
-      "slug": "tournament/kalvar-cup-73-new-year-new-cup/event/melee-singles",
-      "tournament_name": "kalvar Cup #73 New year New Cup",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/509039/image-fc41eca8bc9db5b553f530dc674627d8.png?ehk=af3Ryw8%2FO2Hsj0MUHkMhXabCrvgLtWgqttmTch3RYw0%3D&ehkOptimized=zi3Kg73BWljqKzOkv0BZH5Hnbj2Ux4IdCXqAAOja%2BH8%3D",
-      "entrants": 14,
-      "start_time": 1672617600
-    },
     {
       "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/east-coast-bracket",
       "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
@@ -173,7 +165,7 @@
       "slug": "tournament/vick-s-dair-to-spike-15/event/volleyball-1v1",
       "tournament_name": "Vick's Dair to Spike #15",
       "event_name": "Volleyball 1v1",
-      "image": "https://images.start.gg/images/tournament/472593/image-5ea308e10099db3b8a332ca96cf81528.png?ehk=1PYCs63iAsWO5MhG4ZZB7P6vO5bKaHlcYyh8kgft7cg%3D&ehkOptimized=WBfYJSgaFoB2yafIirFgXa41qCL2STUj2dfBislKNwg%3D",
+      "image": "https://images.start.gg/images/tournament/472593/image-2fc23046fdc4c747c0dff562d1e27146.png?ehk=VFZ7LiJooA7pQiqYVwvkj9OfAXaOLWJqsNHdptwF718%3D&ehkOptimized=e7u74%2BnX9PSCH0iDHc9iWQ%2FBdcxiyZNgrm%2FLuP5Kauw%3D",
       "entrants": 6,
       "start_time": 1673125500
     },
