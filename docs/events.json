@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672635076,
+  "fetched_at": 1672636473,
   "data": [
     {
       "slug": "tournament/kalvar-cup-73-new-year-new-cup/event/melee-singles",
@@ -10,20 +10,20 @@
       "start_time": 1672617600
     },
     {
-      "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/west-coast-bracket",
-      "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
-      "event_name": "West Coast Bracket",
-      "image": "https://images.start.gg/images/tournament/507586/image-8a51a594973e70d4486e2d9736b55ea4.png?ehk=Sp5lzdtgTrNB0cJjXnAacToxQlSUPiMCop4CO3%2Fn06c%3D&ehkOptimized=2xDXE2C9VCzvgWBqGWajEyesI%2Baz7vgGr55HkOzvciA%3D",
-      "entrants": 14,
-      "start_time": 1672628400
-    },
-    {
       "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/east-coast-bracket",
       "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
       "event_name": "East Coast Bracket",
       "image": "https://images.start.gg/images/tournament/507586/image-8a51a594973e70d4486e2d9736b55ea4.png?ehk=Sp5lzdtgTrNB0cJjXnAacToxQlSUPiMCop4CO3%2Fn06c%3D&ehkOptimized=2xDXE2C9VCzvgWBqGWajEyesI%2Baz7vgGr55HkOzvciA%3D",
       "entrants": 18,
       "start_time": 1672617600
+    },
+    {
+      "slug": "tournament/lgbt-s3e17-a-very-gay-lee-holiday/event/west-coast-bracket",
+      "tournament_name": "LGBT S3E17: a very Gay(Lee) Holiday",
+      "event_name": "West Coast Bracket",
+      "image": "https://images.start.gg/images/tournament/507586/image-8a51a594973e70d4486e2d9736b55ea4.png?ehk=Sp5lzdtgTrNB0cJjXnAacToxQlSUPiMCop4CO3%2Fn06c%3D&ehkOptimized=2xDXE2C9VCzvgWBqGWajEyesI%2Baz7vgGr55HkOzvciA%3D",
+      "entrants": 14,
+      "start_time": 1672628400
     },
     {
       "slug": "tournament/monday-night-mixup-45/event/melee-singles",
