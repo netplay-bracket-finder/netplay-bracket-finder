@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1672699152,
+  "fetched_at": 1672699893,
   "data": [
-    {
-      "slug": "tournament/slippi-sauce-80-happy-new-year/event/melee-singles",
-      "tournament_name": "Slippi Sauce #80 🐸 - HAPPY NEW YEAR",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/509131/image-80e8465f1aeb761c9f0dbdcf0b3145eb.png?ehk=brM%2BhjZX%2B%2FxgS%2FdG8pV9vgM%2Bi%2ByMNEEvPbp8OasdHMU%3D&ehkOptimized=XTZQJkxbdtQKF9wAnmGc0tdsOSpnCpcgCQ%2By2ITytKk%3D",
-      "entrants": 13,
-      "start_time": 1672700400
-    },
     {
       "slug": "tournament/spudfest-46/event/melee-singles",
       "tournament_name": "Spudfest 46",
