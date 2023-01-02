@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672695387,
+  "fetched_at": 1672696286,
   "data": [
     {
       "slug": "tournament/slippi-sauce-80-happy-new-year/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Pino's Tired of 0-2 #103",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/506908/image-5ec61820c3608cea522a8648a2d17e0b.jpg?ehk=Nll0910Kr08mGRZnhvc7%2BA115dClbUm%2Fb8rHam0rZ3s%3D&ehkOptimized=%2BkhsQAc7nZRNIE6WFD5oWLD9ICBpex8SpshoaCCgolM%3D",
-      "entrants": 28,
+      "entrants": 29,
       "start_time": 1672700400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Spudfest 46",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508966/image-cac21ac3f3d6d4ac7eb85a1afaa648f6.jpg?ehk=LkITAq0hjrll2J13analwCMcew18YHVIW%2Fyw0HEUNs0%3D&ehkOptimized=QiEaFjLHE6gn5Vbt3knOECjLqB%2F1RkcGSCOLQLs2%2Bwg%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1672711200
     },
     {
@@ -88,6 +88,14 @@
       "image": "https://images.start.gg/images/tournament/508744/image-bd247c67132032c26c67d154a027e6a0.png?ehk=rpwofVFlAaC8%2FbPIrefulwCMzZ5V41aHeMKgBLulKvw%3D&ehkOptimized=SPqYz2F4QrWvPz2Lovg91kVfoIlemVzdG4YaUr4jk7U%3D",
       "entrants": 0,
       "start_time": 1672880400
+    },
+    {
+      "slug": "tournament/take-the-l-16-online-edition/event/melee-singles",
+      "tournament_name": "Take The L #16 - ONLINE EDITION",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/509345/image-60714349a8a1e84f95d3495281a06378.jpg?ehk=id%2FOB0cn1Dp0JgdYpSbF1kq9eg8IsGBEWVFqHFD0CSs%3D&ehkOptimized=pHMU7wc8rp3EzvCSj%2FD3gq94vkFMsU7QSInxf42TO7c%3D",
+      "entrants": 0,
+      "start_time": 1672887600
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-46-eu-event/event/melee-singles",
