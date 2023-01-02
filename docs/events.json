@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672647646,
+  "fetched_at": 1672648752,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-45/event/melee-singles",
@@ -40,6 +40,14 @@
       "image": "",
       "entrants": 0,
       "start_time": 1672786800
+    },
+    {
+      "slug": "tournament/sketchy-series-12-new-sketchy-new-me/event/melee-singles",
+      "tournament_name": "Sketchy Series 12: New Sketchy, New Me",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/509184/image-ce3845386932b074810537a5941f8dab.png?ehk=5H5OjKMAY7JOXKi%2Fuv5UD3EMn%2F0C5WBQZ2hdERnBgMM%3D&ehkOptimized=G8ea%2F87i%2F9Rd59BiJqMe6Uzofd%2FW3ZeNvxkxb0f6mgo%3D",
+      "entrants": 0,
+      "start_time": 1672790400
     },
     {
       "slug": "tournament/the-distribution-2/event/the-waitlist",
