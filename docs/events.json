@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672701324,
+  "fetched_at": 1672702599,
   "data": [
     {
       "slug": "tournament/spudfest-46/event/melee-singles",
       "tournament_name": "Spudfest 46",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508966/image-cac21ac3f3d6d4ac7eb85a1afaa648f6.jpg?ehk=LkITAq0hjrll2J13analwCMcew18YHVIW%2Fyw0HEUNs0%3D&ehkOptimized=QiEaFjLHE6gn5Vbt3knOECjLqB%2F1RkcGSCOLQLs2%2Bwg%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1672711200
     },
     {
@@ -182,7 +182,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1673722800
     },
     {
