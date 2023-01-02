@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672678538,
+  "fetched_at": 1672679609,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-45/event/melee-singles",
       "tournament_name": "Monday Night Mixup #45",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509069/image-a24a4c5ea37fe36ddfe346e2ec54c051.png?ehk=bxUzfEY%2FaERKsHxlQxdeMUHAc2VxwWnu2HxM%2F%2BVvHjc%3D&ehkOptimized=ZLL0p13LDU%2BqMxubQvXFUAoLHuUpQMZcySN%2FEJ0gvOg%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1672686000
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 33,
+      "entrants": 34,
       "start_time": 1672963200
     },
     {
@@ -142,7 +142,7 @@
       "tournament_name": "After Dark Melee 10",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/509003/image-0099d4e3477f5bfdfc13b195f723f98e.png?ehk=sts0eDI%2Fbw5IiHKw5L%2FM01ksE2so32tmw18bXKoYu2A%3D&ehkOptimized=wiGiVsjhQNVirkYc4ZVvdKjqDpfEv8UZ6zg3a%2FrSqq8%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1673122500
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "POLYPUFF.",
       "event_name": "MELEE SINGLES.",
       "image": "https://images.start.gg/images/tournament/500504/image-cbb396b8b534bdd41041e657b6e18cfc.jpg?ehk=u6Q6lmVuGQInUd7%2F0LahR%2FingKtzU1JHOMML76nFo7M%3D&ehkOptimized=X8z%2BUq9%2FN29u7AQ7gat8fbIKk%2F9wuq0xsHcFHci%2BeKE%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1673827200
     },
     {
