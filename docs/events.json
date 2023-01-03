@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1672716997,
+  "fetched_at": 1672717877,
   "data": [
-    {
-      "slug": "tournament/mnn-38/event/melee-singles",
-      "tournament_name": "MNN#38",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/509314/image-e7016047254b37be0a91f40beb9d58bc.png?ehk=pnbwY%2B4jomwYGIql8QZgfrMYmbG2sPngzdE5zQG8aaI%3D&ehkOptimized=B1ZXJ7d2SUz53YX1YnA%2B3tvf6Wa0QpJC4wA598zHeEY%3D",
-      "entrants": 14,
-      "start_time": 1672718400
-    },
     {
       "slug": "tournament/the-gamer-series-1/event/melee-singles",
       "tournament_name": "The Gamer Series #1",
@@ -94,7 +86,7 @@
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 40,
+      "entrants": 41,
       "start_time": 1672963200
     },
     {
