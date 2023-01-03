@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672764329,
+  "fetched_at": 1672766055,
   "data": [
     {
       "slug": "tournament/sby-melee-netplay-144/event/melee-singles",
       "tournament_name": "SBY Melee Netplay #144",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509512/image-6f77e6b4538c689f7ab4d31fcfd3932f.jpg?ehk=XmAHLqmNjv4AK19ur4rgbXq4n%2BHlNM3slLmHNPlTpR8%3D&ehkOptimized=GvQyq7SfFxR0C3O9Bmm4ekuC%2BKzeL6aT%2F2VTMnpl5IY%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1672786800
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Waddle Wednesday 51",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508744/image-bd247c67132032c26c67d154a027e6a0.png?ehk=rpwofVFlAaC8%2FbPIrefulwCMzZ5V41aHeMKgBLulKvw%3D&ehkOptimized=SPqYz2F4QrWvPz2Lovg91kVfoIlemVzdG4YaUr4jk7U%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1672880400
     },
     {
