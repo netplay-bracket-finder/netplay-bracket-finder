@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672746679,
+  "fetched_at": 1672749115,
   "data": [
     {
       "slug": "tournament/the-gamer-series-1/event/melee-singles",
@@ -10,8 +10,8 @@
       "start_time": 1672786800
     },
     {
-      "slug": "tournament/sketchy-series-12-new-sketchy-new-me/event/melee-singles",
-      "tournament_name": "Sketchy Series 12: New Sketchy, New Me",
+      "slug": "tournament/sketchy-series-12-new-sketch-new-me/event/melee-singles",
+      "tournament_name": "Sketchy Series 12: New Sketch, New Me",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509184/image-ce3845386932b074810537a5941f8dab.png?ehk=5H5OjKMAY7JOXKi%2Fuv5UD3EMn%2F0C5WBQZ2hdERnBgMM%3D&ehkOptimized=G8ea%2F87i%2F9Rd59BiJqMe6Uzofd%2FW3ZeNvxkxb0f6mgo%3D",
       "entrants": 1,
@@ -94,7 +94,7 @@
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 47,
+      "entrants": 48,
       "start_time": 1672963200
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "After Dark Melee 10",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/509003/image-0099d4e3477f5bfdfc13b195f723f98e.png?ehk=sts0eDI%2Fbw5IiHKw5L%2FM01ksE2so32tmw18bXKoYu2A%3D&ehkOptimized=wiGiVsjhQNVirkYc4ZVvdKjqDpfEv8UZ6zg3a%2FrSqq8%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1673122500
     },
     {
