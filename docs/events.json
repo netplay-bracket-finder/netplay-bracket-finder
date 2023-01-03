@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672717877,
+  "fetched_at": 1672719542,
   "data": [
     {
       "slug": "tournament/the-gamer-series-1/event/melee-singles",
@@ -50,6 +50,14 @@
       "start_time": 1672815600
     },
     {
+      "slug": "tournament/the-florida-colosseum-week-1-presented-by-slyfox-esports/event/melee-singles",
+      "tournament_name": "The Florida Colosseum Week 1 | Presented by SlyFox Esports",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/509447/image-fa7794b04825adc493ec4907994201c5.png?ehk=SC3txR3CG9XW5Uz5jGo9z%2BtAY55bRmTtto%2Fii8J8goo%3D&ehkOptimized=aOhADLqx5WKHUPmVsKRnOuoquWZHDe%2BzdMVd1hpytWI%3D",
+      "entrants": 0,
+      "start_time": 1672876800
+    },
+    {
       "slug": "tournament/waddle-wednesday-51/event/melee-singles",
       "tournament_name": "Waddle Wednesday 51",
       "event_name": "Melee Singles",
@@ -86,7 +94,7 @@
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 41,
+      "entrants": 42,
       "start_time": 1672963200
     },
     {
