@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672714147,
+  "fetched_at": 1672715827,
   "data": [
     {
       "slug": "tournament/mnn-38/event/melee-singles",
       "tournament_name": "MNN#38",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509314/image-e7016047254b37be0a91f40beb9d58bc.png?ehk=pnbwY%2B4jomwYGIql8QZgfrMYmbG2sPngzdE5zQG8aaI%3D&ehkOptimized=B1ZXJ7d2SUz53YX1YnA%2B3tvf6Wa0QpJC4wA598zHeEY%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1672718400
     },
     {
@@ -174,7 +174,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1673722800
     },
     {
