@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672774587,
+  "fetched_at": 1672775487,
   "data": [
     {
       "slug": "tournament/sby-melee-netplay-144/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Sketchy Series 12: New Sketch, New Me",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509184/image-ce3845386932b074810537a5941f8dab.png?ehk=5H5OjKMAY7JOXKi%2Fuv5UD3EMn%2F0C5WBQZ2hdERnBgMM%3D&ehkOptimized=G8ea%2F87i%2F9Rd59BiJqMe6Uzofd%2FW3ZeNvxkxb0f6mgo%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1672790400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "The Distribution #2",
       "event_name": "Phase 1 - Melee Singles",
       "image": "https://images.start.gg/images/tournament/505057/image-34001fe9b04a877556d8a70d1abae52b.png?ehk=iDC9R4tRKWXTK7Dal%2Bhuz4PnD4aUY0DNIFYbo6TB4TQ%3D&ehkOptimized=a63G3C1Y8ZiE4klU8O4WbuoicgYyVQfFMmZC3okswoc%3D",
-      "entrants": 27,
+      "entrants": 28,
       "start_time": 1672791000
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Take The L #16 - ONLINE EDITION",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509345/image-60714349a8a1e84f95d3495281a06378.jpg?ehk=id%2FOB0cn1Dp0JgdYpSbF1kq9eg8IsGBEWVFqHFD0CSs%3D&ehkOptimized=pHMU7wc8rp3EzvCSj%2FD3gq94vkFMsU7QSInxf42TO7c%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1672887600
     },
     {
@@ -190,7 +190,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1673722800
     },
     {
