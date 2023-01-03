@@ -1,29 +1,13 @@
 {
-  "fetched_at": 1672786279,
+  "fetched_at": 1672787775,
   "data": [
     {
       "slug": "tournament/sketchy-series-12-new-sketch-new-me/event/melee-singles",
       "tournament_name": "Sketchy Series 12: New Sketch, New Me",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509184/image-ce3845386932b074810537a5941f8dab.png?ehk=5H5OjKMAY7JOXKi%2Fuv5UD3EMn%2F0C5WBQZ2hdERnBgMM%3D&ehkOptimized=G8ea%2F87i%2F9Rd59BiJqMe6Uzofd%2FW3ZeNvxkxb0f6mgo%3D",
-      "entrants": 20,
+      "entrants": 30,
       "start_time": 1672790400
-    },
-    {
-      "slug": "tournament/the-distribution-2/event/the-waitlist",
-      "tournament_name": "The Distribution #2",
-      "event_name": "The Waitlist",
-      "image": "https://images.start.gg/images/tournament/505057/image-34001fe9b04a877556d8a70d1abae52b.png?ehk=iDC9R4tRKWXTK7Dal%2Bhuz4PnD4aUY0DNIFYbo6TB4TQ%3D&ehkOptimized=a63G3C1Y8ZiE4klU8O4WbuoicgYyVQfFMmZC3okswoc%3D",
-      "entrants": 0,
-      "start_time": 1672790400
-    },
-    {
-      "slug": "tournament/the-distribution-2/event/phase-1-melee-singles",
-      "tournament_name": "The Distribution #2",
-      "event_name": "Phase 1 - Melee Singles",
-      "image": "https://images.start.gg/images/tournament/505057/image-34001fe9b04a877556d8a70d1abae52b.png?ehk=iDC9R4tRKWXTK7Dal%2Bhuz4PnD4aUY0DNIFYbo6TB4TQ%3D&ehkOptimized=a63G3C1Y8ZiE4klU8O4WbuoicgYyVQfFMmZC3okswoc%3D",
-      "entrants": 29,
-      "start_time": 1672791000
     },
     {
       "slug": "tournament/dad-s-house-online-7/event/melee-singles",
@@ -174,7 +158,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1673722800
     },
     {
