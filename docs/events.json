@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672795162,
+  "fetched_at": 1672799402,
   "data": [
     {
       "slug": "tournament/epic-wednesday-doubles-4/event/melee-doubles",
@@ -54,7 +54,7 @@
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 59,
+      "entrants": 64,
       "start_time": 1672963200
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "After Dark Melee 10",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/509003/image-0099d4e3477f5bfdfc13b195f723f98e.png?ehk=sts0eDI%2Fbw5IiHKw5L%2FM01ksE2so32tmw18bXKoYu2A%3D&ehkOptimized=wiGiVsjhQNVirkYc4ZVvdKjqDpfEv8UZ6zg3a%2FrSqq8%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1673122500
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "The HI Rise 2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/507503/image-a84c1d82a582e7cc5ab58626f8742f03.png?ehk=GxQ8n9TnfubTxWO4WN%2B%2BoUhL2ExWdPSoHtb0XLJKw9M%3D&ehkOptimized=6Wb%2F2Asal5ulsfGhVMzsr2ASS8l6o7YuL%2F5LnXq1wvU%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1673665200
     },
     {
