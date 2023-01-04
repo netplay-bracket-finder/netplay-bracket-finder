@@ -1,30 +1,6 @@
 {
-  "fetched_at": 1672789890,
+  "fetched_at": 1672795162,
   "data": [
-    {
-      "slug": "tournament/winter-siege/event/melee-singles",
-      "tournament_name": "Winter Siege",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/504806/image-c3208dd84362a5c080f51fac10f3358b.png?ehk=jgJHLzo2acTq9R82B3bTtvqfNpxFwzJP%2FIgW%2FVX5LVA%3D&ehkOptimized=0Y%2BasvGgpMlQu5SN9V7B1pe5%2BSIGjk2OCAtdr2NaHZw%3D",
-      "entrants": 5,
-      "start_time": 1672783200
-    },
-    {
-      "slug": "tournament/dad-s-house-online-7/event/melee-singles",
-      "tournament_name": "Dad's House: Online #7",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/509528/image-3b0400ec43df30f619795e5e438e363a.png?ehk=Nhs591wm6IGH6OIRFLYxo8X0rN8cQhRMUEo5yd55Ilk%3D&ehkOptimized=9YrvF7ssUlO3YFbPc48VWa%2Ft3KrJpDKb56yqAHOXvxU%3D",
-      "entrants": 3,
-      "start_time": 1672792200
-    },
-    {
-      "slug": "tournament/cataquackdown-21-ice-cold/event/melee-singles",
-      "tournament_name": "Cataquackdown 21: Ice Cold",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/508942/image-123a8b95b2fb895bc184db82cc87dad7.png?ehk=CtKsTtskqy%2Fo6WQ%2B4sF2cdlZMZQKGCy4inI%2Fk4Wjfro%3D&ehkOptimized=M4ER%2B469DhMgkOKvvKTNLPkPxi204DjcmTFziGfwipg%3D",
-      "entrants": 1,
-      "start_time": 1672794000
-    },
     {
       "slug": "tournament/epic-wednesday-doubles-4/event/melee-doubles",
       "tournament_name": "Epic Wednesday Doubles! #4",
@@ -78,7 +54,7 @@
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 57,
+      "entrants": 59,
       "start_time": 1672963200
     },
     {
