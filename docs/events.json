@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672870517,
+  "fetched_at": 1672871792,
   "data": [
     {
       "slug": "tournament/the-florida-colosseum-week-1-presented-by-slyfox-esports/event/melee-singles",
       "tournament_name": "The Florida Colosseum Week 1 | Presented by SlyFox Esports",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509447/image-fa7794b04825adc493ec4907994201c5.png?ehk=SC3txR3CG9XW5Uz5jGo9z%2BtAY55bRmTtto%2Fii8J8goo%3D&ehkOptimized=aOhADLqx5WKHUPmVsKRnOuoquWZHDe%2BzdMVd1hpytWI%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1672876800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Waddle Wednesday 51",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508744/image-bd247c67132032c26c67d154a027e6a0.png?ehk=rpwofVFlAaC8%2FbPIrefulwCMzZ5V41aHeMKgBLulKvw%3D&ehkOptimized=SPqYz2F4QrWvPz2Lovg91kVfoIlemVzdG4YaUr4jk7U%3D",
-      "entrants": 14,
+      "entrants": 17,
       "start_time": 1672880400
     },
     {
@@ -150,7 +150,7 @@
       "tournament_name": "UVA Melee Online - Holiday Special",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1673308800
     },
     {
