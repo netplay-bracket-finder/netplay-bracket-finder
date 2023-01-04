@@ -1,28 +1,28 @@
 {
-  "fetched_at": 1672872688,
+  "fetched_at": 1672874172,
   "data": [
     {
       "slug": "tournament/the-florida-colosseum-week-1-presented-by-slyfox-esports/event/melee-singles",
       "tournament_name": "The Florida Colosseum Week 1 | Presented by SlyFox Esports",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509447/image-fa7794b04825adc493ec4907994201c5.png?ehk=SC3txR3CG9XW5Uz5jGo9z%2BtAY55bRmTtto%2Fii8J8goo%3D&ehkOptimized=aOhADLqx5WKHUPmVsKRnOuoquWZHDe%2BzdMVd1hpytWI%3D",
-      "entrants": 9,
+      "entrants": 11,
       "start_time": 1672876800
-    },
-    {
-      "slug": "tournament/tn-netplay-weeklies-closed-again-edition/event/melee-singles",
-      "tournament_name": "TN Netplay \"Weeklies Closed Again\" Edition",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/509740/image-2019636cfcd8701cfa3ed9dd95cae019.jpg?ehk=87jnJokNQBCZn65zbrKrcU%2BQFnPqOumL9a%2BcyDKTilw%3D&ehkOptimized=8SjKnLST6O4%2F7jliWj4lYjXJNIEhPvc6P59COFANqLs%3D",
-      "entrants": 13,
-      "start_time": 1672880400
     },
     {
       "slug": "tournament/waddle-wednesday-51/event/melee-singles",
       "tournament_name": "Waddle Wednesday 51",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508744/image-bd247c67132032c26c67d154a027e6a0.png?ehk=rpwofVFlAaC8%2FbPIrefulwCMzZ5V41aHeMKgBLulKvw%3D&ehkOptimized=SPqYz2F4QrWvPz2Lovg91kVfoIlemVzdG4YaUr4jk7U%3D",
-      "entrants": 18,
+      "entrants": 20,
+      "start_time": 1672880400
+    },
+    {
+      "slug": "tournament/tn-netplay-weeklies-closed-again-edition/event/melee-singles",
+      "tournament_name": "TN Netplay \"Weeklies Closed Again\" Edition",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/509740/image-2019636cfcd8701cfa3ed9dd95cae019.jpg?ehk=87jnJokNQBCZn65zbrKrcU%2BQFnPqOumL9a%2BcyDKTilw%3D&ehkOptimized=8SjKnLST6O4%2F7jliWj4lYjXJNIEhPvc6P59COFANqLs%3D",
+      "entrants": 14,
       "start_time": 1672880400
     },
     {
