@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672835473,
+  "fetched_at": 1672837462,
   "data": [
     {
       "slug": "tournament/the-florida-colosseum-week-1-presented-by-slyfox-esports/event/melee-singles",
       "tournament_name": "The Florida Colosseum Week 1 | Presented by SlyFox Esports",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509447/image-fa7794b04825adc493ec4907994201c5.png?ehk=SC3txR3CG9XW5Uz5jGo9z%2BtAY55bRmTtto%2Fii8J8goo%3D&ehkOptimized=aOhADLqx5WKHUPmVsKRnOuoquWZHDe%2BzdMVd1hpytWI%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1672876800
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #46 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508564/image-6237187490226d4205691ba9a98747d9.png?ehk=uWtUHhjQD4s40paPeBNxLSuxFe4%2Fo2dNW8JKC8Nr7mI%3D&ehkOptimized=cMw5B5UrXi9GM4haePcEU4Lv7c4e4MT93a3pZJYm8Ow%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1672941600
     },
     {
