@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672937316,
+  "fetched_at": 1672938883,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-46-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #46 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508564/image-6237187490226d4205691ba9a98747d9.png?ehk=uWtUHhjQD4s40paPeBNxLSuxFe4%2Fo2dNW8JKC8Nr7mI%3D&ehkOptimized=cMw5B5UrXi9GM4haePcEU4Lv7c4e4MT93a3pZJYm8Ow%3D",
-      "entrants": 14,
+      "entrants": 16,
       "start_time": 1672941600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #46 (EU Event)",
       "event_name": "Toblerone waitlist",
       "image": "https://images.start.gg/images/tournament/508564/image-6237187490226d4205691ba9a98747d9.png?ehk=uWtUHhjQD4s40paPeBNxLSuxFe4%2Fo2dNW8JKC8Nr7mI%3D&ehkOptimized=cMw5B5UrXi9GM4haePcEU4Lv7c4e4MT93a3pZJYm8Ow%3D",
-      "entrants": 0,
+      "entrants": 2,
       "start_time": 1672941600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Troppo Italiano #80",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/510062/image-a0bdfe2c32f3a195d7ad12e3e75dc4d3.jpg?ehk=rNE%2FCRP80GCgQB18TDo0O4Ma%2BNe8YtyDuwjY4%2BbIyYU%3D&ehkOptimized=7MTfGMB8LR1W1u3i8YHqA%2B28JrJiMkHDz%2BGZvZIz2bc%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1672948800
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 122,
+      "entrants": 129,
       "start_time": 1672963200
     },
     {
@@ -50,11 +50,19 @@
       "start_time": 1672965000
     },
     {
+      "slug": "tournament/thursday-thmackdown-15/event/melee-singles",
+      "tournament_name": "Thursday Thmackdown #15",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/510070/image-2cbdbe4be16957134db6fc21b70ea6d0.png?ehk=YTVxkk%2F%2BxbUAzogCgx9qKBw47YTImriQcKLy2L6iJTU%3D&ehkOptimized=w6fd%2Fi1teiHhAfvyYjViPXtKcXduEk1TLvCPtH86coo%3D",
+      "entrants": 0,
+      "start_time": 1672970400
+    },
+    {
       "slug": "tournament/beginner-beatdown-86/event/melee-singles",
       "tournament_name": "Beginner Beatdown 86",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509724/image-c63df35e7a6033e423b43aca6d038f5a.png?ehk=SbS%2BYJDfKeYgK9A4c%2BvNNZ8pGE7pENWFxICyfoQHtpI%3D&ehkOptimized=kySEQmakzuRgyzFduvRG0jujBCERkoeh6K%2FYzn0OWC0%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1672988400
     },
     {
@@ -166,7 +174,7 @@
       "tournament_name": "Waddle Dee's Widdle Arcadian 2",
       "event_name": "Melee Arcadian Singles",
       "image": "https://images.start.gg/images/tournament/508398/image-7f7f28ecd7626ee4b629efcad1aafe9a.png?ehk=mzT%2BdfjAwd6tp2VDuWVyX0XuZ7r6ED8vgT0uwGL59pw%3D&ehkOptimized=iWxp9dXiXrtc230H7ojcmKa0GBe1ylSVipGGnthuuHk%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1673744400
     },
     {
