@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672944719,
+  "fetched_at": 1672945988,
   "data": [
     {
       "slug": "tournament/troppo-italiano-80/event/singles",
       "tournament_name": "Troppo Italiano #80",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/510062/image-a0bdfe2c32f3a195d7ad12e3e75dc4d3.jpg?ehk=rNE%2FCRP80GCgQB18TDo0O4Ma%2BNe8YtyDuwjY4%2BbIyYU%3D&ehkOptimized=7MTfGMB8LR1W1u3i8YHqA%2B28JrJiMkHDz%2BGZvZIz2bc%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1672948800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 154,
+      "entrants": 159,
       "start_time": 1672963200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "NASB But Worse",
       "event_name": "NASB Sin-Wait No Melee Singles",
       "image": "https://images.start.gg/images/tournament/510046/image-41670f841aed76edb87c36ef595f0e80.png?ehk=W4Nok%2Bgkqj%2BzhdAL512rJL6KlWssclyiq9hWpIzhi3U%3D&ehkOptimized=aE1lcBliW9edQUld1otSiv%2BKpycrBSk9Ji%2BLUDZTqzA%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1672965000
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Beginner Beatdown 86",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509724/image-c63df35e7a6033e423b43aca6d038f5a.png?ehk=SbS%2BYJDfKeYgK9A4c%2BvNNZ8pGE7pENWFxICyfoQHtpI%3D&ehkOptimized=kySEQmakzuRgyzFduvRG0jujBCERkoeh6K%2FYzn0OWC0%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1672988400
     },
     {
@@ -72,6 +72,14 @@
       "image": "https://images.start.gg/images/tournament/509702/image-5ffd404f3a7afa62eeb834de476a58d1.png?ehk=xclCPjw1Ihz46cIym0Fs1kNtDMMHWls6N6EMkEp4kQ8%3D&ehkOptimized=nTjufs8U78ZQ6SEz62nhHRq9riTaAviCz2k1O%2FO7aWw%3D",
       "entrants": 11,
       "start_time": 1673049600
+    },
+    {
+      "slug": "tournament/euro-noobs/event/melee-singles",
+      "tournament_name": "euro noobs",
+      "event_name": "melee singles",
+      "image": "",
+      "entrants": 0,
+      "start_time": 1673100000
     },
     {
       "slug": "tournament/super-scuffed-smash-saturday-2/event/melee-singles",
@@ -142,7 +150,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1673722800
     },
     {
