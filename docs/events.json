@@ -1,28 +1,12 @@
 {
-  "fetched_at": 1672941089,
+  "fetched_at": 1672942826,
   "data": [
-    {
-      "slug": "tournament/toblerone-tangerine-thursdays-46-eu-event/event/melee-singles",
-      "tournament_name": "Toblerone Tangerine Thursdays #46 (EU Event)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/508564/image-6237187490226d4205691ba9a98747d9.png?ehk=uWtUHhjQD4s40paPeBNxLSuxFe4%2Fo2dNW8JKC8Nr7mI%3D&ehkOptimized=cMw5B5UrXi9GM4haePcEU4Lv7c4e4MT93a3pZJYm8Ow%3D",
-      "entrants": 16,
-      "start_time": 1672941600
-    },
-    {
-      "slug": "tournament/toblerone-tangerine-thursdays-46-eu-event/event/toblerone-waitlist",
-      "tournament_name": "Toblerone Tangerine Thursdays #46 (EU Event)",
-      "event_name": "Toblerone waitlist",
-      "image": "https://images.start.gg/images/tournament/508564/image-6237187490226d4205691ba9a98747d9.png?ehk=uWtUHhjQD4s40paPeBNxLSuxFe4%2Fo2dNW8JKC8Nr7mI%3D&ehkOptimized=cMw5B5UrXi9GM4haePcEU4Lv7c4e4MT93a3pZJYm8Ow%3D",
-      "entrants": 3,
-      "start_time": 1672941600
-    },
     {
       "slug": "tournament/troppo-italiano-80/event/singles",
       "tournament_name": "Troppo Italiano #80",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/510062/image-a0bdfe2c32f3a195d7ad12e3e75dc4d3.jpg?ehk=rNE%2FCRP80GCgQB18TDo0O4Ma%2BNe8YtyDuwjY4%2BbIyYU%3D&ehkOptimized=7MTfGMB8LR1W1u3i8YHqA%2B28JrJiMkHDz%2BGZvZIz2bc%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1672948800
     },
     {
@@ -30,7 +14,7 @@
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 136,
+      "entrants": 147,
       "start_time": 1672963200
     },
     {
@@ -46,7 +30,7 @@
       "tournament_name": "NASB But Worse",
       "event_name": "NASB Sin-Wait No Melee Singles",
       "image": "https://images.start.gg/images/tournament/510046/image-41670f841aed76edb87c36ef595f0e80.png?ehk=W4Nok%2Bgkqj%2BzhdAL512rJL6KlWssclyiq9hWpIzhi3U%3D&ehkOptimized=aE1lcBliW9edQUld1otSiv%2BKpycrBSk9Ji%2BLUDZTqzA%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1672965000
     },
     {
@@ -158,7 +142,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1673722800
     },
     {
