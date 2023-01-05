@@ -1,21 +1,13 @@
 {
-  "fetched_at": 1672887428,
+  "fetched_at": 1672888860,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-38/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #38",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/509697/image-96cbb39e5eddecb29617b5b6683cefec.png?ehk=yx5MwwvrG9TenWG3MPMnA%2BoVpXtc3U2iNaolVom9PE4%3D&ehkOptimized=1%2BVCqtqQmTv%2FHsrB%2F8Qi1%2F3wwMsd5F11zKM9z0jeFzk%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1672884000
-    },
-    {
-      "slug": "tournament/take-the-l-16-online-edition/event/melee-singles",
-      "tournament_name": "Take The L #16 - ONLINE EDITION",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/509345/image-60714349a8a1e84f95d3495281a06378.jpg?ehk=id%2FOB0cn1Dp0JgdYpSbF1kq9eg8IsGBEWVFqHFD0CSs%3D&ehkOptimized=pHMU7wc8rp3EzvCSj%2FD3gq94vkFMsU7QSInxf42TO7c%3D",
-      "entrants": 18,
-      "start_time": 1672888200
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-46-eu-event/event/melee-singles",
@@ -38,7 +30,7 @@
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 102,
+      "entrants": 104,
       "start_time": 1672963200
     },
     {
