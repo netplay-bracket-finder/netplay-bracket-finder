@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672959092,
+  "fetched_at": 1672960642,
   "data": [
     {
       "slug": "tournament/only-noobs-100/event/melee-singles",
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 226,
+      "entrants": 238,
       "start_time": 1672963200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "NASB But Worse",
       "event_name": "NASB Sin-Wait No Melee Singles",
       "image": "https://images.start.gg/images/tournament/510046/image-41670f841aed76edb87c36ef595f0e80.png?ehk=W4Nok%2Bgkqj%2BzhdAL512rJL6KlWssclyiq9hWpIzhi3U%3D&ehkOptimized=aE1lcBliW9edQUld1otSiv%2BKpycrBSk9Ji%2BLUDZTqzA%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1672965000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "UMass Off-Season Slippi Series 3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510115/image-237ca2e18eb45f3b3ad35c3da107e601.png?ehk=zl9sWZgNLCoGPgt1BlQCm6rbbJGpireFvYUQtkDfMhM%3D&ehkOptimized=UOgTP%2F0Rh7IE1mLYgDLo59EYzHcRyHV2FwhBvI0Mbf8%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1672966800
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Beginner Beatdown 86",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509724/image-c63df35e7a6033e423b43aca6d038f5a.png?ehk=SbS%2BYJDfKeYgK9A4c%2BvNNZ8pGE7pENWFxICyfoQHtpI%3D&ehkOptimized=kySEQmakzuRgyzFduvRG0jujBCERkoeh6K%2FYzn0OWC0%3D",
-      "entrants": 17,
+      "entrants": 19,
       "start_time": 1672988400
     },
     {
@@ -174,7 +174,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 23,
+      "entrants": 24,
       "start_time": 1673722800
     },
     {
