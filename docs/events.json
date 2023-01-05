@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672953263,
+  "fetched_at": 1672953998,
   "data": [
     {
       "slug": "tournament/only-noobs-100/event/melee-singles",
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 188,
+      "entrants": 192,
       "start_time": 1672963200
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Thursday Thmackdown #15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510070/image-2cbdbe4be16957134db6fc21b70ea6d0.png?ehk=YTVxkk%2F%2BxbUAzogCgx9qKBw47YTImriQcKLy2L6iJTU%3D&ehkOptimized=w6fd%2Fi1teiHhAfvyYjViPXtKcXduEk1TLvCPtH86coo%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1672970400
     },
     {
