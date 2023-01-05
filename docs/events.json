@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672955476,
+  "fetched_at": 1672956950,
   "data": [
     {
       "slug": "tournament/only-noobs-100/event/melee-singles",
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 195,
+      "entrants": 206,
       "start_time": 1672963200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "NASB But Worse",
       "event_name": "NASB Sin-Wait No Melee Singles",
       "image": "https://images.start.gg/images/tournament/510046/image-41670f841aed76edb87c36ef595f0e80.png?ehk=W4Nok%2Bgkqj%2BzhdAL512rJL6KlWssclyiq9hWpIzhi3U%3D&ehkOptimized=aE1lcBliW9edQUld1otSiv%2BKpycrBSk9Ji%2BLUDZTqzA%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1672965000
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Beginner Beatdown 86",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509724/image-c63df35e7a6033e423b43aca6d038f5a.png?ehk=SbS%2BYJDfKeYgK9A4c%2BvNNZ8pGE7pENWFxICyfoQHtpI%3D&ehkOptimized=kySEQmakzuRgyzFduvRG0jujBCERkoeh6K%2FYzn0OWC0%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1672988400
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "RAVN Rumble #12",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509702/image-5ffd404f3a7afa62eeb834de476a58d1.png?ehk=xclCPjw1Ihz46cIym0Fs1kNtDMMHWls6N6EMkEp4kQ8%3D&ehkOptimized=nTjufs8U78ZQ6SEz62nhHRq9riTaAviCz2k1O%2FO7aWw%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1673049600
     },
     {
