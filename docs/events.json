@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672949857,
+  "fetched_at": 1672951025,
   "data": [
     {
       "slug": "tournament/only-noobs-100/event/melee-singles",
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 175,
+      "entrants": 177,
       "start_time": 1672963200
     },
     {
@@ -24,6 +24,14 @@
       "image": "https://images.start.gg/images/tournament/510046/image-41670f841aed76edb87c36ef595f0e80.png?ehk=W4Nok%2Bgkqj%2BzhdAL512rJL6KlWssclyiq9hWpIzhi3U%3D&ehkOptimized=aE1lcBliW9edQUld1otSiv%2BKpycrBSk9Ji%2BLUDZTqzA%3D",
       "entrants": 3,
       "start_time": 1672965000
+    },
+    {
+      "slug": "tournament/umass-off-season-slippi-series-3/event/melee-singles",
+      "tournament_name": "UMass Off-Season Slippi Series 3",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/510115/image-237ca2e18eb45f3b3ad35c3da107e601.png?ehk=zl9sWZgNLCoGPgt1BlQCm6rbbJGpireFvYUQtkDfMhM%3D&ehkOptimized=UOgTP%2F0Rh7IE1mLYgDLo59EYzHcRyHV2FwhBvI0Mbf8%3D",
+      "entrants": 1,
+      "start_time": 1672966800
     },
     {
       "slug": "tournament/thursday-thmackdown-15/event/melee-singles",
@@ -128,6 +136,14 @@
       "image": "",
       "entrants": 5,
       "start_time": 1673308800
+    },
+    {
+      "slug": "tournament/umass-off-season-slippi-series-arcadian/event/melee-singles",
+      "tournament_name": "UMass Off-Season Slippi Series ARCADIAN",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/510117/image-a051672a1b417f2c65e7f93bb4ba2f41.png?ehk=VUwWgBzUN9OPz2drHHw6BCUngRV8hhcQatTvscV6Xp4%3D&ehkOptimized=s925VKSyqFQ%2BdoImd%2B4T3pef4vpUBFjPg0i8Lb0A90w%3D",
+      "entrants": 0,
+      "start_time": 1673571600
     },
     {
       "slug": "tournament/the-hi-rise-2/event/melee-singles",
