@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672953998,
+  "fetched_at": 1672954684,
   "data": [
     {
       "slug": "tournament/only-noobs-100/event/melee-singles",
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 192,
+      "entrants": 194,
       "start_time": 1672963200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "AL (in spirit online) 1/5/23",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509970/image-cac6a39c7d8050bdbce6ec42024d4bad.png?ehk=uUu5wD5EBO2P5V6eSS8QeomTE1si5AULKfdBbr4LHb8%3D&ehkOptimized=fRwr5E4271g5OyHbQjv0NTt3FHGDlvEIkEadbuRI8AQ%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1672963200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "NASB But Worse",
       "event_name": "NASB Sin-Wait No Melee Singles",
       "image": "https://images.start.gg/images/tournament/510046/image-41670f841aed76edb87c36ef595f0e80.png?ehk=W4Nok%2Bgkqj%2BzhdAL512rJL6KlWssclyiq9hWpIzhi3U%3D&ehkOptimized=aE1lcBliW9edQUld1otSiv%2BKpycrBSk9Ji%2BLUDZTqzA%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1672965000
     },
     {
