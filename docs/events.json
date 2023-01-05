@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1672897876,
+  "fetched_at": 1672899541,
   "data": [
-    {
-      "slug": "tournament/silver-slippi-league-38/event/melee-ranked-ladder",
-      "tournament_name": "Silver Slippi League #38",
-      "event_name": "Melee Ranked Ladder",
-      "image": "https://images.start.gg/images/tournament/509697/image-96cbb39e5eddecb29617b5b6683cefec.png?ehk=yx5MwwvrG9TenWG3MPMnA%2BoVpXtc3U2iNaolVom9PE4%3D&ehkOptimized=1%2BVCqtqQmTv%2FHsrB%2F8Qi1%2F3wwMsd5F11zKM9z0jeFzk%3D",
-      "entrants": 24,
-      "start_time": 1672884000
-    },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-46-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #46 (EU Event)",
@@ -142,7 +134,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1673722800
     },
     {
@@ -174,7 +166,7 @@
       "tournament_name": "Waddle Dee's Spartan Arena",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508401/image-0603534541015aa392b5ad2f4a55310f.png?ehk=Mx7QVuL1EhTjg2NT90OsZpbZfAMMhV5JXeOwwlBPT%2BQ%3D&ehkOptimized=pk1zqm5Sx2R26khXgF5cneKqp5S7mzWJQvfwAP72oKs%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1673830800
     },
     {
