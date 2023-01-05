@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1672951880,
+  "fetched_at": 1672953263,
   "data": [
     {
       "slug": "tournament/only-noobs-100/event/melee-singles",
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 181,
+      "entrants": 188,
       "start_time": 1672963200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "AL (in spirit online) 1/5/23",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509970/image-cac6a39c7d8050bdbce6ec42024d4bad.png?ehk=uUu5wD5EBO2P5V6eSS8QeomTE1si5AULKfdBbr4LHb8%3D&ehkOptimized=fRwr5E4271g5OyHbQjv0NTt3FHGDlvEIkEadbuRI8AQ%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1672963200
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "The Bong House",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/504923/image-8d43eb675abf43b313d1c7bef67344a6.png?ehk=a%2Fb974aQG%2FM2MJ9XDxIFW841647c3cAlDXkY8aR%2FIGc%3D&ehkOptimized=sc7%2BxBp0hO8suMk0c1ObO4pRmhj7FenIErghTHm8MJA%3D",
-      "entrants": 37,
+      "entrants": 38,
       "start_time": 1673046000
     },
     {
