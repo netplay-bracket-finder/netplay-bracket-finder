@@ -1,36 +1,12 @@
 {
-  "fetched_at": 1672876285,
+  "fetched_at": 1672881705,
   "data": [
-    {
-      "slug": "tournament/the-florida-colosseum-week-1-presented-by-slyfox-esports/event/melee-singles",
-      "tournament_name": "The Florida Colosseum Week 1 | Presented by SlyFox Esports",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/509447/image-fa7794b04825adc493ec4907994201c5.png?ehk=SC3txR3CG9XW5Uz5jGo9z%2BtAY55bRmTtto%2Fii8J8goo%3D&ehkOptimized=aOhADLqx5WKHUPmVsKRnOuoquWZHDe%2BzdMVd1hpytWI%3D",
-      "entrants": 14,
-      "start_time": 1672876800
-    },
-    {
-      "slug": "tournament/tn-netplay-weeklies-closed-again-edition/event/melee-singles",
-      "tournament_name": "TN Netplay \"Weeklies Closed Again\" Edition",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/509740/image-2019636cfcd8701cfa3ed9dd95cae019.jpg?ehk=87jnJokNQBCZn65zbrKrcU%2BQFnPqOumL9a%2BcyDKTilw%3D&ehkOptimized=8SjKnLST6O4%2F7jliWj4lYjXJNIEhPvc6P59COFANqLs%3D",
-      "entrants": 16,
-      "start_time": 1672880400
-    },
-    {
-      "slug": "tournament/waddle-wednesday-51/event/melee-singles",
-      "tournament_name": "Waddle Wednesday 51",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/508744/image-bd247c67132032c26c67d154a027e6a0.png?ehk=rpwofVFlAaC8%2FbPIrefulwCMzZ5V41aHeMKgBLulKvw%3D&ehkOptimized=SPqYz2F4QrWvPz2Lovg91kVfoIlemVzdG4YaUr4jk7U%3D",
-      "entrants": 31,
-      "start_time": 1672880400
-    },
     {
       "slug": "tournament/silver-slippi-league-38/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #38",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/509697/image-96cbb39e5eddecb29617b5b6683cefec.png?ehk=yx5MwwvrG9TenWG3MPMnA%2BoVpXtc3U2iNaolVom9PE4%3D&ehkOptimized=1%2BVCqtqQmTv%2FHsrB%2F8Qi1%2F3wwMsd5F11zKM9z0jeFzk%3D",
-      "entrants": 7,
+      "entrants": 12,
       "start_time": 1672884000
     },
     {
@@ -38,7 +14,7 @@
       "tournament_name": "Take The L #16 - ONLINE EDITION",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509345/image-60714349a8a1e84f95d3495281a06378.jpg?ehk=id%2FOB0cn1Dp0JgdYpSbF1kq9eg8IsGBEWVFqHFD0CSs%3D&ehkOptimized=pHMU7wc8rp3EzvCSj%2FD3gq94vkFMsU7QSInxf42TO7c%3D",
-      "entrants": 12,
+      "entrants": 14,
       "start_time": 1672887600
     },
     {
@@ -62,7 +38,7 @@
       "tournament_name": "Only Noobs 100",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/500769/image-8623ea60fa70e8cb155568a2fb6e4039.png?ehk=xM0dSXtj08OAfPwF32YIHbUeNDr%2BsoCQfaf9ojaffmg%3D&ehkOptimized=KizATbLRSnfgpKV%2F67o3dPa%2F9SR9gb9I6JY1%2FvbQkMU%3D",
-      "entrants": 96,
+      "entrants": 101,
       "start_time": 1672963200
     },
     {
@@ -70,7 +46,7 @@
       "tournament_name": "Beginner Beatdown 86",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509724/image-c63df35e7a6033e423b43aca6d038f5a.png?ehk=SbS%2BYJDfKeYgK9A4c%2BvNNZ8pGE7pENWFxICyfoQHtpI%3D&ehkOptimized=kySEQmakzuRgyzFduvRG0jujBCERkoeh6K%2FYzn0OWC0%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1672988400
     },
     {
@@ -110,7 +86,7 @@
       "tournament_name": "After Dark Melee 10",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/509003/image-0099d4e3477f5bfdfc13b195f723f98e.png?ehk=sts0eDI%2Fbw5IiHKw5L%2FM01ksE2so32tmw18bXKoYu2A%3D&ehkOptimized=wiGiVsjhQNVirkYc4ZVvdKjqDpfEv8UZ6zg3a%2FrSqq8%3D",
-      "entrants": 6,
+      "entrants": 8,
       "start_time": 1673122500
     },
     {
