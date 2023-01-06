@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1672983545,
+  "fetched_at": 1672984291,
   "data": [
     {
       "slug": "tournament/beginner-beatdown-86/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "East Coast Fridays #235",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510217/image-3e168a922608d032c8c2e1a6bd3943d2.png?ehk=jr1MpIsEUHfDmftIpECe1HFpGxftUisIBT%2Fl05q4b%2Fk%3D&ehkOptimized=rEULa8yTXm%2FrCFKQ61%2BzpSzSB62JsW9OcUOBBMeOmwY%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1673053200
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Scrub Summit 13",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/510008/image-5ba0a2f7cf55d6441ead3231cc6a9789.png?ehk=y4451pcWmAjrFZVr4YhKDgZkj%2FLmyYGCRfA5VPN4vzY%3D&ehkOptimized=rlXCjFmlGj270kDpBy9JKnxdYi0PentRbpfKDWMsTj0%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1673125200
     },
     {
