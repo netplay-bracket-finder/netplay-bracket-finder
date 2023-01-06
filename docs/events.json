@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673022177,
+  "fetched_at": 1673023567,
   "data": [
     {
       "slug": "tournament/ravn-rumble-12/event/melee-singles",
@@ -8,6 +8,14 @@
       "image": "https://images.start.gg/images/tournament/509702/image-5ffd404f3a7afa62eeb834de476a58d1.png?ehk=xclCPjw1Ihz46cIym0Fs1kNtDMMHWls6N6EMkEp4kQ8%3D&ehkOptimized=nTjufs8U78ZQ6SEz62nhHRq9riTaAviCz2k1O%2FO7aWw%3D",
       "entrants": 14,
       "start_time": 1673049600
+    },
+    {
+      "slug": "tournament/the-dojo-37-1/event/melee-singles",
+      "tournament_name": "The Dojo #37",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/510307/image-19feb3b0b347b40f334e79c6576c463e.jpg?ehk=cTXykpC%2F9tZFKey%2BcejS9bfY6aKfbrEL9obj4vmFTf4%3D&ehkOptimized=MIoOLbsha2lpbG95Kv9oMHuipkBGksgCMytoBcesVC0%3D",
+      "entrants": 0,
+      "start_time": 1673051400
     },
     {
       "slug": "tournament/east-coast-fridays-235/event/melee-singles",
