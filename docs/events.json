@@ -1,36 +1,20 @@
 {
-  "fetched_at": 1672962684,
+  "fetched_at": 1672968087,
   "data": [
-    {
-      "slug": "tournament/al-in-spirit-online-1-5-23/event/melee-singles",
-      "tournament_name": "AL (in spirit online) 1/5/23",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/509970/image-cac6a39c7d8050bdbce6ec42024d4bad.png?ehk=uUu5wD5EBO2P5V6eSS8QeomTE1si5AULKfdBbr4LHb8%3D&ehkOptimized=fRwr5E4271g5OyHbQjv0NTt3FHGDlvEIkEadbuRI8AQ%3D",
-      "entrants": 5,
-      "start_time": 1672963200
-    },
     {
       "slug": "tournament/nasb-but-worse/event/nasb-sin-wait-no-melee-singles",
       "tournament_name": "NASB But Worse",
       "event_name": "NASB Sin-Wait No Melee Singles",
       "image": "https://images.start.gg/images/tournament/510046/image-41670f841aed76edb87c36ef595f0e80.png?ehk=W4Nok%2Bgkqj%2BzhdAL512rJL6KlWssclyiq9hWpIzhi3U%3D&ehkOptimized=aE1lcBliW9edQUld1otSiv%2BKpycrBSk9Ji%2BLUDZTqzA%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1672965000
-    },
-    {
-      "slug": "tournament/umass-off-season-slippi-series-3/event/melee-singles",
-      "tournament_name": "UMass Off-Season Slippi Series 3",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/510115/image-237ca2e18eb45f3b3ad35c3da107e601.png?ehk=zl9sWZgNLCoGPgt1BlQCm6rbbJGpireFvYUQtkDfMhM%3D&ehkOptimized=UOgTP%2F0Rh7IE1mLYgDLo59EYzHcRyHV2FwhBvI0Mbf8%3D",
-      "entrants": 5,
-      "start_time": 1672966800
     },
     {
       "slug": "tournament/thursday-thmackdown-15/event/melee-singles",
       "tournament_name": "Thursday Thmackdown #15",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510070/image-2cbdbe4be16957134db6fc21b70ea6d0.png?ehk=YTVxkk%2F%2BxbUAzogCgx9qKBw47YTImriQcKLy2L6iJTU%3D&ehkOptimized=w6fd%2Fi1teiHhAfvyYjViPXtKcXduEk1TLvCPtH86coo%3D",
-      "entrants": 1,
+      "entrants": 4,
       "start_time": 1672970400
     },
     {
@@ -38,7 +22,7 @@
       "tournament_name": "Beginner Beatdown 86",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509724/image-c63df35e7a6033e423b43aca6d038f5a.png?ehk=SbS%2BYJDfKeYgK9A4c%2BvNNZ8pGE7pENWFxICyfoQHtpI%3D&ehkOptimized=kySEQmakzuRgyzFduvRG0jujBCERkoeh6K%2FYzn0OWC0%3D",
-      "entrants": 20,
+      "entrants": 24,
       "start_time": 1672988400
     },
     {
@@ -102,7 +86,7 @@
       "tournament_name": "Scrub Summit 13",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/510008/image-5ba0a2f7cf55d6441ead3231cc6a9789.png?ehk=y4451pcWmAjrFZVr4YhKDgZkj%2FLmyYGCRfA5VPN4vzY%3D&ehkOptimized=rlXCjFmlGj270kDpBy9JKnxdYi0PentRbpfKDWMsTj0%3D",
-      "entrants": 5,
+      "entrants": 12,
       "start_time": 1673125200
     },
     {
@@ -206,7 +190,7 @@
       "tournament_name": "POLYPUFF.",
       "event_name": "MELEE SINGLES.",
       "image": "https://images.start.gg/images/tournament/500504/image-cbb396b8b534bdd41041e657b6e18cfc.jpg?ehk=u6Q6lmVuGQInUd7%2F0LahR%2FingKtzU1JHOMML76nFo7M%3D&ehkOptimized=X8z%2BUq9%2FN29u7AQ7gat8fbIKk%2F9wuq0xsHcFHci%2BeKE%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1673827200
     },
     {
