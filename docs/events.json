@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673041018,
+  "fetched_at": 1673041877,
   "data": [
     {
       "slug": "tournament/ravn-rumble-12/event/melee-singles",
@@ -22,8 +22,16 @@
       "tournament_name": "East Coast Fridays #235",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510217/image-3e168a922608d032c8c2e1a6bd3943d2.png?ehk=jr1MpIsEUHfDmftIpECe1HFpGxftUisIBT%2Fl05q4b%2Fk%3D&ehkOptimized=rEULa8yTXm%2FrCFKQ61%2BzpSzSB62JsW9OcUOBBMeOmwY%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1673053200
+    },
+    {
+      "slug": "tournament/the-shallow-end-16-a-wc-newbie-bracket/event/melee-singles",
+      "tournament_name": "The Shallow End #16 - a WC newbie bracket",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/510387/image-d6a6cf832155ce972b2f7787d9f4d320.jpg?ehk=1%2Bn1t4hlbVY60MDMwJIVPCnaOXv2BcEsl6ItXomGfco%3D&ehkOptimized=%2BcK7kf7rwH%2F7BGFu0sldZnQZKmbftJUMwBQI%2FnJKl5o%3D",
+      "entrants": 0,
+      "start_time": 1673055900
     },
     {
       "slug": "tournament/euro-noobs/event/melee-singles",
@@ -62,7 +70,7 @@
       "tournament_name": "Scrub Summit 13",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/510008/image-5ba0a2f7cf55d6441ead3231cc6a9789.png?ehk=y4451pcWmAjrFZVr4YhKDgZkj%2FLmyYGCRfA5VPN4vzY%3D&ehkOptimized=rlXCjFmlGj270kDpBy9JKnxdYi0PentRbpfKDWMsTj0%3D",
-      "entrants": 19,
+      "entrants": 20,
       "start_time": 1673125200
     },
     {
