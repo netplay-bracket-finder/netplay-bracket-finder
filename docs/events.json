@@ -1,28 +1,12 @@
 {
-  "fetched_at": 1672968087,
+  "fetched_at": 1672972473,
   "data": [
-    {
-      "slug": "tournament/nasb-but-worse/event/nasb-sin-wait-no-melee-singles",
-      "tournament_name": "NASB But Worse",
-      "event_name": "NASB Sin-Wait No Melee Singles",
-      "image": "https://images.start.gg/images/tournament/510046/image-41670f841aed76edb87c36ef595f0e80.png?ehk=W4Nok%2Bgkqj%2BzhdAL512rJL6KlWssclyiq9hWpIzhi3U%3D&ehkOptimized=aE1lcBliW9edQUld1otSiv%2BKpycrBSk9Ji%2BLUDZTqzA%3D",
-      "entrants": 10,
-      "start_time": 1672965000
-    },
-    {
-      "slug": "tournament/thursday-thmackdown-15/event/melee-singles",
-      "tournament_name": "Thursday Thmackdown #15",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/510070/image-2cbdbe4be16957134db6fc21b70ea6d0.png?ehk=YTVxkk%2F%2BxbUAzogCgx9qKBw47YTImriQcKLy2L6iJTU%3D&ehkOptimized=w6fd%2Fi1teiHhAfvyYjViPXtKcXduEk1TLvCPtH86coo%3D",
-      "entrants": 4,
-      "start_time": 1672970400
-    },
     {
       "slug": "tournament/beginner-beatdown-86/event/melee-singles",
       "tournament_name": "Beginner Beatdown 86",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509724/image-c63df35e7a6033e423b43aca6d038f5a.png?ehk=SbS%2BYJDfKeYgK9A4c%2BvNNZ8pGE7pENWFxICyfoQHtpI%3D&ehkOptimized=kySEQmakzuRgyzFduvRG0jujBCERkoeh6K%2FYzn0OWC0%3D",
-      "entrants": 24,
+      "entrants": 27,
       "start_time": 1672988400
     },
     {
@@ -46,7 +30,7 @@
       "tournament_name": "RAVN Rumble #12",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509702/image-5ffd404f3a7afa62eeb834de476a58d1.png?ehk=xclCPjw1Ihz46cIym0Fs1kNtDMMHWls6N6EMkEp4kQ8%3D&ehkOptimized=nTjufs8U78ZQ6SEz62nhHRq9riTaAviCz2k1O%2FO7aWw%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1673049600
     },
     {
@@ -86,7 +70,7 @@
       "tournament_name": "Scrub Summit 13",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/510008/image-5ba0a2f7cf55d6441ead3231cc6a9789.png?ehk=y4451pcWmAjrFZVr4YhKDgZkj%2FLmyYGCRfA5VPN4vzY%3D&ehkOptimized=rlXCjFmlGj270kDpBy9JKnxdYi0PentRbpfKDWMsTj0%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1673125200
     },
     {
