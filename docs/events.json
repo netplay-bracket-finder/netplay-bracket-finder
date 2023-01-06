@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1672987232,
+  "fetched_at": 1672987896,
   "data": [
-    {
-      "slug": "tournament/beginner-beatdown-86/event/melee-singles",
-      "tournament_name": "Beginner Beatdown 86",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/509724/image-c63df35e7a6033e423b43aca6d038f5a.png?ehk=SbS%2BYJDfKeYgK9A4c%2BvNNZ8pGE7pENWFxICyfoQHtpI%3D&ehkOptimized=kySEQmakzuRgyzFduvRG0jujBCERkoeh6K%2FYzn0OWC0%3D",
-      "entrants": 38,
-      "start_time": 1672988400
-    },
     {
       "slug": "tournament/ravn-rumble-12/event/melee-singles",
       "tournament_name": "RAVN Rumble #12",
