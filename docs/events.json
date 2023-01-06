@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673013084,
+  "fetched_at": 1673014463,
   "data": [
     {
       "slug": "tournament/ravn-rumble-12/event/melee-singles",
@@ -72,6 +72,14 @@
       "image": "https://images.start.gg/images/tournament/472593/image-9f81ab3fdc241d1e21500866290ea986.png?ehk=VRLRa2yERmo6ofIvXi4Hp8GeTE3a30Gjg1GtIJhDypg%3D&ehkOptimized=PyBAZoltQxa0nW5fBHQff%2F7jrbIrrOm1Q6JaDIUjwzg%3D",
       "entrants": 6,
       "start_time": 1673125500
+    },
+    {
+      "slug": "tournament/melee-puerto-rico-exists-every-saturday-7pm/event/melee-pr",
+      "tournament_name": "MELEE PUERTO RICO EXISTS (every saturday 7pm)",
+      "event_name": "melee PR",
+      "image": "",
+      "entrants": null,
+      "start_time": 1673132400
     },
     {
       "slug": "tournament/fight-of-the-fearless-34/event/fight-of-the-fearless-single",
