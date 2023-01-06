@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1673034681,
+  "fetched_at": 1673036217,
   "data": [
     {
       "slug": "tournament/ravn-rumble-12/event/melee-singles",
       "tournament_name": "RAVN Rumble #12",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/509702/image-5ffd404f3a7afa62eeb834de476a58d1.png?ehk=xclCPjw1Ihz46cIym0Fs1kNtDMMHWls6N6EMkEp4kQ8%3D&ehkOptimized=nTjufs8U78ZQ6SEz62nhHRq9riTaAviCz2k1O%2FO7aWw%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1673049600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "East Coast Fridays #235",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510217/image-3e168a922608d032c8c2e1a6bd3943d2.png?ehk=jr1MpIsEUHfDmftIpECe1HFpGxftUisIBT%2Fl05q4b%2Fk%3D&ehkOptimized=rEULa8yTXm%2FrCFKQ61%2BzpSzSB62JsW9OcUOBBMeOmwY%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1673053200
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Scrub Summit 13",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/510008/image-5ba0a2f7cf55d6441ead3231cc6a9789.png?ehk=y4451pcWmAjrFZVr4YhKDgZkj%2FLmyYGCRfA5VPN4vzY%3D&ehkOptimized=rlXCjFmlGj270kDpBy9JKnxdYi0PentRbpfKDWMsTj0%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1673125200
     },
     {
@@ -174,7 +174,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 25,
+      "entrants": 26,
       "start_time": 1673722800
     },
     {
