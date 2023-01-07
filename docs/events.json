@@ -1,29 +1,13 @@
 {
-  "fetched_at": 1673049076,
+  "fetched_at": 1673054319,
   "data": [
-    {
-      "slug": "tournament/the-dojo-37-1/event/melee-singles",
-      "tournament_name": "The Dojo #37",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/510307/image-19feb3b0b347b40f334e79c6576c463e.jpg?ehk=cTXykpC%2F9tZFKey%2BcejS9bfY6aKfbrEL9obj4vmFTf4%3D&ehkOptimized=MIoOLbsha2lpbG95Kv9oMHuipkBGksgCMytoBcesVC0%3D",
-      "entrants": 1,
-      "start_time": 1673051400
-    },
     {
       "slug": "tournament/east-coast-fridays-235/event/melee-singles",
       "tournament_name": "East Coast Fridays #235",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510217/image-3e168a922608d032c8c2e1a6bd3943d2.png?ehk=jr1MpIsEUHfDmftIpECe1HFpGxftUisIBT%2Fl05q4b%2Fk%3D&ehkOptimized=rEULa8yTXm%2FrCFKQ61%2BzpSzSB62JsW9OcUOBBMeOmwY%3D",
-      "entrants": 39,
+      "entrants": 66,
       "start_time": 1673053200
-    },
-    {
-      "slug": "tournament/the-shallow-end-16-a-wc-newbie-bracket/event/melee-singles",
-      "tournament_name": "The Shallow End #16 - a WC newbie bracket",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/510387/image-d6a6cf832155ce972b2f7787d9f4d320.jpg?ehk=1%2Bn1t4hlbVY60MDMwJIVPCnaOXv2BcEsl6ItXomGfco%3D&ehkOptimized=%2BcK7kf7rwH%2F7BGFu0sldZnQZKmbftJUMwBQI%2FnJKl5o%3D",
-      "entrants": 3,
-      "start_time": 1673055900
     },
     {
       "slug": "tournament/euro-noobs/event/melee-singles",
@@ -96,14 +80,6 @@
       "image": "https://images.start.gg/images/tournament/510260/image-40bc3671d678a3eadc614ae898c019b7.png?ehk=iexvBsUeZZSCI0JJUylJGOUSnpN%2BVMM4bYkZCAA0U%2F4%3D&ehkOptimized=bdSPt9y4XJ%2F3r2G7%2B6l5%2Fi4ebpsF0JcZ%2FBMYLMIjFSo%3D",
       "entrants": 0,
       "start_time": 1673200800
-    },
-    {
-      "slug": "tournament/sizzling-sundays-beef-wellington-edition/event/melee-singles",
-      "tournament_name": "Sizzling Sundays: Beef Wellington edition!",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/494062/image-d49f5d852b020d5b51866dc344cb09d1.png?ehk=lmQcjP4hFmxZFVvZlbluJz3zJBPWCGDNxGRNOAmsiOk%3D&ehkOptimized=piYLetGX5IVNyK4fxCgbqyfRyJsHYb3vsfot6rxKAp8%3D",
-      "entrants": 5,
-      "start_time": 1673224200
     },
     {
       "slug": "tournament/pino-s-tired-of-0-2-104/event/tired-of-0-2",
