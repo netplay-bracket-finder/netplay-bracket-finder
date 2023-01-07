@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673130476,
+  "fetched_at": 1673131149,
   "data": [
     {
       "slug": "tournament/the-battlefields-62/event/melee-singles",
@@ -8,22 +8,6 @@
       "image": "https://images.start.gg/images/tournament/510571/image-5f0b2acd8945ef9409fcadf3004320cf.png?ehk=lbZdPHOL18T19uLfGqpvIe4EoiVxbvsy7Fn96eBjm80%3D&ehkOptimized=4AIMzUlWKRTh%2BxN5%2B%2FbQ0zy0w7S4bquDc3Kjcdyz%2F3U%3D",
       "entrants": 0,
       "start_time": 1673218800
-    },
-    {
-      "slug": "tournament/scrub-summit-13/event/singles-brackets",
-      "tournament_name": "Scrub Summit 13",
-      "event_name": "Singles Brackets",
-      "image": "https://images.start.gg/images/tournament/510008/image-5ba0a2f7cf55d6441ead3231cc6a9789.png?ehk=y4451pcWmAjrFZVr4YhKDgZkj%2FLmyYGCRfA5VPN4vzY%3D&ehkOptimized=rlXCjFmlGj270kDpBy9JKnxdYi0PentRbpfKDWMsTj0%3D",
-      "entrants": 0,
-      "start_time": 1673125200
-    },
-    {
-      "slug": "tournament/scrub-summit-13/event/singles-pools",
-      "tournament_name": "Scrub Summit 13",
-      "event_name": "Singles Pools",
-      "image": "https://images.start.gg/images/tournament/510008/image-5ba0a2f7cf55d6441ead3231cc6a9789.png?ehk=y4451pcWmAjrFZVr4YhKDgZkj%2FLmyYGCRfA5VPN4vzY%3D&ehkOptimized=rlXCjFmlGj270kDpBy9JKnxdYi0PentRbpfKDWMsTj0%3D",
-      "entrants": 64,
-      "start_time": 1673132400
     },
     {
       "slug": "tournament/melee-puerto-rico-exists-every-saturday-7pm/event/melee-pr",
@@ -38,7 +22,7 @@
       "tournament_name": "Sober Saturday #122",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510641/image-958c5009e6b202c4c982aa4b97128a6e.jpg?ehk=XLNoTE7lGa5A7RJcPwWWoyDL5qEY2syitwMJ1kNdV1I%3D&ehkOptimized=jNGiWaZUq%2ByzdHKM%2BgKkrkGg4r2RH%2Fy1fxES9n0OAgE%3D",
-      "entrants": 1,
+      "entrants": 4,
       "start_time": 1673139600
     },
     {
