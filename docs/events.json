@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673129651,
+  "fetched_at": 1673130476,
   "data": [
     {
       "slug": "tournament/the-battlefields-62/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Scrub Summit 13",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/510008/image-5ba0a2f7cf55d6441ead3231cc6a9789.png?ehk=y4451pcWmAjrFZVr4YhKDgZkj%2FLmyYGCRfA5VPN4vzY%3D&ehkOptimized=rlXCjFmlGj270kDpBy9JKnxdYi0PentRbpfKDWMsTj0%3D",
-      "entrants": 62,
+      "entrants": 64,
       "start_time": 1673132400
     },
     {
@@ -32,6 +32,14 @@
       "image": "",
       "entrants": 2,
       "start_time": 1673132400
+    },
+    {
+      "slug": "tournament/sober-saturday-122/event/melee-singles",
+      "tournament_name": "Sober Saturday #122",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/510641/image-958c5009e6b202c4c982aa4b97128a6e.jpg?ehk=XLNoTE7lGa5A7RJcPwWWoyDL5qEY2syitwMJ1kNdV1I%3D&ehkOptimized=jNGiWaZUq%2ByzdHKM%2BgKkrkGg4r2RH%2Fy1fxES9n0OAgE%3D",
+      "entrants": 1,
+      "start_time": 1673139600
     },
     {
       "slug": "tournament/fight-of-the-fearless-34/event/fight-of-the-fearless-single",
