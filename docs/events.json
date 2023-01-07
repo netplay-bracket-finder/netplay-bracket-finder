@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673104504,
+  "fetched_at": 1673105274,
   "data": [
     {
       "slug": "tournament/super-scuffed-smash-saturday-2/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "After Dark Melee 10",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/509003/image-0099d4e3477f5bfdfc13b195f723f98e.png?ehk=sts0eDI%2Fbw5IiHKw5L%2FM01ksE2so32tmw18bXKoYu2A%3D&ehkOptimized=wiGiVsjhQNVirkYc4ZVvdKjqDpfEv8UZ6zg3a%2FrSqq8%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1673122500
     },
     {
@@ -48,6 +48,14 @@
       "image": "https://images.start.gg/images/tournament/472593/image-9f81ab3fdc241d1e21500866290ea986.png?ehk=VRLRa2yERmo6ofIvXi4Hp8GeTE3a30Gjg1GtIJhDypg%3D&ehkOptimized=PyBAZoltQxa0nW5fBHQff%2F7jrbIrrOm1Q6JaDIUjwzg%3D",
       "entrants": 7,
       "start_time": 1673125500
+    },
+    {
+      "slug": "tournament/legs-le-tournament-64/event/melee-singles",
+      "tournament_name": "Legs' Le Tournament #64",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/510553/image-4e824e0393c1e8bfe296858e0619254d.png?ehk=pQEnNDVlM5rY%2FFZXKT6jCGiraEYo1O0x49G0WP6kX10%3D&ehkOptimized=uhu2tNS%2BelZ5WKQq2v%2FQCKixNGKG4TBF8bnj%2BvVPXVw%3D",
+      "entrants": 0,
+      "start_time": 1673128800
     },
     {
       "slug": "tournament/fight-of-the-fearless-34/event/fight-of-the-fearless-single",
