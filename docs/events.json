@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673113883,
+  "fetched_at": 1673115509,
   "data": [
     {
       "slug": "tournament/the-battlefields-62/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "After Dark Melee 10",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/509003/image-0099d4e3477f5bfdfc13b195f723f98e.png?ehk=sts0eDI%2Fbw5IiHKw5L%2FM01ksE2so32tmw18bXKoYu2A%3D&ehkOptimized=wiGiVsjhQNVirkYc4ZVvdKjqDpfEv8UZ6zg3a%2FrSqq8%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1673122500
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "After Dark Melee 10",
       "event_name": "After Dark Doubles",
       "image": "https://images.start.gg/images/tournament/509003/image-0099d4e3477f5bfdfc13b195f723f98e.png?ehk=sts0eDI%2Fbw5IiHKw5L%2FM01ksE2so32tmw18bXKoYu2A%3D&ehkOptimized=wiGiVsjhQNVirkYc4ZVvdKjqDpfEv8UZ6zg3a%2FrSqq8%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1673122500
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Scrub Summit 13",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/510008/image-5ba0a2f7cf55d6441ead3231cc6a9789.png?ehk=y4451pcWmAjrFZVr4YhKDgZkj%2FLmyYGCRfA5VPN4vzY%3D&ehkOptimized=rlXCjFmlGj270kDpBy9JKnxdYi0PentRbpfKDWMsTj0%3D",
-      "entrants": 40,
+      "entrants": 41,
       "start_time": 1673132400
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Legs' Le Tournament #64",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510553/image-4e824e0393c1e8bfe296858e0619254d.png?ehk=pQEnNDVlM5rY%2FFZXKT6jCGiraEYo1O0x49G0WP6kX10%3D&ehkOptimized=uhu2tNS%2BelZ5WKQq2v%2FQCKixNGKG4TBF8bnj%2BvVPXVw%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1673128800
     },
     {
