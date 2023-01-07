@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673123799,
+  "fetched_at": 1673124691,
   "data": [
     {
       "slug": "tournament/the-battlefields-62/event/melee-singles",
@@ -26,11 +26,27 @@
       "start_time": 1673122500
     },
     {
+      "slug": "tournament/scrub-summit-13/event/singles-brackets",
+      "tournament_name": "Scrub Summit 13",
+      "event_name": "Singles Brackets",
+      "image": "https://images.start.gg/images/tournament/510008/image-5ba0a2f7cf55d6441ead3231cc6a9789.png?ehk=y4451pcWmAjrFZVr4YhKDgZkj%2FLmyYGCRfA5VPN4vzY%3D&ehkOptimized=rlXCjFmlGj270kDpBy9JKnxdYi0PentRbpfKDWMsTj0%3D",
+      "entrants": 0,
+      "start_time": 1673125200
+    },
+    {
+      "slug": "tournament/scrub-summit-13/event/singles-pools",
+      "tournament_name": "Scrub Summit 13",
+      "event_name": "Singles Pools",
+      "image": "https://images.start.gg/images/tournament/510008/image-5ba0a2f7cf55d6441ead3231cc6a9789.png?ehk=y4451pcWmAjrFZVr4YhKDgZkj%2FLmyYGCRfA5VPN4vzY%3D&ehkOptimized=rlXCjFmlGj270kDpBy9JKnxdYi0PentRbpfKDWMsTj0%3D",
+      "entrants": 61,
+      "start_time": 1673132400
+    },
+    {
       "slug": "tournament/vick-s-dair-to-spike-15/event/volleyball-1v1",
       "tournament_name": "Vick's Dair to Spike #15",
       "event_name": "Volleyball 1v1",
       "image": "https://images.start.gg/images/tournament/472593/image-9f81ab3fdc241d1e21500866290ea986.png?ehk=VRLRa2yERmo6ofIvXi4Hp8GeTE3a30Gjg1GtIJhDypg%3D&ehkOptimized=PyBAZoltQxa0nW5fBHQff%2F7jrbIrrOm1Q6JaDIUjwzg%3D",
-      "entrants": 7,
+      "entrants": 5,
       "start_time": 1673125500
     },
     {
@@ -46,7 +62,7 @@
       "tournament_name": "MELEE PUERTO RICO EXISTS (every saturday 7pm)",
       "event_name": "melee PR",
       "image": "",
-      "entrants": 3,
+      "entrants": 2,
       "start_time": 1673132400
     },
     {
