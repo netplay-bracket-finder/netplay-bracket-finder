@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673131149,
+  "fetched_at": 1673131888,
   "data": [
     {
       "slug": "tournament/the-battlefields-62/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/510571/image-5f0b2acd8945ef9409fcadf3004320cf.png?ehk=lbZdPHOL18T19uLfGqpvIe4EoiVxbvsy7Fn96eBjm80%3D&ehkOptimized=4AIMzUlWKRTh%2BxN5%2B%2FbQ0zy0w7S4bquDc3Kjcdyz%2F3U%3D",
       "entrants": 0,
       "start_time": 1673218800
-    },
-    {
-      "slug": "tournament/melee-puerto-rico-exists-every-saturday-7pm/event/melee-pr",
-      "tournament_name": "MELEE PUERTO RICO EXISTS (every saturday 7pm)",
-      "event_name": "melee PR",
-      "image": "",
-      "entrants": 2,
-      "start_time": 1673132400
     },
     {
       "slug": "tournament/sober-saturday-122/event/melee-singles",
