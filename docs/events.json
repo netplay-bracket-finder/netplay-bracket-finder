@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673124691,
+  "fetched_at": 1673125973,
   "data": [
     {
       "slug": "tournament/the-battlefields-62/event/melee-singles",
@@ -38,23 +38,15 @@
       "tournament_name": "Scrub Summit 13",
       "event_name": "Singles Pools",
       "image": "https://images.start.gg/images/tournament/510008/image-5ba0a2f7cf55d6441ead3231cc6a9789.png?ehk=y4451pcWmAjrFZVr4YhKDgZkj%2FLmyYGCRfA5VPN4vzY%3D&ehkOptimized=rlXCjFmlGj270kDpBy9JKnxdYi0PentRbpfKDWMsTj0%3D",
-      "entrants": 61,
+      "entrants": 63,
       "start_time": 1673132400
-    },
-    {
-      "slug": "tournament/vick-s-dair-to-spike-15/event/volleyball-1v1",
-      "tournament_name": "Vick's Dair to Spike #15",
-      "event_name": "Volleyball 1v1",
-      "image": "https://images.start.gg/images/tournament/472593/image-9f81ab3fdc241d1e21500866290ea986.png?ehk=VRLRa2yERmo6ofIvXi4Hp8GeTE3a30Gjg1GtIJhDypg%3D&ehkOptimized=PyBAZoltQxa0nW5fBHQff%2F7jrbIrrOm1Q6JaDIUjwzg%3D",
-      "entrants": 5,
-      "start_time": 1673125500
     },
     {
       "slug": "tournament/legs-le-tournament-64/event/melee-singles",
       "tournament_name": "Legs' Le Tournament #64",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510553/image-4e824e0393c1e8bfe296858e0619254d.png?ehk=pQEnNDVlM5rY%2FFZXKT6jCGiraEYo1O0x49G0WP6kX10%3D&ehkOptimized=uhu2tNS%2BelZ5WKQq2v%2FQCKixNGKG4TBF8bnj%2BvVPXVw%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1673128800
     },
     {
@@ -86,7 +78,7 @@
       "tournament_name": "UVA Melee Online - Holiday Special",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1673308800
     },
     {
