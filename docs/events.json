@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1673200287,
+  "fetched_at": 1673201886,
   "data": [
-    {
-      "slug": "tournament/fight-of-the-fearless-34/event/fight-of-the-fearless-single",
-      "tournament_name": "Fight of the Fearless 34",
-      "event_name": "Fight Of The Fearless single",
-      "image": "https://images.start.gg/images/tournament/510260/image-40bc3671d678a3eadc614ae898c019b7.png?ehk=iexvBsUeZZSCI0JJUylJGOUSnpN%2BVMM4bYkZCAA0U%2F4%3D&ehkOptimized=bdSPt9y4XJ%2F3r2G7%2B6l5%2Fi4ebpsF0JcZ%2FBMYLMIjFSo%3D",
-      "entrants": 15,
-      "start_time": 1673200800
-    },
     {
       "slug": "tournament/scss-east-coast-101/event/melee-singles",
       "tournament_name": "SCSS East Coast #101",
@@ -22,7 +14,7 @@
       "tournament_name": "SCSS West Coast #90",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510648/image-9c1e88f5f61c20c53a57cd25901de475.png?ehk=kKm7DmKjMH7YjQqNfik9kcIZOLcJQbLuXIjyH3dNbfQ%3D&ehkOptimized=6KkUhBuJ4tO3dUGlNQbeVrp4DyU0ymXCHdMbpfMuQHY%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1673227800
     },
     {
@@ -102,7 +94,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 30,
+      "entrants": 29,
       "start_time": 1673722800
     },
     {
