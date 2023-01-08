@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673216073,
+  "fetched_at": 1673216890,
   "data": [
     {
       "slug": "tournament/kalvar-cup-74-guy-january/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "SCSS East Coast #101",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510646/image-840790734f1af8158aa88b1d7b6c8b10.png?ehk=trrrxCH1%2FLudBiN17IU3GYVKECabOqD5MAqHSxrvieY%3D&ehkOptimized=YU%2B9%2BMGyxiv0dP4Ww4FUNV0c5hoYKgV6dxpP1o3UWmk%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1673224200
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Monday Night Mixup #46",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510840/image-a7165e6a2e23e741580a13b76e271f81.png?ehk=YVeEqHI8daEftV37UzdUNcBa4LNE2MfLaiv00FACpRo%3D&ehkOptimized=eltFRvGLcF6Q8vfLVKMyXFLCTZX0DDeV0MXZuVJZUp4%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1673290800
     },
     {
@@ -152,6 +152,14 @@
       "image": "https://images.start.gg/images/tournament/508398/image-7f7f28ecd7626ee4b629efcad1aafe9a.png?ehk=mzT%2BdfjAwd6tp2VDuWVyX0XuZ7r6ED8vgT0uwGL59pw%3D&ehkOptimized=iWxp9dXiXrtc230H7ojcmKa0GBe1ylSVipGGnthuuHk%3D",
       "entrants": 3,
       "start_time": 1673744400
+    },
+    {
+      "slug": "tournament/smashkasoni-january-2023/event/melee-singles",
+      "tournament_name": "Smashkasoni January 2023",
+      "event_name": "Melee Singles",
+      "image": "",
+      "entrants": null,
+      "start_time": 1673809200
     },
     {
       "slug": "tournament/polypuff/event/melee-singles",
