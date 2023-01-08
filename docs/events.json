@@ -1,6 +1,14 @@
 {
-  "fetched_at": 1673203878,
+  "fetched_at": 1673205126,
   "data": [
+    {
+      "slug": "tournament/kalvar-cup-74-i-am-very-tired-and-cannot-think/event/melee-singles",
+      "tournament_name": "Kalvar Cup #74 I am very tired and cannot think of a funny title",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/510814/image-8adc2c58763df32cb9de7945e526f866.png?ehk=%2F4Jjftewfv5isnxOT8cwO3SuU3uOz1u8FsUnRTub33k%3D&ehkOptimized=rlGDL75dEg7CyYbkfz1hnnDW%2FhbT6K2cSuHCoTANS6o%3D",
+      "entrants": 3,
+      "start_time": 1673222400
+    },
     {
       "slug": "tournament/scss-east-coast-101/event/melee-singles",
       "tournament_name": "SCSS East Coast #101",
@@ -14,7 +22,7 @@
       "tournament_name": "No Melee on Sundays 23",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510810/image-148d3aba7ed96a03dde9d7d632b82d29.png?ehk=cleuiHG2eKd5XNw0r4ZYk517BzFfWU%2Fc8SvuWAmcvbI%3D&ehkOptimized=3DIL8b5vIj1aUUtdrGunvh6Il5A1r3W%2BC3IIhmPOGmI%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1673226000
     },
     {
