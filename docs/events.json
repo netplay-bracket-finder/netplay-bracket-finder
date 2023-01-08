@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673135475,
+  "fetched_at": 1673141073,
   "data": [
     {
       "slug": "tournament/the-battlefields-62/event/melee-singles",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/510571/image-5f0b2acd8945ef9409fcadf3004320cf.png?ehk=lbZdPHOL18T19uLfGqpvIe4EoiVxbvsy7Fn96eBjm80%3D&ehkOptimized=4AIMzUlWKRTh%2BxN5%2B%2FbQ0zy0w7S4bquDc3Kjcdyz%2F3U%3D",
       "entrants": 0,
       "start_time": 1673218800
-    },
-    {
-      "slug": "tournament/sober-saturday-122/event/melee-singles",
-      "tournament_name": "Sober Saturday #122",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/510641/image-958c5009e6b202c4c982aa4b97128a6e.jpg?ehk=XLNoTE7lGa5A7RJcPwWWoyDL5qEY2syitwMJ1kNdV1I%3D&ehkOptimized=jNGiWaZUq%2ByzdHKM%2BgKkrkGg4r2RH%2Fy1fxES9n0OAgE%3D",
-      "entrants": 5,
-      "start_time": 1673139600
     },
     {
       "slug": "tournament/fight-of-the-fearless-34/event/fight-of-the-fearless-single",
@@ -110,7 +102,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 27,
+      "entrants": 28,
       "start_time": 1673722800
     },
     {
