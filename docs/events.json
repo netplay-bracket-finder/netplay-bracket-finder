@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673187192,
+  "fetched_at": 1673187954,
   "data": [
     {
       "slug": "tournament/fight-of-the-fearless-34/event/fight-of-the-fearless-single",
@@ -111,6 +111,14 @@
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
       "entrants": 2,
+      "start_time": 1673730000
+    },
+    {
+      "slug": "tournament/super-scuffed-smash-saturday-3/event/melee-singles",
+      "tournament_name": "Super Scuffed Smash Saturday #3",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/510751/image-4e4ed61d8ffb093b8f029de541d86452.jpg?ehk=yRC2cuxh4HQD7zHz%2FppUdOdAgVLeT6ZbPPieyCPRCRo%3D&ehkOptimized=8MaTDgXv3KPytXCzTui2ElbgGfjqOf2qvBxl2dYqmq0%3D",
+      "entrants": 0,
       "start_time": 1673730000
     },
     {
