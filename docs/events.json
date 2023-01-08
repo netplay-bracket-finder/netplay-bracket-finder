@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673217554,
+  "fetched_at": 1673218287,
   "data": [
     {
       "slug": "tournament/kalvar-cup-74-guy-january/event/melee-singles",
@@ -38,7 +38,7 @@
       "tournament_name": "Monday Night Mixup #46",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510840/image-a7165e6a2e23e741580a13b76e271f81.png?ehk=YVeEqHI8daEftV37UzdUNcBa4LNE2MfLaiv00FACpRo%3D&ehkOptimized=eltFRvGLcF6Q8vfLVKMyXFLCTZX0DDeV0MXZuVJZUp4%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1673290800
     },
     {
@@ -157,7 +157,7 @@
       "slug": "tournament/smashkasoni-january-2023/event/melee-singles",
       "tournament_name": "Smashkasoni January 2023",
       "event_name": "Melee Singles",
-      "image": "",
+      "image": "https://images.start.gg/images/tournament/510849/image-91718cd6ed4e16d3872ef83d13f2d908.jpg?ehk=ybDIfzr8liujcvsv3NB7aHfvSBsjmOhhOgbF6HD6LWY%3D&ehkOptimized=7Z%2FCfcmtO4g9bHkEHhfHGADxlCZN18KH4wAlURjXRT0%3D",
       "entrants": null,
       "start_time": 1673809200
     },
