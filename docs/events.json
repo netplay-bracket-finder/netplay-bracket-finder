@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1673273893,
+  "fetched_at": 1673275212,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-46/event/melee-singles",
       "tournament_name": "Monday Night Mixup #46",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510840/image-a7165e6a2e23e741580a13b76e271f81.png?ehk=YVeEqHI8daEftV37UzdUNcBa4LNE2MfLaiv00FACpRo%3D&ehkOptimized=eltFRvGLcF6Q8vfLVKMyXFLCTZX0DDeV0MXZuVJZUp4%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1673290800
     },
     {
@@ -24,6 +24,14 @@
       "image": "",
       "entrants": 8,
       "start_time": 1673308800
+    },
+    {
+      "slug": "tournament/have-you-dreamed-this-cardboard-bear-9/event/melee-singles",
+      "tournament_name": "Have You Dreamed This Cardboard Bear? #9",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/511030/image-6a655fca22c6b2f30a63dc36b02cd49d.jpg?ehk=RDl8H3PQ1Fq2cvXF6d8GBY15avlXalr6bMARnh5PNFw%3D&ehkOptimized=6incWDDVjPiudUlLqbVRxutrl%2BUk0dRS03j%2BaHgNXM0%3D",
+      "entrants": 1,
+      "start_time": 1673313300
     },
     {
       "slug": "tournament/epic-wednesday-doubles-5/event/melee-doubles",
