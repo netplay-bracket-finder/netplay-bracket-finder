@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1673303809,
+  "fetched_at": 1673304688,
   "data": [
-    {
-      "slug": "tournament/slippi-sauce-81/event/melee-singles",
-      "tournament_name": "Slippi Sauce #81 🐸",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/511035/image-694e5709080bb5fcf24b21b601284f4c.png?ehk=14ArVqO3tfwxWB62ZmeCt%2Fb8zKNcHKxky48BOYjHOis%3D&ehkOptimized=cQds46Gb%2FV8B5Jg1IfWVoDe498q4K0%2BI%2Bm11npBOLMU%3D",
-      "entrants": 29,
-      "start_time": 1673305200
-    },
     {
       "slug": "tournament/uva-melee-online-holiday-special/event/melee-singles",
       "tournament_name": "UVA Melee Online - Holiday Special",
@@ -48,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/510960/image-bb0be417b384178be5d8fdcf2b1f825c.png?ehk=JHyNj4jwIUQ8Qs7PVhoG66zTcoAAXXUz%2BcqzpdkpjTM%3D&ehkOptimized=H22HK3Dsw6W5gdWG5Y7sJNqFj0CPs7OMX9EjDDbuEPo%3D",
       "entrants": 0,
       "start_time": 1673485200
+    },
+    {
+      "slug": "tournament/take-the-l-17-online-edition/event/melee-singles",
+      "tournament_name": "Take The L #17 - ONLINE EDITION",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/511230/image-dd835945922c6c383444f9a6ebb904b4.jpg?ehk=uqZ6d81k%2FEB7G481HWIPkboLMIngHUPxo060iwjkkJA%3D&ehkOptimized=rdMpVAg7S4K8ODo9XVyMhJsBj2ZzW5mJ6yZazJvHyxk%3D",
+      "entrants": 0,
+      "start_time": 1673492400
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-47-eu-event/event/melee-singles",
