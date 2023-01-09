@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1673290296,
+  "fetched_at": 1673291599,
   "data": [
-    {
-      "slug": "tournament/monday-night-mixup-46/event/melee-singles",
-      "tournament_name": "Monday Night Mixup #46",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/510840/image-a7165e6a2e23e741580a13b76e271f81.png?ehk=YVeEqHI8daEftV37UzdUNcBa4LNE2MfLaiv00FACpRo%3D&ehkOptimized=eltFRvGLcF6Q8vfLVKMyXFLCTZX0DDeV0MXZuVJZUp4%3D",
-      "entrants": 20,
-      "start_time": 1673290800
-    },
     {
       "slug": "tournament/slippi-sauce-81/event/melee-singles",
       "tournament_name": "Slippi Sauce #81 🐸",
@@ -22,7 +14,7 @@
       "tournament_name": "Pino's Tired of 0-2 #104",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/509789/image-76e8ae5209eefa3b6168c295ed37ebb3.jpg?ehk=yTq2RkLzRKAxHnHZNZDrxTwOzFdsdcexdAFt02d3Iww%3D&ehkOptimized=Lu9tZ85RvCmSKFV7g2tOoGOZfiKYo%2BKNwACQmGcT2Mo%3D",
-      "entrants": 15,
+      "entrants": 17,
       "start_time": 1673305200
     },
     {
@@ -38,7 +30,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #9",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511030/image-6a655fca22c6b2f30a63dc36b02cd49d.jpg?ehk=RDl8H3PQ1Fq2cvXF6d8GBY15avlXalr6bMARnh5PNFw%3D&ehkOptimized=6incWDDVjPiudUlLqbVRxutrl%2BUk0dRS03j%2BaHgNXM0%3D",
-      "entrants": 2,
+      "entrants": 4,
       "start_time": 1673313300
     },
     {
