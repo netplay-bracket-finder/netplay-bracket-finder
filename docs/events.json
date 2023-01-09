@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673281742,
+  "fetched_at": 1673283310,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-46/event/melee-singles",
@@ -40,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/511030/image-6a655fca22c6b2f30a63dc36b02cd49d.jpg?ehk=RDl8H3PQ1Fq2cvXF6d8GBY15avlXalr6bMARnh5PNFw%3D&ehkOptimized=6incWDDVjPiudUlLqbVRxutrl%2BUk0dRS03j%2BaHgNXM0%3D",
       "entrants": 2,
       "start_time": 1673313300
+    },
+    {
+      "slug": "tournament/nebraska-melee-cat6-combos-2/event/melee-singles",
+      "tournament_name": "Nebraska Melee CAT6 Combos #2",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/511060/image-99307e5106186a8e7f858344f2817347.png?ehk=6TEKGFTEVlefJzYQ3j7EStonuj8SHx2E20nhb9GiK6A%3D&ehkOptimized=LuPlRubeX2%2F49qNCVI2fi5F12Rh8oOyznjCZy%2B8iGm4%3D",
+      "entrants": 0,
+      "start_time": 1673395200
     },
     {
       "slug": "tournament/epic-wednesday-doubles-5/event/melee-doubles",
