@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673313769,
+  "fetched_at": 1673318172,
   "data": [
     {
       "slug": "tournament/nebraska-melee-cat6-combos-2/event/melee-singles",
@@ -8,6 +8,14 @@
       "image": "https://images.start.gg/images/tournament/511060/image-99307e5106186a8e7f858344f2817347.png?ehk=6TEKGFTEVlefJzYQ3j7EStonuj8SHx2E20nhb9GiK6A%3D&ehkOptimized=LuPlRubeX2%2F49qNCVI2fi5F12Rh8oOyznjCZy%2B8iGm4%3D",
       "entrants": 2,
       "start_time": 1673395200
+    },
+    {
+      "slug": "tournament/cataquackdown-22-welcome-to-the-ice-age/event/melee-singles",
+      "tournament_name": "Cataquackdown 22: Welcome to the Ice Age",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/511289/image-3a2a9e331b0db07aaf8b7570572d1da1.png?ehk=xaeFJc23TtIjl61ipI7vToCUO4KdrdxLHxDDBlGUAvE%3D&ehkOptimized=XkPag%2FN8aVL%2FR%2BhT0xyImCaZlMCFDPG4ZlIXYG89OaQ%3D",
+      "entrants": 0,
+      "start_time": 1673398800
     },
     {
       "slug": "tournament/epic-wednesday-doubles-5/event/melee-doubles",
@@ -38,7 +46,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #47 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510123/image-c0d80ae5d97c5fdca85534bf052c5350.png?ehk=NXOZNj4e%2BPEuE00iNNmEHgtNfH3L1ffOmlPqzuL2O9U%3D&ehkOptimized=1KjmnYUBXXsQeXQFgI5ym5draaOfmXuw7s9ypeJ1o98%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1673546400
     },
     {
@@ -54,7 +62,7 @@
       "tournament_name": "Melee Of The Penguins",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511275/image-d8b6fc796f1415426d0e1b1277597ea0.png?ehk=XsvNcwsQKIEzT0NU46o%2BZiS7gNwiFG02eVT0WNIS1vA%3D&ehkOptimized=coJsl1sZvhdoqbj1kAalPQQV9H4nPXaRe25l72kGJis%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1673571600
     },
     {
@@ -158,7 +166,7 @@
       "tournament_name": "Waddle Dee's Spartan Arena",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508401/image-0603534541015aa392b5ad2f4a55310f.png?ehk=Mx7QVuL1EhTjg2NT90OsZpbZfAMMhV5JXeOwwlBPT%2BQ%3D&ehkOptimized=pk1zqm5Sx2R26khXgF5cneKqp5S7mzWJQvfwAP72oKs%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1673830800
     },
     {
