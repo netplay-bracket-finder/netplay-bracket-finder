@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673364203,
+  "fetched_at": 1673365454,
   "data": [
     {
       "slug": "tournament/sby-melee-netplay-145/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Sketchy Series 13: Till the Crack of Drawn",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511336/image-2e16e3294e8a450153d5611b1f837620.png?ehk=4fxc93tlP2OPHuyVt955DDdEvOeaBp8LcuRYaqrzWCA%3D&ehkOptimized=qqr7Sf2HRyVgrL8vNl%2B13b%2FYfWW3mFDeZr32rYdmZzY%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1673395200
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "Only Noobs 101",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510371/image-780db74fb0a6153278f618875a6ff910.jpg?ehk=ZmXoPtWKLbigx40zDWvjyqIYsnXAdvsA%2BGiIHU3%2B9wY%3D&ehkOptimized=msykLVopLfsHyHzakeIkQeGRLtmd14ppAQPvS%2F%2Ftuxc%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1674000000
     },
     {
