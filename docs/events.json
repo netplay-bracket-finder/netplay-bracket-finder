@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1673387483,
+  "fetched_at": 1673388980,
   "data": [
     {
       "slug": "tournament/sby-melee-netplay-145/event/melee-singles",
       "tournament_name": "SBY Melee Netplay #145",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511350/image-53e84226583a46c5aa75f31ee4ff9634.jpg?ehk=o8Q9Ftwteexm%2BN3lWC9S1KtclEG0UXTzoOCqsGEnPOA%3D&ehkOptimized=etMTV5ZqeTL1JbWs0BXdcneJpl7b7ymmP%2FjMO96Cskk%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1673391600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Cataquackdown 22: Welcome to the Ice Age",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511289/image-3a2a9e331b0db07aaf8b7570572d1da1.png?ehk=xaeFJc23TtIjl61ipI7vToCUO4KdrdxLHxDDBlGUAvE%3D&ehkOptimized=XkPag%2FN8aVL%2FR%2BhT0xyImCaZlMCFDPG4ZlIXYG89OaQ%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1673398800
     },
     {
@@ -214,7 +214,7 @@
       "tournament_name": "Only Noobs 101",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510371/image-780db74fb0a6153278f618875a6ff910.jpg?ehk=ZmXoPtWKLbigx40zDWvjyqIYsnXAdvsA%2BGiIHU3%2B9wY%3D&ehkOptimized=msykLVopLfsHyHzakeIkQeGRLtmd14ppAQPvS%2F%2Ftuxc%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1674000000
     },
     {
