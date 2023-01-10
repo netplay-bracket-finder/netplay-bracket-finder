@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1673308277,
+  "fetched_at": 1673313769,
   "data": [
-    {
-      "slug": "tournament/have-you-dreamed-this-cardboard-bear-9/event/melee-singles",
-      "tournament_name": "Have You Dreamed This Cardboard Bear? #9",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/511030/image-6a655fca22c6b2f30a63dc36b02cd49d.jpg?ehk=RDl8H3PQ1Fq2cvXF6d8GBY15avlXalr6bMARnh5PNFw%3D&ehkOptimized=6incWDDVjPiudUlLqbVRxutrl%2BUk0dRS03j%2BaHgNXM0%3D",
-      "entrants": 4,
-      "start_time": 1673313300
-    },
     {
       "slug": "tournament/nebraska-melee-cat6-combos-2/event/melee-singles",
       "tournament_name": "Nebraska Melee CAT6 Combos #2",
@@ -56,6 +48,14 @@
       "image": "https://images.start.gg/images/tournament/510123/image-c0d80ae5d97c5fdca85534bf052c5350.png?ehk=NXOZNj4e%2BPEuE00iNNmEHgtNfH3L1ffOmlPqzuL2O9U%3D&ehkOptimized=1KjmnYUBXXsQeXQFgI5ym5draaOfmXuw7s9ypeJ1o98%3D",
       "entrants": 0,
       "start_time": 1673546400
+    },
+    {
+      "slug": "tournament/melee-of-the-penguins/event/melee-singles",
+      "tournament_name": "Melee Of The Penguins",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/511275/image-d8b6fc796f1415426d0e1b1277597ea0.png?ehk=XsvNcwsQKIEzT0NU46o%2BZiS7gNwiFG02eVT0WNIS1vA%3D&ehkOptimized=coJsl1sZvhdoqbj1kAalPQQV9H4nPXaRe25l72kGJis%3D",
+      "entrants": 0,
+      "start_time": 1673571600
     },
     {
       "slug": "tournament/umass-off-season-slippi-series-arcadian/event/melee-singles",
@@ -142,7 +142,7 @@
       "tournament_name": "Smashkasoni January 2023",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510849/image-3b3caad23719faf329e402f53122604d.jpg?ehk=Ned7t7RrU7MlugcB6v8%2FOMoXbGMf2rl%2Bk8JNg4JcY6o%3D&ehkOptimized=4mI8QiaNfIQYqQr%2BIBgNuoJL07sa9wF3vHvFmb%2B5Gh8%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1673809200
     },
     {
