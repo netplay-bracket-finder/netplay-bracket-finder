@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673418019,
+  "fetched_at": 1673419240,
   "data": [
     {
       "slug": "tournament/epic-wednesday-doubles-5/event/melee-doubles",
@@ -22,7 +22,7 @@
       "tournament_name": "Silver Slippi League #39",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/511654/image-6980e4aecd14807f27a5777fb5ea1b26.png?ehk=qhxtAJJQMS%2BtADwAjiD8B%2BDN8JR7XXXAZDy3P5qfTYw%3D&ehkOptimized=g9XmYDZrDQb1lFqOACdwuY4tsibmntCZsZIn5iaYRDY%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1673488800
     },
     {
@@ -144,6 +144,14 @@
       "image": "https://images.start.gg/images/tournament/508398/image-7f7f28ecd7626ee4b629efcad1aafe9a.png?ehk=mzT%2BdfjAwd6tp2VDuWVyX0XuZ7r6ED8vgT0uwGL59pw%3D&ehkOptimized=iWxp9dXiXrtc230H7ojcmKa0GBe1ylSVipGGnthuuHk%3D",
       "entrants": 3,
       "start_time": 1673744400
+    },
+    {
+      "slug": "tournament/beginner-beatdown-87/event/melee-singles",
+      "tournament_name": "Beginner Beatdown 87",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/511657/image-80696900f73393a3cfe9f35f66956912.png?ehk=Or487r3qOu7gc0m9eScwTT2XzvDQXT2iq%2Ft1rSJZAio%3D&ehkOptimized=%2BFkBwqnMs%2Fkn%2FLA%2Bk72z8vZlke1lAfILSBvsMXUzu70%3D",
+      "entrants": 0,
+      "start_time": 1673755200
     },
     {
       "slug": "tournament/smashkasoni-january-2023/event/melee-singles",
