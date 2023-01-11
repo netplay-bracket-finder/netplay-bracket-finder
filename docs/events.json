@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1673394683,
+  "fetched_at": 1673400055,
   "data": [
-    {
-      "slug": "tournament/dad-s-house-online-8/event/melee-singles",
-      "tournament_name": "Dad's House: Online #8",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/511395/image-ee18a4850a5ffc9cf3516e87b38ec43f.png?ehk=%2Bo6GZOklRryuX7yezN4gg1%2F1zISJ0qHRInPqpofCHxE%3D&ehkOptimized=tqM%2FaVzAptf1wHCLx87gFNKc6bna%2BpkhEyfMg464IRE%3D",
-      "entrants": 15,
-      "start_time": 1673397000
-    },
-    {
-      "slug": "tournament/cataquackdown-22-welcome-to-the-ice-age/event/melee-singles",
-      "tournament_name": "Cataquackdown 22: Welcome to the Ice Age",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/511289/image-3a2a9e331b0db07aaf8b7570572d1da1.png?ehk=xaeFJc23TtIjl61ipI7vToCUO4KdrdxLHxDDBlGUAvE%3D&ehkOptimized=XkPag%2FN8aVL%2FR%2BhT0xyImCaZlMCFDPG4ZlIXYG89OaQ%3D",
-      "entrants": 3,
-      "start_time": 1673398800
-    },
     {
       "slug": "tournament/epic-wednesday-doubles-5/event/melee-doubles",
       "tournament_name": "Epic Wednesday Doubles! #5",
@@ -88,6 +72,14 @@
       "image": "https://images.start.gg/images/tournament/509946/image-4fb0a4d31bc4430d77c08f4b7915ac25.png?ehk=dUEQpWJ46qGrKzmZlBg2Suckr4OpCKfyovnQnmM7zYY%3D&ehkOptimized=jwYYUHrTYQ9X4j9ykF4qPFXNU4QI0L6ULhZ1MPpMiFE%3D",
       "entrants": 0,
       "start_time": 1673589540
+    },
+    {
+      "slug": "tournament/the-shallow-end-17-a-wc-newbie-bracket/event/melee-singles",
+      "tournament_name": "The Shallow End #17 - a WC newbie bracket",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/511563/image-cfd5afb13bffcf4aa3ba7aeafdb11fbf.jpg?ehk=yJefNM%2Fuwf78IrH94C4OWDdo3M2m1%2BMHL1HAJfv0mvA%3D&ehkOptimized=y95kId9UhwpoUsofcDeuj8%2BsU1qAbVzDjY95hpLGLHk%3D",
+      "entrants": 2,
+      "start_time": 1673657100
     },
     {
       "slug": "tournament/the-hi-rise-2/event/melee-singles",
@@ -186,6 +178,14 @@
       "start_time": 1673910000
     },
     {
+      "slug": "tournament/have-you-dreamed-this-cardboard-bear-10/event/melee-singles",
+      "tournament_name": "Have You Dreamed This Cardboard Bear? #10",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/511559/image-e8e10b1a4b57faa687e3343a6a6b73a7.jpg?ehk=f4daEpWFAzNitKtsk%2Fb%2FO%2FKii2gmpl3TZYriLkVrDmU%3D&ehkOptimized=Xnshk4XICAHs%2BCYDxasjLQSbk760S9Bq5Q0vGVCmINc%3D",
+      "entrants": 1,
+      "start_time": 1673918100
+    },
+    {
       "slug": "tournament/only-noobs-101/event/melee-singles",
       "tournament_name": "Only Noobs 101",
       "event_name": "Melee Singles",
@@ -198,7 +198,7 @@
       "tournament_name": "Philippine Arcadian 5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511333/image-f0d44b36eed902de073b5c379873941d.png?ehk=QCemyjGG%2FDw5%2B2p%2Bekk%2Fw90cYqvn%2Fjezypz89zYsHu4%3D&ehkOptimized=Sz7GQfm9EJpc98S6RRTrdxMr2xhQ28pT8sXFrq5GJV8%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1674280800
     },
     {
