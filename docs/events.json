@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673452816,
+  "fetched_at": 1673455702,
   "data": [
     {
       "slug": "tournament/epic-wednesday-doubles-5/event/melee-doubles",
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 52",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510960/image-bb0be417b384178be5d8fdcf2b1f825c.png?ehk=JHyNj4jwIUQ8Qs7PVhoG66zTcoAAXXUz%2BcqzpdkpjTM%3D&ehkOptimized=H22HK3Dsw6W5gdWG5Y7sJNqFj0CPs7OMX9EjDDbuEPo%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1673485200
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Silver Slippi League #39",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/511654/image-6980e4aecd14807f27a5777fb5ea1b26.png?ehk=qhxtAJJQMS%2BtADwAjiD8B%2BDN8JR7XXXAZDy3P5qfTYw%3D&ehkOptimized=g9XmYDZrDQb1lFqOACdwuY4tsibmntCZsZIn5iaYRDY%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1673488800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Toblerone Tangerine Thursdays #47 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510123/image-c0d80ae5d97c5fdca85534bf052c5350.png?ehk=NXOZNj4e%2BPEuE00iNNmEHgtNfH3L1ffOmlPqzuL2O9U%3D&ehkOptimized=1KjmnYUBXXsQeXQFgI5ym5draaOfmXuw7s9ypeJ1o98%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1673546400
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Melee Of The Penguins",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511275/image-d8b6fc796f1415426d0e1b1277597ea0.png?ehk=XsvNcwsQKIEzT0NU46o%2BZiS7gNwiFG02eVT0WNIS1vA%3D&ehkOptimized=coJsl1sZvhdoqbj1kAalPQQV9H4nPXaRe25l72kGJis%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1673571600
     },
     {
