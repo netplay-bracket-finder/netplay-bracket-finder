@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673416280,
+  "fetched_at": 1673418019,
   "data": [
     {
       "slug": "tournament/epic-wednesday-doubles-5/event/melee-doubles",
@@ -16,6 +16,14 @@
       "image": "https://images.start.gg/images/tournament/510960/image-bb0be417b384178be5d8fdcf2b1f825c.png?ehk=JHyNj4jwIUQ8Qs7PVhoG66zTcoAAXXUz%2BcqzpdkpjTM%3D&ehkOptimized=H22HK3Dsw6W5gdWG5Y7sJNqFj0CPs7OMX9EjDDbuEPo%3D",
       "entrants": 0,
       "start_time": 1673485200
+    },
+    {
+      "slug": "tournament/silver-slippi-league-39/event/melee-ranked-ladder",
+      "tournament_name": "Silver Slippi League #39",
+      "event_name": "Melee Ranked Ladder",
+      "image": "https://images.start.gg/images/tournament/511654/image-6980e4aecd14807f27a5777fb5ea1b26.png?ehk=qhxtAJJQMS%2BtADwAjiD8B%2BDN8JR7XXXAZDy3P5qfTYw%3D&ehkOptimized=g9XmYDZrDQb1lFqOACdwuY4tsibmntCZsZIn5iaYRDY%3D",
+      "entrants": 0,
+      "start_time": 1673488800
     },
     {
       "slug": "tournament/take-the-l-17-online-edition/event/melee-singles",
@@ -94,7 +102,7 @@
       "tournament_name": "Mid Level Mayhem 1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510698/image-5bc8a2850d1138a9f7d960e3e38eef8b.png?ehk=h5qJBbEHurFJwuM3heYQlyXuCyb6PcVPQU9lDWTtgd0%3D&ehkOptimized=u1GWWswsWZAO0rLllTeF5wH6R%2BIJHQcWiy%2BvX1ZYtCA%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1673679600
     },
     {
@@ -198,7 +206,7 @@
       "tournament_name": "Only Noobs 101",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510371/image-780db74fb0a6153278f618875a6ff910.jpg?ehk=ZmXoPtWKLbigx40zDWvjyqIYsnXAdvsA%2BGiIHU3%2B9wY%3D&ehkOptimized=msykLVopLfsHyHzakeIkQeGRLtmd14ppAQPvS%2F%2Ftuxc%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1674000000
     },
     {
@@ -206,7 +214,7 @@
       "tournament_name": "Philippine Arcadian 5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511333/image-f0d44b36eed902de073b5c379873941d.png?ehk=QCemyjGG%2FDw5%2B2p%2Bekk%2Fw90cYqvn%2Fjezypz89zYsHu4%3D&ehkOptimized=Sz7GQfm9EJpc98S6RRTrdxMr2xhQ28pT8sXFrq5GJV8%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1674280800
     },
     {
