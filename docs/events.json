@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1673547812,
+  "fetched_at": 1673548893,
   "data": [
     {
       "slug": "tournament/troppo-italiano-81-1/event/singles",
       "tournament_name": "Troppo Italiano #81",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/512012/image-9440429fcf5c5fdb9d3c8c99d3be5edc.jpg?ehk=qhXz%2F2MYYakcVPnNVefDS%2FqasJ6gMNhxYTCpBLmY3Jo%3D&ehkOptimized=FcYyQ3WtSE9lY6vYh5%2BPYQIJiBzHO3W7wF0H45z2A2A%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1673553600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Melee Of The Penguins",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511275/image-d8b6fc796f1415426d0e1b1277597ea0.png?ehk=XsvNcwsQKIEzT0NU46o%2BZiS7gNwiFG02eVT0WNIS1vA%3D&ehkOptimized=coJsl1sZvhdoqbj1kAalPQQV9H4nPXaRe25l72kGJis%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1673571600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Thursday Thmackdown #16",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512005/image-18596f0aafe2b06b20c421ec416d8d86.png?ehk=Irc4b%2BtjFBPbJSnICnsJC%2BYXda8d2hNxU8jPG4RDiwQ%3D&ehkOptimized=WZg18PewJ447yQ7xbJScNFhgJyeIh%2FBbRXPgq54bbyE%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1673575200
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "The Shallow End #17 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511563/image-cfd5afb13bffcf4aa3ba7aeafdb11fbf.jpg?ehk=yJefNM%2Fuwf78IrH94C4OWDdo3M2m1%2BMHL1HAJfv0mvA%3D&ehkOptimized=y95kId9UhwpoUsofcDeuj8%2BsU1qAbVzDjY95hpLGLHk%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1673657100
     },
     {
@@ -138,6 +138,14 @@
       "start_time": 1673809200
     },
     {
+      "slug": "tournament/fight-of-the-fearless-35/event/fight-of-the-fearless-single",
+      "tournament_name": "Fight of the Fearless 35",
+      "event_name": "Fight Of The Fearless single",
+      "image": "https://images.start.gg/images/tournament/512016/image-e88b118c37481ae92e641f27700a71a9.png?ehk=GTwEQejWKxp73qLxoOWF0plY%2BwtqHXagpTDaFunyK%2Fo%3D&ehkOptimized=We5l89Wt2UuG3C1fGZEVyzQTjb5%2F8jjSNbQ75mk6V4g%3D",
+      "entrants": 0,
+      "start_time": 1673805600
+    },
+    {
       "slug": "tournament/polypuff/event/melee-singles",
       "tournament_name": "POLYPUFF.",
       "event_name": "MELEE SINGLES.",
@@ -198,7 +206,7 @@
       "tournament_name": "Border Weeklys",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511603/image-b7e966a94fe9d8b861cd3c988f862408.jpg?ehk=80NGEW4IKhv%2Fu38LZRXqzbSGJSLh7k9wPTC6dk%2ByCmA%3D&ehkOptimized=rFPY7bSCHDGtCDtH6EPsA1AsHJ8gtUPFLE8gjN4PBe8%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1674007200
     },
     {
