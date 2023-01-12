@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673558076,
+  "fetched_at": 1673558831,
   "data": [
     {
       "slug": "tournament/melee-of-the-penguins/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Thursday Thmackdown #16",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512005/image-18596f0aafe2b06b20c421ec416d8d86.png?ehk=Irc4b%2BtjFBPbJSnICnsJC%2BYXda8d2hNxU8jPG4RDiwQ%3D&ehkOptimized=WZg18PewJ447yQ7xbJScNFhgJyeIh%2FBbRXPgq54bbyE%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1673575200
     },
     {
@@ -222,7 +222,7 @@
       "tournament_name": "Only Noobs 101",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510371/image-780db74fb0a6153278f618875a6ff910.jpg?ehk=ZmXoPtWKLbigx40zDWvjyqIYsnXAdvsA%2BGiIHU3%2B9wY%3D&ehkOptimized=msykLVopLfsHyHzakeIkQeGRLtmd14ppAQPvS%2F%2Ftuxc%3D",
-      "entrants": 30,
+      "entrants": 31,
       "start_time": 1674000000
     },
     {
