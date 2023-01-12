@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1673566615,
+  "fetched_at": 1673567500,
   "data": [
     {
       "slug": "tournament/melee-of-the-penguins/event/melee-singles",
       "tournament_name": "Melee Of The Penguins",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511275/image-d8b6fc796f1415426d0e1b1277597ea0.png?ehk=XsvNcwsQKIEzT0NU46o%2BZiS7gNwiFG02eVT0WNIS1vA%3D&ehkOptimized=coJsl1sZvhdoqbj1kAalPQQV9H4nPXaRe25l72kGJis%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1673571600
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Thursday Thmackdown #16",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512005/image-18596f0aafe2b06b20c421ec416d8d86.png?ehk=Irc4b%2BtjFBPbJSnICnsJC%2BYXda8d2hNxU8jPG4RDiwQ%3D&ehkOptimized=WZg18PewJ447yQ7xbJScNFhgJyeIh%2FBbRXPgq54bbyE%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1673575200
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1673730000
     },
     {
@@ -232,6 +232,14 @@
       "image": "https://images.start.gg/images/tournament/511603/image-b7e966a94fe9d8b861cd3c988f862408.jpg?ehk=80NGEW4IKhv%2Fu38LZRXqzbSGJSLh7k9wPTC6dk%2ByCmA%3D&ehkOptimized=rFPY7bSCHDGtCDtH6EPsA1AsHJ8gtUPFLE8gjN4PBe8%3D",
       "entrants": 13,
       "start_time": 1674007200
+    },
+    {
+      "slug": "tournament/waddle-wednesday-53/event/melee-singles",
+      "tournament_name": "Waddle Wednesday 53",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/512090/image-4bfd70d8289b36717247fdbd04efd7e2.png?ehk=vgfXlvJCIwevoHYaAVRKaFgm71RLHsNbtBseOpCKOds%3D&ehkOptimized=6A519gT5xzrdz2hiLJVZk0PnLPSp9Ws4dSICpqfXT9s%3D",
+      "entrants": 0,
+      "start_time": 1674090000
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-48-eu-event/event/melee-singles",
