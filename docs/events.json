@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1673553080,
+  "fetched_at": 1673554684,
   "data": [
-    {
-      "slug": "tournament/troppo-italiano-81-1/event/singles",
-      "tournament_name": "Troppo Italiano #81",
-      "event_name": "Singles",
-      "image": "https://images.start.gg/images/tournament/512012/image-9440429fcf5c5fdb9d3c8c99d3be5edc.jpg?ehk=qhXz%2F2MYYakcVPnNVefDS%2FqasJ6gMNhxYTCpBLmY3Jo%3D&ehkOptimized=FcYyQ3WtSE9lY6vYh5%2BPYQIJiBzHO3W7wF0H45z2A2A%3D",
-      "entrants": 6,
-      "start_time": 1673553600
-    },
     {
       "slug": "tournament/melee-of-the-penguins/event/melee-singles",
       "tournament_name": "Melee Of The Penguins",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511275/image-d8b6fc796f1415426d0e1b1277597ea0.png?ehk=XsvNcwsQKIEzT0NU46o%2BZiS7gNwiFG02eVT0WNIS1vA%3D&ehkOptimized=coJsl1sZvhdoqbj1kAalPQQV9H4nPXaRe25l72kGJis%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1673571600
     },
     {
@@ -86,7 +78,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 37,
+      "entrants": 38,
       "start_time": 1673722800
     },
     {
@@ -144,6 +136,14 @@
       "image": "https://images.start.gg/images/tournament/512016/image-e88b118c37481ae92e641f27700a71a9.png?ehk=GTwEQejWKxp73qLxoOWF0plY%2BwtqHXagpTDaFunyK%2Fo%3D&ehkOptimized=We5l89Wt2UuG3C1fGZEVyzQTjb5%2F8jjSNbQ75mk6V4g%3D",
       "entrants": 0,
       "start_time": 1673805600
+    },
+    {
+      "slug": "tournament/polypuff/event/melee-doubles",
+      "tournament_name": "POLYPUFF.",
+      "event_name": "MELEE DOUBLES.",
+      "image": "https://images.start.gg/images/tournament/500504/image-cbb396b8b534bdd41041e657b6e18cfc.jpg?ehk=u6Q6lmVuGQInUd7%2F0LahR%2FingKtzU1JHOMML76nFo7M%3D&ehkOptimized=X8z%2BUq9%2FN29u7AQ7gat8fbIKk%2F9wuq0xsHcFHci%2BeKE%3D",
+      "entrants": 0,
+      "start_time": 1673823600
     },
     {
       "slug": "tournament/polypuff/event/melee-singles",
@@ -206,7 +206,7 @@
       "tournament_name": "Only Noobs 101",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510371/image-780db74fb0a6153278f618875a6ff910.jpg?ehk=ZmXoPtWKLbigx40zDWvjyqIYsnXAdvsA%2BGiIHU3%2B9wY%3D&ehkOptimized=msykLVopLfsHyHzakeIkQeGRLtmd14ppAQPvS%2F%2Ftuxc%3D",
-      "entrants": 27,
+      "entrants": 29,
       "start_time": 1674000000
     },
     {
@@ -214,7 +214,7 @@
       "tournament_name": "Border Weeklys",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511603/image-b7e966a94fe9d8b861cd3c988f862408.jpg?ehk=80NGEW4IKhv%2Fu38LZRXqzbSGJSLh7k9wPTC6dk%2ByCmA%3D&ehkOptimized=rFPY7bSCHDGtCDtH6EPsA1AsHJ8gtUPFLE8gjN4PBe8%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1674007200
     },
     {
