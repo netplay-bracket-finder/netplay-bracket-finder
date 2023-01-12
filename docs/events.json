@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673492239,
+  "fetched_at": 1673493708,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-39/event/melee-ranked-ladder",
@@ -8,14 +8,6 @@
       "image": "https://images.start.gg/images/tournament/511654/image-6980e4aecd14807f27a5777fb5ea1b26.png?ehk=qhxtAJJQMS%2BtADwAjiD8B%2BDN8JR7XXXAZDy3P5qfTYw%3D&ehkOptimized=g9XmYDZrDQb1lFqOACdwuY4tsibmntCZsZIn5iaYRDY%3D",
       "entrants": 21,
       "start_time": 1673488800
-    },
-    {
-      "slug": "tournament/take-the-l-17-online-edition/event/melee-singles",
-      "tournament_name": "Take The L #17 - ONLINE EDITION",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/511230/image-dd835945922c6c383444f9a6ebb904b4.jpg?ehk=uqZ6d81k%2FEB7G481HWIPkboLMIngHUPxo060iwjkkJA%3D&ehkOptimized=rdMpVAg7S4K8ODo9XVyMhJsBj2ZzW5mJ6yZazJvHyxk%3D",
-      "entrants": 6,
-      "start_time": 1673492700
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-47-eu-event/event/melee-singles",
