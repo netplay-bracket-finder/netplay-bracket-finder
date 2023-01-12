@@ -1,21 +1,13 @@
 {
-  "fetched_at": 1673546161,
+  "fetched_at": 1673547812,
   "data": [
     {
-      "slug": "tournament/toblerone-tangerine-thursdays-47-eu-event/event/melee-singles",
-      "tournament_name": "Toblerone Tangerine Thursdays #47 (EU Event)",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/510123/image-c0d80ae5d97c5fdca85534bf052c5350.png?ehk=NXOZNj4e%2BPEuE00iNNmEHgtNfH3L1ffOmlPqzuL2O9U%3D&ehkOptimized=1KjmnYUBXXsQeXQFgI5ym5draaOfmXuw7s9ypeJ1o98%3D",
-      "entrants": 13,
-      "start_time": 1673546400
-    },
-    {
-      "slug": "tournament/toblerone-tangerine-thursdays-47-eu-event/event/toblerone-waitlist",
-      "tournament_name": "Toblerone Tangerine Thursdays #47 (EU Event)",
-      "event_name": "Toblerone waitlist",
-      "image": "https://images.start.gg/images/tournament/510123/image-c0d80ae5d97c5fdca85534bf052c5350.png?ehk=NXOZNj4e%2BPEuE00iNNmEHgtNfH3L1ffOmlPqzuL2O9U%3D&ehkOptimized=1KjmnYUBXXsQeXQFgI5ym5draaOfmXuw7s9ypeJ1o98%3D",
-      "entrants": 0,
-      "start_time": 1673546400
+      "slug": "tournament/troppo-italiano-81-1/event/singles",
+      "tournament_name": "Troppo Italiano #81",
+      "event_name": "Singles",
+      "image": "https://images.start.gg/images/tournament/512012/image-9440429fcf5c5fdb9d3c8c99d3be5edc.jpg?ehk=qhXz%2F2MYYakcVPnNVefDS%2FqasJ6gMNhxYTCpBLmY3Jo%3D&ehkOptimized=FcYyQ3WtSE9lY6vYh5%2BPYQIJiBzHO3W7wF0H45z2A2A%3D",
+      "entrants": 5,
+      "start_time": 1673553600
     },
     {
       "slug": "tournament/melee-of-the-penguins/event/melee-singles",
@@ -94,7 +86,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 35,
+      "entrants": 37,
       "start_time": 1673722800
     },
     {
@@ -190,7 +182,7 @@
       "tournament_name": "CASINO ROYALE 7 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/511498/image-139aa229efbc5cf7780c5b5c4654575d.png?ehk=QinIt5oeHSJoe7MrVaWubDOQduNGTMMy50EDfdwe7ZM%3D&ehkOptimized=UXciVCPfJw3fXqM8nzVvUVJUvs6QbZdKxBZ8lfP%2B0uM%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1673922600
     },
     {
@@ -206,7 +198,7 @@
       "tournament_name": "Border Weeklys",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511603/image-b7e966a94fe9d8b861cd3c988f862408.jpg?ehk=80NGEW4IKhv%2Fu38LZRXqzbSGJSLh7k9wPTC6dk%2ByCmA%3D&ehkOptimized=rFPY7bSCHDGtCDtH6EPsA1AsHJ8gtUPFLE8gjN4PBe8%3D",
-      "entrants": 6,
+      "entrants": 9,
       "start_time": 1674007200
     },
     {
