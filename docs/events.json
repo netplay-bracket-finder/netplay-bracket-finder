@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673549558,
+  "fetched_at": 1673550806,
   "data": [
     {
       "slug": "tournament/troppo-italiano-81-1/event/singles",
@@ -154,6 +154,14 @@
       "start_time": 1673827200
     },
     {
+      "slug": "tournament/new-sizzling-sundays-5/event/melee-singles",
+      "tournament_name": "New Sizzling Sundays #5",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/512017/image-699898c29db505bf4d68abf920dc6cc4.png?ehk=pBQ1FhJE0pVKVLwKK0bUYSA8ti4HTvIiiOVE2m5oek4%3D&ehkOptimized=60vXco3blipD%2FCSGMge3L2rmtrfbKslcoUtWmXMdXi4%3D",
+      "entrants": 0,
+      "start_time": 1673829000
+    },
+    {
       "slug": "tournament/waddle-dee-s-spartan-arena/event/melee-singles",
       "tournament_name": "Waddle Dee's Spartan Arena",
       "event_name": "Melee Singles",
@@ -206,7 +214,7 @@
       "tournament_name": "Border Weeklys",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511603/image-b7e966a94fe9d8b861cd3c988f862408.jpg?ehk=80NGEW4IKhv%2Fu38LZRXqzbSGJSLh7k9wPTC6dk%2ByCmA%3D&ehkOptimized=rFPY7bSCHDGtCDtH6EPsA1AsHJ8gtUPFLE8gjN4PBe8%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1674007200
     },
     {
