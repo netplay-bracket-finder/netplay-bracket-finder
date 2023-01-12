@@ -1,28 +1,12 @@
 {
-  "fetched_at": 1673481082,
+  "fetched_at": 1673486495,
   "data": [
-    {
-      "slug": "tournament/the-florida-colosseum-week-2-presented-by-slyfox-esports/event/melee-singles",
-      "tournament_name": "The Florida Colosseum Week 2 | Presented by SlyFox Esports",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/511756/image-8357065bac3366ffb1f5ba53a8663f40.png?ehk=hwhgM9Vt%2Fh7IoQuNlJa5Ew6pjVCp0kZRgSp315AhLIo%3D&ehkOptimized=P0%2B1%2BYwpl7h6Y1G1G9NvR6zc4nYRrA1R70JhotoRB5U%3D",
-      "entrants": 19,
-      "start_time": 1673481600
-    },
-    {
-      "slug": "tournament/waddle-wednesday-52/event/melee-singles",
-      "tournament_name": "Waddle Wednesday 52",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/510960/image-bb0be417b384178be5d8fdcf2b1f825c.png?ehk=JHyNj4jwIUQ8Qs7PVhoG66zTcoAAXXUz%2BcqzpdkpjTM%3D&ehkOptimized=H22HK3Dsw6W5gdWG5Y7sJNqFj0CPs7OMX9EjDDbuEPo%3D",
-      "entrants": 27,
-      "start_time": 1673485200
-    },
     {
       "slug": "tournament/silver-slippi-league-39/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #39",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/511654/image-6980e4aecd14807f27a5777fb5ea1b26.png?ehk=qhxtAJJQMS%2BtADwAjiD8B%2BDN8JR7XXXAZDy3P5qfTYw%3D&ehkOptimized=g9XmYDZrDQb1lFqOACdwuY4tsibmntCZsZIn5iaYRDY%3D",
-      "entrants": 7,
+      "entrants": 10,
       "start_time": 1673488800
     },
     {
@@ -30,7 +14,7 @@
       "tournament_name": "Take The L #17 - ONLINE EDITION",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511230/image-dd835945922c6c383444f9a6ebb904b4.jpg?ehk=uqZ6d81k%2FEB7G481HWIPkboLMIngHUPxo060iwjkkJA%3D&ehkOptimized=rdMpVAg7S4K8ODo9XVyMhJsBj2ZzW5mJ6yZazJvHyxk%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1673492400
     },
     {
@@ -110,7 +94,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 34,
+      "entrants": 35,
       "start_time": 1673722800
     },
     {
@@ -205,7 +189,7 @@
       "slug": "tournament/casino-royale-7-ssbm-online-weekly-1/event/casino",
       "tournament_name": "CASINO ROYALE 7 ~ SSBM Online Weekly",
       "event_name": "CASINO",
-      "image": "https://images.start.gg/images/tournament/511498/image-40bfbbcca3d5bb709d105af5ad6db2bf.png?ehk=XO2RMbLtX4BuXkZALe1ZhsMyvkdiLpey4g6ovFsB%2FVs%3D&ehkOptimized=1IxAsjCVdWldivz7jMD7y%2F0zBLg10ssWmzeKB0hQXKI%3D",
+      "image": "https://images.start.gg/images/tournament/511498/image-139aa229efbc5cf7780c5b5c4654575d.png?ehk=QinIt5oeHSJoe7MrVaWubDOQduNGTMMy50EDfdwe7ZM%3D&ehkOptimized=UXciVCPfJw3fXqM8nzVvUVJUvs6QbZdKxBZ8lfP%2B0uM%3D",
       "entrants": 0,
       "start_time": 1673922600
     },
