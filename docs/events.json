@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1673543774,
+  "fetched_at": 1673545498,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-47-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #47 (EU Event)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510123/image-c0d80ae5d97c5fdca85534bf052c5350.png?ehk=NXOZNj4e%2BPEuE00iNNmEHgtNfH3L1ffOmlPqzuL2O9U%3D&ehkOptimized=1KjmnYUBXXsQeXQFgI5ym5draaOfmXuw7s9ypeJ1o98%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1673546400
     },
     {
@@ -32,6 +32,14 @@
       "image": "https://images.start.gg/images/tournament/510117/image-a051672a1b417f2c65e7f93bb4ba2f41.png?ehk=VUwWgBzUN9OPz2drHHw6BCUngRV8hhcQatTvscV6Xp4%3D&ehkOptimized=s925VKSyqFQ%2BdoImd%2B4T3pef4vpUBFjPg0i8Lb0A90w%3D",
       "entrants": 2,
       "start_time": 1673571600
+    },
+    {
+      "slug": "tournament/thursday-thmackdown-16-3/event/melee-singles",
+      "tournament_name": "Thursday Thmackdown #16",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/512005/image-18596f0aafe2b06b20c421ec416d8d86.png?ehk=Irc4b%2BtjFBPbJSnICnsJC%2BYXda8d2hNxU8jPG4RDiwQ%3D&ehkOptimized=WZg18PewJ447yQ7xbJScNFhgJyeIh%2FBbRXPgq54bbyE%3D",
+      "entrants": 0,
+      "start_time": 1673575200
     },
     {
       "slug": "tournament/the-midnight-caf-1/event/wc-melee-singles",
@@ -192,6 +200,14 @@
       "image": "https://images.start.gg/images/tournament/510371/image-780db74fb0a6153278f618875a6ff910.jpg?ehk=ZmXoPtWKLbigx40zDWvjyqIYsnXAdvsA%2BGiIHU3%2B9wY%3D&ehkOptimized=msykLVopLfsHyHzakeIkQeGRLtmd14ppAQPvS%2F%2Ftuxc%3D",
       "entrants": 26,
       "start_time": 1674000000
+    },
+    {
+      "slug": "tournament/border-weeklys/event/melee-singles",
+      "tournament_name": "Border Weeklys",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/511603/image-b7e966a94fe9d8b861cd3c988f862408.jpg?ehk=80NGEW4IKhv%2Fu38LZRXqzbSGJSLh7k9wPTC6dk%2ByCmA%3D&ehkOptimized=rFPY7bSCHDGtCDtH6EPsA1AsHJ8gtUPFLE8gjN4PBe8%3D",
+      "entrants": 4,
+      "start_time": 1674007200
     },
     {
       "slug": "tournament/philippine-arcadian-5/event/melee-singles",
