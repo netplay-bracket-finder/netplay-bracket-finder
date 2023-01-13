@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1673572938,
+  "fetched_at": 1673577429,
   "data": [
-    {
-      "slug": "tournament/thursday-thmackdown-16-3/event/melee-singles",
-      "tournament_name": "Thursday Thmackdown #16",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/512005/image-18596f0aafe2b06b20c421ec416d8d86.png?ehk=Irc4b%2BtjFBPbJSnICnsJC%2BYXda8d2hNxU8jPG4RDiwQ%3D&ehkOptimized=WZg18PewJ447yQ7xbJScNFhgJyeIh%2FBbRXPgq54bbyE%3D",
-      "entrants": 5,
-      "start_time": 1673575200
-    },
     {
       "slug": "tournament/the-midnight-caf-1/event/wc-melee-singles",
       "tournament_name": "The Midnight Café #1",
@@ -174,7 +166,7 @@
       "tournament_name": "Sandia Hard Smash: Biweekly #1",
       "event_name": "Melee Ladder (Free Preregistration)",
       "image": "https://images.start.gg/images/tournament/509717/image-9d2c27f0dae29aa5e6c057e08a0421f2.png?ehk=dfuUPpNDDYOg5iiu1Ex1wrY3t5nEEZJhB0oQnPAy%2BCM%3D&ehkOptimized=yST1s3rRLEQpSLkLJjoqkzcypjtKyQ%2BvSTOaUTEmR6Y%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1673906400
     },
     {
