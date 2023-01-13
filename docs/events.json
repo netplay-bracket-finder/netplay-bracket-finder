@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673639478,
+  "fetched_at": 1673641015,
   "data": [
     {
       "slug": "tournament/ssbu-the-dojo-38-presented-by-solar-esports/event/melee-singles",
@@ -54,7 +54,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 45,
+      "entrants": 46,
       "start_time": 1673722800
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA West Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1673730000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "After Dark Melee #11",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/512051/image-cd97cb0ba936fa750e71b1face108867.png?ehk=iykd1S7Duq2Idl4280W0xRbnPTPTij02p2MCZ6PIbkQ%3D&ehkOptimized=Q6%2FUbXAZnB%2FRFPk8L4AoIqs7rML0v1HpX3wVRMMGCe8%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1673727300
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "Fight of the Fearless 35",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/512016/image-e88b118c37481ae92e641f27700a71a9.png?ehk=GTwEQejWKxp73qLxoOWF0plY%2BwtqHXagpTDaFunyK%2Fo%3D&ehkOptimized=We5l89Wt2UuG3C1fGZEVyzQTjb5%2F8jjSNbQ75mk6V4g%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1673805600
     },
     {
