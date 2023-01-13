@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1673587715,
+  "fetched_at": 1673588377,
   "data": [
-    {
-      "slug": "tournament/the-midnight-caf-1/event/wc-melee-singles",
-      "tournament_name": "The Midnight Café #1",
-      "event_name": "WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/509946/image-4fb0a4d31bc4430d77c08f4b7915ac25.png?ehk=dUEQpWJ46qGrKzmZlBg2Suckr4OpCKfyovnQnmM7zYY%3D&ehkOptimized=jwYYUHrTYQ9X4j9ykF4qPFXNU4QI0L6ULhZ1MPpMiFE%3D",
-      "entrants": 1,
-      "start_time": 1673589540
-    },
-    {
-      "slug": "tournament/the-midnight-caf-1/event/ec-melee-singles",
-      "tournament_name": "The Midnight Café #1",
-      "event_name": "EC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/509946/image-4fb0a4d31bc4430d77c08f4b7915ac25.png?ehk=dUEQpWJ46qGrKzmZlBg2Suckr4OpCKfyovnQnmM7zYY%3D&ehkOptimized=jwYYUHrTYQ9X4j9ykF4qPFXNU4QI0L6ULhZ1MPpMiFE%3D",
-      "entrants": 0,
-      "start_time": 1673589540
-    },
     {
       "slug": "tournament/ssbu-the-dojo-38-presented-by-solar-esports/event/melee-singles",
       "tournament_name": "SSBU The Dojo #38 (Presented by Solar Esports)",
@@ -158,7 +142,7 @@
       "tournament_name": "Waddle Dee's Spartan Arena",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508401/image-0603534541015aa392b5ad2f4a55310f.png?ehk=Mx7QVuL1EhTjg2NT90OsZpbZfAMMhV5JXeOwwlBPT%2BQ%3D&ehkOptimized=pk1zqm5Sx2R26khXgF5cneKqp5S7mzWJQvfwAP72oKs%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1673830800
     },
     {
