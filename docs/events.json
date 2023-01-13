@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673583607,
+  "fetched_at": 1673584846,
   "data": [
     {
       "slug": "tournament/the-midnight-caf-1/event/wc-melee-singles",
@@ -46,7 +46,7 @@
       "tournament_name": "Mid Level Mayhem 1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510698/image-5bc8a2850d1138a9f7d960e3e38eef8b.png?ehk=h5qJBbEHurFJwuM3heYQlyXuCyb6PcVPQU9lDWTtgd0%3D&ehkOptimized=u1GWWswsWZAO0rLllTeF5wH6R%2BIJHQcWiy%2BvX1ZYtCA%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1673679600
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "Beginner Beatdown 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511657/image-80696900f73393a3cfe9f35f66956912.png?ehk=Or487r3qOu7gc0m9eScwTT2XzvDQXT2iq%2Ft1rSJZAio%3D&ehkOptimized=%2BFkBwqnMs%2Fkn%2FLA%2Bk72z8vZlke1lAfILSBvsMXUzu70%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1673766000
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "Border Weeklys",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511603/image-b7e966a94fe9d8b861cd3c988f862408.jpg?ehk=80NGEW4IKhv%2Fu38LZRXqzbSGJSLh7k9wPTC6dk%2ByCmA%3D&ehkOptimized=rFPY7bSCHDGtCDtH6EPsA1AsHJ8gtUPFLE8gjN4PBe8%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1674007200
     },
     {
