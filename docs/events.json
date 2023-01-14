@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673730771,
+  "fetched_at": 1673731436,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-21-1/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Legs' Le Silly #8",
       "event_name": "No Mains",
       "image": "https://images.start.gg/images/tournament/512462/image-4b5f5af875b1ae1ba516227a9cef7c77.png?ehk=gc2TDCipvI2Ma73EFBd8kCoa9EfgdiilDzuOkSV8Dg0%3D&ehkOptimized=I1awwOlzeU9nBe3G1nYh93Y3hiC%2BTiW8rjeuUZbrRMA%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1673726400
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Waddle Dee's Widdle Arcadian 2",
       "event_name": "Melee Arcadian Singles",
       "image": "https://images.start.gg/images/tournament/508398/image-7f7f28ecd7626ee4b629efcad1aafe9a.png?ehk=mzT%2BdfjAwd6tp2VDuWVyX0XuZ7r6ED8vgT0uwGL59pw%3D&ehkOptimized=iWxp9dXiXrtc230H7ojcmKa0GBe1ylSVipGGnthuuHk%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1673744400
     },
     {
@@ -118,7 +118,7 @@
       "tournament_name": "Waddle Dee's Spartan Arena",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508401/image-0603534541015aa392b5ad2f4a55310f.png?ehk=Mx7QVuL1EhTjg2NT90OsZpbZfAMMhV5JXeOwwlBPT%2BQ%3D&ehkOptimized=pk1zqm5Sx2R26khXgF5cneKqp5S7mzWJQvfwAP72oKs%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1673830800
     },
     {
