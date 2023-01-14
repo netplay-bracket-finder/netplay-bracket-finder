@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673732188,
+  "fetched_at": 1673733082,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-21-1/event/melee-singles",
@@ -10,19 +10,19 @@
       "start_time": 1673713800
     },
     {
+      "slug": "tournament/legs-le-silly-8/event/no-mains",
+      "tournament_name": "Legs' Le Silly #8",
+      "event_name": "No Mains",
+      "image": "https://images.start.gg/images/tournament/512462/image-4b5f5af875b1ae1ba516227a9cef7c77.png?ehk=gc2TDCipvI2Ma73EFBd8kCoa9EfgdiilDzuOkSV8Dg0%3D&ehkOptimized=I1awwOlzeU9nBe3G1nYh93Y3hiC%2BTiW8rjeuUZbrRMA%3D",
+      "entrants": 24,
+      "start_time": 1673726400
+    },
+    {
       "slug": "tournament/legs-le-silly-8/event/melee-doubles",
       "tournament_name": "Legs' Le Silly #8",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/512462/image-4b5f5af875b1ae1ba516227a9cef7c77.png?ehk=gc2TDCipvI2Ma73EFBd8kCoa9EfgdiilDzuOkSV8Dg0%3D&ehkOptimized=I1awwOlzeU9nBe3G1nYh93Y3hiC%2BTiW8rjeuUZbrRMA%3D",
       "entrants": 9,
-      "start_time": 1673726400
-    },
-    {
-      "slug": "tournament/legs-le-silly-8/event/no-mains",
-      "tournament_name": "Legs' Le Silly #8",
-      "event_name": "No Mains",
-      "image": "https://images.start.gg/images/tournament/512462/image-4b5f5af875b1ae1ba516227a9cef7c77.png?ehk=gc2TDCipvI2Ma73EFBd8kCoa9EfgdiilDzuOkSV8Dg0%3D&ehkOptimized=I1awwOlzeU9nBe3G1nYh93Y3hiC%2BTiW8rjeuUZbrRMA%3D",
-      "entrants": 22,
       "start_time": 1673726400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Andrenaleague 18",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511130/image-074c6f9b35cb819f8eee9428ce71e45e.png?ehk=3hyaQpUzJylmXGzctOodE%2Bk%2Fl%2F5Se%2B5SNXTm2KpJyso%3D&ehkOptimized=9dJA2zGP2sgYVbkybQ2Jl%2BVOofy4OXY22WKMwz22POg%3D",
-      "entrants": 12,
+      "entrants": 14,
       "start_time": 1673737200
     },
     {
@@ -214,7 +214,7 @@
       "tournament_name": "Hérault Of Proud",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512427/image-6fe5c5f8d66ac9d3956c517ecc095fe4.jpg?ehk=1h%2B3lSum0ZS9mVMTdGrwd4C5Ar4bg0HuuZW0f5VDd1U%3D&ehkOptimized=b0A702d38u3XgvP6KU3iKW2LeYu7luWNiUgdKw1BsY8%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1674320400
     },
     {
