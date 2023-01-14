@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1673675478,
+  "fetched_at": 1673677119,
   "data": [
     {
       "slug": "tournament/mid-level-mayhem-1/event/melee-singles",
       "tournament_name": "Mid Level Mayhem 1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510698/image-5bc8a2850d1138a9f7d960e3e38eef8b.png?ehk=h5qJBbEHurFJwuM3heYQlyXuCyb6PcVPQU9lDWTtgd0%3D&ehkOptimized=u1GWWswsWZAO0rLllTeF5wH6R%2BIJHQcWiy%2BvX1ZYtCA%3D",
-      "entrants": 19,
+      "entrants": 20,
       "start_time": 1673679600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 57,
+      "entrants": 55,
       "start_time": 1673722800
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Beginner Beatdown 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511657/image-80696900f73393a3cfe9f35f66956912.png?ehk=Or487r3qOu7gc0m9eScwTT2XzvDQXT2iq%2Ft1rSJZAio%3D&ehkOptimized=%2BFkBwqnMs%2Fkn%2FLA%2Bk72z8vZlke1lAfILSBvsMXUzu70%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1673766000
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Fight of the Fearless 35",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/512016/image-e88b118c37481ae92e641f27700a71a9.png?ehk=GTwEQejWKxp73qLxoOWF0plY%2BwtqHXagpTDaFunyK%2Fo%3D&ehkOptimized=We5l89Wt2UuG3C1fGZEVyzQTjb5%2F8jjSNbQ75mk6V4g%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1673805600
     },
     {
