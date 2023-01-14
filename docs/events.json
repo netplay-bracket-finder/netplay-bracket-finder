@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1673682687,
+  "fetched_at": 1673684346,
   "data": [
-    {
-      "slug": "tournament/fjord-frenzy-1000-prize-pool/event/na-east-melee-singles",
-      "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
-      "event_name": "NA East Melee Singles",
-      "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 55,
-      "start_time": 1673722800
-    },
-    {
-      "slug": "tournament/fjord-frenzy-1000-prize-pool/event/na-west-melee-singles",
-      "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
-      "event_name": "NA West Melee Singles",
-      "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 8,
-      "start_time": 1673730000
-    },
     {
       "slug": "tournament/after-dark-melee-11/event/after-dark-singles",
       "tournament_name": "After Dark Melee #11",
