@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673707879,
+  "fetched_at": 1673709298,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-21-1/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "After Dark Melee #11",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/512051/image-cd97cb0ba936fa750e71b1face108867.png?ehk=iykd1S7Duq2Idl4280W0xRbnPTPTij02p2MCZ6PIbkQ%3D&ehkOptimized=Q6%2FUbXAZnB%2FRFPk8L4AoIqs7rML0v1HpX3wVRMMGCe8%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1673727300
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Super Scuffed Smash Saturday #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510751/image-4e4ed61d8ffb093b8f029de541d86452.jpg?ehk=yRC2cuxh4HQD7zHz%2FppUdOdAgVLeT6ZbPPieyCPRCRo%3D&ehkOptimized=8MaTDgXv3KPytXCzTui2ElbgGfjqOf2qvBxl2dYqmq0%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1673730000
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "Hérault Of Proud",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512427/image-6fe5c5f8d66ac9d3956c517ecc095fe4.jpg?ehk=1h%2B3lSum0ZS9mVMTdGrwd4C5Ar4bg0HuuZW0f5VDd1U%3D&ehkOptimized=b0A702d38u3XgvP6KU3iKW2LeYu7luWNiUgdKw1BsY8%3D",
-      "entrants": 1,
+      "entrants": 3,
       "start_time": 1674320400
     },
     {
@@ -240,14 +240,6 @@
       "image": "https://images.start.gg/images/tournament/508823/image-72e9da5084f90bb60cdb940caf0f9fe1.png?ehk=izz1amE0bDG4cGb0hm3D2EYBvSquPW7aix6iBSMHseI%3D&ehkOptimized=DvE%2FANTamBwvb1c1gYgnq%2Fq7KffDApdM%2B1RiIVk8LWo%3D",
       "entrants": 12,
       "start_time": 1675818000
-    },
-    {
-      "slug": "tournament/whispy-woods-superstar-circuit-qualifier-1/event/melee-singles",
-      "tournament_name": "Whispy Woods Superstar Circuit- Qualifier 1",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/492841/image-25503525b7a477b0d3cf79d8edd231b5.png?ehk=imi1GXSK2RRhQ6P2wLkYKi0L%2BFufyHQQoKRu46xUBxw%3D&ehkOptimized=PGAXVHlTmkwd5NsRpetUcGIGJxqQQE7r82nqo0%2Fx1cA%3D",
-      "entrants": 20,
-      "start_time": 1676156400
     },
     {
       "slug": "tournament/meteor-massacre-1/event/melee-singles",
