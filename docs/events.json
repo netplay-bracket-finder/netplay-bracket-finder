@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673718675,
+  "fetched_at": 1673720281,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-21-1/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Legs' Le Silly #8",
       "event_name": "No Mains",
       "image": "https://images.start.gg/images/tournament/512462/image-4b5f5af875b1ae1ba516227a9cef7c77.png?ehk=gc2TDCipvI2Ma73EFBd8kCoa9EfgdiilDzuOkSV8Dg0%3D&ehkOptimized=I1awwOlzeU9nBe3G1nYh93Y3hiC%2BTiW8rjeuUZbrRMA%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1673726400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Legs' Le Silly #8",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/512462/image-4b5f5af875b1ae1ba516227a9cef7c77.png?ehk=gc2TDCipvI2Ma73EFBd8kCoa9EfgdiilDzuOkSV8Dg0%3D&ehkOptimized=I1awwOlzeU9nBe3G1nYh93Y3hiC%2BTiW8rjeuUZbrRMA%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1673726400
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "After Dark Melee #11",
       "event_name": "After Dark Singles",
       "image": "https://images.start.gg/images/tournament/512051/image-cd97cb0ba936fa750e71b1face108867.png?ehk=iykd1S7Duq2Idl4280W0xRbnPTPTij02p2MCZ6PIbkQ%3D&ehkOptimized=Q6%2FUbXAZnB%2FRFPk8L4AoIqs7rML0v1HpX3wVRMMGCe8%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1673727300
     },
     {
@@ -38,8 +38,8 @@
       "tournament_name": "After Dark Melee #11",
       "event_name": "After Dark Doubles",
       "image": "https://images.start.gg/images/tournament/512051/image-cd97cb0ba936fa750e71b1face108867.png?ehk=iykd1S7Duq2Idl4280W0xRbnPTPTij02p2MCZ6PIbkQ%3D&ehkOptimized=Q6%2FUbXAZnB%2FRFPk8L4AoIqs7rML0v1HpX3wVRMMGCe8%3D",
-      "entrants": 2,
-      "start_time": 1673727300
+      "entrants": 3,
+      "start_time": 1673735400
     },
     {
       "slug": "tournament/super-scuffed-smash-saturday-3/event/melee-singles",
@@ -54,7 +54,7 @@
       "tournament_name": "Andrenaleague 18",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511130/image-074c6f9b35cb819f8eee9428ce71e45e.png?ehk=3hyaQpUzJylmXGzctOodE%2Bk%2Fl%2F5Se%2B5SNXTm2KpJyso%3D&ehkOptimized=9dJA2zGP2sgYVbkybQ2Jl%2BVOofy4OXY22WKMwz22POg%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1673737200
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Waddle Dee's Widdle Arcadian 2",
       "event_name": "Melee Arcadian Singles",
       "image": "https://images.start.gg/images/tournament/508398/image-7f7f28ecd7626ee4b629efcad1aafe9a.png?ehk=mzT%2BdfjAwd6tp2VDuWVyX0XuZ7r6ED8vgT0uwGL59pw%3D&ehkOptimized=iWxp9dXiXrtc230H7ojcmKa0GBe1ylSVipGGnthuuHk%3D",
-      "entrants": 9,
+      "entrants": 8,
       "start_time": 1673744400
     },
     {
