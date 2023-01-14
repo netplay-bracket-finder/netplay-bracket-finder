@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673658972,
+  "fetched_at": 1673663063,
   "data": [
     {
       "slug": "tournament/the-hi-rise-2/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "Mid Level Mayhem 1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510698/image-5bc8a2850d1138a9f7d960e3e38eef8b.png?ehk=h5qJBbEHurFJwuM3heYQlyXuCyb6PcVPQU9lDWTtgd0%3D&ehkOptimized=u1GWWswsWZAO0rLllTeF5wH6R%2BIJHQcWiy%2BvX1ZYtCA%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1673679600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
       "event_name": "NA East Melee Singles",
       "image": "https://images.start.gg/images/tournament/508500/image-f27af90e54f2fbc6cf0466403ea94cae.png?ehk=LC0iI%2FQOAHlJiqTwC10pOLC%2FvLepkjVqTO6idIxLHRc%3D&ehkOptimized=ALvkUkG3b2yZSZXLgOvfYlee%2BfRsg95uJZ%2FV9Iqoobk%3D",
-      "entrants": 50,
+      "entrants": 51,
       "start_time": 1673722800
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Super Scuffed Smash Saturday #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510751/image-4e4ed61d8ffb093b8f029de541d86452.jpg?ehk=yRC2cuxh4HQD7zHz%2FppUdOdAgVLeT6ZbPPieyCPRCRo%3D&ehkOptimized=8MaTDgXv3KPytXCzTui2ElbgGfjqOf2qvBxl2dYqmq0%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1673730000
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Waddle Dee's Widdle Arcadian 2",
       "event_name": "Melee Arcadian Singles",
       "image": "https://images.start.gg/images/tournament/508398/image-7f7f28ecd7626ee4b629efcad1aafe9a.png?ehk=mzT%2BdfjAwd6tp2VDuWVyX0XuZ7r6ED8vgT0uwGL59pw%3D&ehkOptimized=iWxp9dXiXrtc230H7ojcmKa0GBe1ylSVipGGnthuuHk%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1673744400
     },
     {
