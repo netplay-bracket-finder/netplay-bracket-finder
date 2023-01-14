@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673735938,
+  "fetched_at": 1673736690,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-21-1/event/melee-singles",
@@ -26,19 +26,11 @@
       "start_time": 1673726400
     },
     {
-      "slug": "tournament/andrenaleague-18/event/melee-singles",
-      "tournament_name": "Andrenaleague 18",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/511130/image-074c6f9b35cb819f8eee9428ce71e45e.png?ehk=3hyaQpUzJylmXGzctOodE%2Bk%2Fl%2F5Se%2B5SNXTm2KpJyso%3D&ehkOptimized=9dJA2zGP2sgYVbkybQ2Jl%2BVOofy4OXY22WKMwz22POg%3D",
-      "entrants": 16,
-      "start_time": 1673737200
-    },
-    {
       "slug": "tournament/waddle-dee-s-widdle-arcadian-2/event/melee-arcadian-singles",
       "tournament_name": "Waddle Dee's Widdle Arcadian 2",
       "event_name": "Melee Arcadian Singles",
       "image": "https://images.start.gg/images/tournament/508398/image-7f7f28ecd7626ee4b629efcad1aafe9a.png?ehk=mzT%2BdfjAwd6tp2VDuWVyX0XuZ7r6ED8vgT0uwGL59pw%3D&ehkOptimized=iWxp9dXiXrtc230H7ojcmKa0GBe1ylSVipGGnthuuHk%3D",
-      "entrants": 23,
+      "entrants": 26,
       "start_time": 1673744400
     },
     {
@@ -70,7 +62,7 @@
       "tournament_name": "Fight of the Fearless 35",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/512016/image-e88b118c37481ae92e641f27700a71a9.png?ehk=GTwEQejWKxp73qLxoOWF0plY%2BwtqHXagpTDaFunyK%2Fo%3D&ehkOptimized=We5l89Wt2UuG3C1fGZEVyzQTjb5%2F8jjSNbQ75mk6V4g%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1673805600
     },
     {
@@ -104,6 +96,14 @@
       "image": "https://images.start.gg/images/tournament/508401/image-0603534541015aa392b5ad2f4a55310f.png?ehk=Mx7QVuL1EhTjg2NT90OsZpbZfAMMhV5JXeOwwlBPT%2BQ%3D&ehkOptimized=pk1zqm5Sx2R26khXgF5cneKqp5S7mzWJQvfwAP72oKs%3D",
       "entrants": 6,
       "start_time": 1673830800
+    },
+    {
+      "slug": "tournament/scss-west-coast-91/event/melee-singles",
+      "tournament_name": "scss West Coast #91",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/512545/image-ef406dab7a835197c9bf3f2c32a8b38a.png?ehk=KgMfVqI70N%2BTKl0mh6F5VfDIQpvWSpHX%2FQWOnwMBFGI%3D&ehkOptimized=K6p8xverWSFQ5DUlMt8P%2B0I5BAW%2FLPlN2jEbQS5K8Iw%3D",
+      "entrants": 0,
+      "start_time": 1673832600
     },
     {
       "slug": "tournament/sandia-hard-smash-biweekly-1/event/melee-ladder-free-preregistration",
