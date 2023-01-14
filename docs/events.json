@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673733082,
+  "fetched_at": 1673734442,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-21-1/event/melee-singles",
@@ -30,7 +30,7 @@
       "tournament_name": "SBY Melee Netplay #146",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512511/image-990ffe37c5b4c79b7298e00b64bfddbb.jpg?ehk=w9qE6k8rKBYwcqGYLEYkHNPk9MWexpITENhrfMOpEn0%3D&ehkOptimized=eFS3HjIaUd8F7vOVeUmQucxdwAeGKxvRCJF2ONDRC9A%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1673735400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Andrenaleague 18",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511130/image-074c6f9b35cb819f8eee9428ce71e45e.png?ehk=3hyaQpUzJylmXGzctOodE%2Bk%2Fl%2F5Se%2B5SNXTm2KpJyso%3D&ehkOptimized=9dJA2zGP2sgYVbkybQ2Jl%2BVOofy4OXY22WKMwz22POg%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1673737200
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Randomelee: A Popup Randomizer Bracket",
       "event_name": "Randomelee",
       "image": "https://images.start.gg/images/tournament/512519/image-239e967382b344a997a12057b7504daa.png?ehk=%2BHBz8dLKlDRUFSQ5ZT6W2K6qAU1TltgIrMWHxC%2BbmVg%3D&ehkOptimized=DEbXMCn0afvsiZuIgKupdtkzk6xG9hehuRdSwpNLjps%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1673744400
     },
     {
@@ -174,7 +174,7 @@
       "tournament_name": "Border Weeklys",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511603/image-b7e966a94fe9d8b861cd3c988f862408.jpg?ehk=80NGEW4IKhv%2Fu38LZRXqzbSGJSLh7k9wPTC6dk%2ByCmA%3D&ehkOptimized=rFPY7bSCHDGtCDtH6EPsA1AsHJ8gtUPFLE8gjN4PBe8%3D",
-      "entrants": 18,
+      "entrants": 19,
       "start_time": 1674007200
     },
     {
