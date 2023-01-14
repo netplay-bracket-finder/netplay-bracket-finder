@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673723503,
+  "fetched_at": 1673724173,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-21-1/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Legs' Le Silly #8",
       "event_name": "No Mains",
       "image": "https://images.start.gg/images/tournament/512462/image-4b5f5af875b1ae1ba516227a9cef7c77.png?ehk=gc2TDCipvI2Ma73EFBd8kCoa9EfgdiilDzuOkSV8Dg0%3D&ehkOptimized=I1awwOlzeU9nBe3G1nYh93Y3hiC%2BTiW8rjeuUZbrRMA%3D",
-      "entrants": 12,
+      "entrants": 15,
       "start_time": 1673726400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Legs' Le Silly #8",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/512462/image-4b5f5af875b1ae1ba516227a9cef7c77.png?ehk=gc2TDCipvI2Ma73EFBd8kCoa9EfgdiilDzuOkSV8Dg0%3D&ehkOptimized=I1awwOlzeU9nBe3G1nYh93Y3hiC%2BTiW8rjeuUZbrRMA%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1673726400
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Super Scuffed Smash Saturday #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510751/image-4e4ed61d8ffb093b8f029de541d86452.jpg?ehk=yRC2cuxh4HQD7zHz%2FppUdOdAgVLeT6ZbPPieyCPRCRo%3D&ehkOptimized=8MaTDgXv3KPytXCzTui2ElbgGfjqOf2qvBxl2dYqmq0%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1673730000
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Waddle Dee's Widdle Arcadian 2",
       "event_name": "Melee Arcadian Singles",
       "image": "https://images.start.gg/images/tournament/508398/image-7f7f28ecd7626ee4b629efcad1aafe9a.png?ehk=mzT%2BdfjAwd6tp2VDuWVyX0XuZ7r6ED8vgT0uwGL59pw%3D&ehkOptimized=iWxp9dXiXrtc230H7ojcmKa0GBe1ylSVipGGnthuuHk%3D",
-      "entrants": 9,
+      "entrants": 12,
       "start_time": 1673744400
     },
     {
