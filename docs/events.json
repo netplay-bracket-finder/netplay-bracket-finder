@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1673674000,
+  "fetched_at": 1673674664,
   "data": [
-    {
-      "slug": "tournament/the-midnight-caf-1/event/wc-melee-singles",
-      "tournament_name": "The Midnight Café #1",
-      "event_name": "WC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/509946/image-4fb0a4d31bc4430d77c08f4b7915ac25.png?ehk=dUEQpWJ46qGrKzmZlBg2Suckr4OpCKfyovnQnmM7zYY%3D&ehkOptimized=jwYYUHrTYQ9X4j9ykF4qPFXNU4QI0L6ULhZ1MPpMiFE%3D",
-      "entrants": 1,
-      "start_time": 1673675940
-    },
-    {
-      "slug": "tournament/the-midnight-caf-1/event/ec-melee-singles",
-      "tournament_name": "The Midnight Café #1",
-      "event_name": "EC Melee Singles",
-      "image": "https://images.start.gg/images/tournament/509946/image-4fb0a4d31bc4430d77c08f4b7915ac25.png?ehk=dUEQpWJ46qGrKzmZlBg2Suckr4OpCKfyovnQnmM7zYY%3D&ehkOptimized=jwYYUHrTYQ9X4j9ykF4qPFXNU4QI0L6ULhZ1MPpMiFE%3D",
-      "entrants": 0,
-      "start_time": 1673675940
-    },
     {
       "slug": "tournament/mid-level-mayhem-1/event/melee-singles",
       "tournament_name": "Mid Level Mayhem 1",
