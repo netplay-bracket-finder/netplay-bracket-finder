@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1673678320,
+  "fetched_at": 1673679081,
   "data": [
-    {
-      "slug": "tournament/mid-level-mayhem-1/event/melee-singles",
-      "tournament_name": "Mid Level Mayhem 1",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/510698/image-5bc8a2850d1138a9f7d960e3e38eef8b.png?ehk=h5qJBbEHurFJwuM3heYQlyXuCyb6PcVPQU9lDWTtgd0%3D&ehkOptimized=u1GWWswsWZAO0rLllTeF5wH6R%2BIJHQcWiy%2BvX1ZYtCA%3D",
-      "entrants": 23,
-      "start_time": 1673679600
-    },
     {
       "slug": "tournament/fjord-frenzy-1000-prize-pool/event/na-east-melee-singles",
       "tournament_name": "Fjord Frenzy ($1000 Prize Pool)",
@@ -70,7 +62,7 @@
       "tournament_name": "Beginner Beatdown 87",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511657/image-80696900f73393a3cfe9f35f66956912.png?ehk=Or487r3qOu7gc0m9eScwTT2XzvDQXT2iq%2Ft1rSJZAio%3D&ehkOptimized=%2BFkBwqnMs%2Fkn%2FLA%2Bk72z8vZlke1lAfILSBvsMXUzu70%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1673766000
     },
     {
