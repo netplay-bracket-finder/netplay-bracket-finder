@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673728608,
+  "fetched_at": 1673729477,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-21-1/event/melee-singles",
@@ -39,7 +39,7 @@
       "event_name": "After Dark Doubles",
       "image": "https://images.start.gg/images/tournament/512051/image-cd97cb0ba936fa750e71b1face108867.png?ehk=iykd1S7Duq2Idl4280W0xRbnPTPTij02p2MCZ6PIbkQ%3D&ehkOptimized=Q6%2FUbXAZnB%2FRFPk8L4AoIqs7rML0v1HpX3wVRMMGCe8%3D",
       "entrants": 3,
-      "start_time": 1673735400
+      "start_time": 1673731800
     },
     {
       "slug": "tournament/sby-melee-netplay-146/event/melee-singles",
@@ -62,7 +62,7 @@
       "tournament_name": "Waddle Dee's Widdle Arcadian 2",
       "event_name": "Melee Arcadian Singles",
       "image": "https://images.start.gg/images/tournament/508398/image-7f7f28ecd7626ee4b629efcad1aafe9a.png?ehk=mzT%2BdfjAwd6tp2VDuWVyX0XuZ7r6ED8vgT0uwGL59pw%3D&ehkOptimized=iWxp9dXiXrtc230H7ojcmKa0GBe1ylSVipGGnthuuHk%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1673744400
     },
     {
