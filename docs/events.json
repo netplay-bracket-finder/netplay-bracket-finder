@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1673714548,
+  "fetched_at": 1673715216,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-21-1/event/melee-singles",
       "tournament_name": "ASL’s Weekly Weekend Melee 21",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512435/image-e39178871687da34eaba71aade2bd684.png?ehk=QlEKN%2BZlHllpdo42cGgm62%2BuUO00hBowRxOtQNT6aEc%3D&ehkOptimized=vvEbpW8ts5WyM4K11zOSwIeKVFdlbgn1nNgYItUAKFs%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1673713800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Legs' Le Silly #8",
       "event_name": "No Mains",
       "image": "https://images.start.gg/images/tournament/512462/image-4b5f5af875b1ae1ba516227a9cef7c77.png?ehk=gc2TDCipvI2Ma73EFBd8kCoa9EfgdiilDzuOkSV8Dg0%3D&ehkOptimized=I1awwOlzeU9nBe3G1nYh93Y3hiC%2BTiW8rjeuUZbrRMA%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1673726400
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Legs' Le Silly #8",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/512462/image-4b5f5af875b1ae1ba516227a9cef7c77.png?ehk=gc2TDCipvI2Ma73EFBd8kCoa9EfgdiilDzuOkSV8Dg0%3D&ehkOptimized=I1awwOlzeU9nBe3G1nYh93Y3hiC%2BTiW8rjeuUZbrRMA%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1673726400
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "Pino's Tired of 0-2 #105",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/511377/image-11c731b4f83fb86549d47ed236a7f83d.jpg?ehk=qDxqUqpjQ3BINoWo4AI6kg3yDQTAaI5qpGJLDbQI%2Bbo%3D&ehkOptimized=kBYjHgxHxTb1nA%2Buie3y7oB2eMapLK%2B73Qoy76eID6Y%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1673910000
     },
     {
