@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673734442,
+  "fetched_at": 1673735272,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-21-1/event/melee-singles",
@@ -26,14 +26,6 @@
       "start_time": 1673726400
     },
     {
-      "slug": "tournament/sby-melee-netplay-146/event/melee-singles",
-      "tournament_name": "SBY Melee Netplay #146",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/512511/image-990ffe37c5b4c79b7298e00b64bfddbb.jpg?ehk=w9qE6k8rKBYwcqGYLEYkHNPk9MWexpITENhrfMOpEn0%3D&ehkOptimized=eFS3HjIaUd8F7vOVeUmQucxdwAeGKxvRCJF2ONDRC9A%3D",
-      "entrants": 7,
-      "start_time": 1673735400
-    },
-    {
       "slug": "tournament/andrenaleague-18/event/melee-singles",
       "tournament_name": "Andrenaleague 18",
       "event_name": "Melee Singles",
@@ -46,7 +38,7 @@
       "tournament_name": "Waddle Dee's Widdle Arcadian 2",
       "event_name": "Melee Arcadian Singles",
       "image": "https://images.start.gg/images/tournament/508398/image-7f7f28ecd7626ee4b629efcad1aafe9a.png?ehk=mzT%2BdfjAwd6tp2VDuWVyX0XuZ7r6ED8vgT0uwGL59pw%3D&ehkOptimized=iWxp9dXiXrtc230H7ojcmKa0GBe1ylSVipGGnthuuHk%3D",
-      "entrants": 20,
+      "entrants": 23,
       "start_time": 1673744400
     },
     {
