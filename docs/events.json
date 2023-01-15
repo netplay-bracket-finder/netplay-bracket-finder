@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673779889,
+  "fetched_at": 1673781136,
   "data": [
     {
       "slug": "tournament/smashkasoni-january-2023/event/melee-singles",
@@ -88,6 +88,14 @@
       "image": "https://images.start.gg/images/tournament/511559/image-e8e10b1a4b57faa687e3343a6a6b73a7.jpg?ehk=f4daEpWFAzNitKtsk%2Fb%2FO%2FKii2gmpl3TZYriLkVrDmU%3D&ehkOptimized=Xnshk4XICAHs%2BCYDxasjLQSbk760S9Bq5Q0vGVCmINc%3D",
       "entrants": 1,
       "start_time": 1673918100
+    },
+    {
+      "slug": "tournament/spudfest-47/event/melee-singles",
+      "tournament_name": "Spudfest 47",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/512616/image-f2a79b84e843d48735a64af161b87585.jpg?ehk=aYViChWbISeS79Ws7wmN2bWA%2Fo5y0%2B8WAU4bml%2FnDOo%3D&ehkOptimized=%2Faum7crGbK%2BLmSGxw2g96XdskyTOFt8FmSURegtMHso%3D",
+      "entrants": 0,
+      "start_time": 1673920800
     },
     {
       "slug": "tournament/casino-royale-7-ssbm-online-weekly-1/event/casino",
