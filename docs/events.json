@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1673801623,
+  "fetched_at": 1673802797,
   "data": [
     {
       "slug": "tournament/smashkasoni-january-2023/event/melee-singles",
       "tournament_name": "Smashkasoni January 2023",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510849/image-3b3caad23719faf329e402f53122604d.jpg?ehk=Ned7t7RrU7MlugcB6v8%2FOMoXbGMf2rl%2Bk8JNg4JcY6o%3D&ehkOptimized=4mI8QiaNfIQYqQr%2BIBgNuoJL07sa9wF3vHvFmb%2B5Gh8%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1673809200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Fight of the Fearless 35",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/512016/image-e88b118c37481ae92e641f27700a71a9.png?ehk=GTwEQejWKxp73qLxoOWF0plY%2BwtqHXagpTDaFunyK%2Fo%3D&ehkOptimized=We5l89Wt2UuG3C1fGZEVyzQTjb5%2F8jjSNbQ75mk6V4g%3D",
-      "entrants": 13,
+      "entrants": 15,
       "start_time": 1673805600
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Waddle Dee's Spartan Arena",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508401/image-0603534541015aa392b5ad2f4a55310f.png?ehk=Mx7QVuL1EhTjg2NT90OsZpbZfAMMhV5JXeOwwlBPT%2BQ%3D&ehkOptimized=pk1zqm5Sx2R26khXgF5cneKqp5S7mzWJQvfwAP72oKs%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1673830800
     },
     {
@@ -112,6 +112,14 @@
       "image": "",
       "entrants": 1,
       "start_time": 1673973000
+    },
+    {
+      "slug": "tournament/tuesday-night-fever-12/event/melee-singles",
+      "tournament_name": "Tuesday Night Fever #12",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/512650/image-c8089773813f266068d8e32ce84937e0.png?ehk=PXy1heT1QG5bchr1uWqwt1LP%2BUpq2oHJXdCFY2cyuhk%3D&ehkOptimized=yLO7bSCfPMaZI4KlvjZ8hQVrtR7%2FiRg0ELc%2FtS178ds%3D",
+      "entrants": 0,
+      "start_time": 1673982000
     },
     {
       "slug": "tournament/nebraska-melee-cat6-combos-3/event/melee-singles",
