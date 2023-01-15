@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673764736,
+  "fetched_at": 1673765477,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-21-1/event/melee-singles",
@@ -24,14 +24,6 @@
       "image": "https://images.start.gg/images/tournament/512462/image-4b5f5af875b1ae1ba516227a9cef7c77.png?ehk=gc2TDCipvI2Ma73EFBd8kCoa9EfgdiilDzuOkSV8Dg0%3D&ehkOptimized=I1awwOlzeU9nBe3G1nYh93Y3hiC%2BTiW8rjeuUZbrRMA%3D",
       "entrants": 9,
       "start_time": 1673726400
-    },
-    {
-      "slug": "tournament/beginner-beatdown-87/event/melee-singles",
-      "tournament_name": "Beginner Beatdown 87",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/511657/image-80696900f73393a3cfe9f35f66956912.png?ehk=Or487r3qOu7gc0m9eScwTT2XzvDQXT2iq%2Ft1rSJZAio%3D&ehkOptimized=%2BFkBwqnMs%2Fkn%2FLA%2Bk72z8vZlke1lAfILSBvsMXUzu70%3D",
-      "entrants": 28,
-      "start_time": 1673766000
     },
     {
       "slug": "tournament/smashkasoni-january-2023/event/melee-singles",
