@@ -1,21 +1,13 @@
 {
-  "fetched_at": 1673805079,
+  "fetched_at": 1673806677,
   "data": [
     {
       "slug": "tournament/smashkasoni-january-2023/event/melee-singles",
       "tournament_name": "Smashkasoni January 2023",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510849/image-3b3caad23719faf329e402f53122604d.jpg?ehk=Ned7t7RrU7MlugcB6v8%2FOMoXbGMf2rl%2Bk8JNg4JcY6o%3D&ehkOptimized=4mI8QiaNfIQYqQr%2BIBgNuoJL07sa9wF3vHvFmb%2B5Gh8%3D",
-      "entrants": 8,
+      "entrants": 14,
       "start_time": 1673809200
-    },
-    {
-      "slug": "tournament/fight-of-the-fearless-35/event/fight-of-the-fearless-single",
-      "tournament_name": "Fight of the Fearless 35",
-      "event_name": "Fight Of The Fearless single",
-      "image": "https://images.start.gg/images/tournament/512016/image-e88b118c37481ae92e641f27700a71a9.png?ehk=GTwEQejWKxp73qLxoOWF0plY%2BwtqHXagpTDaFunyK%2Fo%3D&ehkOptimized=We5l89Wt2UuG3C1fGZEVyzQTjb5%2F8jjSNbQ75mk6V4g%3D",
-      "entrants": 21,
-      "start_time": 1673805600
     },
     {
       "slug": "tournament/polypuff/event/melee-doubles",
@@ -31,6 +23,14 @@
       "event_name": "MELEE SINGLES.",
       "image": "https://images.start.gg/images/tournament/500504/image-cbb396b8b534bdd41041e657b6e18cfc.jpg?ehk=u6Q6lmVuGQInUd7%2F0LahR%2FingKtzU1JHOMML76nFo7M%3D&ehkOptimized=X8z%2BUq9%2FN29u7AQ7gat8fbIKk%2F9wuq0xsHcFHci%2BeKE%3D",
       "entrants": 19,
+      "start_time": 1673827200
+    },
+    {
+      "slug": "tournament/kalvar-cup-75-the-cup-of-all-time/event/melee-singles",
+      "tournament_name": "Kalvar Cup #75 the cup of all time",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/512674/image-59a4ea11f0ecdfe8543801a6fec34c53.png?ehk=1mEH3F590pzBqHV2RI%2F9xFEhcw8JIyvWU%2B9QbhYz5Sc%3D&ehkOptimized=3c09RrYDHADuIPvaQI0%2BlITY59pLEvexWA8fePb42Gk%3D",
+      "entrants": 0,
       "start_time": 1673827200
     },
     {
@@ -55,6 +55,14 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508401/image-0603534541015aa392b5ad2f4a55310f.png?ehk=Mx7QVuL1EhTjg2NT90OsZpbZfAMMhV5JXeOwwlBPT%2BQ%3D&ehkOptimized=pk1zqm5Sx2R26khXgF5cneKqp5S7mzWJQvfwAP72oKs%3D",
       "entrants": 9,
+      "start_time": 1673830800
+    },
+    {
+      "slug": "tournament/no-melee-on-sundays-24/event/melee-singles",
+      "tournament_name": "No Melee On Sundays 24",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/512670/image-2df380964d7d77843395be4d6fba00bd.png?ehk=IasjSI53PE7BSXRSTFWHKxeWWNQftdH8p53HIms46zM%3D&ehkOptimized=3Q5o7235i7Ee9fPBCQ0rIySh00w%2F%2FDvW6oEkW1g8noE%3D",
+      "entrants": 0,
       "start_time": 1673830800
     },
     {
