@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1673824577,
+  "fetched_at": 1673825800,
   "data": [
     {
       "slug": "tournament/kalvar-cup-75-the-cup-of-all-time/event/melee-singles",
       "tournament_name": "Kalvar Cup #75: the cup of all time",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512674/image-59a4ea11f0ecdfe8543801a6fec34c53.png?ehk=1mEH3F590pzBqHV2RI%2F9xFEhcw8JIyvWU%2B9QbhYz5Sc%3D&ehkOptimized=3c09RrYDHADuIPvaQI0%2BlITY59pLEvexWA8fePb42Gk%3D",
-      "entrants": 9,
+      "entrants": 13,
       "start_time": 1673827200
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "SCSS East Coast #102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512547/image-4a7f037c4c4e00528a90fd373adc9e33.png?ehk=dOE9lYxTQo17rUQcq0Dwo9BfoxYwZtplHISojX7LrZA%3D&ehkOptimized=nCFTen2nZnAp5Tut17j0b%2FM0i6hbSshBgyhBCKERlSk%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1673829000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "No Melee On Sundays 24",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512670/image-2df380964d7d77843395be4d6fba00bd.png?ehk=IasjSI53PE7BSXRSTFWHKxeWWNQftdH8p53HIms46zM%3D&ehkOptimized=3Q5o7235i7Ee9fPBCQ0rIySh00w%2F%2FDvW6oEkW1g8noE%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1673830800
     },
     {
