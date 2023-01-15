@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673813730,
+  "fetched_at": 1673815008,
   "data": [
     {
       "slug": "tournament/smashkasoni-january-2023/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "POLYPUFF.",
       "event_name": "MELEE SINGLES.",
       "image": "https://images.start.gg/images/tournament/500504/image-cbb396b8b534bdd41041e657b6e18cfc.jpg?ehk=u6Q6lmVuGQInUd7%2F0LahR%2FingKtzU1JHOMML76nFo7M%3D&ehkOptimized=X8z%2BUq9%2FN29u7AQ7gat8fbIKk%2F9wuq0xsHcFHci%2BeKE%3D",
-      "entrants": 22,
+      "entrants": 23,
       "start_time": 1673827200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Kalvar Cup #75: the cup of all time",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512674/image-59a4ea11f0ecdfe8543801a6fec34c53.png?ehk=1mEH3F590pzBqHV2RI%2F9xFEhcw8JIyvWU%2B9QbhYz5Sc%3D&ehkOptimized=3c09RrYDHADuIPvaQI0%2BlITY59pLEvexWA8fePb42Gk%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1673827200
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Waddle Dee's Spartan Arena",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508401/image-0603534541015aa392b5ad2f4a55310f.png?ehk=Mx7QVuL1EhTjg2NT90OsZpbZfAMMhV5JXeOwwlBPT%2BQ%3D&ehkOptimized=pk1zqm5Sx2R26khXgF5cneKqp5S7mzWJQvfwAP72oKs%3D",
-      "entrants": 10,
+      "entrants": 12,
       "start_time": 1673830800
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "King of the Koopas",
       "event_name": "Melee Singles: Bowser Only",
       "image": "https://images.start.gg/images/tournament/512021/image-f7e1fc9af3c79585f122d10eab8fb59b.png?ehk=ODs6WtFJlpdE1ZGQ412y9dc81e2WRMibf2OJe2iejfs%3D&ehkOptimized=Wu1UtfQu%2FsDxoYK2BME7uzrkCtWG6UBNV8aTQ4q0m24%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1674871200
     },
     {
