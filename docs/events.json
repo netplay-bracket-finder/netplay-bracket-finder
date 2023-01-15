@@ -1,30 +1,6 @@
 {
-  "fetched_at": 1673769073,
+  "fetched_at": 1673770761,
   "data": [
-    {
-      "slug": "tournament/asl-s-weekly-weekend-melee-21-1/event/melee-singles",
-      "tournament_name": "ASL’s Weekly Weekend Melee 21",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/512435/image-e39178871687da34eaba71aade2bd684.png?ehk=QlEKN%2BZlHllpdo42cGgm62%2BuUO00hBowRxOtQNT6aEc%3D&ehkOptimized=vvEbpW8ts5WyM4K11zOSwIeKVFdlbgn1nNgYItUAKFs%3D",
-      "entrants": 8,
-      "start_time": 1673713800
-    },
-    {
-      "slug": "tournament/legs-le-silly-8/event/no-mains",
-      "tournament_name": "Legs' Le Silly #8",
-      "event_name": "No Mains",
-      "image": "https://images.start.gg/images/tournament/512462/image-4b5f5af875b1ae1ba516227a9cef7c77.png?ehk=gc2TDCipvI2Ma73EFBd8kCoa9EfgdiilDzuOkSV8Dg0%3D&ehkOptimized=I1awwOlzeU9nBe3G1nYh93Y3hiC%2BTiW8rjeuUZbrRMA%3D",
-      "entrants": 24,
-      "start_time": 1673726400
-    },
-    {
-      "slug": "tournament/legs-le-silly-8/event/melee-doubles",
-      "tournament_name": "Legs' Le Silly #8",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/512462/image-4b5f5af875b1ae1ba516227a9cef7c77.png?ehk=gc2TDCipvI2Ma73EFBd8kCoa9EfgdiilDzuOkSV8Dg0%3D&ehkOptimized=I1awwOlzeU9nBe3G1nYh93Y3hiC%2BTiW8rjeuUZbrRMA%3D",
-      "entrants": 9,
-      "start_time": 1673726400
-    },
     {
       "slug": "tournament/smashkasoni-january-2023/event/melee-singles",
       "tournament_name": "Smashkasoni January 2023",
