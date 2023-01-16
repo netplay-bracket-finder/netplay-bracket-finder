@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1673850073,
+  "fetched_at": 1673851270,
   "data": [
-    {
-      "slug": "tournament/kalvar-cup-75-the-cup-of-all-time/event/melee-singles",
-      "tournament_name": "Kalvar Cup #75: the cup of all time",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/512674/image-59a4ea11f0ecdfe8543801a6fec34c53.png?ehk=1mEH3F590pzBqHV2RI%2F9xFEhcw8JIyvWU%2B9QbhYz5Sc%3D&ehkOptimized=3c09RrYDHADuIPvaQI0%2BlITY59pLEvexWA8fePb42Gk%3D",
-      "entrants": 16,
-      "start_time": 1673827200
-    },
     {
       "slug": "tournament/monday-night-mixup-47/event/melee-singles",
       "tournament_name": "Monday Night Mixup #47",
