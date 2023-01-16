@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673902284,
+  "fetched_at": 1673903627,
   "data": [
     {
       "slug": "tournament/sandia-hard-smash-biweekly-1/event/melee-ladder-free-preregistration",
@@ -14,7 +14,7 @@
       "tournament_name": "Slippi Sauce #82 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512794/image-272220437d8f269d508cd596b0566c23.png?ehk=dP2VVH%2BGje8Y49uEZXlj8BltKT2Dn4NgiPghnRnuW1M%3D&ehkOptimized=Bavcuxul0ITgs350Ja8VRrkxhJnJWoTSAfwFB5XcRWo%3D",
-      "entrants": 11,
+      "entrants": 13,
       "start_time": 1673910000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Pino's Tired of 0-2 #105",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/511377/image-11c731b4f83fb86549d47ed236a7f83d.jpg?ehk=qDxqUqpjQ3BINoWo4AI6kg3yDQTAaI5qpGJLDbQI%2Bbo%3D&ehkOptimized=kBYjHgxHxTb1nA%2Buie3y7oB2eMapLK%2B73Qoy76eID6Y%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1673910000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Buffered Lobster Rollback #1: Winter Storm",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512993/image-205785fe0435d9a8fb296527a841c205.jpg?ehk=9ILFSJJKDomZxwm55sRHQssRxewDDZTdZfhCIUeYNsU%3D&ehkOptimized=Z23O4%2BDEbFbJ%2BxL5HI31hILHaeni6KAvx4nVsRm05B8%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1673911800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511559/image-e8e10b1a4b57faa687e3343a6a6b73a7.jpg?ehk=f4daEpWFAzNitKtsk%2Fb%2FO%2FKii2gmpl3TZYriLkVrDmU%3D&ehkOptimized=Xnshk4XICAHs%2BCYDxasjLQSbk760S9Bq5Q0vGVCmINc%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1673918100
     },
     {
@@ -118,7 +118,7 @@
       "tournament_name": "Take The L #18 - ONLINE EDITION",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512959/image-9ee1d01565321ce30ea5b3f60376c1b3.jpg?ehk=aNL%2FtTwpkrBjsSZ5BtFqXO28dh4%2B%2F7G2BDXjUSw2n6o%3D&ehkOptimized=MuBoY9FZ2mXbVherjkqcvnKpeaL7fP%2FBH2sUQ2akM%2FE%3D",
-      "entrants": 0,
+      "entrants": 2,
       "start_time": 1674097200
     },
     {
