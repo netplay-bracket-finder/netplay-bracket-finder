@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1673895088,
+  "fetched_at": 1673896353,
   "data": [
-    {
-      "slug": "tournament/monday-night-mixup-47/event/melee-singles",
-      "tournament_name": "Monday Night Mixup #47",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/512746/image-0914526c1b5db64e82a4be637f061e77.png?ehk=XyLd7rC28ZVuA2FMF7dQNJkNejCm32XWdjAypph8hkU%3D&ehkOptimized=asqS3f6g32zhlbGeQeRJV8n7xDpqP%2BeYXb4PNJTZe54%3D",
-      "entrants": 19,
-      "start_time": 1673895600
-    },
     {
       "slug": "tournament/sandia-hard-smash-biweekly-1/event/melee-ladder-free-preregistration",
       "tournament_name": "Sandia Hard Smash: Biweekly #1",
@@ -30,7 +22,7 @@
       "tournament_name": "Pino's Tired of 0-2 #105",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/511377/image-11c731b4f83fb86549d47ed236a7f83d.jpg?ehk=qDxqUqpjQ3BINoWo4AI6kg3yDQTAaI5qpGJLDbQI%2Bbo%3D&ehkOptimized=kBYjHgxHxTb1nA%2Buie3y7oB2eMapLK%2B73Qoy76eID6Y%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1673910000
     },
     {
@@ -38,7 +30,7 @@
       "tournament_name": "Buffered Lobster Rollback #1: Winter Storm",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512993/image-205785fe0435d9a8fb296527a841c205.jpg?ehk=9ILFSJJKDomZxwm55sRHQssRxewDDZTdZfhCIUeYNsU%3D&ehkOptimized=Z23O4%2BDEbFbJ%2BxL5HI31hILHaeni6KAvx4nVsRm05B8%3D",
-      "entrants": 5,
+      "entrants": 9,
       "start_time": 1673911800
     },
     {
@@ -94,7 +86,7 @@
       "tournament_name": "Only Noobs 101",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510371/image-780db74fb0a6153278f618875a6ff910.jpg?ehk=ZmXoPtWKLbigx40zDWvjyqIYsnXAdvsA%2BGiIHU3%2B9wY%3D&ehkOptimized=msykLVopLfsHyHzakeIkQeGRLtmd14ppAQPvS%2F%2Ftuxc%3D",
-      "entrants": 40,
+      "entrants": 41,
       "start_time": 1674000000
     },
     {
