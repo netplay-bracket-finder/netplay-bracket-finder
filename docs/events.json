@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673908820,
+  "fetched_at": 1673909489,
   "data": [
     {
       "slug": "tournament/sandia-hard-smash-biweekly-1/event/melee-ladder-free-preregistration",
@@ -10,27 +10,11 @@
       "start_time": 1673906400
     },
     {
-      "slug": "tournament/slippi-sauce-82/event/melee-singles",
-      "tournament_name": "Slippi Sauce #82 🐸",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/512794/image-272220437d8f269d508cd596b0566c23.png?ehk=dP2VVH%2BGje8Y49uEZXlj8BltKT2Dn4NgiPghnRnuW1M%3D&ehkOptimized=Bavcuxul0ITgs350Ja8VRrkxhJnJWoTSAfwFB5XcRWo%3D",
-      "entrants": 21,
-      "start_time": 1673910000
-    },
-    {
-      "slug": "tournament/pino-s-tired-of-0-2-105/event/tired-of-0-2",
-      "tournament_name": "Pino's Tired of 0-2 #105",
-      "event_name": "Tired of 0-2?",
-      "image": "https://images.start.gg/images/tournament/511377/image-11c731b4f83fb86549d47ed236a7f83d.jpg?ehk=qDxqUqpjQ3BINoWo4AI6kg3yDQTAaI5qpGJLDbQI%2Bbo%3D&ehkOptimized=kBYjHgxHxTb1nA%2Buie3y7oB2eMapLK%2B73Qoy76eID6Y%3D",
-      "entrants": 22,
-      "start_time": 1673910000
-    },
-    {
       "slug": "tournament/buffered-lobster-rollback-1-winter-storm/event/melee-singles",
       "tournament_name": "Buffered Lobster Rollback #1: Winter Storm",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512993/image-205785fe0435d9a8fb296527a841c205.jpg?ehk=9ILFSJJKDomZxwm55sRHQssRxewDDZTdZfhCIUeYNsU%3D&ehkOptimized=Z23O4%2BDEbFbJ%2BxL5HI31hILHaeni6KAvx4nVsRm05B8%3D",
-      "entrants": 22,
+      "entrants": 24,
       "start_time": 1673911800
     },
     {
@@ -46,7 +30,7 @@
       "tournament_name": "Spudfest 47",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512616/image-f2a79b84e843d48735a64af161b87585.jpg?ehk=aYViChWbISeS79Ws7wmN2bWA%2Fo5y0%2B8WAU4bml%2FnDOo%3D&ehkOptimized=%2Faum7crGbK%2BLmSGxw2g96XdskyTOFt8FmSURegtMHso%3D",
-      "entrants": 9,
+      "entrants": 11,
       "start_time": 1673920800
     },
     {
@@ -160,6 +144,14 @@
       "image": "https://images.start.gg/images/tournament/512891/image-1cba82ecc12ebafb985f2fb9f45e87e3.jpg?ehk=9xWKmEMWjp%2BQ32%2B8nauOjdLOc61kTBJBZEW%2Fox173IE%3D&ehkOptimized=kM37fJf%2B6unIJjE654AWHKvEoq6g%2Fe%2BQxuMF80IqB9E%3D",
       "entrants": 0,
       "start_time": 1674345600
+    },
+    {
+      "slug": "tournament/dorime-s-dojo-11/event/melee-singles",
+      "tournament_name": "Dorime's Dojo #11",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/513079/image-9f2a85fcf09d5e0714d356e4ebadb717.png?ehk=XxB9AecFuTTxTAsi3LdYrn1r0%2BcFWU6a5Lf6CQupIZ8%3D&ehkOptimized=7He14RLEd8lK1y6XCybxY9eS2U%2BJEPQ6g00pFIybro4%3D",
+      "entrants": 1,
+      "start_time": 1674406800
     },
     {
       "slug": "tournament/fight-of-the-fearless-36/event/fight-of-the-fearless-single",
