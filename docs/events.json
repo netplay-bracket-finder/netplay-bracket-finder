@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1673887495,
+  "fetched_at": 1673888159,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-47/event/melee-singles",
       "tournament_name": "Monday Night Mixup #47",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512746/image-0914526c1b5db64e82a4be637f061e77.png?ehk=XyLd7rC28ZVuA2FMF7dQNJkNejCm32XWdjAypph8hkU%3D&ehkOptimized=asqS3f6g32zhlbGeQeRJV8n7xDpqP%2BeYXb4PNJTZe54%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1673895600
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Spudfest 47",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512616/image-f2a79b84e843d48735a64af161b87585.jpg?ehk=aYViChWbISeS79Ws7wmN2bWA%2Fo5y0%2B8WAU4bml%2FnDOo%3D&ehkOptimized=%2Faum7crGbK%2BLmSGxw2g96XdskyTOFt8FmSURegtMHso%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1673920800
     },
     {
@@ -112,6 +112,14 @@
       "image": "https://images.start.gg/images/tournament/512090/image-4bfd70d8289b36717247fdbd04efd7e2.png?ehk=vgfXlvJCIwevoHYaAVRKaFgm71RLHsNbtBseOpCKOds%3D&ehkOptimized=6A519gT5xzrdz2hiLJVZk0PnLPSp9Ws4dSICpqfXT9s%3D",
       "entrants": 0,
       "start_time": 1674090000
+    },
+    {
+      "slug": "tournament/take-the-l-18-online-edition/event/melee-singles",
+      "tournament_name": "Take The L #18 - ONLINE EDITION",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/512959/image-9ee1d01565321ce30ea5b3f60376c1b3.jpg?ehk=aNL%2FtTwpkrBjsSZ5BtFqXO28dh4%2B%2F7G2BDXjUSw2n6o%3D&ehkOptimized=MuBoY9FZ2mXbVherjkqcvnKpeaL7fP%2FBH2sUQ2akM%2FE%3D",
+      "entrants": 0,
+      "start_time": 1674097200
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-48-eu-event/event/melee-singles",
