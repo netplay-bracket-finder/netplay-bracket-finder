@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673909489,
+  "fetched_at": 1673910946,
   "data": [
     {
       "slug": "tournament/sandia-hard-smash-biweekly-1/event/melee-ladder-free-preregistration",
@@ -14,7 +14,7 @@
       "tournament_name": "Buffered Lobster Rollback #1: Winter Storm",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512993/image-205785fe0435d9a8fb296527a841c205.jpg?ehk=9ILFSJJKDomZxwm55sRHQssRxewDDZTdZfhCIUeYNsU%3D&ehkOptimized=Z23O4%2BDEbFbJ%2BxL5HI31hILHaeni6KAvx4nVsRm05B8%3D",
-      "entrants": 24,
+      "entrants": 26,
       "start_time": 1673911800
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Spudfest 47",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512616/image-f2a79b84e843d48735a64af161b87585.jpg?ehk=aYViChWbISeS79Ws7wmN2bWA%2Fo5y0%2B8WAU4bml%2FnDOo%3D&ehkOptimized=%2Faum7crGbK%2BLmSGxw2g96XdskyTOFt8FmSURegtMHso%3D",
-      "entrants": 11,
+      "entrants": 16,
       "start_time": 1673920800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "CASINO ROYALE 7 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/511498/image-139aa229efbc5cf7780c5b5c4654575d.png?ehk=QinIt5oeHSJoe7MrVaWubDOQduNGTMMy50EDfdwe7ZM%3D&ehkOptimized=UXciVCPfJw3fXqM8nzVvUVJUvs6QbZdKxBZ8lfP%2B0uM%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1673922600
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Border Weeklys",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511603/image-b7e966a94fe9d8b861cd3c988f862408.jpg?ehk=80NGEW4IKhv%2Fu38LZRXqzbSGJSLh7k9wPTC6dk%2ByCmA%3D&ehkOptimized=rFPY7bSCHDGtCDtH6EPsA1AsHJ8gtUPFLE8gjN4PBe8%3D",
-      "entrants": 19,
+      "entrants": 20,
       "start_time": 1674007200
     },
     {
