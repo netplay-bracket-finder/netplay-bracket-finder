@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1673912217,
+  "fetched_at": 1673913082,
   "data": [
     {
-      "slug": "tournament/sandia-hard-smash-biweekly-1/event/melee-ladder-free-preregistration",
+      "slug": "tournament/sandia-hard-smash-biweekly-1/event/melee-ladder",
       "tournament_name": "Sandia Hard Smash: Biweekly #1",
-      "event_name": "Melee Ladder (Free Preregistration)",
+      "event_name": "Melee Ladder",
       "image": "https://images.start.gg/images/tournament/509717/image-9d2c27f0dae29aa5e6c057e08a0421f2.png?ehk=dfuUPpNDDYOg5iiu1Ex1wrY3t5nEEZJhB0oQnPAy%2BCM%3D&ehkOptimized=yST1s3rRLEQpSLkLJjoqkzcypjtKyQ%2BvSTOaUTEmR6Y%3D",
-      "entrants": 13,
+      "entrants": 16,
       "start_time": 1673906400
     },
     {
