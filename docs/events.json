@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673908149,
+  "fetched_at": 1673908820,
   "data": [
     {
       "slug": "tournament/sandia-hard-smash-biweekly-1/event/melee-ladder-free-preregistration",
@@ -14,7 +14,7 @@
       "tournament_name": "Slippi Sauce #82 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512794/image-272220437d8f269d508cd596b0566c23.png?ehk=dP2VVH%2BGje8Y49uEZXlj8BltKT2Dn4NgiPghnRnuW1M%3D&ehkOptimized=Bavcuxul0ITgs350Ja8VRrkxhJnJWoTSAfwFB5XcRWo%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1673910000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Pino's Tired of 0-2 #105",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/511377/image-11c731b4f83fb86549d47ed236a7f83d.jpg?ehk=qDxqUqpjQ3BINoWo4AI6kg3yDQTAaI5qpGJLDbQI%2Bbo%3D&ehkOptimized=kBYjHgxHxTb1nA%2Buie3y7oB2eMapLK%2B73Qoy76eID6Y%3D",
-      "entrants": 19,
+      "entrants": 22,
       "start_time": 1673910000
     },
     {
@@ -32,14 +32,6 @@
       "image": "https://images.start.gg/images/tournament/512993/image-205785fe0435d9a8fb296527a841c205.jpg?ehk=9ILFSJJKDomZxwm55sRHQssRxewDDZTdZfhCIUeYNsU%3D&ehkOptimized=Z23O4%2BDEbFbJ%2BxL5HI31hILHaeni6KAvx4nVsRm05B8%3D",
       "entrants": 22,
       "start_time": 1673911800
-    },
-    {
-      "slug": "tournament/pop-up-mlk-day-tournament/event/melee-singles",
-      "tournament_name": "pop-up MLK day tournament!",
-      "event_name": "Melee Singles",
-      "image": "",
-      "entrants": 1,
-      "start_time": 1673916300
     },
     {
       "slug": "tournament/have-you-dreamed-this-cardboard-bear-10/event/melee-singles",
