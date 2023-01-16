@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673905015,
+  "fetched_at": 1673905889,
   "data": [
     {
       "slug": "tournament/sandia-hard-smash-biweekly-1/event/melee-ladder-free-preregistration",
@@ -22,7 +22,7 @@
       "tournament_name": "Pino's Tired of 0-2 #105",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/511377/image-11c731b4f83fb86549d47ed236a7f83d.jpg?ehk=qDxqUqpjQ3BINoWo4AI6kg3yDQTAaI5qpGJLDbQI%2Bbo%3D&ehkOptimized=kBYjHgxHxTb1nA%2Buie3y7oB2eMapLK%2B73Qoy76eID6Y%3D",
-      "entrants": 16,
+      "entrants": 18,
       "start_time": 1673910000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Buffered Lobster Rollback #1: Winter Storm",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512993/image-205785fe0435d9a8fb296527a841c205.jpg?ehk=9ILFSJJKDomZxwm55sRHQssRxewDDZTdZfhCIUeYNsU%3D&ehkOptimized=Z23O4%2BDEbFbJ%2BxL5HI31hILHaeni6KAvx4nVsRm05B8%3D",
-      "entrants": 14,
+      "entrants": 16,
       "start_time": 1673911800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "pop-up MLK day tournament!",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1673916300
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "CASINO ROYALE 7 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/511498/image-139aa229efbc5cf7780c5b5c4654575d.png?ehk=QinIt5oeHSJoe7MrVaWubDOQduNGTMMy50EDfdwe7ZM%3D&ehkOptimized=UXciVCPfJw3fXqM8nzVvUVJUvs6QbZdKxBZ8lfP%2B0uM%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1673922600
     },
     {
