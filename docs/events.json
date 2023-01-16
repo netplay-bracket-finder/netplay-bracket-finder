@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1673897780,
+  "fetched_at": 1673898686,
   "data": [
     {
       "slug": "tournament/sandia-hard-smash-biweekly-1/event/melee-ladder-free-preregistration",
       "tournament_name": "Sandia Hard Smash: Biweekly #1",
       "event_name": "Melee Ladder (Free Preregistration)",
       "image": "https://images.start.gg/images/tournament/509717/image-9d2c27f0dae29aa5e6c057e08a0421f2.png?ehk=dfuUPpNDDYOg5iiu1Ex1wrY3t5nEEZJhB0oQnPAy%2BCM%3D&ehkOptimized=yST1s3rRLEQpSLkLJjoqkzcypjtKyQ%2BvSTOaUTEmR6Y%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1673906400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Slippi Sauce #82 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512794/image-272220437d8f269d508cd596b0566c23.png?ehk=dP2VVH%2BGje8Y49uEZXlj8BltKT2Dn4NgiPghnRnuW1M%3D&ehkOptimized=Bavcuxul0ITgs350Ja8VRrkxhJnJWoTSAfwFB5XcRWo%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1673910000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Buffered Lobster Rollback #1: Winter Storm",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512993/image-205785fe0435d9a8fb296527a841c205.jpg?ehk=9ILFSJJKDomZxwm55sRHQssRxewDDZTdZfhCIUeYNsU%3D&ehkOptimized=Z23O4%2BDEbFbJ%2BxL5HI31hILHaeni6KAvx4nVsRm05B8%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1673911800
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Nebraska Melee CAT6 Combos #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511623/image-635974543d7aabd96998404c579c42be.png?ehk=xoCBtoLrBS7go3U2E%2FV4J9wpTmDmTK0FJwPlosqGhPw%3D&ehkOptimized=QgzcJCDvroD1X2MEGVm3Y3PFXoNhn8sXfrWIUsRXLHU%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1674000000
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Only Noobs 101",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510371/image-780db74fb0a6153278f618875a6ff910.jpg?ehk=ZmXoPtWKLbigx40zDWvjyqIYsnXAdvsA%2BGiIHU3%2B9wY%3D&ehkOptimized=msykLVopLfsHyHzakeIkQeGRLtmd14ppAQPvS%2F%2Ftuxc%3D",
-      "entrants": 41,
+      "entrants": 42,
       "start_time": 1674000000
     },
     {
