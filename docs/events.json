@@ -1,60 +1,20 @@
 {
-  "fetched_at": 1673826677,
+  "fetched_at": 1673831966,
   "data": [
     {
       "slug": "tournament/kalvar-cup-75-the-cup-of-all-time/event/melee-singles",
       "tournament_name": "Kalvar Cup #75: the cup of all time",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512674/image-59a4ea11f0ecdfe8543801a6fec34c53.png?ehk=1mEH3F590pzBqHV2RI%2F9xFEhcw8JIyvWU%2B9QbhYz5Sc%3D&ehkOptimized=3c09RrYDHADuIPvaQI0%2BlITY59pLEvexWA8fePb42Gk%3D",
-      "entrants": 14,
+      "entrants": 16,
       "start_time": 1673827200
-    },
-    {
-      "slug": "tournament/scss-east-coast-102/event/melee-singles",
-      "tournament_name": "SCSS East Coast #102",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/512547/image-4a7f037c4c4e00528a90fd373adc9e33.png?ehk=dOE9lYxTQo17rUQcq0Dwo9BfoxYwZtplHISojX7LrZA%3D&ehkOptimized=nCFTen2nZnAp5Tut17j0b%2FM0i6hbSshBgyhBCKERlSk%3D",
-      "entrants": 15,
-      "start_time": 1673829000
-    },
-    {
-      "slug": "tournament/new-sizzling-sundays-5/event/melee-singles",
-      "tournament_name": "New Sizzling Sundays #5",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/512017/image-699898c29db505bf4d68abf920dc6cc4.png?ehk=pBQ1FhJE0pVKVLwKK0bUYSA8ti4HTvIiiOVE2m5oek4%3D&ehkOptimized=60vXco3blipD%2FCSGMge3L2rmtrfbKslcoUtWmXMdXi4%3D",
-      "entrants": 2,
-      "start_time": 1673829000
-    },
-    {
-      "slug": "tournament/no-melee-on-sundays-24/event/melee-singles",
-      "tournament_name": "No Melee On Sundays 24",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/512670/image-2df380964d7d77843395be4d6fba00bd.png?ehk=IasjSI53PE7BSXRSTFWHKxeWWNQftdH8p53HIms46zM%3D&ehkOptimized=3Q5o7235i7Ee9fPBCQ0rIySh00w%2F%2FDvW6oEkW1g8noE%3D",
-      "entrants": 1,
-      "start_time": 1673830800
-    },
-    {
-      "slug": "tournament/waddle-dee-s-spartan-arena/event/melee-singles",
-      "tournament_name": "Waddle Dee's Spartan Arena",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/508401/image-0603534541015aa392b5ad2f4a55310f.png?ehk=Mx7QVuL1EhTjg2NT90OsZpbZfAMMhV5JXeOwwlBPT%2BQ%3D&ehkOptimized=pk1zqm5Sx2R26khXgF5cneKqp5S7mzWJQvfwAP72oKs%3D",
-      "entrants": 14,
-      "start_time": 1673830800
-    },
-    {
-      "slug": "tournament/scss-west-coast-91/event/melee-singles",
-      "tournament_name": "SCSS West Coast #91",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/512545/image-ef406dab7a835197c9bf3f2c32a8b38a.png?ehk=KgMfVqI70N%2BTKl0mh6F5VfDIQpvWSpHX%2FQWOnwMBFGI%3D&ehkOptimized=K6p8xverWSFQ5DUlMt8P%2B0I5BAW%2FLPlN2jEbQS5K8Iw%3D",
-      "entrants": 2,
-      "start_time": 1673832600
     },
     {
       "slug": "tournament/monday-night-mixup-47/event/melee-singles",
       "tournament_name": "Monday Night Mixup #47",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512746/image-0914526c1b5db64e82a4be637f061e77.png?ehk=XyLd7rC28ZVuA2FMF7dQNJkNejCm32XWdjAypph8hkU%3D&ehkOptimized=asqS3f6g32zhlbGeQeRJV8n7xDpqP%2BeYXb4PNJTZe54%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1673895600
     },
     {
