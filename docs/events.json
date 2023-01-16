@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1673910946,
+  "fetched_at": 1673912217,
   "data": [
     {
       "slug": "tournament/sandia-hard-smash-biweekly-1/event/melee-ladder-free-preregistration",
       "tournament_name": "Sandia Hard Smash: Biweekly #1",
       "event_name": "Melee Ladder (Free Preregistration)",
       "image": "https://images.start.gg/images/tournament/509717/image-9d2c27f0dae29aa5e6c057e08a0421f2.png?ehk=dfuUPpNDDYOg5iiu1Ex1wrY3t5nEEZJhB0oQnPAy%2BCM%3D&ehkOptimized=yST1s3rRLEQpSLkLJjoqkzcypjtKyQ%2BvSTOaUTEmR6Y%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1673906400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Buffered Lobster Rollback #1: Winter Storm",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512993/image-205785fe0435d9a8fb296527a841c205.jpg?ehk=9ILFSJJKDomZxwm55sRHQssRxewDDZTdZfhCIUeYNsU%3D&ehkOptimized=Z23O4%2BDEbFbJ%2BxL5HI31hILHaeni6KAvx4nVsRm05B8%3D",
-      "entrants": 26,
+      "entrants": 27,
       "start_time": 1673911800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511559/image-e8e10b1a4b57faa687e3343a6a6b73a7.jpg?ehk=f4daEpWFAzNitKtsk%2Fb%2FO%2FKii2gmpl3TZYriLkVrDmU%3D&ehkOptimized=Xnshk4XICAHs%2BCYDxasjLQSbk760S9Bq5Q0vGVCmINc%3D",
-      "entrants": 5,
+      "entrants": 7,
       "start_time": 1673918100
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Spudfest 47",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512616/image-f2a79b84e843d48735a64af161b87585.jpg?ehk=aYViChWbISeS79Ws7wmN2bWA%2Fo5y0%2B8WAU4bml%2FnDOo%3D&ehkOptimized=%2Faum7crGbK%2BLmSGxw2g96XdskyTOFt8FmSURegtMHso%3D",
-      "entrants": 16,
+      "entrants": 17,
       "start_time": 1673920800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "CASINO ROYALE 7 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/511498/image-139aa229efbc5cf7780c5b5c4654575d.png?ehk=QinIt5oeHSJoe7MrVaWubDOQduNGTMMy50EDfdwe7ZM%3D&ehkOptimized=UXciVCPfJw3fXqM8nzVvUVJUvs6QbZdKxBZ8lfP%2B0uM%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1673922600
     },
     {
