@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673844679,
+  "fetched_at": 1673846101,
   "data": [
     {
       "slug": "tournament/kalvar-cup-75-the-cup-of-all-time/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Sandia Hard Smash: Biweekly #1",
       "event_name": "Melee Ladder (Free Preregistration)",
       "image": "https://images.start.gg/images/tournament/509717/image-9d2c27f0dae29aa5e6c057e08a0421f2.png?ehk=dfuUPpNDDYOg5iiu1Ex1wrY3t5nEEZJhB0oQnPAy%2BCM%3D&ehkOptimized=yST1s3rRLEQpSLkLJjoqkzcypjtKyQ%2BvSTOaUTEmR6Y%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1673906400
     },
     {
@@ -168,6 +168,22 @@
       "image": "https://images.start.gg/images/tournament/512021/image-f7e1fc9af3c79585f122d10eab8fb59b.png?ehk=ODs6WtFJlpdE1ZGQ412y9dc81e2WRMibf2OJe2iejfs%3D&ehkOptimized=Wu1UtfQu%2FsDxoYK2BME7uzrkCtWG6UBNV8aTQ4q0m24%3D",
       "entrants": 6,
       "start_time": 1674871200
+    },
+    {
+      "slug": "tournament/sandia-hard-smash-january-monthly/event/melee-ladder-free-preregistration",
+      "tournament_name": "Sandia Hard Smash January Monthly",
+      "event_name": "Melee Ladder (Free Preregistration)",
+      "image": "https://images.start.gg/images/tournament/512827/image-0dd1ec367650f794adae7bd89ebf4628.png?ehk=aVu7nSPmsoWXAjJCZ%2BwZzrYq21buVpOzNHixps4lEf4%3D&ehkOptimized=dVs5sdxiwCf728y1wYnQYYnLIgea%2FJXgXgBJIzvlcgc%3D",
+      "entrants": 0,
+      "start_time": 1674943200
+    },
+    {
+      "slug": "tournament/sandia-hard-smash-january-monthly/event/melee-doubles",
+      "tournament_name": "Sandia Hard Smash January Monthly",
+      "event_name": "Melee Doubles",
+      "image": "https://images.start.gg/images/tournament/512827/image-0dd1ec367650f794adae7bd89ebf4628.png?ehk=aVu7nSPmsoWXAjJCZ%2BwZzrYq21buVpOzNHixps4lEf4%3D&ehkOptimized=dVs5sdxiwCf728y1wYnQYYnLIgea%2FJXgXgBJIzvlcgc%3D",
+      "entrants": 0,
+      "start_time": 1674946800
     },
     {
       "slug": "tournament/raiser-mseries-final-1000-qualifier/event/melee-singles",
