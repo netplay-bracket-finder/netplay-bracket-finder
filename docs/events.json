@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673970676,
+  "fetched_at": 1673972526,
   "data": [
     {
       "slug": "tournament/traffic-tree-teusday-2/event/melee-singles",
@@ -23,14 +23,14 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511623/image-635974543d7aabd96998404c579c42be.png?ehk=xoCBtoLrBS7go3U2E%2FV4J9wpTmDmTK0FJwPlosqGhPw%3D&ehkOptimized=QgzcJCDvroD1X2MEGVm3Y3PFXoNhn8sXfrWIUsRXLHU%3D",
       "entrants": 3,
-      "start_time": 1674000000
+      "start_time": 1674000300
     },
     {
       "slug": "tournament/only-noobs-101/event/melee-singles",
       "tournament_name": "Only Noobs 101",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510371/image-780db74fb0a6153278f618875a6ff910.jpg?ehk=ZmXoPtWKLbigx40zDWvjyqIYsnXAdvsA%2BGiIHU3%2B9wY%3D&ehkOptimized=msykLVopLfsHyHzakeIkQeGRLtmd14ppAQPvS%2F%2Ftuxc%3D",
-      "entrants": 44,
+      "entrants": 46,
       "start_time": 1674000000
     },
     {
