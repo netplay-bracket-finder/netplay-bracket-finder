@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673993749,
+  "fetched_at": 1673995022,
   "data": [
     {
       "slug": "tournament/nebraska-melee-cat6-combos-3/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 101",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510371/image-780db74fb0a6153278f618875a6ff910.jpg?ehk=ZmXoPtWKLbigx40zDWvjyqIYsnXAdvsA%2BGiIHU3%2B9wY%3D&ehkOptimized=msykLVopLfsHyHzakeIkQeGRLtmd14ppAQPvS%2F%2Ftuxc%3D",
-      "entrants": 84,
+      "entrants": 93,
       "start_time": 1674000000
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "Hérault Of Proud",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512427/image-62c88abe3efe356e2aa93137b7de5cd1.jpg?ehk=9kOfYuLuE6WdVJ2lnMT2fID97H5H%2BqPTCpXrC2fpTVE%3D&ehkOptimized=cS%2BzNpR4ktu6ZsXu0MNkSlLsOO8EjqViIk9tDsZMQbE%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1674320400
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "Dorime's Dojo #11",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513079/image-9f2a85fcf09d5e0714d356e4ebadb717.png?ehk=XxB9AecFuTTxTAsi3LdYrn1r0%2BcFWU6a5Lf6CQupIZ8%3D&ehkOptimized=7He14RLEd8lK1y6XCybxY9eS2U%2BJEPQ6g00pFIybro4%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1674406800
     },
     {
