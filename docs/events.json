@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673964884,
+  "fetched_at": 1673965700,
   "data": [
     {
       "slug": "tournament/traffic-tree-teusday-2/event/melee-singles",
@@ -40,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/513169/image-e44fc53dc882f5c385e8437c07e79acb.png?ehk=pjPKMBmRrbG%2BXzbTMH9axP9gNLtDov7LOBcrkgRDWVg%3D&ehkOptimized=EntrLxuw%2Fs%2B9G4%2FaYOWAlaHzBJhmvjEA9vvQETDoYaM%3D",
       "entrants": 0,
       "start_time": 1674000000
+    },
+    {
+      "slug": "tournament/dad-s-house-online-9/event/melee-singles",
+      "tournament_name": "Dad's House: Online #9",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/513251/image-2a17630fe213f15099a7f0fb5f2349f2.png?ehk=0age4MXFmarHped1QGFdMKrqdKrknq7F5D4NTooMRfk%3D&ehkOptimized=f%2BYUi76qWHMzSXKxOWUgUgGGRfpP2Me%2Ft%2BBGCROQMPQ%3D",
+      "entrants": 0,
+      "start_time": 1674001800
     },
     {
       "slug": "tournament/border-weeklys/event/melee-singles",
@@ -134,7 +142,7 @@
       "tournament_name": "Melee BR 2023 - #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513124/image-e58f8d0daf148c25232d5102013771e5.png?ehk=BqjHoCLRnLin59iaZRbF9EZC47cbOH3MbBNQh2w%2B6Rk%3D&ehkOptimized=F0JTdjC%2BI0ZkNk0JWQblafO7gFTGHuyF75LTgZjG7bo%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1674414000
     },
     {
