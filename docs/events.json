@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1673941882,
+  "fetched_at": 1673943656,
   "data": [
     {
       "slug": "tournament/traffic-tree-teusday-2/event/melee-singles",
       "tournament_name": "Traffic Tree Teusday #2",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1673973000
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Border Weeklys",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511603/image-b7e966a94fe9d8b861cd3c988f862408.jpg?ehk=80NGEW4IKhv%2Fu38LZRXqzbSGJSLh7k9wPTC6dk%2ByCmA%3D&ehkOptimized=rFPY7bSCHDGtCDtH6EPsA1AsHJ8gtUPFLE8gjN4PBe8%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1674007200
     },
     {
