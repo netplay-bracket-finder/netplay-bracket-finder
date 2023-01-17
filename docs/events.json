@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673924182,
+  "fetched_at": 1673925571,
   "data": [
     {
       "slug": "tournament/sandia-hard-smash-biweekly-1/event/melee-ladder",
@@ -144,6 +144,14 @@
       "image": "https://images.start.gg/images/tournament/513124/image-e58f8d0daf148c25232d5102013771e5.png?ehk=BqjHoCLRnLin59iaZRbF9EZC47cbOH3MbBNQh2w%2B6Rk%3D&ehkOptimized=F0JTdjC%2BI0ZkNk0JWQblafO7gFTGHuyF75LTgZjG7bo%3D",
       "entrants": 4,
       "start_time": 1674414000
+    },
+    {
+      "slug": "tournament/pino-s-tired-of-0-2-106/event/tired-of-0-2",
+      "tournament_name": "Pino's Tired of 0-2 #106",
+      "event_name": "Tired of 0-2?",
+      "image": "https://images.start.gg/images/tournament/513139/image-29dc78d8d8a825209f632efadd92eb65.jpg?ehk=7kZJvs4UgUN9PHJ2f2t0mqbqoa%2FmjxVOnF7iqrWpf7Q%3D&ehkOptimized=7TpgGahx8j5jULMAbPIXN4mTdjTMa2Dwlv1DsE510C4%3D",
+      "entrants": 0,
+      "start_time": 1674514800
     },
     {
       "slug": "tournament/melee-pitz/event/melee-singles",
