@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673981486,
+  "fetched_at": 1673982762,
   "data": [
     {
       "slug": "tournament/nebraska-melee-cat6-combos-3/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 101",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510371/image-780db74fb0a6153278f618875a6ff910.jpg?ehk=ZmXoPtWKLbigx40zDWvjyqIYsnXAdvsA%2BGiIHU3%2B9wY%3D&ehkOptimized=msykLVopLfsHyHzakeIkQeGRLtmd14ppAQPvS%2F%2Ftuxc%3D",
-      "entrants": 68,
+      "entrants": 71,
       "start_time": 1674000000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Dad's House: Online #9",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513251/image-2a17630fe213f15099a7f0fb5f2349f2.png?ehk=0age4MXFmarHped1QGFdMKrqdKrknq7F5D4NTooMRfk%3D&ehkOptimized=f%2BYUi76qWHMzSXKxOWUgUgGGRfpP2Me%2Ft%2BBGCROQMPQ%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1674001800
     },
     {
@@ -40,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/513333/image-8995b5a0848c8e1a41aca2e5d40c6a2b.png?ehk=fidS3e5HwIGa00Y8x2jzzCHxppwaDADWLy%2Fv1YAjohk%3D&ehkOptimized=rsGAjCxwhznZ5F8n30aLZneRL%2BOosaSD2b2B%2Bv1Ysi4%3D",
       "entrants": 0,
       "start_time": 1674003600
+    },
+    {
+      "slug": "tournament/border-weeklys/event/melee-singles",
+      "tournament_name": "Border Weeklys",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/511603/image-b7e966a94fe9d8b861cd3c988f862408.jpg?ehk=80NGEW4IKhv%2Fu38LZRXqzbSGJSLh7k9wPTC6dk%2ByCmA%3D&ehkOptimized=rFPY7bSCHDGtCDtH6EPsA1AsHJ8gtUPFLE8gjN4PBe8%3D",
+      "entrants": 26,
+      "start_time": 1674007200
     },
     {
       "slug": "tournament/epic-wednesday-doubles-6/event/melee-doubles",
