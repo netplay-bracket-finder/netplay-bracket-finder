@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673992277,
+  "fetched_at": 1673993749,
   "data": [
     {
       "slug": "tournament/nebraska-melee-cat6-combos-3/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 101",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510371/image-780db74fb0a6153278f618875a6ff910.jpg?ehk=ZmXoPtWKLbigx40zDWvjyqIYsnXAdvsA%2BGiIHU3%2B9wY%3D&ehkOptimized=msykLVopLfsHyHzakeIkQeGRLtmd14ppAQPvS%2F%2Ftuxc%3D",
-      "entrants": 81,
+      "entrants": 84,
       "start_time": 1674000000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Sketchy Series 14: Lower The Draw Bridge!",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513169/image-e44fc53dc882f5c385e8437c07e79acb.png?ehk=pjPKMBmRrbG%2BXzbTMH9axP9gNLtDov7LOBcrkgRDWVg%3D&ehkOptimized=EntrLxuw%2Fs%2B9G4%2FaYOWAlaHzBJhmvjEA9vvQETDoYaM%3D",
-      "entrants": 7,
+      "entrants": 9,
       "start_time": 1674000000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Dad's House: Online #9",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513251/image-2a17630fe213f15099a7f0fb5f2349f2.png?ehk=0age4MXFmarHped1QGFdMKrqdKrknq7F5D4NTooMRfk%3D&ehkOptimized=f%2BYUi76qWHMzSXKxOWUgUgGGRfpP2Me%2Ft%2BBGCROQMPQ%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1674001800
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "Quest for Best Noob EU #50",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/513061/image-9bc6b036a1ef15a0e3e9fb59bc2503d3.jpg?ehk=ySjOJYereSCMmekzYRHWzLnCPxzyEEua8%2BHgOnobP9U%3D&ehkOptimized=6uMe6WEpgQU2m6z7XgLMVZnRp8SULvIdT9SVCPIj7Kg%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674315000
     },
     {
