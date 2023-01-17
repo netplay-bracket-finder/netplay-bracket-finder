@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673991520,
+  "fetched_at": 1673992277,
   "data": [
     {
       "slug": "tournament/nebraska-melee-cat6-combos-3/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Only Noobs 101",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510371/image-780db74fb0a6153278f618875a6ff910.jpg?ehk=ZmXoPtWKLbigx40zDWvjyqIYsnXAdvsA%2BGiIHU3%2B9wY%3D&ehkOptimized=msykLVopLfsHyHzakeIkQeGRLtmd14ppAQPvS%2F%2Ftuxc%3D",
-      "entrants": 80,
+      "entrants": 81,
       "start_time": 1674000000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Cataquackdown 23: Last Stop before Genesis",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513333/image-8995b5a0848c8e1a41aca2e5d40c6a2b.png?ehk=fidS3e5HwIGa00Y8x2jzzCHxppwaDADWLy%2Fv1YAjohk%3D&ehkOptimized=rsGAjCxwhznZ5F8n30aLZneRL%2BOosaSD2b2B%2Bv1Ysi4%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674003600
     },
     {
@@ -96,6 +96,14 @@
       "image": "https://images.start.gg/images/tournament/511333/image-f0d44b36eed902de073b5c379873941d.png?ehk=QCemyjGG%2FDw5%2B2p%2Bekk%2Fw90cYqvn%2Fjezypz89zYsHu4%3D&ehkOptimized=Sz7GQfm9EJpc98S6RRTrdxMr2xhQ28pT8sXFrq5GJV8%3D",
       "entrants": 7,
       "start_time": 1674280800
+    },
+    {
+      "slug": "tournament/quest-for-best-noob-eu-50/event/newbie-singles",
+      "tournament_name": "Quest for Best Noob EU #50",
+      "event_name": "Newbie Singles",
+      "image": "https://images.start.gg/images/tournament/513061/image-9bc6b036a1ef15a0e3e9fb59bc2503d3.jpg?ehk=ySjOJYereSCMmekzYRHWzLnCPxzyEEua8%2BHgOnobP9U%3D&ehkOptimized=6uMe6WEpgQU2m6z7XgLMVZnRp8SULvIdT9SVCPIj7Kg%3D",
+      "entrants": 0,
+      "start_time": 1674315000
     },
     {
       "slug": "tournament/h-rault-of-proud/event/melee-singles",
