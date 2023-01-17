@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1673966363,
+  "fetched_at": 1673967085,
   "data": [
     {
       "slug": "tournament/traffic-tree-teusday-2/event/melee-singles",
       "tournament_name": "Traffic Tree Teusday #2",
       "event_name": "Melee Singles",
       "image": "",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1673973000
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Border Weeklys",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511603/image-b7e966a94fe9d8b861cd3c988f862408.jpg?ehk=80NGEW4IKhv%2Fu38LZRXqzbSGJSLh7k9wPTC6dk%2ByCmA%3D&ehkOptimized=rFPY7bSCHDGtCDtH6EPsA1AsHJ8gtUPFLE8gjN4PBe8%3D",
-      "entrants": 23,
+      "entrants": 24,
       "start_time": 1674007200
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "Dorime's Dojo #11",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513079/image-9f2a85fcf09d5e0714d356e4ebadb717.png?ehk=XxB9AecFuTTxTAsi3LdYrn1r0%2BcFWU6a5Lf6CQupIZ8%3D&ehkOptimized=7He14RLEd8lK1y6XCybxY9eS2U%2BJEPQ6g00pFIybro4%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1674406800
     },
     {
@@ -142,7 +142,7 @@
       "tournament_name": "Melee BR 2023 - #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513124/image-e58f8d0daf148c25232d5102013771e5.png?ehk=BqjHoCLRnLin59iaZRbF9EZC47cbOH3MbBNQh2w%2B6Rk%3D&ehkOptimized=F0JTdjC%2BI0ZkNk0JWQblafO7gFTGHuyF75LTgZjG7bo%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1674414000
     },
     {
