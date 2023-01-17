@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1673979585,
+  "fetched_at": 1673980784,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-12/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Nebraska Melee CAT6 Combos #3",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511623/image-635974543d7aabd96998404c579c42be.png?ehk=xoCBtoLrBS7go3U2E%2FV4J9wpTmDmTK0FJwPlosqGhPw%3D&ehkOptimized=QgzcJCDvroD1X2MEGVm3Y3PFXoNhn8sXfrWIUsRXLHU%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1674000300
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Only Noobs 101",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/510371/image-780db74fb0a6153278f618875a6ff910.jpg?ehk=ZmXoPtWKLbigx40zDWvjyqIYsnXAdvsA%2BGiIHU3%2B9wY%3D&ehkOptimized=msykLVopLfsHyHzakeIkQeGRLtmd14ppAQPvS%2F%2Ftuxc%3D",
-      "entrants": 65,
+      "entrants": 66,
       "start_time": 1674000000
     },
     {
@@ -40,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/513251/image-2a17630fe213f15099a7f0fb5f2349f2.png?ehk=0age4MXFmarHped1QGFdMKrqdKrknq7F5D4NTooMRfk%3D&ehkOptimized=f%2BYUi76qWHMzSXKxOWUgUgGGRfpP2Me%2Ft%2BBGCROQMPQ%3D",
       "entrants": 2,
       "start_time": 1674001800
+    },
+    {
+      "slug": "tournament/cataquackdown-23-last-stop-before-genesis/event/melee-singles",
+      "tournament_name": "Cataquackdown 23: Last Stop before Genesis",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/513333/image-8995b5a0848c8e1a41aca2e5d40c6a2b.png?ehk=fidS3e5HwIGa00Y8x2jzzCHxppwaDADWLy%2Fv1YAjohk%3D&ehkOptimized=rsGAjCxwhznZ5F8n30aLZneRL%2BOosaSD2b2B%2Bv1Ysi4%3D",
+      "entrants": 0,
+      "start_time": 1674003600
     },
     {
       "slug": "tournament/epic-wednesday-doubles-6/event/melee-doubles",
