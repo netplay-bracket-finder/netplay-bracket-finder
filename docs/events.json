@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674077188,
+  "fetched_at": 1674077934,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-53/event/melee-singles",
       "tournament_name": "Waddle Wednesday 53",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512090/image-4bfd70d8289b36717247fdbd04efd7e2.png?ehk=vgfXlvJCIwevoHYaAVRKaFgm71RLHsNbtBseOpCKOds%3D&ehkOptimized=6A519gT5xzrdz2hiLJVZk0PnLPSp9Ws4dSICpqfXT9s%3D",
-      "entrants": 14,
+      "entrants": 16,
       "start_time": 1674090000
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Silver Slippi League #40",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/513712/image-58b85981853112e967d1fd569ad909e7.png?ehk=NnV1OniZVpX5wioYIJOs5saXc3k6WkfExrQyS5ZGUG4%3D&ehkOptimized=ZgItrItryy4tCTSTSbXzcJyKwVIQGzLGrV0labztnis%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1674093600
     },
     {
