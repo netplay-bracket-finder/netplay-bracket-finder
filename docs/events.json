@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674017523,
+  "fetched_at": 1674018901,
   "data": [
     {
       "slug": "tournament/epic-wednesday-doubles-6/event/melee-doubles",
@@ -106,12 +106,28 @@
       "start_time": 1674414000
     },
     {
+      "slug": "tournament/scss-west-coast-92-the-finale-for-now/event/melee-singles",
+      "tournament_name": "SCSS West Coast #92 - The Finale for Now",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/513526/image-be4d45a99d61545a29859e29e906f18f.png?ehk=9lsMxOAdA9c6%2FBWyO%2BQV1lF5flH6HXSddvfcE3k2HRI%3D&ehkOptimized=0TLOFH6QXyojbg7mJHw73hlmLTxHOAxmJl4Br4bdPWA%3D",
+      "entrants": 0,
+      "start_time": 1674437400
+    },
+    {
       "slug": "tournament/pino-s-tired-of-0-2-106/event/tired-of-0-2",
       "tournament_name": "Pino's Tired of 0-2 #106",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/513139/image-29dc78d8d8a825209f632efadd92eb65.jpg?ehk=7kZJvs4UgUN9PHJ2f2t0mqbqoa%2FmjxVOnF7iqrWpf7Q%3D&ehkOptimized=7TpgGahx8j5jULMAbPIXN4mTdjTMa2Dwlv1DsE510C4%3D",
       "entrants": 1,
       "start_time": 1674514800
+    },
+    {
+      "slug": "tournament/only-noobs-102-1/event/melee-singles",
+      "tournament_name": "Only Noobs 102",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
+      "entrants": 1,
+      "start_time": 1674604800
     },
     {
       "slug": "tournament/melee-pitz/event/melee-singles",
