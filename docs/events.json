@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1674004965,
+  "fetched_at": 1674009286,
   "data": [
-    {
-      "slug": "tournament/cataquackdown-23-last-stop-before-genesis/event/melee-singles",
-      "tournament_name": "Cataquackdown 23: Last Stop before Genesis",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/513333/image-8995b5a0848c8e1a41aca2e5d40c6a2b.png?ehk=fidS3e5HwIGa00Y8x2jzzCHxppwaDADWLy%2Fv1YAjohk%3D&ehkOptimized=rsGAjCxwhznZ5F8n30aLZneRL%2BOosaSD2b2B%2Bv1Ysi4%3D",
-      "entrants": 7,
-      "start_time": 1674005400
-    },
-    {
-      "slug": "tournament/border-weeklys/event/melee-singles",
-      "tournament_name": "Border Weeklys",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/511603/image-b7e966a94fe9d8b861cd3c988f862408.jpg?ehk=80NGEW4IKhv%2Fu38LZRXqzbSGJSLh7k9wPTC6dk%2ByCmA%3D&ehkOptimized=rFPY7bSCHDGtCDtH6EPsA1AsHJ8gtUPFLE8gjN4PBe8%3D",
-      "entrants": 36,
-      "start_time": 1674007200
-    },
     {
       "slug": "tournament/epic-wednesday-doubles-6/event/melee-doubles",
       "tournament_name": "Epic Wednesday Doubles! #6",
@@ -38,7 +22,7 @@
       "tournament_name": "Take The L #18 - ONLINE EDITION",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512959/image-9ee1d01565321ce30ea5b3f60376c1b3.jpg?ehk=aNL%2FtTwpkrBjsSZ5BtFqXO28dh4%2B%2F7G2BDXjUSw2n6o%3D&ehkOptimized=MuBoY9FZ2mXbVherjkqcvnKpeaL7fP%2FBH2sUQ2akM%2FE%3D",
-      "entrants": 4,
+      "entrants": 6,
       "start_time": 1674097200
     },
     {
