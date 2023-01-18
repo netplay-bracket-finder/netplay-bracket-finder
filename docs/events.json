@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674041068,
+  "fetched_at": 1674042678,
   "data": [
     {
       "slug": "tournament/epic-wednesday-doubles-6/event/melee-doubles",
@@ -24,6 +24,14 @@
       "image": "https://images.start.gg/images/tournament/512959/image-9ee1d01565321ce30ea5b3f60376c1b3.jpg?ehk=aNL%2FtTwpkrBjsSZ5BtFqXO28dh4%2B%2F7G2BDXjUSw2n6o%3D&ehkOptimized=MuBoY9FZ2mXbVherjkqcvnKpeaL7fP%2FBH2sUQ2akM%2FE%3D",
       "entrants": 6,
       "start_time": 1674097200
+    },
+    {
+      "slug": "tournament/beginner-beatdown-88/event/melee-singles",
+      "tournament_name": "Beginner Beatdown 88",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/513571/image-81bdecb1b0e62aa5ecd7e586467059ba.png?ehk=Elgp5nDu1ezLGLF4zdY%2F486VdRGMn36Rn9Q5%2FGwiNWk%3D&ehkOptimized=rxoDg51pAd7Ka0214cV4eIJIjtJJfJBgCaoCkYzbUHE%3D",
+      "entrants": 0,
+      "start_time": 1674111600
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-48-eu-event/event/melee-singles",
