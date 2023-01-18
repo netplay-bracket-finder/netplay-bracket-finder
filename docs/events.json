@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674021077,
+  "fetched_at": 1674022865,
   "data": [
     {
       "slug": "tournament/epic-wednesday-doubles-6/event/melee-doubles",
@@ -48,6 +48,14 @@
       "image": "https://images.start.gg/images/tournament/513330/image-2cf5bc048f570140cc3e774ae92ee46d.png?ehk=KAKuihoJLiNJTDA9fgM%2FiVc8EPTmibXBAoG58B3B3iA%3D&ehkOptimized=JWgEhuarjbEWB%2BXaP07Pk5kCy5GoR9%2BK9tJhEq4OnGY%3D",
       "entrants": 0,
       "start_time": 1674180000
+    },
+    {
+      "slug": "tournament/the-shallow-end-18-a-wc-newbie-bracket/event/melee-singles",
+      "tournament_name": "The Shallow End #18 - a WC newbie bracket",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/513536/image-b4271a4e7f20f9163fff6afc8c34e0b0.jpg?ehk=fCEMiD4SdILgyBx9Zi%2FVuJlJwiJLqMlda88ULccKlgM%3D&ehkOptimized=rMYbEmiS1Uo96pZDaP8stz8Fvv%2FqgrpSIMXpM%2F1itYs%3D",
+      "entrants": 0,
+      "start_time": 1674265500
     },
     {
       "slug": "tournament/philippine-arcadian-5/event/melee-singles",
