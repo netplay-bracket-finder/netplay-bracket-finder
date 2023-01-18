@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674055031,
+  "fetched_at": 1674056290,
   "data": [
     {
       "slug": "tournament/epic-wednesday-doubles-6/event/melee-doubles",
@@ -22,7 +22,7 @@
       "tournament_name": "Take The L #18 - ONLINE EDITION",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512959/image-9ee1d01565321ce30ea5b3f60376c1b3.jpg?ehk=aNL%2FtTwpkrBjsSZ5BtFqXO28dh4%2B%2F7G2BDXjUSw2n6o%3D&ehkOptimized=MuBoY9FZ2mXbVherjkqcvnKpeaL7fP%2FBH2sUQ2akM%2FE%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1674097200
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Thursdaze #1",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/513330/image-2cf5bc048f570140cc3e774ae92ee46d.png?ehk=KAKuihoJLiNJTDA9fgM%2FiVc8EPTmibXBAoG58B3B3iA%3D&ehkOptimized=JWgEhuarjbEWB%2BXaP07Pk5kCy5GoR9%2BK9tJhEq4OnGY%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1674180000
     },
     {
@@ -166,7 +166,7 @@
       "tournament_name": "King of the Koopas",
       "event_name": "Melee Singles: Bowser Only",
       "image": "https://images.start.gg/images/tournament/512021/image-f7e1fc9af3c79585f122d10eab8fb59b.png?ehk=ODs6WtFJlpdE1ZGQ412y9dc81e2WRMibf2OJe2iejfs%3D&ehkOptimized=Wu1UtfQu%2FsDxoYK2BME7uzrkCtWG6UBNV8aTQ4q0m24%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1674871200
     },
     {
