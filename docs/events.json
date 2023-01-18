@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674072985,
+  "fetched_at": 1674074224,
   "data": [
     {
       "slug": "tournament/waddle-wednesday-53/event/melee-singles",
       "tournament_name": "Waddle Wednesday 53",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512090/image-4bfd70d8289b36717247fdbd04efd7e2.png?ehk=vgfXlvJCIwevoHYaAVRKaFgm71RLHsNbtBseOpCKOds%3D&ehkOptimized=6A519gT5xzrdz2hiLJVZk0PnLPSp9Ws4dSICpqfXT9s%3D",
-      "entrants": 5,
+      "entrants": 9,
       "start_time": 1674090000
     },
     {
@@ -198,7 +198,7 @@
       "tournament_name": "Raiser MSeries Final $1000 Qualifier",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508820/image-2330a798b4efe44e3ed01249807549cb.png?ehk=2zXxvzgi0OODoLOWlmvB4ALpxSDqoZyFLVYD4v1ebX8%3D&ehkOptimized=FAnE%2BPEQuoCmRZ%2FhvUhuiJpcRyLexrXdK39mgOKrL9Q%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1675299600
     },
     {
