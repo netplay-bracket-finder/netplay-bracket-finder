@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674057089,
+  "fetched_at": 1674058953,
   "data": [
     {
       "slug": "tournament/epic-wednesday-doubles-6/event/melee-doubles",
       "tournament_name": "Epic Wednesday Doubles! #6",
       "event_name": "Melee Doubles",
       "image": "https://images.start.gg/images/tournament/512697/image-2b54524cf70539d1b3dcf75c447dd42f.png?ehk=Jup9nTKDJtrDFt7vT5lnnejHBLry7ukYAGk5TTW0waY%3D&ehkOptimized=QcT76OE%2BkUJonm%2FNcUtBpMdeVDB0R%2BLTso1GZrzXfeY%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674068400
     },
     {
@@ -200,14 +200,6 @@
       "image": "https://images.start.gg/images/tournament/508823/image-72e9da5084f90bb60cdb940caf0f9fe1.png?ehk=izz1amE0bDG4cGb0hm3D2EYBvSquPW7aix6iBSMHseI%3D&ehkOptimized=DvE%2FANTamBwvb1c1gYgnq%2Fq7KffDApdM%2B1RiIVk8LWo%3D",
       "entrants": 12,
       "start_time": 1675818000
-    },
-    {
-      "slug": "tournament/meteor-massacre-1/event/melee-singles",
-      "tournament_name": "Meteor Massacre 1",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/495659/image-39b30fc38142aeb9178bd9805f1d61aa.png?ehk=tkyuKJF8Y9QXIWJnCRlMzsBIqgggSA925qr6LOLf9vY%3D&ehkOptimized=MwpOF%2FbbTSw3faQgNMb6CRFU5EULicBxqFmL1VZ%2F1Rg%3D",
-      "entrants": 1,
-      "start_time": 1691969400
     }
   ]
 }
