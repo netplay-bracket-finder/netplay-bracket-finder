@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674018901,
+  "fetched_at": 1674019707,
   "data": [
     {
       "slug": "tournament/epic-wednesday-doubles-6/event/melee-doubles",
@@ -14,7 +14,7 @@
       "tournament_name": "Waddle Wednesday 53",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512090/image-4bfd70d8289b36717247fdbd04efd7e2.png?ehk=vgfXlvJCIwevoHYaAVRKaFgm71RLHsNbtBseOpCKOds%3D&ehkOptimized=6A519gT5xzrdz2hiLJVZk0PnLPSp9Ws4dSICpqfXT9s%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1674090000
     },
     {
@@ -104,6 +104,14 @@
       "image": "https://images.start.gg/images/tournament/513124/image-e58f8d0daf148c25232d5102013771e5.png?ehk=BqjHoCLRnLin59iaZRbF9EZC47cbOH3MbBNQh2w%2B6Rk%3D&ehkOptimized=F0JTdjC%2BI0ZkNk0JWQblafO7gFTGHuyF75LTgZjG7bo%3D",
       "entrants": 12,
       "start_time": 1674414000
+    },
+    {
+      "slug": "tournament/scss-east-coast-103-the-finale-for-now/event/melee-singles",
+      "tournament_name": "SCSS East Coast #103 - The Finale for Now",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/513529/image-7a5bbee48f5888ab6e524ac90cd896dc.png?ehk=3pvlkmmd2PSJmstGwPz%2FFtvn6MYUD0dWIATBZZsBF3o%3D&ehkOptimized=iT%2BT81Zl5alWxomEhJlgu4KkDn6aDyJ7vcoXXGHll8k%3D",
+      "entrants": 0,
+      "start_time": 1674433800
     },
     {
       "slug": "tournament/scss-west-coast-92-the-finale-for-now/event/melee-singles",
