@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674099673,
+  "fetched_at": 1674100345,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-40/event/melee-ranked-ladder",
@@ -14,7 +14,7 @@
       "tournament_name": "Beginner Beatdown 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513571/image-81bdecb1b0e62aa5ecd7e586467059ba.png?ehk=Elgp5nDu1ezLGLF4zdY%2F486VdRGMn36Rn9Q5%2FGwiNWk%3D&ehkOptimized=rxoDg51pAd7Ka0214cV4eIJIjtJJfJBgCaoCkYzbUHE%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1674111600
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "SCSS West Coast #92 - The Finale for Now",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513526/image-be4d45a99d61545a29859e29e906f18f.png?ehk=9lsMxOAdA9c6%2FBWyO%2BQV1lF5flH6HXSddvfcE3k2HRI%3D&ehkOptimized=0TLOFH6QXyojbg7mJHw73hlmLTxHOAxmJl4Br4bdPWA%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674437400
     },
     {
@@ -174,7 +174,7 @@
       "tournament_name": "King of the Koopas",
       "event_name": "Melee Singles: Bowser Only",
       "image": "https://images.start.gg/images/tournament/512021/image-f7e1fc9af3c79585f122d10eab8fb59b.png?ehk=ODs6WtFJlpdE1ZGQ412y9dc81e2WRMibf2OJe2iejfs%3D&ehkOptimized=Wu1UtfQu%2FsDxoYK2BME7uzrkCtWG6UBNV8aTQ4q0m24%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1674871200
     },
     {
