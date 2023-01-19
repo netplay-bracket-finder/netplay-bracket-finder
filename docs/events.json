@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674167814,
+  "fetched_at": 1674168685,
   "data": [
     {
       "slug": "tournament/thursdaze-1/event/melee-singles",
       "tournament_name": "Thursdaze #1",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/513330/image-2cf5bc048f570140cc3e774ae92ee46d.png?ehk=KAKuihoJLiNJTDA9fgM%2FiVc8EPTmibXBAoG58B3B3iA%3D&ehkOptimized=JWgEhuarjbEWB%2BXaP07Pk5kCy5GoR9%2BK9tJhEq4OnGY%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1674180000
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Nom2kingdom",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511967/image-996351401bd370704d8543e2c7a1762d.jpg?ehk=HxL1TH2ELwQmRyCJD3%2Fh9%2BIItRqHu0D%2BYnMN0gQQ3kc%3D&ehkOptimized=m9jR4A%2FKw6PSyCl0wl%2BHB7zpoufy5B9QmCDJfe2rWNs%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1674352800
     },
     {
