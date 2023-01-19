@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674091417,
+  "fetched_at": 1674095810,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-40/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #40",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/513712/image-58b85981853112e967d1fd569ad909e7.png?ehk=NnV1OniZVpX5wioYIJOs5saXc3k6WkfExrQyS5ZGUG4%3D&ehkOptimized=ZgItrItryy4tCTSTSbXzcJyKwVIQGzLGrV0labztnis%3D",
-      "entrants": 9,
+      "entrants": 14,
       "start_time": 1674093600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Take The L #18 - ONLINE EDITION",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512959/image-9ee1d01565321ce30ea5b3f60376c1b3.jpg?ehk=aNL%2FtTwpkrBjsSZ5BtFqXO28dh4%2B%2F7G2BDXjUSw2n6o%3D&ehkOptimized=MuBoY9FZ2mXbVherjkqcvnKpeaL7fP%2FBH2sUQ2akM%2FE%3D",
-      "entrants": 13,
+      "entrants": 17,
       "start_time": 1674097500
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "The Shallow End #18 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513536/image-b4271a4e7f20f9163fff6afc8c34e0b0.jpg?ehk=fCEMiD4SdILgyBx9Zi%2FVuJlJwiJLqMlda88ULccKlgM%3D&ehkOptimized=rMYbEmiS1Uo96pZDaP8stz8Fvv%2FqgrpSIMXpM%2F1itYs%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674265500
     },
     {
@@ -157,7 +157,7 @@
       "slug": "tournament/tuesday-night-fever-13/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #13",
       "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/513807/image-42046126b464fae9fe59327d7e0dd723.png?ehk=7Pk3Y1jjqO9tuEeyD3kvpKcQSut02nK0%2Bnr1rDqTnWE%3D&ehkOptimized=Lw72hS3FaGvRcTFPz36y%2FDggWHw20HAmZs7cxhXY6RQ%3D",
+      "image": "https://images.start.gg/images/tournament/513807/image-c97bbb92c18cec7b5b756abf58d3ca1e.png?ehk=zxg%2BLTQsVHUoU7XdO7xo0lGknlH%2BnxVx9CsUtPDw8NY%3D&ehkOptimized=r2zR2bgztCHTgTFalzXcO1tpg6FxuKnk1PqOJNZsowg%3D",
       "entrants": 0,
       "start_time": 1674586800
     },
