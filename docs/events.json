@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674100345,
+  "fetched_at": 1674102033,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-40/event/melee-ranked-ladder",
@@ -14,7 +14,7 @@
       "tournament_name": "Beginner Beatdown 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513571/image-81bdecb1b0e62aa5ecd7e586467059ba.png?ehk=Elgp5nDu1ezLGLF4zdY%2F486VdRGMn36Rn9Q5%2FGwiNWk%3D&ehkOptimized=rxoDg51pAd7Ka0214cV4eIJIjtJJfJBgCaoCkYzbUHE%3D",
-      "entrants": 9,
+      "entrants": 12,
       "start_time": 1674111600
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "RAVN Rumble #13",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513727/image-6a795ba7cf772d6863756bcf098f6764.png?ehk=WWiiEJL7AykOyhOtjd4CVF9P9brbnDyhn3TS692FPGE%3D&ehkOptimized=6BS0yLJnh0WNXcVduOSYHJfOEa8tM5ATnNO2bd0pZLM%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1674259200
     },
     {
@@ -174,7 +174,7 @@
       "tournament_name": "King of the Koopas",
       "event_name": "Melee Singles: Bowser Only",
       "image": "https://images.start.gg/images/tournament/512021/image-f7e1fc9af3c79585f122d10eab8fb59b.png?ehk=ODs6WtFJlpdE1ZGQ412y9dc81e2WRMibf2OJe2iejfs%3D&ehkOptimized=Wu1UtfQu%2FsDxoYK2BME7uzrkCtWG6UBNV8aTQ4q0m24%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1674871200
     },
     {
