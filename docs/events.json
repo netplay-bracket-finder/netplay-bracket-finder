@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1674171410,
+  "fetched_at": 1674172280,
   "data": [
-    {
-      "slug": "tournament/thursdaze-1/event/melee-singles",
-      "tournament_name": "Thursdaze #1",
-      "event_name": "Melee singles",
-      "image": "https://images.start.gg/images/tournament/513330/image-2cf5bc048f570140cc3e774ae92ee46d.png?ehk=KAKuihoJLiNJTDA9fgM%2FiVc8EPTmibXBAoG58B3B3iA%3D&ehkOptimized=JWgEhuarjbEWB%2BXaP07Pk5kCy5GoR9%2BK9tJhEq4OnGY%3D",
-      "entrants": 39,
-      "start_time": 1674180000
-    },
     {
       "slug": "tournament/umass-off-season-slippi-series-4/event/melee-singles",
       "tournament_name": "UMass Off-Season Slippi Series 4",
@@ -142,7 +134,7 @@
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1674604800
     },
     {
