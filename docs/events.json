@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1674110448,
+  "fetched_at": 1674111116,
   "data": [
-    {
-      "slug": "tournament/beginner-beatdown-88/event/melee-singles",
-      "tournament_name": "Beginner Beatdown 88",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/513571/image-81bdecb1b0e62aa5ecd7e586467059ba.png?ehk=Elgp5nDu1ezLGLF4zdY%2F486VdRGMn36Rn9Q5%2FGwiNWk%3D&ehkOptimized=rxoDg51pAd7Ka0214cV4eIJIjtJJfJBgCaoCkYzbUHE%3D",
-      "entrants": 29,
-      "start_time": 1674111600
-    },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-48-eu-event/event/melee-singles",
       "tournament_name": "Toblerone Tangerine Thursdays #48 (EU Event)",
