@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674136278,
+  "fetched_at": 1674137761,
   "data": [
     {
       "slug": "tournament/toblerone-tangerine-thursdays-48-eu-event/event/melee-singles",
@@ -184,6 +184,14 @@
       "image": "https://images.start.gg/images/tournament/512827/image-3b6b32cc12ed645ade346145715a9782.png?ehk=8761DmTnIZv7Lmwwozi%2FqBnaD9vacsVK%2FgGU%2Fr1ZwLo%3D&ehkOptimized=vX9ASX%2B%2FRrXcfhlajih%2BPZGXejQEyHXHnyuRmcQI4hI%3D",
       "entrants": 0,
       "start_time": 1674946800
+    },
+    {
+      "slug": "tournament/tuesday-night-fever-14-2/event/melee-singles",
+      "tournament_name": "Tuesday Night Fever #14",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/513910/image-b5f881a18903080ad28532ad59ea8842.png?ehk=Z0NC%2FbSjdYF8RwDjHuQJ1b740j50I%2FMf24JQMFZ8Y8M%3D&ehkOptimized=F%2Bwcc7z9Wrs8nPX%2BdsOTBf2fxkK%2FnJtOnu7ws7XA1Kw%3D",
+      "entrants": 0,
+      "start_time": 1675191600
     },
     {
       "slug": "tournament/raiser-mseries-final-1000-qualifier/event/melee-singles",
