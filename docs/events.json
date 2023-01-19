@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674168685,
+  "fetched_at": 1674170236,
   "data": [
     {
       "slug": "tournament/thursdaze-1/event/melee-singles",
       "tournament_name": "Thursdaze #1",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/513330/image-2cf5bc048f570140cc3e774ae92ee46d.png?ehk=KAKuihoJLiNJTDA9fgM%2FiVc8EPTmibXBAoG58B3B3iA%3D&ehkOptimized=JWgEhuarjbEWB%2BXaP07Pk5kCy5GoR9%2BK9tJhEq4OnGY%3D",
-      "entrants": 22,
+      "entrants": 32,
       "start_time": 1674180000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Whos afraid of the big bad fox",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/513883/image-1e6f873e4d0dceb77307754abfbbd2c4.jpg?ehk=o1L7eaPMQQaXS7T%2Bg%2BAemfiGsGsnQhdy6NRfitgSRPo%3D&ehkOptimized=bZwoSv5x0hp4xCjhiFJtBNQw%2FhHQ2Uwxe1sljp7cZrY%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1674244800
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "RAVN Rumble #13",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513727/image-6a795ba7cf772d6863756bcf098f6764.png?ehk=WWiiEJL7AykOyhOtjd4CVF9P9brbnDyhn3TS692FPGE%3D&ehkOptimized=6BS0yLJnh0WNXcVduOSYHJfOEa8tM5ATnNO2bd0pZLM%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1674259200
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Dorime's Dojo #11",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513079/image-9f2a85fcf09d5e0714d356e4ebadb717.png?ehk=XxB9AecFuTTxTAsi3LdYrn1r0%2BcFWU6a5Lf6CQupIZ8%3D&ehkOptimized=7He14RLEd8lK1y6XCybxY9eS2U%2BJEPQ6g00pFIybro4%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1674406800
     },
     {
@@ -190,7 +190,7 @@
       "tournament_name": "Sandia Hard Smash January Monthly",
       "event_name": "Melee Ladder (Free Preregistration)",
       "image": "https://images.start.gg/images/tournament/512827/image-3b6b32cc12ed645ade346145715a9782.png?ehk=8761DmTnIZv7Lmwwozi%2FqBnaD9vacsVK%2FgGU%2Fr1ZwLo%3D&ehkOptimized=vX9ASX%2B%2FRrXcfhlajih%2BPZGXejQEyHXHnyuRmcQI4hI%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674943200
     },
     {
@@ -214,7 +214,7 @@
       "tournament_name": "Raiser MSeries Final $1000 Qualifier",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/508820/image-2330a798b4efe44e3ed01249807549cb.png?ehk=2zXxvzgi0OODoLOWlmvB4ALpxSDqoZyFLVYD4v1ebX8%3D&ehkOptimized=FAnE%2BPEQuoCmRZ%2FhvUhuiJpcRyLexrXdK39mgOKrL9Q%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1675299600
     },
     {
