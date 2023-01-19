@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674098975,
+  "fetched_at": 1674099673,
   "data": [
     {
       "slug": "tournament/silver-slippi-league-40/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #40",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/513712/image-58b85981853112e967d1fd569ad909e7.png?ehk=NnV1OniZVpX5wioYIJOs5saXc3k6WkfExrQyS5ZGUG4%3D&ehkOptimized=ZgItrItryy4tCTSTSbXzcJyKwVIQGzLGrV0labztnis%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1674093600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Thursdaze #1",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/513330/image-2cf5bc048f570140cc3e774ae92ee46d.png?ehk=KAKuihoJLiNJTDA9fgM%2FiVc8EPTmibXBAoG58B3B3iA%3D&ehkOptimized=JWgEhuarjbEWB%2BXaP07Pk5kCy5GoR9%2BK9tJhEq4OnGY%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1674180000
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Philippine Arcadian 5",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/511333/image-f0d44b36eed902de073b5c379873941d.png?ehk=QCemyjGG%2FDw5%2B2p%2Bekk%2Fw90cYqvn%2Fjezypz89zYsHu4%3D&ehkOptimized=Sz7GQfm9EJpc98S6RRTrdxMr2xhQ28pT8sXFrq5GJV8%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1674280800
     },
     {
