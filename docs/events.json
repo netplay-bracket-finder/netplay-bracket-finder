@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674109222,
+  "fetched_at": 1674110448,
   "data": [
     {
       "slug": "tournament/beginner-beatdown-88/event/melee-singles",
       "tournament_name": "Beginner Beatdown 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513571/image-81bdecb1b0e62aa5ecd7e586467059ba.png?ehk=Elgp5nDu1ezLGLF4zdY%2F486VdRGMn36Rn9Q5%2FGwiNWk%3D&ehkOptimized=rxoDg51pAd7Ka0214cV4eIJIjtJJfJBgCaoCkYzbUHE%3D",
-      "entrants": 27,
+      "entrants": 29,
       "start_time": 1674111600
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Thursdaze #1",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/513330/image-2cf5bc048f570140cc3e774ae92ee46d.png?ehk=KAKuihoJLiNJTDA9fgM%2FiVc8EPTmibXBAoG58B3B3iA%3D&ehkOptimized=JWgEhuarjbEWB%2BXaP07Pk5kCy5GoR9%2BK9tJhEq4OnGY%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1674180000
     },
     {
