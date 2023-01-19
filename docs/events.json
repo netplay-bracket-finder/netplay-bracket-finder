@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1674107485,
+  "fetched_at": 1674109222,
   "data": [
-    {
-      "slug": "tournament/silver-slippi-league-40/event/melee-ranked-ladder",
-      "tournament_name": "Silver Slippi League #40",
-      "event_name": "Melee Ranked Ladder",
-      "image": "https://images.start.gg/images/tournament/513712/image-58b85981853112e967d1fd569ad909e7.png?ehk=NnV1OniZVpX5wioYIJOs5saXc3k6WkfExrQyS5ZGUG4%3D&ehkOptimized=ZgItrItryy4tCTSTSbXzcJyKwVIQGzLGrV0labztnis%3D",
-      "entrants": 21,
-      "start_time": 1674093600
-    },
     {
       "slug": "tournament/beginner-beatdown-88/event/melee-singles",
       "tournament_name": "Beginner Beatdown 88",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513571/image-81bdecb1b0e62aa5ecd7e586467059ba.png?ehk=Elgp5nDu1ezLGLF4zdY%2F486VdRGMn36Rn9Q5%2FGwiNWk%3D&ehkOptimized=rxoDg51pAd7Ka0214cV4eIJIjtJJfJBgCaoCkYzbUHE%3D",
-      "entrants": 22,
+      "entrants": 27,
       "start_time": 1674111600
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "RAVN Rumble #13",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513727/image-6a795ba7cf772d6863756bcf098f6764.png?ehk=WWiiEJL7AykOyhOtjd4CVF9P9brbnDyhn3TS692FPGE%3D&ehkOptimized=6BS0yLJnh0WNXcVduOSYHJfOEa8tM5ATnNO2bd0pZLM%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1674259200
     },
     {
