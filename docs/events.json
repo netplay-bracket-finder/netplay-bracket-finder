@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1674085890,
+  "fetched_at": 1674091417,
   "data": [
-    {
-      "slug": "tournament/waddle-wednesday-53/event/melee-singles",
-      "tournament_name": "Waddle Wednesday 53",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/512090/image-4bfd70d8289b36717247fdbd04efd7e2.png?ehk=vgfXlvJCIwevoHYaAVRKaFgm71RLHsNbtBseOpCKOds%3D&ehkOptimized=6A519gT5xzrdz2hiLJVZk0PnLPSp9Ws4dSICpqfXT9s%3D",
-      "entrants": 33,
-      "start_time": 1674090000
-    },
     {
       "slug": "tournament/silver-slippi-league-40/event/melee-ranked-ladder",
       "tournament_name": "Silver Slippi League #40",
       "event_name": "Melee Ranked Ladder",
       "image": "https://images.start.gg/images/tournament/513712/image-58b85981853112e967d1fd569ad909e7.png?ehk=NnV1OniZVpX5wioYIJOs5saXc3k6WkfExrQyS5ZGUG4%3D&ehkOptimized=ZgItrItryy4tCTSTSbXzcJyKwVIQGzLGrV0labztnis%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1674093600
     },
     {
@@ -22,8 +14,8 @@
       "tournament_name": "Take The L #18 - ONLINE EDITION",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512959/image-9ee1d01565321ce30ea5b3f60376c1b3.jpg?ehk=aNL%2FtTwpkrBjsSZ5BtFqXO28dh4%2B%2F7G2BDXjUSw2n6o%3D&ehkOptimized=MuBoY9FZ2mXbVherjkqcvnKpeaL7fP%2FBH2sUQ2akM%2FE%3D",
-      "entrants": 12,
-      "start_time": 1674097200
+      "entrants": 13,
+      "start_time": 1674097500
     },
     {
       "slug": "tournament/beginner-beatdown-88/event/melee-singles",
@@ -54,7 +46,7 @@
       "tournament_name": "Thursdaze #1",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/513330/image-2cf5bc048f570140cc3e774ae92ee46d.png?ehk=KAKuihoJLiNJTDA9fgM%2FiVc8EPTmibXBAoG58B3B3iA%3D&ehkOptimized=JWgEhuarjbEWB%2BXaP07Pk5kCy5GoR9%2BK9tJhEq4OnGY%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1674180000
     },
     {
@@ -62,7 +54,7 @@
       "tournament_name": "UMass Off-Season Slippi Series 4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513780/image-5540c1ae338ea8d56dee71b159b0dd66.png?ehk=QbUf4zBjj%2B3QvURgLCuR3P6ch1nxMnFLWk7oXDXHT%2B0%3D&ehkOptimized=2ulQ9WAtnieUkdnJ8FDSJhMD%2F4HRUXWk8%2BZEJBh2Oq0%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674176400
     },
     {
@@ -162,6 +154,14 @@
       "start_time": 1674514800
     },
     {
+      "slug": "tournament/tuesday-night-fever-13/event/melee-singles",
+      "tournament_name": "Tuesday Night Fever #13",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/513807/image-42046126b464fae9fe59327d7e0dd723.png?ehk=7Pk3Y1jjqO9tuEeyD3kvpKcQSut02nK0%2Bnr1rDqTnWE%3D&ehkOptimized=Lw72hS3FaGvRcTFPz36y%2FDggWHw20HAmZs7cxhXY6RQ%3D",
+      "entrants": 0,
+      "start_time": 1674586800
+    },
+    {
       "slug": "tournament/only-noobs-102-1/event/melee-singles",
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
@@ -189,15 +189,15 @@
       "slug": "tournament/sandia-hard-smash-january-monthly/event/melee-ladder-free-preregistration",
       "tournament_name": "Sandia Hard Smash January Monthly",
       "event_name": "Melee Ladder (Free Preregistration)",
-      "image": "https://images.start.gg/images/tournament/512827/image-0dd1ec367650f794adae7bd89ebf4628.png?ehk=aVu7nSPmsoWXAjJCZ%2BwZzrYq21buVpOzNHixps4lEf4%3D&ehkOptimized=dVs5sdxiwCf728y1wYnQYYnLIgea%2FJXgXgBJIzvlcgc%3D",
+      "image": "https://images.start.gg/images/tournament/512827/image-3b6b32cc12ed645ade346145715a9782.png?ehk=8761DmTnIZv7Lmwwozi%2FqBnaD9vacsVK%2FgGU%2Fr1ZwLo%3D&ehkOptimized=vX9ASX%2B%2FRrXcfhlajih%2BPZGXejQEyHXHnyuRmcQI4hI%3D",
       "entrants": 0,
       "start_time": 1674943200
     },
     {
-      "slug": "tournament/sandia-hard-smash-january-monthly/event/melee-doubles",
+      "slug": "tournament/sandia-hard-smash-january-monthly/event/melee-doubles-free-preregistration",
       "tournament_name": "Sandia Hard Smash January Monthly",
-      "event_name": "Melee Doubles",
-      "image": "https://images.start.gg/images/tournament/512827/image-0dd1ec367650f794adae7bd89ebf4628.png?ehk=aVu7nSPmsoWXAjJCZ%2BwZzrYq21buVpOzNHixps4lEf4%3D&ehkOptimized=dVs5sdxiwCf728y1wYnQYYnLIgea%2FJXgXgBJIzvlcgc%3D",
+      "event_name": "Melee Doubles (Free Preregistration)",
+      "image": "https://images.start.gg/images/tournament/512827/image-3b6b32cc12ed645ade346145715a9782.png?ehk=8761DmTnIZv7Lmwwozi%2FqBnaD9vacsVK%2FgGU%2Fr1ZwLo%3D&ehkOptimized=vX9ASX%2B%2FRrXcfhlajih%2BPZGXejQEyHXHnyuRmcQI4hI%3D",
       "entrants": 0,
       "start_time": 1674946800
     },
