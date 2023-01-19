@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674154415,
+  "fetched_at": 1674155593,
   "data": [
     {
       "slug": "tournament/troppo-italiano-82/event/singles",
       "tournament_name": "Troppo Italiano #82",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/513944/image-a949b57547763a5789590ee330a6918d.jpg?ehk=ZIu7KpC6Wj2ttX7uTn%2F95urjQdVGMhivDxBYZv%2FxvLY%3D&ehkOptimized=A8BeYA%2BT7j13kMG6CSzcl0GT1WoaJvu6FaYTzEwWWt0%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1674158400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Thursdaze #1",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/513330/image-2cf5bc048f570140cc3e774ae92ee46d.png?ehk=KAKuihoJLiNJTDA9fgM%2FiVc8EPTmibXBAoG58B3B3iA%3D&ehkOptimized=JWgEhuarjbEWB%2BXaP07Pk5kCy5GoR9%2BK9tJhEq4OnGY%3D",
-      "entrants": 8,
+      "entrants": 10,
       "start_time": 1674180000
     },
     {
