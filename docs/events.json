@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1674172280,
+  "fetched_at": 1674177683,
   "data": [
-    {
-      "slug": "tournament/umass-off-season-slippi-series-4/event/melee-singles",
-      "tournament_name": "UMass Off-Season Slippi Series 4",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/513780/image-5540c1ae338ea8d56dee71b159b0dd66.png?ehk=QbUf4zBjj%2B3QvURgLCuR3P6ch1nxMnFLWk7oXDXHT%2B0%3D&ehkOptimized=2ulQ9WAtnieUkdnJ8FDSJhMD%2F4HRUXWk8%2BZEJBh2Oq0%3D",
-      "entrants": 6,
-      "start_time": 1674176400
-    },
     {
       "slug": "tournament/whos-afraid-of-the-big-bad-fox/event/singles",
       "tournament_name": "Whos afraid of the big bad fox",
@@ -24,6 +16,14 @@
       "image": "https://images.start.gg/images/tournament/513727/image-6a795ba7cf772d6863756bcf098f6764.png?ehk=WWiiEJL7AykOyhOtjd4CVF9P9brbnDyhn3TS692FPGE%3D&ehkOptimized=6BS0yLJnh0WNXcVduOSYHJfOEa8tM5ATnNO2bd0pZLM%3D",
       "entrants": 5,
       "start_time": 1674259200
+    },
+    {
+      "slug": "tournament/ssbu-the-dojo-39-presented-by-solar-esports/event/the-dojo-melee-singles",
+      "tournament_name": "SSBU The Dojo #39 (Presented by Solar Esports)",
+      "event_name": "The Dojo Melee Singles",
+      "image": "https://images.start.gg/images/tournament/514086/image-00aa821504fc139e1527000e81ed3afa.png?ehk=z2hpDxUo%2BiLZclYlpzfOEDNCiqIoWMbZ8BcGUlArOlE%3D&ehkOptimized=cIcfenTESbkQZy%2B3Qx4IPSFE1NXgU7s7T8bJWcB2Wp8%3D",
+      "entrants": 0,
+      "start_time": 1674262800
     },
     {
       "slug": "tournament/the-shallow-end-18-a-wc-newbie-bracket/event/melee-singles",
@@ -134,7 +134,7 @@
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1674604800
     },
     {
