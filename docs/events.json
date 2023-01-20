@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674234909,
+  "fetched_at": 1674235746,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-22/event/melee-singles",
       "tournament_name": "ASL's Weekly Weekend Melee #22",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514201/image-a0914316b362401698cc9f97e3e93c55.png?ehk=DkVgUaN0tP1l%2Fz2d0tnZ0BlZ%2F4k%2BVmqj%2FjFQTvc9Ilk%3D&ehkOptimized=XYXzQgTIzXn6yo4GIM9cuo%2BlnsDGwjCkCfDomQbv3zg%3D",
-      "entrants": 6,
+      "entrants": 8,
       "start_time": 1674235800
     },
     {
@@ -14,8 +14,8 @@
       "tournament_name": "Whos afraid of the big bad fox",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/513883/image-1e6f873e4d0dceb77307754abfbbd2c4.jpg?ehk=o1L7eaPMQQaXS7T%2Bg%2BAemfiGsGsnQhdy6NRfitgSRPo%3D&ehkOptimized=bZwoSv5x0hp4xCjhiFJtBNQw%2FhHQ2Uwxe1sljp7cZrY%3D",
-      "entrants": 7,
-      "start_time": 1674244800
+      "entrants": 9,
+      "start_time": 1674241200
     },
     {
       "slug": "tournament/ravn-rumble-13/event/melee-singles",
@@ -246,7 +246,7 @@
       "tournament_name": "Vick's Dair to Spike #16",
       "event_name": "Volleyball 1v1",
       "image": "https://images.start.gg/images/tournament/514129/image-d9366b95d0ff9ccb0458fe398ddc75b5.png?ehk=uOpH%2F3zeWdaG2Z%2F%2F779Ia0Il7x3YJLrEaePjMfFWD4k%3D&ehkOptimized=8G5Z8JcwjhX%2FzClwOCViH0ZE1V%2FU%2BwQvR4QKETiPvxU%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1675544700
     },
     {
