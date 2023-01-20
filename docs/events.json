@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674255076,
+  "fetched_at": 1674256544,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-22/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "RAVN Rumble #13",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513727/image-6a795ba7cf772d6863756bcf098f6764.png?ehk=WWiiEJL7AykOyhOtjd4CVF9P9brbnDyhn3TS692FPGE%3D&ehkOptimized=6BS0yLJnh0WNXcVduOSYHJfOEa8tM5ATnNO2bd0pZLM%3D",
-      "entrants": 11,
+      "entrants": 15,
       "start_time": 1674259200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "The Shallow End #18 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513536/image-b4271a4e7f20f9163fff6afc8c34e0b0.jpg?ehk=fCEMiD4SdILgyBx9Zi%2FVuJlJwiJLqMlda88ULccKlgM%3D&ehkOptimized=rMYbEmiS1Uo96pZDaP8stz8Fvv%2FqgrpSIMXpM%2F1itYs%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1674265500
     },
     {
@@ -158,7 +158,7 @@
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1674604800
     },
     {
