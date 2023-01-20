@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674186774,
+  "fetched_at": 1674188405,
   "data": [
     {
       "slug": "tournament/whos-afraid-of-the-big-bad-fox/event/singles",
@@ -14,7 +14,7 @@
       "tournament_name": "RAVN Rumble #13",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513727/image-6a795ba7cf772d6863756bcf098f6764.png?ehk=WWiiEJL7AykOyhOtjd4CVF9P9brbnDyhn3TS692FPGE%3D&ehkOptimized=6BS0yLJnh0WNXcVduOSYHJfOEa8tM5ATnNO2bd0pZLM%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1674259200
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "The Shallow End #18 - a WC newbie bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513536/image-b4271a4e7f20f9163fff6afc8c34e0b0.jpg?ehk=fCEMiD4SdILgyBx9Zi%2FVuJlJwiJLqMlda88ULccKlgM%3D&ehkOptimized=rMYbEmiS1Uo96pZDaP8stz8Fvv%2FqgrpSIMXpM%2F1itYs%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1674265500
     },
     {
@@ -102,7 +102,7 @@
       "tournament_name": "SCSS East Coast #103 - The Finale for Now",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513529/image-7a5bbee48f5888ab6e524ac90cd896dc.png?ehk=3pvlkmmd2PSJmstGwPz%2FFtvn6MYUD0dWIATBZZsBF3o%3D&ehkOptimized=iT%2BT81Zl5alWxomEhJlgu4KkDn6aDyJ7vcoXXGHll8k%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1674433800
     },
     {
@@ -134,7 +134,7 @@
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1674604800
     },
     {
@@ -142,7 +142,7 @@
       "tournament_name": "Border Weeklies #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514123/image-62583a7d38d7e7e846ffd02e5a0352dc.jpg?ehk=6zpBEFNWa7%2FqbqKqCFCleOMoDL48Pg26w72FgiAc7LA%3D&ehkOptimized=g%2FU%2FEiHHgmTH9Q5NM3EildQi1ZWji9t4BCAWg51ezwY%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674612000
     },
     {
@@ -216,6 +216,14 @@
       "image": "https://images.start.gg/images/tournament/508820/image-2330a798b4efe44e3ed01249807549cb.png?ehk=2zXxvzgi0OODoLOWlmvB4ALpxSDqoZyFLVYD4v1ebX8%3D&ehkOptimized=FAnE%2BPEQuoCmRZ%2FhvUhuiJpcRyLexrXdK39mgOKrL9Q%3D",
       "entrants": 8,
       "start_time": 1675299600
+    },
+    {
+      "slug": "tournament/vick-s-dair-to-spike-16/event/volleyball-1v1",
+      "tournament_name": "Vick's Dair to Spike #16",
+      "event_name": "Volleyball 1v1",
+      "image": "https://images.start.gg/images/tournament/514129/image-d9366b95d0ff9ccb0458fe398ddc75b5.png?ehk=uOpH%2F3zeWdaG2Z%2F%2F779Ia0Il7x3YJLrEaePjMfFWD4k%3D&ehkOptimized=8G5Z8JcwjhX%2FzClwOCViH0ZE1V%2FU%2BwQvR4QKETiPvxU%3D",
+      "entrants": 1,
+      "start_time": 1675544700
     },
     {
       "slug": "tournament/raiser-mseries-1000-invitational/event/melee-singles",
