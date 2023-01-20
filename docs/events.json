@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674229888,
+  "fetched_at": 1674231770,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-22/event/melee-singles",
       "tournament_name": "ASL's Weekly Weekend Melee #22",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514201/image-a0914316b362401698cc9f97e3e93c55.png?ehk=DkVgUaN0tP1l%2Fz2d0tnZ0BlZ%2F4k%2BVmqj%2FjFQTvc9Ilk%3D&ehkOptimized=XYXzQgTIzXn6yo4GIM9cuo%2BlnsDGwjCkCfDomQbv3zg%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1674235800
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Hérault Of Proud",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512427/image-62c88abe3efe356e2aa93137b7de5cd1.jpg?ehk=9kOfYuLuE6WdVJ2lnMT2fID97H5H%2BqPTCpXrC2fpTVE%3D&ehkOptimized=cS%2BzNpR4ktu6ZsXu0MNkSlLsOO8EjqViIk9tDsZMQbE%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1674320400
     },
     {
@@ -150,7 +150,7 @@
       "tournament_name": "Border Weeklies #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514123/image-62583a7d38d7e7e846ffd02e5a0352dc.jpg?ehk=6zpBEFNWa7%2FqbqKqCFCleOMoDL48Pg26w72FgiAc7LA%3D&ehkOptimized=g%2FU%2FEiHHgmTH9Q5NM3EildQi1ZWji9t4BCAWg51ezwY%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1674612000
     },
     {
