@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674242627,
+  "fetched_at": 1674243384,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-22/event/melee-singles",
@@ -128,6 +128,14 @@
       "image": "https://images.start.gg/images/tournament/513526/image-be4d45a99d61545a29859e29e906f18f.png?ehk=9lsMxOAdA9c6%2FBWyO%2BQV1lF5flH6HXSddvfcE3k2HRI%3D&ehkOptimized=0TLOFH6QXyojbg7mJHw73hlmLTxHOAxmJl4Br4bdPWA%3D",
       "entrants": 1,
       "start_time": 1674437400
+    },
+    {
+      "slug": "tournament/super-smash-bong-79/event/melee-singles",
+      "tournament_name": "Super Smash Bong #79",
+      "event_name": "Melee singles",
+      "image": "https://images.start.gg/images/tournament/514239/image-2746672864ccd5633d31dcb3776c0de2.jpg?ehk=wbG7%2FwpG1juuz2gTTSW2%2FFrImIuDLMxJtT80Mj8QaNk%3D&ehkOptimized=VblNJWvQwZDNIGpLI7empMQ%2FXzCr%2FOT2rjKXYzIm5Xs%3D",
+      "entrants": 0,
+      "start_time": 1674513000
     },
     {
       "slug": "tournament/pino-s-tired-of-0-2-106/event/tired-of-0-2",
