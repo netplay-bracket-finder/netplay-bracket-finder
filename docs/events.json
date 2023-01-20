@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674233175,
+  "fetched_at": 1674234909,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-22/event/melee-singles",
       "tournament_name": "ASL's Weekly Weekend Melee #22",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514201/image-a0914316b362401698cc9f97e3e93c55.png?ehk=DkVgUaN0tP1l%2Fz2d0tnZ0BlZ%2F4k%2BVmqj%2FjFQTvc9Ilk%3D&ehkOptimized=XYXzQgTIzXn6yo4GIM9cuo%2BlnsDGwjCkCfDomQbv3zg%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1674235800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Whos afraid of the big bad fox",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/513883/image-1e6f873e4d0dceb77307754abfbbd2c4.jpg?ehk=o1L7eaPMQQaXS7T%2Bg%2BAemfiGsGsnQhdy6NRfitgSRPo%3D&ehkOptimized=bZwoSv5x0hp4xCjhiFJtBNQw%2FhHQ2Uwxe1sljp7cZrY%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1674244800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "RAVN Rumble #13",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513727/image-6a795ba7cf772d6863756bcf098f6764.png?ehk=WWiiEJL7AykOyhOtjd4CVF9P9brbnDyhn3TS692FPGE%3D&ehkOptimized=6BS0yLJnh0WNXcVduOSYHJfOEa8tM5ATnNO2bd0pZLM%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1674259200
     },
     {
@@ -56,6 +56,22 @@
       "image": "https://images.start.gg/images/tournament/512427/image-62c88abe3efe356e2aa93137b7de5cd1.jpg?ehk=9kOfYuLuE6WdVJ2lnMT2fID97H5H%2BqPTCpXrC2fpTVE%3D&ehkOptimized=cS%2BzNpR4ktu6ZsXu0MNkSlLsOO8EjqViIk9tDsZMQbE%3D",
       "entrants": 14,
       "start_time": 1674320400
+    },
+    {
+      "slug": "tournament/after-dark-melee-12/event/after-dark-doubles",
+      "tournament_name": "After Dark Melee #12",
+      "event_name": "After Dark Doubles",
+      "image": "https://images.start.gg/images/tournament/512663/image-b5b51dfef97e17fe279be5eb232cc600.png?ehk=WuX4XxODDDoXJQe5XWDHe%2FbIjt%2FVrYcjhs6KeSSoA9A%3D&ehkOptimized=zvvm68VH6gd7DIvdBLtcwCiAA4Phx2bKwAQYB4hBnnw%3D",
+      "entrants": 0,
+      "start_time": 1674332100
+    },
+    {
+      "slug": "tournament/after-dark-melee-12/event/after-dark-singles",
+      "tournament_name": "After Dark Melee #12",
+      "event_name": "After Dark Singles",
+      "image": "https://images.start.gg/images/tournament/512663/image-b5b51dfef97e17fe279be5eb232cc600.png?ehk=WuX4XxODDDoXJQe5XWDHe%2FbIjt%2FVrYcjhs6KeSSoA9A%3D&ehkOptimized=zvvm68VH6gd7DIvdBLtcwCiAA4Phx2bKwAQYB4hBnnw%3D",
+      "entrants": 0,
+      "start_time": 1674332100
     },
     {
       "slug": "tournament/super-scuffed-smash-saturday-4/event/melee-singles",
