@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674207419,
+  "fetched_at": 1674208276,
   "data": [
     {
       "slug": "tournament/whos-afraid-of-the-big-bad-fox/event/singles",
@@ -120,6 +120,14 @@
       "image": "https://images.start.gg/images/tournament/513139/image-29dc78d8d8a825209f632efadd92eb65.jpg?ehk=7kZJvs4UgUN9PHJ2f2t0mqbqoa%2FmjxVOnF7iqrWpf7Q%3D&ehkOptimized=7TpgGahx8j5jULMAbPIXN4mTdjTMa2Dwlv1DsE510C4%3D",
       "entrants": 2,
       "start_time": 1674514800
+    },
+    {
+      "slug": "tournament/spudfest-48/event/melee-singles",
+      "tournament_name": "Spudfest 48",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/514159/image-91535586181338a5956789e6e8ee5c7b.jpg?ehk=lKDT0dKaMhM6q7%2Fpxxm80fl%2BvAI%2Bm3xIlxx2cYNxuhU%3D&ehkOptimized=cYGVOaMExukDvE8Nmo1QtR5Zd4LmXKiz1mrdUcAM5IU%3D",
+      "entrants": 0,
+      "start_time": 1674525600
     },
     {
       "slug": "tournament/tuesday-night-fever-13/event/melee-singles",
