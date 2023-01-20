@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674219870,
+  "fetched_at": 1674221476,
   "data": [
     {
       "slug": "tournament/whos-afraid-of-the-big-bad-fox/event/singles",
       "tournament_name": "Whos afraid of the big bad fox",
       "event_name": "Singles",
       "image": "https://images.start.gg/images/tournament/513883/image-1e6f873e4d0dceb77307754abfbbd2c4.jpg?ehk=o1L7eaPMQQaXS7T%2Bg%2BAemfiGsGsnQhdy6NRfitgSRPo%3D&ehkOptimized=bZwoSv5x0hp4xCjhiFJtBNQw%2FhHQ2Uwxe1sljp7cZrY%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1674244800
     },
     {
@@ -198,7 +198,7 @@
       "tournament_name": "Sandia Hard Smash January Monthly",
       "event_name": "Melee Ladder (Free Preregistration)",
       "image": "https://images.start.gg/images/tournament/512827/image-3b6b32cc12ed645ade346145715a9782.png?ehk=8761DmTnIZv7Lmwwozi%2FqBnaD9vacsVK%2FgGU%2Fr1ZwLo%3D&ehkOptimized=vX9ASX%2B%2FRrXcfhlajih%2BPZGXejQEyHXHnyuRmcQI4hI%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1674943200
     },
     {
@@ -206,7 +206,7 @@
       "tournament_name": "Sandia Hard Smash January Monthly",
       "event_name": "Melee Doubles (Free Preregistration)",
       "image": "https://images.start.gg/images/tournament/512827/image-3b6b32cc12ed645ade346145715a9782.png?ehk=8761DmTnIZv7Lmwwozi%2FqBnaD9vacsVK%2FgGU%2Fr1ZwLo%3D&ehkOptimized=vX9ASX%2B%2FRrXcfhlajih%2BPZGXejQEyHXHnyuRmcQI4hI%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674946800
     },
     {
