@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674294678,
+  "fetched_at": 1674296139,
   "data": [
     {
       "slug": "tournament/quest-for-best-noob-eu-50/event/newbie-singles",
       "tournament_name": "Quest for Best Noob EU #50",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/513061/image-9bc6b036a1ef15a0e3e9fb59bc2503d3.jpg?ehk=ySjOJYereSCMmekzYRHWzLnCPxzyEEua8%2BHgOnobP9U%3D&ehkOptimized=6uMe6WEpgQU2m6z7XgLMVZnRp8SULvIdT9SVCPIj7Kg%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1674315000
     },
     {
@@ -18,17 +18,17 @@
       "start_time": 1674320400
     },
     {
-      "slug": "tournament/after-dark-melee-12/event/after-dark-doubles",
-      "tournament_name": "After Dark Melee #12",
-      "event_name": "After Dark Doubles",
-      "image": "https://images.start.gg/images/tournament/512663/image-b5b51dfef97e17fe279be5eb232cc600.png?ehk=WuX4XxODDDoXJQe5XWDHe%2FbIjt%2FVrYcjhs6KeSSoA9A%3D&ehkOptimized=zvvm68VH6gd7DIvdBLtcwCiAA4Phx2bKwAQYB4hBnnw%3D",
-      "entrants": 0,
-      "start_time": 1674332100
-    },
-    {
       "slug": "tournament/after-dark-melee-12/event/after-dark-singles",
       "tournament_name": "After Dark Melee #12",
       "event_name": "After Dark Singles",
+      "image": "https://images.start.gg/images/tournament/512663/image-b5b51dfef97e17fe279be5eb232cc600.png?ehk=WuX4XxODDDoXJQe5XWDHe%2FbIjt%2FVrYcjhs6KeSSoA9A%3D&ehkOptimized=zvvm68VH6gd7DIvdBLtcwCiAA4Phx2bKwAQYB4hBnnw%3D",
+      "entrants": 1,
+      "start_time": 1674332100
+    },
+    {
+      "slug": "tournament/after-dark-melee-12/event/after-dark-doubles",
+      "tournament_name": "After Dark Melee #12",
+      "event_name": "After Dark Doubles",
       "image": "https://images.start.gg/images/tournament/512663/image-b5b51dfef97e17fe279be5eb232cc600.png?ehk=WuX4XxODDDoXJQe5XWDHe%2FbIjt%2FVrYcjhs6KeSSoA9A%3D&ehkOptimized=zvvm68VH6gd7DIvdBLtcwCiAA4Phx2bKwAQYB4hBnnw%3D",
       "entrants": 0,
       "start_time": 1674332100
@@ -62,7 +62,7 @@
       "tournament_name": "Fight of the Fearless 36",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/512759/image-a97d8f739ee01ae037a64cbb207cb4b1.png?ehk=2Zmi2t%2BEhUCLrqQa%2BJncXFntDYH4oVSuyrZUGzHcjag%3D&ehkOptimized=L0mD1w%2FIHFTL7vgdcZ%2Fs3j7jrgRzt6jkNVCGOd5WMsI%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674410400
     },
     {
