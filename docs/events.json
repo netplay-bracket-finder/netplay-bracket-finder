@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674328303,
+  "fetched_at": 1674328977,
   "data": [
     {
       "slug": "tournament/scoop-saturday-4/event/melee-singles",
@@ -40,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/512891/image-1cba82ecc12ebafb985f2fb9f45e87e3.jpg?ehk=9xWKmEMWjp%2BQ32%2B8nauOjdLOc61kTBJBZEW%2Fox173IE%3D&ehkOptimized=kM37fJf%2B6unIJjE654AWHKvEoq6g%2Fe%2BQxuMF80IqB9E%3D",
       "entrants": 2,
       "start_time": 1674345600
+    },
+    {
+      "slug": "tournament/sober-saturday-123/event/melee-singles",
+      "tournament_name": "Sober Saturday #123",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/514472/image-31e79b3000e4a2719f7462e782a33b11.jpg?ehk=r%2F56yoMWQdGZ91V5n6LHM3eWt1PZ70P1MMaZ1Box79M%3D&ehkOptimized=bno5ClgMaN0mNNP3jSrEOWt0ooSdRfoGlxjYlTJGjcg%3D",
+      "entrants": 2,
+      "start_time": 1674349200
     },
     {
       "slug": "tournament/nom2kingdom-1/event/melee-singles",
