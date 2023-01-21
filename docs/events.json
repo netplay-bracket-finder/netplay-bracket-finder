@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674325083,
+  "fetched_at": 1674326274,
   "data": [
     {
       "slug": "tournament/scoop-saturday-4/event/melee-singles",
       "tournament_name": "Scoop Saturday #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/446066/image-1039fea034e228fbb2f148bac2233064.png?ehk=5iE2pppbUNQBA4fPLS7CBGFzu2xgil9KL%2BBAPTiqrOY%3D&ehkOptimized=mg1s0SJOe1YoNsu9siKTzPh2i759PzCpPxpHNzQjtKw%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1674324000
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "The Battlefields Series #63",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514449/image-09f448c9cfec09858908baa64b8ef7b3.png?ehk=OsZ8%2BzeZxtLy%2BCKsD1JlxML9Qxky5SCzwO4pRnMRVWk%3D&ehkOptimized=4KXh4rBlPOdseE0fZ6Vm%2FT%2FffGrdvdD7v3voGUz6m2Q%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674428400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Super Scuffed Smash Saturday #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/512891/image-1cba82ecc12ebafb985f2fb9f45e87e3.jpg?ehk=9xWKmEMWjp%2BQ32%2B8nauOjdLOc61kTBJBZEW%2Fox173IE%3D&ehkOptimized=kM37fJf%2B6unIJjE654AWHKvEoq6g%2Fe%2BQxuMF80IqB9E%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1674345600
     },
     {
