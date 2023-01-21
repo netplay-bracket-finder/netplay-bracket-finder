@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674300196,
+  "fetched_at": 1674300984,
   "data": [
     {
       "slug": "tournament/quest-for-best-noob-eu-50/event/newbie-singles",
@@ -184,6 +184,14 @@
       "image": "https://images.start.gg/images/tournament/512021/image-f7e1fc9af3c79585f122d10eab8fb59b.png?ehk=ODs6WtFJlpdE1ZGQ412y9dc81e2WRMibf2OJe2iejfs%3D&ehkOptimized=Wu1UtfQu%2FsDxoYK2BME7uzrkCtWG6UBNV8aTQ4q0m24%3D",
       "entrants": 10,
       "start_time": 1674871200
+    },
+    {
+      "slug": "tournament/ru-slippi-arena-1/event/melee-singles",
+      "tournament_name": "RU Slippi Arena #1",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/514398/image-5dbfee0f26783f40f7d28987af99631b.png?ehk=YqxaV9JmOoOnVaT71r4GKk5%2BPjqybdrnpx2du0ANoi8%3D&ehkOptimized=PKcxGvVcfKuMHV2fjztiGXvhJKqoAEapUtTpGKf4BAw%3D",
+      "entrants": 0,
+      "start_time": 1674925200
     },
     {
       "slug": "tournament/sandia-hard-smash-january-monthly/event/melee-ladder-free-preregistration",
