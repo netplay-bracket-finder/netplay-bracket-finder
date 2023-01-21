@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674258685,
+  "fetched_at": 1674264086,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-22/event/melee-singles",
@@ -14,23 +14,15 @@
       "tournament_name": "SSBU The Dojo #39 (Presented by Solar Esports)",
       "event_name": "The Dojo Melee Singles",
       "image": "https://images.start.gg/images/tournament/514086/image-00aa821504fc139e1527000e81ed3afa.png?ehk=z2hpDxUo%2BiLZclYlpzfOEDNCiqIoWMbZ8BcGUlArOlE%3D&ehkOptimized=cIcfenTESbkQZy%2B3Qx4IPSFE1NXgU7s7T8bJWcB2Wp8%3D",
-      "entrants": 0,
+      "entrants": 3,
       "start_time": 1674262800
-    },
-    {
-      "slug": "tournament/the-shallow-end-18-a-wc-newbie-bracket/event/melee-singles",
-      "tournament_name": "The Shallow End #18 - a WC newbie bracket",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/513536/image-b4271a4e7f20f9163fff6afc8c34e0b0.jpg?ehk=fCEMiD4SdILgyBx9Zi%2FVuJlJwiJLqMlda88ULccKlgM%3D&ehkOptimized=rMYbEmiS1Uo96pZDaP8stz8Fvv%2FqgrpSIMXpM%2F1itYs%3D",
-      "entrants": 6,
-      "start_time": 1674265500
     },
     {
       "slug": "tournament/quest-for-best-noob-eu-50/event/newbie-singles",
       "tournament_name": "Quest for Best Noob EU #50",
       "event_name": "Newbie Singles",
       "image": "https://images.start.gg/images/tournament/513061/image-9bc6b036a1ef15a0e3e9fb59bc2503d3.jpg?ehk=ySjOJYereSCMmekzYRHWzLnCPxzyEEua8%2BHgOnobP9U%3D&ehkOptimized=6uMe6WEpgQU2m6z7XgLMVZnRp8SULvIdT9SVCPIj7Kg%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1674315000
     },
     {
