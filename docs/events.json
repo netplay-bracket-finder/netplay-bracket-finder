@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674339237,
+  "fetched_at": 1674340068,
   "data": [
     {
       "slug": "tournament/scoop-saturday-4/event/melee-singles",
@@ -16,14 +16,6 @@
       "image": "https://images.start.gg/images/tournament/514449/image-09f448c9cfec09858908baa64b8ef7b3.png?ehk=OsZ8%2BzeZxtLy%2BCKsD1JlxML9Qxky5SCzwO4pRnMRVWk%3D&ehkOptimized=4KXh4rBlPOdseE0fZ6Vm%2FT%2FffGrdvdD7v3voGUz6m2Q%3D",
       "entrants": 1,
       "start_time": 1674428400
-    },
-    {
-      "slug": "tournament/sby-melee-netplay-147/event/melee-singles",
-      "tournament_name": "SBY Melee Netplay #147",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/514478/image-462120cbc655a26461558a30e27f5626.jpg?ehk=OW9mHcfypJlpP4ek81TAo0AE1bbRylEmarAitcmnAGU%3D&ehkOptimized=7LvFV0kXufOQoOq6V%2BDxhtR4HO3EvRi29w%2FEB0u%2BxtY%3D",
-      "entrants": 8,
-      "start_time": 1674340200
     },
     {
       "slug": "tournament/super-scuffed-smash-saturday-4/event/melee-singles",
