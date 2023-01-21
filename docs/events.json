@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674343624,
+  "fetched_at": 1674344306,
   "data": [
     {
       "slug": "tournament/scoop-saturday-4/event/melee-singles",
@@ -16,14 +16,6 @@
       "image": "https://images.start.gg/images/tournament/514449/image-09f448c9cfec09858908baa64b8ef7b3.png?ehk=OsZ8%2BzeZxtLy%2BCKsD1JlxML9Qxky5SCzwO4pRnMRVWk%3D&ehkOptimized=4KXh4rBlPOdseE0fZ6Vm%2FT%2FffGrdvdD7v3voGUz6m2Q%3D",
       "entrants": 2,
       "start_time": 1674428400
-    },
-    {
-      "slug": "tournament/super-scuffed-smash-saturday-4/event/melee-singles",
-      "tournament_name": "Super Scuffed Smash Saturday #4",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/512891/image-1cba82ecc12ebafb985f2fb9f45e87e3.jpg?ehk=9xWKmEMWjp%2BQ32%2B8nauOjdLOc61kTBJBZEW%2Fox173IE%3D&ehkOptimized=kM37fJf%2B6unIJjE654AWHKvEoq6g%2Fe%2BQxuMF80IqB9E%3D",
-      "entrants": 8,
-      "start_time": 1674345600
     },
     {
       "slug": "tournament/sober-saturday-123/event/melee-singles",
@@ -102,7 +94,7 @@
       "tournament_name": "Pino's Tired of 0-2 #106",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/513139/image-29dc78d8d8a825209f632efadd92eb65.jpg?ehk=7kZJvs4UgUN9PHJ2f2t0mqbqoa%2FmjxVOnF7iqrWpf7Q%3D&ehkOptimized=7TpgGahx8j5jULMAbPIXN4mTdjTMa2Dwlv1DsE510C4%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1674514800
     },
     {
@@ -112,6 +104,14 @@
       "image": "https://images.start.gg/images/tournament/514159/image-91535586181338a5956789e6e8ee5c7b.jpg?ehk=lKDT0dKaMhM6q7%2Fpxxm80fl%2BvAI%2Bm3xIlxx2cYNxuhU%3D&ehkOptimized=cYGVOaMExukDvE8Nmo1QtR5Zd4LmXKiz1mrdUcAM5IU%3D",
       "entrants": 2,
       "start_time": 1674525600
+    },
+    {
+      "slug": "tournament/casino-royale-8-ssbm-online-weekly/event/casino",
+      "tournament_name": "CASINO ROYALE 8 ~ SSBM Online Weekly",
+      "event_name": "CASINO",
+      "image": "https://images.start.gg/images/tournament/514524/image-95ab821a9ec4bd6544611469861e8305.png?ehk=149V2Uhx3EspAaM4Jrl81swXBjmcDTb5ej7hhefNxwg%3D&ehkOptimized=8ibvL%2BdDAUZfOpSPHRwqLNCkZ6VXxu8%2FDQZhMxqSejI%3D",
+      "entrants": 0,
+      "start_time": 1674527400
     },
     {
       "slug": "tournament/tuesday-night-fever-13/event/melee-singles",
