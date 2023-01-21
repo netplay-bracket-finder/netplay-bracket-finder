@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674272188,
+  "fetched_at": 1674273089,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-22/event/melee-singles",
@@ -103,7 +103,7 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514356/image-89fa69f06857ce6f17d694f60fe0e03d.png?ehk=b%2BXg10D5wRxdQBWdifqPWYZVq3dfG%2Bu91x%2BdgtSuK6A%3D&ehkOptimized=Q39L%2FdkkHVji53tTmM%2BZ2B9mX1XIx0CLJeVRxegh%2BYs%3D",
       "entrants": 2,
-      "start_time": 1674489600
+      "start_time": 1674532800
     },
     {
       "slug": "tournament/super-smash-bong-79/event/melee-singles",
@@ -126,7 +126,7 @@
       "tournament_name": "Spudfest 48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514159/image-91535586181338a5956789e6e8ee5c7b.jpg?ehk=lKDT0dKaMhM6q7%2Fpxxm80fl%2BvAI%2Bm3xIlxx2cYNxuhU%3D&ehkOptimized=cYGVOaMExukDvE8Nmo1QtR5Zd4LmXKiz1mrdUcAM5IU%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674525600
     },
     {
