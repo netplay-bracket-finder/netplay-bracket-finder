@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674329772,
+  "fetched_at": 1674330674,
   "data": [
     {
       "slug": "tournament/scoop-saturday-4/event/melee-singles",
@@ -142,7 +142,7 @@
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 9,
+      "entrants": 10,
       "start_time": 1674604800
     },
     {
@@ -255,7 +255,7 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/495659/image-39b30fc38142aeb9178bd9805f1d61aa.png?ehk=tkyuKJF8Y9QXIWJnCRlMzsBIqgggSA925qr6LOLf9vY%3D&ehkOptimized=MwpOF%2FbbTSw3faQgNMb6CRFU5EULicBxqFmL1VZ%2F1Rg%3D",
       "entrants": 0,
-      "start_time": 1686526200
+      "start_time": 1686439800
     }
   ]
 }
