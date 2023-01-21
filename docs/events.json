@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1674312681,
+  "fetched_at": 1674314089,
   "data": [
-    {
-      "slug": "tournament/quest-for-best-noob-eu-50/event/newbie-singles",
-      "tournament_name": "Quest for Best Noob EU #50",
-      "event_name": "Newbie Singles",
-      "image": "https://images.start.gg/images/tournament/513061/image-9bc6b036a1ef15a0e3e9fb59bc2503d3.jpg?ehk=ySjOJYereSCMmekzYRHWzLnCPxzyEEua8%2BHgOnobP9U%3D&ehkOptimized=6uMe6WEpgQU2m6z7XgLMVZnRp8SULvIdT9SVCPIj7Kg%3D",
-      "entrants": 13,
-      "start_time": 1674315000
-    },
     {
       "slug": "tournament/h-rault-of-proud/event/melee-singles",
       "tournament_name": "Hérault Of Proud",
@@ -16,6 +8,14 @@
       "image": "https://images.start.gg/images/tournament/512427/image-62c88abe3efe356e2aa93137b7de5cd1.jpg?ehk=9kOfYuLuE6WdVJ2lnMT2fID97H5H%2BqPTCpXrC2fpTVE%3D&ehkOptimized=cS%2BzNpR4ktu6ZsXu0MNkSlLsOO8EjqViIk9tDsZMQbE%3D",
       "entrants": 22,
       "start_time": 1674320400
+    },
+    {
+      "slug": "tournament/scoop-saturday-4/event/melee-singles",
+      "tournament_name": "Scoop Saturday #4",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/446066/image-1039fea034e228fbb2f148bac2233064.png?ehk=5iE2pppbUNQBA4fPLS7CBGFzu2xgil9KL%2BBAPTiqrOY%3D&ehkOptimized=mg1s0SJOe1YoNsu9siKTzPh2i759PzCpPxpHNzQjtKw%3D",
+      "entrants": 0,
+      "start_time": 1674324000
     },
     {
       "slug": "tournament/after-dark-melee-12/event/after-dark-singles",
