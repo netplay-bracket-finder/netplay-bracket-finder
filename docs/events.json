@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674271037,
+  "fetched_at": 1674272188,
   "data": [
     {
       "slug": "tournament/asl-s-weekly-weekend-melee-22/event/melee-singles",
@@ -96,6 +96,14 @@
       "image": "https://images.start.gg/images/tournament/513526/image-be4d45a99d61545a29859e29e906f18f.png?ehk=9lsMxOAdA9c6%2FBWyO%2BQV1lF5flH6HXSddvfcE3k2HRI%3D&ehkOptimized=0TLOFH6QXyojbg7mJHw73hlmLTxHOAxmJl4Br4bdPWA%3D",
       "entrants": 1,
       "start_time": 1674437400
+    },
+    {
+      "slug": "tournament/mnn-39/event/melee-singles",
+      "tournament_name": "MNN 39",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/514356/image-89fa69f06857ce6f17d694f60fe0e03d.png?ehk=b%2BXg10D5wRxdQBWdifqPWYZVq3dfG%2Bu91x%2BdgtSuK6A%3D&ehkOptimized=Q39L%2FdkkHVji53tTmM%2BZ2B9mX1XIx0CLJeVRxegh%2BYs%3D",
+      "entrants": 2,
+      "start_time": 1674489600
     },
     {
       "slug": "tournament/super-smash-bong-79/event/melee-singles",
