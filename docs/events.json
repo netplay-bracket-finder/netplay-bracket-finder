@@ -1,14 +1,6 @@
 {
-  "fetched_at": 1674366677,
+  "fetched_at": 1674368339,
   "data": [
-    {
-      "slug": "tournament/scoop-saturday-4/event/melee-singles",
-      "tournament_name": "Scoop Saturday #4",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/446066/image-1039fea034e228fbb2f148bac2233064.png?ehk=5iE2pppbUNQBA4fPLS7CBGFzu2xgil9KL%2BBAPTiqrOY%3D&ehkOptimized=mg1s0SJOe1YoNsu9siKTzPh2i759PzCpPxpHNzQjtKw%3D",
-      "entrants": 6,
-      "start_time": 1674324000
-    },
     {
       "slug": "tournament/the-battlefields-series-63/event/melee-singles",
       "tournament_name": "The Battlefields Series #63",
