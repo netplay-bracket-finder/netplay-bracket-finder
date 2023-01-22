@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1674409878,
+  "fetched_at": 1674411503,
   "data": [
-    {
-      "slug": "tournament/fight-of-the-fearless-36/event/fight-of-the-fearless-single",
-      "tournament_name": "Fight of the Fearless 36",
-      "event_name": "Fight Of The Fearless single",
-      "image": "https://images.start.gg/images/tournament/512759/image-a97d8f739ee01ae037a64cbb207cb4b1.png?ehk=2Zmi2t%2BEhUCLrqQa%2BJncXFntDYH4oVSuyrZUGzHcjag%3D&ehkOptimized=L0mD1w%2FIHFTL7vgdcZ%2Fs3j7jrgRzt6jkNVCGOd5WMsI%3D",
-      "entrants": 20,
-      "start_time": 1674410400
-    },
     {
       "slug": "tournament/melee-br-2023-1/event/melee-singles",
       "tournament_name": "Melee BR 2023 - #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513124/image-e58f8d0daf148c25232d5102013771e5.png?ehk=BqjHoCLRnLin59iaZRbF9EZC47cbOH3MbBNQh2w%2B6Rk%3D&ehkOptimized=F0JTdjC%2BI0ZkNk0JWQblafO7gFTGHuyF75LTgZjG7bo%3D",
-      "entrants": 21,
+      "entrants": 24,
       "start_time": 1674414000
     },
     {
@@ -120,6 +112,14 @@
       "image": "https://images.start.gg/images/tournament/514123/image-62583a7d38d7e7e846ffd02e5a0352dc.jpg?ehk=6zpBEFNWa7%2FqbqKqCFCleOMoDL48Pg26w72FgiAc7LA%3D&ehkOptimized=g%2FU%2FEiHHgmTH9Q5NM3EildQi1ZWji9t4BCAWg51ezwY%3D",
       "entrants": 3,
       "start_time": 1674612000
+    },
+    {
+      "slug": "tournament/take-the-l-19-online-edition/event/melee-singles",
+      "tournament_name": "Take The L #19 - ONLINE EDITION",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/514692/image-2070e8b1476c7f67906d8569d0df79ec.jpg?ehk=J7qpf2y6TRD9322hp1cnRjVNYnRobBnpf%2F72%2FY1ZgMM%3D&ehkOptimized=4stvDJEw0eODussRO5HrSX%2F3SyWnAcaA%2FsjM8qvi0Fw%3D",
+      "entrants": 0,
+      "start_time": 1674702000
     },
     {
       "slug": "tournament/toblerone-tangerine-thursdays-49-eu-event/event/melee-singles",
