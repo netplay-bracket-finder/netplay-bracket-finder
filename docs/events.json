@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674427149,
+  "fetched_at": 1674427888,
   "data": [
     {
       "slug": "tournament/scss-east-coast-103-the-finale-for-now/event/melee-singles",
       "tournament_name": "SCSS East Coast #103 - The Finale for Now",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513529/image-7a5bbee48f5888ab6e524ac90cd896dc.png?ehk=3pvlkmmd2PSJmstGwPz%2FFtvn6MYUD0dWIATBZZsBF3o%3D&ehkOptimized=iT%2BT81Zl5alWxomEhJlgu4KkDn6aDyJ7vcoXXGHll8k%3D",
-      "entrants": 14,
+      "entrants": 13,
       "start_time": 1674433800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "SCSS West Coast #92 - The Finale for Now",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513526/image-be4d45a99d61545a29859e29e906f18f.png?ehk=9lsMxOAdA9c6%2FBWyO%2BQV1lF5flH6HXSddvfcE3k2HRI%3D&ehkOptimized=0TLOFH6QXyojbg7mJHw73hlmLTxHOAxmJl4Br4bdPWA%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1674437400
     },
     {
@@ -232,6 +232,14 @@
       "image": "https://images.start.gg/images/tournament/508823/image-72e9da5084f90bb60cdb940caf0f9fe1.png?ehk=izz1amE0bDG4cGb0hm3D2EYBvSquPW7aix6iBSMHseI%3D&ehkOptimized=DvE%2FANTamBwvb1c1gYgnq%2Fq7KffDApdM%2B1RiIVk8LWo%3D",
       "entrants": 12,
       "start_time": 1675818000
+    },
+    {
+      "slug": "tournament/the-coinbox-48-melee/event/melee-singles",
+      "tournament_name": "The Coinbox #48 (Melee)",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
+      "entrants": 0,
+      "start_time": 1675897200
     },
     {
       "slug": "tournament/cre-scendo-1/event/melee-singles",
