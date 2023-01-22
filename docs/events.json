@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674408380,
+  "fetched_at": 1674409047,
   "data": [
     {
       "slug": "tournament/fight-of-the-fearless-36/event/fight-of-the-fearless-single",
       "tournament_name": "Fight of the Fearless 36",
       "event_name": "Fight Of The Fearless single",
       "image": "https://images.start.gg/images/tournament/512759/image-a97d8f739ee01ae037a64cbb207cb4b1.png?ehk=2Zmi2t%2BEhUCLrqQa%2BJncXFntDYH4oVSuyrZUGzHcjag%3D&ehkOptimized=L0mD1w%2FIHFTL7vgdcZ%2Fs3j7jrgRzt6jkNVCGOd5WMsI%3D",
-      "entrants": 17,
+      "entrants": 20,
       "start_time": 1674410400
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Melee BR 2023 - #1",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513124/image-e58f8d0daf148c25232d5102013771e5.png?ehk=BqjHoCLRnLin59iaZRbF9EZC47cbOH3MbBNQh2w%2B6Rk%3D&ehkOptimized=F0JTdjC%2BI0ZkNk0JWQblafO7gFTGHuyF75LTgZjG7bo%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1674414000
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "SCSS East Coast #103 - The Finale for Now",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513529/image-7a5bbee48f5888ab6e524ac90cd896dc.png?ehk=3pvlkmmd2PSJmstGwPz%2FFtvn6MYUD0dWIATBZZsBF3o%3D&ehkOptimized=iT%2BT81Zl5alWxomEhJlgu4KkDn6aDyJ7vcoXXGHll8k%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1674433800
     },
     {
@@ -110,7 +110,7 @@
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1674604800
     },
     {
