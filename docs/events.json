@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674363076,
+  "fetched_at": 1674364439,
   "data": [
     {
       "slug": "tournament/scoop-saturday-4/event/melee-singles",
@@ -114,6 +114,22 @@
       "start_time": 1674586800
     },
     {
+      "slug": "tournament/highlight-reel-0-test-week/event/east-coast",
+      "tournament_name": "Highlight Reel #0 - Test Week",
+      "event_name": "East Coast",
+      "image": "https://images.start.gg/images/tournament/514582/image-d62a49a55a123f823dc59d63fbcb95a6.png?ehk=qJelNauMDwRpjzgcP2u%2B8gvjM283zrneCPwN%2BVGVEew%3D&ehkOptimized=slsBT7%2Fw0yUYaVXBCqY6bbdq3WwHKI0JlTR%2BXtRQacc%3D",
+      "entrants": 0,
+      "start_time": 1674604800
+    },
+    {
+      "slug": "tournament/highlight-reel-0-test-week/event/west-coast",
+      "tournament_name": "Highlight Reel #0 - Test Week",
+      "event_name": "West Coast",
+      "image": "https://images.start.gg/images/tournament/514582/image-d62a49a55a123f823dc59d63fbcb95a6.png?ehk=qJelNauMDwRpjzgcP2u%2B8gvjM283zrneCPwN%2BVGVEew%3D&ehkOptimized=slsBT7%2Fw0yUYaVXBCqY6bbdq3WwHKI0JlTR%2BXtRQacc%3D",
+      "entrants": 0,
+      "start_time": 1674612000
+    },
+    {
       "slug": "tournament/only-noobs-102-1/event/melee-singles",
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
@@ -158,7 +174,7 @@
       "tournament_name": "REVIVAL OF VERO: ONLINE MELEE BRACKET",
       "event_name": "Double Elimination Singles",
       "image": "https://images.start.gg/images/tournament/514521/image-b916fa98addd94ca494efbbdf3fa0a4a.png?ehk=UWrbOLLJE8yCe1%2F%2F3lMSwbGENywAA3YPdux0g5vOzSY%3D&ehkOptimized=Vm78bepzwvcYLZHpjT7m2zq1hMc1bWh7T%2FkpSy6z0lI%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1674865800
     },
     {
