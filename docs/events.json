@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674427888,
+  "fetched_at": 1674429330,
   "data": [
     {
       "slug": "tournament/scss-east-coast-103-the-finale-for-now/event/melee-singles",
       "tournament_name": "SCSS East Coast #103 - The Finale for Now",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513529/image-7a5bbee48f5888ab6e524ac90cd896dc.png?ehk=3pvlkmmd2PSJmstGwPz%2FFtvn6MYUD0dWIATBZZsBF3o%3D&ehkOptimized=iT%2BT81Zl5alWxomEhJlgu4KkDn6aDyJ7vcoXXGHll8k%3D",
-      "entrants": 13,
+      "entrants": 14,
       "start_time": 1674433800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "SCSS West Coast #92 - The Finale for Now",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513526/image-be4d45a99d61545a29859e29e906f18f.png?ehk=9lsMxOAdA9c6%2FBWyO%2BQV1lF5flH6HXSddvfcE3k2HRI%3D&ehkOptimized=0TLOFH6QXyojbg7mJHw73hlmLTxHOAxmJl4Br4bdPWA%3D",
-      "entrants": 3,
+      "entrants": 6,
       "start_time": 1674437400
     },
     {
@@ -74,14 +74,6 @@
       "start_time": 1674527400
     },
     {
-      "slug": "tournament/tuesday-night-fever-13/event/melee-singles",
-      "tournament_name": "Tuesday Night Fever #13",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/513807/image-f88711f5052a42d1ea882774ffca392c.png?ehk=WcWOiMAryqgoi5w7vxWOziygK7Zs6Vhe4iuf7%2BvJ8To%3D&ehkOptimized=BAnbWkLv2UDb9oZxZ9Qhoqw4BmSApTr7Csucr68nF%2Bo%3D",
-      "entrants": 0,
-      "start_time": 1674586800
-    },
-    {
       "slug": "tournament/highlight-reel-0-test-week/event/east-coast",
       "tournament_name": "Highlight Reel #0 - Test Week",
       "event_name": "East Coast",
@@ -112,6 +104,14 @@
       "image": "https://images.start.gg/images/tournament/514123/image-62583a7d38d7e7e846ffd02e5a0352dc.jpg?ehk=6zpBEFNWa7%2FqbqKqCFCleOMoDL48Pg26w72FgiAc7LA%3D&ehkOptimized=g%2FU%2FEiHHgmTH9Q5NM3EildQi1ZWji9t4BCAWg51ezwY%3D",
       "entrants": 3,
       "start_time": 1674612000
+    },
+    {
+      "slug": "tournament/waddle-wednesday-54/event/melee-singles",
+      "tournament_name": "Waddle Wednesday 54",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/514801/image-d2700760676c140da4bd89350905b8b1.png?ehk=7VXRy5c8HbQEftA688Lhdz9OX5FTs6k6eoZmaAkkYJA%3D&ehkOptimized=dVxx%2BUp7E80DUkOyBzHzjU0VXYftPWjkbBr9b8hFq8c%3D",
+      "entrants": 0,
+      "start_time": 1674694800
     },
     {
       "slug": "tournament/take-the-l-19-online-edition/event/melee-singles",
@@ -238,7 +238,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 0,
+      "entrants": 21,
       "start_time": 1675897200
     },
     {
