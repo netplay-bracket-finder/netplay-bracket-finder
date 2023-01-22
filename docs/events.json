@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674413481,
+  "fetched_at": 1674414727,
   "data": [
     {
       "slug": "tournament/scss-east-coast-103-the-finale-for-now/event/melee-singles",
@@ -48,6 +48,14 @@
       "image": "https://images.start.gg/images/tournament/513139/image-29dc78d8d8a825209f632efadd92eb65.jpg?ehk=7kZJvs4UgUN9PHJ2f2t0mqbqoa%2FmjxVOnF7iqrWpf7Q%3D&ehkOptimized=7TpgGahx8j5jULMAbPIXN4mTdjTMa2Dwlv1DsE510C4%3D",
       "entrants": 6,
       "start_time": 1674514800
+    },
+    {
+      "slug": "tournament/have-you-dreamed-this-cardboard-bear-11/event/melee-singles",
+      "tournament_name": "Have You Dreamed This Cardboard Bear? #11",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/514702/image-2c3df968758bab661a9548621200eaa1.jpg?ehk=vDsh1xR%2Fu87T6SBrcBvGkxo4egiDQo%2Fu6JAWvmamIgg%3D&ehkOptimized=DZJd6yedCWmrepcLrOlx3T6nfldA1lKEBGVcYLLapXY%3D",
+      "entrants": 1,
+      "start_time": 1674522900
     },
     {
       "slug": "tournament/spudfest-48/event/melee-singles",
