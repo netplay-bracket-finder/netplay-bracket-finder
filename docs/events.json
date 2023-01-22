@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674345082,
+  "fetched_at": 1674350647,
   "data": [
     {
       "slug": "tournament/scoop-saturday-4/event/melee-singles",
@@ -16,14 +16,6 @@
       "image": "https://images.start.gg/images/tournament/514449/image-09f448c9cfec09858908baa64b8ef7b3.png?ehk=OsZ8%2BzeZxtLy%2BCKsD1JlxML9Qxky5SCzwO4pRnMRVWk%3D&ehkOptimized=4KXh4rBlPOdseE0fZ6Vm%2FT%2FffGrdvdD7v3voGUz6m2Q%3D",
       "entrants": 2,
       "start_time": 1674428400
-    },
-    {
-      "slug": "tournament/sober-saturday-123/event/melee-singles",
-      "tournament_name": "Sober Saturday #123",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/514472/image-31e79b3000e4a2719f7462e782a33b11.jpg?ehk=r%2F56yoMWQdGZ91V5n6LHM3eWt1PZ70P1MMaZ1Box79M%3D&ehkOptimized=bno5ClgMaN0mNNP3jSrEOWt0ooSdRfoGlxjYlTJGjcg%3D",
-      "entrants": 2,
-      "start_time": 1674349200
     },
     {
       "slug": "tournament/nom2kingdom-1/event/melee-singles",
@@ -126,7 +118,7 @@
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1674604800
     },
     {
@@ -160,6 +152,14 @@
       "image": "https://images.start.gg/images/tournament/513955/image-0860ef6263aaa3a1971e0ca85b553c83.png?ehk=ndbba6LvJ6SVOng3nbOIAHaEi10DaXcDGlppmvUvzUc%3D&ehkOptimized=Zg4ufCg5kX7oWZ5mFlLPY%2FD5beZmV6xIeSf0ZOgk%2FLc%3D",
       "entrants": 0,
       "start_time": 1674847800
+    },
+    {
+      "slug": "tournament/revival-of-vero-online-melee-bracket/event/double-elimination-singles",
+      "tournament_name": "REVIVAL OF VERO: ONLINE MELEE BRACKET",
+      "event_name": "Double Elimination Singles",
+      "image": "https://images.start.gg/images/tournament/514521/image-b916fa98addd94ca494efbbdf3fa0a4a.png?ehk=UWrbOLLJE8yCe1%2F%2F3lMSwbGENywAA3YPdux0g5vOzSY%3D&ehkOptimized=Vm78bepzwvcYLZHpjT7m2zq1hMc1bWh7T%2FkpSy6z0lI%3D",
+      "entrants": 0,
+      "start_time": 1674865800
     },
     {
       "slug": "tournament/melee-pitz/event/melee-singles",
