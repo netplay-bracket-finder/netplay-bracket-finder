@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1674373878,
+  "fetched_at": 1674375563,
   "data": [
-    {
-      "slug": "tournament/the-battlefields-series-63/event/melee-singles",
-      "tournament_name": "The Battlefields Series #63",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/514449/image-09f448c9cfec09858908baa64b8ef7b3.png?ehk=OsZ8%2BzeZxtLy%2BCKsD1JlxML9Qxky5SCzwO4pRnMRVWk%3D&ehkOptimized=4KXh4rBlPOdseE0fZ6Vm%2FT%2FffGrdvdD7v3voGUz6m2Q%3D",
-      "entrants": 2,
-      "start_time": 1674428400
-    },
-    {
-      "slug": "tournament/nom2kingdom-1/event/melee-singles",
-      "tournament_name": "Nom2kingdom",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/511967/image-996351401bd370704d8543e2c7a1762d.jpg?ehk=HxL1TH2ELwQmRyCJD3%2Fh9%2BIItRqHu0D%2BYnMN0gQQ3kc%3D&ehkOptimized=m9jR4A%2FKw6PSyCl0wl%2BHB7zpoufy5B9QmCDJfe2rWNs%3D",
-      "entrants": 2,
-      "start_time": 1674352800
-    },
     {
       "slug": "tournament/dorime-s-dojo-11/event/melee-singles",
       "tournament_name": "Dorime's Dojo #11",
@@ -165,7 +149,7 @@
       "slug": "tournament/revival-of-vero-online-melee-bracket/event/double-elimination-singles",
       "tournament_name": "REVIVAL OF VERO: ONLINE MELEE BRACKET",
       "event_name": "Double Elimination Singles",
-      "image": "https://images.start.gg/images/tournament/514521/image-b916fa98addd94ca494efbbdf3fa0a4a.png?ehk=UWrbOLLJE8yCe1%2F%2F3lMSwbGENywAA3YPdux0g5vOzSY%3D&ehkOptimized=Vm78bepzwvcYLZHpjT7m2zq1hMc1bWh7T%2FkpSy6z0lI%3D",
+      "image": "https://images.start.gg/images/tournament/514521/image-382c265f3a018e718a89ebff99dd6c79.jpg?ehk=WQ7zRxIWyRn%2F5l7ADaqc%2BuBzKqA7gDw1waoH9g4kjqQ%3D&ehkOptimized=0tv6mZd2YbatevRMPvvk7tT%2BqvGoBMPYcfinwGJkfb0%3D",
       "entrants": 4,
       "start_time": 1674865800
     },
