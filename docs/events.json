@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674425666,
+  "fetched_at": 1674426488,
   "data": [
     {
       "slug": "tournament/scss-east-coast-103-the-finale-for-now/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "SCSS West Coast #92 - The Finale for Now",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513526/image-be4d45a99d61545a29859e29e906f18f.png?ehk=9lsMxOAdA9c6%2FBWyO%2BQV1lF5flH6HXSddvfcE3k2HRI%3D&ehkOptimized=0TLOFH6QXyojbg7mJHw73hlmLTxHOAxmJl4Br4bdPWA%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1674437400
     },
     {
@@ -77,7 +77,7 @@
       "slug": "tournament/tuesday-night-fever-13/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #13",
       "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/513807/image-17340ac674ae170aa9ba708fc4a5bc4c.png?ehk=ZCzspft8HuSVa4lP7iuBc%2B%2BwLB2FoNpzveCy1x06OSY%3D&ehkOptimized=L0uGINjAzIpeAShVgP%2BLGr53Hj2xy1RnHnAjlJTMrTE%3D",
+      "image": "https://images.start.gg/images/tournament/513807/image-f88711f5052a42d1ea882774ffca392c.png?ehk=WcWOiMAryqgoi5w7vxWOziygK7Zs6Vhe4iuf7%2BvJ8To%3D&ehkOptimized=BAnbWkLv2UDb9oZxZ9Qhoqw4BmSApTr7Csucr68nF%2Bo%3D",
       "entrants": 0,
       "start_time": 1674586800
     },
