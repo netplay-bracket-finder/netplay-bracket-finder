@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1674488270,
+  "fetched_at": 1674489080,
   "data": [
-    {
-      "slug": "tournament/mnn-39/event/melee-singles",
-      "tournament_name": "MNN 39",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/514356/image-89fa69f06857ce6f17d694f60fe0e03d.png?ehk=b%2BXg10D5wRxdQBWdifqPWYZVq3dfG%2Bu91x%2BdgtSuK6A%3D&ehkOptimized=Q39L%2FdkkHVji53tTmM%2BZ2B9mX1XIx0CLJeVRxegh%2BYs%3D",
-      "entrants": 2,
-      "start_time": 1674532800
-    },
     {
       "slug": "tournament/monday-night-mixup-48/event/melee-singles",
       "tournament_name": "Monday Night Mixup #48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514666/image-e4a30f18cd6b13aecdd98df33b5bfef3.png?ehk=gbbnySD%2BI2632zCw5QsEDZNSQNrObxpSyRLWHxJqZjE%3D&ehkOptimized=8K7LhJk82S1xxJkUrfF39oiocIoPMxroV4kBiJXXav0%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1674500400
     },
     {
@@ -254,7 +246,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 424,
+      "entrants": 427,
       "start_time": 1675897200
     },
     {
