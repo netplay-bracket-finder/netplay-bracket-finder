@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674483311,
+  "fetched_at": 1674484144,
   "data": [
     {
       "slug": "tournament/mnn-39/event/melee-singles",
@@ -46,7 +46,7 @@
       "tournament_name": "Buffered Lobster Rollback #2: 6-9 Inches",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514965/image-961b4752b7ae7a976221719e83a736c0.jpg?ehk=wNFDSots0y%2FHfhfxZx2Gb5CiWoYwcHyQg1cGOoynzbY%3D&ehkOptimized=pgS8Oox4pyfPvcBzy9o8SBRcLWXLCTGTh2jVbEoYu2o%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674516600
     },
     {
@@ -226,6 +226,14 @@
       "start_time": 1675299600
     },
     {
+      "slug": "tournament/the-battlefields-series-64/event/melee-singles",
+      "tournament_name": "The Battlefields Series #64",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/514956/image-d34e7863c9e387a52c3263acf673889a.png?ehk=YOkqioi6aEV%2B6iMIekSvG2J2wHpk38P0Zc9x4l2guRk%3D&ehkOptimized=FRMf1UOJwc23No4nxFqUF2OYnAZpJcw7nMezpVs100Y%3D",
+      "entrants": 0,
+      "start_time": 1675638000
+    },
+    {
       "slug": "tournament/vick-s-dair-to-spike-16/event/volleyball-1v1",
       "tournament_name": "Vick's Dair to Spike #16",
       "event_name": "Volleyball 1v1",
@@ -246,7 +254,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 408,
+      "entrants": 409,
       "start_time": 1675897200
     },
     {
