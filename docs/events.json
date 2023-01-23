@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674490952,
+  "fetched_at": 1674492351,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-48/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Super Smash Bong #79",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/514239/image-2746672864ccd5633d31dcb3776c0de2.jpg?ehk=wbG7%2FwpG1juuz2gTTSW2%2FFrImIuDLMxJtT80Mj8QaNk%3D&ehkOptimized=VblNJWvQwZDNIGpLI7empMQ%2FXzCr%2FOT2rjKXYzIm5Xs%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1674513000
     },
     {
@@ -30,7 +30,7 @@
       "tournament_name": "Pino's Tired of 0-2 #106",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/513139/image-29dc78d8d8a825209f632efadd92eb65.jpg?ehk=7kZJvs4UgUN9PHJ2f2t0mqbqoa%2FmjxVOnF7iqrWpf7Q%3D&ehkOptimized=7TpgGahx8j5jULMAbPIXN4mTdjTMa2Dwlv1DsE510C4%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1674514800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Buffered Lobster Rollback #2: 6-9 Inches",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514965/image-961b4752b7ae7a976221719e83a736c0.jpg?ehk=wNFDSots0y%2FHfhfxZx2Gb5CiWoYwcHyQg1cGOoynzbY%3D&ehkOptimized=pgS8Oox4pyfPvcBzy9o8SBRcLWXLCTGTh2jVbEoYu2o%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1674516600
     },
     {
@@ -94,7 +94,7 @@
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 17,
+      "entrants": 18,
       "start_time": 1674604800
     },
     {
@@ -246,7 +246,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 437,
+      "entrants": 442,
       "start_time": 1675897200
     },
     {
