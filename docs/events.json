@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674495607,
+  "fetched_at": 1674496284,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-48/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Super Smash Bong #79",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/514239/image-2746672864ccd5633d31dcb3776c0de2.jpg?ehk=wbG7%2FwpG1juuz2gTTSW2%2FFrImIuDLMxJtT80Mj8QaNk%3D&ehkOptimized=VblNJWvQwZDNIGpLI7empMQ%2FXzCr%2FOT2rjKXYzIm5Xs%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1674513000
     },
     {
@@ -170,6 +170,14 @@
       "start_time": 1674871200
     },
     {
+      "slug": "tournament/quest-for-best-noob-eu-51/event/newbie-singles",
+      "tournament_name": "Quest for Best Noob EU #51",
+      "event_name": "Newbie Singles",
+      "image": "https://images.start.gg/images/tournament/515061/image-189e8492824539e11e06c39d4546fc79.jpg?ehk=d0pZZuWchl2e3wPSjhiDauDd1ES2t1pFLspiZtjrCGo%3D&ehkOptimized=Hv6u%2FR9FqZPFFs9s2AnuWGBR0IEzv9Dd8E8FKNalwtA%3D",
+      "entrants": 0,
+      "start_time": 1674919800
+    },
+    {
       "slug": "tournament/ru-slippi-arena-1/event/melee-singles",
       "tournament_name": "RU Slippi Arena #1",
       "event_name": "Melee Singles",
@@ -254,7 +262,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 454,
+      "entrants": 456,
       "start_time": 1675897200
     },
     {
