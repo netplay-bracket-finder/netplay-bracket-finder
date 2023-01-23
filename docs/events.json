@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674494953,
+  "fetched_at": 1674495607,
   "data": [
     {
       "slug": "tournament/monday-night-mixup-48/event/melee-singles",
       "tournament_name": "Monday Night Mixup #48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514666/image-e4a30f18cd6b13aecdd98df33b5bfef3.png?ehk=gbbnySD%2BI2632zCw5QsEDZNSQNrObxpSyRLWHxJqZjE%3D&ehkOptimized=8K7LhJk82S1xxJkUrfF39oiocIoPMxroV4kBiJXXav0%3D",
-      "entrants": 17,
+      "entrants": 15,
       "start_time": 1674500400
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Buffered Lobster Rollback #2: 6-9 Inches",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514965/image-961b4752b7ae7a976221719e83a736c0.jpg?ehk=wNFDSots0y%2FHfhfxZx2Gb5CiWoYwcHyQg1cGOoynzbY%3D&ehkOptimized=pgS8Oox4pyfPvcBzy9o8SBRcLWXLCTGTh2jVbEoYu2o%3D",
-      "entrants": 3,
+      "entrants": 5,
       "start_time": 1674516600
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "Spudfest 48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514159/image-91535586181338a5956789e6e8ee5c7b.jpg?ehk=lKDT0dKaMhM6q7%2Fpxxm80fl%2BvAI%2Bm3xIlxx2cYNxuhU%3D&ehkOptimized=cYGVOaMExukDvE8Nmo1QtR5Zd4LmXKiz1mrdUcAM5IU%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1674525600
     },
     {
@@ -254,7 +254,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 453,
+      "entrants": 454,
       "start_time": 1675897200
     },
     {
