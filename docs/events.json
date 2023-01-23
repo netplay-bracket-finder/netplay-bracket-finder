@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674481877,
+  "fetched_at": 1674483311,
   "data": [
     {
       "slug": "tournament/mnn-39/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Monday Night Mixup #48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514666/image-e4a30f18cd6b13aecdd98df33b5bfef3.png?ehk=gbbnySD%2BI2632zCw5QsEDZNSQNrObxpSyRLWHxJqZjE%3D&ehkOptimized=8K7LhJk82S1xxJkUrfF39oiocIoPMxroV4kBiJXXav0%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1674500400
     },
     {
@@ -40,6 +40,14 @@
       "image": "https://images.start.gg/images/tournament/513139/image-29dc78d8d8a825209f632efadd92eb65.jpg?ehk=7kZJvs4UgUN9PHJ2f2t0mqbqoa%2FmjxVOnF7iqrWpf7Q%3D&ehkOptimized=7TpgGahx8j5jULMAbPIXN4mTdjTMa2Dwlv1DsE510C4%3D",
       "entrants": 7,
       "start_time": 1674514800
+    },
+    {
+      "slug": "tournament/buffered-lobster-rollback-2-6-9-inches/event/melee-singles",
+      "tournament_name": "Buffered Lobster Rollback #2: 6-9 Inches",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/514965/image-961b4752b7ae7a976221719e83a736c0.jpg?ehk=wNFDSots0y%2FHfhfxZx2Gb5CiWoYwcHyQg1cGOoynzbY%3D&ehkOptimized=pgS8Oox4pyfPvcBzy9o8SBRcLWXLCTGTh2jVbEoYu2o%3D",
+      "entrants": 0,
+      "start_time": 1674516600
     },
     {
       "slug": "tournament/have-you-dreamed-this-cardboard-bear-11-the-finale/event/melee-singles",
@@ -238,7 +246,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 404,
+      "entrants": 408,
       "start_time": 1675897200
     },
     {
