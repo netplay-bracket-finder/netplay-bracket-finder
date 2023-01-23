@@ -1,22 +1,6 @@
 {
-  "fetched_at": 1674513600,
+  "fetched_at": 1674514286,
   "data": [
-    {
-      "slug": "tournament/slippi-sauce-83/event/melee-singles",
-      "tournament_name": "Slippi Sauce #83 🐸",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/514862/image-a86741f96e78dec50e206c08c1aefb9c.png?ehk=Lskxvd4D%2FFN3ahKJ0O1K9RkQcoIMs%2Fn%2BfL7DbwIQXmU%3D&ehkOptimized=cqPsMTbwX%2B5CnoHtYMWkK2KkpbeqyS1BoICooy%2BFoZY%3D",
-      "entrants": 25,
-      "start_time": 1674514800
-    },
-    {
-      "slug": "tournament/pino-s-tired-of-0-2-106/event/tired-of-0-2",
-      "tournament_name": "Pino's Tired of 0-2 #106",
-      "event_name": "Tired of 0-2?",
-      "image": "https://images.start.gg/images/tournament/513139/image-29dc78d8d8a825209f632efadd92eb65.jpg?ehk=7kZJvs4UgUN9PHJ2f2t0mqbqoa%2FmjxVOnF7iqrWpf7Q%3D&ehkOptimized=7TpgGahx8j5jULMAbPIXN4mTdjTMa2Dwlv1DsE510C4%3D",
-      "entrants": 40,
-      "start_time": 1674514800
-    },
     {
       "slug": "tournament/buffered-lobster-rollback-2-6-9-inches/event/melee-singles",
       "tournament_name": "Buffered Lobster Rollback #2: 6-9 Inches",
@@ -254,7 +238,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 521,
+      "entrants": 525,
       "start_time": 1675897200
     },
     {
