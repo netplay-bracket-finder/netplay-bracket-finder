@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1674512094,
+  "fetched_at": 1674512941,
   "data": [
-    {
-      "slug": "tournament/super-smash-bong-79/event/melee-singles",
-      "tournament_name": "Super Smash Bong #79",
-      "event_name": "Melee singles",
-      "image": "https://images.start.gg/images/tournament/514239/image-2746672864ccd5633d31dcb3776c0de2.jpg?ehk=wbG7%2FwpG1juuz2gTTSW2%2FFrImIuDLMxJtT80Mj8QaNk%3D&ehkOptimized=VblNJWvQwZDNIGpLI7empMQ%2FXzCr%2FOT2rjKXYzIm5Xs%3D",
-      "entrants": 17,
-      "start_time": 1674513000
-    },
     {
       "slug": "tournament/slippi-sauce-83/event/melee-singles",
       "tournament_name": "Slippi Sauce #83 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514862/image-a86741f96e78dec50e206c08c1aefb9c.png?ehk=Lskxvd4D%2FFN3ahKJ0O1K9RkQcoIMs%2Fn%2BfL7DbwIQXmU%3D&ehkOptimized=cqPsMTbwX%2B5CnoHtYMWkK2KkpbeqyS1BoICooy%2BFoZY%3D",
-      "entrants": 22,
+      "entrants": 24,
       "start_time": 1674514800
     },
     {
@@ -22,7 +14,7 @@
       "tournament_name": "Pino's Tired of 0-2 #106",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/513139/image-29dc78d8d8a825209f632efadd92eb65.jpg?ehk=7kZJvs4UgUN9PHJ2f2t0mqbqoa%2FmjxVOnF7iqrWpf7Q%3D&ehkOptimized=7TpgGahx8j5jULMAbPIXN4mTdjTMa2Dwlv1DsE510C4%3D",
-      "entrants": 36,
+      "entrants": 39,
       "start_time": 1674514800
     },
     {
@@ -30,7 +22,7 @@
       "tournament_name": "Buffered Lobster Rollback #2: 6-9 Inches",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514965/image-961b4752b7ae7a976221719e83a736c0.jpg?ehk=wNFDSots0y%2FHfhfxZx2Gb5CiWoYwcHyQg1cGOoynzbY%3D&ehkOptimized=pgS8Oox4pyfPvcBzy9o8SBRcLWXLCTGTh2jVbEoYu2o%3D",
-      "entrants": 20,
+      "entrants": 21,
       "start_time": 1674516600
     },
     {
@@ -254,7 +246,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 512,
+      "entrants": 517,
       "start_time": 1675897200
     },
     {
