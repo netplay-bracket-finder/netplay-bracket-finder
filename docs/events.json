@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674436750,
+  "fetched_at": 1674441026,
   "data": [
     {
       "slug": "tournament/mnn-39/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Super Smash Bong #79",
       "event_name": "Melee singles",
       "image": "https://images.start.gg/images/tournament/514239/image-2746672864ccd5633d31dcb3776c0de2.jpg?ehk=wbG7%2FwpG1juuz2gTTSW2%2FFrImIuDLMxJtT80Mj8QaNk%3D&ehkOptimized=VblNJWvQwZDNIGpLI7empMQ%2FXzCr%2FOT2rjKXYzIm5Xs%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674513000
     },
     {
@@ -54,7 +54,7 @@
       "tournament_name": "CASINO ROYALE 8 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/514524/image-95ab821a9ec4bd6544611469861e8305.png?ehk=149V2Uhx3EspAaM4Jrl81swXBjmcDTb5ej7hhefNxwg%3D&ehkOptimized=8ibvL%2BdDAUZfOpSPHRwqLNCkZ6VXxu8%2FDQZhMxqSejI%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674527400
     },
     {
@@ -70,7 +70,7 @@
       "tournament_name": "Highlight Reel #0 - Test Week",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/514582/image-d62a49a55a123f823dc59d63fbcb95a6.png?ehk=qJelNauMDwRpjzgcP2u%2B8gvjM283zrneCPwN%2BVGVEew%3D&ehkOptimized=slsBT7%2Fw0yUYaVXBCqY6bbdq3WwHKI0JlTR%2BXtRQacc%3D",
-      "entrants": 1,
+      "entrants": 2,
       "start_time": 1674604800
     },
     {
@@ -86,7 +86,7 @@
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 14,
+      "entrants": 15,
       "start_time": 1674604800
     },
     {
@@ -230,7 +230,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 214,
+      "entrants": 251,
       "start_time": 1675897200
     },
     {
