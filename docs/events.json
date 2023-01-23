@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674514286,
+  "fetched_at": 1674515741,
   "data": [
     {
       "slug": "tournament/buffered-lobster-rollback-2-6-9-inches/event/melee-singles",
       "tournament_name": "Buffered Lobster Rollback #2: 6-9 Inches",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514965/image-961b4752b7ae7a976221719e83a736c0.jpg?ehk=wNFDSots0y%2FHfhfxZx2Gb5CiWoYwcHyQg1cGOoynzbY%3D&ehkOptimized=pgS8Oox4pyfPvcBzy9o8SBRcLWXLCTGTh2jVbEoYu2o%3D",
-      "entrants": 22,
+      "entrants": 24,
       "start_time": 1674516600
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #11: The Finale",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514702/image-2c3df968758bab661a9548621200eaa1.jpg?ehk=vDsh1xR%2Fu87T6SBrcBvGkxo4egiDQo%2Fu6JAWvmamIgg%3D&ehkOptimized=DZJd6yedCWmrepcLrOlx3T6nfldA1lKEBGVcYLLapXY%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1674522900
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Spudfest 48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514159/image-91535586181338a5956789e6e8ee5c7b.jpg?ehk=lKDT0dKaMhM6q7%2Fpxxm80fl%2BvAI%2Bm3xIlxx2cYNxuhU%3D&ehkOptimized=cYGVOaMExukDvE8Nmo1QtR5Zd4LmXKiz1mrdUcAM5IU%3D",
-      "entrants": 12,
+      "entrants": 13,
       "start_time": 1674525600
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Highlight Reel #0 - Test Week",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/514582/image-d62a49a55a123f823dc59d63fbcb95a6.png?ehk=qJelNauMDwRpjzgcP2u%2B8gvjM283zrneCPwN%2BVGVEew%3D&ehkOptimized=slsBT7%2Fw0yUYaVXBCqY6bbdq3WwHKI0JlTR%2BXtRQacc%3D",
-      "entrants": 3,
+      "entrants": 2,
       "start_time": 1674604800
     },
     {
@@ -126,7 +126,7 @@
       "tournament_name": "REVIVAL OF VERO: ONLINE MELEE BRACKET",
       "event_name": "Double Elimination Singles",
       "image": "https://images.start.gg/images/tournament/514521/image-382c265f3a018e718a89ebff99dd6c79.jpg?ehk=WQ7zRxIWyRn%2F5l7ADaqc%2BuBzKqA7gDw1waoH9g4kjqQ%3D&ehkOptimized=0tv6mZd2YbatevRMPvvk7tT%2BqvGoBMPYcfinwGJkfb0%3D",
-      "entrants": 7,
+      "entrants": 8,
       "start_time": 1674865800
     },
     {
@@ -238,7 +238,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 525,
+      "entrants": 529,
       "start_time": 1675897200
     },
     {
