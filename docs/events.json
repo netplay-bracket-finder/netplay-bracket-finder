@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674512941,
+  "fetched_at": 1674513600,
   "data": [
     {
       "slug": "tournament/slippi-sauce-83/event/melee-singles",
       "tournament_name": "Slippi Sauce #83 🐸",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514862/image-a86741f96e78dec50e206c08c1aefb9c.png?ehk=Lskxvd4D%2FFN3ahKJ0O1K9RkQcoIMs%2Fn%2BfL7DbwIQXmU%3D&ehkOptimized=cqPsMTbwX%2B5CnoHtYMWkK2KkpbeqyS1BoICooy%2BFoZY%3D",
-      "entrants": 24,
+      "entrants": 25,
       "start_time": 1674514800
     },
     {
@@ -14,7 +14,7 @@
       "tournament_name": "Pino's Tired of 0-2 #106",
       "event_name": "Tired of 0-2?",
       "image": "https://images.start.gg/images/tournament/513139/image-29dc78d8d8a825209f632efadd92eb65.jpg?ehk=7kZJvs4UgUN9PHJ2f2t0mqbqoa%2FmjxVOnF7iqrWpf7Q%3D&ehkOptimized=7TpgGahx8j5jULMAbPIXN4mTdjTMa2Dwlv1DsE510C4%3D",
-      "entrants": 39,
+      "entrants": 40,
       "start_time": 1674514800
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Buffered Lobster Rollback #2: 6-9 Inches",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514965/image-961b4752b7ae7a976221719e83a736c0.jpg?ehk=wNFDSots0y%2FHfhfxZx2Gb5CiWoYwcHyQg1cGOoynzbY%3D&ehkOptimized=pgS8Oox4pyfPvcBzy9o8SBRcLWXLCTGTh2jVbEoYu2o%3D",
-      "entrants": 21,
+      "entrants": 22,
       "start_time": 1674516600
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Spudfest 48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514159/image-91535586181338a5956789e6e8ee5c7b.jpg?ehk=lKDT0dKaMhM6q7%2Fpxxm80fl%2BvAI%2Bm3xIlxx2cYNxuhU%3D&ehkOptimized=cYGVOaMExukDvE8Nmo1QtR5Zd4LmXKiz1mrdUcAM5IU%3D",
-      "entrants": 11,
+      "entrants": 12,
       "start_time": 1674525600
     },
     {
@@ -80,6 +80,14 @@
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
       "entrants": 23,
       "start_time": 1674604800
+    },
+    {
+      "slug": "tournament/dad-s-house-online-10/event/melee-singles",
+      "tournament_name": "Dad's House: Online #10",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/515171/image-371ee7762dca1d2648d46ae593132be2.png?ehk=5MT2myFSDbEIQAZwwgxwE%2F45Y2QUzWYZkmBIXh557%2Bg%3D&ehkOptimized=tML2Ub9FUvHn5XrkoXR6LhRNiiAnoJMyNSRZXVrOfpA%3D",
+      "entrants": 0,
+      "start_time": 1674606600
     },
     {
       "slug": "tournament/border-weeklies-2/event/melee-singles",
@@ -246,7 +254,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 517,
+      "entrants": 521,
       "start_time": 1675897200
     },
     {
