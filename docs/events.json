@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674454800,
+  "fetched_at": 1674456006,
   "data": [
     {
       "slug": "tournament/mnn-39/event/melee-singles",
@@ -86,7 +86,7 @@
       "tournament_name": "Highlight Reel #0 - Test Week",
       "event_name": "West Coast",
       "image": "https://images.start.gg/images/tournament/514582/image-d62a49a55a123f823dc59d63fbcb95a6.png?ehk=qJelNauMDwRpjzgcP2u%2B8gvjM283zrneCPwN%2BVGVEew%3D&ehkOptimized=slsBT7%2Fw0yUYaVXBCqY6bbdq3WwHKI0JlTR%2BXtRQacc%3D",
-      "entrants": 2,
+      "entrants": 3,
       "start_time": 1674612000
     },
     {
@@ -238,7 +238,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 346,
+      "entrants": 349,
       "start_time": 1675897200
     },
     {
