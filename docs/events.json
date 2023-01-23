@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674517010,
+  "fetched_at": 1674517897,
   "data": [
     {
       "slug": "tournament/buffered-lobster-rollback-2-6-9-inches/event/melee-singles",
@@ -14,7 +14,7 @@
       "tournament_name": "Have You Dreamed This Cardboard Bear? #11: The Finale",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514702/image-2c3df968758bab661a9548621200eaa1.jpg?ehk=vDsh1xR%2Fu87T6SBrcBvGkxo4egiDQo%2Fu6JAWvmamIgg%3D&ehkOptimized=DZJd6yedCWmrepcLrOlx3T6nfldA1lKEBGVcYLLapXY%3D",
-      "entrants": 9,
+      "entrants": 11,
       "start_time": 1674522900
     },
     {
@@ -22,7 +22,7 @@
       "tournament_name": "Spudfest 48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514159/image-91535586181338a5956789e6e8ee5c7b.jpg?ehk=lKDT0dKaMhM6q7%2Fpxxm80fl%2BvAI%2Bm3xIlxx2cYNxuhU%3D&ehkOptimized=cYGVOaMExukDvE8Nmo1QtR5Zd4LmXKiz1mrdUcAM5IU%3D",
-      "entrants": 15,
+      "entrants": 16,
       "start_time": 1674525600
     },
     {
@@ -238,7 +238,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 535,
+      "entrants": 537,
       "start_time": 1675897200
     },
     {
