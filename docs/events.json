@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674448792,
+  "fetched_at": 1674449486,
   "data": [
     {
       "slug": "tournament/mnn-39/event/melee-singles",
@@ -150,7 +150,7 @@
       "tournament_name": "REVIVAL OF VERO: ONLINE MELEE BRACKET",
       "event_name": "Double Elimination Singles",
       "image": "https://images.start.gg/images/tournament/514521/image-382c265f3a018e718a89ebff99dd6c79.jpg?ehk=WQ7zRxIWyRn%2F5l7ADaqc%2BuBzKqA7gDw1waoH9g4kjqQ%3D&ehkOptimized=0tv6mZd2YbatevRMPvvk7tT%2BqvGoBMPYcfinwGJkfb0%3D",
-      "entrants": 6,
+      "entrants": 7,
       "start_time": 1674865800
     },
     {
@@ -238,7 +238,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 313,
+      "entrants": 320,
       "start_time": 1675897200
     },
     {
