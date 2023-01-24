@@ -1,28 +1,20 @@
 {
-  "fetched_at": 1674517897,
+  "fetched_at": 1674523321,
   "data": [
     {
-      "slug": "tournament/buffered-lobster-rollback-2-6-9-inches/event/melee-singles",
-      "tournament_name": "Buffered Lobster Rollback #2: 6-9 Inches",
+      "slug": "tournament/mnn-39/event/melee-singles",
+      "tournament_name": "MNN 39",
       "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/514965/image-961b4752b7ae7a976221719e83a736c0.jpg?ehk=wNFDSots0y%2FHfhfxZx2Gb5CiWoYwcHyQg1cGOoynzbY%3D&ehkOptimized=pgS8Oox4pyfPvcBzy9o8SBRcLWXLCTGTh2jVbEoYu2o%3D",
-      "entrants": 25,
-      "start_time": 1674516600
-    },
-    {
-      "slug": "tournament/have-you-dreamed-this-cardboard-bear-11-the-finale/event/melee-singles",
-      "tournament_name": "Have You Dreamed This Cardboard Bear? #11: The Finale",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/514702/image-2c3df968758bab661a9548621200eaa1.jpg?ehk=vDsh1xR%2Fu87T6SBrcBvGkxo4egiDQo%2Fu6JAWvmamIgg%3D&ehkOptimized=DZJd6yedCWmrepcLrOlx3T6nfldA1lKEBGVcYLLapXY%3D",
-      "entrants": 11,
-      "start_time": 1674522900
+      "image": "https://images.start.gg/images/tournament/514356/image-89fa69f06857ce6f17d694f60fe0e03d.png?ehk=b%2BXg10D5wRxdQBWdifqPWYZVq3dfG%2Bu91x%2BdgtSuK6A%3D&ehkOptimized=Q39L%2FdkkHVji53tTmM%2BZ2B9mX1XIx0CLJeVRxegh%2BYs%3D",
+      "entrants": 4,
+      "start_time": 1674532800
     },
     {
       "slug": "tournament/spudfest-48/event/melee-singles",
       "tournament_name": "Spudfest 48",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514159/image-91535586181338a5956789e6e8ee5c7b.jpg?ehk=lKDT0dKaMhM6q7%2Fpxxm80fl%2BvAI%2Bm3xIlxx2cYNxuhU%3D&ehkOptimized=cYGVOaMExukDvE8Nmo1QtR5Zd4LmXKiz1mrdUcAM5IU%3D",
-      "entrants": 16,
+      "entrants": 28,
       "start_time": 1674525600
     },
     {
@@ -30,7 +22,7 @@
       "tournament_name": "CASINO ROYALE 8 ~ SSBM Online Weekly",
       "event_name": "CASINO",
       "image": "https://images.start.gg/images/tournament/514524/image-95ab821a9ec4bd6544611469861e8305.png?ehk=149V2Uhx3EspAaM4Jrl81swXBjmcDTb5ej7hhefNxwg%3D&ehkOptimized=8ibvL%2BdDAUZfOpSPHRwqLNCkZ6VXxu8%2FDQZhMxqSejI%3D",
-      "entrants": 4,
+      "entrants": 9,
       "start_time": 1674527400
     },
     {
@@ -62,7 +54,7 @@
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 23,
+      "entrants": 26,
       "start_time": 1674604800
     },
     {
@@ -238,7 +230,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 537,
+      "entrants": 554,
       "start_time": 1675897200
     },
     {
