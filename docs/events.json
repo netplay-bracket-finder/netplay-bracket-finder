@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674533960,
+  "fetched_at": 1674535180,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-13/event/melee-singles",
@@ -88,6 +88,14 @@
       "image": "https://images.start.gg/images/tournament/514002/image-2beea0a05b6c61f1aad5aa1838096daa.png?ehk=VQv7NqCqg1trzIVLikqsKM15dzkvpGpGtSNmvLiW7zE%3D&ehkOptimized=DphATn3mwUrTiByeoY6iEtIDbKr65N5t6j8P6PZuR9I%3D",
       "entrants": 0,
       "start_time": 1674756000
+    },
+    {
+      "slug": "tournament/melee-of-the-penguins-2/event/melee-singles",
+      "tournament_name": "Melee Of The Penguins 2",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/515269/image-ae73f02ef8c6b2a2820c41d788686220.png?ehk=NFZ2%2FVlzSp7d1BDAx743A9zWzS3gIOQZIuIMcweJ0aU%3D&ehkOptimized=2p3MQOHTzHfMVgu%2BOWXMbGIFdHcjDEic0kRP48fqe6g%3D",
+      "entrants": 0,
+      "start_time": 1674781200
     },
     {
       "slug": "tournament/deter-melee-low-tier-reborn-saison-1/event/deter-melee-low-tier-reborn-1",
@@ -222,7 +230,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 576,
+      "entrants": 578,
       "start_time": 1675897200
     },
     {
