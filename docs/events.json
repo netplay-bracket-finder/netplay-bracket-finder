@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674585576,
+  "fetched_at": 1674586294,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-13/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #13",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513807/image-f88711f5052a42d1ea882774ffca392c.png?ehk=WcWOiMAryqgoi5w7vxWOziygK7Zs6Vhe4iuf7%2BvJ8To%3D&ehkOptimized=BAnbWkLv2UDb9oZxZ9Qhoqw4BmSApTr7Csucr68nF%2Bo%3D",
-      "entrants": 14,
+      "entrants": 17,
       "start_time": 1674586800
     },
     {
@@ -46,7 +46,7 @@
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 52,
+      "entrants": 53,
       "start_time": 1674604800
     },
     {
@@ -278,7 +278,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 607,
+      "entrants": 609,
       "start_time": 1675897200
     },
     {
