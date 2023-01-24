@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674549576,
+  "fetched_at": 1674550281,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-13/event/melee-singles",
@@ -56,6 +56,14 @@
       "image": "https://images.start.gg/images/tournament/515171/image-371ee7762dca1d2648d46ae593132be2.png?ehk=5MT2myFSDbEIQAZwwgxwE%2F45Y2QUzWYZkmBIXh557%2Bg%3D&ehkOptimized=tML2Ub9FUvHn5XrkoXR6LhRNiiAnoJMyNSRZXVrOfpA%3D",
       "entrants": 1,
       "start_time": 1674606600
+    },
+    {
+      "slug": "tournament/cataquackdown-24-tournament-of-torment/event/melee-singles",
+      "tournament_name": "Cataquackdown 24: Tournament of Torment",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/515312/image-8a68999ecbd4d48c0f3dbe1001917572.png?ehk=QB2TZDNOcDrK9jAlr%2Fma7ZRFDgoODnwz3lwT5lhKTDs%3D&ehkOptimized=3I1WAUbh0VThhLV%2F6Q54OlCsJmherrqQfmlPHE5J%2FTU%3D",
+      "entrants": 0,
+      "start_time": 1674608400
     },
     {
       "slug": "tournament/border-weeklies-2/event/melee-singles",
