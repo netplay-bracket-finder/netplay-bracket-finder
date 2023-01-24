@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674573385,
+  "fetched_at": 1674574598,
   "data": [
     {
       "slug": "tournament/traffic-tree-teusday-3/event/melee-singles",
@@ -26,6 +26,14 @@
       "start_time": 1674604800
     },
     {
+      "slug": "tournament/sketchy-series-15-sketch-marks-the-spot/event/melee-singles",
+      "tournament_name": "Sketchy Series 15: Sketch Marks The Spot",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/515300/image-98a03e67ee21db12e69222ca96d2b265.png?ehk=76a5Au7LJBIBwOPzQKaaIQoup5JBI6FcPW0hiZW%2FvUM%3D&ehkOptimized=6J5l5ylpWg6h0o5XIzfRyb7w2lp98cxlhaT%2FhTT%2FR4g%3D",
+      "entrants": 1,
+      "start_time": 1674604800
+    },
+    {
       "slug": "tournament/highlight-reel-0-test-week/event/east-coast",
       "tournament_name": "Highlight Reel #0 - Test Week",
       "event_name": "East Coast",
@@ -38,16 +46,8 @@
       "tournament_name": "Highlight Reel #0 - Test Week",
       "event_name": "West Coast",
       "image": "https://images.start.gg/images/tournament/514582/image-d62a49a55a123f823dc59d63fbcb95a6.png?ehk=qJelNauMDwRpjzgcP2u%2B8gvjM283zrneCPwN%2BVGVEew%3D&ehkOptimized=slsBT7%2Fw0yUYaVXBCqY6bbdq3WwHKI0JlTR%2BXtRQacc%3D",
-      "entrants": 4,
+      "entrants": 5,
       "start_time": 1674612000
-    },
-    {
-      "slug": "tournament/sketchy-series-15-sketch-marks-the-spot/event/melee-singles",
-      "tournament_name": "Sketchy Series 15: Sketch Marks The Spot",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/515300/image-98a03e67ee21db12e69222ca96d2b265.png?ehk=76a5Au7LJBIBwOPzQKaaIQoup5JBI6FcPW0hiZW%2FvUM%3D&ehkOptimized=6J5l5ylpWg6h0o5XIzfRyb7w2lp98cxlhaT%2FhTT%2FR4g%3D",
-      "entrants": 1,
-      "start_time": 1674604800
     },
     {
       "slug": "tournament/only-noobs-102-1/event/melee-singles",
@@ -278,7 +278,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 598,
+      "entrants": 599,
       "start_time": 1675897200
     },
     {
