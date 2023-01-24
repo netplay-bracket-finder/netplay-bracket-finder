@@ -1,29 +1,13 @@
 {
-  "fetched_at": 1674523321,
+  "fetched_at": 1674527348,
   "data": [
     {
       "slug": "tournament/mnn-39/event/melee-singles",
       "tournament_name": "MNN 39",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514356/image-89fa69f06857ce6f17d694f60fe0e03d.png?ehk=b%2BXg10D5wRxdQBWdifqPWYZVq3dfG%2Bu91x%2BdgtSuK6A%3D&ehkOptimized=Q39L%2FdkkHVji53tTmM%2BZ2B9mX1XIx0CLJeVRxegh%2BYs%3D",
-      "entrants": 4,
+      "entrants": 7,
       "start_time": 1674532800
-    },
-    {
-      "slug": "tournament/spudfest-48/event/melee-singles",
-      "tournament_name": "Spudfest 48",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/514159/image-91535586181338a5956789e6e8ee5c7b.jpg?ehk=lKDT0dKaMhM6q7%2Fpxxm80fl%2BvAI%2Bm3xIlxx2cYNxuhU%3D&ehkOptimized=cYGVOaMExukDvE8Nmo1QtR5Zd4LmXKiz1mrdUcAM5IU%3D",
-      "entrants": 28,
-      "start_time": 1674525600
-    },
-    {
-      "slug": "tournament/casino-royale-8-ssbm-online-weekly/event/casino",
-      "tournament_name": "CASINO ROYALE 8 ~ SSBM Online Weekly",
-      "event_name": "CASINO",
-      "image": "https://images.start.gg/images/tournament/514524/image-95ab821a9ec4bd6544611469861e8305.png?ehk=149V2Uhx3EspAaM4Jrl81swXBjmcDTb5ej7hhefNxwg%3D&ehkOptimized=8ibvL%2BdDAUZfOpSPHRwqLNCkZ6VXxu8%2FDQZhMxqSejI%3D",
-      "entrants": 9,
-      "start_time": 1674527400
     },
     {
       "slug": "tournament/tuesday-night-fever-13/event/melee-singles",
@@ -54,7 +38,7 @@
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 26,
+      "entrants": 27,
       "start_time": 1674604800
     },
     {
@@ -62,7 +46,7 @@
       "tournament_name": "Dad's House: Online #10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/515171/image-371ee7762dca1d2648d46ae593132be2.png?ehk=5MT2myFSDbEIQAZwwgxwE%2F45Y2QUzWYZkmBIXh557%2Bg%3D&ehkOptimized=tML2Ub9FUvHn5XrkoXR6LhRNiiAnoJMyNSRZXVrOfpA%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674606600
     },
     {
@@ -118,7 +102,7 @@
       "tournament_name": "REVIVAL OF VERO: ONLINE MELEE BRACKET",
       "event_name": "Double Elimination Singles",
       "image": "https://images.start.gg/images/tournament/514521/image-382c265f3a018e718a89ebff99dd6c79.jpg?ehk=WQ7zRxIWyRn%2F5l7ADaqc%2BuBzKqA7gDw1waoH9g4kjqQ%3D&ehkOptimized=0tv6mZd2YbatevRMPvvk7tT%2BqvGoBMPYcfinwGJkfb0%3D",
-      "entrants": 8,
+      "entrants": 9,
       "start_time": 1674865800
     },
     {
@@ -230,7 +214,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 554,
+      "entrants": 565,
       "start_time": 1675897200
     },
     {
