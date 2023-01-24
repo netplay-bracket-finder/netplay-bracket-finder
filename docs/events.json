@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674588972,
+  "fetched_at": 1674589877,
   "data": [
     {
       "slug": "tournament/nebraska-melee-cat6-combos-4-1/event/melee-singles",
       "tournament_name": "Nebraska Melee CAT6 Combos #4",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/515260/image-8cda505000084007111be4da1c437e2a.png?ehk=Cuq0XJmya2U%2BIxrw7%2FGb6zHVFvGMgYe3wKwGP1%2B4N8g%3D&ehkOptimized=QmuquifMhgIKQmD5miClyvwVfzwMmORjlzkxXXlcRJM%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1674604800
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 57,
+      "entrants": 61,
       "start_time": 1674604800
     },
     {
@@ -226,6 +226,22 @@
       "start_time": 1675299600
     },
     {
+      "slug": "tournament/moonwalk-tournament-series-28/event/melee-ladder",
+      "tournament_name": "Moonwalk Tournament Series 28",
+      "event_name": "Melee Ladder",
+      "image": "https://images.start.gg/images/tournament/507651/image-02079afcad00ddb514811c36dd4207b4.jpg?ehk=igxH8Cfev4Re2wv8A4D8wQ8xV%2BqsMaKA1pYfwf1PTuE%3D&ehkOptimized=9jcYq%2ByAb3VaeLLfgTmfZ%2BHybMB47d%2F0AtRtbNqA3K8%3D",
+      "entrants": 0,
+      "start_time": 1675386000
+    },
+    {
+      "slug": "tournament/moonwalk-tournament-series-28/event/melee-top-12",
+      "tournament_name": "Moonwalk Tournament Series 28",
+      "event_name": "Melee Top 12",
+      "image": "https://images.start.gg/images/tournament/507651/image-02079afcad00ddb514811c36dd4207b4.jpg?ehk=igxH8Cfev4Re2wv8A4D8wQ8xV%2BqsMaKA1pYfwf1PTuE%3D&ehkOptimized=9jcYq%2ByAb3VaeLLfgTmfZ%2BHybMB47d%2F0AtRtbNqA3K8%3D",
+      "entrants": 0,
+      "start_time": 1675386000
+    },
+    {
       "slug": "tournament/the-battlefields-series-64/event/melee-singles",
       "tournament_name": "The Battlefields Series #64",
       "event_name": "Melee Singles",
@@ -270,7 +286,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 613,
+      "entrants": 616,
       "start_time": 1675897200
     },
     {
