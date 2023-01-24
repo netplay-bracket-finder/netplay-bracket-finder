@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674532284,
+  "fetched_at": 1674533960,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-13/event/melee-singles",
@@ -8,6 +8,14 @@
       "image": "https://images.start.gg/images/tournament/513807/image-f88711f5052a42d1ea882774ffca392c.png?ehk=WcWOiMAryqgoi5w7vxWOziygK7Zs6Vhe4iuf7%2BvJ8To%3D&ehkOptimized=BAnbWkLv2UDb9oZxZ9Qhoqw4BmSApTr7Csucr68nF%2Bo%3D",
       "entrants": 1,
       "start_time": 1674586800
+    },
+    {
+      "slug": "tournament/nebraska-melee-cat6-combos-4-1/event/melee-singles",
+      "tournament_name": "Nebraska Melee CAT6 Combos #4",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/515260/image-8cda505000084007111be4da1c437e2a.png?ehk=Cuq0XJmya2U%2BIxrw7%2FGb6zHVFvGMgYe3wKwGP1%2B4N8g%3D&ehkOptimized=QmuquifMhgIKQmD5miClyvwVfzwMmORjlzkxXXlcRJM%3D",
+      "entrants": 2,
+      "start_time": 1674604800
     },
     {
       "slug": "tournament/highlight-reel-0-test-week/event/east-coast",
@@ -198,7 +206,7 @@
       "tournament_name": "Michigan Melee Fundraising Bracket",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/515216/image-41d40dead4b96fe6d4ae21b3e457aa30.png?ehk=cx7cZLcZnixzOUg05cUmBaRy1GBrYsqsy1nvxbc09jQ%3D&ehkOptimized=x6KzL0rKl0P3sIe6XFMJ3zX0fNYTcXzR%2Be4G4ESNXGQ%3D",
-      "entrants": 1,
+      "entrants": 0,
       "start_time": 1676156400
     },
     {
@@ -214,7 +222,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 573,
+      "entrants": 576,
       "start_time": 1675897200
     },
     {
