@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674537259,
+  "fetched_at": 1674538038,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-13/event/melee-singles",
@@ -122,6 +122,14 @@
       "start_time": 1674867600
     },
     {
+      "slug": "tournament/nice-bear/event/melee-singles",
+      "tournament_name": "Nice Bear",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/515275/image-12239fa7f254896f344ff85af3d168f0.png?ehk=YWjE1BLNbny3iiK0VYbuHakQUyqiXqmLCU9oUp0mlBQ%3D&ehkOptimized=2xe9m1HfXbLrJhsnit%2FIm3zDB%2B2ksIhCZow%2BphNzinA%3D",
+      "entrants": 0,
+      "start_time": 1674867600
+    },
+    {
       "slug": "tournament/king-of-the-koopas/event/melee-singles-bowser-only",
       "tournament_name": "King of the Koopas",
       "event_name": "Melee Singles: Bowser Only",
@@ -230,7 +238,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 579,
+      "entrants": 582,
       "start_time": 1675897200
     },
     {
