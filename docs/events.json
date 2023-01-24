@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674599333,
+  "fetched_at": 1674600004,
   "data": [
     {
       "slug": "tournament/nebraska-melee-cat6-combos-4-1/event/melee-singles",
@@ -38,7 +38,7 @@
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 94,
+      "entrants": 99,
       "start_time": 1674604800
     },
     {
@@ -78,7 +78,7 @@
       "tournament_name": "Waddle Wednesday 54",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514801/image-d2700760676c140da4bd89350905b8b1.png?ehk=7VXRy5c8HbQEftA688Lhdz9OX5FTs6k6eoZmaAkkYJA%3D&ehkOptimized=dVxx%2BUp7E80DUkOyBzHzjU0VXYftPWjkbBr9b8hFq8c%3D",
-      "entrants": 0,
+      "entrants": 1,
       "start_time": 1674694800
     },
     {
@@ -294,7 +294,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 628,
+      "entrants": 629,
       "start_time": 1675897200
     },
     {
