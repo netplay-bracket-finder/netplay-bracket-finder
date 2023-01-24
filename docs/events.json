@@ -1,12 +1,12 @@
 {
-  "fetched_at": 1674556638,
+  "fetched_at": 1674557483,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-13/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #13",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513807/image-f88711f5052a42d1ea882774ffca392c.png?ehk=WcWOiMAryqgoi5w7vxWOziygK7Zs6Vhe4iuf7%2BvJ8To%3D&ehkOptimized=BAnbWkLv2UDb9oZxZ9Qhoqw4BmSApTr7Csucr68nF%2Bo%3D",
-      "entrants": 3,
+      "entrants": 4,
       "start_time": 1674586800
     },
     {
@@ -192,6 +192,14 @@
       "image": "https://images.start.gg/images/tournament/512827/image-3b6b32cc12ed645ade346145715a9782.png?ehk=8761DmTnIZv7Lmwwozi%2FqBnaD9vacsVK%2FgGU%2Fr1ZwLo%3D&ehkOptimized=vX9ASX%2B%2FRrXcfhlajih%2BPZGXejQEyHXHnyuRmcQI4hI%3D",
       "entrants": 1,
       "start_time": 1674946800
+    },
+    {
+      "slug": "tournament/super-scuffed-smash-saturday-5/event/melee-singles",
+      "tournament_name": "Super Scuffed Smash Saturday #5",
+      "event_name": "Melee Singles",
+      "image": "https://images.start.gg/images/tournament/515319/image-008ea7826d873238d814abbaf49ebc6d.jpg?ehk=NdtPEx70zWwl1w403EwqaY2gBS%2FqFJkQv%2Bd4hNIIJKM%3D&ehkOptimized=jChXvhMVpE208KzunoJ6dt02zXiV0xdBoIAXsnzq9Mg%3D",
+      "entrants": 0,
+      "start_time": 1674950400
     },
     {
       "slug": "tournament/new-sizzling-sundays-6/event/melee-singles",
