@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674539484,
+  "fetched_at": 1674541177,
   "data": [
     {
       "slug": "tournament/tuesday-night-fever-13/event/melee-singles",
@@ -218,6 +218,14 @@
       "start_time": 1675544700
     },
     {
+      "slug": "tournament/michigan-melee-fundraising-bracket/event/vip-melee-singles-random-maps",
+      "tournament_name": "Michigan Melee Fundraising Bracket",
+      "event_name": "VIP - Melee Singles (Random Maps)",
+      "image": "https://images.start.gg/images/tournament/515216/image-41d40dead4b96fe6d4ae21b3e457aa30.png?ehk=cx7cZLcZnixzOUg05cUmBaRy1GBrYsqsy1nvxbc09jQ%3D&ehkOptimized=x6KzL0rKl0P3sIe6XFMJ3zX0fNYTcXzR%2Be4G4ESNXGQ%3D",
+      "entrants": 0,
+      "start_time": 1675551600
+    },
+    {
       "slug": "tournament/michigan-melee-fundraising-bracket/event/melee-singles",
       "tournament_name": "Michigan Melee Fundraising Bracket",
       "event_name": "Melee Singles",
@@ -238,7 +246,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 585,
+      "entrants": 590,
       "start_time": 1675897200
     },
     {
