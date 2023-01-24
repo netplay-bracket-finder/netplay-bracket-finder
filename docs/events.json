@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1674577346,
+  "fetched_at": 1674578724,
   "data": [
-    {
-      "slug": "tournament/traffic-tree-teusday-3/event/melee-singles",
-      "tournament_name": "Traffic Tree Teusday #3",
-      "event_name": "Melee Singles",
-      "image": "",
-      "entrants": 1,
-      "start_time": 1674577740
-    },
     {
       "slug": "tournament/tuesday-night-fever-13/event/melee-singles",
       "tournament_name": "Tuesday Night Fever #13",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513807/image-f88711f5052a42d1ea882774ffca392c.png?ehk=WcWOiMAryqgoi5w7vxWOziygK7Zs6Vhe4iuf7%2BvJ8To%3D&ehkOptimized=BAnbWkLv2UDb9oZxZ9Qhoqw4BmSApTr7Csucr68nF%2Bo%3D",
-      "entrants": 10,
+      "entrants": 11,
       "start_time": 1674586800
     },
     {
@@ -54,7 +46,7 @@
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 31,
+      "entrants": 33,
       "start_time": 1674604800
     },
     {
@@ -78,7 +70,7 @@
       "tournament_name": "Border Weeklies #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514123/image-62583a7d38d7e7e846ffd02e5a0352dc.jpg?ehk=6zpBEFNWa7%2FqbqKqCFCleOMoDL48Pg26w72FgiAc7LA%3D&ehkOptimized=g%2FU%2FEiHHgmTH9Q5NM3EildQi1ZWji9t4BCAWg51ezwY%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1674612000
     },
     {
@@ -278,7 +270,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 600,
+      "entrants": 601,
       "start_time": 1675897200
     },
     {
