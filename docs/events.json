@@ -1,20 +1,12 @@
 {
-  "fetched_at": 1674603411,
+  "fetched_at": 1674604280,
   "data": [
-    {
-      "slug": "tournament/nebraska-melee-cat6-combos-4-1/event/melee-singles",
-      "tournament_name": "Nebraska Melee CAT6 Combos #4",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/515260/image-8cda505000084007111be4da1c437e2a.png?ehk=Cuq0XJmya2U%2BIxrw7%2FGb6zHVFvGMgYe3wKwGP1%2B4N8g%3D&ehkOptimized=QmuquifMhgIKQmD5miClyvwVfzwMmORjlzkxXXlcRJM%3D",
-      "entrants": 9,
-      "start_time": 1674604800
-    },
     {
       "slug": "tournament/highlight-reel-0-test-week/event/east-coast",
       "tournament_name": "Highlight Reel #0 - Test Week",
       "event_name": "East Coast",
       "image": "https://images.start.gg/images/tournament/514582/image-d62a49a55a123f823dc59d63fbcb95a6.png?ehk=qJelNauMDwRpjzgcP2u%2B8gvjM283zrneCPwN%2BVGVEew%3D&ehkOptimized=slsBT7%2Fw0yUYaVXBCqY6bbdq3WwHKI0JlTR%2BXtRQacc%3D",
-      "entrants": 7,
+      "entrants": 6,
       "start_time": 1674604800
     },
     {
@@ -26,19 +18,11 @@
       "start_time": 1674612000
     },
     {
-      "slug": "tournament/only-noobs-102-1/event/melee-singles",
-      "tournament_name": "Only Noobs 102",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 128,
-      "start_time": 1674604800
-    },
-    {
       "slug": "tournament/dad-s-house-online-10/event/melee-singles",
       "tournament_name": "Dad's House: Online #10",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/515171/image-371ee7762dca1d2648d46ae593132be2.png?ehk=5MT2myFSDbEIQAZwwgxwE%2F45Y2QUzWYZkmBIXh557%2Bg%3D&ehkOptimized=tML2Ub9FUvHn5XrkoXR6LhRNiiAnoJMyNSRZXVrOfpA%3D",
-      "entrants": 12,
+      "entrants": 14,
       "start_time": 1674606600
     },
     {
