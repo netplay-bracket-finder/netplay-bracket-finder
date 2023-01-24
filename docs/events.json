@@ -1,5 +1,5 @@
 {
-  "fetched_at": 1674592596,
+  "fetched_at": 1674593486,
   "data": [
     {
       "slug": "tournament/nebraska-melee-cat6-combos-4-1/event/melee-singles",
@@ -22,7 +22,7 @@
       "tournament_name": "Highlight Reel #0 - Test Week",
       "event_name": "West Coast",
       "image": "https://images.start.gg/images/tournament/514582/image-d62a49a55a123f823dc59d63fbcb95a6.png?ehk=qJelNauMDwRpjzgcP2u%2B8gvjM283zrneCPwN%2BVGVEew%3D&ehkOptimized=slsBT7%2Fw0yUYaVXBCqY6bbdq3WwHKI0JlTR%2BXtRQacc%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1674612000
     },
     {
@@ -38,7 +38,7 @@
       "tournament_name": "Only Noobs 102",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/513524/image-2b76e23e79e8f10ec4dca871b848421f.jpg?ehk=vOIn4D0yO%2BTvr7AfQQaNNwv6EMp2253612YT3bTbtdA%3D&ehkOptimized=S1s6zPqxENwlcMB3YNytA4T7n1yVIuZKN5s85t%2F7%2FC0%3D",
-      "entrants": 64,
+      "entrants": 69,
       "start_time": 1674604800
     },
     {
@@ -62,7 +62,7 @@
       "tournament_name": "Border Weeklies #2",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514123/image-62583a7d38d7e7e846ffd02e5a0352dc.jpg?ehk=6zpBEFNWa7%2FqbqKqCFCleOMoDL48Pg26w72FgiAc7LA%3D&ehkOptimized=g%2FU%2FEiHHgmTH9Q5NM3EildQi1ZWji9t4BCAWg51ezwY%3D",
-      "entrants": 11,
+      "entrants": 14,
       "start_time": 1674612000
     },
     {
@@ -286,7 +286,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 618,
+      "entrants": 620,
       "start_time": 1675897200
     },
     {
