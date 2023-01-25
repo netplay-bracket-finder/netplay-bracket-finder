@@ -1,30 +1,6 @@
 {
-  "fetched_at": 1674609490,
+  "fetched_at": 1674613821,
   "data": [
-    {
-      "slug": "tournament/highlight-reel-0-test-week/event/east-coast",
-      "tournament_name": "Highlight Reel #0 - Test Week",
-      "event_name": "East Coast",
-      "image": "https://images.start.gg/images/tournament/514582/image-d62a49a55a123f823dc59d63fbcb95a6.png?ehk=qJelNauMDwRpjzgcP2u%2B8gvjM283zrneCPwN%2BVGVEew%3D&ehkOptimized=slsBT7%2Fw0yUYaVXBCqY6bbdq3WwHKI0JlTR%2BXtRQacc%3D",
-      "entrants": 6,
-      "start_time": 1674604800
-    },
-    {
-      "slug": "tournament/highlight-reel-0-test-week/event/west-coast",
-      "tournament_name": "Highlight Reel #0 - Test Week",
-      "event_name": "West Coast",
-      "image": "https://images.start.gg/images/tournament/514582/image-d62a49a55a123f823dc59d63fbcb95a6.png?ehk=qJelNauMDwRpjzgcP2u%2B8gvjM283zrneCPwN%2BVGVEew%3D&ehkOptimized=slsBT7%2Fw0yUYaVXBCqY6bbdq3WwHKI0JlTR%2BXtRQacc%3D",
-      "entrants": 7,
-      "start_time": 1674612000
-    },
-    {
-      "slug": "tournament/border-weeklies-2/event/melee-singles",
-      "tournament_name": "Border Weeklies #2",
-      "event_name": "Melee Singles",
-      "image": "https://images.start.gg/images/tournament/514123/image-62583a7d38d7e7e846ffd02e5a0352dc.jpg?ehk=6zpBEFNWa7%2FqbqKqCFCleOMoDL48Pg26w72FgiAc7LA%3D&ehkOptimized=g%2FU%2FEiHHgmTH9Q5NM3EildQi1ZWji9t4BCAWg51ezwY%3D",
-      "entrants": 22,
-      "start_time": 1674612000
-    },
     {
       "slug": "tournament/epic-wednesday-doubles-7/event/melee-doubles",
       "tournament_name": "Epic Wednesday Doubles! #7",
@@ -142,7 +118,7 @@
       "tournament_name": "Sandia Hard Smash January Monthly",
       "event_name": "Melee Ladder (Free Preregistration)",
       "image": "https://images.start.gg/images/tournament/512827/image-3b6b32cc12ed645ade346145715a9782.png?ehk=8761DmTnIZv7Lmwwozi%2FqBnaD9vacsVK%2FgGU%2Fr1ZwLo%3D&ehkOptimized=vX9ASX%2B%2FRrXcfhlajih%2BPZGXejQEyHXHnyuRmcQI4hI%3D",
-      "entrants": 5,
+      "entrants": 6,
       "start_time": 1674943200
     },
     {
@@ -230,7 +206,7 @@
       "tournament_name": "Michigan Melee Fundraising Bracket",
       "event_name": "VIP - Melee Singles (Random Maps)",
       "image": "https://images.start.gg/images/tournament/515216/image-41d40dead4b96fe6d4ae21b3e457aa30.png?ehk=cx7cZLcZnixzOUg05cUmBaRy1GBrYsqsy1nvxbc09jQ%3D&ehkOptimized=x6KzL0rKl0P3sIe6XFMJ3zX0fNYTcXzR%2Be4G4ESNXGQ%3D",
-      "entrants": 0,
+      "entrants": 4,
       "start_time": 1675551600
     },
     {
@@ -239,7 +215,7 @@
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/515216/image-41d40dead4b96fe6d4ae21b3e457aa30.png?ehk=cx7cZLcZnixzOUg05cUmBaRy1GBrYsqsy1nvxbc09jQ%3D&ehkOptimized=x6KzL0rKl0P3sIe6XFMJ3zX0fNYTcXzR%2Be4G4ESNXGQ%3D",
       "entrants": 0,
-      "start_time": 1676156400
+      "start_time": 1675551600
     },
     {
       "slug": "tournament/raiser-mseries-1000-invitational/event/melee-singles",
@@ -254,7 +230,7 @@
       "tournament_name": "The Coinbox #48 (Melee)",
       "event_name": "Melee Singles",
       "image": "https://images.start.gg/images/tournament/514749/image-28e6fd13039716d5ece5a53d6f6bc740.png?ehk=GMfAfk7gYmcrNsHZsrcWxQmrjweyK1b9Jz18U5egqXg%3D&ehkOptimized=VRaCR8uMZ%2FHXCSM8jlGFIg8kNNlYn5veeMhpPLrifi8%3D",
-      "entrants": 642,
+      "entrants": 647,
       "start_time": 1675897200
     },
     {
